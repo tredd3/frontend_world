@@ -1,0 +1,169 @@
+//ADVANCED2
+
+https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823
+https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5
+https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-universal-javascript-and-why-it-matters-38c07c87905
+https://medium.com/@yej.arin.choi/this-is-a-post-that-summarizes-my-dive-into-immutability-in-programming-what-it-is-why-its-34cbba44f889
+https://developers.google.com/web/progressive-web-apps/
+https://2ality.com/2015/01/es6-maps-sets.html
+
+//JS design patterns
+https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+Each of the design patterns represents a specific type of solution to a specific type of problem
+Constructor Pattern  -  object creation using function and new keyword
+ modules(IIFE+closures) - we can create objects with private and public parts. These are calledÊmodules
+Revealing Module Pattern - entire object logic in the private scope of the module and then simply expose the parts we want to be public by returning an anonymous object
+Singleton Pattern -  used in scenarios when we need exactly one instance of a class like config object
+Observer Pattern - communication between disparate parts of our system
+publisher/subscriber promotes even more loose coupling then the observer pattern does. This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.Ê Instead of using callbacks there is a more elegant way of doing things.
+Mediator Pattern - A mediator is an object which is used as a central point for communication between disparate parts of a system and handles the workflow between them. e.g: Redux
+Command Pattern - The command pattern is useful in cases when we want to decouple objects executing the commands from objects issuing the commands. Like separate the objects calling an API service from the objects which are telling themÊwhenÊto call the API service.
+Facade Pattern - The facade pattern is used when we want to create an abstraction layer between what is shown publicly and what is implemented behind the curtain like query and other libraries interfaces.
+
+Initially we used to use this patterns but now it has been replaced by new stuff like Mediator Pattern  by Redux, Observer Pattern  by Promise, Constructor Pattern by class
+
+//functions in js
+There are two ways to define JS functions:Êdeclarations andÊ expressions.  Declarations are hoisted but expressions are not. I.e they can be used even before declaration.
+// declaration
+function addOne(foo) {
+  return foo + 1
+}
+
+// expression
+var addOne = function(foo) {
+  return foo + 1
+}
+
+//currying - splitting up a function that takes multiple arguments (params) into a sequence of functions that each take an individual argument.
+const sum = function(a) {
+  return function(b) {
+    return a + b
+  }
+}
+sum(3)(4)
+// no curry
+const sum = (a, b) => a + b
+
+// curry
+const sum = a => b => a + b
+
+//SEO
+
+
+Static assets: Assets which you donÕt create  dynamically with server-side code. e.g: html, js, css, images etc
+
+Service worker: proxy server , which intercepts your network request and hence runs only on https for security purposes.
+It is specific to origin . Multiple js files in an origin can use the data/service provided by the service worker.
+It is event driven and It is designed to be fully async hence it uses promises heavily .
+A service worker is run in a worker context: it therefore has no DOM access, and runs on a different thread different from the main JavaScript thread, so it is not blocking. 
+Cache storage API- Provides a master directory of all the named caches that can be accessed by aÊServiceWorker
+Service workers are also intended to be used for such things as:
+* Background data Synchronization(web to server and vice versa) Start up a service worker even when no users are at the site, so caches can be updated,
+* Responding to resource requests from other origins.
+* Receiving Centralized updates to expensive-to-calculate data such as geolocation or gyroscope, so multiple pages can make use of one set of data.
+* Push notifications handling
+* offline experiences (by serving files from cache)
+* Performance enhancements, for example pre-fetching resources that the user is likely to need in the near future, such as the next few pictures in a photo album
+* service workers will be able to do a number of other useful things for the web platform that will bring it closer towards native app viability.
+
+
+memoization or Memoisation is an Optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.
+Immutable.jsÊis a data structure library built by Facebook to work with React Ñ and it uses Structural Sharing(reduces time and space in copying nested data structures)
+Numbers ,strings are are also immutable structuresÊ
+Let x=4
+Let y=x (value is copied)
+x=8
+//y=4
+//x=8
+Array, object, function, class, maps, sets are mutable 
+Let u ={d:8,k:9}
+Let v=u (v references  u but the object is not copied )
+
+Why immutable.js???
+If you use Immutability, you are always creating a copy of the old data structure and applying the changes to the copy instead of changing the original data structure!
+In Redux we do the same thing. But if you had multiple nested levels of objects/arrays then immutable.js comes to help
+1)Easier to Debug : immutability stresses removing all side-effects and usingÊpure functions
+2)Easier Deep Value Comparisons: you can just compare the memory locations of the data structures to see if their values are the same or not (instead of having to traverse deeply into the data structure)
+3)easier to manage concurrency (without locks or snapshots)
+Immutable.fromJS()Êmethod converts any nested object/array into Immutable Map/List
+
+IsomorphismÊ- rendering pages on both the server and client side. It usually implies the use of JavaScript and Node.js/Io.js because they allow for the re-use of libraries.
+Whenever you visit a website, your browser makes a request to the server that contains the contents of the website.ÊThe request depends on multiple factors
+* 		Your internet speed
+* 		the location of the server
+* 		how many users are trying to access the site
+* 		and how optimized the website is, to name a few
+isomorphism address the issues of SEO, performance, and maintainability
+
+Server side rendering pros:
+* Search engines can crawl the site for better SEO as the content is already present.
+* The initial page load is faster and aft
+* Great for static sites.
+* Used for campaigns and marketting as the content is controllable from server
+Server-side cons:
+* Frequent server requests.
+* Full page reloads.
+* Non-rich site interactions.
+
+Client-side pros:
+* get the skeleton from server and dynamically render content using react/ js
+* Fast website rendering after the initial load.
+
+Client-side cons:
+* Low SEO if not implemented correctly. (Use metatags)
+* Initial load might require more time bcoz of use of  an external library.
+
+HooksÊare functions that let you ÒhookÊintoÓÊReactÊstate and lifecycle features from function components. e.g: useState
+
+setState is asynchronous
+Wrong way:
+constructor(props) {
+  super(props);
+  this.state = {
+   isFiltered: false
+  };
+ }
+ toggleFilter = () => {
+  this.setState({
+   isFiltered: !this.state.isFiltered
+  });
+  this.filterData();
+ };
+ 
+ filterData = () => {
+  // this.state.isFiltered should be true, but it's not
+  if (this.state.isFiltered) {
+   // Do some filtering
+  }
+ };
+
+Option 1: Passing the stateÊdown
+toggleFilter = () => {
+ const currentFilterState = !this.state.isFiltered;
+ this.setState({
+  isFiltered: currentFilterState
+ });
+ this.filterData(currentFilterState);
+};
+filterData = (currentFilterState) => {
+ if (currentFilterState) {
+  // Do some filtering
+ }
+};
+
+Option 2: The secondary function to the callback ofÊsetState
+toggleFilter = () => {
+ this.setState((prevState) => ({
+  isFiltered: !prevState.isFiltered
+ }), () => {
+  this.filterData();
+ });
+};
+filterData = () => {
+  if (this.state.isFiltered) {
+   // Do some filtering
+  }
+};
+
+
+

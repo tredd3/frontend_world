@@ -1,0 +1,143 @@
+
+//Factory Functions vs Constructor Functions vs Classes
+In JavaScript, any function can return a new object. When it’s not a constructor function or class, it’s called a factory function.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
+
+*A prototype-based language has the notion of a prototypical object, an object used as a template from which to get the initial properties for a new object.
+ Any object can specify its own properties, either when you create it or at run time. In addition, any object can be associated as the prototype for
+ another object, allowing the second object to share the first object's properties
+
+*JS is a object based language and not a class based language.
+ES6 classes are primarily syntactical sugar over JavaScript's existing prototype-based inheritance.
+The class syntax does not introduce a new object-oriented inheritance model to JavaScript.
+new operator in association with the constructor method to create class instance / new operator with a constructor function to create a new object.
+var Jane = new Engineer('Doe, Jane'); //Jane is a pointer to the new object created
+The new operator creates a generic object and sets its __proto__ property to Engineer.prototype.
+The new operator passes the new object to the Engineer constructor as the value of the this keyword.
+
+
+*In class-based languages, you typically create a class at compile time and then you instantiate instances of the class either at compile time 
+or at run time. You cannot change the number or the type of properties of a class after you define the class.
+In JavaScript, however, at run time you can add or remove properties of any object // dynamic inheritance is possible
+
+*The instanceof operator tests whether the prototype property of a constructor appears anywhere in the prototype chain of an object.
+function Car(make, model, year) {
+  this.make = make;
+  this.model = model;
+  this.year = year;
+}
+var mycar = new Car('Honda', 'Accord', 1998);
+var a = mycar instanceof Car;    // returns true
+var b = mycar instanceof Object; // returns true
+
+*Some object-oriented languages allow multiple inheritance. That is, an object can inherit the properties and values from unrelated parent objects. 
+JavaScript does not support multiple inheritance.
+However in a constructor function we can call multiple constructor functions but ONLY one constructor prototype chain can be linked to __proto__
+
+*Boilerplate code - sections of code that have to be included in many places with little or no alteration
+
+//REACT VS ANGULAR VS VUE
+REACT - virtual DOM
+Built for large and complex web apps 
+HTML ,CSS and JS all clubbed in to one component
+Virtual DOM - only updating parts of the DOM that changed instead of rendering the whole DOM
+React hooks lets you use every important feature of React – server-side rendering, accessibility, concurrent mode, and suspense – all without writing a class.
+React doesn't deep compare and hence never mutate state or props | Immutable data cannot be changed once created
+https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56
+VUE - 
+Easy to learn, lightweight, integration in the existing	projects, excellent documentation, virtual DOM, security, separation of HTML,CSS and JS
+ideal for startups and can also be used for large web apps
+Vue has official packages for state management, routing, or server-side rendering. unlike React where u are free to use anything
+Angular - Everything is available inbuilt. In react u can choose from many options
+
+
+
+
+//JS array methods - arrays are mutable
+Array.from(arrayLike[, mapFn[, thisArg]]) - An array-like or iterable object to convert to an array.
+
+
+
+//databases are best for data and the file system(storage/hard disk) is best for files.
+some pros and cons involved in saving the files in the file system and database.
+//Pros of the File system:
+*Saving the files and downloading them in the file system is much simpler than database since a simple Save as function will help you out. 
+Downloading can be done by addressing an URL with the location of the saved file.
+*Migrating the data is an easy process here. You can just copy and paste the folder to your desired destination 
+*Easy to migrate it to Cloud storage like Amazon S3 or CDNs etc in the future.
+//Cons of the File system: security | hackers can hack into ur system and delete/edit the files but that can be overcome by choosing proper folder structure and permissions
+//When is it most preferred: Large files of size more than 5MB and the massive number say thousands of file uploads.   
+
+//Pros of Database: rollback of an update , More Secure than saving in a File System
+//Cons of Database: You may have to convert the files to blob in order to store it in db , large files make db heavy, if so many users are accessing 
+the same image then we Should not store  it in db.
+If you're storing images for a web page then it's best to store them as a file on the server. The web server will very quickly find an image file and
+send it to a visitor. Sending files to visitors is the main job of a web server.
+If you were to store the same image in a database then the amount of steps to get to this image is greatly increased so the image will be slower 
+to download. Also it will use up more server resources. The web server will have to connect to the database and then query the database to get the 
+image, download the image from the database and then send the visitor the image
+//When is it most preferred:security of the file is the utmost concern like Aadhar, If your application will not demand a large number of files from a large number of users.
+
+//BLOB(binary large object) - collection of binary data stored as a single entity in a database management systems (DBMS). BLOBs are used primarily to hold 
+multimedia objects such as images, videos, and sound, though they can also be used to store programs or even fragments of code
+//DB indexing : Indexing is a way of sorting a number of records on multiple fields. Creating an index on a field in a table creates another data structure 
+which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
+performed on it.
+
+//mongodb vs sql
+*SQL requires that you use predefined schemas to determine the structure of your data before you work with it. In addition, all of your data must follow the same structure
+*NoSQL databases, on the other hand, have dynamic schemas for unstructured data, and data is stored in many ways: They can be column-oriented, 
+document-oriented, graph-based or organized as a KeyValue store. 
+**scalability
+In most situations, SQL databases are vertically scalable, which means that you can increase the load on a single server by increasing things like 
+CPU, RAM or SSD. NoSQL databases, on the other hand, are horizontally scalable. This means that you handle more traffic by sharding, 
+or adding more servers in your NoSQL database.
+*The Structure
+SQL databases are table-based, while NoSQL databases are either document-based, key-value pairs, graph databases or wide-column stores.
+*Some examples 
+SQL databases include MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
+NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and CouchDB
+
+
+//java vs node
+*Node.js is NOT a programming language. It is also not a framework. Node.js is an open-source, cross-platform JavaScript (JS) run-time environment that executes JavaScript code outside of a browser
+*Node is for simple, fast and scalable and real-time applications. Java is for highly complex and concurrent apps.
+*Node for I/O-intensive apps that include a lot of disk or network access, therefore we can serve more clients, without the need of throwing more hardware.
+ And that is why Node applications are highly scalable.
+*Node shouldn’t be used for CPU-intensive applications (video encoding, image manipulation service etc.) as it is single threaded (worker threads can help)
+*Java is platform independent due to the so-called Java Virtual Machine – the environment where Java code is executed.
+Node.js has modules that are tied to the operating system. When you need the software to run on another platform, you will have to rebuild the modules, so that they are compatible with the new OS.
+
+
+//error handling
+class ValidationError extends Error {
+  constructor(message) {
+    super(message)
+    this.name = 'ValidationError'
+    this.message = message
+  }
+}
+class PermissionError extends Error {
+  constructor(message) {
+    super(message)
+    this.name = 'PermissionError'
+    this.message = message
+  }
+}
+class DatabaseError extends Error {
+  constructor(message) {
+    super(message)
+    this.name = 'DatabaseError'
+    this.message = message
+  }
+}
+
+const { ValidationError } = require('./error')
+function myFunction(input) {
+   if (!input)
+     throw new ValidationError('A validation error')
+   return input
+}
+
+
+

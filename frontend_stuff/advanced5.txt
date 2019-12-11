@@ -1,0 +1,109 @@
+//ADVANCED 5
+DEVOPS stages:
+1.Version control - source code management	
+2.Continous Integration(CI) (Dev mode)- creating a build - after compiling, code review, unit testing(testing each part), integration testing(testing all parts together)
+Since everything is automated in devops it is called continuous
+JENKINS Is used here
+3.Continous Delivery (QA mode)- deploying the build to test servers for UAT
+4.Continous Deployment (customer mode) - deploying the build to prod servers
+Docker is used here 
+Docker image consists of all the project code
+Docker container replicates production environment where we can deploy our code and test
+
+//Web server - tomcat, apache, nginix
+ When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the HTTP server (software) accepts request, finds the requested document (if it doesn't then a 404 response is returned), and sends it back to the browser, also through HTTP.
+static web server - the server sends its hosted files "as-is" to your browser
+dynamic web server -  static web server + extra software, most commonly an application server and a database. We call it "dynamic" because the application server updates the hosted files before sending them to your browser via the HTTP server.
+
+//NGINIX - reverse proxy, caching, load balancing
+**REVERSE PROXY is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, 
+appearing as if they originated from the proxy server itself.
+**CACHING
+What is application cache - When a slower external data source is used, frequently accessed data is often moved temporarily to a faster storage that is closer to the application 
+Cache is used to reduce the time needed to access data stored outside of the application’s main memory space.
+Why cache? - performance, speed, decrease latency , increase throughput and  also  reduce load on the main servers
+for how much Time?- configurable
+kind of data in  cache - Configuration settings, Reusable results of compute-intensive functions, static content(HTML,JS,CSS), DBMS data(replies to expensive queries from the DBMS),
+API responses
+An application component uses the API to make requests for service from other components, whether inside (e.g. in a micro-services architecture) or outside the application itself. 
+Every request will hit the cache and  the response is served. If the response is not present then main memory servers will be hit, response is stored in the cache and then it is served
+Application cache types: 
+
+push notifications can appear anytime, in-app notifications only appear while someone is using the app
+An iframe is used to display a web page within a web page.
+
+
+//questions
+Walkthrough needed
+this care section goes in how many apps ? merchant care JPM App  details (is it an APP in POS device)
+Is in app notification already implemented in POS App or is it specific to react APP
+Backend dev POC - for JSON contract
+
+
+//challenges
+video - full screen portrait mode, length of the video watched, no of times video watched
+
+//In app notification - with message and with video link
+//Integration with the POS app (token, merchant data) - discuss with Akash
+
+//estimate - days
+POCs - 2 days
+till 9th Page  - 3
+View solutions - 1
+Learn yourself  and Video display page- 2
+Service request - 2
+
+//estimate
+My orders  - 1 +1
+Customer orders -  1
+Notification - 2
+
+Total -  10 days  - roughly 2 weeks (if req icons r provided and backend APIs r working fine)
+
+
+import * as React from "react";
+import Movie from "./random_video.mp4"
+
+class HomePage extends React.Component {
+
+    constructor(props) {
+        super(props);
+    }
+
+    render() {
+        return (
+            <div>
+                <iframe title="video2" width="420" height="345" src={Movie}>
+                </iframe>
+                <video width="320" height="240" controls>
+                    <source src={Movie} type="video/mp4" />
+                    <source src="movie.ogg" type="video/ogg" />
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        );
+    }
+}
+
+// mapStateToProps is function receives the entire store state, and returns an object of data
+// this component needs. It is called every time the store state changes and Login component gets updated
+// function mapStateToProps(state) {
+//     return { userAddress: "Deliver to Sachin at RT Nagar, Bangalore, 560024" }
+// }
+
+export default HomePage;
+
+//Network Requests
+ASCII characters - Codes 0 through 127  (all keyboard chars)
+NON ASCII characters - Codes 128 through 255 ()
+x-www-form-urlencoded - to send simple text/ ASCII data
+form-data - to send non-ASCII text or large binary data like files and image uploading
+Raw if you want to send plain text /JSON/XML
+Binary - non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
+
+REST Architecture - JSON ,CACHING, LESS BANDWIDTH,
+API - programs built on different platforms and programming languages could exchange data in an easy manner.
+
+
+
+
