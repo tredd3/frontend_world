@@ -1,0 +1,15 @@
+let array = [];
+Array.prototype.arryMethods = {
+
+}
+
+
+//JS array methods - arrays are mutable
+Array.from(arrayLike[, mapFn[, thisArg]]) - An array-like or iterable object to convert to an array.
+
+
+
+//find a peak - O(logn)
+
+
+//find a peak in 2d array n*m - O(nlogm)

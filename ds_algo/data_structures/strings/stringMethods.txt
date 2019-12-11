@@ -29,9 +29,13 @@ var str = "Mr Blue has a blue house and a blue car";
 var res = str.replace(/blue|house|car/gi, function (x) {
   return x.toUpperCase();
 }); //Mr BLUE has a BLUE HOUSE and a BLUE CAR
+//one more way
+function replaceString(oldS, newS, fullS) {
+  return fullS.split(oldS).join(newS);
+}
 
 *str.slice(beginIndex, endIndex) - endIndex char is not included | if beginIndex or endIndex is -ve it is treated as string_length+index | last char indexed as -1
-*
+*str.substring(beginIndex, endIndex) - Any argument value that is less than 0 or greater than stringName.length is treated as if it were 0 and stringName.length respectively.
 "1234".substring(-2, -1) == "1234".substring(0,0) == ""
 "1234".slice(-2, -1) == "1234".slice(2, 3) == "3" 
 "1234".substring(3,2) == "1234".substring(2,3) == "3"

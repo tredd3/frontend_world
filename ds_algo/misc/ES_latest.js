@@ -208,7 +208,14 @@ var str = "   hello    ";
 str.trimStart() // "hello    "
 //The trimEnd() method removes whitespace from the end of a string.
 str.trimEnd() // "   hello"
-
+//The trim() method removes whitespace from both sides of a string.
+str.trim() // "hello"
+//polyfill code
+if (!String.prototype.trim) {
+    String.prototype.trim = function () {
+        return this.replace(/^\s+|\s+$/gm, '');
+    };
+}
 
 //use catch without params
 try {

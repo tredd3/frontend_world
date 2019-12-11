@@ -1,0 +1,53 @@
+//JavaScript is a loosely typed or a dynamic language
+//Variables in JavaScript are not directly associated with any particular value type, and any 
+//variable can be assigned (and re-assigned) values of all types:
+let foo = 42;    // foo is now a number
+foo = 'bar'; // foo is now a string
+foo = true;  // foo is now a boolean
+
+//ECMAScript standard defines 8 data types (7 primitive + object)
+//primitive(immutable): Boolean, Null, Undefined, Number, BigInt, String, Symbol
+42 / +0 //Infinity
+42 / -0 //-Infinity
+
+//Number
+//number type has three symbolic values: +Infinity, -Infinity, and NaN 
+//- (2 ^ 53 - 1) and(25 ^ 3 - 1)
+
+//BigInts
+you can safely store and operate on large integers even beyond the safe integer limit for Numbers.
+const x = 2n**53n; //9007199254740992n
+const y = x + 1n; 
+
+//Strings
+never use strings to represent complex data as they are immutable
+even though string is used to represent any complex data structure
+only Use strings for textual data. When representing complex data, parse strings and use the 
+appropriate abstraction like parse JSON and use object as it is mutable
+
+//Symbols
+symbols let you configure how JS treats an object, by using them as property keys. Examples of 
+well-known symbols are: Symbol.iterator for array-like objects, or Symbol.search for string objects.
+
+//Objects
+object is a mapping between keys and values. Keys are strings (or Symbols) and values can be anything. 
+This makes objects a natural fit for hashmaps.
+
+//Arrays and typed Arrays
+Arrays a perfect candidate to represent lists or sets
+Typed Arrays present an array-like view of an underlying binary data buffer. 
+
+//Keyed collections: Maps, Sets, WeakMaps, WeakSets
+Maps and Sets can be implemented in ES5 as well but the look up time is linear.
+In ES6 implementation of Map and Set the lookup time is logarithimic
+
+//Set and WeakSet represent a set of objects
+Set - 
+WeakSet - 
+
+// Map and WeakMap associate a value to an object.
+Usually, to bind data to a DOM node, one could set properties directly on the object or use data-* attributes. 
+This has the downside that the data is available to any script running in the same context.
+Maps and WeakMaps make it easy to privately bind data to an object.
+Map - 
+WeakMap - garbage collection optimization

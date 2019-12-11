@@ -51,13 +51,6 @@ Vue has official packages for state management, routing, or server-side renderin
 Angular - Everything is available inbuilt. In react u can choose from many options
 
 
-
-
-//JS array methods - arrays are mutable
-Array.from(arrayLike[, mapFn[, thisArg]]) - An array-like or iterable object to convert to an array.
-
-
-
 //databases are best for data and the file system(storage/hard disk) is best for files.
 some pros and cons involved in saving the files in the file system and database.
 //Pros of the File system:
