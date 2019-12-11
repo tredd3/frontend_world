@@ -1,0 +1,49 @@
+//JS string - strings are immutable in JS, I.e all methods return a new string
+*str.charAt(index) - returns the character at the specified index in a string
+
+*str.concat(str1,str2,...) - assignment operators(+,+=) are several times faster than concat
+If str1,str2 etc are not strings then they are converted into strings before concatenation.
+
+*str.endsWith(searchvalue, length) - returns true if the match is found at the end| if length not specified it takes the whole string length
+*str.startsWith(searchvalue, position) - returns true if the match is found at the beginning
+
+*str.includes(searchvalue, start) - returns true if the match is found | if start not specified it searches from the beginning 
+
+*str.indexOf(searchValue, start) - returns index of first occurrence | start<0 searches from 0 position and start>str.length returns -1
+
+*str.lastIndexOf(searchvalue, start) - The position where to start the search (searching backwards)| start<0 returns -1 and start>str.length searches whole string from last index
+
+*str.match(regexp) if the g flag is not used, only the first complete match is returned in an array| returns null if no match is found
+regexp = /[A-E]/gi | 
+str1.match("number") - When the parameter is a string or a number, it is implicitly converted to a RegExp by using new RegExp(obj).
+
+*str.search(regexp) returns index(-1 if not found) - If a non-RegExp object obj is passed, it is implicitly converted to a RegExp
+regexp.test() method to know if pattern exists in a string
+
+*str.replace(regexp|string, newSubstr|function)
+If pattern is a regexp with a g flag all matches are replaced, if pattern is a string only first match is replaced
+var string = "john john";
+console.log(string.replace(/hn/, "ana")); // "joana john"
+console.log(string.replace(/hn/g, "ana")); // "joana joana"
+var str = "Mr Blue has a blue house and a blue car";
+var res = str.replace(/blue|house|car/gi, function (x) {
+  return x.toUpperCase();
+}); //Mr BLUE has a BLUE HOUSE and a BLUE CAR
+
+*str.slice(beginIndex, endIndex) - endIndex char is not included | if beginIndex or endIndex is -ve it is treated as string_length+index | last char indexed as -1
+*
+"1234".substring(-2, -1) == "1234".substring(0,0) == ""
+"1234".slice(-2, -1) == "1234".slice(2, 3) == "3" 
+"1234".substring(3,2) == "1234".substring(2,3) == "3"
+"1234".slice(3,2) == ""
+
+
+*str.split(separator, limit) //separator not included in the result
+var str = "How are you doing";
+str.split(); //["How are you doing"]
+str.split(''); //[H,o,w, ,a,r,e, ,y,o,u, ,d,o,i,n,g]
+str.split(' '); //[How,are,you,doing]
+str.split(' '),3; //[How,are,you]
+const myString = 'Hello 1 word. Sentence number 2.'; 
+//if capturing paranthesis used in regex then splits are also included 
+const splits = myString.split(/(\d)/); //[ "Hello ", "1", " word. Sentence number ", "2", "." ]
