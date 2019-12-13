@@ -1,0 +1,38 @@
+//promise is a wrapper around async task
+//A Promise is in one of these states:
+pending: initial state, neither fulfilled nor rejected.
+fulfilled: meaning that the operation completed successfully.
+rejected: meaning that the operation failed.
+
+function myAsyncFunction(url) {
+    return new Promise((resolve, reject) => {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", url);
+        xhr.onload = () => resolve(xhr.responseText);
+        xhr.onerror = () => reject(xhr.statusText);
+        xhr.send();
+    });
+}
+
+//methods
+*Promise.all(iterable) - Wait for all promises to be resolved, or for any to be rejected.
+If the returned promise resolves, it is resolved with an aggregating array of the values from the resolved promises in the same order as defined in the iterable of multiple promises
+*Promise.allSettled(iterable) - Wait until all promises have settled (each may resolve, or reject).
+*Promise.race(iterable) - Wait until any of the promises is resolved or rejected.
+*Promise.reject(reason) - Returns a new Promise object that is rejected with the given reason.
+*Promise.resolve(value) - Returns a new Promise object that is resolved with the given value
+.then(), .catch() and .finally() methods returns a new promise
+
+
+//generator
+function* countAppleSales () {
+  var saleList = [3, 7, 5];
+  for (var i = 0; i < saleList.length; i++) {
+    yield saleList[i];
+    console.log(i)
+  }
+}
+
+var appleStore = countAppleSales(); // Generator { }
+console.log(appleStore.next()); // { value: 3, done: false } //1
+console.log(appleStore.next()); // { value: 7, done: false } //2

@@ -26,28 +26,274 @@ only Use strings for textual data. When representing complex data, parse strings
 appropriate abstraction like parse JSON and use object as it is mutable
 
 //Symbols
+https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c
+const s1 = Symbol('debug'); // first argument is for debugging purposes
+const s1 = Symbol();
+const s2 = Symbol();
+console.log(s1 === s2); // false
+const obj = {};
+const sym = Symbol();
+obj[sym] = 'foo';
+obj.bar = 'bar';
+console.log(obj); // { bar: 'bar' }
+console.log(obj[sym]); // foo
+console.log(obj[Symbol()]); //Undefined
+console.log(Object.keys(obj)); // ['bar']
+JSON.stringify(obj) //"{"bar":"bar"}"
+Reflect.ownKeys(obj) method is able to get a list of all keys on an object, both strings and symbols
 symbols let you configure how JS treats an object, by using them as property keys. Examples of 
 well-known symbols are: Symbol.iterator for array-like objects, or Symbol.search for string objects.
+USES : 
+By making use of symbols, each library can generate their required symbols upon instantiation. 
+most common indirectly is their use to create object linkages.
+
 
 //Objects
 object is a mapping between keys and values. Keys are strings (or Symbols) and values can be anything. 
 This makes objects a natural fit for hashmaps.
+**methods
+*Object.assign() - Copies the values of all enumerable own properties from one or more source objects to a target object.
+*Object.create() - Creates a new object with the specified prototype object and properties.
+*Object.entries() - Returns an array containing all of the [key, value] pairs of a given object's own enumerable string properties.
+const obj = { foo: 'bar', baz: 42 };
+Object.entries(obj).forEach(([key, value]) => console.log(`${key}: ${value}`));
+const obj = { foo: 'bar', baz: 42 }; 
+const map = new Map(Object.entries(obj));
+console.log(map); // Map { foo: "bar", baz: 42 }
+*Object.fromEntries() - Returns a new object from an iterable of [key, value] pairs. (This is the reverse of Object.entries).
+const map = new Map([ ['foo', 'bar'], ['baz', 42] ]);
+const obj = Object.fromEntries(map);
+console.log(obj); // { foo: "bar", baz: 42 }
+*Object.keys() - Returns an array containing the names of all of the given object's own enumerable string properties.
+*Object.values() - Returns an array containing the values
+*Object.seal() - Prevents other code from deleting properties of an object.
+*Object.freeze() - Freezes an object. Other code cannot delete or change its properties.
 
-//Arrays and typed Arrays
-Arrays a perfect candidate to represent lists or sets
-Typed Arrays present an array-like view of an underlying binary data buffer. 
+**private properties on an object
+A proxy essentially wraps an object and offers many ways to intercept actions performed on an object
+
+let proxy;
+
+{
+  const favBook = Symbol('fav book');
+
+  const obj = {
+    name: 'Thomas Hunter II',
+    age: 32,
+    _favColor: 'blue',
+    [favBook]: 'Metro 2033',
+    [Symbol('visible')]: 'foo'
+  };
+
+  const handler = {
+    ownKeys: (target) => {
+      const reportedKeys = [];
+      const actualKeys = Reflect.ownKeys(target);
+
+      for (const key of actualKeys) {
+        if (key === favBook || key === '_favColor') {
+          continue;
+        }
+        reportedKeys.push(key);
+      }
+
+      return reportedKeys;
+    }
+  };
+
+  proxy = new Proxy(obj, handler);
+}
+
+console.log(Object.keys(proxy)); // [ 'name', 'age' ]
+console.log(Reflect.ownKeys(proxy)); // [ 'name', 'age', Symbol(visible) ]
+console.log(Object.getOwnPropertyNames(proxy)); // [ 'name', 'age' ]
+console.log(Object.getOwnPropertySymbols(proxy)); // [Symbol(visible)]
+
+//Indexed collections: Arrays and typed Arrays
+These objects represent collections of data which are ordered by an index value.
+**Arrays a perfect candidate to represent lists or sets
+*Neither the length of a JavaScript array nor the types of its elements are fixed.
+*Arrays cannot use strings as element indexes (as in an associative array) but must use integers.
+*Setting or accessing via non-integers using bracket notation (or dot notation) will not set or retrieve
+element from the array list itself, but will set or access a variable associated with that array's object property collection. 
+var y=[9,0,90,91]
+y["t"]="tarak" //[9, 0, 90, 91, t: "tarak"]
+for(var i=0;i<y.length;i++){
+    console.log(y[i])
+} //[9, 0, 90, 91]
+console.log(years[2] != years['02']); //The 2 in years[2] is coerced into a string by the JavaScript engine through an implicit toString conversion
+Increasing the length adds empty elements in the gap.Decreasing the length property deletes elements.
+
+
+**Typed Arrays are array-like objects that provide a mechanism for reading and writing raw binary data in memory buffers/blobs
+raw binary data - audio, video, image, file
+Each entry in a JavaScript typed array is a raw binary value 
+Not all methods available for normal arrays are supported by typed arrays 
+convert typed array in to an array using Array.prototype.slice.call(typedArray);
+**The ArrayBuffer is a data type that is used to represent a generic, fixed-length binary data buffer. 
+You can't directly manipulate the contents of an ArrayBuffer; instead, you create a typed array view 
+or a DataView which represents the buffer in a specific format, and use that to read and write the contents of the buffer.
+Typed array views are in the native byte-order of your platform. With a DataView you are able to control the byte-order.
+new ArrayBuffer(length) - creates a new ArrayBuffer in the memory of the given length in bytes and intialises them to 0
+var buffer = new ArrayBuffer(8);
+var view   = new Int32Array(buffer);//reads 32 bits at a time 8*8/32 = 2 items in the array[0,0] 
+each item represented as 32 bits | treats the data in the buffer as an array of 32-bit signed integers 
+var view   = new Float64Array(buffer);//reads 64 bits a time [0] - each item represented as 64 bits
 
 //Keyed collections: Maps, Sets, WeakMaps, WeakSets
 Maps and Sets can be implemented in ES5 as well but the look up time is linear.
 In ES6 implementation of Map and Set the lookup time is logarithimic
-
-//Set and WeakSet represent a set of objects
-Set - 
-WeakSet - 
+Map data structure was created in part to allow for key/value storage in situations where a key is not a string
 
 // Map and WeakMap associate a value to an object.
 Usually, to bind data to a DOM node, one could set properties directly on the object or use data-* attributes. 
 This has the downside that the data is available to any script running in the same context.
 Maps and WeakMaps make it easy to privately bind data to an object.
-Map - 
-WeakMap - garbage collection optimization
+
+**Map - Map object holds key-value pairs and remembers the original insertion order of the keys. 
+Any value (both objects and primitive values) may be used as either a key or a value.
+iterating over a Map object returns keys in order of insertion.
+A Map may perform better in scenarios involving frequent addition and removal of key pairs.
+var map=new Map([iterable])//An Array or other iterable object whose elements are key-value pairs
+map.size
+map.clear()
+map.set(key, value)
+map.delete(key)
+map.entries()
+map.get(key)
+map.has(key)
+map.keys() //returns iterator so we can use for of loop
+map.values() //returns iterator so we can use for of loop
+for (var [key, value] of myMap) {
+  console.log(key + ' = ' + value);
+}
+var first = new Map([
+  [1, 'one'],
+  [2, 'two'],
+  [3, 'three'],
+]);
+var copy=new Map(first);// copy the map
+var second = new Map([
+  [1, 'uno'],
+  [2, 'dos']
+]);
+
+// Merge two maps. The last repeated key wins.
+// Spread operator essentially converts a Map to an Array
+var merged = new Map([...first, ...second]);
+
+
+**WeakMap - garbage collection optimization
+Keys of WeakMaps are of the type Object only. Primitive data types as keys are not allowed
+WeakMaps hold "weak" references to key objects, which means that they do not prevent garbage collection in case there would be no other reference to the key object.
+Because of references being weak, WeakMap keys are not enumerable
+only 4 methods - delete,has,get,set
+
+
+//Set and WeakSet represent a set of objects
+**Set - Set object lets you store unique values of any type, whether primitive values or object references
+var set=new Set([iterable])
+set.size
+set.clear()
+set.add(value)
+set.delete(key)
+set.entries()//for map and set order of insertion is retained but in object it is not gauranteed
+set.has(value)
+set.keys() and set.values()//returns iterator so we can use for of loop
+// converting between Set and Array
+mySet2 = new Set([1, 2, 3, 4]);
+var copy=new Set(mySet2);// copy the set
+mySet2.size; // 4
+[...mySet2]; // [1, 2, 3, 4]
+// Use to remove duplicate elements from the array 
+const numbers = [2,3,4,4,2,3,3,4,4,5,5,6,6,7,5,32,3,4,5]
+console.log([...new Set(numbers)]) // [2, 3, 4, 5, 6, 7, 32]
+
+**WeakSet - garbage collection optimisation
+WeakSet objects are collections of objects. An object in the WeakSet may occur only once; it is unique in the WeakSet's collection.
+var ws = new WeakSet();
+var foo = {};
+var bar = {};
+
+ws.add(foo);
+ws.add(bar);
+
+ws.has(foo);    // true
+ws.has(bar);    // true
+
+ws.delete(foo); // removes foo from the set
+ws.has(foo);    // false, foo has been removed
+ws.has(bar);    // true, bar is retained
+
+//iterator and iterable
+**The iterable protocol - allows JavaScript objects to define or customize their iteration behavior
+In order to be iterable, an object must implement Symbol.iterator method
+Whenever an object needs to be iterated (such as at the beginning of a for..of loop), its @@iterator method is called with no arguments, 
+and the returned iterator is used to obtain the values to be iterated.
+**The iterator protocol defines a standard way to produce a sequence of values (either finite or infinite),
+An object is an iterator when it implements a next() method //A zero arguments function that returns an object with at least two properties done and value
+
+**object is not iterable by default but  it can be made iterable by implementing iterable and iterator protocol
+var myIterator = {
+    next: function() {
+        //...
+        return{
+            done:false,
+            value:""
+        }
+    },
+    [Symbol.iterator]: function() { return this }
+};
+
+**built-in iterable objects - String, Array, TypedArray, Map and Set
+var someString = 'hi';
+var iterator = someString[Symbol.iterator]();
+iterator.next();                             // { value: "h", done: false }
+iterator.next();                             // { value: "i", done: false }
+iterator.next();                             // { value: undefined, done: true }
+
+var myIterable = {};
+myIterable[Symbol.iterator] = function* () {
+    yield 1;
+    yield 2;
+    yield 3;
+};
+[...myIterable]; // [1, 2, 3]
+
+**customising iteration behaviour
+var someString = new String('hi');// need to construct a String object explicitly to avoid auto-boxing
+
+someString[Symbol.iterator] = function() {
+  return { // this is the iterator object, returning a single element, the string "bye"
+    next: function() {
+      if (this._first) {
+        this._first = false;
+        return { value: 'bye', done: false };
+      } else {
+        return { done: true };
+      }
+    },
+    _first: true
+  };
+};
+
+//for-of loops, spread syntax, yield*, and destructuring assignment:
+for(let value of ['a', 'b', 'c']){
+    console.log(value);
+}
+// "a"
+// "b"
+// "c"
+
+[...'abc']; // ["a", "b", "c"]
+
+function* gen() {
+  yield* ['a', 'b', 'c']; //
+}
+var iterator=gen()
+iterator.next(); // { value:"a", done:false }
+iterator.next(); // { value:"b", done:false }
+iterator.next(); // { value:"c", done:false }
+
+[a, b, c] = new Set(['a', 'b', 'c']);
+a // "a"
