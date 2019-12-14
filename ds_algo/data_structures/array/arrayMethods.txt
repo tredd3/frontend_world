@@ -11,6 +11,77 @@ Array(7);          // array of 7 empty slots
 Array(1, 2, 3);    // [1, 2, 3]
 
 
+**Mutator methods - These methods modify the array
+*arr.copyWithin(target,start,end)- Copies a sequence of array elements within the array.
+*arr.fill(value,start,end) - Fills all the elements of an array from a start index to an end index with a static value.
+*arr.shift() - Removes the first element from an array and returns that element.
+*arr.unshift(elm1,elm2,...) - Adds one or more elements to the front of an array and returns the new length of the array.
+*arr.splice(start,deletecount,item1,item2,....) - Adds and/or removes elements from an array.
+var y=[4,5,6]
+var x=[1,2,3,7,8,9]
+x.splice(3,0,...y) //[1,2,3,4,5,6,7,8,9]
+*arr.pop() - Removes the last element from an array and returns that element.
+*arr.push(elm1,elm2,...) - Adds one or more elements to the end of an array and returns the new length of the array.
+var vegetables = ['parsnip', 'potato'];
+var moreVegs = ['celery', 'beetroot'];
+// Merge the second array into the first one
+// Equivalent to vegetables.push('celery', 'beetroot');
+Array.prototype.push.apply(vegetables, moreVegs); // ['parsnip', 'potato', 'celery', 'beetroot']
+*arr.reverse() - Reverses the order of the elements of an array in place
+*arr.sort(comparefn) - Sorts the elements of an array in place and returns the array.
+comparefn(a,b) - returns 0 element place unchanged, returns -1 a before b, return 1 b before a
+if no comparefn is given all elements are converted to string and then sorted.
+var items = [
+  { name: 'Edward', value: 21 },
+  { name: 'Sharpe', value: 37 },
+  { name: 'And', value: 45 },
+  { name: 'The', value: -12 },
+  { name: 'Magnetic', value: 13 },
+  { name: 'Zeros', value: 37 }
+];
+
+// sort by value
+items.sort(function (a, b) {
+  return a.value - b.value;
+});
+
+//sort by name
+items.sort(function (a, b) {
+  return a.name.charCodeAt()(0) - b.name.charCodeAt()(0);
+});
+
+**Accessor methods - These methods do not modify the array and return some representation of the array.
+*arr.concat() - Returns a new array that is this array joined with other array(s) and/or value(s)
+*arr.includes(value,fromIndex) - Determines whether an array contains a certain element, returning true or false
+*arr.indexOf(element,fromIndex) - Returns the first (least) index of an element within the array equal to the specified value
+*arr.lastIndexOf(element,fromIndex) - Returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found.
+*arr.join() - Joins all elements of an array into a string.
+const elements = ['Fire', 'Air', 'Water'];
+console.log(elements.join());
+// expected output: "Fire,Air,Water"
+console.log(elements.join(''));
+// expected output: "FireAirWater"
+*arr.slice(beginIndex,endIndex)- Extracts a section of an array and returns a new array.
+endIndex element not included
+
+
+**Iteration methods - When these methods are called, the length of the array is sampled, and any element added beyond this length from within the callback is not visited. 
+*arr.entries() - returns iterator
+*arr.some()- Returns true if at least one element in this array satisfies the provided testing function.
+*arr.every() - Returns true if every element in this array satisfies the provided testing function
+*arr.filter() - Creates a new array with all of the elements of this array for which the provided filtering function returns true.
+*arr.find() - Returns the found value in the array, if an element in the array satisfies the provided testing function or undefined if not found.
+*arr.findIndex() - Returns the found index in the array, if an element in the array satisfies the provided testing function or -1 if not found.
+*arr.forEach() - Calls a function for each element in the array 
+issue: break doesn't work inside this ,If the array is modified during iteration, other elements might be skipped.
+async await doesn't work
+*arr.keys() and arr.values() - Returns a new Array Iterator object 
+*arr.map() - Creates a new array with the results of calling a provided function on every element in this array.
+*arr.reduce(callbackfn(accumulator,currentValue,index),initialValue) - Apply a function against an accumulator and each value of the array (from left-to-right) as to reduce it to a single value(accumulator is returned). 
+If no initialValue is provided, then accumulator will be equal to the first value in the array, and currentValue will be equal to the second.
+*arr.reduceRight(callbackfn(accumulator,value,index),initialValue) - Apply a function against an accumulator and each value of the array (from right-to-left) as to reduce it to a single value.
+If no initialValue is provided, then accumulator will be equal to the last value in the array, and currentValue will be equal to last but one.
+
 
 //find a peak - O(logn)
 

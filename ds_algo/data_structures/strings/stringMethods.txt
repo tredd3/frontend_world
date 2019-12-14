@@ -1,6 +1,6 @@
 //JS string - strings are immutable in JS, I.e all methods return a new string
 *str.charAt(index) - returns the character at the specified index in a string
-
+*str.charCodeAt(0) - returns the ASCII of the character
 *str.concat(str1,str2,...) - assignment operators(+,+=) are several times faster than concat
 If str1,str2 etc are not strings then they are converted into strings before concatenation.
 
@@ -16,10 +16,10 @@ If str1,str2 etc are not strings then they are converted into strings before con
 *str.match(regexp) if the g flag is not used, only the first complete match is returned in an array| returns null if no match is found
 regexp = /[A-E]/gi | 
 str1.match("number") - When the parameter is a string or a number, it is implicitly converted to a RegExp by using new RegExp(obj).
-
+*str.padEnd(targetLength, padString) /str.padStart(targetLength, padString) - adds the padstring at the end /beginning of the string to reach the target length.
 *str.search(regexp) returns index(-1 if not found) - If a non-RegExp object obj is passed, it is implicitly converted to a RegExp
 regexp.test() method to know if pattern exists in a string
-
+*str.repeat(count) - repeats string count times
 *str.replace(regexp|string, newSubstr|function)
 If pattern is a regexp with a g flag all matches are replaced, if pattern is a string only first match is replaced
 var string = "john john";
