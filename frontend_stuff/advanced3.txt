@@ -19,7 +19,7 @@ Frontend performance techniques always depend on the type of application
 Images - image optimisation techniques
 High computational i.e using complex algo and more fetch calls - web workers
 Heavy UI and too much js functionality - routing + code splitting + react virtualisation
-for all sites, whose code doesnÕt change frequently on the server - Caching by service workers/ webpack /akamai
+for all sites, whose code doesnï¿½t change frequently on the server - Caching by service workers/ webpack /akamai
 Streaming site - Preconnect + web socket
 
 PROCESS TO RENDER A WEB PAGE I.e  critical rendering path by bowser:
@@ -41,31 +41,31 @@ A preloaded chunk has medium priority and instantly downloaded. A prefetched chu
 Use preload for a resource which is guaranteed to be used, prefetch for the resource which has no guarantee to be used.
 Preconnect - establishes just a connection  and data flow is not established until your code triggers it.
 HTTP 2 - helpfuf for code splitting and preconnect - multiple and simultaneous requests are cheap now
-Eliminating Unnecessary Downloads-  ( webpack code on demand - code splitting + prefetch for SPA ), defer , donÕu use big libraries to achieve small functionality
+Eliminating Unnecessary Downloads-  ( webpack code on demand - code splitting + prefetch for SPA ), defer , donï¿½u use big libraries to achieve small functionality
 Reduce Resource Size ( minification (remove spaces and comments), uglification(shortening variable names) - use source maps for debugging,
 				tree shaking - webpack removes unused modules in prod version,
 				 image optimisation - sprites, Deliver images responsively ,Configure the  server for compressing resources -images , font-optimisation , DRY - reusable code)
 CACHING
 http caching - but why? -  reduce load on server - less data usage to client - faster application 
-Service worker scriptable cache - V8 usesÊjust-in-time compilationÊ(JIT) to execute Javascript code - ÊWhen a script is compiled for the first time, cache data is produced and stored and the next time user visits the site The data from cache is served.
-Service workers are great for aÊprogressive web app, which allows for offline access and optimizes for users with poor internet connections.They cache static files
+Service worker scriptable cache - V8 usesï¿½just-in-time compilationï¿½(JIT) to execute Javascript code - ï¿½When a script is compiled for the first time, cache data is produced and stored and the next time user visits the site The data from cache is served.
+Service workers are great for aï¿½progressive web app, which allows for offline access and optimizes for users with poor internet connections.They cache static files
 
 
 Progressive Web Apps  - push notifications, add to home screen option, update the app at the  time of loading unlike normal apps from play store , caching strategy
 https://itnext.io/service-workers-your-first-step-towards-progressive-web-apps-pwa-e4e11d1a2e85
 https://developers.google.com/web/fundamentals/primers/service-workers/
-Service workers  - browser feature - acts as a proxy server - offline working of the APP -event-driven scripts that run independently of web pages Êthey have access to domain-wide events such as network fetches Service Workers Êhave scriptable caches are meant to replace the HTML5 Application Cache.
+Service workers  - browser feature - acts as a proxy server - offline working of the APP -event-driven scripts that run independently of web pages ï¿½they have access to domain-wide events such as network fetches Service Workers ï¿½have scriptable caches are meant to replace the HTML5 Application Cache.
 
-ong-term caching -  avoid having to re-fetch resources that haven't changed -  filename hashing. By webpack
-Optimizing the critical rendering pathÊ - achieve higher refresh rates(reduces the amount of time between screen updates after the initial render)
+Long-term caching -  avoid having to re-fetch resources that haven't changed -  filename hashing. By webpack
+Optimizing the critical rendering pathï¿½ - achieve higher refresh rates(reduces the amount of time between screen updates after the initial render)
 Eliminate render-blocking resources by deferring unused css
  js(parser blocking- rendering engine halts DOM construction until script execution by js engine, JavaScript execution pauses until the CSSOM is ready. also all DOM manipulations like event listeners fail as DOM not constructed)
 
 defer off screen images   -  https://developers.google.com/web/tools/lighthouse/audits/offscreen-images
 
 //RENDERING PERFORMANCE -, React(virtualisation) , js(Web workers, debounce) , CSS(flexbox) 
-Web workers - JavaScript script executed from an HTML page that runs in the background - browser extensions, heavy computations or any thing doesnÕt need DOM traversal/access like I/O XHR 	calls, web sockets (live connection), data manipulation(sorting,  filtering  using algorithms), data storing(index db)
-they have a different execution environment and hence some default methods and properties of theÊwindowÊobject canÕt be used but most of them including web sockets can be used. Data is sent between workers and the main thread ,using theÊpostMessage()Êmethod, and respond to messages via theÊonmessageÊevent handler (the message is contained within theÊMessageÊevent'sÊdata property)
+Web workers - JavaScript script executed from an HTML page that runs in the background - browser extensions, heavy computations or any thing doesnï¿½t need DOM traversal/access like I/O XHR 	calls, web sockets (live connection), data manipulation(sorting,  filtering  using algorithms), data storing(index db)
+they have a different execution environment and hence some default methods and properties of theï¿½windowï¿½object canï¿½t be used but most of them including web sockets can be used. Data is sent between workers and the main thread ,using theï¿½postMessage()ï¿½method, and respond to messages via theï¿½onmessageï¿½event handler (the message is contained within theï¿½Messageï¿½event'sï¿½data property)
  a single js file can create so many workers and delegate them the work, which they execute parallely. Workers can also create workers and delegate work.
 
  https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers 
@@ -81,34 +81,34 @@ Unit testing is done to catch regression
 https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1
 
 // unit testing for react
-* Unit Test:ÊTests a function or a component in isolation.
-* Integration Test:ÊTests a function or component in their context. It should be possible to use it with other function(s) and component(s) in a group.
-  Snapshot Test:ÊIntroduced by FacebookÕs library Jest,  It creates a DOM snapshot of a component once a test for it runs for the first time and compare this snapshot to a future snapshot, when the test runs again.
+* Unit Test:ï¿½Tests a function or a component in isolation.
+* Integration Test:ï¿½Tests a function or component in their context. It should be possible to use it with other function(s) and component(s) in a group.
+  Snapshot Test:ï¿½Introduced by Facebookï¿½s library Jest,  It creates a DOM snapshot of a component once a test for it runs for the first time and compare this snapshot to a future snapshot, when the test runs again.
 Mocha/karma  -  Test runner that runs ur tests
 Chai/jamine - assertion library
 Sinon - a function has been called with certain arguments or whenever you want to return mocked data from an endpoint.
 Jest is not only a testing library for snapshot tests, but also comes with its own test runner and assertion functions.
-ÊEnzyme is only used to render components, access things and simulate events
+ï¿½Enzyme is only used to render components, access things and simulate events
 
 Why jest?
 Easy setup - fast - One-Stop Shop(assertion , mocking(class, functions, timers, modules), test runner , coverage report) - snapshot testing - dynamic testing(watch)
 https://jestjs.io/docs/en/snapshot-testing
 
 React(Library ) vs React native(Framework for building native applications using JavaScript)
-React Native is a complete platform, similar to a web browser, and  it provides a lot of the same APIs (e.g. XMLHttpRequest, setTimeout, geolocation, etc) -uses native components instead of web components -  u canÕt use browser features(it has itÕs own API)
+React Native is a complete platform, similar to a web browser, and  it provides a lot of the same APIs (e.g. XMLHttpRequest, setTimeout, geolocation, etc) -uses native components instead of web components -  u canï¿½t use browser features(it has itï¿½s own API)
 ReactJS is used for UI layer- u can use browser features - u can use it for websites and apps.
-React Native frameworkÊusesÊReactJS library u c. it is also possible to use React Native in the browser by using react-native-web
-Both PhoneGap and  React Native  are ÒbridgeÓ between JS and native platform
+React Native frameworkï¿½usesï¿½ReactJS library u c. it is also possible to use React Native in the browser by using react-native-web
+Both PhoneGap and  React Native  are ï¿½bridgeï¿½ between JS and native platform
  Cordova, PhoneGap for hybrid apps - render code via WebView so u can use angular and other web technologies unlike React Native where u can only use React. Same ui only all platforms and u can code once run anywhere .You can still access phone components via the navigator API. Sluggish performance
 React Native for native apps - renders native components.The app feels & looks native (different ui on different platforms) hence some components needed to be coded specific to platform. Better user experience and zero compromises on performance
 One single code base for both android and IOS both incase of webview + phonegap and react-native. But, incase of react native u will get native app feel.
 react-native-web: This library will convert our react-native components into web elements
-react-router-native:Êrouting library for React Native 
-react-router-dom:Êrouting library for React on the web 
-React uses HTML,CSS, virtual Dom  but React Native doesnÕt we have to use native syntax,  animated API for css and Native APIÕs to render components on mobile.
+react-router-native:ï¿½routing library for React Native 
+react-router-dom:ï¿½routing library for React on the web 
+React uses HTML,CSS, virtual Dom  but React Native doesnï¿½t we have to use native syntax,  animated API for css and Native APIï¿½s to render components on mobile.
 Server side rendering - faster initial Loading  and SEO improvement  
-isomorphic applicationÊis one whose code (in this case, JavaScript) can run both in the server and the client.
-Do you need to make a highly complex app which utilizes a large portion of platform-specific code?ÊGo native.
-Does your app need to support new mobile OS features as soon as they are released?ÊGo native.
+isomorphic applicationï¿½is one whose code (in this case, JavaScript) can run both in the server and the client.
+Do you need to make a highly complex app which utilizes a large portion of platform-specific code?ï¿½Go native.
+Does your app need to support new mobile OS features as soon as they are released?ï¿½Go native.
 
 

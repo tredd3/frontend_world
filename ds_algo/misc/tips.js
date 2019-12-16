@@ -1,3 +1,8 @@
+//var has function scoping use IIFE to convert it into block scoping
+//dont use arguments object inside arrow function use spread operator instead
+let a = (...arg) => console.log(arg)
+a(2, 3, 4)
+
 if (connected) {
     login();
 }
@@ -91,6 +96,8 @@ var myOrderedArray = myArray.reduce(function (accumulator, currentValue) {
     return accumulator
 }, [])
 console.log(myOrderedArray);
+//better way
+console.log([...new Set(myArray)]);
 
 
 //Running Promises in Sequence
@@ -129,3 +136,54 @@ function p4(a) {
 
 const promiseArr = [p1, p2, f3, p4];
 runPromiseInSequence(promiseArr, 10).then(console.log);   // 1200
+
+//getter and setter
+var language = {
+    get tarak() {
+        return "hi";
+    },
+    set current(name) {
+        this.log.push(name);
+    },
+    log: []
+}
+
+language.current = 'EN';
+language.current = 'FA';
+console.log(language.current);//['EN','FA']
+
+//var vs let
+//function scoping vs block scoping
+//var gets hoisted only defination and not value
+//variable defined with var can be 
+var x = function () {
+    if (true) {
+        console.log(x) //undefined
+        console.log(c) //reference error | c is not defined
+        var x = 9;
+        let c = 7;
+    }
+    console.log(x) //9
+    console.log(c) //reference error | c is not defined
+}
+
+//null vs undefined
+typeof null - object
+typeof undefined - undefined
+//null is assigned by us but undefined is assigned by javascript
+
+//lexical scoping - any variable declared in the outside scope is automatically available in the inside scope without passing
+
+//closure
+let f;
+if (true) {
+    let i = 0;
+    f = () => {
+        console.log(i)
+    }
+}
+
+f()//1 even though variable i has to be deleted after the execution it doesn't get deleted because it's
+// reference is held by function f
+
+//IIFE creates a block scope. we can replace IIFE with {}
