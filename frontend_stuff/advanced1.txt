@@ -1,4 +1,6 @@
 //ADVANCED1 
+//REACT IMP questions
+
 
 What�s the problem with MVW frameworks? How redux solves the problem
 https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html
@@ -105,6 +107,7 @@ Loaders - tell webpack how to process non-js modules as webpack only understands
 via loaders It supports  modules written in a variety of languages and preprocessors like  typescript, coffee script, sass , less etc
 most imp loaders: url-loader, html-loader, file-loader(image handling), style-loader, css-loader, eslint-loader, babel-loader, loaders for typescript, coffescript, less, sass
 *babel(convert es6 and higher version code to es5 for backward compatability to run on older browsers, JSX and typescript code to js )
+browserify is only used to resolve dependencies
 Since version 4.0.0,�webpack does not require a configuration file
 plugins - used to customize webpack’s build process(like minify js, minify css, remove comments)
 perform tasks like , asset management and injection of environment variables.
@@ -126,4 +129,18 @@ hence it is used with projects that are highly scalable
 require - dynamic and conditional loading | Loading is synchronous. That means if you have multiple requires, they are loaded and processed one by one.
 import - use named imports to selectively load only the pieces you need. That can save memory | asynchronous loading
 *multiple entry points - to speed up the build process by creating multiple builds in parallel
-*
+*chunks - vendor dependencies(node modules) in one chunk, all the common modules in one chunk to eliminate duplicacy(using SplitChunksPlugin)
+and code splitting in other chunks
+[hash] will generate unique hash for each build and use it for all chunks. 
+Replace [hash] with [chunkhash] to generate unique hashes for each chunk. 
+This is useful when you dont want to re-download vendors (dependencies) file but you have changes in your application code and want to update it.
+//code-splitting and lazy-loading
+code-splitting  - manual or using dynamic imports
+preload and prefetch - load the chunks without user interaction
+lazy-loading - load the chunk only when user performs an action
+A preloaded chunk(medium priority) starts loading in parallel to the parent chunk (instead of 2 round trips now there is only one)
+as size of parent chunk is small it boosts initial load time
+import(/* webpackPreload: true */ 'ChartingLibrary');
+A prefetched chunk(low priority) starts after the parent chunk finishes loading and when the browser is idle.
+import(/* webpackPrefetch: true */ 'LoginModal');
+This will result in <link rel="prefetch" href="login-modal-chunk.js"> being appended in the head of the page, which will instruct the browser to prefetch in idle time
