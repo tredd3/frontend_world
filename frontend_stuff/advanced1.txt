@@ -1,8 +1,51 @@
 //ADVANCED1 
 //REACT IMP questions
+why react: declarative(we simply declare what we need and react takes care of implementation), component based, composition(component inside a component)
+use: view library mostly used for developing SPAs
+features: 
+virtual dom(use diffing algorithm to push only the changes to real dom)
+Unidirectional data flow - from parent to child
+HOC(separate logic from UI)
+Supports server-side rendering
+JavaScript XML - syntactic sugar for the React.createElement()
+four different phases of component lifecycle:
+1)Initialization: setting up the initial state and default props
+2)Mounting: 
+constructor() - initialize state and bind methods
+static getDerivedStateFromProps() -It should return an object to update the state, or null to update nothing.
+componentWillMount() - unsafe bcoz there is no guarantee that react will call it only once.react can call this method multiple times
+render() - only required method in a class component
+componentDidMount() -  AJAX requests,event listeners,subsriptions etc
+3)Updating: change in state/ change in props/ forceupdate
+static getDerivedStateFromProps - It should return an object to update the state, or null to update nothing.
+shouldComponentUpdate(prevProps, prevState) - bydefault true, If you are sure that the component doesn't need to render after state or props are updated, you can return false 
+PureComponent performs a shallow comparison of props and state | PureComponent+immutable.js for performance
+componentWillUpdate() - unsafe bcoz there is no guarantee that react will call it only once.react can call this method multiple times
+render() - should be pure,i.e no state updates inside render | renders the contents on virtual DOM
+getSnapshotBeforeUpdate() - gets the snapshot of DOM before it is updated like capturing scroll position
+componentDidUpdate(prevProps, prevState)
+4)Unmounting: componentWillUnmount() - invalidating timers, canceling network requests, or cleaning up any subscriptions
+**Error Handling - These methods are called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.
+static getDerivedStateFromError() - This lifecycle is invoked after an error has been thrown by a descendant component. It receives the error that was thrown as a parameter and should return a value to update state
+componentDidCatch() - log information about which component threw the error
+Error boundaries are React components that implement one or both the above methods
+*setState() does not always immediately update the component. It may batch or defer the update
+ this.setState({quantity: 2}) - This form of setState() is also asynchronous, and multiple calls during the same cycle may be batched together.
+ If the next state depends on the current state, we recommend using the updater function form, instead:
+ this.setState((state) => {
+  return {quantity: state.quantity + 1};
+});
+*forceUpdate() will cause render() to be called on the component, skipping shouldComponentUpdate()
+React will still only update the DOM if the markup changes.
+*SyntheticEvent, a cross-browser wrapper around the browser’s native event.
+SyntheticEvent object will be reused and all properties will be nullified after the event callback 
+has been invoked. This is for performance reasons. As such, you cannot access the event in an asynchronous way(like using event object in settimeout)
+for using in an asynchronous way, you should call event.persist()
+*Fragments - use less memory by not creating an extra DOM node | adding extra divs in the middle of layouts can disturb the layout
+*
 
 
-What�s the problem with MVW frameworks? How redux solves the problem
+What's the problem with MVW frameworks? How redux solves the problem
 https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html
 //Problem with MVC
  MVC becomes  a headache  when an application grows in size as it is difficult to  manage multiple controllers and models and their interactions -  REDUX solution centralised store and only single way of modifying it
