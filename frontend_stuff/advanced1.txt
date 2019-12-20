@@ -1,7 +1,8 @@
 //ADVANCED1 
-//REACT IMP questions
+//REACT IMP questions 
 why react: declarative(we simply declare what we need and react takes care of implementation), component based, composition(component inside a component)
-use: view library mostly used for developing SPAs
+opp of declarative is imperative 
+use: view library mostly used for developing SPAs 
 features: 
 virtual dom(use diffing algorithm to push only the changes to real dom)
 Unidirectional data flow - from parent to child
@@ -42,7 +43,15 @@ SyntheticEvent object will be reused and all properties will be nullified after 
 has been invoked. This is for performance reasons. As such, you cannot access the event in an asynchronous way(like using event object in settimeout)
 for using in an asynchronous way, you should call event.persist()
 *Fragments - use less memory by not creating an extra DOM node | adding extra divs in the middle of layouts can disturb the layout
-*
+*diffing algorithm - time complexity for comparisons - O(n) where n is the number of elements in the tree
+diffing algorithm based on two assumptions:
+1)Two elements of different types will produce different trees.
+React first compares the two root elements:Whenever the root elements have different types, React 
+will tear down the old tree and build the new tree from scratch.
+if the type is same React looks at the attributes of both, keeps the same underlying DOM node, and only updates the changed attributes
+Recursing On Children: React just iterates over both lists of children at the same time and generates a mutation whenever there’s a difference
+2)The developer can hint at which child elements may be stable across different renders with a key prop.
+using keys eliminate the need of re-rendering of the child elements and simply change their places
 
 
 What's the problem with MVW frameworks? How redux solves the problem
