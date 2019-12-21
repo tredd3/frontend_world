@@ -184,8 +184,8 @@ if (true) {
 }
 
 f()//1 even though variable i has to be deleted after the execution it doesn't get deleted because it's
-// reference is held by function f
-
+// reference is held by function f and no garbage collection by js engine
+//lexical scoping: a child fn have access to all the variables declared in the parent fn without even passing them
 //IIFE creates a block scope. we can replace IIFE with {}
 
 //why NAN!==NAN? NaN is often the result of meaningless math computations, so two NaN values make no sense to be considered equal.
@@ -319,3 +319,30 @@ function eventHandler(e) {
 //why it is important? - web performance - we can avoid attaching multiple event listeners to the children 
 //e.stopPropagation() - stops the event bubbling on the parent (vertical)
 //e.stopImmediatePropagation() -  execute the first event handler, and stop the rest of the event handlers from being executed
+//document.ready is fired when DOM is ready
+//window.onload after the DOM is ready, CSS and images are loaded
+
+//Undeclared variables are variables that do not exist in a program. They give a runtime error
+//Undefined variables are variables that are declared in the program but have not been given any value.
+
+//set a prefix before everything you log
+function log() {
+    var args = Array.prototype.slice.call(arguments);
+    args.unshift('(app)');
+    console.log.apply(console, args);
+}
+
+log('my message'); //(app) my message
+log('my message', 'your message'); //(app) my message your message
+
+//null vs undefined
+//undefined means a variable has been declared but has not yet been assigned a value, such as:
+
+var myVariable;
+console.log(myVariable); //output undefined
+console.log(typeof myVariable); //output undefined
+//null variables exist and have null assigned to them
+
+var myVariable = null;
+console.log(myVariable); //output null
+console.log(typeof myVariable); //output object
