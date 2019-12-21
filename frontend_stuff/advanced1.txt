@@ -196,3 +196,6 @@ import(/* webpackPreload: true */ 'ChartingLibrary');
 A prefetched chunk(low priority) starts after the parent chunk finishes loading and when the browser is idle.
 import(/* webpackPrefetch: true */ 'LoginModal');
 This will result in <link rel="prefetch" href="login-modal-chunk.js"> being appended in the head of the page, which will instruct the browser to prefetch in idle time
+
+//lazy rendering - intersection observer API by browser
+clientsboundrect(to get the element position wrt viewport) + debounce/throttle the scroll event
