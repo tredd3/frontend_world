@@ -1,0 +1,110 @@
+******************** BASICS ******************
+Reading and writing files and data from memory (RAM) is faster than storage
+Applications like chrome, music player etc are  stored on storage but runs on memory
+Each variable is represented via 32 bits/64 bits and an address is assigned to it.
+1byte = 8bits | memory(RAM) is a tape of bytes
+Main-memory/primary storage - direct accessible by the CPU | e.g: ROM,RAM and cache
+Volatile memory - deleted after when power is lost
+Non-volatile - ROM, storage
+//ROM : computer boot code is stored , can't be erased
+//Cache: much faster than RAM bcoz it is located closer to CPU but size less than RAM 
+//RAM(memory) = code + stack(function calls and local variables) + global variables + heap(Objects) + Eventloop(synchronous message queue)
+Heap is a name to denote a large (mostly unstructured) region of memory.
+Once a message appears in the event loop then JS pauses the execution.after all the messages are addressed the JS execution resumes.
+Eventloop  - message is removed from the queue and its corresponding callback function is called on the stack with the message as param.
+Other messages has to wait until the current function is done executing. A downside of this model is that if a message takes too long to
+complete, the web application is unable to process user interactions like click or scroll.
+Hence it is recommended to process data intensive and network operations using web workers. 
+//Avoid Recursion while things can be done via loops and DP
+Recursion vs loops: 
+Recursion - call stack is not emptied until the execution on the last element is completed | can cause stack overflow 
+loops - call stack is emptied immediately after the execution on that particular element
+Time complexity for loops : O(n), Time complexity for Recursion : O(n)
+Space complexity for loops : O(1), Space complexity for Recursion : O(n)
+
+***********************  DATA STRUCTURES  ******************
+DATA STRUCTURES = different ways of storing data on a computer
+https://classroom.udacity.com/courses/ud513
+https://www.youtube.com/watch?v=HdFG8L1sajw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=2
+Abstract data types: we only talk about features/operations and not Implementation
+
+//Lists: Abstract data type
+1)Arrays: contigous memory allocation | for dealing with static data (fixed size)
+Insert/delete: O(n) | random Access of element - constant time (because of efficient indexing)
+Dynamic array - copy elements of smaller array into bigger array and delete smaller array | O(n)
+
+//iteration in JS
+https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html
+*For, foreach and for/in looping constructs give you access to the index in the array and actual element 
+*for of only gives access to element and not index | for (const [i, v] of arr.entries()) { console.log(i, v); // Prints "0 a", "1 b", "2 c" }
+*for, for/in, and for/of retain the outside scope's value of this, but the forEach() callback will have a different this unless you use an arrow function.
+*Avoid using for/in over an array unless you're certain you mean to iterate over non-numeric keys and inherited keys
+*forEach() and for/in skip empty elements in the array, for and for/of do not
+*you can't use await and yield within a forEach()
+
+2)Stacks - last in first out(LIFO) | Abstract data type
+Features - insertion(push) and deletion(pop) ONLY from top end and ONLY one element at a time with in O(1) time.
+Implementation can be array or linked list based
+Applications: function calls/recursion, undo operation, balanced parentheses, reverse operations
+Array implementation - insertion/deletion of an element takes O(1) time but if array is full it takes O(n) time
+Linked List implementation - insertion/deletion ONLY at head bcoz of O(1) time | insertion/deletion at tail takes O(n) time
+
+3)Queues - first in first out(FIFO) | Abstract data type
+Implementation can be array/ linked list
+Enqueue and dequeue - O(1) time
+Applications : if any resource can serve only one request at a time
+
+4)Linked Lists: random memory allocation| for dealing with dynamic data (dynamic size)
+Unlike arrays there will be no unused memory but extra memory needed for pointers.
+Insert/delete: O(1) at first position | remaining positions : O(n) - better
+No random access of element - u need to iterate the list till that element
+
+//others
+5)Sets
+6)Hash Table
+7)Linked Lists: for dealing with dynamic data
+Insert/remove/Access index element - O(n)
+
+8)Binary Trees & Binary Search Trees
+9)Graphs
+
+
+************************ ALGORITHMS **********************
+ALGORITHMS = instructions given to computer to perform operations on data structures
+algorithms are used depending on the data structure | some algorithms can be applied only to specific data structures
+Every algorithm has a time and space complexity
+
+//dynamic programming
+memoization - re-use operation result by avoiding repeated computation on the same problems| The memoization technique is used in DP and it improves the performance of DP
+DP is used to solve a larger subproblem given the solutions of smaller subproblem.
+crux of dynamic programming is to find the optimal substructure in overlapping subproblems
+
+
+**************** Big O Notation and Time Complexity *********
+//Time Complexity - how does the time taken to run your function increases as the input size increases
+Types of Complexity:
+constant time O(1)
+Logn time O(logN)
+Linear time O(n)
+quadratic time O(n^2)
+
+//Space Complexity - 
+
+
+********** TO IMPROVE *******
+//problem solving skills
+
+//Technical skills
+1)Ds and algo
+2)Read others code
+3)Competitive programming: Freecodecamp and codecademy for practice
+https://brilliant.org/CSDojo/
+https://www.algoexpert.io/purchase
+https://www.dailycodingproblem.com/
+4)explore other Langs - node and python
+5)build projects
+
+//domain knowledge - also the impact ur work created in the bigger picture
+
+//communication skills
+
