@@ -54,11 +54,23 @@ class BST {
         return root;
     }
     findMin() {
+        if (this.root === null) {
+            return -1;
+        }
         let current = this.root;
         while (current.left !== null) {
             current = current.left;
         }
         return current.data;
+    }
+    findMinRecursion(root = this.root) {
+        if (this.root === null) {
+            return -1;
+        }
+        if (root.left === null) {
+            return root.data;
+        }
+        return this.findMinRecursion(root.left)
     }
     findMax() {
         let current = this.root;
@@ -69,17 +81,25 @@ class BST {
     }
     find(data) {
         let current = this.root;
-        while (current.data !== data) {
-            if (data < current.data) {
+        while (current && current.data !== data) {
+            if (data <= current.data) {
                 current = current.left;
             } else {
                 current = current.right;
             }
-            if (current === null) {
-                return null;
-            }
         }
         return current;
+    }
+    findRecursively(data, root = this.root) {
+        if (root === null) {
+            return false;
+        } else if (data === root.data) {
+            return true;
+        } else if (data <= root.data) {
+            return this.findRecursively(data, root.left)
+        } else {
+            return this.findRecursively(data, root.right)
+        }
     }
     isPresent(data) {
         let current = this.root;

@@ -1,17 +1,16 @@
 
 //ADVANCED4
-
 Responsive web design - Screen sizes are always changing, so it's important that your site can adapt to any screen size. 
 Layout changes based on screen size
 Requirements: meta viewport tag, media-queries, mobile first approach
 Aspect ratio - the ratio of the width to the height of an image or screen. Landscape - Aspect ratio >1, portrait - Aspect ratio <1
-Use css media queries for Êrendering the content based on  the display type, width, height, orientation, and even resolution.
+Use css media queries for ï¿½rendering the content based on  the display type, width, height, orientation, and even resolution.
 Create breakpoints based on content, never on specific devices 
 * Use relative sizes for images/content to prevent them from accidentally overflowing the container
 
-//ÊCSS unit types
-1vw is 1% of the width of the viewport.Ê
-1vh is 1% of the height of the viewport.Ê
+//ï¿½CSS unit types
+1vw is 1% of the width of the viewport.ï¿½
+1vh is 1% of the height of the viewport.ï¿½
 1em/1rem = 16px is on the top element. After that 1 em = font size of the nearest parent  and 1 rem = font size of the html element
 
 3 types of pixels:
@@ -20,73 +19,19 @@ Density independent pixels(DIPs) -
 Device pixels - fixed hardware fixes
 
 // Images
-There are two types of images to consider:Êvector imagesÊandÊraster images. For raster images, you also need to choose the right compression format, for example:ÊGIF,ÊPNG,ÊJPG
-vector imagesÊ can be scaled without any loss in quality or change in file size.
+There are two types of images to consider:ï¿½vector imagesï¿½andï¿½raster images. For raster images, you also need to choose the right compression format, for example:ï¿½GIF,ï¿½PNG,ï¿½JPG
+vector imagesï¿½ can be scaled without any loss in quality or change in file size.
 Include image Optimization and compression tools into your workflow to reduce file sizes
 reduce the number of http requests by placing frequently used images into image sprites
 Lazy loading - I.e loading the images when they appear on viewport till then use a placeholder image of equal size
 
-// web storage 
-https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/
-//client side  storage /browser storage are a part of hard disk not RAM. Ur app runs on RAM, so state and props are part of RAM.
-structured format(table and rows) - IndexedDB , cookies 
-Key/Value - NoSQL databases, Cache API in the browser 
-Byte Streams:ÊThis simple model stores data as a variable length - include file systems and cloud storage services
-ÊIn private browsing mode, most data storage is not supported
-ÊApp cache - which is used to provide offline support is now deprecated and replaced with service workers.
-Size 
-//local and session storage are 5MB each, indexed DB size is 50MB, each cookie is of 4MB in chrome changes acc to browser.
-
-Web storage APIs - can be sync or async
-synchronousÊ APIs - storage or retrieval requests block the currently active thread until the request is completed - local storage, session storage, cookies 
-For efficiency and performance reasons, asynchronous storage APIs are to be preferred - indexedDB, Cache storage API
-
-Cache storage API - ideal for storing resources associated with a known URL.
-
-WhileÊWeb StorageÊis useful for storing smaller amounts of data, it is less useful for storing larger amounts of structured data. IndexedDB provides a solution.
-Combine IndexedDB for storing data offline(application state to be synced with server) with Service Workers for storing assets offline
-IndexedDB lets you store and retrieve objects that are indexed with aÊkey
-
-AnÊHTTP cookieÊ(web cookie, browser cookie) is a small piece of data that a server sends to the user's web browser via response headers .
-New cookies can also be created via JavaScript using theÊDocument.cookieÊproperty
-The browser may store it and send it back with the next request to the same server.ÊTypically, it's used to tell if two requests came from the same browser.
-Used for Session management, Personalization(themes) , user identification and Tracking user activities
-Cookies are sent with every request, so they can worsen performance (especially for mobile data connections)
-Session cookie - Êdeleted when the client shuts down
-Permanent cookies - expire at a specific dateÊ
-A secure cookie is only sent to the server with an encrypted request over the HTTPS protocol
-
 // SERVER INTERACTION
-By default,ÊHTTPÊusesÊportÊ80 and HTTPS usesÊportÊ443
+By default,ï¿½HTTPï¿½usesï¿½portï¿½80 and HTTPS usesï¿½portï¿½443
 AJAX  uses XHR object and AJAX is used for partial page updates without full refresh.
 AJAX - the process establishing a connection, sending request to server , getting the response and then updating the DOM
-Fetch API - ÊFetch API uses Promises, which enables a simpler and cleaner API, avoiding callback hell
-APIÊstands for Application Programming Interface. It makes it possible to transfer data from an application to other applications.
-REST APIsÊuses multiple standards like HTTP, JSON, URL, and XML while SOAPÊAPIsÊis largely based on HTTP and XML
-
-//WEB SECURITY
-https://medium.com/@pantpriyamvada/session-management-and-security-in-spa-d96f4a9e817e
-https://www.imperva.com/learn/application-security/application-security/
-**sql injection
-ÊOccurs when a perpetrator uses malicious SQL code to manipulate a backend database so it reveals information. Consequences include the unauthorized viewing of lists, deletion of tables and unauthorized administrative access.
-
-**cross-site scripting (XSS) attacks  - Inducting malicious content into site which often includesÊJavaScript but sometimesÊHTML
-To help mitigate  XSS HttpOnlyÊcookies are inaccessible to JavaScript'sÊDocument.cookieÊAPI .they are only sent to the server. 
-For example, cookies that persist server-side sessions don't need to be available to JavaScript, and theÊHttpOnly flag should be set.
-Types of XSS attacks:
-1)Stored XSS Attacks - The injected script is stored permanentlyÊon the target servers. The victim then retrieves this malicious script from the server when the browser sends a request for data.
-2)Reflected XSS Attacks - When a user is tricked into clicking a malicious link, submitting a specially crafted form, or browsing toÊa malicious site, the injected code travels to the vulnerable website. The Web server reflects the injected scriptÊback to the user's browser,Êsuch as in an error message, search result, or any other response that includes data sent to the server as part of the request.
-3)DOM-based XSS Attacks - The payload is executed as a result of modifying the DOM environment
-Solution:
-Content Security PolicyÊ(CSP) is to prevent execution of scripts and content from domains other than those mentioned in the Content-Security-PolicyÊHTTP header
-Browsers that don't support it still work with servers that implement it, and vice-versa
-To enable CSP, you need to configure your web server to return theÊContent-Security-PolicyÊHTTP headerÊ. Alternatively, theÊ<meta>Êelement can be used to configure a policy
-A CSP compatible browser will then only execute scripts loaded in source files received from those allow listed domains, ignoring all other scriptÊ
-
-**cross-site request forgery attacks (CSRF) - request is made from victimÕs site without his notice 
-SameSiteÊcookies let servers require that a cookie shouldn't be sent with cross-site (different  domain) requests, which provides some protection against cross-site request forgery attacks (CSRF)
-Both CSRF tokens and SameSite cookies should be deployed.  A CSRF token (randomly generated) should be  sent to the server.Ê
-
+Fetch API - ï¿½Fetch API uses Promises, which enables a simpler and cleaner API, avoiding callback hell
+APIï¿½stands for Application Programming Interface. It makes it possible to transfer data from an application to other applications.
+REST APIsï¿½uses multiple standards like HTTP, JSON, URL, and XML while SOAPï¿½APIsï¿½is largely based on HTTP and XML
 
 // SESSION MANAGEMENT
 https://medium.com/lightrail/getting-token-authentication-right-in-a-stateless-single-page-application-57d0c6474e3
@@ -94,16 +39,16 @@ https://stormpath.com/blog/token-auth-spa
 https://www.appfoundry.be/blog/2018/11/24/session-management-in-react-single-page-applications/
 Traditionally using cookies but ur app is vulnerable to XSS and CSRF attacks.
 Also Cookies are primarily designed for web browsers and not for other types of clients such as native mobile applications or desktop programs.
-Other limitationsÊare size of the cookie and access to user to for disabling, modifying or erasing them.
+Other limitationsï¿½are size of the cookie and access to user to for disabling, modifying or erasing them.
 
 Token based authentication - send ur credentials to authorisation server get the token , use the token to get the resource from resources server
 
 //JWT -https://jwt.io/introduction/
 https://logrocket.com/blog/jwt-authentication-best-practices/
-JSON Web Token - JWT is created by authentication server and given to user.  JWT shouldnÕt be stored in cookies.
+JSON Web Token - JWT is created by authentication server and given to user.  JWT shouldnï¿½t be stored in cookies.
 For signed tokens payload information, though protected against tampering, is readable by anyone. Do not put secret information in the payload or header elements of a JWT unless it is encrypted.
 Single Sign On feature widely uses JWT. U can also use JWT for securely transmitting information between parties (as the content will not be tampered and the sender is identified)
-Single sign-onÊ(SSO) is a session and user authentication service that permits an end user to enter one set of login credentials (such as a name and password) and be able to access multiple applications.
+Single sign-onï¿½(SSO) is a session and user authentication service that permits an end user to enter one set of login credentials (such as a name and password) and be able to access multiple applications.
 JSON Web Tokens consist of three parts separated by dots (.), which are:
 * Header - JSON - {
   "alg": "HS256",
@@ -114,8 +59,8 @@ JSON Web Tokens consist of three parts separated by dots (.), which are:
   "name": "John Doe",
   "admin": true
 }
-* Signature  - HMACSHA256 (base64UrlEncode(header) + Ò.Ó +base64UrlEncode(payload),secret). Secret can be anything that is decided by developers 
-Because JWTs can be signed you can be sure the senders are who they say they are.Ê
+* Signature  - HMACSHA256 (base64UrlEncode(header) + ï¿½.ï¿½ +base64UrlEncode(payload),secret). Secret can be anything that is decided by developers 
+Because JWTs can be signed you can be sure the senders are who they say they are.ï¿½
 As the signature is calculated using the header and the payload, you can also verify that the content hasn't been tampered with.
 
 Therefore, a JWT typically looks like the following.
@@ -127,7 +72,7 @@ $.ajax({
   method: "GET",
   headers: {
     "Authorization":
-      "Bearer JWT token returned by serverÓ,
+      "Bearer JWT token returned by serverï¿½,
   },
 }).then(function(response) {
   console.log(response);
