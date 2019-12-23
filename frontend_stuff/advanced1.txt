@@ -187,7 +187,8 @@ and code splitting in other chunks
 Replace [hash] with [chunkhash] to generate unique hashes for each chunk. 
 This is useful when you dont want to re-download vendors (dependencies) file but you have changes in your application code and want to update it.
 //code-splitting and lazy-loading
-code-splitting  - manual or using dynamic imports
+code-splitting  - breaking (or splitting) your app into various parts so your entire app does not need to load straight away.
+if dynamic import tag is seen by webpack it spilts the code in small chunks and loads it on demand
 preload and prefetch - load the chunks without user interaction
 lazy-loading - load the chunk only when user performs an action
 A preloaded chunk(medium priority) starts loading in parallel to the parent chunk (instead of 2 round trips now there is only one)
@@ -199,3 +200,6 @@ This will result in <link rel="prefetch" href="login-modal-chunk.js"> being appe
 
 //lazy rendering - intersection observer API by browser
 clientsboundrect(to get the element position wrt viewport) + debounce/throttle the scroll event
+
+** code splitting using lazy(dynamic import of components) and suspense(fallback to show when components are downloaded)
+//https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c
