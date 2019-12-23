@@ -27,6 +27,7 @@ DATA STRUCTURES = different ways of storing data on a computer
 which data stucture to use: depends on the type of data to be stored, cost of operations, memory
 https://classroom.udacity.com/courses/ud513
 https://www.youtube.com/watch?v=HdFG8L1sajw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=2
+https://www.youtube.com/watch?v=t2CEgPsws3U
 Abstract data types: we only talk about features/operations and not Implementation
 
 //Lists: Linear data structures - Abstract data type

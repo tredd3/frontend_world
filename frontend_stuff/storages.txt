@@ -4,20 +4,39 @@ https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/
 structured format(table and rows) - IndexedDB , cookies 
 Key/Value - NoSQL databases, Cache API in the browser 
 Byte Streams:�This simple model stores data as a variable length - include file systems and cloud storage services
-�In private browsing mode, most data storage is not supported
-�App cache - which is used to provide offline support is now deprecated and replaced with service workers.
+In private browsing mode, most data storage is not supported
+App cache - which is used to provide offline support is now deprecated and replaced with service workers.
+
 Size 
-//local and session storage are 5MB each, indexed DB size is 50MB, each cookie is of 4MB in chrome changes acc to browser.
+//each cookie is of 4MB in chrome changes acc to browser, local and session storage are 5MB each, indexed DB size is 50MB
 
 Web storage APIs - can be sync or async
-synchronous� APIs - storage or retrieval requests block the currently active thread until the request is completed - local storage, session storage, cookies 
+synchronous APIs - storage or retrieval requests block the currently active thread until the request is completed - local storage, session storage, cookies 
 For efficiency and performance reasons, asynchronous storage APIs are to be preferred - indexedDB, Cache storage API
+WebSQL does not have broad browser support and its use is not recommended.
 
-Cache storage API - ideal for storing resources associated with a known URL.
+//Web Storage vs (Indexed DB and Cache API)
+Web Storage is useful for storing smaller amounts of data, it is less useful for storing larger amounts of structured data.
+Web Storage (e.g LocalStorage, SessionStorage and cookies) is synchronous, has no Web Worker support and is size and type (strings only) limited.
+Both APIs are asynchronous (IndexedDB is event based and the Cache API is Promise based). 
+They also work with web workers, window and service workers. 
 
-While�Web Storage�is useful for storing smaller amounts of data, it is less useful for storing larger amounts of structured data. IndexedDB provides a solution.
+//IndexedDB
+IndexedDB provides a solution for storing significant amounts of structured data, including files/blobs.
 Combine IndexedDB for storing data offline(application state to be synced with server) with Service Workers for storing assets offline
-IndexedDB lets you store and retrieve objects that are indexed with a�key
+IndexedDB lets you store and retrieve objects that are indexed with a key (high-performance searches due to indexing)
+
+//Cache storage API - ideal for storing resources associated with a known URL.
+For the network resources necessary to load your app while offline, use the Cache API (part of service workers).
+For all other data like application state(redux store), use IndexedDB (with a promises wrapper).
+
+//allocation of memory and eviction
+An origin is given an amount of space to do with as it pleases. This free space is shared across all forms of origin storage (IndexedDB, Cache API, localStorage etc). 
+The amount given isn’t specified and will vary depending on device and storage conditions.
+eviction - chrome and firefox uses LRU(least recently used) mechanism, edge and safari (no eviction)
+**"Persistent" storage is not automatically cleared when storage is low - localstorage, cookies
+**Temporary - This will be evicted under (LRU policy) when Storage limits are reached.
+
 
 An�HTTP cookie�(web cookie, browser cookie) is a small piece of data that a server sends to the user's web browser via response headers .
 New cookies can also be created via JavaScript using the�Document.cookie�property
