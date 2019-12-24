@@ -93,6 +93,18 @@ n/2^k = 1 (k steps) | k= log2(n)
 we should always keep the BST balanced so that the worst case complexity still remains O(log2(n))
 else we need to iterate on all the nodes and the complexity will be O(n)
 
+**tree traversal - visiting each node in the tree exactly once in some order
+BFS - breadth first search (level order)
+visiting all the nodes in the same level before moving to next level (root is level 0)
+time complexity: O(n) | space complxity: O(n)
+
+DFS - depth first search (inorder, preorder, postorder)
+visiting all the nodes in a subtree before moving to another subtree
+preorder - root, left subtree, right subtree (subtrees are also visited in the same order)
+inorder - left subtree, root, right subtree (left and right subtree traversal can be interchanged however conventionally left is visited first)
+inorder traversal of a BST gives sorted list
+postorder - left subtree, right subtree ,root
+
 8)heaps - special kind of binary tree
 9)Graphs
 10)Trie - dictionary and recommendations

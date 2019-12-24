@@ -176,64 +176,61 @@ class BST {
         if (this.root == null) {
             return null;
         } else {
-            var result = new Array();
-            function traverseInOrder(node) {
-                node.left && traverseInOrder(node.left);
-                result.push(node.data);
-                node.right && traverseInOrder(node.right);
+            var data = [];
+            function traverse(node) {
+                if (node.left) traverse(node.left);
+                data.push(node.value);
+                if (node.right) traverse(node.right);
             }
-            traverseInOrder(this.root);
-            return result;
+            traverse(this.root);
+            return data;
         };
     }
     preOrder() {
         if (this.root == null) {
             return null;
         } else {
-            var result = new Array();
-            function traversePreOrder(node) {
-                result.push(node.data);
-                node.left && traversePreOrder(node.left);
-                node.right && traversePreOrder(node.right);
-            };
-            traversePreOrder(this.root);
-            return result;
+            var data = [];
+            function traverse(node) {
+                data.push(node.value);
+                if (node.left) traverse(node.left);
+                if (node.right) traverse(node.right);
+            }
+            traverse(this.root);
+            return data;
         };
     }
     postOrder() {
         if (this.root == null) {
             return null;
         } else {
-            var result = new Array();
-            function traversePostOrder(node) {
-                node.left && traversePostOrder(node.left);
-                node.right && traversePostOrder(node.right);
-                result.push(node.data);
-            };
-            traversePostOrder(this.root);
-            return result;
+            var data = [];
+            function traverse(node) {
+                if (node.left) traverse(node.left);
+                if (node.right) traverse(node.right);
+                data.push(node.value);
+            }
+            traverse(this.root);
+            return data;
         }
     }
 
     levelOrder() {
-        let result = [];
-        let Q = [];
         if (this.root != null) {
-            Q.push(this.root);
-            while (Q.length > 0) {
-                let node = Q.shift();
-                result.push(node.data);
-                if (node.left != null) {
-                    Q.push(node.left);
-                };
-                if (node.right != null) {
-                    Q.push(node.right);
-                };
-            };
-            return result;
-        } else {
-            return null;
-        };
+            return;
+        }
+        var node = this.root,
+            data = [], //for values
+            queue = []; //for references
+        queue.push(node);
+
+        while (queue.length) {
+            node = queue.shift();
+            data.push(node.value);
+            if (node.left) queue.push(node.left);
+            if (node.right) queue.push(node.right);
+        }
+        return data;
     };
 }
 
