@@ -160,11 +160,8 @@ class BST {
         };
         let left = this.findMinHeight(node.left);
         let right = this.findMinHeight(node.right);
-        if (left < right) {
-            return left + 1;
-        } else {
-            return right + 1;
-        };
+
+        return Math.min(left, right) + 1;
     }
     findMaxHeight(node = this.root) {
         if (node == null) {
@@ -172,11 +169,8 @@ class BST {
         };
         let left = this.findMaxHeight(node.left);
         let right = this.findMaxHeight(node.right);
-        if (left > right) {
-            return left + 1;
-        } else {
-            return right + 1;
-        };
+
+        return Math.max(left, right) + 1;
     }
     inOrder() {
         if (this.root == null) {
