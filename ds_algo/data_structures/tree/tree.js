@@ -12,34 +12,6 @@ class BST {
     constructor() {
         this.root = null;
     }
-    // add(data) {
-    //     const node = this.root;
-    //     if (node === null) {
-    //         this.root = new Node(data);
-    //         return;
-    //     } else {
-    //         const searchTree = function (node) {
-    //             if (data < node.data) {
-    //                 if (node.left === null) {
-    //                     node.left = new Node(data);
-    //                     return;
-    //                 } else if (node.left !== null) {
-    //                     return searchTree(node.left);
-    //                 }
-    //             } else if (data > node.data) {
-    //                 if (node.right === null) {
-    //                     node.right = new Node(data);
-    //                     return;
-    //                 } else if (node.right !== null) {
-    //                     return searchTree(node.right);
-    //                 }
-    //             } else {
-    //                 return null;
-    //             }
-    //         };
-    //         return searchTree(node);
-    //     }
-    // }
     add(data, root = this.root) {
         if (root === null) {
             root = new Node(data);
@@ -53,11 +25,11 @@ class BST {
         }
         return root;
     }
-    findMin() {
-        if (this.root === null) {
+    findMin(root = this.root) {
+        if (root === null) {
             return -1;
         }
-        let current = this.root;
+        let current = root;
         while (current.left !== null) {
             current = current.left;
         }
@@ -72,8 +44,8 @@ class BST {
         }
         return this.findMinRecursion(root.left)
     }
-    findMax() {
-        let current = this.root;
+    findMax(root = this.root) {
+        let current = root;
         while (current.right !== null) {
             current = current.right;
         }
@@ -214,7 +186,6 @@ class BST {
             return data;
         }
     }
-
     levelOrder() {
         if (this.root != null) {
             return;
@@ -231,10 +202,62 @@ class BST {
             if (node.right) queue.push(node.right);
         }
         return data;
-    };
+    }
+    // isSubtreeNodesLesser(root, value) {
+    //     if (root === null) {
+    //         return true;
+    //     }
+    //     if (root.data <= value && isSubtreeNodesLesser(root.left, value) && isSubtreeNodesLesser(root.right, value)) {
+    //         return true;
+    //     } else {
+    //         return false;
+    //     }
+    // }
+    // isSubtreeNodesGreater(root, value) {
+    //     if (root === null) {
+    //         return true;
+    //     }
+    //     if (root.data <= value && isSubtreeNodesGreater(root.left, value) && isSubtreeNodesGreater(root.right, value)) {
+    //         return true;
+    //     } else {
+    //         return false;
+    //     }
+    // }
+    // isBinarySearchTree(root = this.root) {
+    //     if (root === null) {
+    //         return true;
+    //     }
+    //     if (this.isSubtreeNodesLesser(root.left, root.data) && isBinarySearchTree(root.left)
+    //         && this.isSubtreeNodesGreater(root.right, root.data) && isBinarySearchTree(root.right)) {
+    //         return true;
+    //     } else {
+    //         return false;
+    //     }
+    // }
+    isBinarySearchTree(root = this.root) {
+        if (root === null) {
+            return true;
+        }
+        if (isBinarySearchTree(root.left) && (this.findMax(root.left) <= root.data)
+            && isBinarySearchTree(root.right) && (this.findMin(root.right, root.data) > root.data)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    //optimised solution
+    isBinarySearchTree2(root = this.root, minValue = -Infinity, maxValue = +Infinity) {
+        if (root === null) {
+            return true;
+        }
+        if (root.data > minValue && root.data < maxValue && isBinarySearchTree(root.left, minValue, root.data)
+            && isBinarySearchTree(root.right, root.data, maxValue)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
 }
-
-
 
 const bst = new BST();
 

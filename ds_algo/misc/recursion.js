@@ -1,6 +1,7 @@
 //recursion - a function calling itself
 //1)it takes atleast one param
-//2)breaking if condition with a return statement
+//2)breaking if condition with or without a return statement
+//if a value need to be returned by a function it has to pass via all function calls
 //all those statements written before function calling itself are executed during bottom to top 
 //traversal and the statements written after function calling itself are executed during top to bottom traversal
 //except for last function as they are not executed for them

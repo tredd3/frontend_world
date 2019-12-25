@@ -96,14 +96,15 @@ else we need to iterate on all the nodes and the complexity will be O(n)
 **tree traversal - visiting each node in the tree exactly once in some order
 BFS - breadth first search (level order)
 visiting all the nodes in the same level before moving to next level (root is level 0)
-time complexity: O(n) | space complxity: O(n)
+time complexity: O(n) | space complxity: O(n), best O(1)
 
 DFS - depth first search (inorder, preorder, postorder)
 visiting all the nodes in a subtree before moving to another subtree
 preorder - root, left subtree, right subtree (subtrees are also visited in the same order)
 inorder - left subtree, root, right subtree (left and right subtree traversal can be interchanged however conventionally left is visited first)
-inorder traversal of a BST gives sorted list
+inorder traversal of a BST gives sorted list 
 postorder - left subtree, right subtree ,root
+time complexity: O(n) | space complxity: O(n) , best O(logn)
 
 8)heaps - special kind of binary tree
 9)Graphs
