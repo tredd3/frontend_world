@@ -234,6 +234,8 @@ class BST {
     //         return false;
     //     }
     // }
+
+    //time complexity - O(n^2)
     isBinarySearchTree(root = this.root) {
         if (root === null) {
             return true;
@@ -245,7 +247,8 @@ class BST {
             return false;
         }
     }
-    //optimised solution
+
+    //optimised solution O(n)
     isBinarySearchTree2(root = this.root, minValue = -Infinity, maxValue = +Infinity) {
         if (root === null) {
             return true;
