@@ -106,6 +106,8 @@ class BST {
                     return node.left;
                 }
                 // node has two children 
+                //find min in right subtree and replace the value of node to be deleted with right subtree min node value
+                // now delete the min node and point the right subtree if any to the left of parent of  min node
                 var tempNode = node.right;
                 while (tempNode.left !== null) {
                     tempNode = tempNode.left;
@@ -260,6 +262,8 @@ class BST {
             return false;
         }
     }
+
+    //inorder traversal with each node lesser than previous node
 }
 
 const bst = new BST();

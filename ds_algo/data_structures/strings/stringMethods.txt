@@ -1,6 +1,6 @@
 //JS string - strings are immutable in JS, I.e all methods return a new string
 *str.charAt(index) - returns the character at the specified index in a string
-*str.charCodeAt(0) - returns the ASCII of the character
+*str.charCodeAt(index) - returns the ASCII of the character
 *str.concat(str1,str2,...) - assignment operators(+,+=) are several times faster than concat
 If str1,str2 etc are not strings then they are converted into strings before concatenation.
 
