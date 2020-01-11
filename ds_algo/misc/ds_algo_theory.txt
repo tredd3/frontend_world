@@ -31,6 +31,14 @@ Abstract data types: we only talk about features/operations and not Implementati
 1)Arrays: contigous memory allocation | for dealing with static data (fixed size)
 Insert/delete: O(n) | random Access of element - constant time (because of efficient indexing)
 Dynamic array - copy elements of smaller array into bigger array and delete smaller array | O(n)
+//JS Array built-in functions
+array.push	    O(1)	Insert element to the end of the array
+array.pop	    O(1)	Remove element to the end of the array
+array.shift	    O(n)	Remove element to the beginning of the array
+array.unshift	O(n)	Insert element(s) to the beginning of the array
+array.slice	    O(n)	Returns a copy of the array from beginning to end.
+array.splice	O(n)	Changes (add/remove) the array
+
 
 //iteration in JS
 https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html
@@ -50,7 +58,7 @@ Linked List implementation - insertion/deletion ONLY at head bcoz of O(1) time |
 
 3)Queues - first in first out(FIFO) | Abstract data type
 Implementation can be array/ linked list
-Enqueue and dequeue - O(1) time
+Enqueue and dequeue - O(1) and O(n) time respectively
 Applications : if any resource can serve only one request at a time
 
 4)Linked Lists: random memory allocation| for dealing with dynamic data (dynamic size)
@@ -62,7 +70,7 @@ No random access of element - u need to iterate the list till that element
 5)Sets
 
 6)Hash Table/Hash Map
-complexity on search - O(1)
+complexity on search,access,insertion and deletion - O(1)
 map entries are unique
 
 7)Trees - recursive data structure

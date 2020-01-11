@@ -6,6 +6,7 @@ foo = 'bar'; // foo is now a string
 foo = true;  // foo is now a boolean
 
 //ECMAScript standard defines 8 data types (7 primitive + object)
+//Objects are not primitive since it’s a collection of zero or more primitives and other objects
 //primitive(immutable): Boolean, Null, Undefined, Number, BigInt, String, Symbol
 42 / +0 //Infinity
 42 / -0 //-Infinity
@@ -151,7 +152,12 @@ Usually, to bind data to a DOM node, one could set properties directly on the ob
 This has the downside that the data is available to any script running in the same context.
 Maps and WeakMaps make it easy to privately bind data to an object.
 
-**Map - Map object holds key-value pairs and remembers the original insertion order of the keys. 
+**Map - Map object holds key-value pairs and remembers the original insertion order of the keys.
+Internally, the HashMap uses an Array, and it maps the labels to array indexes using a hash function. 
+main difference is that the Array’s index doesn’t have any relationship with the data
+Arrays can have duplicate values, while HashMap cannot have duplicated keys (but they can have duplicate values.)
+javascript object is a real hashmap on its implementation, so the complexity on search is O(1), but there is no dedicated hashcode() function for javascript strings, it is implemented internally by javascript engine 
+but since it's keys can only be strings es6 came up with map data structure
 Any value (both objects and primitive values) may be used as either a key or a value.
 iterating over a Map object returns keys in order of insertion.
 A Map may perform better in scenarios involving frequent addition and removal of key pairs.
@@ -193,6 +199,7 @@ only 4 methods - delete,has,get,set
 
 //Set and WeakSet represent a set of objects
 **Set - Set object lets you store unique values of any type, whether primitive values or object references
+Sets are very similar to arrays. The difference is that they don’t allow duplicates.
 var set=new Set([iterable])
 set.size
 set.clear()
