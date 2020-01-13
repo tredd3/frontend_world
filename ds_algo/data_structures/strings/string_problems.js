@@ -94,4 +94,19 @@ function reverseWords(str) {
     }
 
     return str;
-} 
+}
+
+//Find the first repeated word in a string
+function find_firstRepeatedWord(str) {
+    let str_array = str.split(' ');
+    let length = str_array.length;
+    let map = new Map();
+    for (var i = 0; i < length; i++) {
+        if (map.has(str_array[i])) {
+            return str_array[i]
+        } else {
+            map.set(str_array[i], 1)
+        }
+    }
+    return 0;
+}

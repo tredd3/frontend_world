@@ -1,0 +1,53 @@
+//implement queue using stacks - 2 stacks
+
+//method1 - enQueue(q, x): O(n)
+//While stack1 is not empty, push everything from stack1 to stack2.
+//Push x to stack1 (assuming size of stacks is unlimited).
+//Push everything back to stack1.
+
+//deQueue(q): O(1)
+//If stack1 is empty then error, Pop an item from stack1 and return it
+
+//Method 2 - deQueue(q, x): O(n)
+//Push x to stack1 - enqueue O(1)
+//dequeue - push all the items in stack1 to stack2 and then pop the top element from stack2
+
+//one user stack and one Function Call Stack.
+struct Queue { 
+    stack<int> s; 
+  
+    // Enqueue an item to the queue 
+    void enQueue(int x) 
+    { 
+        s.push(x); 
+    } 
+  
+    // Dequeue an item from the queue 
+    int deQueue() 
+    { 
+        if (s.empty()) { 
+            cout << "Q is empty"; 
+            exit(0); 
+        } 
+  
+        // pop an item from the stack 
+        int x = s.top(); 
+        s.pop(); 
+  
+        // if stack becomes empty, return 
+        // the popped item 
+        if (s.empty()) 
+            return x; 
+  
+        // recursive call 
+        int item = deQueue(); 
+  
+        // push popped item back to the stack 
+        s.push(x); 
+  
+        // return the result of deQueue() call 
+        return item; 
+    } 
+}; 
+
+
