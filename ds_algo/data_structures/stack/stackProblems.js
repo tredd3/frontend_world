@@ -56,3 +56,25 @@ function insert_at_bottom(x) {
 
 //reverse items in a stack without using extra space
 //Reverse a stack would require a reversing a linked list which can be done with O(n) time and O(1) extra space.
+
+//reverse a number
+function reversDigits(num) {
+    var rev_num = 0;
+    while (num > 0) {
+        rev_num = rev_num * 10 + num % 10;
+        num = num / 10;
+    }
+    return rev_num;
+}
+
+//reverse a number using recursion
+function reversDigits(num) {
+    var rev_num = 0;
+    var base_pos = 1;
+    if (num > 0) {
+        reversDigits(num / 10);
+        rev_num += (num % 10) * base_pos;
+        base_pos *= 10;
+    }
+    return rev_num;
+}

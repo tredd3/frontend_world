@@ -1,0 +1,31 @@
+//Mozilla uses merge sort.
+//chrome uses QuickSort and InsertionSort, for smaller arrays
+//latest versions of chrome use timsort = merge+insertion sort
+
+//Some algorithms (selection, bubble, heapsort) work by moving elements to their final position, 
+one at a time. You sort an array of size N, put 1 item in place, and continue sorting an array of size N – 1
+
+//Some algorithms (insertion, quicksort, counting, radix) put items into a temporary position, close(r) 
+to their final position. You rescan, moving items closer to the final position with each iteration.
+
+//which algo to use depends on
+algorithmic complexity, startup costs, additional space requirements, input size, use of recursion 
+(function calls are expensive and eat stack space), worst-case behavior, assumptions about input data, 
+caching, and behavior on already-sorted or nearly-sorted data
+
+//O(N) clearly is the minimum sorting time possible, since we must examine every element at least once 
+
+//Selection Sort [Best/Worst: O(N^2)]
+Scan all items and find the smallest. Swap it into position as the first item. Repeat the selection sort on the remaining N-1 items
+
+//Bubble Sort [Best: O(N), Worst:O(N^2)]
+Starting on the left, compare adjacent items and keep “bubbling” the larger one to the right (it’s in its final place). Bubble sort the remaining N -1 items
+
+//Insertion Sort [Best: O(N), Worst:O(N^2)]
+Start with a sorted list of 1 element on the left, and N-1 unsorted items on the right. 
+Take the first unsorted item (element #2) and insert it into the sorted list, moving elements as necessary. 
+We now have a sorted list of size 2, and N -2 unsorted elements. 
+
+//Quicksort [Best: O(N Lg N), Avg: O(N Lg N), Worst:O(N^2)]
+
+//Heapsort [Best/Avg/Worst: O(N Lg N)]
