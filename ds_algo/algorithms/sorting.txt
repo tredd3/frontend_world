@@ -25,7 +25,25 @@ Starting on the left, compare adjacent items and keep “bubbling” the larger 
 Start with a sorted list of 1 element on the left, and N-1 unsorted items on the right. 
 Take the first unsorted item (element #2) and insert it into the sorted list, moving elements as necessary. 
 We now have a sorted list of size 2, and N -2 unsorted elements. 
+*if the array is partially or already substantially sorted, insertion sort will shine even brighter than quick sort
+*for smaller arrays quite efficient. O(n * k), where k is the steps it needs to tread back up the array to swap the previous element with the current one
 
 //Quicksort [Best: O(N Lg N), Avg: O(N Lg N), Worst:O(N^2)]
+quicksort's efficiency relies on two factors--its pivot or partitioned element 
+*If the array is partially or substantially sorted, and/or the pivot element is chosen in a way that 
+it is closer to the start or end of the array, it can easily degrade to O(n * n)
 
 //Heapsort [Best/Avg/Worst: O(N Lg N)]
+Add all items into a heap. Pop the largest item from the heap and insert it at the end (final position). Repeat for all items.
+Creating the heap is O(N lg N). Popping items is O(1), and fixing the heap after the pop is lgN.
+There are N pops, so there is another O(N lgN) factor, which is O(N lg N) overall.
+
+//Merge Sort
+it is useful for sorting linked lists in O(nLogn) time.
+
+//Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
+*Quick Sort in its general form is an in-place sort (i.e. it doesn’t require any extra storage) whereas merge sort requires O(N) extra storage for array
+*Unlike array, in linked list, we can insert items in the middle in O(1) extra space and O(1) time.
+Therefore merge operation of merge sort can be implemented without extra space for linked lists.
+*quicksort needs random access(suitable for array) and Merge sort accesses data sequentially(suitable for linked list)
+*Merge sort is better for large data structures: Mergesort is a stable sort, unlike quicksort and heapsort
