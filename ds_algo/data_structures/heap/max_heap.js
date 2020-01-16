@@ -1,23 +1,17 @@
-//In a Min Binary Heap, the key at root must be minimum among all keys present in Binary Heap. 
+//In a Max Binary Heap, the key at root must be maximum among all keys present in Binary Heap. 
 //The same property must be recursively true for all nodes in Binary Tree.
 
-/* Heaps */
-
-// left child: i * 2
-// right child: i * 2 + 1
-// parent: i / 2
-[4, 2, 3, 9, 1, 5, 6]
-[3, 1, 2, 6, 7, 4, 9]
-[0 1 2 3 4 5 6]
-let MinHeap = function () {
+let MaxHeap = function () {
 
     let heap = [null];
+
+    this.print = () => heap;
 
     this.insert = function (num) {
         heap.push(num);
         if (heap.length > 2) {
             let idx = heap.length - 1;
-            while (heap[idx] < heap[Math.floor(idx / 2)]) {
+            while (heap[idx] > heap[Math.floor(idx / 2)]) {
                 if (idx >= 1) {
                     [heap[Math.floor(idx / 2)], heap[idx]] = [heap[idx], heap[Math.floor(idx / 2)]];
                     if (Math.floor(idx / 2) > 1) {
@@ -36,7 +30,7 @@ let MinHeap = function () {
             heap[1] = heap[heap.length - 1];
             heap.splice(heap.length - 1);
             if (heap.length == 3) {
-                if (heap[1] > heap[2]) {
+                if (heap[1] < heap[2]) {
                     [heap[1], heap[2]] = [heap[2], heap[1]];
                 };
                 return smallest;
@@ -44,8 +38,8 @@ let MinHeap = function () {
             let i = 1;
             let left = 2 * i;
             let right = 2 * i + 1;
-            while (heap[i] >= heap[left] || heap[i] >= heap[right]) {
-                if (heap[left] < heap[right]) {
+            while (heap[i] <= heap[left] || heap[i] <= heap[right]) {
+                if (heap[left] > heap[right]) {
                     [heap[i], heap[left]] = [heap[left], heap[i]];
                     i = 2 * i
                 } else {
@@ -64,14 +58,6 @@ let MinHeap = function () {
             return null;
         };
         return smallest;
-    };
-
-    this.sort = function () {
-        let result = [];
-        while (heap.length > 1) {
-            result.push(this.remove());
-        };
-        return result;
     };
 
 };

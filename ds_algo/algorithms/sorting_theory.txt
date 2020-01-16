@@ -36,7 +36,7 @@ it is closer to the start or end of the array, it can easily degrade to O(n * n)
 *worst case is always avoided and almost all languages using this sort by using randomised version
 
 
-//Heapsort [Best/Avg/Worst: O(N Lg N)]
+//Heapsort [Best/Avg/Worst: O(N Lg N)] - in-place algorithm, but it is not a stable sort.
 Add all items into a heap. Pop the largest item from the heap and insert it at the end (final position). Repeat for all items.
 Creating the heap is O(N lg N). Popping items is O(1), and fixing the heap after the pop is lgN.
 There are N pops, so there is another O(N lgN) factor, which is O(N lg N) overall.
