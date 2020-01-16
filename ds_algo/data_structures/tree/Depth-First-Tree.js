@@ -65,6 +65,7 @@ class BinarySearchTree {
         }
         return false;
     }
+    //level order
     BFS() {
         var node = this.root,
             data = [], //for values
