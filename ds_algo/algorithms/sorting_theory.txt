@@ -16,12 +16,13 @@ caching, and behavior on already-sorted or nearly-sorted data
 //O(N) clearly is the minimum sorting time possible, since we must examine every element at least once 
 
 //Selection Sort [Best/Worst: O(N^2)]
-Scan all items and find the smallest. Swap it into position as the first item. Repeat the selection sort on the remaining N-1 items
+Scan all items and find the smallest. Swap smallest element with the first item. Repeat the selection sort on the remaining N-1 items
 
 //Bubble Sort [Best: O(N), Worst:O(N^2)]
 Starting on the left, compare adjacent items and keep “bubbling” the larger one to the right (it’s in its final place). Bubble sort the remaining N -1 items
 
-//Insertion Sort [Best: O(N), Worst:O(N^2)]
+//Insertion Sort [Best: O(N), avg:O(N^2) Worst:O(N^2)]
+the no.of comparisons and shifts are lot lesser than selection and bubble sort and hence better than both.
 Start with a sorted list of 1 element on the left, and N-1 unsorted items on the right. 
 Take the first unsorted item (element #2) and insert it into the sorted list, moving elements as necessary. 
 We now have a sorted list of size 2, and N -2 unsorted elements. 
@@ -32,6 +33,8 @@ We now have a sorted list of size 2, and N -2 unsorted elements.
 quicksort's efficiency relies on two factors--its pivot or partitioned element 
 *If the array is partially or substantially sorted, and/or the pivot element is chosen in a way that 
 it is closer to the start or end of the array, it can easily degrade to O(n * n)
+*worst case is always avoided and almost all languages using this sort by using randomised version
+
 
 //Heapsort [Best/Avg/Worst: O(N Lg N)]
 Add all items into a heap. Pop the largest item from the heap and insert it at the end (final position). Repeat for all items.
@@ -46,4 +49,13 @@ it is useful for sorting linked lists in O(nLogn) time.
 *Unlike array, in linked list, we can insert items in the middle in O(1) extra space and O(1) time.
 Therefore merge operation of merge sort can be implemented without extra space for linked lists.
 *quicksort needs random access(suitable for array) and Merge sort accesses data sequentially(suitable for linked list)
-*Merge sort is better for large data structures: Mergesort is a stable sort, unlike quicksort and heapsort
+*Merge sort is better for large data structures: Mergesort is a stable sort (preserves the order of 
+elements if the 2 elements are same), unlike quicksort and heapsort
+
+//internal sort vs external sort
+internal sort - all elements/records are in RAM
+external sort - elements/records are on disk (because of large data all the records can't be put in RAM in one go)
+
+//recursive and non-recursive 
+recursive - quick sort and merge sort
+non-recursive - insertion and selection
