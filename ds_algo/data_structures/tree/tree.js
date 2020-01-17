@@ -108,6 +108,8 @@ class BST {
                 // node has two children 
                 //find min in right subtree and replace the value of node to be deleted with right subtree min node value
                 // now delete the min node and point the right subtree if any to the left of parent of  min node
+                // or u can pick max in left subtree , now delete the max node after copying the value and point the 
+                //left subtree if any to the right of parent of  max node
                 var tempNode = node.right;
                 while (tempNode.left !== null) {
                     tempNode = tempNode.left;

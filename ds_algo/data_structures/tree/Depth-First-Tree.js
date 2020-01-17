@@ -100,6 +100,7 @@ class BinarySearchTree {
         traverse(this.root);
         return data;
     }
+    //Inorder on a binary search tree gives elements in a sorted order
     DFSInOrder() {
         var data = [];
         function traverse(node) {
