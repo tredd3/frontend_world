@@ -6,9 +6,8 @@
 // left child: i * 2
 // right child: i * 2 + 1
 // parent: i / 2
-[4, 2, 3, 9, 1, 5, 6]
-[3, 1, 2, 6, 7, 4, 9]
-[0 1 2 3 4 5 6]
+//for index 3 parent lies at index 3/2 (1) and left child at index 2*3(6) and right child at index 2*3+1(7)
+
 let MinHeap = function () {
 
     let heap = [null];

@@ -115,9 +115,14 @@ inorder traversal of a BST gives sorted list
 postorder - left subtree, right subtree ,root
 time complexity: O(n) | space complxity: O(n) , best O(logn)
 
-8)heaps - special kind of binary tree
+8)heaps - special kind of binary tree - best for dynamic and large data
+search/insert - O(logn)
+delete - O(1) (but since after deletion we need to modify the heap it takes O(logn))
+
 9)Graphs
+
 10)Trie - dictionary and recommendations
+both space and time efficient
 
 
 ************************ ALGORITHMS **********************
