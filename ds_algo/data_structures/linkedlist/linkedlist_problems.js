@@ -117,31 +117,18 @@ LinkedList.prototype.mergeSort = function (list) {
     if (list.next === null)
         return list;
 
-    let count = 0;
-    let countList = list
     let leftPart = list;
-    let leftPointer = list;
     let rightPart = null;
+    let slow = list; //slow is a mid pointer
+    let fast = list
 
-    // Counting the nodes in the received linkedlist 
-    while (countList.next !== null) {
-        count++;
-        countList = countList.next;
+    while (fast !== null && fast.next !== null) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
 
-    // counting the mid of the linked list 
-    let mid = Math.floor(count / 2)
-    let count2 = 0;
-
-    // separating the left and right part with 
-    // respect to mid node in tke linked list 
-    while (count2 < mid) {
-        count2++;
-        leftPointer = leftPointer.next;
-    }
-
-    rightPart = new LinkedList(leftPointer.next);
-    leftPointer.next = null;
+    rightPart = new LinkedList(slow.next);
+    slow.next = null;
 
     // Here are two linked list which 
     // contains the left most nodes and right 
@@ -153,10 +140,7 @@ LinkedList.prototype.mergeSort = function (list) {
 // Merging both lists in sorted manner 
 LinkedList.prototype._merge = function (left, right) {
 
-    // Create a new empty linked list 
-    let result = new LinkedList()
-
-    let resultPointer = result.head;
+    let resultPointerHead, resultPointerTail = null;
     let pointerLeft = left;
     let pointerRight = right;
 
@@ -167,38 +151,38 @@ LinkedList.prototype._merge = function (left, right) {
     // This loop will be executed until pointer's of 
     // a left node or right node reached null 
     while (pointerLeft && pointerRight) {
-        let tempNode = null;
 
         // Check if the right node's value is greater than 
         // left node's value 
         if (pointerLeft.node > pointerRight.node) {
-            tempNode = pointerRight.node
+            if (!resultPointerHead) {
+                resultPointerHead = pointerRight;
+                resultPointerTail = pointerRight;
+            }
+            resultPointerTail.next = pointerRight;
+            resultPointerTail = resultPointerTail.next;
             pointerRight = pointerRight.next;
         }
         else {
-            tempNode = pointerLeft.node
+            if (!resultPointerHead) {
+                resultPointerHead = pointerLeft;
+                resultPointerTail = pointerLeft;
+            }
+            resultPointerTail.next = pointerLeft;
+            resultPointerTail = resultPointerTail.next;
             pointerLeft = pointerLeft.next;
-        }
-
-        if (result.head == null) {
-            result.head = new Node(tempNode)
-            resultPointer = result.head
-        }
-        else {
-            resultPointer.next = new Node(tempNode)
-            resultPointer = resultPointer.next
         }
     }
 
     // Add the remaining elements in the last of resultant 
     // linked list 
     if (pointerLeft)
-        resultPointer.next = pointerLeft;
+        resultPointerTail.next = pointerLeft;
     if (pointerRight)
-        resultPointer.next = pointerRight
+        resultPointerTail.next = pointerRight
 
     // Result is  the new sorted linked list 
-    return result.head;
+    return resultPointerHead;
 }
 
 // Initialize the object 
