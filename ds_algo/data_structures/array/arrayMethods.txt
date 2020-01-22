@@ -47,7 +47,7 @@ items.sort(function (a, b) {
 
 //sort by name
 items.sort(function (a, b) {
-  return a.name.charCodeAt()(0) - b.name.charCodeAt()(0);
+  return a.name.charCodeAt(0) - b.name.charCodeAt(0);
 });
 
 **Accessor methods - These methods do not modify the array and return some representation of the array.

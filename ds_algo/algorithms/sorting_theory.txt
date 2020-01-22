@@ -1,6 +1,7 @@
 //Mozilla uses merge sort.
 //chrome uses QuickSort and InsertionSort, for smaller arrays
 //latest versions of chrome use timsort = merge+insertion sort
+//Webkit implements some variation of quick-sort (Intro Sort)for numeric arrays . For non-numeric array, it uses merge-sort.
 
 //Some algorithms (selection, bubble, heapsort) work by moving elements to their final position, 
 one at a time. You sort an array of size N, put 1 item in place, and continue sorting an array of size N – 1
@@ -43,6 +44,8 @@ There are N pops, so there is another O(N lgN) factor, which is O(N lg N) overal
 
 //Merge Sort
 it is useful for sorting linked lists in O(nLogn) time.
+Q: Why merge sort is considered preferable than quick sort in some cases?
+A: When the data set is huge and is stored on external devices such as a hard drive, merge sort is the clear winner in terms of speed.
 
 //Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
 *Quick Sort in its general form is an in-place sort (i.e. it doesn’t require any extra storage) whereas merge sort requires O(N) extra storage for array

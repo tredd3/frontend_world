@@ -1,5 +1,39 @@
-//find the indices of 2 elements in a unsorted array whose sum is equal to target 
-
+//Given an array of integers, and a number ‘sum’, find the number of pairs of integers in the array whose sum is equal to ‘sum’.
+function sum_pairs(arr, sum) {
+    let result = [];
+    if (arr.length === 0 || arr.length === 1) {
+        return 0;
+    } else if (arr.length === 2) {
+        if (arr[0] + arr[1] === sum) {
+            result.push(arr)
+        }
+    } else {
+        let map = new Map();
+        for (let x of arr) {
+            if (map.has(x)) {
+                let count = map.get(x);
+                map.set(x, count++)
+            } else {
+                map.set(x, 1)
+            }
+        }
+        for (let x of arr) {
+            if (sum === 2 * x && map.get(x) >= 2) {
+                result.push([x, x]);
+                let count = map.get(x);
+                map.set(x, count - 2)
+                map.get(x) === 0 && map.delete(x)
+                continue;
+            }
+            if (map.has(sum - x)) {
+                result.push([x, sum - x])
+                map.delete(sum - x)
+                map.delete(x)
+            }
+        }
+    }
+    return result;
+}
 
 //find the indices of 2 elements in a sorted array whose sum is equal to target 
 function find_sum(array, target) {
@@ -116,6 +150,51 @@ function printRepeating(arr, size) {
             cout << Math.abs(arr[i]) << " ";
     }
 }
+
+
+//Duplicates in an array in O(n) and by using O(1) extra space maintaing order and without repetettion
+void printDuplicates(arr, n)
+{
+    var i;
+
+    // Flag variable used to 
+    // represent whether repeating 
+    // element is found or not. 
+    var fl = 0;
+
+    for (i = 0; i < n; i++) {
+
+        // Check if current element is 
+        // repeating or not. If it is 
+        // repeating then value will 
+        // be greater than or equal to n. 
+        if (arr[arr[i] % n] >= n) {
+
+            // Check if it is first 
+            // repetition or not. If it is 
+            // first repetition then value 
+            // at index arr[i] is less than 
+            // 2*n. Print arr[i] if it is 
+            // first repetition. 
+            if (arr[arr[i] % n] < 2 * n) {
+                cout << arr[i] % n << " ";
+                fl = 1;
+            }
+        }
+
+        // Add n to index arr[i] to mark 
+        // presence of arr[i] or to 
+        // mark repetition of arr[i]. 
+        arr[arr[i] % n] += n;
+    }
+
+    // If flag variable is not set 
+    // then no repeating element is 
+    // found. So print -1. 
+    if (!fl)
+        cout << "-1";
+}
+
 
 //maximum repeating number in O(n) time and O(1) extra space
 function maxRepeating(arr, n, k) {

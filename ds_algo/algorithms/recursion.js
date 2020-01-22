@@ -6,6 +6,8 @@
 //traversal and the statements written after function calling itself are executed during top to bottom traversal
 //except for last function as they are not executed for them
 
+//There are n stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs at a time
+//this is a fibnocci series problem
 function fibnocci(n) {
     // 1 1 2 3 5 8
     if (n > 2) {

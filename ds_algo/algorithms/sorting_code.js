@@ -92,11 +92,12 @@ function merge(left_arr, right_arr, arr) {
 //quick sort - space O(1), Time - O(nlogn) avg case
 //divide and conquer,recursive, not stable, in place
 function quick_sort(arr, start, end) {
-    if (start < end) {
-        let partition_index = partition(arr, start, end);
-        quick_sort(arr, start, partition_index - 1)
-        quick_sort(arr, partition_index + 1, end)
+    if (start >= end) {
+        return;
     }
+    let partition_index = partition(arr, start, end);
+    quick_sort(arr, start, partition_index - 1)
+    quick_sort(arr, partition_index + 1, end)
 }
 
 function partition(arr, start, end) {
@@ -160,3 +161,42 @@ function heapSort(input) {
 var arr = [3, 0, 2, 5, -1, 4, 1];
 heapSort(arr);
 console.log(arr);
+
+//find the kth largest/smallestr element
+// Complexity is n log(n)
+var source = [9, 2, 7, 11, 1, 3, 14, 22];
+var k = 4//4th largest element
+var kthMax = function (minInd, MaxInd, kth) {
+    // pivotInd stores the pivot position 
+    // for current iteration
+    var temp, pivotInd = minInd;
+    if (minInd >= MaxInd) {
+        return source[pivotInd];
+    }
+    for (var i = minInd; i < MaxInd; i++) {
+        //If an element is greater than chosen pivot (i.e. last element)
+        //Swap it with pivotPointer element,then increase pointer
+        if (source[i] > source[MaxInd]) {
+            temp = source[i];
+            source[i] = source[pivotInd];
+            source[pivotInd] = temp;
+            pivotInd++;
+        }
+    }
+    // we have found position for pivot elem. 
+    // swap it to that position place .
+    temp = source[pivotInd];
+    source[pivotInd] = source[MaxInd];
+    source[MaxInd] = temp;
+    // Only try to sort the part in which kth index lies.
+    if (kth > pivotInd) {
+        return kthMax(pivotInd + 1, MaxInd, kth);
+    } else if (kth < pivotInd) {
+        return kthMax(minInd, pivotInd - 1, kth);
+    } else {
+        return source[pivotInd];
+    }
+}
+// last argument is kth-1 , so if 2 is given,
+// it will give you 3rd max which is 11
+console.log(kthMax(0, source.length - 1, k - 1));

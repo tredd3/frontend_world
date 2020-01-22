@@ -346,3 +346,60 @@ console.log(typeof myVariable); //output undefined
 var myVariable = null;
 console.log(myVariable); //output null
 console.log(typeof myVariable); //output object
+
+//Is JavaScript a pass-by-reference or pass-by-value language?
+//Javascript is always pass by value, but when a variable refers to an object (including arrays), the “value” is a reference to the object
+function changeStuff(a, b, c) {
+    a = a * 10;
+    b.item = "changed";
+    c = { item: "changed" };
+}
+
+var num = 10;
+var obj1 = { item: "unchanged" };
+var obj2 = { item: "unchanged" };
+
+changeStuff(num, obj1, obj2);
+
+console.log(num);
+console.log(obj1.item);
+console.log(obj2.item);
+
+//How do you pass an unknown number of arguments to a function?
+function printNames(...names) {
+    console.log(`number of arguments: ${names.length}`);
+    for (var name of names) {
+        console.log(name);
+    }
+}
+
+printNames('foo', 'bar', 'baz');
+
+//How will you sort an array containing just [1.11, 0.2, 3, 11] in ascending order.
+var x = [1.11, 0.2, 3, 11]
+x.sort((a, b) => a - b);
+
+//Write a program to sort an array containing only 1's and 0’s , by only iterating it once , and not using extra memory
+const sorter = (input) => {
+    let left = 0, right = input.length - 1;
+    while (right > left) {
+        while (input[left] === 0 && right > left) {
+            left++;
+        }
+        while (input[right] === 1 && right > left) {
+            right--;
+        }
+        if (input[left] > input[right]) {
+            [input[left], input[right]] = [input[right], input[left]];
+        }
+        right--; left++;
+    }
+    return input;
+}
+
+//async vs defer attribute in a script tag
+//During HTML parsing if it encounters a script block, HTML parsing halts . It makes a call to fetch the script (if external ) and then executes the script, before resuming HTML parsing.
+//If we use async , HTML parsing doesn’t stop during file is fetched, but once it’s fetched , HTML parsing stops to execute the script.
+//If we use defer browser downloads the JS during HTML parsing , and executes the JS only when HTML parsing is done.
+
+//
