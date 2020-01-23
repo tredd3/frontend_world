@@ -1,3 +1,36 @@
+//find missing number
+//method:1
+function getMissingNumber(arr, n) {
+    // actual size is n+1 since a number is missing from the array
+    let m = n + 1;
+
+    // get sum of integers between 1 to n+1
+    let total = m * (m + 1) / 2;
+
+    // get actual sum of integers in the array
+    let sum = 0;
+    for (var i = 0; i < n; i++)
+        sum += arr[i];
+
+    // the missing number is the difference between the expected sum
+    // and the actual sum
+    return total - sum;
+}
+
+//method:2
+function getMissingNumber(arr, n) {
+    // Compute XOR of all the elements in array
+    let xor = 0;
+    for (var i = 0; i < n; i++)
+        xor = xor ^ arr[i];
+
+    // Compute XOR of all the elements from 1 to n+1
+    for (var i = 1; i <= n + 1; i++)
+        xor = xor ^ i;
+
+    return xor;
+}
+
 //Given an array of integers, and a number ‘sum’, find the number of pairs of integers in the array whose sum is equal to ‘sum’.
 function sum_pairs(arr, sum) {
     let result = [];

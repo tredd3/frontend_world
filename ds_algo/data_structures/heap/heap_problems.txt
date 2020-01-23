@@ -1,13 +1,12 @@
 
 //kth largest element
 (Use Bubble k times)
-Thanks to Shailendra for suggesting this approach.
 1) Modify Bubble Sort to run the outer loop at most k times.
 2) Print the last k elements of the array obtained in step 1.
 
 (Use Sorting)
 1) Sort the elements in descending order in O(nLogn)
-2) Print the first k numbers of the sorted array O(k).
+2) Print the first k numbers of the sorted array O(k) OR run any sorting algorithm k times
 
 (Use Max Heap)
 1) Build a Max Heap tree in O(n)
