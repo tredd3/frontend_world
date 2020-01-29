@@ -3,6 +3,14 @@
 let a = (...arg) => console.log(arg)
 a(2, 3, 4)
 
+var params = ["hello", true, 7]
+var other = [1, 2, ...params] // [ 1, 2, "hello", true, 7 ]
+
+function f(x, y, ...a) {
+    return (x + y) * a.length
+}
+f(1, 2, ...params) === 9
+
 if (connected) {
     login();
 }
@@ -298,7 +306,13 @@ display(gorilla.sleep());
 display(gorilla.showVigour());
 display(gorilla.dailyRoutine());
 
-//event model in js
+//interaction between files in js
+//1)using import and export
+//2)using storages
+//3)custom events
+
+
+//event model in js - creating custom events also called 
 var event = new Event('build');
 // Listen for the event.
 elem.addEventListener('build', function (e) { /* ... */ }, false);
@@ -373,7 +387,9 @@ function printNames(...names) {
     }
 }
 
+const _sum3 = (x, y, z) => x + y + z;
 printNames('foo', 'bar', 'baz');
+_sum3.length //3 arguments
 
 //How will you sort an array containing just [1.11, 0.2, 3, 11] in ascending order.
 var x = [1.11, 0.2, 3, 11]
@@ -402,4 +418,64 @@ const sorter = (input) => {
 //If we use async , HTML parsing doesn’t stop during file is fetched, but once it’s fetched , HTML parsing stops to execute the script.
 //If we use defer browser downloads the JS during HTML parsing , and executes the JS only when HTML parsing is done.
 
-//
+//https://developer.mozilla.org/en-US/docs/Web/Events
+//https://developer.mozilla.org/en-US/docs/Web/API
+
+//CDN is simply a network of servers that replicate your binary files so that they are served from geographically close locations. CDN has been around for a lot longer than cloud computing as you know it today.
+//Not every cloud provider is a CDN, and not every CDN is a cloud computing provider.
+//Cloud computing is simply - dividing up a large computing resource (usually processing power) into little chunks which you can use remotely.
+
+//get and set
+function Archiver() {
+    var temperature = null;
+    var archive = [];
+
+    Object.defineProperty(this, 'temperature', {
+        get() {
+            console.log('get!');
+            return temperature;
+        },
+        set(value) {
+            temperature = value;
+            archive.push({ val: temperature });
+        }
+    });
+
+    this.getArchive = function () { return archive; };
+}
+
+var arc = new Archiver();
+arc.temperature; // 'get!'
+arc.temperature = 11;
+arc.temperature = 13;
+arc.getArchive(); // [{ val: 11 }, { val: 13 }]
+
+//es6 proxy
+let target = {
+    foo: "Welcome, foo"
+}
+let proxy = new Proxy(target, {
+    get(receiver, name) {
+        return name in receiver ? receiver[name] : `Hello, ${name}`
+    }
+})
+proxy.foo === "Welcome, foo"
+
+//listen to variable changes
+function tracePropAccess(obj, propKeys) {
+    const propKeySet = new Set(propKeys);
+    return new Proxy(obj, {
+        get(target, propKey, receiver) {
+            if (propKeySet.has(propKey)) {
+                console.log('GET ' + propKey);
+            }
+            return Reflect.get(target, propKey, receiver);
+        },
+        set(target, propKey, value, receiver) {
+            if (propKeySet.has(propKey)) {
+                console.log('SET ' + propKey + '=' + value);
+            }
+            return Reflect.set(target, propKey, value, receiver);
+        },
+    });
+}

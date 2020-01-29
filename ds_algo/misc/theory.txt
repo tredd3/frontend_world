@@ -1,0 +1,7 @@
+//functional programming
+1)Pure functions instead of shared state & side effects- same output for same input all the times
+2)Function composition
+3)Immutability is a central concept of functional programming
+An immutable object is an object that can’t be modified after it’s created
+4)HOC(for reusability instead of polymorphism), function composition(instead of inheritance)
+5)Declarative rather than imperative code (what to do, rather than how to do it)

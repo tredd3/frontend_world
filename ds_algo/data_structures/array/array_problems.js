@@ -251,4 +251,97 @@ function maxRepeating(arr, n, k) {
 
     // Return index of the maximum element 
     return result;
+}
+
+//Maximum Product Subarray
+//Input: arr[] = {6, -3, -10, 0, 2}
+//Output:   180  // The subarray is {6, -3, -10}
+function maxSubarrayProduct(arr) {
+    // max positive product ending at the current position either 1 or +ve
+    let max_ending_here = 1;
+
+    // min negative product ending at the current position either 1 or -ve
+    let min_ending_here = 1;
+
+    // Initialize overall max product 
+    let max_so_far = 1;
+    let flag = 0;
+
+    for (let i = 0; i < n; i++) {
+		/* If this element is positive, update max_ending_here. 
+		Update min_ending_here only if min_ending_here is 
+		negative */
+        if (arr[i] > 0) {
+            max_ending_here = max_ending_here * arr[i];
+            min_ending_here = min(min_ending_here * arr[i], 1);
+            flag = 1;
+        } else if (arr[i] == 0) {
+            max_ending_here = 1;
+            min_ending_here = 1;
+        } else {
+            let temp = max_ending_here;
+            max_ending_here = max(min_ending_here * arr[i], 1);
+            min_ending_here = temp * arr[i];
+        }
+
+        // update max_so_far, if needed 
+        if (max_so_far < max_ending_here)
+            max_so_far = max_ending_here;
+    }
+    if (flag == 0 && max_so_far == 1)
+        return 0;
+    return max_so_far;
+}
+
+//missing number
+//1. Get the sum of numbers which is total = n*(n+1)/2
+//2. Subtract all the numbers from sum and
+//you will get the missing number
+
+//1) XOR all the array elements, let the result of XOR be X1.
+//2) XOR all numbers from 1 to n, let XOR be X2.
+//3) XOR of X1 and X2 gives the missing number.
+
+//{1, 4, 20, 3, 10, 5}, sum = 33
+//find the sum array with the given sum
+function subarray_withsum(arr, target) {
+    let i = 0;
+    let j = 0;
+    let sum = 0;
+    let length = arr.length;
+    while (i < length && j < length) {
+        if (i === j && arr[i] === target) {
+            return [i, j];
+        }
+        if (sum + arr[j] === target) {
+            return [i, j];
+        } else if (sum + arr[j] < target) {
+            sum += arr[j]
+            j++
+        } else {
+            sum -= arr[i]
+            i++;
+        }
+    }
+    return -1;
+}
+
+//merge two sorted arrays without extra space/ O(1) extra space
+function merge(ar1, ar2, m, n) {
+    // Iterate through all elements of ar2[] starting from 
+    // the last element 
+    for (let i = n - 1; i >= 0; i--) {
+        /* Find the smallest element greater than ar2[i]. Move all 
+           elements one position ahead till the smallest greater 
+           element is not found */
+        let j, last = ar1[m - 1];
+        for (j = m - 2; j >= 0 && ar1[j] > ar2[i]; j--)
+            ar1[j + 1] = ar1[j];
+
+        // If there was a greater element 
+        if (j != m - 2 || last > ar2[i]) {
+            ar1[j + 1] = ar2[i];
+            ar2[i] = last;
+        }
+    }
 } 
