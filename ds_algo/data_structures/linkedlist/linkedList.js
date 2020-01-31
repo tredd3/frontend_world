@@ -28,7 +28,7 @@ class LinkedList {
         //increase the length
         this.length++
     }
-    //2 pointers for singly linked list, 1 pointer for singly linked list
+    //2 pointers for singly linked list, 1 pointer for doubly linked list
     delete(element) {
         if (this.head === null) {
             return;
@@ -37,13 +37,14 @@ class LinkedList {
         let prev = null
         if (current.data === element) {
             this.head = current.next;
-        } else {
-            while (current.data !== element) {
-                prev = current;
-                current = current.next;
-            }
-            prev.next = current.next;
+            this.length--;
+            return;
         }
+        while (current.data !== element) {
+            prev = current;
+            current = current.next;
+        }
+        prev.next = current.next;
         this.length--;
     }
     indexOf(element) {
@@ -61,11 +62,11 @@ class LinkedList {
     elementAt(index) {
         let current = this.head;
         let currentIndex = 0;
-        while (currentIndex < index) {
+        while (current && currentIndex < index) {
             currentIndex++;
             current = current.next;
         }
-        return current.data;
+        return current ? current.data : null;
     }
     addAtIndex(index, data) {
         if (index < 0 || index > this.length - 1) {
@@ -119,14 +120,14 @@ class LinkedList {
         this.printNodesUsingRecursion(current.next)
         console.log(current.data)//forward print
     }
-    //iterative solution
+    //iterative solution in forward direction
     printNodesUsingLoop() {
         if (this.head === null) {
             console.log("no nodes")
             return;
         }
         let current = this.head
-        while (current.next !== null) {
+        while (current) {
             console.log(current.data) // forward print
             current = current.next;
         }

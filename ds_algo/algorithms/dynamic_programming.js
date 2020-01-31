@@ -1,4 +1,4 @@
-//longest-common-substring-problem
+//longest-common-substring-problem O(m*n)
 //X,Y are strings and m,n are string lengths
 function longest_commonsubstring(X, Y, m, n) {
     var maxlen = 0;			// stores the max length of LCS
@@ -25,5 +25,5 @@ function longest_commonsubstring(X, Y, m, n) {
     }
 
     // return Longest common substring having length maxlen
-    return X.substr(endingIndex - maxlen, maxlen);
+    return X.substr(endingIndex - maxlen, maxlen); // X.slice(endingIndex - maxlen, endingIndex+1);
 }

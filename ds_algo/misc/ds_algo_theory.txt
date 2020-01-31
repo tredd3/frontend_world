@@ -58,7 +58,8 @@ Linked List implementation - insertion/deletion ONLY at head bcoz of O(1) time |
 
 3)Queues - first in first out(FIFO) | Abstract data type
 Implementation can be array/ linked list
-Enqueue and dequeue - O(1) and O(n) time respectively
+Enqueue and dequeue - O(1)
+linkedlist implementation: remove at the head and adding at the rear end by maintaining tail pointer
 Applications : if any resource can serve only one request at a time
 
 4)Linked Lists: random memory allocation| for dealing with dynamic data (dynamic size)

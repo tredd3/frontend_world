@@ -53,10 +53,11 @@ var lengthOfLongestSubstring = function (s) {
     let map = new Map();
     for (var i = 0, j = 0; j < strlength; j++) {
         if (map.has(s.charAt(j))) {
-            i = Math.max(i, map.get(s.charAt(j)))
+            i = map.get(s.charAt(j)) + 1;
+        } else {
+            substrlength = Math.max(substrlength, j - i + 1)
         }
-        substrlength = Math.max(substrlength, j - i + 1)
-        map.set(s.charAt(j), j + 1)
+        map.set(s.charAt(j), j)
     }
     return substrlength;
 };
@@ -98,15 +99,34 @@ function reverseWords(str) {
 
 //Find the first repeated word in a string
 function find_firstRepeatedWord(str) {
-    let str_array = str.split(' ');
-    let length = str_array.length;
     let map = new Map();
-    for (var i = 0; i < length; i++) {
-        if (map.has(str_array[i])) {
-            return str_array[i]
+    for (let char of str) {
+        if (map.has(char)) {
+            return char
         } else {
-            map.set(str_array[i], 1)
+            map.set(char, 1)
         }
     }
     return 0;
 }
+
+//reverse words in a string "tarak is good" yo "good is tarak"
+//using stack
+//using 2 pointers
+//decrementing for loop
+function reverseString(str) {
+    var newString = "";
+    for (var i = str.length - 1; i >= 0; i--) {
+        newString += str[i];
+    }
+    return newString;
+}
+reverseString('hello');
+//recursion
+function reverseString(str) {
+    if (str === "")
+        return "";
+    else
+        return reverseString(str.substr(1)) + str.charAt(0);
+}
+reverseString("hello");

@@ -38,7 +38,7 @@ function replaceString(oldS, newS, fullS) {
 *str.substring(beginIndex, endIndex) - Any argument value that is less than 0 or greater than stringName.length is treated as if it were 0 and stringName.length respectively.
 "1234".substring(-2, -1) == "1234".substring(0,0) == ""
 "1234".slice(-2, -1) == "1234".slice(2, 3) == "3" 
-"1234".substring(3,2) == "1234".substring(2,3) == "3"
+"1234".substring(3,2) == "1234".substring(2,3) == "3" //endindex not included
 "1234".slice(3,2) == ""
 
 
