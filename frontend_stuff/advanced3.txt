@@ -22,7 +22,7 @@ Heavy UI and too much js functionality - routing + code splitting + react virtua
 for all sites, whose code doesn�t change frequently on the server - Caching by service workers/ webpack /akamai
 Streaming site - Preconnect + web socket
 
-PROCESS TO RENDER A WEB PAGE I.e  critical rendering path by bowser:
+PROCESS TO RENDER A WEB PAGE I.e  critical rendering path by browser:
 1. Process HTML markup and build the DOM tree.
 2. Process CSS markup and build the CSSOM tree.
 3. Combine the DOM and CSSOM into a render tree. (both HTML and CSS are render blocking resources, media queries and types allow us to mark some CSS resources as non-render blocking, The browser downloads all CSS resources, regardless of blocking or non-blocking behavior)

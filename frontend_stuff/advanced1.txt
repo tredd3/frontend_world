@@ -3,6 +3,8 @@
 why react: declarative(we simply declare what we need and react takes care of implementation), component based, composition(component inside a component)
 opp of declarative is imperative 
 use: view library mostly used for developing SPAs 
+presentational components are concerned with the look
+container components are concerned with making things work
 features: 
 virtual dom(use diffing algorithm to push only the changes to real dom)
 Unidirectional data flow - from parent to child
@@ -58,7 +60,7 @@ What's the problem with MVW frameworks? How redux solves the problem
 https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html
 //Problem with MVC
  MVC becomes  a headache  when an application grows in size as it is difficult to  manage multiple controllers and models and their interactions -  REDUX solution centralised store and only single way of modifying it
-We lose control of who changed the state of a controller and why they changed it -  REDUX solution suing actions to modify state and as they are JS objects we can log them
+We lose control of who changed the state of a controller and why they changed it -  REDUX solution using actions to modify state and as they are JS objects we can log them
 In MVC we mutate the model hence No way to do undo (travel back in time) easily�- REDUX solution no mutation
 When to consider the state or model is changed and how to build tools to help recognize the mutation - REDUX solution  dispatch  action and subscribe to changes
 

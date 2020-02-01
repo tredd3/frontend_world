@@ -4,4 +4,17 @@
 3)Immutability is a central concept of functional programming
 An immutable object is an object that can’t be modified after it’s created
 4)HOC(for reusability instead of polymorphism), function composition(instead of inheritance)
+closures instead of encapsulation
 5)Declarative rather than imperative code (what to do, rather than how to do it)
+6)In functional programming things are loosely coupled but in OO things are tightly coupled.
+
+//http vs https
+HTTP provides standard rules for web browsers & servers to communicate.
+HTTP is an application layer network protocol which is built on top of TCP.
+HTTPS: It is a combination of SSL/TLS protocol and HTTP. 
+Transport Layer Security/Secure Sockets Layer, are cryptographic protocols designed to provide communications security over a computer network
+https://www.guru99.com/difference-http-vs-https.html
+
+//Open System Interconnection Model | OSI 7 layers
+
+

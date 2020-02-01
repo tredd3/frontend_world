@@ -48,7 +48,18 @@ class BinarySearchTree {
         }
         return false;
     }
-    //level order
+    findRecursively(data, root = this.root) {
+        if (root === null) {
+            return false;
+        } else if (data === root.data) {
+            return true;
+        } else if (data <= root.data) {
+            return this.findRecursively(data, root.left)
+        } else {
+            return this.findRecursively(data, root.right)
+        }
+    }
+    //level order time and space complexity O(n)
     BFS() {
         var node = this.root,
             data = [], //for values
@@ -63,6 +74,7 @@ class BinarySearchTree {
         }
         return data;
     }
+    //
     DFSPreOrder() {
         var data = [];
         function traverse(node) {
@@ -83,6 +95,16 @@ class BinarySearchTree {
         traverse(this.root);
         return data;
     }
+    //u can tweak level order traversal to increment the count of leaf nodes
+    getLeafCount(node = this.root) {
+        if (node == null)
+            return 0;
+        if (node.left == null && node.right == null)
+            return 1;
+        else
+            return getLeafCount(node.left) +
+                getLeafCount(node.right);
+    }
     //Inorder on a binary search tree gives elements in a sorted order
     DFSInOrder() {
         var data = [];
@@ -93,6 +115,73 @@ class BinarySearchTree {
         }
         traverse(this.root);
         return data;
+    }
+    kthSmallestElement(k) {
+        var found = false;
+        function check(count) {
+            if (!found)
+                found = count === k;
+        }
+        function traverse(node) {
+            if (node == null || found) {
+                return 0;
+            }
+            let count = 0;
+            count += traverse(node.left);
+            check(count)
+            count++
+            check(count)
+            count += traverse(node.right);
+            check(count)
+            return count;
+        }
+        traverse(this.root);
+        return found;
+    }
+    //iterative approach
+    inOrder(root = this.root) {
+        let s = [];//stack 
+        let curr = root;
+
+        while (curr != null || s.length) {
+            /* Reach the left most Node of the curr Node */
+            while (curr != null) {
+                s.push(curr);
+                curr = curr.left;
+            }
+            /* Current must be NULL at this point */
+            curr = s.pop();
+            console.log(curr.data)
+            /* we have visited the node and its  left subtree.  Now, it's right subtree's turn */
+            curr = curr.right;
+        }
+    }
+    //iterative preorder
+    iterativePostorder(root = this.root) {
+        let s = [];//stack 
+        let curr = root;
+
+        while (curr != null || s.length) {
+            /* Reach the left most Node of the curr Node */
+            while (curr != null) {
+                curr.right && s.push(curr.right)
+                s.push(curr);
+                curr = curr.left;
+            }
+            /* Current must be null at this point */
+            curr = s.pop();
+            if (curr.right && s[s.length - 1] == curr.right) {
+                s.pop();  // remove right child from stack 
+                s.push(curr);  // push curr back to stack 
+                curr = curr.right; // change root so that the right  
+                // child is processed next 
+            }
+            else  // Else print root's data and set root as null 
+            {
+                printf("%d ", root.data);
+                curr = null;
+            }
+        }
     }
 }
 

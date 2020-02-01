@@ -9,21 +9,24 @@ https://2ality.com/2015/01/es6-maps-sets.html
 
 //JS design patterns
 https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
 Each of the design patterns represents a specific type of solution to a specific type of problem
-Constructor Pattern  -  object creation using function and new keyword
- modules(IIFE+closures) - we can create objects with private and public parts. These are calledÊmodules
+Prototype Design Pattern -  object creation using function and new keyword and resuing prototype properties/methods
+modules(IIFE+closures) - we can create objects with private and public parts. These are calledï¿½modules
+//HOC in react - decorator pattern | DRY | Abstraction or decoupling of logic and UI
 Revealing Module Pattern - entire object logic in the private scope of the module and then simply expose the parts we want to be public by returning an anonymous object
 Singleton Pattern -  used in scenarios when we need exactly one instance of a class like config object
-Observer Pattern - communication between disparate parts of our system
-publisher/subscriber promotes even more loose coupling then the observer pattern does. This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.Ê Instead of using callbacks there is a more elegant way of doing things.
+Observer Pattern - communication between disparate parts of our system// angular MVC
+publisher/subscriber promotes even more loose coupling then the observer pattern does. This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.ï¿½ Instead of using callbacks there is a more elegant way of doing things.
 Mediator Pattern - A mediator is an object which is used as a central point for communication between disparate parts of a system and handles the workflow between them. e.g: Redux
-Command Pattern - The command pattern is useful in cases when we want to decouple objects executing the commands from objects issuing the commands. Like separate the objects calling an API service from the objects which are telling themÊwhenÊto call the API service.
+Command Pattern - The command pattern is useful in cases when we want to decouple objects executing the commands from objects issuing the commands.
+Like separate the objects calling an API service from the objects which are telling themï¿½whenï¿½to call the API service.
 Facade Pattern - The facade pattern is used when we want to create an abstraction layer between what is shown publicly and what is implemented behind the curtain like query and other libraries interfaces.
 
 Initially we used to use this patterns but now it has been replaced by new stuff like Mediator Pattern  by Redux, Observer Pattern  by Promise, Constructor Pattern by class
 
 //functions in js
-There are two ways to define JS functions:Êdeclarations andÊ expressions.  Declarations are hoisted but expressions are not. I.e they can be used even before declaration.
+There are two ways to define JS functions:ï¿½declarations andï¿½ expressions.  Declarations are hoisted but expressions are not. I.e they can be used even before declaration.
 // declaration
 function addOne(foo) {
   return foo + 1
@@ -50,13 +53,13 @@ const sum = a => b => a + b
 //SEO
 
 
-Static assets: Assets which you donÕt create  dynamically with server-side code. e.g: html, js, css, images etc
+Static assets: Assets which you donï¿½t create  dynamically with server-side code. e.g: html, js, css, images etc
 
 Service worker: proxy server , which intercepts your network request and hence runs only on https for security purposes.
 It is specific to origin . Multiple js files in an origin can use the data/service provided by the service worker.
 It is event driven and It is designed to be fully async hence it uses promises heavily .
 A service worker is run in a worker context: it therefore has no DOM access, and runs on a different thread different from the main JavaScript thread, so it is not blocking. 
-Cache storage API- Provides a master directory of all the named caches that can be accessed by aÊServiceWorker
+Cache storage API- Provides a master directory of all the named caches that can be accessed by aï¿½ServiceWorker
 Service workers are also intended to be used for such things as:
 * Background data Synchronization(web to server and vice versa) Start up a service worker even when no users are at the site, so caches can be updated,
 * Responding to resource requests from other origins.
@@ -68,8 +71,8 @@ Service workers are also intended to be used for such things as:
 
 
 memoization or Memoisation is an Optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.
-Immutable.jsÊis a data structure library built by Facebook to work with React Ñ and it uses Structural Sharing(reduces time and space in copying nested data structures)
-Numbers ,strings are are also immutable structuresÊ
+Immutable.jsï¿½is a data structure library built by Facebook to work with React ï¿½ and it uses Structural Sharing(reduces time and space in copying nested data structures)
+Numbers ,strings are are also immutable structuresï¿½
 Let x=4
 Let y=x (value is copied)
 x=8
@@ -82,13 +85,13 @@ Let v=u (v references  u but the object is not copied )
 Why immutable.js???
 If you use Immutability, you are always creating a copy of the old data structure and applying the changes to the copy instead of changing the original data structure!
 In Redux we do the same thing. But if you had multiple nested levels of objects/arrays then immutable.js comes to help
-1)Easier to Debug : immutability stresses removing all side-effects and usingÊpure functions
+1)Easier to Debug : immutability stresses removing all side-effects and usingï¿½pure functions
 2)Easier Deep Value Comparisons: you can just compare the memory locations of the data structures to see if their values are the same or not (instead of having to traverse deeply into the data structure)
 3)easier to manage concurrency (without locks or snapshots)
-Immutable.fromJS()Êmethod converts any nested object/array into Immutable Map/List
+Immutable.fromJS()ï¿½method converts any nested object/array into Immutable Map/List
 
-IsomorphismÊ- rendering pages on both the server and client side. It usually implies the use of JavaScript and Node.js/Io.js because they allow for the re-use of libraries.
-Whenever you visit a website, your browser makes a request to the server that contains the contents of the website.ÊThe request depends on multiple factors
+Isomorphismï¿½- rendering pages on both the server and client side. It usually implies the use of JavaScript and Node.js/Io.js because they allow for the re-use of libraries.
+Whenever you visit a website, your browser makes a request to the server that contains the contents of the website.ï¿½The request depends on multiple factors
 * 		Your internet speed
 * 		the location of the server
 * 		how many users are trying to access the site
@@ -113,7 +116,7 @@ Client-side cons:
 * Low SEO if not implemented correctly. (Use metatags)
 * Initial load might require more time bcoz of use of  an external library.
 
-HooksÊare functions that let you ÒhookÊintoÓÊReactÊstate and lifecycle features from function components. e.g: useState
+Hooksï¿½are functions that let you ï¿½hookï¿½intoï¿½ï¿½Reactï¿½state and lifecycle features from function components. e.g: useState
 
 setState is asynchronous
 Wrong way:
@@ -137,7 +140,7 @@ constructor(props) {
   }
  };
 
-Option 1: Passing the stateÊdown
+Option 1: Passing the stateï¿½down
 toggleFilter = () => {
  const currentFilterState = !this.state.isFiltered;
  this.setState({
@@ -151,7 +154,7 @@ filterData = (currentFilterState) => {
  }
 };
 
-Option 2: The secondary function to the callback ofÊsetState
+Option 2: The secondary function to the callback ofï¿½setState
 toggleFilter = () => {
  this.setState((prevState) => ({
   isFiltered: !prevState.isFiltered

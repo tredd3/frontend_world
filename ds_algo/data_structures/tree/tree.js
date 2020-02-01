@@ -12,16 +12,16 @@ class BST {
     constructor() {
         this.root = null;
     }
-    add(data, root = this.root) {
+    addrecursively(root, data) {
         if (root === null) {
             root = new Node(data);
             if (this.root === null) {
                 this.root = root;
             }
         } else if (data <= root.data) {
-            root.left = this.add(data, root.left)
+            root.left = this.add(root.left, data)
         } else {
-            root.right = this.add(data, root.right)
+            root.right = this.add(root.right, data)
         }
         return root;
     }
@@ -50,42 +50,6 @@ class BST {
             current = current.right;
         }
         return current.data;
-    }
-    find(data) {
-        let current = this.root;
-        while (current && current.data !== data) {
-            if (data <= current.data) {
-                current = current.left;
-            } else {
-                current = current.right;
-            }
-        }
-        return current;
-    }
-    findRecursively(data, root = this.root) {
-        if (root === null) {
-            return false;
-        } else if (data === root.data) {
-            return true;
-        } else if (data <= root.data) {
-            return this.findRecursively(data, root.left)
-        } else {
-            return this.findRecursively(data, root.right)
-        }
-    }
-    isPresent(data) {
-        let current = this.root;
-        while (current) {
-            if (data === current.data) {
-                return true;
-            }
-            if (data < current.data) {
-                current = current.left;
-            } else {
-                current = current.right;
-            }
-        }
-        return false;
     }
     remove(data) {
         const removeNode = function (node, data) {
@@ -127,118 +91,63 @@ class BST {
         }
         this.root = removeNode(this.root, data);
     }
-    isBalanced() {
-        return (this.findMinHeight() >= this.findMaxHeight() - 1)
-    }
-    findMinHeight(node = this.root) {
-        if (node == null) {
-            return -1;
-        };
-        let left = this.findMinHeight(node.left);
-        let right = this.findMinHeight(node.right);
+    // A non-empty binary tree T is balanced if:
+    //1) Left subtree of T is balanced
+    //2) Right subtree of T is balanced
+    //3) The difference between heights of left subtree and right subtree is not more than 1.
+    isBalanced(root = this.root) {
+        let lh; /* for height of left subtree */
+        let rh; /* for height of right subtree */
 
-        return Math.min(left, right) + 1;
+        /* If tree is empty then return true */
+        if (root == null)
+            return 1;
+
+        /* Get the height of left and right sub trees */
+        lh = this.height(root.left);
+        rh = this.height(root.right);
+
+        if (Math.abs(lh - rh) <= 1 && isBalanced(root.left) && isBalanced(root.right))
+            return 1;
+
+        /* If we reach here then  
+        tree is not height-balanced */
+        return 0;
     }
-    findMaxHeight(node = this.root) {
+    height(node = this.root) {
         if (node == null) {
             return -1;
         };
-        let left = this.findMaxHeight(node.left);
-        let right = this.findMaxHeight(node.right);
+        let left = this.height(node.left);
+        let right = this.height(node.right);
 
         return Math.max(left, right) + 1;
     }
-    inOrder() {
-        if (this.root == null) {
-            return null;
-        } else {
-            var data = [];
-            function traverse(node) {
-                if (node.left) traverse(node.left);
-                data.push(node.value);
-                if (node.right) traverse(node.right);
-            }
-            traverse(this.root);
-            return data;
-        };
-    }
-    preOrder() {
-        if (this.root == null) {
-            return null;
-        } else {
-            var data = [];
-            function traverse(node) {
-                data.push(node.value);
-                if (node.left) traverse(node.left);
-                if (node.right) traverse(node.right);
-            }
-            traverse(this.root);
-            return data;
-        };
-    }
-    postOrder() {
-        if (this.root == null) {
-            return null;
-        } else {
-            var data = [];
-            function traverse(node) {
-                if (node.left) traverse(node.left);
-                if (node.right) traverse(node.right);
-                data.push(node.value);
-            }
-            traverse(this.root);
-            return data;
-        }
-    }
-    levelOrder() {
-        if (this.root != null) {
-            return;
-        }
-        var node = this.root,
-            data = [], //for values
-            queue = []; //for references
-        queue.push(node);
+    optimisedIsbalanced(root) {
 
-        while (queue.length) {
-            node = queue.shift();
-            data.push(node.value);
-            if (node.left) queue.push(node.left);
-            if (node.right) queue.push(node.right);
-        }
-        return data;
-    }
-    // isSubtreeNodesLesser(root, value) {
-    //     if (root === null) {
-    //         return true;
-    //     }
-    //     if (root.data <= value && isSubtreeNodesLesser(root.left, value) && isSubtreeNodesLesser(root.right, value)) {
-    //         return true;
-    //     } else {
-    //         return false;
-    //     }
-    // }
-    // isSubtreeNodesGreater(root, value) {
-    //     if (root === null) {
-    //         return true;
-    //     }
-    //     if (root.data <= value && isSubtreeNodesGreater(root.left, value) && isSubtreeNodesGreater(root.right, value)) {
-    //         return true;
-    //     } else {
-    //         return false;
-    //     }
-    // }
-    // isBinarySearchTree(root = this.root) {
-    //     if (root === null) {
-    //         return true;
-    //     }
-    //     if (this.isSubtreeNodesLesser(root.left, root.data) && isBinarySearchTree(root.left)
-    //         && this.isSubtreeNodesGreater(root.right, root.data) && isBinarySearchTree(root.right)) {
-    //         return true;
-    //     } else {
-    //         return false;
-    //     }
-    // }
+        /* lh --> Height of left subtree  
+        rh --> Height of right subtree */
+        let lh, rh = 0;
+        /* l will be true if left subtree is balanced  
+        and r will be true if right subtree is balanced */
+        let l = 0, r = 0;
 
+        if (root == null) {
+            return [-1, 1];//[height,isBalanced]
+        }
+
+        /* Get the heights of left and right subtrees in lh and rh  
+        And store the returned values in l and r */
+        [lh, l] = this.optimisedIsbalanced(root.left);
+        [rh, r] = this.optimisedIsbalanced(root.right);
+
+        /* Height of current node is max of heights of left and  
+        right subtrees plus 1*/
+        let nodeheight = Math.max(lh, rh) + 1;
+
+        return [nodeheight, (Math.abs(lh - rh) <= 1) && l && r]
+
+    }
     //time complexity - O(n^2)
     isBinarySearchTree(root = this.root) {
         if (root === null) {
@@ -269,16 +178,10 @@ class BST {
 }
 
 const bst = new BST();
-
-bst.add(9);
-bst.add(4);
-bst.add(17);
-bst.add(3);
-bst.add(6);
-bst.add(22);
-bst.add(5);
-bst.add(7);
-bst.add(20);
+var array = [10, 6, 15, 3, 8, 20]
+for (let x of array) {
+    bst.addrecursively(bst.root, x)
+}
 
 console.log(bst.findMinHeight());
 console.log(bst.findMaxHeight());
