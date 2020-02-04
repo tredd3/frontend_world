@@ -120,10 +120,12 @@ time complexity: O(n) | space complxity: O(n) , best O(logn)
 search/insert - O(logn)
 delete - O(1) (but since after deletion we need to modify the heap it takes O(logn))
 
-9)Graphs - social network, web crawling is graph traversal
+9)Graphs - social network, web crawling is graph traversal //matrix representation
 directed and undirected graph (vertices and edges)
 weighted(edges have values like distance between cities) and unweighted(social network)
-
+BFS - shortest path
+DFS - total paths
+Backtracking - all possible paths
 
 10)Trie - dictionary and recommendations
 both space and time efficient

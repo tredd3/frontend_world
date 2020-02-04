@@ -479,3 +479,40 @@ function tracePropAccess(obj, propKeys) {
         },
     });
 }
+
+//print name 100 times after 1sec each
+//method1 - recursion
+function promise(i) {
+    return new Promise((resolve) => {
+        setTimeout(() => { console.log(i); resolve() }, 1000)
+    })
+}
+
+function print(n, max = 10) {
+    if (n > max) return;
+    promise(n).then(() => print(n + 1))
+}
+
+//method2 - iteration
+function promise(i) {
+    return new Promise((resolve) => {
+        setTimeout(() => { console.log(i); resolve() }, 1000)
+    })
+}
+
+async function print(max) {
+    for (let i = 0; i < max; i++) {
+        await promise(i)
+    }
+}
+
+//method3
+let count = 1;
+let myVar = setInterval(() => {
+    if (count <= 10) {
+        console.log("hi" + count)
+        count++;
+    }
+    else clearInterval(myVar)
+}, 1000);
+myVar()

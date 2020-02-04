@@ -132,9 +132,23 @@ function leftView(root) {
 
 
 //level order in a spiral form - recursion
-void printGivenLevel(root, level, ltr)
-{
-    if (root == NULL)
+function printSpiral(root) {
+    let h = height(root);
+    let i;
+
+    /*ltr -> Left to Right. If this variable is set, 
+      then the given level is traversed from left to right. */
+    let ltr = false;
+    for (i = 1; i <= h; i++) {
+        printGivenLevel(root, i, ltr);
+
+        /*Revert ltr to traverse next level in opposite order*/
+        ltr = !ltr;
+    }
+}
+
+function printGivenLevel(root, level, ltr) {
+    if (root == null)
         return;
     if (level == 1)
         printf("%d ", root.data);
@@ -152,7 +166,7 @@ void printGivenLevel(root, level, ltr)
 
 //level order in a spiral form - iteration
 function printSpiral(root) {
-    if (root == NULL)
+    if (root == null)
         return; // NULL check 
 
     // Create two stacks to store alternate levels 

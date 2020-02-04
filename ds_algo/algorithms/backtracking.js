@@ -25,10 +25,10 @@ function permute(a, l, r) {
 
 //rat in a maze problem
 function solveMaze(maze) {
-    var sol = Array(m + 1)
-    for (var i = 0; i <= m; i++) {
-        lookup[i] = Array(n + 1);
-        lookup[i].fill(0);
+    let sol = Array(m + 1); //boolean array
+    for (let i = 0; i < m; i++) {
+        sol[i] = Array(n + 1)
+        sol[i].fill(0)
     }
 
     if (solveMazeUtil(maze, 0, 0, sol) == false) {
@@ -56,12 +56,12 @@ function solveMazeUtil(maze, x, y, sol) {
         sol[x][y] = 1;
 
         /* Move forward in x direction */
-        if (solveMazeUtil(maze, x + 1, y, sol) == true)
+        if (solveMazeUtil(maze, x, y + 1, sol) == true)
             return true;
 
         /* If moving in x direction doesn't give solution then 
            Move down in y direction  */
-        if (solveMazeUtil(maze, x, y + 1, sol) == true)
+        if (solveMazeUtil(maze, x + 1, y, sol) == true)
             return true;
 
         /* If none of the above movements work then BACKTRACK:  
