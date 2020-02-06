@@ -34,13 +34,10 @@ console.log(array.slice(-2)); // [5,6]
 function flatten(arr) {
     const result = []
 
-    arr.forEach((i) => {
-        if (Array.isArray(i)) {
-            result.push(...flatten(i))
-        } else {
-            result.push(i)
-        }
-    })
+    for (let x of arr) {
+        if (Array.isArray(x)) result.push(...flatten(x))
+        else result.push(x)
+    }
 
     return result
 }
@@ -107,6 +104,12 @@ console.log(myOrderedArray);
 //better way
 console.log([...new Set(myArray)]);
 
+//filter an array and map
+var result = array.filter(filterFn).map(mapFn)
+var result = (array, filterFn, mapFn) => array.reduce((acc, ele) => {
+    if (!filterFn(ele)) return acc
+    return [...acc, mapFn(ele)]
+}, [])
 
 //Running Promises in Sequence
 function runPromiseInSequence(arr, input) {
@@ -484,13 +487,13 @@ function tracePropAccess(obj, propKeys) {
 //method1 - recursion
 function promise(i) {
     return new Promise((resolve) => {
-        setTimeout(() => { console.log(i); resolve() }, 1000)
+        setTimeout(() => { console.log(i); resolve(i + 1) }, 1000)
     })
 }
 
-function print(n, max = 10) {
+function print(n = 1, max = 10) {
     if (n > max) return;
-    promise(n).then(() => print(n + 1))
+    promise(n).then(print)
 }
 
 //method2 - iteration

@@ -36,3 +36,31 @@ function* countAppleSales () {
 var appleStore = countAppleSales(); // Generator { }
 console.log(appleStore.next()); // { value: 3, done: false } //1
 console.log(appleStore.next()); // { value: 7, done: false } //2
+
+// Process promise chain with reduce
+const processor = steps => steps.reduce((p, fn) => {
+  let proceed = true;
+  return p
+    .then(res => {
+      if (proceed) return fn(res);
+    })
+    .catch(err => {
+      proceed = false;
+      console.log(err);
+    });
+}, Promise.resolve({}));
+
+const aPromise = text => {
+  return new Promise(resolve => setTimeout(() => {
+		console.log('A PROMISE: ', text);
+  	resolve(text);
+  }, 1000));
+};
+
+const task1 = [
+	() => aPromise('step1'),
+  res => aPromise(`${res} - step2`),
+  res => aPromise(`${res} - step3`),
+]
+
+processor(task1);

@@ -65,10 +65,11 @@ console.log(map); // Map { foo: "bar", baz: 42 }
 const map = new Map([ ['foo', 'bar'], ['baz', 42] ]);
 const obj = Object.fromEntries(map);
 console.log(obj); // { foo: "bar", baz: 42 }
+*Object.getOwnPropertyNames() - returns an array of all own properties (including non-enumerable properties except for those which use Symbol)
 *Object.keys() - Returns an array containing the names of all of the given object's own enumerable string properties.
 *Object.values() - Returns an array containing the values
 *Object.seal(obj) - Prevents other code from deleting and adding properties to an object.They can only modify
-*Object.freeze(obj) - Freezes an object. Other code cannot delete or change its properties.
+*Object.freeze(obj) - Freezes an object. Other code cannot delete or change its properties but can add properties
 *Object.preventExtensions(obj) method prevents new properties from ever being added to an object 
 
 **private properties on an object

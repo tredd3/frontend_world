@@ -130,3 +130,29 @@ function reverseString(str) {
         return reverseString(str.substr(1)) + str.charAt(0);
 }
 reverseString("hello");
+
+var x = 'gkgk "kgl jlh" lhh "khlhl jhjp"'
+function tok(x) {
+    let str = ''
+    let result = [];
+    let i = 0;
+    let length = x.length; r
+    while (i < length) {
+        debugger;
+        if (x.charAt(i) === ' ') {
+            result.push(str)
+            str = ''
+        } else if (x.charAt(i) === '"') {
+            let index = x.indexOf('"', i + 1)
+            result.push(x.slice(i, index + 1))
+            i = index + 1
+        } else {
+            str += x.charAt(i)
+        }
+        i++;
+    }
+    return result;
+}
+tok(x)
+
+//
