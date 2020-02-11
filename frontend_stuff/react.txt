@@ -1,0 +1,119 @@
+//REACT IMP questions 
+why react: declarative(we simply declare what we need and react takes care of implementation), component based, composition(component inside a component)
+opp of declarative is imperative 
+use: view library mostly used for developing SPAs 
+presentational components are concerned with the look
+container components are concerned with making things work
+features: 
+virtual dom(use diffing algorithm to push only the changes to real dom)
+Unidirectional data flow - from parent to child
+HOC(separate logic from UI)
+Supports server-side rendering
+JavaScript XML - syntactic sugar for the React.createElement()
+four different phases of component lifecycle:
+1)Initialization: setting up the initial state and default props
+2)Mounting: 
+constructor() - initialize state and bind methods
+static getDerivedStateFromProps() -It should return an object to update the state, or null to update nothing.
+componentWillMount() - unsafe bcoz there is no guarantee that react will call it only once.react can call this method multiple times
+render() - only required method in a class component
+componentDidMount() -  AJAX requests,event listeners,subsriptions etc
+3)Updating: change in state/ change in props/ forceupdate
+static getDerivedStateFromProps - It should return an object to update the state, or null to update nothing.
+shouldComponentUpdate(prevProps, prevState) - bydefault true, If you are sure that the component doesn't need to render after state or props are updated, you can return false 
+PureComponent performs a shallow comparison of props and state | PureComponent+immutable.js for performance
+componentWillUpdate() - unsafe bcoz there is no guarantee that react will call it only once.react can call this method multiple times
+render() - should be pure,i.e no state updates inside render | renders the contents on virtual DOM
+getSnapshotBeforeUpdate() - gets the snapshot of DOM before it is updated like capturing scroll position
+componentDidUpdate(prevProps, prevState)
+4)Unmounting: componentWillUnmount() - invalidating timers, canceling network requests, or cleaning up any subscriptions
+**Error Handling - These methods are called when there is an error during rendering, in a lifecycle method, or in the constructor of any child component.
+static getDerivedStateFromError() - This lifecycle is invoked after an error has been thrown by a descendant component.
+It receives the error that was thrown as a parameter and should return a value to update state
+componentDidCatch() - log information about which component threw the error
+Error boundaries are React components that implement one or both the above methods
+*setState() does not always immediately update the component. It may batch or defer the update
+ this.setState({quantity: 2}) - This form of setState() is also asynchronous, and multiple calls during the same cycle may be batched together.
+ If the next state depends on the current state, we recommend using the updater function form, instead:
+ this.setState((state) => {
+  return {quantity: state.quantity + 1};
+});
+*forceUpdate() will cause render() to be called on the component, skipping shouldComponentUpdate()
+React will still only update the DOM if the markup changes.
+*SyntheticEvent, a cross-browser wrapper around the browser’s native event.
+SyntheticEvent object will be reused and all properties will be nullified after the event callback 
+has been invoked. This is for performance reasons. As such, you cannot access the event in an asynchronous way(like using event object in settimeout)
+for using in an asynchronous way, you should call event.persist()
+*Fragments - use less memory by not creating an extra DOM node | adding extra divs in the middle of layouts can disturb the layout
+*diffing algorithm - time complexity for comparisons - O(n) where n is the number of elements in the tree
+diffing algorithm based on two assumptions:
+1)Two elements of different types will produce different trees.
+React first compares the two root elements:Whenever the root elements have different types, React 
+will tear down the old tree and build the new tree from scratch.
+if the type is same React looks at the attributes of both, keeps the same underlying DOM node, and only updates the changed attributes
+Recursing On Children: React just iterates over both lists of children at the same time and generates a mutation whenever there’s a difference
+2)The developer can hint at which child elements may be stable across different renders with a key prop.
+using keys eliminate the need of re-rendering of the child elements and simply change their places
+
+
+//functional vs class components
+1)after transpiling by babel less code generated for functional components compared to class
+2)easy to read and test as they are plain javascript functions
+3)React team mentioned that there may be a performance boost for functional component in future React versions
+4)used to write presentational components (focus on the UI rather than behavior)
+
+
+//hooks
+Hooks don’t work inside classes — they let you use React without classes
+Hooks are functions that let you “hook into” React state and lifecycle features from function components
+Hooks allow you to reuse stateful logic without changing your component hierarchy - custom hooks
+Hooks solve many of problems like sharing stateful logic between components: without forcing you to add more components to the tree
+Hooks let us split the code based on what it is doing rather than a lifecycle method name.
+React will apply every effect used by the component, in the order they were specified.
+useEffect(() => {
+  document.title = `You clicked ${count} times`;
+}, [count]); // Only re-run the effect if count changes
+If there are multiple items in the array, React will re-run the effect even if just one of them is different.
+If you want to run an effect and clean it up only once (on mount and unmount), you can pass an empty array ([]) as a second argument. 
+This tells React that your effect doesn’t depend on any values from props or state, so it never needs to re-run. 
+Hooks are JavaScript functions, but they impose two additional rules:
+1)Only call Hooks at the top level. Don’t call Hooks inside loops, conditions, or nested functions - allows
+ React to correctly preserve the state of Hooks between multiple useState and useEffect calls
+If we want to run an effect conditionally, we can put that condition inside our Hook
+2)Only call Hooks from React function components. Don’t call Hooks from regular JavaScript functions(but u can call Hooks in ur custom hooks)
+
+
+//inbuilt-hooks
+*useState is a Hook sameas this.setState in a class, except it doesn’t merge the old and new state together
+*useEffectserves the same purpose as componentDidMount, componentDidUpdate, and componentWillUnmount in React classes, but unified into a single API.
+used to perform side effects from a function component. 
+effects - data fetching, subscriptions, logging, timers and manually changing the DOM (can affect other components and can’t be done during rendering)
+A function is said to have side effect if it trys to modify anything outside its body. 
+By default, React runs the effects after every render — including the first render. 
+When exactly does React clean up an effect? React performs the cleanup when the component unmounts.
+but effects run for every render and not just once. This is why React also cleans up effects from the previous render before running the effects next time.
+*useContext lets you subscribe to React context without introducing nesting
+*useReducer lets you manage local state of complex components with a reducer
+
+
+//AJAX requests should go in the componentDidMount lifecycle method - Doing AJAX in componentDidMount will guarantee that there’s a 
+component to update - because you can’t guarantee the AJAX request won’t resolve before the component mounts. If it did, that would
+mean that you’d be trying to setState on an unmounted component, which won’t work.
+//createElement is what JSX gets compiled to and is what React uses to create React Elements (object representations of some UI).
+ cloneElement is used to clone an element and pass it new props.
+//Due to the async nature of setState and as react batches the state updates it is not advisable to 
+use this.state to get the previous state within setState
+use this.setState((prevState, props) => {
+  return {counter: prevState.counter + props.step};
+})
+
+
+//Performance in react
+class components - shouldComponentUpdate/React.PureComponent
+functional components - optimisation given by react future versions and less bundle size(as it transpiles to less code)
+
+
+//testing in react
+1)shallowRenderer as a “place” to render the component you’re testing. This means you can test components isolated from how their children are implemented.
+2)snapshot testing by jest 
+3)

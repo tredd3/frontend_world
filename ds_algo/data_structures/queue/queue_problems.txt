@@ -31,8 +31,7 @@ struct Queue {
         } 
   
         // pop an item from the stack 
-        int x = s.top(); 
-        s.pop(); 
+        int x = s.pop(); 
   
         // if stack becomes empty, return 
         // the popped item 
