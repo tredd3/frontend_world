@@ -40,6 +40,7 @@ Error boundaries are React components that implement one or both the above metho
 });
 *forceUpdate() will cause render() to be called on the component, skipping shouldComponentUpdate()
 React will still only update the DOM if the markup changes.
+*ref - for accessing real DOM and child component methods
 *SyntheticEvent, a cross-browser wrapper around the browser’s native event.
 SyntheticEvent object will be reused and all properties will be nullified after the event callback 
 has been invoked. This is for performance reasons. As such, you cannot access the event in an asynchronous way(like using event object in settimeout)
@@ -54,6 +55,7 @@ if the type is same React looks at the attributes of both, keeps the same underl
 Recursing On Children: React just iterates over both lists of children at the same time and generates a mutation whenever there’s a difference
 2)The developer can hint at which child elements may be stable across different renders with a key prop.
 using keys eliminate the need of re-rendering of the child elements and simply change their places
+*Reconciliation - process through which React updates the DOM by comparing with virtual DOM
 
 
 //functional vs class components
@@ -92,8 +94,26 @@ A function is said to have side effect if it trys to modify anything outside its
 By default, React runs the effects after every render — including the first render. 
 When exactly does React clean up an effect? React performs the cleanup when the component unmounts.
 but effects run for every render and not just once. This is why React also cleans up effects from the previous render before running the effects next time.
+Unlike componentDidMount and componentDidUpdate, the function passed to useEffect fires after layout and paint, during a deferred event
+*useLayoutEffect - same as useEffect, and only differs in when it is fired
+Updates scheduled inside useLayoutEffect will be flushed synchronously, before the browser has a chance to paint.
 *useContext lets you subscribe to React context without introducing nesting
-*useReducer lets you manage local state of complex components with a reducer
+useContext(MyContext) only lets you read the context and subscribe to its changes. You still need a 
+<MyContext.Provider> above in the tree to provide the value for this context.
+*useReducer lets you manage local state of complex components with a reducer - useReducer is usually
+preferable to useState when you have complex state logic that involves multiple sub-values or when 
+the next state depends on the previous one.
+*useCallback(fn, deps) is equivalent to useMemo(() => fn, deps) - function passed to useMemo runs during 
+rendering. Don’t do anything there that you wouldn’t normally do while rendering. For example, side effects belong in useEffect, not useMemo
+function Button() {
+  let appContextValue = useContext(AppContext);
+  let theme = appContextValue.theme; // Your "selector"
+
+  return useMemo(() => {
+    // The rest of your rendering logic
+    return <ExpensiveTree className={theme} />;
+  }, [theme])
+}
 
 
 //AJAX requests should go in the componentDidMount lifecycle method - Doing AJAX in componentDidMount will guarantee that there’s a 
@@ -109,9 +129,13 @@ use this.setState((prevState, props) => {
 
 
 //Performance in react
-class components - shouldComponentUpdate/React.PureComponent
+class components - shouldComponentUpdate(nextProps, nextState)/React.PureComponent
+React.memo is a higher order component. It’s similar to React.PureComponent but for function components instead of classes.
+React.memo only affects props changes. If your function component wrapped in React.memo has a useState or
+useContext Hook in its implementation, it will still rerender when state or context change
 functional components - optimisation given by react future versions and less bundle size(as it transpiles to less code)
-
+Profiler - measures how often a React application renders and what the “cost” of rendering is.
+Its purpose is to help identify parts of an application that are slow and may benefit from optimizations such as memoization.
 
 //testing in react
 1)shallowRenderer as a “place” to render the component you’re testing. This means you can test components isolated from how their children are implemented.

@@ -1,7 +1,13 @@
 //ADVANCED1 
+//JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
+examples of low-level languages are assembly and machine code -  machine-dependent and non-portable - It needs assembler for translation
+high level languages are C, C++, Java, Python,js - needs compiler or interpreter for translation
+
+
 //dealing with images or files
 Arraybuffer is an array of raw binary data. It can only be accessed by using blob type.
 Use FileReader to read that file (create a url mapping to that file)and load it into the page and/or localStorage using the url read.
+
 
 //source map
 Source map is used for debugging transpiled/minified files in production or transpiled files in development.
@@ -10,6 +16,7 @@ sorucemappingurl directive is added by web pack at the end of minified/transpile
 On opening dev tools if source maps option is enabled in the browser settings then browser will look for sourcemappingurl in the minified file
 And based on that it will fetch/download the corresponding original files which can be used for debugging.
 If it is a secure site like banking or u want to protect the code from others use fiddler.
+
 
 //go through all these links
 https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html

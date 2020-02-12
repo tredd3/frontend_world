@@ -1,0 +1,21 @@
+//Use Passive Event Listeners and debounce to Improve Scrolling Performance
+*if you attach (scroll - passive by default, wheel, touchstart and touchmove) events to a page, the
+browser has to wait to redraw the page until the event listener finishes execution
+*document.addEventListener('touchstart', onTouchStart, {passive: true});
+*By marking a touch or wheel listener as passive, the developer is promising the handler won't call preventDefault to disable scrolling. 
+*The browser can then, for example, keep scrolling at native speed without waiting for your event handlers 
+to finish executing , thus ensuring a reliably smooth scrolling experience for the user.
+
+//css 
+
+
+//js
+async/defer 3rd party libraries
+
+//images
+sprites
+
+//code splitting
+
+//reducing http requests - by caching
+
