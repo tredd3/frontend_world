@@ -8,13 +8,14 @@ closures instead of encapsulation
 5)Declarative rather than imperative code (what to do, rather than how to do it)
 6)In functional programming things are loosely coupled but in OO things are tightly coupled.
 
-//http vs https
-HTTP provides standard rules for web browsers & servers to communicate.
-HTTP is an application layer network protocol which is built on top of TCP.
-HTTPS: It is a combination of SSL/TLS protocol and HTTP. 
-Transport Layer Security/Secure Sockets Layer, are cryptographic protocols designed to provide communications security over a computer network
-https://www.guru99.com/difference-http-vs-https.html
 
-//Open System Interconnection Model | OSI 7 layers
-
-
+//javascript imp stuff
+*JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
+*examples of low-level languages are assembly and machine code -  machine-dependent and non-portable - It needs assembler for translation
+*high level languages are C, C++, Java, Python,js - needs compiler or interpreter for translation
+*JavaScript is a multi-paradigm language, supporting functional and object oriented (prototypal inheritance) - 2 pillars of js
+*First-class functions - function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable
+*FP - avoids shared state & mutable data, first-class functions, higher order functions, function composition, Pure functions,Avoid side-effects
+*OOP - tightly coupled, shared state, different things competing for the same resources(race condition)
+*Microservices are frequently deployed on their own virtual machines - loosely coupled(independent of other services)
+A monolithic architecture means that your app is written as one cohesive unit of code whose components are designed to work together, sharing the same memory space and resources

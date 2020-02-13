@@ -1,8 +1,4 @@
-//ADVANCED1 
-//JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
-examples of low-level languages are assembly and machine code -  machine-dependent and non-portable - It needs assembler for translation
-high level languages are C, C++, Java, Python,js - needs compiler or interpreter for translation
-
+//ADVANCED1
 
 //dealing with images or files
 Arraybuffer is an array of raw binary data. It can only be accessed by using blob type.
