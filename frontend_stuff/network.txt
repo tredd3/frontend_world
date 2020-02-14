@@ -5,6 +5,29 @@ HTTP is an application layer network protocol which is built on top of TCP.
 HTTPS: It is a combination of SSL/TLS protocol and HTTP. 
 Transport Layer Security/Secure Sockets Layer, are cryptographic protocols designed to provide communications security over a computer network
 https://www.guru99.com/difference-http-vs-https.html
+https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 
 //Open System Interconnection Model | OSI 7 layers
+
+
+//Network Requests
+ASCII�characters - Codes 0 through 127 �(all keyboard chars)
+NON ASCII characters - Codes 128 through 255�()
+x-www-form-urlencoded - to send simple text/ ASCII data
+form-data - to send non-ASCII text or large binary data like files and image uploading
+Raw�if you want to send plain text /JSON/XML
+Binary�- non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
+
+REST Architecture - JSON ,CACHING, LESS BANDWIDTH,
+API - programs built on different platforms and programming languages could exchange data in an easy manner.
+
+
+// SERVER INTERACTION
+By default,�HTTP�uses�port�80 and HTTPS uses�port�443
+AJAX  uses XHR object and AJAX is used for partial page updates without full refresh.
+AJAX - the process establishing a connection, sending request to server , getting the response and then updating the DOM
+Fetch API - �Fetch API uses Promises, which enables a simpler and cleaner API, avoiding callback hell
+API�stands for Application Programming Interface. It makes it possible to transfer data from an application to other applications.
+REST APIs�uses multiple standards like HTTP, JSON, URL, and XML while SOAP�APIs�is largely based on HTTP and XML
+

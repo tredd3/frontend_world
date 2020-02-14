@@ -1,6 +1,6 @@
 
 //Factory Functions vs Constructor Functions vs Classes
-In JavaScript, any function can return a new object. When itÕs not a constructor function or class, itÕs called a factory function.
+In JavaScript, any function can return a new object. When itï¿½s not a constructor function or class, itï¿½s called a factory function.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
 
 *A prototype-based language has the notion of a prototypical object, an object used as a template from which to get the initial properties for a new object.
@@ -41,7 +41,7 @@ REACT - virtual DOM
 Built for large and complex web apps 
 HTML ,CSS and JS all clubbed in to one component
 Virtual DOM - only updating parts of the DOM that changed instead of rendering the whole DOM
-React hooks lets you use every important feature of React Ð server-side rendering, accessibility, concurrent mode, and suspense Ð all without writing a class.
+React hooks lets you use every important feature of React ï¿½ server-side rendering, accessibility, concurrent mode, and suspense ï¿½ all without writing a class.
 React doesn't deep compare and hence never mutate state or props | Immutable data cannot be changed once created
 https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56
 VUE - 
@@ -97,8 +97,8 @@ NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and 
 *Node is for simple, fast and scalable and real-time applications. Java is for highly complex and concurrent apps.
 *Node for I/O-intensive apps that include a lot of disk or network access, therefore we can serve more clients, without the need of throwing more hardware.
  And that is why Node applications are highly scalable.
-*Node shouldnÕt be used for CPU-intensive applications (video encoding, image manipulation service etc.) as it is single threaded (worker threads can help)
-*Java is platform independent due to the so-called Java Virtual Machine Ð the environment where Java code is executed.
+*Node shouldnï¿½t be used for CPU-intensive applications (video encoding, image manipulation service etc.) as it is single threaded (worker threads can help)
+*Java is platform independent due to the so-called Java Virtual Machine ï¿½ the environment where Java code is executed.
 Node.js has modules that are tied to the operating system. When you need the software to run on another platform, you will have to rebuild the modules, so that they are compatible with the new OS.
 
 

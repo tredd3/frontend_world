@@ -1,21 +1,28 @@
 //WEB SECURITY
 https://medium.com/@pantpriyamvada/session-management-and-security-in-spa-d96f4a9e817e
 https://www.imperva.com/learn/application-security/application-security/
+https://developer.mozilla.org/en-US/docs/Web
+
+
 **sql injection
-�Occurs when a perpetrator uses malicious SQL code to manipulate a backend database so it reveals information. Consequences include the unauthorized viewing of lists, deletion of tables and unauthorized administrative access.
+Occurs when a perpetrator uses malicious SQL code to manipulate a backend database so it reveals information.
+Consequences include the unauthorized viewing of lists, deletion of tables and unauthorized administrative access.
 
 **cross-site scripting (XSS) attacks  - Inducting malicious content into site which often includes�JavaScript but sometimes�HTML
 To help mitigate  XSS HttpOnly�cookies are inaccessible to JavaScript's�Document.cookie�API .they are only sent to the server. 
 For example, cookies that persist server-side sessions don't need to be available to JavaScript, and the�HttpOnly flag should be set.
 Types of XSS attacks:
-1)Stored XSS Attacks - The injected script is stored permanently�on the target servers. The victim then retrieves this malicious script from the server when the browser sends a request for data.
-2)Reflected XSS Attacks - When a user is tricked into clicking a malicious link, submitting a specially crafted form, or browsing to�a malicious site, the injected code travels to the vulnerable website. The Web server reflects the injected script�back to the user's browser,�such as in an error message, search result, or any other response that includes data sent to the server as part of the request.
+1)Stored XSS Attacks - The injected script is stored permanently�on the target servers. 
+The victim then retrieves this malicious script from the server when the browser sends a request for data.
+2)Reflected XSS Attacks - When a user is tricked into clicking a malicious link, submitting a specially crafted form,
+ or browsing to�a malicious site, the injected code travels to the vulnerable website. The Web server reflects the injected 
+ script�back to the user's browser,�such as in an error message, search result, or any other response that includes data sent to the server as part of the request.
 3)DOM-based XSS Attacks - The payload is executed as a result of modifying the DOM environment
 Solution:
-Content Security Policy�(CSP) is to prevent execution of scripts and content from domains other than those mentioned in the Content-Security-Policy�HTTP header
+Content Security Policy (CSP) is to prevent execution of scripts and content from domains other than those mentioned in the Content-Security-Policy�HTTP header
 Browsers that don't support it still work with servers that implement it, and vice-versa
-To enable CSP, you need to configure your web server to return the�Content-Security-Policy�HTTP header�. Alternatively, the�<meta>�element can be used to configure a policy
-A CSP compatible browser will then only execute scripts loaded in source files received from those allow listed domains, ignoring all other script�
+To enable CSP, you need to configure your web server to return the Content-Security-Policy HTTP header. 
+
 
 **cross-site request forgery attacks (CSRF) - request is made from victim�s site without his notice 
 SameSite�cookies let servers require that a cookie shouldn't be sent with cross-site (different  domain) requests, which provides some protection against cross-site request forgery attacks (CSRF)

@@ -66,3 +66,13 @@ Pick the data from props and  display it or do the error validation.
 3)call the action in the component lifecycle
 4)connect component with store
 5)pick the props from store and use it in the component 
+
+//middleware
+*Middleware is created by composing functionality that wraps separate cross-cutting concerns 
+which are not part of your main execution task like authentication, authorization, logging, gathering performance metrics
+Cross-cutting concerns are parts of a program that rely on or must affect many other parts of the system
+*why middleware? The store will dispatch this action object to all of it’s reducer functions which could affect state.
+However, the reducer functions are only concerned with executing logic around this deletion.
+They typically don’t care who did it, how long it took, or logging the before and after effects of the state changes.
+This is where middleware can help us to address these non-core concerns.
+*Redux middleware is designed by creating functions that can be composed together before the main dispatch method is invoked

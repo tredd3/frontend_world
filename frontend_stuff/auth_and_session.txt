@@ -7,6 +7,7 @@ Also Cookies are primarily designed for web browsers and not for other types of 
 Other limitations�are size of the cookie and access to user to for disabling, modifying or erasing them.
 
 Token based authentication - send ur credentials to authorisation server get the token , use the token to get the resource from resources server
+token(stateless) is stored on client side unlike cookies(stateful)
 
 //JWT -https://jwt.io/introduction/
 https://logrocket.com/blog/jwt-authentication-best-practices/
@@ -44,3 +45,9 @@ $.ajax({
 }).catch(function(err) {
   console.error(err);
 });
+
+
+//authentication in SPAs
+sessions
+stateless JWT
+stateful JWT

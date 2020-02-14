@@ -29,20 +29,5 @@ An application component uses the API to make requests for service from other co
 Every request will hit the cache and  the response is served. If the response is not present then main memory servers will be hit, response is stored in the cache and then it is served
 Application cache types: 
 
-push notifications�can appear anytime, in-app notifications�only appear while someone is using the�app
-An iframe is used to display a web page within a web page.
-
-//Network Requests
-ASCII�characters - Codes 0 through 127 �(all keyboard chars)
-NON ASCII characters - Codes 128 through 255�()
-x-www-form-urlencoded - to send simple text/ ASCII data
-form-data - to send non-ASCII text or large binary data like files and image uploading
-Raw�if you want to send plain text /JSON/XML
-Binary�- non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
-
-REST Architecture - JSON ,CACHING, LESS BANDWIDTH,
-API - programs built on different platforms and programming languages could exchange data in an easy manner.
-
-
 
 

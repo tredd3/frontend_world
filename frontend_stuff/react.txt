@@ -126,6 +126,11 @@ use this.state to get the previous state within setState
 use this.setState((prevState, props) => {
   return {counter: prevState.counter + props.step};
 })
+//prop drilling - it creates coupling between components that would otherwise be decoupled
+redux/context are the solutions 
+//redux vs context 
+redux for large scale apps and provides additional functionalities like middleware 
+context is used for avoiding prop drilling 
 
 
 //Performance in react

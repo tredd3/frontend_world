@@ -19,3 +19,85 @@ sprites
 
 //reducing http requests - by caching
 
+
+// FRONTEND PERFORMANCE
+https://developers.google.com/web/fundamentals/performance/get-started/
+https://developers.google.com/web/tools/lighthouse/audits/bootup
+https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint
+https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c 
+https://medium.com/@aljullu/an-easy-to-use-performant-solution-to-lazy-load-images-in-react-e6752071020c 
+https://reactjsexample.com/react-lazy-load-images-with-intersectionobserver-api-and-priority-hints/
+https://react-slick.neostack.com/docs/example/custom-slides
+https://react-slick.neostack.com/docs/api/#arrows
+
+Performance - across devices(mobile, desktop, tablet	etc) , networks(LTE, 2g, 3g), users
+performance tools -  lighthouse (personalised advice on improving performance, PWA ,SEO ,Best practices and accessibility)
+PROBLEM 
+more code - more data needed and more time to load - Mobile devices have limited CPU power and memory - site unresponsiveness
+NEED - retaining users , impacts business and revenues
+Frontend performance techniques always depend on the type of application
+Images - image optimisation techniques
+High computational i.e using complex algo and more fetch calls - web workers
+Heavy UI and too much js functionality - routing + code splitting + react virtualisation
+for all sites, whose code doesn�t change frequently on the server - Caching by service workers/ webpack /akamai
+Streaming site - Preconnect + web socket
+
+PROCESS TO RENDER A WEB PAGE I.e  critical rendering path by browser:
+1. Process HTML markup and build the DOM tree.
+2. Process CSS markup and build the CSSOM tree.
+3. Combine the DOM and CSSOM into a render tree. (both HTML and CSS are render blocking resources, media queries and types allow us to mark some CSS resources as non-render blocking, The browser downloads all CSS resources, regardless of blocking or non-blocking behavior)
+4. Run layout on the render tree to compute geometry of each node and emit paint event once done
+Layout - box model and viewport size comes into picture
+Reduce DOM size and Reduce CSS code and specificity  - to reduce render tree construction and Layout calculation time by browser
+5. Paint the individual nodes to the screen.
+If either the DOM or CSSOM were modified, you would have to repeat the process in order to figure out which pixels would need to be re-rendered on the screen
+
+//SOLUTION
+
+LOADING PERFORMANCE  - less visits to site, impacts SEO 
+Network (preload, prefetch - leverage HTTP caching -to eliminate redundant downloads,  preconnect /defer - third party domain, HTTP2)
+A preloaded chunk starts loading in parallel to the parent chunk. A prefetched chunk starts after the parent chunk finish
+A preloaded chunk has medium priority and instantly downloaded. A prefetched chunk is downloaded in browser idle time.
+Use preload for a resource which is guaranteed to be used, prefetch for the resource which has no guarantee to be used.
+Preconnect - establishes just a connection  and data flow is not established until your code triggers it.
+HTTP 2 - helpfuf for code splitting and preconnect - multiple and simultaneous requests are cheap now
+Eliminating Unnecessary Downloads-  ( webpack code on demand - code splitting + prefetch for SPA ), defer , don�u use big libraries to achieve small functionality
+Reduce Resource Size ( minification (remove spaces and comments), uglification(shortening variable names) - use source maps for debugging,
+				tree shaking - webpack removes unused modules in prod version,
+				 image optimisation - sprites, Deliver images responsively ,Configure the  server for compressing resources -images , font-optimisation , DRY - reusable code)
+CACHING
+http caching - but why? -  reduce load on server - less data usage to client - faster application 
+Service worker scriptable cache - V8 uses�just-in-time compilation�(JIT) to execute Javascript code - �When a script is compiled for the first time, cache data is produced and stored and the next time user visits the site The data from cache is served.
+Service workers are great for a�progressive web app, which allows for offline access and optimizes for users with poor internet connections.They cache static files
+
+
+Progressive Web Apps  - push notifications, add to home screen option, update the app at the  time of loading unlike normal apps from play store , caching strategy
+https://itnext.io/service-workers-your-first-step-towards-progressive-web-apps-pwa-e4e11d1a2e85
+https://developers.google.com/web/fundamentals/primers/service-workers/
+Service workers  - browser feature - acts as a proxy server - offline working of the APP -event-driven scripts that run independently of web pages �they have access to domain-wide events such as network fetches Service Workers �have scriptable caches are meant to replace the HTML5 Application Cache.
+
+Long-term caching -  avoid having to re-fetch resources that haven't changed -  filename hashing. By webpack
+Optimizing the critical rendering path� - achieve higher refresh rates(reduces the amount of time between screen updates after the initial render)
+Eliminate render-blocking resources by deferring unused css
+ js(parser blocking- rendering engine halts DOM construction until script execution by js engine, JavaScript execution pauses until the CSSOM is ready. also all DOM manipulations like event listeners fail as DOM not constructed)
+
+defer off screen images   -  https://developers.google.com/web/tools/lighthouse/audits/offscreen-images
+
+//RENDERING PERFORMANCE -, React(virtualisation) , js(Web workers, debounce) , CSS(flexbox) 
+Web workers - JavaScript script executed from an HTML page that runs in the background - browser extensions, heavy computations or any thing doesn�t need DOM traversal/access like I/O XHR 	calls, web sockets (live connection), data manipulation(sorting,  filtering  using algorithms), data storing(index db)
+they have a different execution environment and hence some default methods and properties of the�window�object can�t be used but most of them including web sockets can be used. Data is sent between workers and the main thread ,using the�postMessage()�method, and respond to messages via the�onmessage�event handler (the message is contained within the�Message�event's�data property)
+ a single js file can create so many workers and delegate them the work, which they execute parallely. Workers can also create workers and delegate work.
+
+ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers 
+Debounce/throttle input handlers
+
+React - virtualisation
+
+Performance  - https://developers.google.com/web/fundamentals/performance/http2/
+React virtualisation  - https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3
+Light house - https://developers.google.com/web/tools/lighthouse/audits/bootup
+Performance is related to customer engagement and revenue  interms of business
+Unit testing is done to catch regression
+https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1
+
+

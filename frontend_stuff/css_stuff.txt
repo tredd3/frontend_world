@@ -1,0 +1,19 @@
+
+//ADVANCED4
+Responsive web design - Screen sizes are always changing, so it's important that your site can adapt to any screen size. 
+Layout changes based on screen size
+Requirements: meta viewport tag, media-queries, mobile first approach
+Aspect ratio - the ratio of the width to the height of an image or screen. Landscape - Aspect ratio >1, portrait - Aspect ratio <1
+Use css media queries for �rendering the content based on  the display type, width, height, orientation, and even resolution.
+Create breakpoints based on content, never on specific devices 
+* Use relative sizes for images/content to prevent them from accidentally overflowing the container
+
+//�CSS unit types
+1vw is 1% of the width of the viewport.�
+1vh is 1% of the height of the viewport.�
+1em/1rem = 16px is on the top element. After that 1 em = font size of the nearest parent  and 1 rem = font size of the html element
+
+3 types of pixels:
+Css pixels - these change in size with the viewport size . For e.g when we zoom
+Density independent pixels(DIPs) - 
+Device pixels - fixed hardware fixes

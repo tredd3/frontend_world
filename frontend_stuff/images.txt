@@ -1,0 +1,7 @@
+
+// Images
+There are two types of images to consider:�vector images�and�raster images. For raster images, you also need to choose the right compression format, for example:�GIF,�PNG,�JPG
+vector images� can be scaled without any loss in quality or change in file size.
+Include image Optimization and compression tools into your workflow to reduce file sizes
+reduce the number of http requests by placing frequently used images into image sprites
+Lazy loading - I.e loading the images when they appear on viewport till then use a placeholder image of equal size
