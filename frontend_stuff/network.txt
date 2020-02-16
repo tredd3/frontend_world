@@ -12,12 +12,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 
 //Network Requests
-ASCII�characters - Codes 0 through 127 �(all keyboard chars)
-NON ASCII characters - Codes 128 through 255�()
+ASCII characters - Codes 0 through 127 (all keyboard chars)
+NON ASCII characters - Codes 128 through 255
 x-www-form-urlencoded - to send simple text/ ASCII data
-form-data - to send non-ASCII text or large binary data like files and image uploading
-Raw�if you want to send plain text /JSON/XML
-Binary�- non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
+form-data - to send non-ASCII text or blob data like files and image uploading
+Raw - if you want to send plain text /JSON/XML
+Binary - non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
 
 REST Architecture - JSON ,CACHING, LESS BANDWIDTH,
 API - programs built on different platforms and programming languages could exchange data in an easy manner.
@@ -31,3 +31,27 @@ Fetch API - �Fetch API uses Promises, which enables a simpler and cleaner API,
 API�stands for Application Programming Interface. It makes it possible to transfer data from an application to other applications.
 REST APIs�uses multiple standards like HTTP, JSON, URL, and XML while SOAP�APIs�is largely based on HTTP and XML
 
+
+//HTTP status Codes
+401 - unauthorised (not autheniticated)
+403 - forbidden (unauthorised)
+
+
+//encoding vs encryption vs compression
+*Encoding - Encoding is for maintaining data usability and can be reversed by employing the same algorithm that encoded the content, i.e. no key is used
+used for reducing the size of audio and video files
+Example: ASCII, BASE64, gzip 
+*Encryption - maintaining data confidentiality and requires the use of a key (kept secret) to read it
+*Compression - reduce the size of the data representation (gzip)
+what is ASCII?  American Standard Code for Information Interchange, is a character encoding standard
+The ASCII table has 128 characters, with values from 0 through 127.
+ Thus, 7 bits are sufficient to represent a character in ASCII; however, most computers typically reserve 1 byte, (8 bits), for an ASCII character.
+**What is Base 64 Encoded Data? each char represented by 6 bits
+base64 encoded data is a string of character that contains only a-z, A-Z, 0-9, + and / characters and is often used in situations when sending non-text information via a text only transmission protocol.
+The plain ASCII text includes a-z, A-Z, 0-9, ", %, &, ', (, ), *, +, -, _ and , (the comma). They will be referred to as the universal ASCII character set.
+when trying to send e-mails in non English languages. Often these languages will have characters that are not part of the ASCII set.
+ What is needed is a method to convert non-universal ASCII characters to a common form. This common form is called Base64 encoding.
+**What does Base 64 Encoding Do?
+Base 64 Encoding takes a stream of characters and converts them to characters that belong to the universal ASCII character set. 
+Once a stream of characters has been converted to characters that belong to the universal ASCII character set (Base 64 encoded) 
+they can be transported with ease over the Internet using the e-mail protocols.

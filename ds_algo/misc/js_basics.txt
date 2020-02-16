@@ -36,21 +36,6 @@ However in a constructor function we can call multiple constructor functions but
 
 *Boilerplate code - sections of code that have to be included in many places with little or no alteration
 
-//REACT VS ANGULAR VS VUE
-REACT - virtual DOM
-Built for large and complex web apps 
-HTML ,CSS and JS all clubbed in to one component
-Virtual DOM - only updating parts of the DOM that changed instead of rendering the whole DOM
-React hooks lets you use every important feature of React � server-side rendering, accessibility, concurrent mode, and suspense � all without writing a class.
-React doesn't deep compare and hence never mutate state or props | Immutable data cannot be changed once created
-https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56
-VUE - 
-Easy to learn, lightweight, integration in the existing	projects, excellent documentation, virtual DOM, security, separation of HTML,CSS and JS
-ideal for startups and can also be used for large web apps
-Vue has official packages for state management, routing, or server-side rendering. unlike React where u are free to use anything
-Angular - Everything is available inbuilt. In react u can choose from many options
-
-
 //databases are best for data and the file system(storage/hard disk) is best for files.
 some pros and cons involved in saving the files in the file system and database.
 //Pros of the File system:
@@ -76,30 +61,6 @@ multimedia objects such as images, videos, and sound, though they can also be us
 //DB indexing : Indexing is a way of sorting a number of records on multiple fields. Creating an index on a field in a table creates another data structure 
 which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
 performed on it.
-
-//mongodb vs sql
-*SQL requires that you use predefined schemas to determine the structure of your data before you work with it. In addition, all of your data must follow the same structure
-*NoSQL databases, on the other hand, have dynamic schemas for unstructured data, and data is stored in many ways: They can be column-oriented, 
-document-oriented, graph-based or organized as a KeyValue store. 
-**scalability
-In most situations, SQL databases are vertically scalable, which means that you can increase the load on a single server by increasing things like 
-CPU, RAM or SSD. NoSQL databases, on the other hand, are horizontally scalable. This means that you handle more traffic by sharding, 
-or adding more servers in your NoSQL database.
-*The Structure
-SQL databases are table-based, while NoSQL databases are either document-based, key-value pairs, graph databases or wide-column stores.
-*Some examples 
-SQL databases include MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
-NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and CouchDB
-
-
-//java vs node
-*Node.js is NOT a programming language. It is also not a framework. Node.js is an open-source, cross-platform JavaScript (JS) run-time environment that executes JavaScript code outside of a browser
-*Node is for simple, fast and scalable and real-time applications. Java is for highly complex and concurrent apps.
-*Node for I/O-intensive apps that include a lot of disk or network access, therefore we can serve more clients, without the need of throwing more hardware.
- And that is why Node applications are highly scalable.
-*Node shouldn�t be used for CPU-intensive applications (video encoding, image manipulation service etc.) as it is single threaded (worker threads can help)
-*Java is platform independent due to the so-called Java Virtual Machine � the environment where Java code is executed.
-Node.js has modules that are tied to the operating system. When you need the software to run on another platform, you will have to rebuild the modules, so that they are compatible with the new OS.
 
 
 //error handling

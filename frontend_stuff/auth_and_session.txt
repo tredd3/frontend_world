@@ -6,15 +6,16 @@ Traditionally using cookies but ur app is vulnerable to XSS and CSRF attacks.
 Also Cookies are primarily designed for web browsers and not for other types of clients such as native mobile applications or desktop programs.
 Other limitations�are size of the cookie and access to user to for disabling, modifying or erasing them.
 
-Token based authentication - send ur credentials to authorisation server get the token , use the token to get the resource from resources server
-token(stateless) is stored on client side unlike cookies(stateful)
+//Token based authentication
+*token(stateless) is stored on client side unlike cookies(stateful)
+*tokens should be short lived so that even though it is stolen it gets expired
 
 //JWT -https://jwt.io/introduction/
 https://logrocket.com/blog/jwt-authentication-best-practices/
-JSON Web Token - JWT is created by authentication server and given to user.  JWT shouldn�t be stored in cookies.
-For signed tokens payload information, though protected against tampering, is readable by anyone. Do not put secret information in the payload or header elements of a JWT unless it is encrypted.
+JSON Web Token - JWT is created by authentication server and given to user.  JWT shouldn't be stored in cookies it should be stored in code
+For signed tokens payload information, though protected against tampering, is readable by anyone.
+so Do not put secret information in the payload or header elements of a JWT unless it is encrypted.
 Single Sign On feature widely uses JWT. U can also use JWT for securely transmitting information between parties (as the content will not be tampered and the sender is identified)
-Single sign-on�(SSO) is a session and user authentication service that permits an end user to enter one set of login credentials (such as a name and password) and be able to access multiple applications.
 JSON Web Tokens consist of three parts separated by dots (.), which are:
 * Header - JSON - {
   "alg": "HS256",
@@ -47,7 +48,23 @@ $.ajax({
 });
 
 
-//authentication in SPAs
-sessions
-stateless JWT
-stateful JWT
+//SSO (single sign on) - users, identity providers and service providers
+*centralised login for distributed services
+*Single sign-on(SSO) is a session and user authentication service that permits an end user to access 
+multiple applications using one set of login credentials
+*SSO is an abstract idea. Oauth and SAML are ways to implement SSO
+*examples: use gmail to login to different apps, after logging into any of the google product no
+need to enter credentials to login to other products
+
+1)Oauth - API security model that relies on outside identity provider and ket-store to grant and deny access to APIs
+send ur credentials to authorisation server get the token , use the token to get the resource from resources server
+token-based authentication and authorization which is used to provide single sign-on (SSO).
+*OAuth allows an end user's account information to be used by third-party services, such as Facebook, without exposing the user's password.
+*Facebook and Google are two OAuth providers that you might use to log into other internet sites.
+
+
+2)Security Assertion Markup Language (SAML)
+it is an open standard that allows identity providers (IdP) to pass authorization credentials to service providers (SP).
+What that jargon means is that you can use one set of credentials to log into many different websites.
+SAML uses XML to send Messages | OAuth uses JSON
+SAML uses session cookie in a browser | OAuth uses API calls extensively 

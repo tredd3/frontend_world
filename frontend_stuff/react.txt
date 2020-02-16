@@ -134,13 +134,16 @@ context is used for avoiding prop drilling
 
 
 //Performance in react
+*Profiler - measures how often a React application renders and what the “cost” of rendering is.
+Its purpose is to help identify parts of an application that are slow and may benefit from optimizations such as memoization.
+*stop re-rendering - shouldComponentUpdate/React.PureComponent/React.memo/immutable.js
 class components - shouldComponentUpdate(nextProps, nextState)/React.PureComponent
 React.memo is a higher order component. It’s similar to React.PureComponent but for function components instead of classes.
 React.memo only affects props changes. If your function component wrapped in React.memo has a useState or
 useContext Hook in its implementation, it will still rerender when state or context change
-functional components - optimisation given by react future versions and less bundle size(as it transpiles to less code)
-Profiler - measures how often a React application renders and what the “cost” of rendering is.
-Its purpose is to help identify parts of an application that are slow and may benefit from optimizations such as memoization.
+*functional components - optimisation given by react future versions and less bundle size(as it transpiles to less code)
+*React.lazy - for lazy loading
+*CDN - assets like image/video/audio loading slowly due to CDN issues
 
 //testing in react
 1)shallowRenderer as a “place” to render the component you’re testing. This means you can test components isolated from how their children are implemented.

@@ -10,10 +10,14 @@ Docker is used here
 Docker image consists of all the project code
 Docker container replicates production environment where we can deploy our code and test
 
+
 //Web server - tomcat, apache, nginix
-�When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the�HTTP server�(software) accepts request, finds the requested document (if it doesn't then a�404�response is returned), and sends it back to the browser, also through HTTP.
+When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the HTTP server(software) accepts request, 
+finds the requested document (if it doesn't then a�404�response is returned), and sends it back to the browser, also through HTTP.
 static web server - the server sends its hosted files "as-is" to your browser
-dynamic web server -  static web server + extra software, most commonly an�application server�and a�database. We call it "dynamic" because the application server updates the hosted files before sending them to your browser via the HTTP server.
+dynamic web server(server side rendering) -  static web server + extra software, most commonly an application server and a database. 
+We call it "dynamic" because the application server updates the hosted files before sending them to your browser via the HTTP server.
+app server - for api responses 
 
 //NGINIX - reverse proxy, caching, load balancing
 **REVERSE PROXY is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, 
@@ -27,7 +31,19 @@ kind of data in  cache - Configuration settings, Reusable results of compute-int
 API responses
 An application component uses the API to make requests for service from other components, whether inside (e.g. in a micro-services architecture) or outside the application itself. 
 Every request will hit the cache and  the response is served. If the response is not present then main memory servers will be hit, response is stored in the cache and then it is served
-Application cache types: 
 
+
+//why we need reverse proxy?
+* no direct access to any of your file transfer servers. Everyone has to pass through the reverse proxy. 
+When that happens, you can focus monitoring over what goes in and goes out through the reverse proxy
+*single point of access control - instead of specifying on every single server what IP addresses 
+should be allowed to connect, you can simply create a set of IP access rules on your reverse proxy
+*By moving your servers into your internal network and deploying a reverse proxy to control access, 
+you can provide better security to those credentials and also sensitive data
+*All your servers can be placed in your internal network and they can serve both your internal and external clients.
+i.e you can share sensitive information with external partners even without putting the information
+ on the DMZ(internet) or granting direct access to your back-end servers to external clients.
+*The reverse proxy will then enforce a load balancing algorithm like round robin to distribute 
+the load among the servers in the cluster.
 
 

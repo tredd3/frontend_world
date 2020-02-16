@@ -33,6 +33,7 @@ Technically, a container component is just a React component that uses�store.s
 you could write the container components by hand using�store.subscribe(). We don't advise you to do this because React Redux makes many performance optimizations that are hard to do by hand.
 We can use batch function  to ensure that multiple actions dispatched outside of React only result in a single render update
 middleware - for async actions
+Redux store only supports synchronous data flow. Thus, middleware to the rescue!
 Synchronous actions - when we dispatch action(object) the state gets updated immediately
 async actions - when we dispatch action(function) the state gets updated after sometime
 an action creator(called thunk) can return a function /promise instead of an action object and that function/promise  will get executed by the Redux Thunk middleware. 
@@ -42,8 +43,11 @@ When the last middleware in the chain dispatches an action, it has to be a plain
 People use Redux middleware for logging, crash reporting, talking to an asynchronous API, routing, and more.
 Crash Reporting - the action that caused the error, and the current state
 There are plenty of options, the simplest is�redux-thunk. But more advanced will be�redux-saga�or�redux-observable.
-
-�//redux-logger - It logs every actions , the state before and after that action
+//redux-thunk vs redux-saga
+promise(difficult to test) vs generators (easy to test)
+unlike Redux-Thunk a Redux-Saga thread can be started, paused and cancelled from the main application with normal Redux actions.  
+Redux-Thunk, however is great for small use cases and for beginners.
+//redux-logger - It logs every actions , the state before and after that action
 
 beauty of this redux pattern is how well it scales to large and complex apps 
 

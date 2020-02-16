@@ -17,3 +17,6 @@ Create breakpoints based on content, never on specific devices
 Css pixels - these change in size with the viewport size . For e.g when we zoom
 Density independent pixels(DIPs) - 
 Device pixels - fixed hardware fixes
+
+https://www.youtube.com/watch?v=ZohZS6xLYE4
+//adaptive vs responsive design
