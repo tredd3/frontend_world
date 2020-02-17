@@ -24,6 +24,7 @@ sprites
 https://developers.google.com/web/fundamentals/performance/get-started/
 https://developers.google.com/web/tools/lighthouse/audits/bootup
 https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint
+https://scotch.io/courses/10-web-performance-audit-tips-for-your-next-billion-users-in-2018/fmp-first-meaningful-paint
 https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c 
 https://medium.com/@aljullu/an-easy-to-use-performant-solution-to-lazy-load-images-in-react-e6752071020c 
 https://reactjsexample.com/react-lazy-load-images-with-intersectionobserver-api-and-priority-hints/
@@ -55,6 +56,7 @@ If either the DOM or CSSOM were modified, you would have to repeat the process i
 //SOLUTION
 
 LOADING PERFORMANCE  - less visits to site, impacts SEO 
+CDN - The goal of the CDN is to reduce latency – the delay between request and response
 Network (preload, prefetch - leverage HTTP caching -to eliminate redundant downloads,  preconnect /defer - third party domain, HTTP2)
 A preloaded chunk starts loading in parallel to the parent chunk. A prefetched chunk starts after the parent chunk finish
 A preloaded chunk has medium priority and instantly downloaded. A prefetched chunk is downloaded in browser idle time.

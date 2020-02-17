@@ -56,3 +56,26 @@ NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and 
 *Node shouldn�t be used for CPU-intensive applications (video encoding, image manipulation service etc.) as it is single threaded (worker threads can help)
 *Java is platform independent due to the so-called Java Virtual Machine � the environment where Java code is executed.
 Node.js has modules that are tied to the operating system. When you need the software to run on another platform, you will have to rebuild the modules, so that they are compatible with the new OS.
+
+//monolithic vs Microservices
+*Microservices are frequently deployed on their own virtual machines - loosely coupled(independent of other services)
+parallel development - each service has its own database - can be reused in other projects
+scalable - e.g u have profile, analytics and chat service in ur system. if people are using more of
+the chat service then we can scale(horizontally scalaing) i.e add more chat servers
+A monolithic architecture - app is written as one cohesive unit of code - tighly coupled,
+sharing the same memory space and resources - frequent deployments - rigrous testing
+if something fails enire system fails
+
+//in-memory database - fast manipulaion, updation
+An in-memory database(Redis) is a database management system that primarily relies on main memory for 
+computer data storage. It is contrasted with database management systems that employ a disk storage mechanism
+
+//database sharding
+partitioning db based on location/timestamp etc so that the lookup is fast
+on top of it apply indexing so that u can use binary search and reduce the time even further
+
+//CDN vs Cloud computing
+**CDN is simply a network of servers that replicate your binary files so that they are served from geographically close locations. 
+CDN has been around for a lot longer than cloud computing as you know it today.
+Not every cloud provider is a CDN, and not every CDN is a cloud computing provider.
+**Cloud computing is simply - dividing up a large computing resource (usually processing power) into little chunks which you can use remotely.

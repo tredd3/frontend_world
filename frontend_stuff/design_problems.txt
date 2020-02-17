@@ -1,0 +1,41 @@
+//terminologies
+**scalability - handling huge number of requests
+1)vertical scalability - increase the current system's computation power, memory, RAM 
+time taken to process a request is reduced
+single point of failure
+inter process communication as there is only server
+data consistency
+2)horizontal scalability - increase the total number of servers
+load balancer is needed
+if one of the server fails there are other servers to bank on
+network communication b/w servers
+
+
+//approach
+
+
+//design whatsapp
+
+
+//design twiter
+
+//building large applications that can scale
+1)client side
+web performance - loading + rendering performance
+react
+
+
+2)server side
+microservice - decoupling
+CDN - caching, reduce latency 
+load balancing - distribute load between servers (round robin, weighted round robin, least connections,
+weighed least connections, URL Hash and least latency)
+Least latency - makes a quick HTTP OPTIONS request to backend servers, and sends the request to the first server to answer
+cloud - large computing 
+kafka - messaging queue 
+
+
+3)databases
+sharding 
+indexing 
+in memory data storage - reddis, memcache

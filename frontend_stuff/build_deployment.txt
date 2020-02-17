@@ -20,8 +20,8 @@ We call it "dynamic" because the application server updates the hosted files bef
 app server - for api responses 
 
 //NGINIX - reverse proxy, caching, load balancing
-**REVERSE PROXY is a type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, 
-appearing as if they originated from the proxy server itself.
+**REVERSE PROXY is a type of proxy server that retrieves resources on behalf of a client from one or more servers. 
+These resources are then returned to the client, appearing as if they originated from the proxy server itself.
 **CACHING
 What is application cache - When a slower external data source is used, frequently accessed data is often moved temporarily to a faster storage that is closer to the application 
 Cache is used to reduce the time needed to access data stored outside of the application�s main memory space.
@@ -34,7 +34,7 @@ Every request will hit the cache and  the response is served. If the response is
 
 
 //why we need reverse proxy?
-* no direct access to any of your file transfer servers. Everyone has to pass through the reverse proxy. 
+*security - no direct access to any of your file transfer servers. Everyone has to pass through the reverse proxy. 
 When that happens, you can focus monitoring over what goes in and goes out through the reverse proxy
 *single point of access control - instead of specifying on every single server what IP addresses 
 should be allowed to connect, you can simply create a set of IP access rules on your reverse proxy
@@ -43,7 +43,9 @@ you can provide better security to those credentials and also sensitive data
 *All your servers can be placed in your internal network and they can serve both your internal and external clients.
 i.e you can share sensitive information with external partners even without putting the information
  on the DMZ(internet) or granting direct access to your back-end servers to external clients.
-*The reverse proxy will then enforce a load balancing algorithm like round robin to distribute 
-the load among the servers in the cluster.
+*load balancing - uses algorithm like round robin to distribute the load among the servers in the cluster.
+*caching - As the cache system of the proxy server is very good, when you access any websites using 
+a proxy server, it is having the chance to store your desired data in their cache system.
+ And as a result, you can access them whenever you want
 
 

@@ -10,6 +10,13 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 //Open System Interconnection Model | OSI 7 layers
 
+//Compression
+In CORS, a preflight request with the OPTIONS method is sent, so that the server can respond whether it
+ is acceptable to send the request with these parameters. 
+Access-Control-Request-Method header notifies the server as part of a preflight request that when the 
+actual request is sent, it will be sent with a POST request method. The Access-Control-Request-Headers
+The server responds with Access-Control-Allow-Methods, Access-Control-Allow-Headers
+
 
 //Network Requests
 ASCII characters - Codes 0 through 127 (all keyboard chars)

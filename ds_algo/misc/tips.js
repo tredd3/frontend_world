@@ -424,10 +424,6 @@ const sorter = (input) => {
 //https://developer.mozilla.org/en-US/docs/Web/Events
 //https://developer.mozilla.org/en-US/docs/Web/API
 
-//CDN is simply a network of servers that replicate your binary files so that they are served from geographically close locations. CDN has been around for a lot longer than cloud computing as you know it today.
-//Not every cloud provider is a CDN, and not every CDN is a cloud computing provider.
-//Cloud computing is simply - dividing up a large computing resource (usually processing power) into little chunks which you can use remotely.
-
 //get and set
 function Archiver() {
     var temperature = null;

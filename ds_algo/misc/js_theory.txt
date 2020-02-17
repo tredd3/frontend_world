@@ -17,9 +17,6 @@ closures instead of encapsulation, currying
 *First-class functions - function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable
 *FP - avoids shared state & mutable data, first-class functions, higher order functions, function composition, Pure functions,Avoid side-effects
 *OOP - tightly coupled, shared state, different things competing for the same resources(race condition)
-*Microservices are frequently deployed on their own virtual machines - loosely coupled(independent of other services)
-A monolithic architecture means that your app is written as one cohesive unit of code whose components are designed to work together, sharing the same memory space and resources
-
 
 //currying - functional programming concept is the idea of currying or partially applying argument values to a function
 var curriedAdd = function(a) {

@@ -9,7 +9,8 @@ modules(IIFE+closures) - we can create objects with private and public parts. Th
 Revealing Module Pattern - entire object logic in the private scope of the module and then simply expose the parts we want to be public by returning an anonymous object
 Singleton Pattern -  used in scenarios when we need exactly one instance of a class like config object
 Observer Pattern - communication between disparate parts of our system// angular MVC
-publisher/subscriber promotes even more loose coupling then the observer pattern does. This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.� Instead of using callbacks there is a more elegant way of doing things.
+publisher/subscriber promotes even more loose coupling then the observer pattern does. This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.
+Instead of using callbacks there is a more elegant way of doing things.
 Mediator Pattern - A mediator is an object which is used as a central point for communication between disparate parts of a system and handles the workflow between them. e.g: Redux
 Command Pattern - The command pattern is useful in cases when we want to decouple objects executing the commands from objects issuing the commands.
 Like separate the objects calling an API service from the objects which are telling them�when�to call the API service.

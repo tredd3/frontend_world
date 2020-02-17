@@ -1,0 +1,35 @@
+1)leverage browser caching using http cache control headers
+Cache-Control: no-cache ( It means ask the server if new content is available, and if so, download it. Otherwise, use what you have cached)
+However no-cache by itself won’t do much for us unless we define how the server will validate the cached resource.
+By setting up Etag support on the server , it can now validate the resources cached by the browser
+Server configuration: ETags (Etags are implemented through checksums computed on the content of a file)
+If your server configuration does not allow for ETags, then you should switch to having browsers never cache the index.html file. 
+This can be done by leveraging the no-store cache control directive instead of no-cache.
+
+
+//leverage versioning for each resource to improve our caching strategy - using webpack
+Each change made in the source code results in a newly generated Javascript or CSS file. 
+Thus, our index.html file should be updated to point to the new resources. Once the index.html file 
+is updated, all clients would now only download our new Javascript and CSS files.
+
+
+2)use redux store
+3)service worker -  cache api 
+*cache only
+*network only - analytics pings and non - GET requests
+*cache falling back to network 
+*Network falling back to the cache - online users get the most up-to-date content, and offline users get an 
+older cached version network falling back to cache 
+*cache then network - one to the cache, and one to the network. The idea is to show the cached data first,
+then update the page when/if the network data arrives 
+If you fail to serve something from the cache and network you may want to provide a generic fallback - 
+e.g for POST requests during offline
+
+4)browser storage - indexed db, local storage
+
+5)CDN - caching web content like html/css/js/image/video/audio files caching
+*A CDN (Content Delivery Network) is a highly-distributed platform of servers that helps minimize delays 
+in loading web page content by reducing the physical distance between the server and the user.
+*load balancing - Without a CDN, content origin servers must respond to every single end user request
+*request proxy - when content is unavailable or stale, the CDN will act as a request proxy to the origin server and store the fetched content to serve future requests.
+* Potentially any data that can be digitized can be delivered through a CDN (video,audio,apps,games etc)

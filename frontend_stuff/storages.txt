@@ -10,40 +10,67 @@ App cache - which is used to provide offline support is now deprecated and repla
 Size 
 //each cookie is of 4MB in chrome changes acc to browser, local and session storage are 5MB each, indexed DB size is 50MB
 
-Web storage APIs - can be sync or async
-synchronous APIs - storage or retrieval requests block the currently active thread until the request is completed - local storage, session storage, cookies 
+//sync vs async storage APIs
+synchronous storage APIs - storage or retrieval requests block the currently active thread until the request is completed - local storage, session storage, cookies 
 For efficiency and performance reasons, asynchronous storage APIs are to be preferred - indexedDB, Cache storage API
 WebSQL does not have broad browser support and its use is not recommended.
 
+
 //Web Storage vs (Indexed DB and Cache API)
 Web Storage is useful for storing smaller amounts of data, it is less useful for storing larger amounts of structured data.
-Web Storage (e.g LocalStorage, SessionStorage and cookies) is synchronous, has no Web Worker support and is size and type (strings only) limited.
+Web Storage (e.g LocalStorage, SessionStorage) and cookies is synchronous, has no Web Worker support and is size and type (strings only) limited.
 Both APIs are asynchronous (IndexedDB is event based and the Cache API is Promise based). 
 They also work with web workers, window and service workers. 
 
+
 //IndexedDB
 IndexedDB provides a solution for storing significant amounts of structured data, including files/blobs.
-Combine IndexedDB for storing data offline(application state to be synced with server) with Service Workers for storing assets offline
+IndexedDB is a transactional database system, like an SQL-based RDBMS. However, unlike SQL-based RDBMSes, 
+which use fixed-column tables, IndexedDB is a JavaScript-based object-oriented database.
+Combine IndexedDB for storing data offline(application state/redux store to be synced with server) with Service Workers for storing assets offline
 IndexedDB lets you store and retrieve objects that are indexed with a key (high-performance searches due to indexing)
+
 
 //Cache storage API - ideal for storing resources associated with a known URL.
 For the network resources necessary to load your app while offline, use the Cache API (part of service workers).
 For all other data like application state(redux store), use IndexedDB (with a promises wrapper).
+Once a new service worker has installed and a previous version isn't being used, the new one activates, and
+you get an activate event. Because the old version is out of the way, it's a good time to delete unused caches.
+
 
 //allocation of memory and eviction
-An origin is given an amount of space to do with as it pleases. This free space is shared across all forms of origin storage (IndexedDB, Cache API, localStorage etc). 
-The amount given isn’t specified and will vary depending on device and storage conditions.
+OS allocated storage to browser (50% of hard disk(.The amount given isn’t specified and will vary depending on device and storage conditions.
+borowser now allocated this storage to origins
+origin quotas not fixed - consider the popularity and/or usage levels of individual sites to determine origin quotas
+ This free space is shared across all forms of origin storage (IndexedDB, Cache API, localStorage etc). 
 eviction - chrome and firefox uses LRU(least recently used) mechanism, edge and safari (no eviction)
-**"Persistent" storage is not automatically cleared when storage is low - localstorage, cookies
+The group limit(hard limit) - certain origins are part of one group - it doesn't trigger origin eviction.
+The global limit(soft limit) - LRU origin eviction - deleting an entire origin's data instead of parts of origins 
+**"Persistent" storage is not automatically cleared when storage is low - localstorage, cookies, cache API
 **Temporary - This will be evicted under (LRU policy) when Storage limits are reached.
 
-
-An�HTTP cookie�(web cookie, browser cookie) is a small piece of data that a server sends to the user's web browser via response headers .
-New cookies can also be created via JavaScript using the�Document.cookie�property
-The browser may store it and send it back with the next request to the same server.�Typically, it's used to tell if two requests came from the same browser.
+//cookies -  It remembers stateful information for the stateless HTTP protocol
+An HTTP cookie(web cookie, browser cookie) is a small piece of data that a server sends to the user's web browser via response headers .
+New cookies can also be created via JavaScript using the Document.cookie property
+The browser may store it and send it back with the next request to the same server.Typically, it's used to tell if two requests came from the same browser.
 Used for Session management, Personalization(themes) , user identification and Tracking user activities
 Cookies are sent with every request, so they can worsen performance (especially for mobile data connections)
-Session cookie - �deleted when the client shuts down
-Permanent cookies - expire at a specific date�
-A secure cookie is only sent to the server with an encrypted request over the HTTPS protocol
+creating and sending cookies - Set-Cookie(response header) and Cookie (request header)
+Scope of cookies(what URLs the cookies should be sent to) - Domain and Path directives define the scope of the cookie
+Session cookie - deleted when the client shuts down - no expiry date is menioned
+Permanent cookies - expire at a specific date
+HTTP only cookie - can't be accesses by js (used to prevent XSS)
+Secure cookie - only sent to the server with an encrypted request over the HTTPS protocol 
 
+//web storage API vs storage API
+Web storage API (localStorage and sessionStorage) 
+storage API - manages data stored by a website
+Each site storage unit has exactly one box into which all of its data is placed, and has a box mode that
+ describes the data retention policy for that box. There are two modes:
+ 1)"best-effort" : The user agent will try to retain the data contained in the box for as long as it can, 
+ but will not warn users if storage space runs low and it becomes necessary to clear the box in order to relieve the storage pressure.
+ 2)"persistent": The user agent will retain the data as long as possible, clearing all "best-effort" boxes
+  before considering clearing a box marked "persistent". If it becomes necessary to consider clearing persistent boxes, 
+  the user agent will notify the user and provide a way to clear one or more persistent boxes as needed.
+*browser decides the mode of the data box based on usage and other criteria
+To change an origin's box mode the site can use the StorageManager.persist() method to request that its box be made persistent

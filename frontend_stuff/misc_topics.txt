@@ -59,11 +59,17 @@ const sum = a => b => a + b
 
 Static assets: Assets which you don�t create  dynamically with server-side code. e.g: html, js, css, images etc
 
-Service worker: proxy server , which intercepts your network request and hence runs only on https for security purposes.
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+
+Service worker: proxy server , which intercepts your network request 
+served over HTTPS so we know the service worker the browser receives hasn't been tampered with during its journey through the network.
 It is specific to origin . Multiple js files in an origin can use the data/service provided by the service worker.
 It is event driven and It is designed to be fully async hence it uses promises heavily .
+it's a replacement for APP cache and covers all it's loop holes.
 A service worker is run in a worker context: it therefore has no DOM access, and runs on a different thread different from the main JavaScript thread, so it is not blocking. 
-Cache storage API- Provides a master directory of all the named caches that can be accessed by a�ServiceWorker
+ it can't access the DOM directly. Instead, a service worker can communicate with the pages it controls by responding to messages sent via the postMessage interface, and those pages can manipulate the DOM if needed.
+Cache storage API- Provides a master directory of all the named caches that can be accessed by a ServiceWorker
+used for caching static assets, network requests
 Service workers are also intended to be used for such things as:
 * Background data Synchronization(web to server and vice versa) Start up a service worker even when no users are at the site, so caches can be updated,
 * Responding to resource requests from other origins.
@@ -72,6 +78,11 @@ Service workers are also intended to be used for such things as:
 * offline experiences (by serving files from cache)
 * Performance enhancements, for example pre-fetching resources that the user is likely to need in the near future, such as the next few pictures in a photo album
 * service workers will be able to do a number of other useful things for the web platform that will bring it closer towards native app viability.
+//Updating your service worker
+If your service worker has previously been installed, but then a new version of the worker is available on refresh or page load, 
+the new version is installed in the background, but not yet activated. It is only activated when there are no longer any pages 
+loaded that are still using the old service worker. As soon as there are no more such pages still loaded, the new service worker activates.
+//It's terminated when not in use, and restarted when it's next needed. If there is information that you need to persist and reuse across restarts, service workers do have access to the IndexedDB API.
 
 
 memoization or Memoisation is an Optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.
