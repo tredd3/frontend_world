@@ -1,9 +1,18 @@
-//promise is a wrapper around async task
+//promise is a wrapper around async task - One of the great things about using promises is chaining/composition
+composition: f4(f3(f2(f1(param))))
+chaining: f1(param).then(f2).then(f3).then(f4)
+it solves the problem of callback hell and also error handling in individual callbacks, where in 
+u need to use try catch blocks for each callback here makes code ugly
 //A Promise is in one of these states:
 pending: initial state, neither fulfilled nor rejected.
 fulfilled: meaning that the operation completed successfully.
 rejected: meaning that the operation failed.
+settled: fulfilled/rejected
 
+//creating ur own promise
+1.Promise.resolve
+2.Promise.reject
+3.Promise constructor
 function myAsyncFunction(url) {
     return new Promise((resolve, reject) => {
         const xhr = new XMLHttpRequest();
@@ -14,28 +23,45 @@ function myAsyncFunction(url) {
     });
 }
 
-//methods
+//methods on constructor
 *Promise.all(iterable) - Wait for all promises to be resolved, or for any to be rejected.
+it returns a single promise
 If the returned promise resolves, it is resolved with an aggregating array of the values from the resolved promises in the same order as defined in the iterable of multiple promises
 *Promise.allSettled(iterable) - Wait until all promises have settled (each may resolve, or reject).
-*Promise.race(iterable) - Wait until any of the promises is resolved or rejected.
+*Promise.race(iterable) -returns a promise that fulfills or rejects as soon as any one of the promises in an iterable fulfills or rejects,
 *Promise.reject(reason) - Returns a new Promise object that is rejected with the given reason.
 *Promise.resolve(value) - Returns a new Promise object that is resolved with the given value
+//methods on prototype of constructor
 .then(), .catch() and .finally() methods returns a new promise
+.finally() - This helps to avoid duplicating code in both the promise's then() and catch() handlers
+like removing the loader after api call whether success or failure
+If a handler function inside then returns a value that is being passes to next function
+returns nothing - undefined is  passed
+eturns an already fulfilled promise, the promise returned by then gets fulfilled with that promise's value as its value.
+returns an already rejected promise, the promise returned by then gets rejected with that promise's value as its value.
+returns another pending promise object, the resolution/rejection of the promise returned by then will be subsequent to the resolution/rejection of the promise returned by the handler
+.catch() internally calls Promise.prototype.then(undefined, onRejected)
+promise rejection - reference error, throw new error, use reject or returning a rejected promise
 
+//error propagation
+doSomething()
+.then(result => doSomethingElse(result))
+.then(newResult => doThirdThing(newResult))
+.then(finalResult => console.log(`Got the final result: ${finalResult}`))
+.catch(failureCallback);
+any rejection/expection all catch handlers are called
 
-//generator
-function* countAppleSales () {
-  var saleList = [3, 7, 5];
-  for (var i = 0; i < saleList.length; i++) {
-    yield saleList[i];
-    console.log(i)
+async function foo() {
+  try {
+    const result = await doSomething();
+    const newResult = await doSomethingElse(result);
+    const finalResult = await doThirdThing(newResult);
+    console.log(`Got the final result: ${finalResult}`);
+  } catch(error) {
+    failureCallback(error);
   }
 }
 
-var appleStore = countAppleSales(); // Generator { }
-console.log(appleStore.next()); // { value: 3, done: false } //1
-console.log(appleStore.next()); // { value: 7, done: false } //2
 
 // Process promise chain with reduce
 const processor = steps => steps.reduce((p, fn) => {
@@ -64,3 +90,131 @@ const task1 = [
 ]
 
 processor(task1);
+
+
+//promise error handling - If an error occurs, and there’s no .catch, js engine triggers unhandledrejection event
+new Promise((resolve, reject) => 
+  throw new Error("Whoops!");
+}).catch(alert); // Error: Whoops!
+
+new Promise((resolve, reject) => {
+  reject(new Error("Whoops!"));
+}).catch(alert); // Error: Whoops!
+
+new Promise((resolve, reject) => {
+  resolve("ok");
+}).then((result) => {
+  throw new Error("Whoops!"); // rejects the promise
+}).catch(alert); // Error: Whoops!
+
+new Promise((resolve, reject) => {
+  resolve("ok");
+}).then((result) => {
+  throw new Error("Whoops!"); // rejects the promise
+}).catch(alert); // Error: Whoops!
+
+// the execution: catch -> then
+new Promise((resolve, reject) => {
+  throw new Error("Whoops!");
+}).catch(function(error) {
+  alert("The error is handled, continue normally");
+}).then(() => alert("Next successful handler runs"));
+**any critical function inside a then must have catch handler before it
+
+// the execution: catch -> catch -> then
+new Promise((resolve, reject) => {
+  throw new Error("Whoops!");
+}).catch(function(error) { // (*)
+  if (error instanceof URIError) {
+    // handle it
+  } else {
+    alert("Can't handle such error");
+    throw error; // throwing this or another error jumps to the next catch
+  }
+}).then(function() {
+  /* doesn't run here */
+}).catch(error => { // (**)
+  alert(`The unknown error has occurred: ${error}`);
+  // don't return anything => execution goes the normal way
+});
+
+// Errors thrown inside asynchronous functions will act like uncaught errors
+var p2 = new Promise(function(resolve, reject) {
+  setTimeout(function() {
+    throw new Error('Uncaught Exception!'); //u can use reject(new Error('Uncaught Exception!'))
+  }, 1000);
+});
+
+// Errors thrown after resolve is called will be silenced
+var p3 = new Promise(function(resolve, reject) {
+  resolve();
+  throw new Error('Silenced Exception!');
+});
+
+p3.catch(function(e) {
+   console.error(e); // This is never called
+});
+
+// overriding original Promise.prototype.then/catch just to add some logs
+(function(Promise){
+    var originalThen = Promise.prototype.then;
+    var originalCatch = Promise.prototype.catch;
+    
+    Promise.prototype.then = function(){
+        console.log('> > > > > > called .then on %o with arguments: %o', this, arguments);
+        return originalThen.apply(this, arguments);
+    };
+    Promise.prototype.catch = function(){
+        console.error('> > > > > > called .catch on %o with arguments: %o', this, arguments);
+        return originalCatch.apply(this, arguments);
+    };
+
+})(this.Promise);
+
+//async operations in parallel
+*Promise.all() and Promise.race() are two composition tools for running asynchronous operations in parallel.
+Promise.all([func1(), func2(), func3()])
+.then(([result1, result2, result3]) => { /* use result1, result2 and result3 */ });
+*sequential composition can be done more simply with async/await
+[func1, func2, func3].reduce((p, f) => p.then(f), Promise.resolve())
+.then(result3 => { /* use result3 */ });
+async function(){
+let result;
+for (const f of [func1, func2, func3]) {
+  result = await f(result);
+}
+}
+
+//bad way of writing code - creating 2 promise chains
+**bad way:
+doSomething().then(function(result) {
+  doSomethingElse(result) // Forgot to return promise from inner chain + unnecessary nesting 
+  resulting in another promise chain
+  .then(newResult => doThirdThing(newResult));
+}).then(() => doFourthThing());
+// Forgot to terminate chain with a catch!
+
+**good way:
+doSomething()
+.then(function(result) {
+  return doSomethingElse(result);
+})
+.then(newResult => doThirdThing(newResult))
+.then(() => doFourthThing())
+.catch(error => console.error(error));
+
+
+
+*************** async-await ***************
+//Asynchronous functions execute via the event loop,
+// 1)await only blocks the execution of the next lines of code in an async function and doesn’t 
+// affect the promise execution.
+// 2)async functions return a promise (implicit promise where the return value of the fn is a resolved value)
+// 3)There can be multiple await statements within a single async function.
+// 4)When using async await, make sure to use try catch for error handling.
+// 5)If you want to await multiple promises (run this promise in parallel) create an array of promises and then pass it to the Promise.all function.
+
+// Every function that returns a promise can be considered as async function
+// await is used for calling an async function and waits for it to resolve or reject.
+// Instead of creating huge async functions with many await asyncFunction() in it, it is better
+//to create smaller async functions with lesser await statements for function to avoid blocking

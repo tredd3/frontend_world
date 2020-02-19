@@ -4,6 +4,7 @@ https://www.imperva.com/learn/application-security/application-security/
 https://developer.mozilla.org/en-US/docs/Web
 
 **use HTPS connection as encrypted data is travelling
+**use strict mode so that eval is not evaluated
 
 **sql injection
 Occurs when a perpetrator uses malicious SQL code to manipulate a backend database so it reveals information.

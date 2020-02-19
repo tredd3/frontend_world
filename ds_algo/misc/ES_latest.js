@@ -132,19 +132,6 @@ async function fetchAllUsersDetailsParallelyWithStats() {
     console.log(allUsersDetails); //array of resolved values or user details objects
 }
 
-//thumb rules for async-await 
-// 1)await only blocks the execution of the next lines of code in an async function and doesn’t 
-// affect the promise execution.
-// 2)async functions return a promise (implicit promise where the return value of the fn is a resolved value)
-// 3)There can be multiple await statements within a single async function.
-// 4)When using async await, make sure to use try catch for error handling.
-// 5)If you want to await multiple promises (run this promise in parallel) create an array of promises and then pass it to the Promise.all function.
-
-// Every function that returns a promise can be considered as async function
-// await is used for calling an async function and waits for it to resolve or reject.
-// Instead of creating huge async functions with many await asyncFunction() in it, it is better
-//to create smaller async functions with lesser await statements for function to avoid blocking
-
 //******** ES 2018 **************
 //1)shared memory amon main thread and workers
 // This is done by a new type of a global object called SharedArrayBuffer that essentially stores data in a 

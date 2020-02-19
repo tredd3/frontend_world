@@ -30,7 +30,16 @@ Do you need to make a highly complex app which utilizes a large portion of platf
 Does your app need to support new mobile OS features as soon as they are released?�Go native.
 
 
-//SEO
+//SEO - process of increasing website traffic by putting ur site on the top web search engine results
+*extremely imp for business to convert visitors to customers
+*Cloaking - content given to browsers is diff from that given to search crawlers
+let's say the page is full of videos and the user is searching for the content present in he video.
+now the search engines cannot go and search inside the video. so we need to put the content into a separate file so that web crawlers can read it
+*progressive enhancement: allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater
+*header and semantic tags
+*leverage meta tags by adding the content - must for SPA's as the content is generated only on the 
+client side and crawler has no content to search on 
+*server side rendering
 
 //functions in js
 There are two ways to define JS functions:�declarations and� expressions.  Declarations are hoisted but expressions are not. I.e they can be used even before declaration.

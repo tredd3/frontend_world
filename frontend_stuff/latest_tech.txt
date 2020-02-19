@@ -79,3 +79,20 @@ on top of it apply indexing so that u can use binary search and reduce the time 
 CDN has been around for a lot longer than cloud computing as you know it today.
 Not every cloud provider is a CDN, and not every CDN is a cloud computing provider.
 **Cloud computing is simply - dividing up a large computing resource (usually processing power) into little chunks which you can use remotely.
+
+
+//WebAssembly
+https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/
+This enables the use of pre-compiled executables for performance-critical portions of page scripts.
+for e.g: achieving performance of a native video games and audio application in the browser is hard 
+that is where web assembly pitches in.
+You do not write WebAssembly, you compile other higher level languages like C, C++ or Rust code and 
+compile it into what is called a WebAssembly module. 
+You can load that into your web application and call it from JavaScript. It runs in the same sandbox 
+as regular JavaScript code (It’s not a replacement for JavaScript, it works alongside JavaScript)
+JavaScript - parse(abstract syntax tree), compile and optimize it
+WASM - decode and compile because Most of the optimization happens during the compilation of source code, before it even gets into the browser.
+With WebAssembly there is only one compilation step and your app will run in every modern browser.
+Until now, JavaScript has been the only fully supported language in web browsers. With WebAssembly, web developers will be able to choose other
+languages and more developers will be able to write code for the web.
+You can call WebAssembly functions in JavaScript code and you can call JavaScript functions in WebAssembly modules.

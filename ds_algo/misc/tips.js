@@ -515,3 +515,14 @@ let myVar = setInterval(() => {
     else clearInterval(myVar)
 }, 1000);
 myVar()
+
+//Don't use console.log(obj), use console.log(JSON.parse(JSON.stringify(obj))).
+//This way you are sure you are seeing the value of obj at the moment you log it. 
+//Otherwise, many browsers provide a live view that constantly updates as values change
+
+
+//errors in js
+//ReferenceError object represents an error when a non-existent variable is referenced.
+//SyntaxError object represents an error when trying to interpret syntactically invalid code.
+//TypeError object represents an error when an operation could not be performed
+null.f() 

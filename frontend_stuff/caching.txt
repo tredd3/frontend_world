@@ -1,4 +1,12 @@
-1)leverage browser caching using http cache control headers
+1)CDN - caching web content like html/css/js/image/video/audio files caching
+*A CDN (Content Delivery Network) is a highly-distributed platform of servers that helps minimize delays 
+in loading web page content by reducing the physical distance between the server and the user.
+*load balancing - Without a CDN, content origin servers must respond to every single end user request
+*request proxy - when content is unavailable or stale, the CDN will act as a request proxy to the origin server and store the fetched content to serve future requests.
+* Potentially any data that can be digitized can be delivered through a CDN (video,audio,apps,games etc)
+
+
+2)leverage browser caching using http cache control headers
 Cache-Control: no-cache ( It means ask the server if new content is available, and if so, download it. Otherwise, use what you have cached)
 However no-cache by itself won’t do much for us unless we define how the server will validate the cached resource.
 By setting up Etag support on the server , it can now validate the resources cached by the browser
@@ -7,13 +15,16 @@ If your server configuration does not allow for ETags, then you should switch to
 This can be done by leveraging the no-store cache control directive instead of no-cache.
 
 
-//leverage versioning for each resource to improve our caching strategy - using webpack
+//leverage versioning for each resource to improve our caching strategy - but frequent change of index.html is required
 Each change made in the source code results in a newly generated Javascript or CSS file. 
 Thus, our index.html file should be updated to point to the new resources. Once the index.html file 
 is updated, all clients would now only download our new Javascript and CSS files.
 
+//most effective - no change in file name and no change in index.html
+Cache-control: max-age=N" directive is used to check the freshness
+if there is a Cache-Control header with the max-age directive in the response, the Expires header is ignored.
+The Expires header contains the date/time after which the response is considered stale
 
-2)use redux store
 3)service worker -  cache api 
 *cache only
 *network only - analytics pings and non - GET requests
@@ -26,10 +37,3 @@ If you fail to serve something from the cache and network you may want to provid
 e.g for POST requests during offline
 
 4)browser storage - indexed db, local storage
-
-5)CDN - caching web content like html/css/js/image/video/audio files caching
-*A CDN (Content Delivery Network) is a highly-distributed platform of servers that helps minimize delays 
-in loading web page content by reducing the physical distance between the server and the user.
-*load balancing - Without a CDN, content origin servers must respond to every single end user request
-*request proxy - when content is unavailable or stale, the CDN will act as a request proxy to the origin server and store the fetched content to serve future requests.
-* Potentially any data that can be digitized can be delivered through a CDN (video,audio,apps,games etc)

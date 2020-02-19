@@ -54,7 +54,6 @@ Reduce DOM size and Reduce CSS code and specificity  - to reduce render tree con
 If either the DOM or CSSOM were modified, you would have to repeat the process in order to figure out which pixels would need to be re-rendered on the screen
 
 //SOLUTION
-
 LOADING PERFORMANCE  - less visits to site, impacts SEO 
 CDN - The goal of the CDN is to reduce latency – the delay between request and response
 Network (preload, prefetch - leverage HTTP caching -to eliminate redundant downloads,  preconnect /defer - third party domain, HTTP2)

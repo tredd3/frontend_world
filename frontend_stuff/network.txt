@@ -8,14 +8,16 @@ https://www.guru99.com/difference-http-vs-https.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 
+https://www.youtube.com/watch?v=vv4y_uOneC0
 //Open System Interconnection Model | OSI 7 layers
-
-//Compression
-In CORS, a preflight request with the OPTIONS method is sent, so that the server can respond whether it
- is acceptable to send the request with these parameters. 
-Access-Control-Request-Method header notifies the server as part of a preflight request that when the 
-actual request is sent, it will be sent with a POST request method. The Access-Control-Request-Headers
-The server responds with Access-Control-Allow-Methods, Access-Control-Allow-Headers
+how data is transferred from one computer to another
+A - application layer - 
+P - presentaion - 
+S - session - 
+T - transport - 
+N - network - 
+D - data link - 
+P - physical - 
 
 
 //Network Requests
@@ -39,11 +41,6 @@ API�stands for Application Programming Interface. It makes it possible to tran
 REST APIs�uses multiple standards like HTTP, JSON, URL, and XML while SOAP�APIs�is largely based on HTTP and XML
 
 
-//HTTP status Codes
-401 - unauthorised (not autheniticated)
-403 - forbidden (unauthorised)
-
-
 //encoding vs encryption vs compression
 *Encoding - Encoding is for maintaining data usability and can be reversed by employing the same algorithm that encoded the content, i.e. no key is used
 used for reducing the size of audio and video files
@@ -62,3 +59,120 @@ when trying to send e-mails in non English languages. Often these languages will
 Base 64 Encoding takes a stream of characters and converts them to characters that belong to the universal ASCII character set. 
 Once a stream of characters has been converted to characters that belong to the universal ASCII character set (Base 64 encoded) 
 they can be transported with ease over the Internet using the e-mail protocols.
+
+
+********* HTTP ***********
+//overview 
+*application-layer protocol  for communication between web browsers and web servers,
+application layer protocol that is sent over TCP, or over a TLS-encrypted TCP connection
+*HTTP is a stateless protocol, meaning that the server does not keep any data (state) between two requests
+*Between the Web browser and the server, numerous computers and machines like proxies, modem and routers
+*HTTP is simple(human readable messages), extensible(simple agreement between a client and a server about a new header's semantics),
+stateless, but not sessionless - there is no link between two requests being successively carried out on the same connection.
+HTTP cookies allow the use of stateful sessions
+*Though HTTP doesn't require the underlying transport protocol to be connection-based; only requiring it to be reliable, or not lose messages
+TCP is reliable and UDP isn't. HTTP therefore relies on the TCP standard, which is connection-based
+*HTTP flow: Open a TCP connection, Send an HTTP message, Read the response sent by the server, Close or reuse the connection for further requests
+*both XHR and Fetch API are based on HTTP
+*headers convey additional information to browsers/servers.
+*features controllable with HTTP: caching, origin constraint, Authentication(authentication header and cookie),
+sessions(cookies),Proxy and tunneling, compression
+
+
+//HTTP Headers
+
+
+//HTTP Request Methods
+
+//HTTP status Codes
+200 - success
+301 - moved permanently
+304 - not modified
+4** - client error
+400 - bad request
+401 - unauthorised (not autheniticated)
+403 - forbidden (unauthorised)
+404 - not found
+5** - server error
+500 - Internal Server Error
+501 - Not Implemented
+502 - Bad Gateway
+504 - Gateway Timeout
+
+//Cross-Origin Resource Sharing (CORS)
+
+//Evolution of HTTP
+**HTTP/1.1
+currently browsers open up to 6 parallel connections under HTTP/1.1
+open a separate TCP connection for each HTTP request/response pair
+
+**HTTP/2
+HTTP messages (before HTTP/2) are human-readable. With HTTP/2, these simple messages are encapsulated in frames, making them impossible to read directly, allowing optimizations like compression of headers and multiplexing.
+HTTP/2 went a step further by multiplexing messages over a single connection, helping keep the connection warm and more efficient
+multiplexing allows your Browser to fire off multiple requests at once on the same connection and receive the responses back in any order
+
+//HTTP caching - only GET requests
+Private browser caches - specific to a user browser (preferred)
+Shared proxy caches - popular resources are reused a number of times
+Cache-Control: no-store //No caching
+Cache-Control: no-cache //Cache but revalidate
+pragma same as Cache-Control: no-cache, if the Cache-Control header field is omitted in a request. Use Pragma only for backwards compatibility with HTTP/1.0 clients
+Cache-Control: public //response may be cached by any cache
+Cache-Control: private //intended for a single user only and must not be stored by a shared cache
+Cache-Control: max-age=31536000 //expiration
+Cache-Control: must-revalidate //must verify the status of the stale resources before using it and expired ones should not be used
+**freshness of cache
+Cache-Control: "max-age=<seconds>"(relative to the time of the request) and EXPIRES header (random date and time)
+cache validation - when the cache receives a request for a stale resource
+it forwards this request with a If-None-Match request header and Etag response header with hash value
+If-Modified-Since request header and Last-Modified response header
+to check if it is in fact still fresh. If so, the server returns a 304 (Not Modified) header without sending the body of the requested resource, saving some bandwidth.
+if neither header is present, look for a Last-Modified header
+** serving content dynamically
+When using the Vary: User-Agent header, caching servers should consider the user agent when deciding whether to serve the page from cache.
+Because the User-Agent header value is different ("varies") for mobile and desktop clients, 
+caches will not be used to serve mobile content mistakenly to desktop users or vice versa.
+
+
+//HTTP Authentication
+
+
+//FETCH API
+1)fetch() allows you to make network requests similar to XMLHttpRequest (XHR) but Fetch API uses Promises, avoiding callback hell 
+The response of a fetch() request is a Stream object, use the json() method to convert it into json
+2)Timeouts Are Not Supported - request will continue for as long as the browser chooses.
+function fetchTimeout(url, init, timeout = 3000) {
+  return new Promise((resolve, reject) => {
+    fetch(url, init)
+      .then(resolve)
+      .catch(reject);
+    setTimeout(reject, timeout);
+  }
+}
+Promise.race([
+  fetch('http://url', { method: 'GET' }),
+  new Promise(resolve => setTimeout(resolve, 3000))
+])
+3)cookies byfault don't go in a fetch request unlike XHR
+4)Surprisingly, an HTTP error such as a 404 Page Not Found or 500 Internal Server Error does
+ not cause the Fetch Promise to reject
+5)abort the fetch request 
+const controller = new AbortController();
+Fetch can be aborted by calling controller.abort();
+6)IE doesn't suppor fetch it needs a polyfill
+**fetch modes
+1)same-origin only succeeds for requests for assets on the same origin, all other requests will reject.
+2)cors will allow requests for assets on the same-origin and other origins which return the appropriate CORs headers.
+cors response restricts the headers you can view to `Cache-Control`, `Content-Language`, `Content-Type`, `Expires`, `Last-Modified`, and `Pragma`.
+3)cors-with-forced-preflight will always perform a preflight check before making the actual request.
+4)no-cors is intended to make requests to other origins that do not have CORS headers and result in an opaque response(u can't view),
+ but as stated, this isn't possible in the window global scope at the moment but servie workers suopport
+
+
+//CORS
+In CORS, a preflight request with the OPTIONS method is sent, so that the server can respond whether it
+ is safe to send the request with these parameters or is the server ready to accept the request at this point
+Access-Control-Request-Method header notifies the server as part of a preflight request that when the 
+actual request is sent, it will be sent with a POST request method. The Access-Control-Request-Headers
+The server responds with Access-Control-Allow-Origin, Access-Control-Allow-Methods, Access-Control-Allow-Headers
+Access-Control-Max-Age gives the value in seconds for how long the response to the preflight request can be cached for without sending another preflight request

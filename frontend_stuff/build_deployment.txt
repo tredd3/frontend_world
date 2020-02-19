@@ -19,6 +19,7 @@ dynamic web server(server side rendering) -  static web server + extra software,
 We call it "dynamic" because the application server updates the hosted files before sending them to your browser via the HTTP server.
 app server - for api responses 
 
+
 //NGINIX - reverse proxy, caching, load balancing
 **REVERSE PROXY is a type of proxy server that retrieves resources on behalf of a client from one or more servers. 
 These resources are then returned to the client, appearing as if they originated from the proxy server itself.
@@ -33,10 +34,10 @@ An application component uses the API to make requests for service from other co
 Every request will hit the cache and  the response is served. If the response is not present then main memory servers will be hit, response is stored in the cache and then it is served
 
 
-//why we need reverse proxy?
+//why we need proxy or reverse proxy?
 *security - no direct access to any of your file transfer servers. Everyone has to pass through the reverse proxy. 
 When that happens, you can focus monitoring over what goes in and goes out through the reverse proxy
-*single point of access control - instead of specifying on every single server what IP addresses 
+*single point of access control(gateway) - instead of specifying on every single server what IP addresses 
 should be allowed to connect, you can simply create a set of IP access rules on your reverse proxy
 *By moving your servers into your internal network and deploying a reverse proxy to control access, 
 you can provide better security to those credentials and also sensitive data
@@ -49,3 +50,16 @@ a proxy server, it is having the chance to store your desired data in their cach
  And as a result, you can access them whenever you want
 
 
+//Proxy servers and tunneling 
+*A proxy can be on the user's local computer, or anywhere between the user's computer and a destination server on the Internet.
+**There are two types of proxies: forward proxies (or tunnel, or gateway) and reverse proxies (used to control and protect access to a server for load-balancing, authentication, decryption or caching).
+Forward proxies can hide the identities of clients whereas reverse proxies can hide the identities of servers
+**functions of proxy server: 
+caching (the cache can be public or private, like the browser cache)
+filtering (like an antivirus scan or parental controls)
+load balancing (to allow multiple servers to serve the different requests)
+authentication (to control access to different resources)
+logging (allowing the storage of historical information)
+Tunneling - transmits private network data and protocol information through public network by encapsulating the data.
+The HTTP protocol specifies a request method called CONNECT
+It starts two-way communications with the requested resource and can be used to open a tunnel. This is how a client behind an HTTP proxy can access websites using SSL (i.e. HTTPS, port 443)

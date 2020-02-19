@@ -306,3 +306,20 @@ iterator.next(); // { value:"c", done:false }
 
 [a, b, c] = new Set(['a', 'b', 'c']);
 a // "a"
+
+
+//generator - pause and resume synchronous function execution
+function* gen() {
+  yield 1;
+  yield 2;
+  yield 3;
+}
+
+const g = gen(); //Generator object is returned by a generator function and it conforms to 
+both the iterable protocol(symbol.iterator is used on prototype)and the iterator protocol(.next.value is used)
+g.next(); // { value: 1, done: false }
+g.next(); // { value: 2, done: false }
+g.next(); // { value: 3, done: false }
+g.next(); // { value: undefined, done: true }
+g.return(); // { value: undefined, done: true }
+g.return(1); // { value: 1, done: true }
