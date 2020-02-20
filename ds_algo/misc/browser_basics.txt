@@ -1,0 +1,14 @@
+//google search works
+Website indexing is the process of downloading data from webpages and storing it into databases by search engines. 
+They do this because they need to process data to display most relevant results to their users
+dbindexing - sorting the keys and having pointers to the data rows
+ranking algorithm - based on so many factors like keywords location, settings, recently uploaded, flags
+
+//how browser works
+The rendering engine
+Parsing and DOM tree construction
+Render tree construction
+Layout
+Painting
+Dynamic changes
+The rendering engine's threads

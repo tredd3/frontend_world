@@ -183,9 +183,19 @@ typeof null - object
 typeof undefined - undefined
 //null is assigned by us but undefined is assigned by javascript
 
-//lexical scoping - any variable declared in the outside scope is automatically available in the inside scope without passing
+//A closure is the combination of a function bundled together (enclosed) with references to its 
+//surrounding state (the lexical environment). In other words, a closure gives you access to an outer
+//function’s scope from an inner function
+//closure - encapsulation, private variables(not polluting globalscope)
+function init() {
+    var name = 'Mozilla'; // name is a local variable created by init
+    function displayName() { // displayName() is the inner function, a closure
+        alert(name); // use variable declared in the parent function
+    }
+    displayName();
+}
+init();
 
-//closure
 let f;
 if (true) {
     let i = 0;
@@ -525,4 +535,68 @@ myVar()
 //ReferenceError object represents an error when a non-existent variable is referenced.
 //SyntaxError object represents an error when trying to interpret syntactically invalid code.
 //TypeError object represents an error when an operation could not be performed
-null.f() 
+null.f()
+
+//const/let/var
+//block scope using { } instead of IIFE+Closure
+if (x) {
+    let foo;
+    let foo; // SyntaxError thrown.
+}
+
+let x = 1;
+switch (x) {
+    case 0:
+        let foo;
+        break;
+
+    case 1:
+        let foo; // SyntaxError for redeclaration.
+        break;
+}
+
+let x = 1;
+
+switch (x) {
+    case 0: {
+        let foo;
+        break;
+    }
+    case 1: {
+        let foo;
+        break;
+    }
+}
+
+var x = 'global';
+let y = 'global';
+console.log(this.x); // "global"
+console.log(this.y); // undefined
+
+//Temporal dead zone -  variable is in a "temporal dead zone" from the start of the block until the initialization is processed.
+function do_something() {
+    console.log(bar); // undefined
+    console.log(foo); // ReferenceError
+    var bar = 1;
+    let foo = 2;
+}
+
+var a = 1;
+var b = 2;
+
+if (a === 1) {
+    var a = 11; // the scope is global
+    let b = 22; // the scope is inside the if-block
+
+    console.log(a);  // 11
+    console.log(b);  // 22
+}
+
+console.log(a); // 11
+console.log(b);
+
+let x = 1;
+
+{
+    var x = 2; // SyntaxError for re-declaration
+}

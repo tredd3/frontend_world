@@ -204,12 +204,19 @@ doSomething()
 .catch(error => console.error(error));
 
 
-
 *************** async-await ***************
-//Asynchronous functions execute via the event loop,
+//Asynchronous functions execute via the event loop | async/await is similar to combining generators and promises.
 // 1)await only blocks the execution of the next lines of code in an async function and doesn’t 
 // affect the promise execution.
-// 2)async functions return a promise (implicit promise where the return value of the fn is a resolved value)
+// 2)return value of an async function is implicitly wrapped in Promise.resolve
+or rejected with an exception uncaught within the async function.
+return foo; //Immediately returns foo and never throws error even if foo is a Promise that rejects
+return await foo - wait for foo to resolve or reject if it's a Promise, and throws before returning if it rejects.
+try {
+    return await processDataInWorker(v)  // Note the `return await` vs. just `return`
+  } catch (e) {
+    return null
+  }
 // 3)There can be multiple await statements within a single async function.
 // 4)When using async await, make sure to use try catch for error handling.
 // 5)If you want to await multiple promises (run this promise in parallel) create an array of promises and then pass it to the Promise.all function.
@@ -218,3 +225,17 @@ doSomething()
 // await is used for calling an async function and waits for it to resolve or reject.
 // Instead of creating huge async functions with many await asyncFunction() in it, it is better
 //to create smaller async functions with lesser await statements for function to avoid blocking
+
+
+********* generators ***********
+//return statement in a generator
+function* yieldAndReturn() {
+  yield "Y";
+  return "R";
+  yield "unreachable";
+}
+
+var gen = yieldAndReturn()
+console.log(gen.next()); // { value: "Y", done: false }
+console.log(gen.next()); // { value: "R", done: true }
+console.log(gen.next()); // { value: undefined, done: true }

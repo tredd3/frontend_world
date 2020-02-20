@@ -4,7 +4,34 @@ https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
 https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
 Each of the design patterns represents a specific type of solution to a specific type of problem
 Prototype Design Pattern -  object creation using function and new keyword and resuing prototype properties/methods
-modules(IIFE+closures) - we can create objects with private and public parts. These are called�modules
+module pattern(IIFE+closures) - we can create objects with private and public parts. These are called modules
+var counter = (function() {
+  var privateCounter = 0;
+  function changeBy(val) {
+    privateCounter += val;
+  }
+  return {
+    increment: function() {
+      changeBy(1);
+    },
+    decrement: function() {
+      changeBy(-1);
+    },
+    value: function() {
+      return privateCounter;
+    }
+  };
+})();
+console.log(counter.value()); // logs 0
+counter.increment();
+counter.increment();
+console.log(counter.value()); // logs 2
+counter.decrement();
+console.log(counter.value()); // logs 1
+ The lexical environment contains two private items: a variable called privateCounter and a function called changeBy. 
+ Neither of these private items can be accessed directly from outside the anonymous function. Instead, they must be 
+ accessed by the three public functions that are returned from the anonymous wrapper.
+Those three public functions are closures that share the same environment.
 //HOC in react - decorator pattern | DRY | Abstraction or decoupling of logic and UI
 Revealing Module Pattern - entire object logic in the private scope of the module and then simply expose the parts we want to be public by returning an anonymous object
 Singleton Pattern -  used in scenarios when we need exactly one instance of a class like config object

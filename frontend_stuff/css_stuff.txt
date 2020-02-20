@@ -8,9 +8,9 @@ Use css media queries for �rendering the content based on  the display type, w
 Create breakpoints based on content, never on specific devices 
 * Use relative sizes for images/content to prevent them from accidentally overflowing the container
 
-//�CSS unit types
-1vw is 1% of the width of the viewport.�
-1vh is 1% of the height of the viewport.�
+//CSS unit types
+1vw is 1% of the width of the viewport.
+1vh is 1% of the height of the viewport.
 1em/1rem = 16px is on the top element. After that 1 em = font size of the nearest parent  and 1 rem = font size of the html element
 
 3 types of pixels:
@@ -20,3 +20,10 @@ Device pixels - fixed hardware fixes
 
 https://www.youtube.com/watch?v=ZohZS6xLYE4
 //adaptive vs responsive design
+Responsive websites adapt to the size of the browser at any given point. 
+one website for all the devices and browsers| use media queries, display flex and grid, % and em instead of px
+Adaptive websites respond to the width of the browser at a specific points.
+multiple variants of websites based on devices and screen resolutions
+strategy: 
+progressive enhancement (building a website for old browsers and enhancing them to work on new browsers)
+graceful degradation (building a website for latest browsers and degrade them slowly so tha they can work in old browsers)

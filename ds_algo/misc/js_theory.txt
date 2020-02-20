@@ -44,3 +44,56 @@ addTen(10); //20
 
 By currying and composing your functions u r creating a pipeline for data processing.
 
+//This in js - call, apply and bind to the rescue
+As a DOM event handler - set to the element on which the listener is placed //this === e.currentTarget
+As a constructor - this is bound to the new object being constructed.
+object method - this is set to the object the method is called on.
+arrow function - this is permanently bound to the this of its enclosing function.
+global execution context (outside of any function), this refers to the global object whether in strict mode or not.
+random function - this refers to window and undefined in strict mode
+function f2() {
+  'use strict'; // see strict mode
+  return this;
+}
+f2() === undefined; // true
+
+var o = {
+  prop: 37,
+  f: function() {
+    return this.prop;
+  }
+};
+console.log(o.f()); // 37
+
+var o = {prop: 37};
+function independent() {
+  return this.prop;
+}
+o.f = independent;
+console.log(o.f()); // 37
+
+var o = {f: function() { return this.a + this.b; }};
+var p = Object.create(o);
+p.a = 1;
+p.b = 4;
+
+console.log(p.f()); // 5
+
+var obj = {
+  bar: function() {
+    var x = (() => this);
+    return x;
+  }
+};
+var fn = obj.bar();
+console.log(fn() === obj); // true
+var fn2 = obj.bar;
+console.log(fn2()() == window); 
+
+function f() {
+  return this.a;
+}
+var g = f.bind({a: 'azerty'});
+console.log(g()); // azerty
+var h = g.bind({a: 'yoo'}); // bind only works once!
+console.log(h()); // azerty
