@@ -22,12 +22,4 @@ https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
 
-//NODE JS - running js outside browser environment
-built on the Chrome JavaScript runtime�
-event-driven, non-blocking I/O model that makes it lightweight and efficient
-perfect for data-intensive real-time applications that run across distributed devices
-Node.js frameworks -  express, sails
-Asynchronous	- code that not running at same time or with same speed
-Package - bunch of modules
-Socket.io is  web socket library 
 
