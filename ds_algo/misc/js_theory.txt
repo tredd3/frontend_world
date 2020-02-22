@@ -34,13 +34,15 @@ closures instead of encapsulation, currying
 *OOP - tightly coupled, shared state, different things competing for the same resources(race condition)
 
 //currying - functional programming concept is the idea of currying or partially applying argument values to a function
-var curriedAdd = function(a) {
-    return function(b) {
-        return a + b;
-    };
+var greetCurried = function(greeting) {
+  return function(name) {
+    console.log(greeting + ", " + name);
+  };
 };
-var addTen = curriedAdd(10);
-addTen(10); //20
+var greetHello = greetCurried("Hello");
+greetHello("Heidi"); //"Hello, Heidi"
+greetHello("Eddie"); //"Hello, Eddie"
+greetCurried("Hi there")("Howard"); //"Hi there, Howard"
 
 By currying and composing your functions u r creating a pipeline for data processing.
 

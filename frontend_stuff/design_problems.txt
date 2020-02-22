@@ -39,3 +39,8 @@ kafka - messaging queue
 sharding 
 indexing 
 in memory data storage - reddis, memcache
+
+
+whatsapp - https://www.youtube.com/watch?v=vvhC64hQZMk
+parking lot - https://www.youtube.com/watch?v=DSGsa0pu8-k
+uber - https://www.youtube.com/watch?v=umWABit-wbk

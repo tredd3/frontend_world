@@ -96,3 +96,8 @@ With WebAssembly there is only one compilation step and your app will run in eve
 Until now, JavaScript has been the only fully supported language in web browsers. With WebAssembly, web developers will be able to choose other
 languages and more developers will be able to write code for the web.
 You can call WebAssembly functions in JavaScript code and you can call JavaScript functions in WebAssembly modules.
+
+
+//web components - suite of different technologies allowing you to create reusable custom elements 
+web components are imperative(u explicitly iterate on DOM) but react components are declarative
+you are free to use React in your Web Components, or to use Web Components in React

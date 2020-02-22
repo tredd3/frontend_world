@@ -8,6 +8,12 @@ features:
 virtual dom(use diffing algorithm to push only the changes to real dom)
 Unidirectional data flow - from parent to child
 HOC(separate logic from UI)
+you can’t apply a HOC to a component within the render method of a component:
+The problem here isn’t just about performance — remounting a component causes the state of that 
+component and all of its children to be lost.
+HOCs can't pass ref to wrapped components because ref is not a prop it is handled specially by react.
+we can use forwardRef
+Instead, apply HOCs outside the component definition so that the resulting component is created only once. Then, its identity will be consistent across renders
 Supports server-side rendering
 JavaScript XML - syntactic sugar for the React.createElement()
 four different phases of component lifecycle:

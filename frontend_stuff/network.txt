@@ -99,8 +99,6 @@ sessions(cookies),Proxy and tunneling, compression
 502 - Bad Gateway
 504 - Gateway Timeout
 
-//Cross-Origin Resource Sharing (CORS)
-
 //Evolution of HTTP
 **HTTP/1.1
 currently browsers open up to 6 parallel connections under HTTP/1.1
@@ -169,10 +167,22 @@ cors response restricts the headers you can view to `Cache-Control`, `Content-La
  but as stated, this isn't possible in the window global scope at the moment but servie workers suopport
 
 
-//CORS
+//Cross-Origin Resource Sharing (CORS)
 In CORS, a preflight request with the OPTIONS method is sent, so that the server can respond whether it
  is safe to send the request with these parameters or is the server ready to accept the request at this point
 Access-Control-Request-Method header notifies the server as part of a preflight request that when the 
 actual request is sent, it will be sent with a POST request method. The Access-Control-Request-Headers
 The server responds with Access-Control-Allow-Origin, Access-Control-Allow-Methods, Access-Control-Allow-Headers
 Access-Control-Max-Age gives the value in seconds for how long the response to the preflight request can be cached for without sending another preflight request
+
+
+//JSONP stands for JSON with Padding
+Requesting a file from another domain using XHR can cause problems, due to cross-domain policy. 
+Requesting an external script from another domain does not have this problem.
+JSONP uses this advantage, and request files using the script tag instead of the XHR object.
+
+
+//IFRAME
+An inline frame is used to embed another document within the current HTML document.
+like embedding a google map and youtube video
+iframe to main window communication is via post message

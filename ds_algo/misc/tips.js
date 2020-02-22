@@ -573,6 +573,14 @@ let y = 'global';
 console.log(this.x); // "global"
 console.log(this.y); // undefined
 
+const PI;
+console.log(PI); // Ouput: SyntaxError: Missing initializer in const declaration
+PI = 3.142;
+
+//JavaScript hoists variables declared with es6 let and const. The difference in this case is how
+// it initialises them. Variables declared with let and const remain uninitialised at the beginning
+// of execution whilst variables declared with var are initialised with a value of undefined.
+
 //Temporal dead zone -  variable is in a "temporal dead zone" from the start of the block until the initialization is processed.
 function do_something() {
     console.log(bar); // undefined
@@ -600,3 +608,30 @@ let x = 1;
 {
     var x = 2; // SyntaxError for re-declaration
 }
+
+//hoisting - use a variable/function before declaring 
+console.log(notHoisted) //undefined
+notHoisted(); // TypeError: notHoisted is not a function
+
+var notHoisted = function () {
+    console.log('bar');
+};
+
+//Variable assignment over function declaration
+var double = 22;
+function double(num) {
+    return (num * 2);
+}
+
+console.log(typeof double); // Output: number
+
+//Function declarations over variable declarations
+var double;
+function double(num) {
+    return (num * 2);
+}
+
+console.log(typeof double); // Output: function
+
+//class declarations are hoisted but remain uninitialised until evaluation. This effectively means 
+//that you have to declare a class before you can use it.
