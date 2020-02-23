@@ -11,7 +11,7 @@ Non-volatile - ROM, storage
 //RAM(memory) = code + stack(function calls and local variables) + global variables + heap(Objects) + Eventloop(synchronous message queue)
 Heap is a name to denote a large (mostly unstructured) region of memory.
 Once a message appears in the event loop then JS pauses the execution.after all the messages are addressed the JS execution resumes.
-Eventloop  - message is removed from the queue and its corresponding callback function is called on the stack with the message as param.
+Eventloop(browser main thread)  - message is removed from the queue and its corresponding callback function is called on the stack with the message as param.
 Other messages has to wait until the current function is done executing. A downside of this model is that if a message takes too long to
 complete, the web application is unable to process user interactions like click or scroll.
 Hence it is recommended to process data intensive and network operations using web workers.

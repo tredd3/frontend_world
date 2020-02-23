@@ -61,3 +61,12 @@ console.log(Object.keys(proxy)); // [ 'name', 'age' ]
 console.log(Reflect.ownKeys(proxy)); // [ 'name', 'age', Symbol(visible) ]
 console.log(Object.getOwnPropertyNames(proxy)); // [ 'name', 'age' ]
 console.log(Object.getOwnPropertySymbols(proxy)); // [Symbol(visible)]
+
+//3 ways of creating a object
+var newObject = {};
+// or
+var newObject = Object.create( Object.prototype );
+// or
+var newObject = new Object();
+
+//

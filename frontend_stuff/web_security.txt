@@ -2,7 +2,7 @@
 https://medium.com/@pantpriyamvada/session-management-and-security-in-spa-d96f4a9e817e
 https://www.imperva.com/learn/application-security/application-security/
 https://developer.mozilla.org/en-US/docs/Web
-
+https://infosec.mozilla.org/guidelines/web_security
 **use HTPS connection as encrypted data is travelling
 **use strict mode so that eval is not evaluated
 

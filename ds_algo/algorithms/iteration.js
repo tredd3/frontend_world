@@ -44,3 +44,34 @@ function gcd(a, b) {
         return a;
     return gcd(b, a % b);
 }
+
+//rotate image
+//[[1,2,3],
+// [4,5,6],
+// [7,8,9]] to 
+//[[7,4,1],
+// [8,5,2],
+// [9,6,3]]
+
+var image = [[1, 2, 3],
+[4, 5, 6],
+[7, 8, 9]]
+function rotate_image(image) {
+    if (image.length !== image[0].length) return 0;
+    let N = image.length
+    //convert rows to colums
+    for (let i = 0; i < N; i++) {
+        for (let j = i; j < N; j++) {
+            [image[i][j], image[j][i]] = [image[j][i], image[i][j]]
+        }
+    }
+
+    //flip the image
+    let mid = Math.floor(N / 2);
+    for (let i = 0; i < N; i++) {
+        for (let j = 0; j < mid; j++) {
+            [image[i][j], image[i][N - 1 - j]] = [image[i][N - 1 - j], image[i][j]]
+        }
+    }
+    return image;
+}

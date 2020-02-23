@@ -1,3 +1,7 @@
+//networking basics
+there are around 65535 ports. each port has a incoming and outgoing queue of messages
+certain ports are reserved for services like http, ftp etc
+each application runs on a single port
 
 //http vs https
 HTTP provides standard rules for web browsers & servers to communicate.
@@ -10,14 +14,32 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 https://www.youtube.com/watch?v=vv4y_uOneC0
 //Open System Interconnection Model | OSI 7 layers
-how data is transferred from one computer to another
-A - application layer - 
-P - presentaion - 
-S - session - 
-T - transport - 
-N - network - 
-D - data link - 
-P - physical - 
+data is transferred from one computer through all the layers and decapsulated at another computer 
+A - application layer - used by network applications like browser. They use proctocols of this layer
+like ftp,HTTP,smtp
+P - presentaion - receives data(numbers and characters) from application layer.
+translation to binary then compression then encryption (SSL protocol) and decryption at receiver computer
+S - session - Authentication, authorisation, session management
+session layer keeps track of which data packet belongs to which file and which application
+T - transport - segmentation, flow and error control
+segmentation - break data into segments and each segment has sequence number(to rearrange), port number(to identify application)
+flow control - client tells server at what rate data transfer should happen so that client can process it and data is not lost
+error control - corrupted(using checksum) and missing(using segment numbers) data are requested again 
+TCP(www, email,ftp) and UDP protocols(songs,movies,games)
+connection vs connection LESS
+more size vs less size
+slow vs fast
+stream oriended vs message oriented
+reliable vs unreliable
+
+N - network - logical/ip adressing, routing, path determination
+each segment is added with sender and destination ip address and the whole thing is called packet
+routing - based on ip addressing + mask
+path determination - uses the shortest path detemination protocols
+D - data link - data unit in this layer is called frame. head consisits of souce and destination MAC address and tail is used for errors
+media access control - this layer keeps an eye on shared media(ethernet/wifi) and once it is free it provides access to media to higher layers of OSI
+physical addressing (mac address present in NIC)
+P - physical - Binary data is converted into signals depending on the media (electrical signals for LAN, radio waves for wifi, light waves for optical fiber)
 
 
 //Network Requests
@@ -80,14 +102,52 @@ sessions(cookies),Proxy and tunneling, compression
 
 
 //HTTP Headers
+HTTP message format: start line(method+target_url+version) + headers + body (for both request and response)
+General headers apply to both requests and responses, but with no relation to the data transmitted in the body.
+Request headers contain more information about the resource to be fetched, or about the client requesting the resource.
+Response headers hold additional information about the response, like its location or about the server providing it.
+Entity headers contain information about the body of the resource, like its content length or MIME type.
+body is not sent in requests fetching resources, like GET, HEAD, DELETE, or OPTIONS
+Some requests send data to the server in order to update it: POST,PUT requests
+End-to-end headers
+These headers must be transmitted to the final recipient of the message: the server for a request, or the client for a response. Intermediate proxies must retransmit these headers unmodified and caches must store them.
+Hop-by-hop headers
+These headers are meaningful only for a single transport-level connection, and must not be retransmitted by proxies or cached
+Accept-Charset - Which character encodings the client understands.
+Accept-Encoding - The encoding algorithm that can be used on the resource sent back.
+**Message body information
+Content-Length(bytes), Content-Type and Content-Encoding
+Via general header is added by proxies, both forward and reverse proxies
 
 
 //HTTP Request Methods
+GET -  retrieve data, cacheable
+HEAD - identical to that of a GET request, but without the response body.
+Such a request can be done before deciding to download a large resource to save bandwidth by reading Content-Length header
+for invalidating cache if we are not sure of how frequent the resource on the server changes
+POST - sends data to the server. The type of the body of the request is indicated by the Content-Type header.
+application/x-www-form-urlencoded: the keys and values are encoded in key-value tuples separated by '&', with a '=' between the key and the value.
+ Non-alphanumeric characters in both keys and values are percent encoded: 
+this is the reason why this type is not suitable to use with binary data (use multipart/form-data instead)
+multipart/form-data: each value is sent as a block of data ("body part"), with a user agent-defined delimiter ("boundary") separating each part. 
+The keys are given in the Content-Disposition header of each part.
+text/plain
+PUT - replaces all current representations of the target resource with the request payload.
+DELETE - deletes the specified resource.
+CONNECT - establishes a tunnel to the server identified by the target resource.
+proxy servers might need authority to create a tunnel. we can Proxy-Authorization header.
+OPTIONS - used to describe the communication options for the target resource.
+used for preflight, load balancing and security.
+TRACE - performs a message loop-back test along the path to the target resource.
+PATCH - used to apply partial modifications to a resource.
+
 
 //HTTP status Codes
 200 - success
 301 - moved permanently
 304 - not modified
+307 (Temporary Redirect) and 308 (Permanent Redirect)
+The Location response header indicates the URL to redirect a page to
 4** - client error
 400 - bad request
 401 - unauthorised (not autheniticated)
@@ -105,9 +165,15 @@ currently browsers open up to 6 parallel connections under HTTP/1.1
 open a separate TCP connection for each HTTP request/response pair
 
 **HTTP/2
-HTTP messages (before HTTP/2) are human-readable. With HTTP/2, these simple messages are encapsulated in frames, making them impossible to read directly, allowing optimizations like compression of headers and multiplexing.
-HTTP/2 went a step further by multiplexing messages over a single connection, helping keep the connection warm and more efficient
+HTTP messages (before HTTP/2) are human-readable. With HTTP/2, these simple messages are encapsulated in
+ frames, making them impossible to read directly, allowing optimizations like compression of headers and multiplexing.
+HTTP/2 introduces an extra step: it divides HTTP/1.x messages into frames which are embedded in a stream.
+Data and header frames are separated, this allows header compression. Several streams can be combined together,
+a process called multiplexing, allowing more efficient underlying TCP connections.
 multiplexing allows your Browser to fire off multiple requests at once on the same connection and receive the responses back in any order
+
+**HTTP/3
+will use QUIC(reliable UDP) instead TCP/TLS for the transport layer portion.
 
 //HTTP caching - only GET requests
 Private browser caches - specific to a user browser (preferred)
@@ -133,7 +199,18 @@ caches will not be used to serve mobile content mistakenly to desktop users or v
 
 
 //HTTP Authentication
-
+for server authentication:
+WWW-Authenticate response header and Authorization request header
+for proxy-server authentication:
+Proxy-Authenticate response header and Proxy-Authorization request header
+WWW-Authenticate: <type> realm=<realm>
+Proxy-Authenticate: <type> realm=<realm>
+<type> is the authentication scheme ("Basic" / "Bearer"). 
+The realm is used to describe the protected area or to indicate the scope of protection.
+Authorization: <type> <credentials>
+Proxy-Authorization: <type> <credentials>
+Basic (base64-encoded username.password hence not secure) use it with https
+Bearer (bearer tokens to access OAuth 2.0-protected resources),
 
 //FETCH API
 1)fetch() allows you to make network requests similar to XMLHttpRequest (XHR) but Fetch API uses Promises, avoiding callback hell 

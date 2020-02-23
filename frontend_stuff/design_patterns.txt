@@ -1,10 +1,31 @@
 
-//JS design patterns
+//JS design patterns - for object oriented programming
 https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
 https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
-Each of the design patterns represents a specific type of solution to a specific type of problem
-Prototype Design Pattern -  object creation using function and new keyword and resuing prototype properties/methods
-module pattern(IIFE+closures) - we can create objects with private and public parts. These are called modules
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+what are design patterns - represents a specific type of solution to a specific type of problem
+why design patterns? structured code base, reduce output file size , readabilty and maintainabiliy
+//anti-patterns - something which we should never do
+Polluting the global namespace by defining a large number of variables in the global context
+Passing strings rather than functions to either setTimeout or setInterval as this triggers the use of eval() internally.
+Modifying the Object class prototype (this is a particularly bad anti-pattern)
+document.write - can override entire document content
+
+//types of design patterns
+*Creational Design Patterns - solve the problem of object creation controlling the creation process.
+e.g: Constructor, Factory, Abstract, Prototype, Singleton and Builder.
+*Structural Design Patterns - realize relationships between different objects. They help ensure that when one part of a system 
+changes, the entire structure of the system doesn't need to do the same.
+e.g:  Decorator, Facade, Flyweight, Adapter and Proxy 
+*Behavioral Design Patterns -  communication between disparate objects in a system
+e.g: Iterator, Mediator, Observer and Visitor
+
+
+//famous design patterns
+Constructor Pattern - reusable object creation logic
+Prototype Design Pattern - resuing prototype properties/methods across objects
+module pattern(IIFE+closures) - not polluting global namespace, create private variables (closure)
+import and export modules
 var counter = (function() {
   var privateCounter = 0;
   function changeBy(val) {
@@ -32,15 +53,15 @@ console.log(counter.value()); // logs 1
  Neither of these private items can be accessed directly from outside the anonymous function. Instead, they must be 
  accessed by the three public functions that are returned from the anonymous wrapper.
 Those three public functions are closures that share the same environment.
-//HOC in react - decorator pattern | DRY | Abstraction or decoupling of logic and UI
+//HOC in react - decorator pattern | DRY | Abstraction or decoupling of logic and UI for reuse
 Revealing Module Pattern - entire object logic in the private scope of the module and then simply expose the parts we want to be public by returning an anonymous object
 Singleton Pattern -  used in scenarios when we need exactly one instance of a class like config object
-Observer Pattern - communication between disparate parts of our system// angular MVC
-publisher/subscriber promotes even more loose coupling then the observer pattern does. This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.
-Instead of using callbacks there is a more elegant way of doing things.
+Observer Pattern - dispatch action and all the reducers are called and not the specific reducer
+MVC, MVP, MVVM -  angular MVC
+publisher/subscriber - This design pattern is useful in situations when we need to perform multiple operations on a single event being fired.
+browser publish events and specific eventlisteners are called.
 Mediator Pattern - A mediator is an object which is used as a central point for communication between disparate parts of a system and handles the workflow between them. e.g: Redux
 Command Pattern - The command pattern is useful in cases when we want to decouple objects executing the commands from objects issuing the commands.
-Like separate the objects calling an API service from the objects which are telling them�when�to call the API service.
-Facade Pattern - The facade pattern is used when we want to create an abstraction layer between what is shown publicly and what is implemented behind the curtain like query and other libraries interfaces.
+Like separate the objects calling an API service from the objects which are telling them when to call the API service.
+Facade Pattern - functionality is abstracted and we don't have to deal with implementation details e.g: Jquery
 
-Initially we used to use this patterns but now it has been replaced by new stuff like Mediator Pattern  by Redux, Observer Pattern  by Promise, Constructor Pattern by class

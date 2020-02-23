@@ -4,7 +4,25 @@ They do this because they need to process data to display most relevant results 
 dbindexing - sorting the keys and having pointers to the data rows
 ranking algorithm - based on so many factors like keywords location, settings, recently uploaded, flags
 
-//how browser works
+//how browser works - https://scotch.io/tutorials/dns-explained-how-your-browser-finds-websites
+*internet connection 
+*DNS lookup in the browser DNS cache. if not found then check in the recursive DNS server(using DNS protocol) maintained by ISP 
+and assigned to the browser. If those servers already have the IP address we’re looking for in their cache then we are done.
+*if not found our request now travels to what are called the “root name servers”.The root name servers
+ are dispersed around the world, and controlled by several separate organizations.
+*The root name servers redirect our request to the name servers based on top-level domain (.com or .org)
+*The .com name servers will now tell us where to find the authoritative name servers for our specific domain.
+*authoritative name servers are the place responsible for delivering information about our domain to the rest of the Internet
+ur domain registrar or host provider usually provides this service 
+*Then, we head over to the Authoritative Name Servers, who give us the record we’re looking for.
+*Finally, the result is cached by the recursive DNS servers, and by our local system - and we load our page!
+*“TTL” or time to live setting is simply an amount of time that the name servers will allow records 
+to be cached by any of the computers who might store the information about that specific domain
+TCP connection 
+transfer HTTP message 
+server sends the website's files to the browser as a series of small chunks called data packets
+so that many different web users can download the same website at the same time. If websites were sent as single big chunks, only one user could download one at a time
+browser assembles the small chunks into a complete website and displays it to you
 The rendering engine
 Parsing and DOM tree construction
 Render tree construction

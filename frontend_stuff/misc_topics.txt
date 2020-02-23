@@ -35,23 +35,12 @@ Does your app need to support new mobile OS features as soon as they are release
 *Cloaking - content given to browsers is diff from that given to search crawlers
 let's say the page is full of videos and the user is searching for the content present in he video.
 now the search engines cannot go and search inside the video. so we need to put the content into a separate file so that web crawlers can read it
-*progressive enhancement: allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, while also providing an enhanced version of the page to those with more advanced browser software or greater
+*progressive enhancement: allows everyone to access the basic content and functionality of a web page, using any browser or Internet connection, 
+while also providing an enhanced version of the page to those with more advanced browser software or greater
 *header and semantic tags
 *leverage meta tags by adding the content - must for SPA's as the content is generated only on the 
 client side and crawler has no content to search on 
 *server side rendering
-
-//functions in js
-There are two ways to define JS functions:�declarations and� expressions.  Declarations are hoisted but expressions are not. I.e they can be used even before declaration.
-// declaration
-function addOne(foo) {
-  return foo + 1
-}
-
-// expression
-var addOne = function(foo) {
-  return foo + 1
-}
 
 //currying - splitting up a function that takes multiple arguments (params) into a sequence of functions that each take an individual argument.
 const sum = function(a) {
@@ -112,9 +101,9 @@ In Redux we do the same thing. But if you had multiple nested levels of objects/
 1)Easier to Debug : immutability stresses removing all side-effects and using�pure functions
 2)Easier Deep Value Comparisons: you can just compare the memory locations of the data structures to see if their values are the same or not (instead of having to traverse deeply into the data structure)
 3)easier to manage concurrency (without locks or snapshots)
-Immutable.fromJS()�method converts any nested object/array into Immutable Map/List
+Immutable.fromJS()method converts any nested object/array into Immutable Map/List
 
-Isomorphism�- rendering pages on both the server and client side. It usually implies the use of JavaScript and Node.js/Io.js because they allow for the re-use of libraries.
+Isomorphism - rendering pages on both the server and client side. It usually implies the use of JavaScript and Node.js/Io.js because they allow for the re-use of libraries.
 Whenever you visit a website, your browser makes a request to the server that contains the contents of the website.�The request depends on multiple factors
 * 		Your internet speed
 * 		the location of the server
