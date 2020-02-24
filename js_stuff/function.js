@@ -28,6 +28,14 @@ function factorial(n) {
 });
 
 
+//properies and methods
+//Function.prototype.length - Specifies the number of arguments expected by the function
+function func1() { }  // console.log(func1.length); expected output: 0
+function func2(a, b) { }  //console.log(func2.length); expected output: 2
+//Function.prototype.name - The name of the function
+//mehods - bind, call and apply methods
+
+
 //Arrow function expressions
 //cannot be used as constructors and generators
 var Foo = () => { };

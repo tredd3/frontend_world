@@ -104,13 +104,22 @@ map.size
 map.clear()
 map.set(key, value)
 map.delete(key)
-map.entries()
 map.get(key)
 map.has(key)
+map.entries()
 map.keys() //returns iterator so we can use for of loop
 map.values() //returns iterator so we can use for of loop
-for (var [key, value] of myMap) {
-  console.log(key + ' = ' + value);
+for (let [key, value] of myMap) {
+  console.log(key + ' = ' + value)
+}
+for (let key of myMap.keys()) {
+  console.log(key)
+}
+for (let value of myMap.values()) {
+  console.log(value)
+}
+for (let [key, value] of myMap.entries()) {
+  console.log(key + ' = ' + value)
 }
 var first = new Map([
   [1, 'one'],
@@ -129,7 +138,7 @@ var merged = new Map([...first, ...second]);
 
 
 **WeakMap - garbage collection optimization
-Keys of WeakMaps are of the type Object only. Primitive data types as keys are not allowed
+Keys of WeakMaps must be objects and the values can be arbitrary values.
 WeakMaps hold "weak" references to key objects, which means that they do not prevent garbage collection in case there would be no other reference to the key object.
 Because of references being weak, WeakMap keys are not enumerable
 only 4 methods - delete,has,get,set

@@ -17,6 +17,8 @@ If str1,str2 etc are not strings then they are converted into strings before con
 regexp = /[A-E]/gi | 
 str1.match("number") - When the parameter is a string or a number, it is implicitly converted to a RegExp by using new RegExp(obj).
 *str.padEnd(targetLength, padString) /str.padStart(targetLength, padString) - adds the padstring at the end /beginning of the string to reach the target length.
+const str1 = 'Breaded Mushrooms';
+console.log(str1.padEnd(25, '.')); // expected output: "Breaded Mushrooms........"
 *str.search(regexp) returns index(-1 if not found) - If a non-RegExp object obj is passed, it is implicitly converted to a RegExp
 regexp.test() method to know if pattern exists in a string
 *str.repeat(count) - repeats string count times
@@ -47,7 +49,7 @@ var str = "How are you doing";
 str.split(); //["How are you doing"]
 str.split(''); //[H,o,w, ,a,r,e, ,y,o,u, ,d,o,i,n,g]
 str.split(' '); //[How,are,you,doing]
-str.split(' '),3; //[How,are,you]
+str.split(' ',3); //[How,are,you]
 const myString = 'Hello 1 word. Sentence number 2.'; 
 //if capturing paranthesis used in regex then splits are also included 
 const splits = myString.split(/(\d)/); //[ "Hello ", "1", " word. Sentence number ", "2", "." ]

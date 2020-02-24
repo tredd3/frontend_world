@@ -13,6 +13,8 @@ Array(1, 2, 3);    // [1, 2, 3]
 
 **Mutator methods - These methods modify the array
 *arr.copyWithin(target,start,end)- Copies a sequence of array elements within the array.
+target - index at which we need to paste the elements
+start - index at which to start copying elements from
 *arr.fill(value,start,end) - Fills all the elements of an array from a start index to an end index with a static value.
 *arr.shift() - Removes the first element from an array and returns that element.
 *arr.unshift(elm1,elm2,...) - Adds one or more elements to the front of an array and returns the new length of the array.
@@ -21,6 +23,8 @@ var y=[4,5,6]
 var x=[1,2,3,7,8,9]
 x.splice(3,0,...y) //[1,2,3,4,5,6,7,8,9]
 *arr.pop() - Removes the last element from an array and returns that element.
+var myFish = {0:'angel', 1:'clown', 2:'mandarin', 3:'sturgeon', length: 4};
+var popped = Array.prototype.pop.call(myFish);
 *arr.push(elm1,elm2,...) - Adds one or more elements to the end of an array and returns the new length of the array.
 var vegetables = ['parsnip', 'potato'];
 var moreVegs = ['celery', 'beetroot'];
