@@ -1,3 +1,10 @@
+//web performance
+**less load time
+**less rendering time - fast display of content
+optimising CRP - prioritize resources (async loading), optimizing the number of requests required along with the file size of each request(use compression and minification), 
+less DOM size(lazy loading content/resources on scroll/navigation), load CSS specific to viewport and maintain less specificity
+**smooth scrolling
+
 //Use Passive Event Listeners and debounce to Improve Scrolling Performance
 *if you attach (scroll - passive by default, wheel, touchstart and touchmove) events to a page, the
 browser has to wait to redraw the page until the event listener finishes execution
@@ -7,21 +14,41 @@ browser has to wait to redraw the page until the event listener finishes executi
 to finish executing , thus ensuring a reliably smooth scrolling experience for the user.
 
 //css 
-sylesheets corresponding to viewports
+using media queries makes css non-blocking but the code is downloaded 
+best way - load sylesheets corresponding to viewports
+<link rel="stylesheet" href="styles.css"> <!-- blocking -->
+<link rel="stylesheet" href="print.css" media="print"> <!-- not blocking --> 
+<link rel="stylesheet" href="mobile.css" media="screen and (max-width: 480px)"> <!-- not blocking on large screens -->
+*browser optimises the animations for below properties on GPU
+transform: translateZ(), rotate3d(), etc.), animating transform and opacity, position: fixed, will-change, and filter. Some elements, including <video>, <canvas> and <iframe>,
 
 //js
 async/defer 3rd party libraries
+Any script tag with type="module" is treated like a JavaScript module and is deferred by default.
+
+//fonts
+By default, font requests are delayed until the render tree is constructed, which can result in delayed text rendering.
+It is possible to override the default behaviour using <link rel="preload">
 
 //images
-sprites
-use placeholder images and then lazy loading
-
-//code splitting
+sprites - provided images doesn't change so often
+use placeholder images and then lazy loading using intersection observer
+The loading attribute allows the browser to defer loading of images/iframes that are off-screen until the user scrolls near them.
+<img src="image.jpg" loading="lazy" alt="..." />
+load images based on viewport
+<picture>
+    <source srcset="/media/examples/surfer-240-200.jpg"
+            media="(min-width: 800px)">
+    <img src="/media/examples/painted-hand-298-332.jpg" />
+</picture>
 
 //reducing http requests - by caching
-
+Using resource hints such as rel=preconnect, rel=dns-prefetch, rel=prefetch, and rel=preload
+resource hints like preload and prefetch - parallel loading resources by utilising browser capacity
+<link rel="dns-prefetch" href="https://fonts.gstatic.com/" > - helps developers mask DNS resolution latency for cross domain requests
 
 // FRONTEND PERFORMANCE
+https://developer.mozilla.org/en-US/docs/Web/Performance
 https://developers.google.com/web/fundamentals/performance/get-started/
 https://developers.google.com/web/tools/lighthouse/audits/bootup
 https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint
@@ -34,6 +61,10 @@ https://react-slick.neostack.com/docs/api/#arrows
 
 Performance - across devices(mobile, desktop, tablet etc) , networks(LTE, 2g, 3g), users
 performance tools -  lighthouse (personalised advice on improving performance, PWA ,SEO ,Best practices and accessibility)
+network throttling - simulate diff networking conditions(2g, 3g)
+waterfall model -  gives an idea of what is the order of resources downloading and timetaken to download them
+profiler - time and memory taken for a js function to execute
+
 PROBLEM 
 more code - more data needed and more time to load - Mobile devices have limited CPU power and memory - site unresponsiveness
 NEED - retaining users , impacts business and revenues
@@ -41,18 +72,21 @@ Frontend performance techniques always depend on the type of application
 Images - image optimisation techniques
 High computational i.e using complex algo and more fetch calls - web workers
 Heavy UI and too much js functionality - routing + code splitting + react virtualisation
-for all sites, whose code doesn't change frequently on the server - Caching by service workers/ http /CDN
+for all sites, whose code doesn't change frequently on the server - Caching by browser/ CDN/ service workers
 Streaming site - Preconnect + web socket
 
 PROCESS TO RENDER A WEB PAGE I.e  critical rendering path by browser:
 1. Process HTML markup and build the DOM tree.
 2. Process CSS markup and build the CSSOM tree.
+DOM construction is incremental, CSSOM is not. CSS is render blocking: the browser blocks page rendering until it 
+receives and processes all of the CSS. CSS is render blocking because rules can be overwritten, so the content can't be rendered until the CSSOM is complete.
 3. Combine the DOM and CSSOM into a render tree. (both HTML and CSS are render blocking resources, media queries and types allow us to mark some CSS resources as non-render blocking, The browser downloads all CSS resources, regardless of blocking or non-blocking behavior)
 4. Run layout on the render tree to compute geometry of each node and emit paint event once done
-Layout - box model and viewport size comes into picture
+Layout - determines size and position of an element on screen
 Reduce DOM size and Reduce CSS code and specificity  - to reduce render tree construction and Layout calculation time by browser
 5. Paint the individual nodes to the screen.
 If either the DOM or CSSOM were modified, you would have to repeat the process in order to figure out which pixels would need to be re-rendered on the screen
+layout and paint events are handled by main thread (event loop)
 
 //SOLUTION
 LOADING PERFORMANCE  - less visits to site, impacts SEO 

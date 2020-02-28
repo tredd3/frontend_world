@@ -56,7 +56,7 @@ multiple applications using one set of login credentials
 *examples: use gmail to login to different apps, after logging into any of the google product no
 need to enter credentials to login to other products
 
-1)Oauth - API security model that relies on outside identity provider and ket-store to grant and deny access to APIs
+1)Oauth - API security model that relies on outside identity provider and key-store to grant and deny access to APIs
 send ur credentials to authorisation server get the token , use the token to get the resource from resources server
 token-based authentication and authorization which is used to provide single sign-on (SSO).
 *OAuth allows an end user's account information to be used by third-party services, such as Facebook, without exposing the user's password.

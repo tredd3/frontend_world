@@ -133,3 +133,8 @@ var newObject={...a,...b}
 for-in loop combined with hasOwnProperty()//order is not maintained and prototype properties are also iterated
 Object.entries() and for-of loop //order is not maintained but only own properties are iterated
 Object.keys() and Object.values() //best way - order is maintained and only own properties are iterated
+
+//3 ways of object copy
+iteration
+Object.assign({},a,b)
+json.stringify and parse //best way

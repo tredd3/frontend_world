@@ -348,6 +348,12 @@ function eventHandler(e) {
 //e.stopImmediatePropagation() -  execute the first event handler, and stop the rest of the event handlers from being executed
 //document.ready is fired when DOM is ready
 //window.onload after the DOM is ready, CSS and images are loaded
+// to prevent the clicks on white spaces of the parent
+// .avoid-clicks {
+//     pointer-events: none;
+// }
+//none prevents all click, state and cursor options on the specified HTML element
+//auto restores the default functionality (useful for use on child elements of an element with pointer-events: none; specified
 
 //Undeclared variables are variables that do not exist in a program. They give a runtime error
 //Undefined variables are variables that are declared in the program but have not been given any value.
@@ -635,3 +641,42 @@ console.log(typeof double); // Output: function
 
 //class declarations are hoisted but remain uninitialised until evaluation. This effectively means 
 //that you have to declare a class before you can use it.
+
+//var obj=Element.getBoundingClientRect() -  method returns the size of an element and its position relative to the viewport.
+//bounding rectangle  is independent from the current scrolling position
+//if u need the element position wrt document add window.scrollX and window.scrollY
+//**element width and height
+//Element.clientWidth and Element.clientHeight - visible content + padding (excluding the border, margins, or scrollbars)
+//HTMLElement.offsetWidth and HTMLElement.offsetHeight - visible content + padding + scrollbars + border
+//Element.scrollWidth and Element.scrollHeight - return the width and height of the entire content of an element, even if only part of it is presently visible due to the use of scroll bars.
+//viewport height - window.innerHeight(scroll bars included)
+
+
+//js native modules - import and export tags
+<script type="module" src="main.js"></script> //no need to use defer attribute modules are deferred automatically
+//You can only use import and export statements inside modules; not regular scripts.
+//modules use strict mode automatically irrespective of u defined it or not.
+//If you try to load the HTML file locally (i.e. with a file:// URL), you'll run into CORS errors due to JavaScript module security requirements
+import * as Module from './modules/module.js';
+
+export {
+    function1 as newFunctionName,
+    function2 as anotherNewFunctionName
+};
+import { newFunctionName, anotherNewFunctionName } from './modules/module.js';
+
+export { function1, function2 };
+import {
+    function1 as newFunctionName,
+    function2 as anotherNewFunctionName
+} from './modules/module.js';
+
+import { name, draw, reportArea, reportPerimeter } from './modules/square.js';
+squareBtn.addEventListener('click', () => {
+    import('./modules/square.js').then((Module) => {
+        let square1 = new Module.Square(myCanvas.ctx, myCanvas.listId, 50, 50, 100, 'blue');
+        square1.draw();
+        square1.reportArea();
+        square1.reportPerimeter();
+    })
+});
