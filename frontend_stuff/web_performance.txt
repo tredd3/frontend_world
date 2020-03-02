@@ -42,10 +42,11 @@ load images based on viewport
     <img src="/media/examples/painted-hand-298-332.jpg" />
 </picture>
 
-//reducing http requests - by caching
-Using resource hints such as rel=preconnect, rel=dns-prefetch, rel=prefetch, and rel=preload
+//reducing http requests - by caching, Using resource hints, HTTP2
+*Using resource hints such as rel=preconnect, rel=dns-prefetch, rel=prefetch, and rel=preload
 resource hints like preload and prefetch - parallel loading resources by utilising browser capacity
 <link rel="dns-prefetch" href="https://fonts.gstatic.com/" > - helps developers mask DNS resolution latency for cross domain requests
+*browser can make 6 parallel connections to a same server
 
 // FRONTEND PERFORMANCE
 https://developer.mozilla.org/en-US/docs/Web/Performance

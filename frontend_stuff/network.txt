@@ -88,6 +88,7 @@ they can be transported with ease over the Internet using the e-mail protocols.
 *application-layer protocol  for communication between web browsers and web servers,
 application layer protocol that is sent over TCP, or over a TLS-encrypted TCP connection
 *HTTP is a stateless protocol, meaning that the server does not keep any data (state) between two requests
+i.e any 2 requests are completely independent of each other.
 *Between the Web browser and the server, numerous computers and machines like proxies, modem and routers
 *HTTP is simple(human readable messages), extensible(simple agreement between a client and a server about a new header's semantics),
 stateless, but not sessionless - there is no link between two requests being successively carried out on the same connection.
@@ -188,7 +189,8 @@ Cache-Control: must-revalidate //must verify the status of the stale resources b
 **freshness of cache
 Cache-Control: "max-age=<seconds>"(relative to the time of the request) and EXPIRES header (random date and time)
 cache validation - when the cache receives a request for a stale resource
-it forwards this request with a If-None-Match request header and Etag response header with hash value
+it forwards this request with a If-None-Match request header with Etag value from previous request
+if If-None-Match header value matches the Etag value at server then 304 not modified is sent else new response is sent
 If-Modified-Since request header and Last-Modified response header
 to check if it is in fact still fresh. If so, the server returns a 304 (Not Modified) header without sending the body of the requested resource, saving some bandwidth.
 if neither header is present, look for a Last-Modified header
@@ -209,8 +211,20 @@ Proxy-Authenticate: <type> realm=<realm>
 The realm is used to describe the protected area or to indicate the scope of protection.
 Authorization: <type> <credentials>
 Proxy-Authorization: <type> <credentials>
-Basic (base64-encoded username.password hence not secure) use it with https
-Bearer (bearer tokens to access OAuth 2.0-protected resources),
+*Basic (base64-encoded username.password hence not secure) use it with https
+we need to store the username and password somehow, in case they want to keep the user logged in after closing the app. 
+You don’t want to store plaintext passwords, even on the client-side, as this can be exploited by XSS or CSRF
+*Bearer (bearer tokens to access OAuth 2.0-protected resources)
+let uname and pword be in the db. send POST request with username and password and get a token.
+//if The token is randomly generated then it is mapped to the user in the central server (maintaining state) 
+But in a distributed multiple-server environment, like a microservices architecture all the individual servers 
+need to communicate with the central server.
+//hence instead of using random tokens we use JWT which is cryptographically signed by server and
+consists of info like user id and data so that multiple servers can decrypt and use the data instead of
+asking central server about the user
+The token can be invalidated without changing the password.
+a single user can have multiple tokens ( one for the mobile app, another for the desktop app)
+
 
 //FETCH API
 1)fetch() allows you to make network requests similar to XMLHttpRequest (XHR) but Fetch API uses Promises, avoiding callback hell 

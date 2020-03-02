@@ -155,4 +155,29 @@ function tok(x) {
 }
 tok(x)
 
-//
+//given pi='314159265358979323846243387689'
+//fav_arr=['3',314','49','9001','15926535897','9323','846243387689','793']
+//find min spaces to be inserted so that all the elements are in the fav_array
+function min_spaces(pi, fav_arr) {
+    let set = new Set(fav_arr)
+    let map = new Map(); //memoisation
+    let N = pi.length;
+    function recurse(pos) {
+        if (pos === N) return 0; //base case
+        if (map.has(pos)) return map.get(pos)
+
+        let ans = Infinity;
+        for (let i = 1; i < N; i++) {
+            let cur = pi.slice(0, i)
+            if (set.has(cur)) {
+                let other = recurse(i)
+                if (other !== -1) ans = Math.min(ans, other + 1)
+            }
+        }
+        map.set(pos, ans)
+        return ans === Infinity ? -1 : ans
+    }
+
+    return recurse(0)
+
+}

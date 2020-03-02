@@ -48,7 +48,7 @@ $.ajax({
 });
 
 
-//SSO (single sign on) - users, identity providers and service providers
+//SSO (single sign on) - users, identity providers and service providers (use access and refresh tokens)
 *centralised login for distributed services
 *Single sign-on(SSO) is a session and user authentication service that permits an end user to access 
 multiple applications using one set of login credentials
@@ -57,8 +57,10 @@ multiple applications using one set of login credentials
 need to enter credentials to login to other products
 
 1)Oauth - API security model that relies on outside identity provider and key-store to grant and deny access to APIs
-send ur credentials to authorisation server get the token , use the token to get the resource from resources server
-token-based authentication and authorization which is used to provide single sign-on (SSO).
+strictly speaking, OAuth is really an authorization standard, not an authentication standard
+after user gives his consent client sends authorisation code sent by Oauth providers to authorisation server to get the token
+use the token to get the resource from resources server
+SSO = Oauth + access and refresh tokens
 *OAuth allows an end user's account information to be used by third-party services, such as Facebook, without exposing the user's password.
 *Facebook and Google are two OAuth providers that you might use to log into other internet sites.
 

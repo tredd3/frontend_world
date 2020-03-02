@@ -344,4 +344,84 @@ function merge(ar1, ar2, m, n) {
             ar2[i] = last;
         }
     }
-} 
+}
+
+
+//find second largest string in single iteration
+function find2ndlargest(arr) {
+    var large1 = "";
+    var large2 = "";
+    function recurse(array) {
+        for (let x of array) {
+            if (Array.isArray(x)) recurse(x)
+            else {
+                if (x.length > large1.length) { large2 = large1; large1 = x; }
+                else if (x.length > large2.length && x.length < large1.length) { large2 = x }
+            }
+        }
+    }
+    recurse(arr)
+    return large2
+}
+var arr = ["a", "ab", "abc", ["s", "l", ["abcd"]], ["s", "l", ["bcdef", ["asdfoghlgl", "dho", "mkj"]]]]
+find2ndlargest(arr)
+
+
+//kadane's algorithm - max sum subarray
+function maxsum_subarray(arr) {
+    let globalmax = 0;
+    let currmax = arr[0];
+    for (let i = 1; i < arr.length; i++) {
+        currmax = Math.max(arr[i] + currmax, currmax);
+        if (currmax > globalmax) globalmax = currmax;
+    }
+
+    return globalmax;
+}
+
+//smallest positive integer that doesn't occur in A
+//A = [1, 3, 6, 4, 1, 2], the function should return 5.
+//Given A = [1, 2, 3], the function should return 4.
+//Given A = [−1, −3], the function should return 1.
+function solution(A) {
+    // write your code in JavaScript (Node.js 8.9.4)
+    let set = new Set(A);
+    for (let i = 0; i < A.length; i++) {
+        if (A[i] > 0) set.add(A[i])
+    }
+
+    if (set.size === 0) return 1;
+
+    for (let i = 1; i <= set.size; i++) {
+        if (!set.has(i)) return i
+    }
+
+    return set.size + 1
+}
+
+//sort an array based on slices - divide an array into slices(contigous subarray and sort them and join them in same order)
+//all the elements are unique elements
+//[2,4,1,6,5,9,7] - [2,4,1] [6,5] [9,7]
+//[4,3,2,6,1] 
+//[2,1,4,6,5,7] 
+
+function sorted_slice_count(arr) {
+    var count = 0;
+
+    function recurse(array) {
+        let minObj = array.reduce((acc, val, index) => {
+            if (acc.min > val) { acc.min = val; acc.index = index }
+            return acc;
+        }, { min: array[0], index: 0 });
+        if (minObj.index === array.length - 1) {
+            count++;
+            return;
+        } else {
+            count++;
+            recurse(array.slice(minObj.index + 1))
+        }
+    }
+    recurse(arr);
+
+    return count;
+}

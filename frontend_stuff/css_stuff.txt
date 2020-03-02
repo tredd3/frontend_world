@@ -27,3 +27,9 @@ multiple variants of websites based on devices and screen resolutions
 strategy: 
 progressive enhancement (building a website for old browsers and enhancing them to work on new browsers)
 graceful degradation (building a website for latest browsers and degrade them slowly so tha they can work in old browsers)
+
+
+//animation vs transition
+transition - doesn't change the element style. it makes sure css property change is happening smoothly 
+An animation lets an element gradually change from one style to another at certain times.
+You can change as many CSS properties you want, as many times you want.

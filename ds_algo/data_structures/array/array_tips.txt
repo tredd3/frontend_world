@@ -1,0 +1,8 @@
+sorting 
+searching - binarySearch/ customised binarySearch
+iteration - 2 forloops
+2 pointer/ 2 variables
+recursion + memoisation
+
+additional ds can be uses
+map/set/stack/queue/additional array
