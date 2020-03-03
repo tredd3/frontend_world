@@ -164,14 +164,21 @@ The Location response header indicates the URL to redirect a page to
 **HTTP/1.1
 currently browsers open up to 6 parallel connections under HTTP/1.1
 open a separate TCP connection for each HTTP request/response pair
+gzip compression used compresses body and not headers
 
-**HTTP/2
+**HTTP/2 - compression of headers , multiplexing ,encrypted data transfer, and push service
 HTTP messages (before HTTP/2) are human-readable. With HTTP/2, these simple messages are encapsulated in
  frames, making them impossible to read directly, allowing optimizations like compression of headers and multiplexing.
+still we need to use gzip compression for body | for http2 to work TLS has to be enabled
 HTTP/2 introduces an extra step: it divides HTTP/1.x messages into frames which are embedded in a stream.
 Data and header frames are separated, this allows header compression. Several streams can be combined together,
 a process called multiplexing, allowing more efficient underlying TCP connections.
 multiplexing allows your Browser to fire off multiple requests at once on the same connection and receive the responses back in any order
+*by default every request starts as a HTTP/1 and gets upgraded to HTTP/2 if the client supports this upgraded protocol
+*HTTP2 push - sending data for requests which are not made yet
+like requesting index.html to server also pushes css and js in the response
+now if the browser actually makes a request for css/js it is served from cache, reducing load time
+*most of the browsers , web servers and programming languages have already implemented it.
 
 **HTTP/3
 will use QUIC(reliable UDP) instead TCP/TLS for the transport layer portion.

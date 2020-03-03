@@ -1,0 +1,78 @@
+//only reason why one needs to pass props to super() is
+When you want to access this.props in constructor
+outside constructor it doesn't matter whether u passed props to super or not u can access this.props;
+//a child class constructor cannot make use of this until super() has been called
+class MyComponent extends React.Component {
+  constructor() {
+    console.log(this); // Reference Error
+  }
+
+  render() {
+    return <div>Hello {this.props.name}</div>;
+  }
+}
+
+//using state without constructor
+class App extends Component {
+   // constructor(props) {
+   // super(props);
+   // this.state = {
+   //   toggle: true,
+   // };
+   //}
+
+  state = {
+    toggle: true,
+  };
+}
+
+//iterating on component children and adding new props to everyone
+ {React.Children.map(props.children, child => (
+                React.cloneElement(child, {style: {...child.props.style, opacity: 0.5}})
+ ))}
+
+//render actually returns plain old JavaScript objects. They look something like this:
+{
+    type: 'ul',
+    props: { className: 'what-do-you-want-to-do-tonight' },
+    children: [
+        { type: 'li', children: 'The same thing we do every night, pinky.' },
+    ]
+}
+
+**when to use shouldComponentUpdate
+//without shouldComponentUpdate - render and then compare with DOM
+with shouldComponentUpdate - first compare props/state, then render and then compare with DOM
+//If the value returned by render is tiny but props is heavy, shouldComponentUpdate will likely do more harm than good.
+because all the props should be compared with previous ones and then if there is a change then the whole
+process which react follows without shouldComponentUpdate is followed.
+//if ur render html is huge and it only uses few props/state properties then we can use shouldComponentUpdate
+//use this method if most of the state and props properties are primitives
+class Test extends React{
+    state={
+        a:3,
+        b:"hh,
+        c:{a:3}
+    }
+
+    render(){
+        const {a,b,c}=this.state;
+        return(
+            <Child1 a={a}/> --shouldComponentUpdate can be implemnted
+            <Child2 b={b}/> --shouldComponentUpdate can be implemnted
+            <Child3 c={c}/> --shouldComponentUpdate shouldn't be implemnted
+        ) 
+    }
+}
+if property a in state changes then the whole new object is created{
+        a:4,
+        b:"hh,
+        c:{a:3}
+    } 
+even though c doesn't change since it is copied the Reference changes and child3 will re-render
+//best to use with immutable.js
+//certainly makes your app respond better. But it also is a major cause of bugs - like if we have
+added logic to update component if a certain prop change and tomorrow we are adding multiple props then
+logic in shouldComponentUpdate should also change else the component doesn't re-render
+
+

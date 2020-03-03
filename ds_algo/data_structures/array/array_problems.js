@@ -399,29 +399,35 @@ function solution(A) {
     return set.size + 1
 }
 
-//sort an array based on slices - divide an array into slices(contigous subarray and sort them and join them in same order)
+//sort an array based on slices - divide an array into max slices(contigous subarray and sort them and join them in same order)
 //all the elements are unique elements
 //[2,4,1,6,5,9,7] - [2,4,1] [6,5] [9,7]
 //[4,3,2,6,1] 
 //[2,1,4,6,5,7] 
-
+//concept - at any index if max_left < min_right then array can be split into 2 at that index 
 function sorted_slice_count(arr) {
-    var count = 0;
-
-    function recurse(array) {
-        let minObj = array.reduce((acc, val, index) => {
-            if (acc.min > val) { acc.min = val; acc.index = index }
-            return acc;
-        }, { min: array[0], index: 0 });
-        if (minObj.index === array.length - 1) {
-            count++;
-            return;
-        } else {
-            count++;
-            recurse(array.slice(minObj.index + 1))
-        }
+    let result = [];
+    let len = arr.length;
+    let max = [arr[0]]
+    let min = arr[len - 1]
+    for (let i = 1; i < len; i++) {
+        max[i] = Math.max(max[i - 1], arr[i])
     }
-    recurse(arr);
-
-    return count;
+    for (let i = len - 2; i > 0; i--) {
+        if (max[i] > min) {
+            result.push(i)
+        }
+        min = Math.min(min, arr[i])
+    }
+    console.log(result)
+    debugger;
+    return result.length + 1;
 }
+// var arr = [2, 4, 1, 6, 5, 9, 7]
+// sorted_slice_count(arr)
+// var arr = [4, 3, 2, 6, 1]
+// sorted_slice_count(arr)
+var arr = [2, 1, 4, 6, 5, 7]
+sorted_slice_count(arr)
+
+

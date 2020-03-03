@@ -28,6 +28,10 @@ react
 2)server side
 microservice - decoupling
 CDN - caching, reduce latency 
+caching - eviction policy needs to be good like LRU and it should have large size else extra call to cache, 
+cache invalidation
+background sync - update ur cache first and then after every 10sec sync ur updated cache with db in a single request
+but keep a list of updated keys so that after 10sec u go and update the data corresponding to keys in ur db
 load balancing - distribute load between servers (round robin, weighted round robin, least connections,
 weighed least connections, URL Hash and least latency)
 Least latency - makes a quick HTTP OPTIONS request to backend servers, and sends the request to the first server to answer

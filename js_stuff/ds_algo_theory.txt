@@ -14,6 +14,7 @@ Once a message appears in the event loop then JS pauses the execution.after all 
 Eventloop(browser main thread)  - message is removed from the queue and its corresponding callback function is called on the stack with the message as param.
 Other messages has to wait until the current function is done executing. A downside of this model is that if a message takes too long to
 complete, the web application is unable to process user interactions like click or scroll.
+The callback in the eventloop has to wait until the stack is empty.
 Hence it is recommended to process data intensive and network operations using web workers.
 messages are added anytime an event occurs and there is an event listener attached to it. If there is no listener, the event is lost.
 postMessage method adds a message to the other runtime Eventloop
