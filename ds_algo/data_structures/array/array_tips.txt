@@ -1,8 +1,9 @@
 sorting 
 searching - binarySearch/ customised binarySearch
 iteration - 2 forloops
-2 pointer/ 2 variables
+2 variables
+2 pointer for sorted array| sliding window for unsorted
 recursion + memoisation
 
-additional ds can be uses
+additional ds can be used
 map/set/stack/queue/additional array

@@ -233,14 +233,14 @@ void printDuplicates(arr, n)
 function maxRepeating(arr, n, k) {
     // Iterate though input array, for every element 
     // arr[i], increment arr[arr[i]%k] by k 
-    for (var i = 0; i < n; i++)
-        arr[arr[i] % k] += k;
 
     // Find index of the maximum repeating element 
     var max = arr[0], result = 0;
     for (var i = 1; i < n; i++) {
-        if (arr[i] > max) {
-            max = arr[i];
+        let index = arr[i] % k;
+        arr[index] += k;
+        if (arr[index] > max) {
+            max = arr[index];
             result = i;
         }
     }
