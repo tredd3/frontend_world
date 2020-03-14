@@ -430,4 +430,21 @@ function sorted_slice_count(arr) {
 var arr = [2, 1, 4, 6, 5, 7]
 sorted_slice_count(arr)
 
+//Given an array with n integers, your task is to check if it could become non-decreasing by
+// modifying at most 1 element.
+var checkPossibility = function (nums) {
+    let index = -1;
+    for (let i = 0; i < nums.length - 1; i++) {
+        if (nums[i + 1] < nums[i]) {
+            if (index !== -1) return false;
+            index = i;
+        }
+    }
+
+    return index == -1 || index == 0 || index == nums.length - 2 ||
+        nums[index - 1] <= nums[index + 1] || nums[index] <= nums[index + 2]
+};
+
+
+
 

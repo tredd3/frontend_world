@@ -56,13 +56,11 @@ function solveMazeUtil(maze, x, y, sol) {
         sol[x][y] = 1;
 
         /* Move forward in x direction */
-        if (solveMazeUtil(maze, x, y + 1, sol) == true)
-            return true;
+        if (solveMazeUtil(maze, x, y + 1, sol) == true) return true;
 
         /* If moving in x direction doesn't give solution then 
            Move down in y direction  */
-        if (solveMazeUtil(maze, x + 1, y, sol) == true)
-            return true;
+        if (solveMazeUtil(maze, x + 1, y, sol) == true) return true;
 
         /* If none of the above movements work then BACKTRACK:  
             unmark x, y as part of solution path */

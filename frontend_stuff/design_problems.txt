@@ -33,17 +33,38 @@ cache invalidation
 background sync - update ur cache first and then after every 10sec sync ur updated cache with db in a single request
 but keep a list of updated keys so that after 10sec u go and update the data corresponding to keys in ur db
 load balancing - distribute load between servers (round robin, weighted round robin, least connections,
-weighed least connections, URL Hash and least latency)
+weighed least connections, URL Hash and least latency), consistent hashing
 Least latency - makes a quick HTTP OPTIONS request to backend servers, and sends the request to the first server to answer
+//Consistent hashing assigns requests to the servers in a way that the load is equally balanced on servers
+Consistent Hashing maps servers to the key space and assigns requests to the next clockwise server
+M hash fns and N servers - servers are placed at N*M points
+2 principles allowed by Consistent Hashing - fault tolerance(removing servers), scalability (adding servers)
 cloud - large computing 
 kafka - messaging queue 
-
+polling - using background thread for making request after every x sec to get new data like feed/ 
+to tell if a person is online or not 
+long polling - make a request and keep connection open until new data comes 
+polling and long polling are used as backward compatibility to web sockets 
+websockets - make a connection once and then bidirectional communication between client and server on the same connection
+used in chat/trading/live scores applications
+socket.io - js library for web sockets (just like jquery is to javascript)
+handles fallback(if client and server doesn't agree on handshake then uses long polling as a 
+fallback mechanism to support old browsers) and auto-reconnection
+fan-in : all the client requests coming to a server
+fan-out: requests going from server to clients
+problem with fan-out is if million users are to be notified then server gets crashed
+so use rate limiting (1000 requests/sec etc)
 
 3)databases
-sharding 
-indexing 
-in memory data storage - reddis, memcache
-
+sharding - split ur database
+vertical sharding - put each table in a new machine so that the requests get split
+horizontal sharding - split a single table and put it into multiple machines (based on time/userid/geography)
+apply indexing on a horizontally sharded table
+//To reduce load on main db server
+1)in memory caching - reddis, memcache
+2)master-slave architecture
+all read operations from slaves
+all write operations to master and sync master with slaves
 
 whatsapp - https://www.youtube.com/watch?v=vvhC64hQZMk
 parking lot - https://www.youtube.com/watch?v=DSGsa0pu8-k

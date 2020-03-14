@@ -181,3 +181,21 @@ function min_spaces(pi, fav_arr) {
     return recurse(0)
 
 }
+
+//minimum number of flips to make String monotone increasing
+//Input: "00110"
+//Output: 1
+//Explanation: We flip the last digit to get 00111.
+function minFlipsMonoIncr(S) {
+    let N = S.length;
+    let P = Array(N + 1);
+    for (let i = 0; i < N; ++i)
+        P[i + 1] = P[i] + (S.charAt(i) == '1' ? 1 : 0);
+
+    let ans = Integer.MAX_VALUE;
+    for (let j = 0; j <= N; ++j) {
+        ans = Math.min(ans, P[j] + N - j - (P[N] - P[j]));
+    }
+
+    return ans;
+}
