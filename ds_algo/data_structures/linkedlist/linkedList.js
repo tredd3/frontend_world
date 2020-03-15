@@ -185,12 +185,30 @@ class LinkedList {
 }
 
 let linkedList = new LinkedList();
-linkedList.add(1);
-linkedList.add(2);
-linkedList.add(3);
-linkedList.add(4);
-linkedList.add(5);
-linkedList.add(6);
+let arr = [1, 2, 6, 3, 4, 5, 6]
+for (let x of arr) {
+    linkedList.add(x);
+}
 linkedList.size();
 //linkedlist which is a global object is stored in heap
 //linkedlist functions get executed on stack also local variables are stored in stack
+
+var removeElements = function (head, val) {
+
+    if (head && head.val == val) {
+        //if Input:  6->6->6->3->4->5->6, val = 6
+        //Output: 3->4->5
+        return removeElements(head.next, val)
+    }
+
+    let curr = head;
+    while (curr) {
+        if (curr.next && curr.next.val == val) curr.next = curr.next.next
+        else curr = curr.next
+    }
+
+    return head
+};
+//Input:  1->2->6->3->4->5->6, val = 6
+//Output: 1->2->3->4->5
+removeElements(linkedList.head, 6)

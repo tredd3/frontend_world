@@ -179,6 +179,8 @@ multiplexing allows your Browser to fire off multiple requests at once on the sa
 like requesting index.html to server also pushes css and js in the response
 now if the browser actually makes a request for css/js it is served from cache, reducing load time
 *most of the browsers , web servers and programming languages have already implemented it.
+*The client starts an HTTP/1.1 connection and sends an Upgrade: h2c header. If the server supports
+ HTTP/2, it replies with HTTP 101 Switching Protocol status code.
 
 **HTTP/3
 will use QUIC(reliable UDP) instead TCP/TLS for the transport layer portion.
@@ -284,3 +286,9 @@ JSONP uses this advantage, and request files using the script tag instead of the
 An inline frame is used to embed another document within the current HTML document.
 like embedding a google map and youtube video
 iframe to main window communication is via post message
+
+
+//same origin policy - only for js files
+prevents scripts from one origin to access private data on another origin
+e.g: once u open fb in a browser window fb scripts cannot access resources from google server
+unless it allows it using allow-access-control-origin header

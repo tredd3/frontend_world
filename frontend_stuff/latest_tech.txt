@@ -101,3 +101,12 @@ You can call WebAssembly functions in JavaScript code and you can call JavaScrip
 //web components - suite of different technologies allowing you to create reusable custom elements 
 web components are imperative(u explicitly iterate on DOM) but react components are declarative
 you are free to use React in your Web Components, or to use Web Components in React
+
+
+//distributed file system vs local file system (storing images, audio, videos,docs etc)
+*client feels that big file that is uploaded is handled by one system but internally that individual
+file is being split into blocks and stored in multiple systems
+*processing speed is high and time is low since multiple systems are handling the single file
+*data replication(atleast 3 replicas) and failure tolerance are taken care by the DFS but 
+if u store files in local file system u explicitly need to handle this
+*There is a max limit for increasing capacity of a single system
