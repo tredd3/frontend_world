@@ -76,7 +76,7 @@ map entries are unique
 terminology: root, nodes, leafs(nodes without children),internal nodes(nodes with atleast 1 child),link(connecting 2 nodes)
 parent , children, siblings, ancestors, descendant, links are uni directional(parent to child)
 tree with n nodes will have n-1 edges/links
-applications: to represent hierarichal data(organisation info, family,file system), networking routing algorith, HTML DOM, quick search, insertion and deletion
+applications: to represent hierarichal data(organisation info, family,file system), networking routing algorithm, HTML DOM, quick search, insertion and deletion
 depth of a node: no.of edges from root to that node
 height of a node: no.of edges in the longest path from that node to leaf
 height of a tree: height of root node (height of the tree with only one node 0, empty tree -1)
@@ -94,12 +94,14 @@ using arrays to store data (left link:2i+1, right link:2i+2) - only for complete
 
 **Binary Search Trees : special kind of binary tree
 defination - for each node value of all the nodes in left subtree is lesser/equal and value of all the nodes in right subtree is greater
-insert/deletion/search - O(logn)
+also both left and right subtrees should be BSTs.
+insert/deletion/search - O(logn) if BST is balanced
 after insertion and deletion BST sometimes get unbalanced we need to re-balance it
 while u search ur search space keeps on reducing from n->n/2->n/4.......1
 n/2^k = 1 (k steps) | k= log2(n)
 we should always keep the BST balanced so that the worst case complexity still remains O(log2(n))
 else we need to iterate on all the nodes and the complexity will be O(n)
+self balanced BSTs - AVL tree and RED-BLACK tree
 
 **tree traversal - visiting each node in the tree exactly once in some order
 BFS - breadth first search (level order)
@@ -115,6 +117,7 @@ postorder - left subtree, right subtree ,root
 time complexity: O(n) | space complxity: O(n) , best O(logn)
 
 8)heaps - special kind of binary tree - best for dynamic and large data
+creating the heap takes O(n) time - but this is created before user interaction similar to trie
 search/insert - O(logn)
 delete - O(1) (but since after deletion we need to modify the heap it takes O(logn))
 

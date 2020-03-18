@@ -2,6 +2,9 @@
 //The same property must be recursively true for all nodes in Binary Tree.
 
 /* given an array convert it into an heap */
+
+https://www.cs.usfca.edu/~galles/visualization/Heap.html
+
 function create_maxheap(input, i) {
     var array_length = input.length;
     var left = 2 * i + 1;

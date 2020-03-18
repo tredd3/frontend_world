@@ -8,6 +8,8 @@
 // parent: i / 2
 //for index 3 parent lies at index 3/2 (1) and left child at index 2*3(6) and right child at index 2*3+1(7)
 
+https://www.cs.usfca.edu/~galles/visualization/Heap.html
+
 let MinHeap = function () {
 
     let heap = [null];

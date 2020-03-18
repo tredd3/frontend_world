@@ -114,7 +114,7 @@ function partition(arr, start, end) {
 }
 
 //heapsort - not stable, in place
-
+https://www.cs.usfca.edu/~galles/visualization/HeapSort.html
 var array_length;
 /* to create MAX  array */
 function heap_root(input, i) {
