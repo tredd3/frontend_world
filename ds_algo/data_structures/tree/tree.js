@@ -19,9 +19,9 @@ class BST {
                 this.root = root;
             }
         } else if (data <= root.data) {
-            root.left = this.add(root.left, data)
+            root.left = this.addrecursively(root.left, data)
         } else {
-            root.right = this.add(root.right, data)
+            root.right = this.addrecursively(root.right, data)
         }
         return root;
     }
@@ -154,7 +154,7 @@ class BST {
             return true;
         }
         if (isBinarySearchTree(root.left) && (this.findMax(root.left) <= root.data)
-            && isBinarySearchTree(root.right) && (this.findMin(root.right, root.data) > root.data)) {
+            && isBinarySearchTree(root.right) && (this.findMin(root.right) > root.data)) {
             return true;
         } else {
             return false;

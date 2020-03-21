@@ -101,7 +101,18 @@ while u search ur search space keeps on reducing from n->n/2->n/4.......1
 n/2^k = 1 (k steps) | k= log2(n)
 we should always keep the BST balanced so that the worst case complexity still remains O(log2(n))
 else we need to iterate on all the nodes and the complexity will be O(n)
-self balanced BSTs - AVL tree and RED-BLACK tree
+
+**self balanced BSTs - AVL tree and RED-BLACK tree (balancing achieved by rotations)
+red-black tree : When Tree is modified, new tree is subsequently rearranged and repainted.
+AVL tree: Height difference of left and right subtree of node should be less than 2.
+AVL trees provide faster lookups than Red Black Trees because they are more strictly balanced.
+Red Black Trees provide faster insertion and removal operations than AVL trees as fewer rotations are done due to relatively relaxed balancing.
+AVL trees store balance factors or heights with each node, thus requires storage for an integer per node whereas Red Black Tree requires only 1 bit of information per node.
+Red Black Trees are used in most of the language libraries like map, multimap, multiset in C++ whereas AVL trees are used in databases where faster retrievals are required.
+
+*A B-tree is a tree data structure that keeps data sorted and allows searches, insertions, and deletions
+in logarithmic amortized time. It is optimized for systems that read and write large blocks of data.
+It is most commonly used in database and file systems.
 
 **tree traversal - visiting each node in the tree exactly once in some order
 BFS - breadth first search (level order)

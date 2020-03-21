@@ -210,22 +210,22 @@ function printVerticalOrder(root) {
     // Create a map and store vertical order in map using 
     // function getVerticalOrder() 
     let m = new Map();
-    let hd = 0;
 
-    function getVerticalOrder(root, hd) {
+    function getVerticalOrder(root, key) {
         // Base case 
         if (root == null)
             return;
 
-        // Store current node in map 'm' 
-        m[hd].push_back(root.key);
+        // Store current node in map 'm'
+        if(m.has(key)) m.get(key).push(root.data)
+        else m.set(key,[root.data])
 
         // Store nodes in left subtree 
-        getVerticalOrder(root.left, hd - 1);
+        getVerticalOrder(root.left, key - 1);
 
         // Store nodes in right subtree 
-        getVerticalOrder(root.right, hd + 1);
+        getVerticalOrder(root.right, key + 1);
     }
 
-    getVerticalOrder(root, hd, m);
+    getVerticalOrder(root, 0);
 } 
