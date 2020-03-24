@@ -5,6 +5,7 @@
 
 https://www.cs.usfca.edu/~galles/visualization/Heap.html
 
+//max_heap creation O(n) time
 function create_maxheap(input, i) {
     var array_length = input.length;
     var left = 2 * i + 1;
@@ -25,7 +26,7 @@ function create_maxheap(input, i) {
     }
 }
 
-// Max heap
+// Max heap insertion and deletion O(logn) time
 let MaxHeap = function () {
 
     let heap = [null];
@@ -50,7 +51,7 @@ let MaxHeap = function () {
     };
 
     this.remove = function () {
-        let smallest = heap[1];
+        let largest = heap[1];
         if (heap.length > 2) {
             heap[1] = heap[heap.length - 1];
             heap.pop()//heap.splice(heap.length - 1);
@@ -64,6 +65,14 @@ let MaxHeap = function () {
             let left = 2 * i;
             let right = 2 * i + 1;
             while (heap[i] <= heap[left] || heap[i] <= heap[right]) {
+                if (heap[left] == undefined && heap[right] == undefined) {
+                    break;
+                };
+                if (heap[left] == undefined || heap[right] == undefined) {
+                    if(heap[left] !== undefined && heap[left] >= heap[i] ) [heap[i], heap[left]] = [heap[left], heap[i]];
+                    if(heap[right] !== undefined && heap[right] >= heap[i] ) [heap[i], heap[right]] = [heap[right], heap[i]];
+                    break;
+                };
                 if (heap[left] > heap[right]) {
                     [heap[i], heap[left]] = [heap[left], heap[i]];
                     i = left;
@@ -73,16 +82,13 @@ let MaxHeap = function () {
                 };
                 left = 2 * i;
                 right = 2 * i + 1;
-                if (heap[left] == undefined || heap[right] == undefined) {
-                    break;
-                };
             };
         } else if (heap.length == 2) {
             heap.splice(1, 1);
         } else {
             return null;
         };
-        return smallest;
+        return largest;
     };
 };
 

@@ -1,3 +1,7 @@
+//factors
+perfect squares - odd factors
+others - even factors
+
 //32 bit vs 64 bit
 there exist two type processor i.e., 32-bit and 64-bit. These processor tells us how much memory a processor can have access from a CPU register
 32 bits can refer max 2^32 bytes of memory addresses= 4GB RAM
