@@ -49,25 +49,18 @@ function detectAndRemoveLoop(head) {
 
     let slow = head, fast = head;
 
-    // Move slow and fast 1 and 2 steps 
-    // ahead respectively. 
-    slow = slow.next;
-    fast = fast.next.next;
-
     // Search for loop using slow and 
     // fast pointers 
     while (fast && fast.next) {
-        if (slow == fast)
-            break;
+        // Move slow and fast 1 and 2 steps ahead respectively. 
         slow = slow.next;
         fast = fast.next.next;
+        if (slow == fast) break;
     }
 
     /* If loop exists */
     if (slow == fast) {
-        slow = head;
-        while (slow.next != fast.next) {
-            slow = slow.next;
+        while (fast.next != slow) {
             fast = fast.next;
         }
 
@@ -103,12 +96,14 @@ set.last; // 3
 
 //get intersection point in a linked list
 //O(m+n) - Have a visited flag with each node. Traverse the first linked list and keep marking visited nodes. Now traverse the second linked list, If you see a visited node again then there is an intersection point, return the intersecting node
-//(m+n) - Traverse the first linked list and store the addresses of visited nodes in a hash. Now traverse the second linked list and if you see an address that already exists in the hash then return the intersecting node.
+//(m+n) - Traverse the first linked list and store the addresses of visited nodes in a hash set. Now traverse the second linked list and if you see an address that already exists in the hash then return the intersecting node.
 //(Using difference of node counts) O(m+n), O(1)
 //Get count of the nodes in the first list, let count be c1.
 //Get count of the nodes in the second list, let count be c2.
 //Get the difference of counts d = abs(c1 – c2)
 //Now traverse the bigger list from the first node till d nodes so that from here onwards both the lists have equal no of nodes.
+//attach the head of one linked list to the tail of the other, if there is a intersection point 
+//then there is a loop and we can use the concept of finding loop in a LL
 
 //Merge Sort for Linked Lists
 //The slow random-access performance of a linked list makes some other algorithms (such as quicksort) perform poorly, and others (such as heapsort) completely impossible.

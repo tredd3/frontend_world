@@ -39,8 +39,6 @@ The mapping from virtual to physical address is done by the memory management un
 CPU scheduler:
 It selects a process among the processes that are ready to execute and allocates CPU to one of them.
 DEADLOCK:
-All processes keep waiting for each other to complete and none get executed
-Resources are blocked by the processes
 A process in operating systems uses different resources and uses resources in following way.
 1) Requests a resource
 2) Use the resource

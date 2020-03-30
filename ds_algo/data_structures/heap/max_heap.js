@@ -5,27 +5,6 @@
 
 https://www.cs.usfca.edu/~galles/visualization/Heap.html
 
-//max_heap creation O(n) time
-function create_maxheap(input, i) {
-    var array_length = input.length;
-    var left = 2 * i + 1;
-    var right = 2 * i + 2;
-    var max = i;
-
-    if (left < array_length && input[left] > input[max]) {
-        max = left;
-    }
-
-    if (right < array_length && input[right] > input[max]) {
-        max = right;
-    }
-
-    if (max != i) {
-        [input[i], input[max]] = [input[max], input[i]]
-        create_maxheap(input, max);
-    }
-}
-
 // Max heap insertion and deletion O(logn) time
 let MaxHeap = function () {
 

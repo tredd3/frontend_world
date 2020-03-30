@@ -121,5 +121,3 @@ function printNGE(arr, n) {
         s.pop();
     }
 }
-
-//

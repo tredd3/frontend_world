@@ -372,8 +372,8 @@ function maxsum_subarray(arr) {
     let globalmax = 0;
     let currmax = arr[0];
     for (let i = 1; i < arr.length; i++) {
-        currmax = Math.max(arr[i] + currmax, currmax);
-        if (currmax > globalmax) globalmax = currmax;
+        currmax = Math.max(arr[i] + currmax, arr[i]);
+        globalmax=Math.max(currmax, globalmax);
     }
 
     return globalmax;

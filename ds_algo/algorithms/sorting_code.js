@@ -22,7 +22,7 @@ function selection_sort(arr) {
     var n = arr.length;
     for (var i = 0; i < n - 1; i++) {
         let min = i;
-        for (var j = i + 1; i < n; i++) {
+        for (var j = i + 1; j < n; j++) {
             if (arr[j] < arr[min]) {
                 min = j;
             }
@@ -131,16 +131,9 @@ function heap_root(input, i) {
     }
 
     if (max != i) {
-        swap(input, i, max);
+        [input[max], input[i]]= [input[i], input[max]]
         heap_root(input, max);
     }
-}
-
-function swap(input, index_A, index_B) {
-    var temp = input[index_A];
-
-    input[index_A] = input[index_B];
-    input[index_B] = temp;
 }
 
 function heapSort(input) {
@@ -152,14 +145,14 @@ function heapSort(input) {
     }
 
     for (i = input.length - 1; i > 0; i--) {
-        swap(input, 0, i);
+        [input[0], input[i]]= [input[i], input[0]]
         array_length--;
         heap_root(input, 0);
     }
 }
 
 var arr = [3, 0, 2, 5, -1, 4, 1];
-heapSort(arr);
+heapSort(arr,0);
 console.log(arr);
 
 //find the kth largest/smallestr element
