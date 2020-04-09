@@ -53,3 +53,10 @@ STARVATION:
 High priority processes keep executing and low priority processes are blocked for indefinite time
 Resources are continuously utilized by high priority processes
 It can be prevented by Aging. In Aging priority of long waiting processes is gradually increased.
+kernel: https://en.wikipedia.org/wiki/Kernel_(operating_system)
+The kernel is a computer program at the core of a computer's operating system with complete control over everything in the system
+A kernel is a interface between the applications(browser,audio and video player etc) and hardware of a computer.
+2 types of kernels:
+Monolithic kernel is a single large process running entirely in a single address space.
+In microkernels, the kernel is broken down into separate processes, known as servers.
+Some of the servers run in kernel space and some run in user-space. 

@@ -49,7 +49,7 @@ doSomething()
 .then(newResult => doThirdThing(newResult))
 .then(finalResult => console.log(`Got the final result: ${finalResult}`))
 .catch(failureCallback);
-any rejection/expection all catch handlers are called
+any rejection/expection all catch handlers are not called. only immediate catch handler is called.
 
 async function foo() {
   try {
