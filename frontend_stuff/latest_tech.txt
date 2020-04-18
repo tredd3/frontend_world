@@ -109,3 +109,16 @@ You can call WebAssembly functions in JavaScript code and you can call JavaScrip
 //web components - suite of different technologies allowing you to create reusable custom elements 
 web components are imperative(u explicitly iterate on DOM) but react components are declarative
 you are free to use React in your Web Components, or to use Web Components in React
+
+https://www.html5rocks.com/en/tutorials/webrtc/basics/
+//WebRTC (Web Real-Time Communication) - real time transfer of audio, video and text
+*It allows audio and video communication to work inside web pages by allowing direct peer-to-peer communication,
+ eliminating the need to install plugins or download native apps
+*part of W3C standards - implemented by all browsers
+*WebRTC has applications for non-browser devices, including mobile platforms and IoT devices
+*Major components of WebRTC include several JavaScript APIs:
+*getUserMedia acquires the audio and video media (e.g., by accessing a device's camera and microphone).[19]
+*RTCPeerConnection enables audio and video communication between peers. It performs signal processing, codec handling, peer-to-peer communication, security, and bandwidth management.[20]
+*RTCDataChannel allows bidirectional communication of arbitrary data between peers. It uses the same API as WebSockets and has very low latency.[21]
+The WebRTC API also includes a statistics function:
+getStats allows the web application to retrieve a set of statistics about WebRTC sessions
