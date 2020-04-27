@@ -12,6 +12,7 @@ Docker container replicates production environment where we can deploy our code 
 
 
 //Web server - tomcat, apache, nginix
+inorder to make a computer webserver u need to install a software
 When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the HTTP server(software) accepts request, 
 finds the requested document (if it doesn't then a�404�response is returned), and sends it back to the browser, also through HTTP.
 static web server - the server sends its hosted files "as-is" to your browser
@@ -33,6 +34,24 @@ API responses
 An application component uses the API to make requests for service from other components, whether inside (e.g. in a micro-services architecture) or outside the application itself. 
 Every request will hit the cache and  the response is served. If the response is not present then main memory servers will be hit, response is stored in the cache and then it is served
 
+//why NGINIX is used for large enterprises
+*easy installation and maintenance
+*performance - reduces wait time because of load balancing and caching
+*scalabilty - can handle huge number of concurrent requests
+*on the fly upgrades - no need to bring down your server
+*Nginx uses an asynchronous event-driven approach, rather than threads, to handle requests hence providing more predictable performance under high loads
+*HTTP/2 and wbsockets support
+*URL rewriting and redirection
+URL rewriting/mapping - The technique adds a layer of abstraction between the files used to generate a web page and the URL that is presented to the outside world.
+http://example.com/w/index.php?title=Page_title
+but can be rewritten as:
+http://example.com/wiki/Page_title
+
+//configuring NGINIX (nginx.conf filename)
+*worker process - no of workers process nginix will use as it is single threaded
+*worker connections - max connections per worker/ this decides how many users nginix can serve simultaneously
+*access_log & error_log - 
+*gzip -
 
 //why we need proxy or reverse proxy?
 *security - no direct access to any of your file transfer servers. Everyone has to pass through the reverse proxy. 

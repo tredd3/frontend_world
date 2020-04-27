@@ -1,3 +1,11 @@
+//YARN vs NPM
+https://stackshare.io/stackups/npm-vs-yarn
+*YARN by facebook to overcome shortcomings of NPM
+*NPM installs all and every package from npmjs.com which hinders accessibility in the event that one goes down, 
+Yarn, on the other hand, installs from multiple repositories npmjs.com as well as Bower
+*Yarn caches every package it downloads so it never needs to again.NPM downloads the packages everytime u run npm install
+*Yarn is fast bcoz of parallel downloading of packages Npm downloads packages sequentially
+
 //GraphQL - A query language for your API
 GraphQL has three main characteristics:
 It lets the client specify exactly what data it needs.
@@ -122,3 +130,8 @@ https://www.html5rocks.com/en/tutorials/webrtc/basics/
 *RTCDataChannel allows bidirectional communication of arbitrary data between peers. It uses the same API as WebSockets and has very low latency.[21]
 The WebRTC API also includes a statistics function:
 getStats allows the web application to retrieve a set of statistics about WebRTC sessions
+
+//WebGL (Web Graphics Library) is a JavaScript API for rendering high-performance interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
+*can be used inside HTML5 canvas elements 
+*The <canvas> element is also used by the Canvas API to do 2D graphics on web pages.
+*all the graphics are handled by GPU
