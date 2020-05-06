@@ -284,3 +284,7 @@ JSONP uses this advantage, and request files using the script tag instead of the
 An inline frame is used to embed another document within the current HTML document.
 like embedding a google map and youtube video
 iframe to main window communication is via post message
+
+//Data serialization
+Data serialization is the process of translating data structures or object state into a format that can be stored or transmitted and reconstructed later.
+e.g: JSON.stringify() for serialization and JSON.parse() for de-serialization
