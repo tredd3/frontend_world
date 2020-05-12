@@ -140,6 +140,8 @@ context is used for avoiding prop drilling
 
 
 //Performance in react
+https://blog.bitsrc.io/how-and-why-you-should-avoid-cors-in-single-page-apps-db25452ad2f8
+https://medium.com/flock-engineering-blog/a-beginners-guide-to-performance-in-large-scale-react-applications-20072d47f66a
 *Profiler - measures how often a React application renders and what the “cost” of rendering is.
 Its purpose is to help identify parts of an application that are slow and may benefit from optimizations such as memoization.
 *stop re-rendering - shouldComponentUpdate/React.PureComponent/React.memo/immutable.js
