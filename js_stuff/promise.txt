@@ -43,13 +43,31 @@ returns another pending promise object, the resolution/rejection of the promise 
 .catch() internally calls Promise.prototype.then(undefined, onRejected)
 promise rejection - reference error, throw new error, use reject or returning a rejected promise
 
+//new feature in promises (promise.any)
+try {
+  const first = await Promise.any(promises);
+  // Any of the promises was fulfilled.
+} catch (error) {
+  // All of the promises were rejected.
+}
+With Promise pattern,
+Promise.any(promises).then(
+  (first) => {
+    // Any of the promises was fulfilled.
+  },
+  (error) => {
+    // All of the promises were rejected.
+  }
+);
+
+
 //error propagation
 doSomething()
 .then(result => doSomethingElse(result))
 .then(newResult => doThirdThing(newResult))
 .then(finalResult => console.log(`Got the final result: ${finalResult}`))
 .catch(failureCallback);
-any rejection/expection all catch handlers are called
+any rejection/expection all catch handlers are not called. only immediate catch handler is called.
 
 async function foo() {
   try {

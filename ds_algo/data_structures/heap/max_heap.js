@@ -2,27 +2,10 @@
 //The same property must be recursively true for all nodes in Binary Tree.
 
 /* given an array convert it into an heap */
-function create_maxheap(input, i) {
-    var array_length = input.length;
-    var left = 2 * i + 1;
-    var right = 2 * i + 2;
-    var max = i;
 
-    if (left < array_length && input[left] > input[max]) {
-        max = left;
-    }
+https://www.cs.usfca.edu/~galles/visualization/Heap.html
 
-    if (right < array_length && input[right] > input[max]) {
-        max = right;
-    }
-
-    if (max != i) {
-        [input[i], input[max]] = [input[max], input[i]]
-        create_maxheap(input, max);
-    }
-}
-
-// Max heap
+// Max heap insertion and deletion O(logn) time
 let MaxHeap = function () {
 
     let heap = [null];
@@ -47,7 +30,7 @@ let MaxHeap = function () {
     };
 
     this.remove = function () {
-        let smallest = heap[1];
+        let largest = heap[1];
         if (heap.length > 2) {
             heap[1] = heap[heap.length - 1];
             heap.pop()//heap.splice(heap.length - 1);
@@ -61,6 +44,14 @@ let MaxHeap = function () {
             let left = 2 * i;
             let right = 2 * i + 1;
             while (heap[i] <= heap[left] || heap[i] <= heap[right]) {
+                if (heap[left] == undefined && heap[right] == undefined) {
+                    break;
+                };
+                if (heap[left] == undefined || heap[right] == undefined) {
+                    if(heap[left] !== undefined && heap[left] >= heap[i] ) [heap[i], heap[left]] = [heap[left], heap[i]];
+                    if(heap[right] !== undefined && heap[right] >= heap[i] ) [heap[i], heap[right]] = [heap[right], heap[i]];
+                    break;
+                };
                 if (heap[left] > heap[right]) {
                     [heap[i], heap[left]] = [heap[left], heap[i]];
                     i = left;
@@ -70,16 +61,13 @@ let MaxHeap = function () {
                 };
                 left = 2 * i;
                 right = 2 * i + 1;
-                if (heap[left] == undefined || heap[right] == undefined) {
-                    break;
-                };
             };
         } else if (heap.length == 2) {
             heap.splice(1, 1);
         } else {
             return null;
         };
-        return smallest;
+        return largest;
     };
 };
 

@@ -188,7 +188,10 @@ async function test2() {
 var arr = [1, 2, [3, 4, 5, [5, 7, 8, [3, 4, 5]]]]
 arr.flat()//1,2,3,4,5,Array(4)
 arr.flat().flat()
-arr.flat(Infinity)
+arr.flat(Infinity) // for unknown level of nesting
+const arr = ["it's Sunny in", "", "California"];
+arr.flatMap(x => x.split(" ")); //first it applies map fn and then does a flat for depth of 1 level
+// ["it's","Sunny","in", "", "California"]
 
 //The trimStart() method removes whitespace from the beginning of a string.
 var str = "   hello    ";
@@ -213,3 +216,18 @@ try {
 } finally {
     console.log("This is done");
 }
+
+//dynamic import tags
+import('..my-path/my-module.js').then((module) => {
+    module.default();
+    module.doSomething();
+    // ...
+  });
+  or
+  
+(async () => {
+const module = await import('..my-path/my-module.js')
+module.default();
+module.doSomething();
+// ...
+})();

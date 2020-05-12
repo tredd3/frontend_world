@@ -287,8 +287,11 @@ An inline frame is used to embed another document within the current HTML docume
 like embedding a google map and youtube video
 iframe to main window communication is via post message
 
-
 //same origin policy - only for js files
 prevents scripts from one origin to access private data on another origin
 e.g: once u open fb in a browser window fb scripts cannot access resources from google server
 unless it allows it using allow-access-control-origin header
+
+//Data serialization
+Data serialization is the process of translating data structures or object state into a format that can be stored or transmitted and reconstructed later.
+e.g: JSON.stringify() for serialization and JSON.parse() for de-serialization

@@ -1,3 +1,11 @@
+//YARN vs NPM
+https://stackshare.io/stackups/npm-vs-yarn
+*YARN by facebook to overcome shortcomings of NPM
+*NPM installs all and every package from npmjs.com which hinders accessibility in the event that one goes down, 
+Yarn, on the other hand, installs from multiple repositories npmjs.com as well as Bower
+*Yarn caches every package it downloads so it never needs to again.NPM downloads the packages everytime u run npm install
+*Yarn is fast bcoz of parallel downloading of packages Npm downloads packages sequentially
+
 //GraphQL - A query language for your API
 GraphQL has three main characteristics:
 It lets the client specify exactly what data it needs.
@@ -33,19 +41,27 @@ Vue has official packages for state management, routing, or server-side renderin
 The testing and debugging for a complete angular project is possible with a single tool.
 **both are component based and used for creating SPAs/MPAs
 
+
 //mongodb vs sql
-*SQL requires that you use predefined schemas to determine the structure of your data before you work with it. In addition, all of your data must follow the same structure
-*NoSQL databases, on the other hand, have dynamic schemas for unstructured data, and data is stored in many ways: They can be column-oriented, 
-document-oriented, graph-based or organized as a KeyValue store. 
-**scalability
-In most situations, SQL databases are vertically scalable, which means that you can increase the load on a single server by increasing things like 
-CPU, RAM or SSD. NoSQL databases, on the other hand, are horizontally scalable. This means that you handle more traffic by sharding, 
-or adding more servers in your NoSQL database.
-*The Structure
-SQL databases are table-based, while NoSQL databases are either document-based, key-value pairs, graph databases or wide-column stores.
-*Some examples 
-SQL databases include MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
+*SQL : 
+predefined schemas 
+structured data(all of your data must follow the same structure)
+data stored in table format
+vertically scalable, which means that you can increase the load on a single server by increasing things like CPU, RAM or SSD
+SQL databases follow ACID properties (Atomicity, Consistency, Isolation and Durability)
+SQL databases examples MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
+use case: complex queries, transaction data storage (accounting system), extensive delete and update operations
+
+
+*NoSQL databases : 
+dynamic schemas 
+unstructured data 
+store data in document-based, key-value pairs, graph databases or wide-column stores.
+horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database.
+NoSQL database follows the Brewers CAP theorem (Consistency, Availability and Partition tolerance).
 NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and CouchDB
+use case: large or ever-changing data sets(analytics data), hierarchical data storage, extensive insertion
+and read operations
 
 
 //java vs node
@@ -102,11 +118,28 @@ You can call WebAssembly functions in JavaScript code and you can call JavaScrip
 web components are imperative(u explicitly iterate on DOM) but react components are declarative
 you are free to use React in your Web Components, or to use Web Components in React
 
-
 //distributed file system vs local file system (storing images, audio, videos,docs etc)
 *client feels that big file that is uploaded is handled by one system but internally that individual
 file is being split into blocks and stored in multiple systems
 *processing speed is high and time is low since multiple systems are handling the single file
 *data replication(atleast 3 replicas) and failure tolerance are taken care by the DFS but 
 if u store files in local file system u explicitly need to handle this
+
 *There is a max limit for increasing capacity of a single system
+https://www.html5rocks.com/en/tutorials/webrtc/basics/
+//WebRTC (Web Real-Time Communication) - real time transfer of audio, video and text
+*It allows audio and video communication to work inside web pages by allowing direct peer-to-peer communication,
+ eliminating the need to install plugins or download native apps
+*part of W3C standards - implemented by all browsers
+*WebRTC has applications for non-browser devices, including mobile platforms and IoT devices
+*Major components of WebRTC include several JavaScript APIs:
+*getUserMedia acquires the audio and video media (e.g., by accessing a device's camera and microphone).[19]
+*RTCPeerConnection enables audio and video communication between peers. It performs signal processing, codec handling, peer-to-peer communication, security, and bandwidth management.[20]
+*RTCDataChannel allows bidirectional communication of arbitrary data between peers. It uses the same API as WebSockets and has very low latency.[21]
+The WebRTC API also includes a statistics function:
+getStats allows the web application to retrieve a set of statistics about WebRTC sessions
+
+//WebGL (Web Graphics Library) is a JavaScript API for rendering high-performance interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
+*can be used inside HTML5 canvas elements 
+*The <canvas> element is also used by the Canvas API to do 2D graphics on web pages.
+*all the graphics are handled by GPU

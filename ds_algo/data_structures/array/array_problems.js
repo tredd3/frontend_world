@@ -372,8 +372,8 @@ function maxsum_subarray(arr) {
     let globalmax = 0;
     let currmax = arr[0];
     for (let i = 1; i < arr.length; i++) {
-        currmax = Math.max(arr[i] + currmax, currmax);
-        if (currmax > globalmax) globalmax = currmax;
+        currmax = Math.max(arr[i] + currmax, arr[i]);
+        globalmax=Math.max(currmax, globalmax);
     }
 
     return globalmax;
@@ -446,5 +446,13 @@ var checkPossibility = function (nums) {
 };
 
 
-
-
+//https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/
+//https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+//https://www.geeksforgeeks.org/merge-two-sorted-arrays-in-constant-space-using-min-heap/?ref=rp
+//The idea is to convert the second array into a min-heap first. This can be done in O(M) time complexity.
+//After converting the second array to min-heap:
+//Start traversing the first array and compare the current element for the first array to top of the created min_heap.
+//If the current element in the first array is greater than heap top, swap the current element of the first array with the root of the heap, and heapify the root of the min_heap.
+//After performing the above operation for every element of the first array, the first array will now contain first N elements of the sorted merged array.
+//Now, the elements remained in the min_heap or the second array are the last M elements of the sorted merged array.
+//To arrange them in sorted order, apply in-place heapsort on the second array.
