@@ -66,6 +66,29 @@ var obj = { // does not create a new scope
 obj.b(); // prints undefined, Window {...} (or the global object)
 obj.c(); // prints 10, Object {...}
 
+//don't use it for object prototypes. They will evaluate this as the window object
+class Article {
+    constructor(title) {
+        this.title = title;
+        this.shared = false;
+    }
+};
+
+Article.prototype.share = () => {
+    return this.shared = true;
+};
+
+//this inside the event listener points to window object and not the DOM element
+var button = document.getElementById('press');
+button.addEventListener('click', () => {
+    this.classList.toggle('worked');
+});
+
+//instead use below code
+button.addEventListener('click', (e) => {
+    e.target.classList.toggle('worked');
+});
+
 let callback;
 callback = callback || function () { }; // ok
 //callback = callback || () => { }; // SyntaxError: invalid arrow-function arguments

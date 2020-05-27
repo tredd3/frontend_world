@@ -222,12 +222,19 @@ import('..my-path/my-module.js').then((module) => {
     module.default();
     module.doSomething();
     // ...
-  });
-  or
-  
-(async () => {
-const module = await import('..my-path/my-module.js')
-module.default();
-module.doSomething();
-// ...
-})();
+});
+or
+
+    (async () => {
+        const module = await import('..my-path/my-module.js')
+        module.default();
+        module.doSomething();
+        // ...
+    })();
+
+
+//decorators - HOCs and function composition 
+//https://www.sitepoint.com/javascript-decorators-what-they-are/
+//The decorator proposal adds support for class and property decorators that can be used to resolve these issues, and future JavaScript versions will probably add decorator support for other troublesome areas of code.
+//https://www.telerik.com/blogs/decorators-in-javascript
+

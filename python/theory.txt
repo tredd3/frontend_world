@@ -1,0 +1,20 @@
+//python and its features
+
+Features:
+high level programming language
+used for  developing both desktop(GUI), web applications,complex scientific and numeric applications(data analysis and visualization)
+support various concepts in functional and aspect-oriented programming
+dynamic type system and automatic memory management
+interpreted programming language - allows you to you to run the same code on multiple platforms without recompilation
+Robust Standard Library - u can choose from available modules without writing additional code
+u can also choose from available python libraries
+For instance, while writing a web application in Python, you can use specific modules to implement web services, perform string operations, manage operating system interface or work with internet protocols. 
+Many Open Source Frameworks and Tools:
+Likewise, you can accelerate desktop GUI application development using Python GUI frameworks and toolkits like PyQT, PyJs, PyGUI, Kivy, PyGTK and WxPython.
+For instance, you can simplify and speedup web application development by using robust Python web frameworks like Django, Flask, Pyramid
+
+Downsides:
+Python is slower than several widely used programming languages including Java and C++. 
+You have to speed up the Python application by making changes to the application code or using custom runtime.
+
+

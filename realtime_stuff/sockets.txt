@@ -1,0 +1,13 @@
+//A socket is one endpoint of a two-way communication link between two programs running on the network.
+socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to.
+An endpoint is a combination of an IP address and a port number.
+
+//socket.io - primarily uses the WebSocket protocol with polling as a fallback option
+https://socket.io/docs/
+features: broadcasting to multiple sockets, storing data associated with each client, and asynchronous I/O.
+use cases: Real-time analytics, Binary streaming(audio, video and image), chat, Document collaboration (concurrently edit a document and see each other's changes)
+Socket.IO is not a WebSocket library with fallback options to other realtime protocols.
+ It is a custom realtime transport protocol implementation on top of other realtime protocols
+ A Socket.IO implementing server cannot connect to a non-Socket.IO WebSocket client.
+ A Socket.IO implementing client cannot talk to a non-Socket.IO WebSocket or Long Polling Comet server. 
+Hence Socket.IO requires using the Socket.IO libraries on both client and server side.

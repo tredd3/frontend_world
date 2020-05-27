@@ -69,3 +69,13 @@ https://www.tecmint.com/linux-curl-command-examples/
 curl command: to transfer data to or from a server, using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP or FILE).
 SSH: for establishing a secure channel connection to a server in a unsecured network for data tranfer.
 in mac  it is inbuilt but in windows u need to install a software
+
+//file system - controls how data is stored and retrieved.
+/ Without a file system, data placed in a storage medium would 
+be one large body of data with no way to tell where one piece of data stops and the next begins
+/each group of data is called a "file". The structure and logic rules used to manage the groups of data and their names is called a "file system".
+/RAM) is used to create a temporary file system for short-term use.
+/different kinds of file systems. Each one has different structure and logic, properties of speed, flexibility, security, size and more
+/diff storages: SSD(flash memory),HDD(magnetic storage), optical disks, magnetic tapes
+/some files systems are apt for specific storages
+local file system, network file system, virtual file system (creating files based on request)
