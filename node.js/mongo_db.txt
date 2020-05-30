@@ -1,0 +1,3 @@
+https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/
+While you can interact with Mongo directly using Mongo Driver, Mongoose will simplify that
+interaction by allowing you to model relationships between data and validate them easily.

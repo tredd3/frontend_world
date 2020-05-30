@@ -1,0 +1,21 @@
+
+//NODE JS - running js outside browser environment
+built on the Chrome JavaScript runtime
+event-driven, non-blocking I/O model that makes it lightweight and efficient
+perfect for data-intensive real-time applications that run across distributed devices
+Node.js frameworks -  express, sails
+Asynchronous	- code that not running at same time or with same speed
+Package - bunch of modules
+Socket.io is  web socket library 
+https://www.sitepoint.com/build-a-simple-web-server-with-node-js/
+
+
+//V8 Engine
+V8 first generates an abstract syntax tree with its own parser. 
+Then, Ignition, the V8 interpreter, generates bytecode from this syntax tree using the internal V8 bytecode format
+TurboFan is the V8 optimizing compiler, it takes this bytecode and generates machine code from it.
+V8 compiles JavaScript directly to native machine code using just-in-time compilation before executing it. 
+The compiled code is additionally optimized (and re-optimized) dynamically at runtime
+JIT compilation combines the speed of compiled code with the flexibility of interpretation
+
+//Express

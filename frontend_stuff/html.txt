@@ -1,0 +1,2 @@
+once HTML parsing is done we get tree-like DOM object structure back from it.
+Each HTML element is converted in to an object.

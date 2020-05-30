@@ -152,6 +152,9 @@ The Location response header indicates the URL to redirect a page to
 4** - client error
 400 - bad request
 401 - unauthorised (not autheniticated)
+The WWW-Authenticate header is sent along with a 401 Unauthorized response.
+It defines the authentication method that should be used to gain access to a resource.
+WWW-Authenticate: <type> realm=<realm>
 403 - forbidden (unauthorised)
 404 - not found
 5** - server error
