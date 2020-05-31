@@ -95,8 +95,8 @@ If we want to run an effect conditionally, we can put that condition inside our 
 *useState is a Hook sameas this.setState in a class, except it doesn’t merge the old and new state together
 *useEffectserves the same purpose as componentDidMount, componentDidUpdate, and componentWillUnmount in React classes, but unified into a single API.
 used to perform side effects from a function component. 
-effects - data fetching, subscriptions, logging, timers and manually changing the DOM (can affect other components and can’t be done during rendering)
-A function is said to have side effect if it trys to modify anything outside its body. 
+side effects - memory data fetching, subscriptions, logging, timers and manually changing the DOM (can affect other components and can’t be done during rendering)
+A function is said to have a side effect if it modifies some state variable value(s) outside its local environment,
 By default, React runs the effects after every render — including the first render. 
 When exactly does React clean up an effect? React performs the cleanup when the component unmounts.
 but effects run for every render and not just once. This is why React also cleans up effects from the previous render before running the effects next time.

@@ -1,10 +1,7 @@
-//Tries are often used to store words for quick lookup, such as a word auto-complete feature.
-//recommendations 
-
 /* Trie Data Structure */
 
 let Node = function () {
-    this.keys = new Map();
+    this.keys = new Map(); // array can also be used only if chars are stored
     this.end = false;
     this.setEnd = function () {
         this.end = true;

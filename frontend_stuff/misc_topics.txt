@@ -42,19 +42,6 @@ while also providing an enhanced version of the page to those with more advanced
 client side and crawler has no content to search on 
 *server side rendering
 
-//currying - splitting up a function that takes multiple arguments (params) into a sequence of functions that each take an individual argument.
-const sum = function(a) {
-  return function(b) {
-    return a + b
-  }
-}
-sum(3)(4)
-// no curry
-const sum = (a, b) => a + b
-
-// curry
-const sum = a => b => a + b
-
 Static assets: Assets which you don�t create  dynamically with server-side code. e.g: html, js, css, images etc
 
 https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers

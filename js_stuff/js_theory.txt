@@ -14,14 +14,37 @@ edge - blink
 
 
 //functional programming
-1)Pure functions instead of shared state & side effects- same output for same input all the times
+1)Pure functions instead of shared state & side effects : optimizations by compiler
+/gives same output for same arguments all the times (This can enable caching optimizations such as memoization)
+/A function is said to have a side effect if it modifies some state variable value(s) outside its local environment.
+/Example side effects include modifying a non-local variable, modifying a static local variable, 
+modifying a mutable argument passed by reference, performing I/O or calling other side-effect functions.
+/If there is no data dependency between two pure expressions, their order can be reversed, or they can be performed in parallel 
 2)Function composition
 3)Immutability is a central concept of functional programming
 An immutable object is an object that can’t be modified after it’s created
 4)FP concepts - HOC(for reusability instead of polymorphism), function composition(instead of inheritance)
 closures instead of encapsulation, currying
+Higher-order functions are functions that can either take other functions as arguments or return them as results
 5)Declarative rather than imperative code (what to do, rather than how to do it)
 6)In functional programming things are loosely coupled but in OO things are tightly coupled.
+
+Traditional Imperative Loop:
+
+const numList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+let result = 0;
+for (let i = 0; i < numList.length; i++) {
+  if (numList[i] % 2 === 0) {
+    result += (numList[i] * 10)
+  }
+}
+Functional Programming with higher-order functions:
+
+const numList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+const result = numList
+               .filter(n => n % 2 === 0)
+               .map(a => a * 10)
+               .reduce((a, b) => a + b)
 
 
 //javascript imp stuff
@@ -34,15 +57,18 @@ closures instead of encapsulation, currying
 *OOP - tightly coupled, shared state, different things competing for the same resources(race condition)
 
 //currying - functional programming concept is the idea of currying or partially applying argument values to a function
-var greetCurried = function(greeting) {
-  return function(name) {
-    console.log(greeting + ", " + name);
-  };
-};
-var greetHello = greetCurried("Hello");
-greetHello("Heidi"); //"Hello, Heidi"
-greetHello("Eddie"); //"Hello, Eddie"
-greetCurried("Hi there")("Howard"); //"Hi there, Howard"
+//currying - splitting up a function that takes multiple arguments (params) into a sequence of functions that each take an individual argument.
+const sum = function(a) {
+  return function(b) {
+    return a + b
+  }
+}
+sum(3)(4)
+// no curry
+const sum = (a, b) => a + b
+
+// curry
+const sum = a => b => a + b
 
 By currying and composing your functions u r creating a pipeline for data processing.
 
