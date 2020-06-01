@@ -238,3 +238,6 @@ or
 //The decorator proposal adds support for class and property decorators that can be used to resolve these issues, and future JavaScript versions will probably add decorator support for other troublesome areas of code.
 //https://www.telerik.com/blogs/decorators-in-javascript
 
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_Coalescing_Operator
+//https://medium.com/better-programming/stop-using-objects-as-hash-maps-in-javascript-9a272e85f6a8

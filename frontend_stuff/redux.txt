@@ -46,9 +46,9 @@ There are plenty of options, the simplest is�redux-thunk. But more advanced wi
 //redux-thunk vs redux-saga
 promise(difficult to test) vs generators (easy to test)
 unlike Redux-Thunk a Redux-Saga thread can be started, paused and cancelled from the main application with normal Redux actions.  
+Redux-saga has access to the full redux application state and it can dispatch redux actions as well.
 Redux-Thunk, however is great for small use cases and for beginners.
 //redux-logger - It logs every actions , the state before and after that action
-
 beauty of this redux pattern is how well it scales to large and complex apps 
 
 
@@ -80,6 +80,9 @@ However, the reducer functions are only concerned with executing logic around th
 They typically don’t care who did it, how long it took, or logging the before and after effects of the state changes.
 This is where middleware can help us to address these non-core concerns.
 *Redux middleware is designed by creating functions that can be composed together before the main dispatch method is invoked
+*thunk/saga are used to delay the dispatch of an action until the fulfillment of an asynchronous line of code
+The call and put methods of saga return JavaScript objects. Thus, you can simply test each value yielded by your saga function with an equality comparison.
+ On the other hand, Redux-Thunk returns promises, which are more difficult to test.
 
 //https://github.com/reduxjs/reselect
 memoise the computation on data from store
