@@ -30,3 +30,17 @@ Layout
 Painting
 Dynamic changes
 The rendering engine's threads
+
+//js engines
+first JavaScript engines were mere interpreters, but all relevant modern engines utilize just-in-time compilation for improved performance
+The use of JavaScript engines is not limited to browsers. For example, the Chrome V8 engine is a core component of the popular Node.js runtime system
+firefox - mozilla - spider monkey(netscape navigator)
+google - chrome - V8
+apple - safari - nitro
+microsoft - IE -  chakra | edge - V8
+Browsers have added support for WebAssembly - 4th language browsers can understand apart from html,css and js
+layout engine or rendering engine: ransform HTML and css to a visual representation
+gecko - mozilla
+webkit - apple
+chrome - blink
+edge - blink

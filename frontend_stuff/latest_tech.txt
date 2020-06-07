@@ -42,28 +42,6 @@ The testing and debugging for a complete angular project is possible with a sing
 **both are component based and used for creating SPAs/MPAs
 
 
-//mongodb vs sql
-*SQL : 
-predefined schemas 
-structured data(all of your data must follow the same structure)
-data stored in table format
-vertically scalable, which means that you can increase the load on a single server by increasing things like CPU, RAM or SSD
-SQL databases follow ACID properties (Atomicity, Consistency, Isolation and Durability)
-SQL databases examples MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
-use case: complex queries, transaction data storage (accounting system), extensive delete and update operations
-
-
-*NoSQL databases : 
-dynamic schemas 
-unstructured data 
-store data in document-based, key-value pairs, graph databases or wide-column stores.
-horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database.
-NoSQL database follows the Brewers CAP theorem (Consistency, Availability and Partition tolerance).
-NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and CouchDB
-use case: large or ever-changing data sets(analytics data), hierarchical data storage, extensive insertion
-and read operations
-
-
 //java vs node
 *Node.js is NOT a programming language. It is also not a framework. Node.js is an open-source, cross-platform JavaScript (JS) run-time environment that executes JavaScript code outside of a browser
 *Node is for simple, fast and scalable and real-time applications. Java is for highly complex and concurrent apps.
@@ -82,13 +60,6 @@ A monolithic architecture - app is written as one cohesive unit of code - tighly
 sharing the same memory space and resources - frequent deployments - rigrous testing
 if something fails enire system fails
 
-//in-memory database - fast manipulaion, updation
-An in-memory database(Redis) is a database management system that primarily relies on main memory for 
-computer data storage. It is contrasted with database management systems that employ a disk storage mechanism
-
-//database sharding
-partitioning db based on location/timestamp etc so that the lookup is fast
-on top of it apply indexing so that u can use binary search and reduce the time even further
 
 //CDN vs Cloud computing
 **CDN is simply a network of servers that replicate your binary files so that they are served from geographically close locations. 
@@ -117,13 +88,6 @@ You can call WebAssembly functions in JavaScript code and you can call JavaScrip
 //web components - suite of different technologies allowing you to create reusable custom elements 
 web components are imperative(u explicitly iterate on DOM) but react components are declarative
 you are free to use React in your Web Components, or to use Web Components in React
-
-//distributed file system vs local file system (storing images, audio, videos,docs etc)
-*client feels that big file that is uploaded is handled by one system but internally that individual
-file is being split into blocks and stored in multiple systems
-*processing speed is high and time is low since multiple systems are handling the single file
-*data replication(atleast 3 replicas) and failure tolerance are taken care by the DFS but 
-if u store files in local file system u explicitly need to handle this
 
 *There is a max limit for increasing capacity of a single system
 https://www.html5rocks.com/en/tutorials/webrtc/basics/

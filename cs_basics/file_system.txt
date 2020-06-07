@@ -1,0 +1,43 @@
+
+//file system - controls how data is stored and retrieved.
+/ Without a file system, data placed in a storage medium would 
+be one large body of data with no way to tell where one piece of data stops and the next begins
+/each group of data is called a "file". The structure and logic rules used to manage the groups of data and their names is called a "file system".
+/RAM) is used to create a temporary file system for short-term use.
+/different kinds of file systems. Each one has different structure and logic, properties of speed, flexibility, security, size and more
+/diff storages: SSD(flash memory),HDD(magnetic storage), optical disks, magnetic tapes
+/some files systems are apt for specific storages
+local file system, network file system, virtual file system (creating files based on request)
+
+//distributed file system vs local file system (storing images, audio, videos,docs etc)
+*client feels that big file that is uploaded is handled by one system but internally that individual
+file is being split into blocks and stored in multiple systems
+*processing speed is high and time is low since multiple systems are handling the single file
+*data replication(atleast 3 replicas) and failure tolerance are taken care by the DFS but 
+if u store files in local file system u explicitly need to handle this
+
+//databases are best for data and the file system(storage/hard disk) is best for files.
+some pros and cons involved in saving the files in the file system and database.
+//Pros of the File system:
+*Saving the files and downloading them in the file system is much simpler than database since a simple Save as function will help you out. 
+Downloading can be done by addressing an URL with the location of the saved file.
+*Migrating the data is an easy process here. You can just copy and paste the folder to your desired destination 
+*Easy to migrate it to Cloud storage like Amazon S3 or CDNs etc in the future.
+//Cons of the File system: security | hackers can hack into ur system and delete/edit the files but that can be overcome by choosing proper folder structure and permissions
+//When is it most preferred: Large files of size more than 5MB and the massive number say thousands of file uploads.   
+
+//Pros of Database: rollback of an update , More Secure than saving in a File System
+//Cons of Database: You may have to convert the files to blob in order to store it in db , large files make db heavy, if so many users are accessing 
+the same image then we Should not store  it in db.
+If you're storing images for a web page then it's best to store them as a file on the server. The web server will very quickly find an image file and
+send it to a visitor. Sending files to visitors is the main job of a web server.
+If you were to store the same image in a database then the amount of steps to get to this image is greatly increased so the image will be slower 
+to download. Also it will use up more server resources. The web server will have to connect to the database and then query the database to get the 
+image, download the image from the database and then send the visitor the image
+//When is it most preferred:security of the file is the utmost concern like Aadhar, If your application will not demand a large number of files from a large number of users.
+
+//BLOB(binary large object) - collection of binary data stored as a single entity in a database management systems (DBMS). BLOBs are used primarily to hold 
+multimedia objects such as images, videos, and sound, though they can also be used to store programs or even fragments of code
+//DB indexing : Indexing is a way of sorting a number of records on multiple fields. Creating an index on a field in a table creates another data structure 
+which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
+performed on it.

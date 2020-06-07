@@ -1,0 +1,37 @@
+
+//ACID properties of database
+https://www.geeksforgeeks.org/acid-properties-in-dbms/
+A transaction is a single logical unit of work which accesses and possibly modifies the contents of a database.
+Atomicity - entire transaction takes place at once or doesn’t happen at all
+Consistency - It refers to the correctness of a database  before and after the transaction
+Isolation - Multiple Transactions occur independently without interference
+Changes occurring in a particular transaction will not be visible to any other transaction until that particular change in that transaction is written to memory or has been committed
+Durability - once the transaction has completed execution, the updates and modifications to the database are stored in and written to disk and they persist even if a system failure occurs.
+
+//mongodb vs sql
+*SQL : 
+predefined schemas 
+structured data(all of your data must follow the same structure)
+data stored in table format
+vertically scalable, which means that you can increase the load on a single server by increasing things like CPU, RAM or SSD
+SQL databases follow ACID properties (Atomicity, Consistency, Isolation and Durability)
+SQL databases examples MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
+use case: complex queries, transaction data storage (accounting system), extensive delete and update operations
+
+*NoSQL databases : 
+dynamic schemas 
+unstructured data 
+store data in document-based, key-value pairs, graph databases or wide-column stores.
+horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database.
+NoSQL database follows the Brewers CAP theorem (Consistency, Availability and Partition tolerance).
+NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and CouchDB
+use case: large or ever-changing data sets(analytics data), hierarchical data storage, extensive insertion
+and read operations
+
+//in-memory database - fast manipulaion, updation
+An in-memory database(Redis) is a database management system that primarily relies on main memory for 
+computer data storage. It is contrasted with database management systems that employ a disk storage mechanism
+
+//database sharding
+partitioning db based on location/timestamp etc so that the lookup is fast
+on top of it apply indexing so that u can use binary search and reduce the time even further

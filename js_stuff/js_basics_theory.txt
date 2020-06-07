@@ -1,3 +1,10 @@
+//about javascript
+*JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
+*examples of low-level languages are assembly and machine code -  machine-dependent and non-portable - It needs assembler for translation
+*high level languages are C, C++, Java, Python,js - needs compiler or interpreter for translation
+*JavaScript is a multi-paradigm language, supporting functional and object oriented (prototypal inheritance) - 2 pillars of js
+*First-class functions - function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable
+
 
 //Factory Functions vs Constructor Functions vs Classes
 In JavaScript, any function can return a new object. When it�s not a constructor function or class, it�s called a factory function.
@@ -47,33 +54,6 @@ MyClass.prototype.constructor = MyClass;
 
 
 *Boilerplate code - sections of code that have to be included in many places with little or no alteration
-
-//databases are best for data and the file system(storage/hard disk) is best for files.
-some pros and cons involved in saving the files in the file system and database.
-//Pros of the File system:
-*Saving the files and downloading them in the file system is much simpler than database since a simple Save as function will help you out. 
-Downloading can be done by addressing an URL with the location of the saved file.
-*Migrating the data is an easy process here. You can just copy and paste the folder to your desired destination 
-*Easy to migrate it to Cloud storage like Amazon S3 or CDNs etc in the future.
-//Cons of the File system: security | hackers can hack into ur system and delete/edit the files but that can be overcome by choosing proper folder structure and permissions
-//When is it most preferred: Large files of size more than 5MB and the massive number say thousands of file uploads.   
-
-//Pros of Database: rollback of an update , More Secure than saving in a File System
-//Cons of Database: You may have to convert the files to blob in order to store it in db , large files make db heavy, if so many users are accessing 
-the same image then we Should not store  it in db.
-If you're storing images for a web page then it's best to store them as a file on the server. The web server will very quickly find an image file and
-send it to a visitor. Sending files to visitors is the main job of a web server.
-If you were to store the same image in a database then the amount of steps to get to this image is greatly increased so the image will be slower 
-to download. Also it will use up more server resources. The web server will have to connect to the database and then query the database to get the 
-image, download the image from the database and then send the visitor the image
-//When is it most preferred:security of the file is the utmost concern like Aadhar, If your application will not demand a large number of files from a large number of users.
-
-//BLOB(binary large object) - collection of binary data stored as a single entity in a database management systems (DBMS). BLOBs are used primarily to hold 
-multimedia objects such as images, videos, and sound, though they can also be used to store programs or even fragments of code
-//DB indexing : Indexing is a way of sorting a number of records on multiple fields. Creating an index on a field in a table creates another data structure 
-which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
-performed on it.
-
 
 //error handling
 class ValidationError extends Error {
