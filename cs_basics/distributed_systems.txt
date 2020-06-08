@@ -1,0 +1,33 @@
+//intro
+A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another
+3 significant characteristics : concurrency of components, lack of a global clock, and independent failure of components
+Distributed computing also refers to the use of distributed systems to solve computational problems. 
+different types of implementations for the message passing mechanism, including pure HTTP, RPC-like connectors and message queues.
+
+In parallel computing, all processors may have access to a shared memory to exchange information between processors.[18]
+In distributed computing, each processor has its own private memory (distributed memory). Information is exchanged by passing messages between the processors
+
+Architectures:
+Client–server: architectures where smart clients contact the server for data then format and display it to the users. Input at the client is committed back to the server when it represents a permanent change.
+Three-tier: architectures that move the client intelligence to a middle tier so that stateless clients can be used. This simplifies application deployment. Most web applications are three-tier.
+n-tier: architectures that refer typically to web applications which further forward their requests to other enterprise services. This type of application is the one most responsible for the success of application servers.
+Peer-to-peer: all responsibilities are uniformly divided among all machines, known as peers. Peers can serve both as clients and as servers.
+
+
+//message passing among systems
+**RPC is a request–response protocol | form of inter-process communication (IPC), in that different processes have different address spaces
+synchronous(waits for server response) | tightley coupled components
+
+
+**Message-oriented middleware (MOM)/Enterprise messaging system 
+The middleware creates a distributed communications layer that insulates the application developer from the details of the various operating systems and network interfaces.
+This middleware layer allows software components that have been developed independently and that run on different networked platforms to interact with one another. 
+async (message queues) | messages routing | transformation of messages before sending | loosely coupled
+security(encryption + authentication) | policy (user specific)
+message - header(routing,priority info) + body
+
+(simple/Streaming) Text Oriented Message Protocol (STOMP) designed for working with message-oriented middleware (MOM)
+similar to HTTP, and works over TCP.
+
+some MOM products: activeMQ(supports protocols like STOMP, web sockets | JSON and xml messaging structures),
+RabbitMQ

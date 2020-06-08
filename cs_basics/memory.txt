@@ -1,0 +1,2 @@
+virtual memory- "creates the illusion to users of a very large (main) memory"
+https://en.wikipedia.org/wiki/Virtual_memory
