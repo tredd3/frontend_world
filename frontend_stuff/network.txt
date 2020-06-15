@@ -64,23 +64,36 @@ REST APIs�uses multiple standards like HTTP, JSON, URL, and XML while SOAP�A
 
 
 //encoding vs encryption vs compression
-*Encoding - Encoding is for maintaining data usability and can be reversed by employing the same algorithm that encoded the content, i.e. no key is used
-used for reducing the size of audio and video files
+*Encoding - Encoding is for maintaining data usability and can be reversed by employing the same algorithm that encoded the content,
+ i.e. no key is used for reducing the size of audio and video files
 Example: ASCII, BASE64, gzip 
 *Encryption - maintaining data confidentiality and requires the use of a key (kept secret) to read it
 *Compression - reduce the size of the data representation (gzip)
 what is ASCII?  American Standard Code for Information Interchange, is a character encoding standard
 The ASCII table has 128 characters, with values from 0 through 127.
- Thus, 7 bits are sufficient to represent a character in ASCII; however, most computers typically reserve 1 byte, (8 bits), for an ASCII character.
-**What is Base 64 Encoded Data? each char represented by 6 bits
+Thus, 7 bits are sufficient to represent a character in ASCII; however, most computers typically reserve 1 byte, (8 bits), for an ASCII character.
+
+**What is Base 64 Encoded Data? for sending binary data over text based protocol like HTTP
+Base64 has 64 chars with values from 0 through 63 - each char represented by 6 bits
 base64 encoded data is a string of character that contains only a-z, A-Z, 0-9, + and / characters and is often used in situations when sending non-text information via a text only transmission protocol.
 The plain ASCII text includes a-z, A-Z, 0-9, ", %, &, ', (, ), *, +, -, _ and , (the comma). They will be referred to as the universal ASCII character set.
 when trying to send e-mails in non English languages. Often these languages will have characters that are not part of the ASCII set.
  What is needed is a method to convert non-universal ASCII characters to a common form. This common form is called Base64 encoding.
 **What does Base 64 Encoding Do?
-Base 64 Encoding takes a stream of characters and converts them to characters that belong to the universal ASCII character set. 
-Once a stream of characters has been converted to characters that belong to the universal ASCII character set (Base 64 encoded) 
-they can be transported with ease over the Internet using the e-mail protocols.
+https://www.youtube.com/watch?v=8qkxeZmKmOY
+characters to numbers(from ASCII table) - each number to 8 bits - 6bits each are resolved to chars(base64 table)
+e.g HEY(input) -> 72 101 121 -> 8bits 8 bits 8 bits -> SGV5(base64 encoded output)
+3 chars in a srting are parsed at once to create a 4 char base64 encoded string.if it falls short special chars are added.
+3*8=4*6
+
+//unicode encoding 
+Unicode/ASCII is a character set. Character sets translates characters to numbers.
+The first 128 characters of Unicode (which correspond one-to-one with ASCII)
+UTF-8/base64 is encoding. UTF-8 Encoding translates numbers into binary. 
+Base64 is a method to encode a byte sequence to a string
+The Unicode Standard covers (almost) all the characters, punctuations, and symbols in the world.
+Unicode enables processing, storage, and transport of text independent of platform and language.
+The default character encoding in HTML-5 and web is UTF-8.
 
 
 ********* HTTP ***********

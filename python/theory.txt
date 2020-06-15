@@ -2,7 +2,7 @@
 
 Features:
 high level programming language
-used for  developing both desktop(GUI), web applications,complex scientific and numeric applications(data analysis and visualization)
+used for  developing both desktop(GUI), web applications,AI , ML and (data analysis and visualization)
 support various concepts in functional and aspect-oriented programming
 dynamic type system and automatic memory management
 interpreted programming language - allows you to you to run the same code on multiple platforms without recompilation

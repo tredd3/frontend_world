@@ -241,3 +241,47 @@ or
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_Coalescing_Operator
 //https://medium.com/better-programming/stop-using-objects-as-hash-maps-in-javascript-9a272e85f6a8
+
+//property intializers vs autobind decorartor
+//The initialization of arrow functions in class properties are transpiled into the constructor.
+//use autobind decorartor to add the method in the prototype
+//Arrow functions in class properties won’t be in the prototype and we can’t call them with super.
+class A {
+    static color = "red";
+    counter = 0;
+
+    handleClick = () => {
+        this.counter++;
+    }
+
+    handleLongClick() {
+        this.counter++;
+    }
+
+}
+
+class A {
+    constructor() {
+        this.counter = 0;
+
+        this.handleClick = () => {
+            this.counter++;
+        };
+    }
+
+    handleLongClick() {
+        this.counter++;
+    }
+}
+A.color = "red";
+
+class Component {
+    constructor(value) {
+        this.value = value;
+    }
+
+    @autobind
+    method() {
+        return this.value;
+    }
+}
