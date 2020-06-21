@@ -1,0 +1,9 @@
+//buffer - small Location in RAM where binary data stream is stored temporarily by node 
+while processing it or sending to any other process.
+https://www.freecodecamp.org/news/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8/
+There is a minimum and a maximum amount of data a process could take over time.
+So if the rate the data arrives is faster than the rate the process consumes the data, 
+the excess data need to wait somewhere for its turn to be processed.
+On the other hand, if the process is consuming the data faster than it arrives, the few data that 
+arrive earlier need to wait for a certain amount of data to arrive before being sent out for processing.
+

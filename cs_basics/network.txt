@@ -16,21 +16,24 @@ https://www.youtube.com/watch?v=vv4y_uOneC0
 //Open System Interconnection Model | OSI 7 layers
 data is transferred from one computer through all the layers and decapsulated at another computer 
 A - application layer - used by network applications like browser. They use proctocols of this layer
-like ftp,HTTP,smtp
+like ftp,HTTP,smtp (each protocol uses a specific port)
 P - presentaion - receives data(numbers and characters) from application layer.
 translation to binary then compression then encryption (SSL protocol) and decryption at receiver computer
 S - session - Authentication, authorisation, session management
 session layer keeps track of which data packet belongs to which file and which application
 T - transport - segmentation, flow and error control
 segmentation - break data into segments and each segment has sequence number(to rearrange), port number(to identify application)
-flow control - client tells server at what rate data transfer should happen so that client can process it and data is not lost
+flow/congestion control - client tells server at what rate data transfer should happen so that client can process it and data is not lost
 error control - corrupted(using checksum) and missing(using segment numbers) data are requested again 
 TCP(www, email,ftp) and UDP protocols(songs,movies,games)
 connection vs connection LESS
-more size vs less size
+more packet size vs less packet size
 slow vs fast
-stream oriended vs message oriented
-reliable vs unreliable
+stream oriended(tcp splits data in chunks and recompose them) vs message oriented(application sends data in chunks)
+reliable(all data is sent and that too in correct order) vs unreliable (random display of messages)
+acknowledgment and re-transmission  vs no-acknowledgment
+TCP usage: send text messages, file and image transfers
+UDP usage: multimedia streaming
 
 N - network - logical/ip adressing, routing, path determination
 each segment is added with sender and destination ip address and the whole thing is called packet
@@ -86,7 +89,7 @@ e.g HEY(input) -> 72 101 121 -> 8bits 8 bits 8 bits -> SGV5(base64 encoded outpu
 3 chars in a srting are parsed at once to create a 4 char base64 encoded string.if it falls short special chars are added.
 3*8=4*6
 
-//unicode encoding 
+//character set and character encoding (how many bits to use to represent the number)
 Unicode/ASCII is a character set. Character sets translates characters to numbers.
 The first 128 characters of Unicode (which correspond one-to-one with ASCII)
 UTF-8/base64 is encoding. UTF-8 Encoding translates numbers into binary. 
@@ -100,15 +103,17 @@ The default character encoding in HTML-5 and web is UTF-8.
 //overview 
 *application-layer protocol  for communication between web browsers and web servers,
 application layer protocol that is sent over TCP, or over a TLS-encrypted TCP connection
-*HTTP is a stateless protocol, meaning that the server does not keep any data (state) between two requests
+*HTTP is a stateless protocol, meaning there is no link between two requests being successively carried out on the same connection
 i.e any 2 requests are completely independent of each other.
+*HTTP is connection less - after making a request client disconnects from server and when the response is ready
+the connection is re-established and the response is delivered.
 *Between the Web browser and the server, numerous computers and machines like proxies, modem and routers
 *HTTP is simple(human readable messages), extensible(simple agreement between a client and a server about a new header's semantics),
-stateless, but not sessionless - there is no link between two requests being successively carried out on the same connection.
-HTTP cookies allow the use of stateful sessions
+stateless, but not sessionless - HTTP cookies allow the use of stateful sessions
 *Though HTTP doesn't require the underlying transport protocol to be connection-based; only requiring it to be reliable, or not lose messages
 TCP is reliable and UDP isn't. HTTP therefore relies on the TCP standard, which is connection-based
-*HTTP flow: Open a TCP connection, Send an HTTP message, Read the response sent by the server, Close or reuse the connection for further requests
+*HTTP flow: Open a TCP connection, Send an HTTP message, client disconnects, after response is ready,
+connection re-established by the server and the response is sent. Close or reuse the connection for further requests
 *both XHR and Fetch API are based on HTTP
 *headers convey additional information to browsers/servers.
 *features controllable with HTTP: caching, origin constraint, Authentication(authentication header and cookie),
