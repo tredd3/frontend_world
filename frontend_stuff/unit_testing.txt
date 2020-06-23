@@ -1,16 +1,25 @@
-//ADVANCED3
 // unit testing for react
-* Unit Test:�Tests a function or a component in isolation.
-* Integration Test:�Tests a function or component in their context. It should be possible to use it with other function(s) and component(s) in a group.
-  Snapshot Test:�Introduced by Facebook�s library Jest,  It creates a DOM snapshot of a component once a test for it runs for the first time and compare this snapshot to a future snapshot, when the test runs again.
-Mocha/karma  -  Test runner that runs ur tests
-Chai/jamine - assertion library
+* Unit Test: Tests a function or a component in isolation.
+* Integration Test: Tests a function or component in their context. It should be possible to use it with other function(s) and component(s) in a group.
+* Snapshot Test: Introduced by Facebook's library Jest,  It creates a DOM snapshot of a component once a test for it runs for the first time and compare this snapshot to a future snapshot, when the test runs again.
+karma  -  Browser Test runner that runs ur tests in real devices
+Mocha/jasmine - javascript testing framework
+Chai - assertion library can be paired with any javascript testing framework.
 Sinon - a function has been called with certain arguments or whenever you want to return mocked data from an endpoint.
 Jest is not only a testing library for snapshot tests, but also comes with its own test runner and assertion functions.
-�Enzyme is only used to render components, access things and simulate events
+Enzyme is only used to render components, access things and simulate events
+
 
 Why jest?
-Easy setup - fast - One-Stop Shop(assertion , mocking(class, functions, timers, modules), test runner , coverage report) - snapshot testing - dynamic testing(watch)
-https://jestjs.io/docs/en/snapshot-testing
+Easy setup - fast - One-Stop Shop(assertion , mocking(class, functions, timers, modules), 
+test runner , coverage report) - snapshot testing - dynamic testing(watch)
+https://jestjs.io/
 
+https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
 
+//cypress for end to end testing
+https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
+
+//for react testing 
+https://testing-library.com/docs/react-testing-library/intro
+https://jestjs.io/docs/en/tutorial-react
