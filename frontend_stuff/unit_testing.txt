@@ -21,5 +21,19 @@ https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practi
 https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
 
 //for react testing 
-https://testing-library.com/docs/react-testing-library/intro
-https://jestjs.io/docs/en/tutorial-react
+https://reactjs.org/docs/testing.html - to get an overview of testing in react
+Recommendations for a large project: 
+1)React testing library - test React components without relying on their implementation details - can be used with any testing framework (like jest, mocha etc)
+Link: https://testing-library.com/docs/react-testing-library/intro built on top of (https://reactjs.org/docs/test-utils.html)
+2)Jest: JavaScript testing framework maintained by Facebook - One-Stop Shop(assertion , mocking, test runner, 
+coverage report,  snapshot testing and dynamic testing(watch files) etc)
+Link: https://jestjs.io/docs/en/tutorial-react
+PS: without jest u might need to install multiple libraries and frameworks for specific tasks.
+3)Jest-Dom: Custom jest matchers to test the state of the DOM by avoiding all the repetitive DOM iteration tasks
+Link: https://www.npmjs.com/package/@testing-library/jest-dom
+4)Jest-extended: aims to add additional matchers to Jest's default ones making it easy to test everything (highly Recommended for complex projects)
+Link: https://www.npmjs.com/package/jest-extended
+5)Jest Fetch Mock: to mock fetch calls (built on top of jest mocking) uses inbuilt jest mocking under the hood
+Link: https://www.npmjs.com/package/jest-fetch-mock
+6)ts-jest: lets you use Jest to test projects written in TypeScript.
+Link: https://www.npmjs.com/package/ts-jest
