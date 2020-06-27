@@ -20,3 +20,7 @@ V8 compiles JavaScript directly to native machine code using just-in-time compil
 The compiled code is additionally optimized (and re-optimized) dynamically at runtime
 JIT compilation combines the speed of compiled code with the flexibility of interpretation
 
+
+//node syntax
+REPL - read eval printloop - to run js in terminal (type node and press enter in terminal to open REPL)
+
