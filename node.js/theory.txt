@@ -30,5 +30,11 @@ JIT compilation combines the speed of compiled code with the flexibility of inte
 /global instead of window object
 /every file is a module. all the vars and fns defined in a module is available only inside it
 /module.exports is {} 
-/
+/ngnix vs node 
+*node provides ssl encryption, gzip, web server and other functionalties which ngnix provides.
+but ngnix takes less amount of time and space to perform these ops compared to node
+*node app should focus on business logic and all these genric functionalty overhead should be
+given to proxy server 
+*we can also configure organisation level configuration in ngnix instead of rewriting and 
+maintaining at application level.
 
