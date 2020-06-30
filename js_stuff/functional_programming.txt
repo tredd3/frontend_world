@@ -3,11 +3,11 @@
 /gives same output for same arguments all the times (This can enable caching optimizations such as memoization)
 /A function is said to have a side effect if it modifies some state variable value(s) outside its local environment.
 /Example side effects include modifying a non-local variable, modifying a static local variable, 
-modifying a mutable argument passed by reference, performing I/O or calling other side-effect functions.
+modifying a mutable argument passed by reference, performing I/O, access DOM, storage, DB or calling other side-effect functions.
 /If there is no data dependency between two pure expressions, their order can be reversed, or they can be performed in parallel 
 2)Function composition
 3)Immutability is a central concept of functional programming
-An immutable object is an object that can’t be modified after it’s created
+An immutable object is an object that can’t be modified after it’s created //use immutable js
 4)FP concepts - HOC(for reusability instead of polymorphism), function composition(instead of inheritance)
 closures instead of encapsulation, currying
 Higher-order functions are functions that can either take other functions as arguments or return them as results
@@ -24,6 +24,7 @@ for (let i = 0; i < numList.length; i++) {
   }
 }
 Functional Programming with higher-order functions:
+filter, map and reduce are HOFs as they take callback fns as inputs
 
 const numList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 const result = numList
@@ -38,6 +39,7 @@ const result = numList
 
 //currying - functional programming concept is the idea of currying or partially applying argument values to a function
 //currying - splitting up a function that takes multiple arguments (params) into a sequence of functions that each take an individual argument.
+//By currying and composing your functions u r creating a pipeline for data processing.
 const sum = function(a) {
   return function(b) {
     return a + b
@@ -50,5 +52,21 @@ const sum = (a, b) => a + b
 // curry
 const sum = a => b => a + b
 
-//By currying and composing your functions u r creating a pipeline for data processing.
+//non-pure functions
+const name="tarak"
+function print(){
+  return `my name is ${name}`; //taking a external input
+}
+
+const name="tarak"
+function print(){
+  console.log(name) //output to external environment
+}
+
+//pure functions
+function print(name){
+  return `my name is ${name}`;
+}
+
+
 
