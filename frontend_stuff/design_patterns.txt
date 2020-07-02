@@ -65,3 +65,150 @@ Command Pattern - The command pattern is useful in cases when we want to decoupl
 Like separate the objects calling an API service from the objects which are telling them when to call the API service.
 Facade Pattern - functionality is abstracted and we don't have to deal with implementation details e.g: Jquery
 
+
+//https://medium.com/better-programming/4-dangerous-problems-in-javascript-easily-solved-by-the-builder-design-pattern-7f0eb5b4455c
+//Without the Builder Pattern - complicated logic in constructor
+class Frog {
+  constructor(name, gender, eyes, legs, scent, tongue, heart, weight, height) {
+    this.name = name
+    this.gender = gender
+    this.eyes = eyes
+    this.legs = legs
+    this.scent = scent
+    this.tongue = tongue
+    this.heart = heart
+    if (weight) {
+      this.weight = weight
+    }
+    if (height) {
+      this.height = height
+    }
+  }
+}
+
+const obj=return new Frog(
+      this.name,
+      this.gender,
+      this.eyes,
+      this.legs,
+      this.scent,
+      this.tongue,
+      this.heart,
+      this.weight,
+      this.height,
+    )
+  }
+
+//builder pattern
+
+
+class FrogBuilder {
+  constructor(name, gender) {
+    // Ensure that the first character is always capitalized
+    this.name = name.charAt(0).toUpperCase() + name.slice(1)
+    this.gender = gender
+  }
+  formatEyesCorrectly(eyes) {
+    return Array.isArray(eyes) ? { left: eye[0], right: eye[1] } : eyes
+  }
+  setEyes(eyes) {
+    this.eyes = this.formatEyes(eyes)
+    return this
+  }
+  setLegs(legs) {
+    if (!Array.isArray(legs)) {
+      throw new Error('"legs" is not an array')
+    }
+    this.legs = legs
+    return this
+  }
+  setScent(scent) {
+    this.scent = scent
+    return this
+  }
+  updateTongueWidthFieldName(tongue) {
+    const newTongue = { ...tongue }
+    delete newTongue['tongueWidth']
+    newTongue.width = tongue.width
+    return newTongue
+  }
+  setTongue(tongue) {
+    const isOld = 'tongueWidth' in tongue
+    this.tongue = isOld
+      ? this.updateTongueWidthFieldName(tongue, tongue.tongueWidth)
+      : tongue
+    return this
+  }
+  setHeart(heart) {
+    this.heart = heart
+    return this
+  }
+  setWeight(weight) {
+    if (typeof weight !== 'undefined') {
+      this.weight = weight
+    }
+    return this
+  }
+  setHeight(height) {
+    if (typeof height !== 'undefined') {
+      this.height = height
+    }
+    return this
+  }
+  build() {
+    return new Frog(
+      this.name,
+      this.gender,
+      this.eyes,
+      this.legs,
+      this.scent,
+      this.tongue,
+      this.heart,
+      this.weight,
+      this.height,
+    )
+  }
+}
+
+const larry = new FrogBuilder('larry', 'male')
+  .setEyes([{ volume: 1.1 }, { volume: 1.12 }])
+  .setScent('sweaty socks')
+  .setHeart({ rate: 22 })
+  .setWeight(6)
+  .setHeight(3.5)
+  .setLegs([
+    { size: 'small' },
+    { size: 'small' },
+    { size: 'small' },
+    { size: 'small' },
+  ])
+  .setTongue({ tongueWidth: 18, color: 'dark red', type: 'round' })
+  .build()
+
+  //create template for repetettive tasks
+  class ToadBuilder {
+  constructor(frogBuilder) {
+    this.builder = frogBuilder
+  }
+  
+  createToad() {
+    return this.builder.setHabitat('land').setSkin('dry')
+  }
+}
+
+let mike = new FrogBuilder('mike', 'male')
+
+mike = new ToadBuilder(mike)
+  .setEyes([{ volume: 1.1 }, { volume: 1.12 }])
+  .setScent('smelly socks')
+  .setHeart({ rate: 15 })
+  .setWeight(12)
+  .setHeight(5.2)
+  .setLegs([
+    { size: 'medium' },
+    { size: 'medium' },
+    { size: 'medium' },
+    { size: 'medium' },
+  ])
+  .setTongue({ width: 12.5, color: 'olive', type: 'round' })
+  .build()
