@@ -1,0 +1,13 @@
+oops supporting languages can be class based or prototype based
+
+concepts:
+//encapsulation - binds together the data and functions that manipulate the data
+
+
+//abstraction - hide implementation by having public and private methods/properties
+
+
+//inheritance - code reusability
+
+
+//polymorphism - same method behaves differently in different objects | eliminate switch and 
