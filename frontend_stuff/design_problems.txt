@@ -105,9 +105,13 @@ const sse = new EventSource('/api/v1/sse');
 
 
 3)databases
-sharding - split ur database
+sharding - split ur database - useful for microservice architecture
 vertical sharding - put each table in a new machine so that the requests get split
+machine1 - user profile requests will go to this machine
+machine2 - user cart table requests will go to this machine
 horizontal sharding - split a single table and put it into multiple machines (based on time/userid/geography)
+machine1 - user profile table(indian profile) - request from india will be routed to machine1
+machine2 - user profile table(american profiles) - request from america will be routed to machine2
 apply indexing on a horizontally sharded table
 //To reduce load on main db server
 1)in memory caching - reddis, memcache
