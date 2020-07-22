@@ -26,7 +26,7 @@ JIT compilation combines the speed of compiled code with the flexibility of inte
 
 
 //node syntax
-/REPL - read eval printloop - to run js in terminal (type node and press enter in terminal to open REPL)
+/REPL - read eval printloop - virtual env to run js in terminal (type node and press enter in terminal to open REPL)
 /global instead of window object
 /every file is a module. all the vars and fns defined in a module is available only inside it
 /module.exports is {} 
@@ -37,4 +37,15 @@ but ngnix takes less amount of time and space to perform these ops compared to n
 given to proxy server 
 *we can also configure organisation level configuration in ngnix instead of rewriting and 
 maintaining at application level.
-
+//for debugging
+use debugger in the code and run node inspect <file_name>
+//log files in node
+node --trace-events-enabled --trace-event-categories v8,node server.js
+Running Node.js with tracing enabled will produce log files that can be opened in the chrome://tracing tab of Chrome.
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+/setImmediate() is designed to execute a script once the current poll phase of event loop completes.
+/process.nextTick() technically not part of the event loop. Instead, the nextTickQueue will be processed after 
+the current operation in stack completes, regardless of the current phase of the event loop.
+all callbacks passed to process.nextTick() will be resolved before the event loop continues.
+/The main advantage to using setImmediate() over setTimeout() is setImmediate() will always be executed
+ before any timers if scheduled within an I/O cycle, independently of how many timers are present.

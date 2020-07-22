@@ -1,5 +1,7 @@
-//readfile loads the whole file into the memory you pointed out, the fs. createReadStream, on the other hand, reads the entire file in chunks of sizes that you specified. 
+//readFile — is for asynchronously reads the entire contents of a file. It will read the file completely into memory before making it available to the User.
+//createReadStream — It will read the file in chunks of the default size 64 kb which is specified before hand.
 //The client will also receive the data faster with fs. createReadStream since it is sent in chunks while it's being read.
+
 const fs = require("fs");
 const path = require("path");
 
@@ -15,6 +17,11 @@ readStream.on('data', chunk => {
 
     //Write the data chunk into write_file.txt
     writeStream.write(chunk)
+})
+
+//done reading the whole file
+readStream.on('end', chunk => {
+    console.log("complete data received");
 })
 
 // Create a readable stream
