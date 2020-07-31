@@ -300,3 +300,5 @@ const promisory = (async function* generator() {
 
 const iterator = generator(); //generator object
 iterator.next(); //Promise with resolved value :{ value: 1, done: false }
+
+https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf

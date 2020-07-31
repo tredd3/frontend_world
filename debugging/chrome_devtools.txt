@@ -1,0 +1,3 @@
+https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674
+
+https://developers.google.com/web/tools/chrome-devtools/?utm_source=devtools
