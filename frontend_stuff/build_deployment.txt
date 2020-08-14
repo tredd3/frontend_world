@@ -12,6 +12,7 @@ Docker container replicates production environment where we can deploy our code 
 
 
 //Web server - tomcat, apache, nginix
+https://cloud.google.com/compute/docs/tutorials/basic-webserver-apache
 inorder to make a computer webserver u need to install a software
 When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the HTTP server(software) accepts request, 
 finds the requested document (if it doesn't then a�404�response is returned), and sends it back to the browser, also through HTTP.

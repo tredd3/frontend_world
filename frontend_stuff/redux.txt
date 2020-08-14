@@ -86,3 +86,8 @@ The call and put methods of saga return JavaScript objects. Thus, you can simply
 
 //https://github.com/reduxjs/reselect
 memoise the computation on data from store
+
+//immutable.js with redux
+https://redux.js.org/recipes/using-immutablejs-with-redux#what-are-some-opinionated-best-practices-for-using-immutablejs-with-redux
+
+//
