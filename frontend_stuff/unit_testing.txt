@@ -1,14 +1,31 @@
 // unit testing for react
 * Unit Test: Tests a function or a component in isolation.
-* Integration Test: Tests a function or component in their context. It should be possible to use it with other function(s) and component(s) in a group.
+This is where we test reducers.
+Test initial renders of a component only and switch to interaction tests for intensive UI interactions.
+* Interaction test:  for testing user interactions with UI
+they involve dom mounting and triggering events to check interactions,they are slower in running as compared to unit tests.
+* Integration Test: Integration tests test the integration of the application with all the parts that live outside the application.
+database, network etc
 * Snapshot Test: Introduced by Facebook's library Jest,  It creates a DOM snapshot of a component once a test for it runs for the first time and compare this snapshot to a future snapshot, when the test runs again.
-karma  -  Browser Test runner that runs ur tests in real devices
+karma  -  Browser Test runner that runs ur tests in real devices - for interaction testing
 Mocha/jasmine - javascript testing framework
 Chai - assertion library can be paired with any javascript testing framework.
 Sinon - a function has been called with certain arguments or whenever you want to return mocked data from an endpoint.
 Jest is not only a testing library for snapshot tests, but also comes with its own test runner and assertion functions.
 Enzyme is only used to render components, access things and simulate events
 
+Base directory
+  |--test
+      |
+      |--unit
+      |    |
+      |    |--Non-client code: not involving jsDom
+      |    |--Client Side : unit tests using jsDom and render check
+      |
+      |--interaction
+      |
+      |--integration
+      |
 
 Why jest?
 Easy setup - fast - One-Stop Shop(assertion , mocking(class, functions, timers, modules), 
@@ -17,13 +34,15 @@ https://jestjs.io/
 
 https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
 
-//cypress for end to end testing
+//cypress for end to end or integration testing
 https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
 
 //for react testing 
+https://reactjs.org/docs/test-renderer.html
 https://reactjs.org/docs/testing.html - to get an overview of testing in react
 Recommendations for a large project: 
-1)React testing library - test React components without relying on their implementation details - can be used with any testing framework (like jest, mocha etc)
+1)React testing library - for interaction testing
+test React components without relying on their implementation details - can be used with any testing framework (like jest, mocha etc)
 Link: https://testing-library.com/docs/react-testing-library/intro built on top of (https://reactjs.org/docs/test-utils.html)
 2)Jest: JavaScript testing framework maintained by Facebook - One-Stop Shop(assertion , mocking, test runner, 
 coverage report,  snapshot testing and dynamic testing(watch files) etc)
@@ -37,3 +56,5 @@ Link: https://www.npmjs.com/package/jest-extended
 Link: https://www.npmjs.com/package/jest-fetch-mock
 6)ts-jest: lets you use Jest to test projects written in TypeScript.
 Link: https://www.npmjs.com/package/ts-jest
+
+//
