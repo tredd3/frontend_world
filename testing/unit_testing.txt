@@ -7,10 +7,12 @@ they involve dom mounting and triggering events to check interactions,they are s
 * Integration Test: Integration tests test the integration of the application with all the parts that live outside the application.
 database, network etc
 * Snapshot Test: Introduced by Facebook's library Jest,  It creates a DOM snapshot of a component once a test for it runs for the first time and compare this snapshot to a future snapshot, when the test runs again.
-karma  -  Browser Test runner that runs ur tests in real devices - for interaction testing
-Mocha/jasmine - javascript testing framework
+karma  -  Browser Test runner that runs ur tests in real devices - can b efor interaction testing
+Mocha/jasmine - javascript testing framework - perform clean up activities before and after 
+running tests - perform tests serially and parallelly
 Chai - assertion library can be paired with any javascript testing framework.
-Sinon - a function has been called with certain arguments or whenever you want to return mocked data from an endpoint.
+Sinon - spy(to know how many times a function has been called and with what all arguments), mock 
+and stub 
 Jest is not only a testing library for snapshot tests, but also comes with its own test runner and assertion functions.
 Enzyme is only used to render components, access things and simulate events
 
