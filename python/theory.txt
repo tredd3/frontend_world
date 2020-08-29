@@ -3,12 +3,16 @@
 Features:
 high level programming language
 used for  developing both desktop(GUI), web applications,AI , ML and (data analysis and visualization)
+A website - mostly consists of static content. It is publicly accessible to all the visitors.Read only and information display purpose
+A web application - advanced form of a website with heavy user interactions, customizations, authentication and user specific content/actions
+https://achievion.com/blog/how-is-a-web-application-different-than-a-website.html
 support various concepts in functional and aspect-oriented programming
 dynamic type system and automatic memory management
 interpreted programming language - allows you to you to run the same code on multiple platforms without recompilation
 Robust Standard Library - u can choose from available modules without writing additional code
 u can also choose from available python libraries
-For instance, while writing a web application in Python, you can use specific modules to implement web services, perform string operations, manage operating system interface or work with internet protocols. 
+For instance, while writing a web application in Python, you can use specific modules to implement web services, perform string 
+operations, manage operating system interface or work with internet protocols. 
 Many Open Source Frameworks and Tools:
 Likewise, you can accelerate desktop GUI application development using Python GUI frameworks and toolkits like PyQT, PyJs, PyGUI, Kivy, PyGTK and WxPython.
 For instance, you can simplify and speedup web application development by using robust Python web frameworks like Django, Flask, Pyramid
@@ -17,4 +21,14 @@ Downsides:
 Python is slower than several widely used programming languages including Java and C++. 
 You have to speed up the Python application by making changes to the application code or using custom runtime.
 
-
+//tool kit
+1)IDE: vscode
+2)IPython(Interactive python): powerful command shell for interactive computing using python 
+IPython provides a rich architecture for interactive computing with:
+A powerful interactive shell.
+A kernel for Jupyter.
+Support for interactive data visualization and use of GUI toolkits.
+Flexible, embeddable interpreters to load into your own projects. Easy to use, high performance tools for parallel computing.
+3)As of IPython 4.0, the language-agnostic parts of the project: the notebook format, message protocol, qtconsole,
+ notebook web application, etc have moved to new projects under the name Jupyter.
+With the release of IPython 4.0, the parallel computing capabilities were made optional and released under the ipyparallel python package.

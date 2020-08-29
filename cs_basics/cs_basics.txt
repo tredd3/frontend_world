@@ -20,12 +20,3 @@ Both bytecode and assembly language  and  "intermediate languages" that fall bet
 The primary difference between the two is that bytecode is generated for a virtual machine (software), while assembly language is created for a CPU (hardware)
 assembly language, machine code - generated specific to processor (platform dependent)
 Assembly code can be converted to machine code using an assembler.
-
-//CLI
-https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
-commands in a terminal give instructions to kernel to perform tasks
-bash commands/PowerShell commands let you manage computers from the command line
-https://www.tecmint.com/linux-curl-command-examples/
-curl command: to transfer data to or from a server, using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP or FILE).
-SSH: for establishing a secure channel connection to a server in a unsecured network for data tranfer.
-in mac  it is inbuilt but in windows u need to install a software
