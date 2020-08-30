@@ -1,7 +1,5 @@
 https://blog.cloudboost.io/4-reasons-to-love-immutablejs-58768df0e1af
 
-//ordered map - more space and less performant but accuracy
-u can iterate on the same order of key insertion
 //A factory function is any function which is not a class or constructor that returns a (presumably new) object. 
 In JavaScript, any function can return an object. When it does so without the new keyword, it's a factory function.
 
