@@ -1,4 +1,4 @@
 uses: server side rendered apps, APIs
-props: light, fast, free
+pros: light, fast, free
 middleware: functions that have access to request and response object
 stack of fns that are executed 
