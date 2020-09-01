@@ -2,7 +2,8 @@
 
 Features:
 high level programming language
-used for  developing both desktop(GUI), web applications,AI , ML and (data analysis and visualization)
+used for  developing both desktop(GUI), web applications,desktop and mobile apps, games, automation
+AI , ML and (data analysis and visualization)
 A website - mostly consists of static content. It is publicly accessible to all the visitors.Read only and information display purpose
 A web application - advanced form of a website with heavy user interactions, customizations, authentication and user specific content/actions
 https://achievion.com/blog/how-is-a-web-application-different-than-a-website.html
@@ -21,8 +22,20 @@ Downsides:
 Python is slower than several widely used programming languages including Java and C++. 
 You have to speed up the Python application by making changes to the application code or using custom runtime.
 
+//working of python
+python source code - compiler - python byte code - python virtual machine - machine dependent code
+
+
+//implementations
+python - defines set of rules 
+cpython - C is the default language used to implement the rules
+other implementations: jpython(java), ironpython(c#) and pypy
+jpython - java code can be embedded in python code, similarly for ironpython c# code can be embedded.
+if jpython is used then the source code is converted to java byte code and JVM is used for machine code conversion
+
+
 //tool kit
-1)IDE: vscode
+1)IDE: vscode - pylint, pep8 formatting, autoformat on save , code runner
 2)IPython(Interactive python): powerful command shell for interactive computing using python 
 IPython provides a rich architecture for interactive computing with:
 A powerful interactive shell.
