@@ -8,6 +8,7 @@ foo = true;  // foo is now a boolean
 //ECMAScript standard defines 8 data types (7 primitive + object)
 //Objects are not primitive since it’s a collection of zero or more primitives and other objects
 //primitive(immutable): Boolean, Null, Undefined, Number, BigInt, String, Symbol
+immutable means values once created cannot be changed in the same memory location
 42 / +0 //Infinity
 42 / -0 //-Infinity
 
