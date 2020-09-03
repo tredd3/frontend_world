@@ -70,3 +70,10 @@ It does not process or store data. It manages and coordinates all the units of t
 3)ALU(Arithmetic Logic Unit) - consists of two subsections namely, 
 Arithmetic Section: perform arithmetic operations like addition, subtraction, multiplication, and division. All complex operations are done by making repetitive use of the above operations.
 Logic Section: perform logic operations such as comparing, selecting, matching, and merging of data.
+
+Concurrency vs Parallelism
+Concurrency : multiple processes or threads are making progress concurrently. While only one thread 
+is executed at a time by the CPU, these threads can be switched in and out as required.
+ This means that no thread is actually completed totally before another is scheduled. 
+Parallelism : multiple processes or threads are making progress in parallel.
+This means that the threads are executing at the same time on parallel processors.

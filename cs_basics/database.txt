@@ -1,4 +1,13 @@
 
+//DDL(Data Definition Language) vs DML(Data Manipulation Language)
+DDL statements are used to create database, schema, constraints, users, tables etc. 
+ DDL has no further classification.
+ Commands: CREATE, DROP, RENAME and ALTER.
+DML statement is used to insert, update or delete the records.
+ DML is further classified into procedural DML and non-procedural DML
+ commands: INSERT, UPDATE and DELETE.
+
+
 //ACID properties of database
 https://www.geeksforgeeks.org/acid-properties-in-dbms/
 A transaction is a single logical unit of work which accesses and possibly modifies the contents of a database.
