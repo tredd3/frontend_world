@@ -1,3 +1,5 @@
+//DBMS vs RDBMS
+
 
 //DDL(Data Definition Language) vs DML(Data Manipulation Language)
 DDL statements are used to create database, schema, constraints, users, tables etc. 
@@ -6,7 +8,6 @@ DDL statements are used to create database, schema, constraints, users, tables e
 DML statement is used to insert, update or delete the records.
  DML is further classified into procedural DML and non-procedural DML
  commands: INSERT, UPDATE and DELETE.
-
 
 //ACID properties of database
 https://www.geeksforgeeks.org/acid-properties-in-dbms/
