@@ -70,3 +70,16 @@ it is an open standard that allows identity providers (IdP) to pass authorizatio
 What that jargon means is that you can use one set of credentials to log into many different websites.
 SAML uses XML to send Messages | OAuth uses JSON
 SAML uses session cookie in a browser | OAuth uses API calls extensively 
+
+
+//kerberos -  computer-network authentication protocol
+ The Kerberos protocol uses strong cryptography so that a client can prove its identity to a server
+(and vice versa) across an insecure network connection. After a client and server has used Kerberos 
+to prove their identity, they can also encrypt all of their communications.
+
+Kerberos has three parts: a client, server, and trusted third party (KDC) to mediate between them. 
+Clients obtain tickets from the Kerberos Key Distribution Center (KDC), and they present these tickets
+ to servers when connections are established. Kerberos tickets represent the client's credentials
+
+
+//Passport is authentication middleware for Node.js.

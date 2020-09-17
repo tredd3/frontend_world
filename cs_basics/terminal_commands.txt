@@ -7,3 +7,10 @@ curl command: to transfer data to or from a server, using any of the supported p
 SSH: for establishing a secure channel connection to a server in a unsecured network for data tranfer.
 in mac  it is inbuilt but in windows u need to install a software
 
+grep command is used to search for text strings or regular expressions within one or more files.
+The basic syntax of grep is:
+grep pattern target_file
+1. Searching for a text string in one file - grep 'root' /etc/passwd
+2. Searching for a string in multiple files - grep 'root' /etc/*
+
+more: https://www.linuxcloudvps.com/blog/83/

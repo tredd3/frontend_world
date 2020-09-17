@@ -81,7 +81,8 @@ Thus, 7 bits are sufficient to represent a character in ASCII; however, most com
 
 **What is Base 64 Encoded Data? for sending binary data over text based protocol like HTTP
 Base64 has 64 chars with values from 0 through 63 - each char represented by 6 bits
-base64 encoded data is a string of character that contains only a-z, A-Z, 0-9, + and / characters and is often used in situations when sending non-text information via a text only transmission protocol.
+base64 encoded data is a string of character that contains only a-z, A-Z, 0-9, + and / characters and is often used in 
+situations when sending non-text information(image,video and audio) via a text only transmission protocol.
 The plain ASCII text includes a-z, A-Z, 0-9, ", %, &, ', (, ), *, +, -, _ and , (the comma). They will be referred to as the universal ASCII character set.
 when trying to send e-mails in non English languages. Often these languages will have characters that are not part of the ASCII set.
  What is needed is a method to convert non-universal ASCII characters to a common form. This common form is called Base64 encoding.
@@ -100,6 +101,17 @@ Base64 is a method to encode a byte sequence to a string
 The Unicode Standard covers (almost) all the characters, punctuations, and symbols in the world.
 Unicode enables processing, storage, and transport of text independent of platform and language.
 The default character encoding in HTML-5 and web is UTF-8.
+
+//javascript encoding and decoding methods
+btoa() encodes a string of binary data in base-64 format. The most common use of this is for creating a data: URI 
+from the contents of a file (e.g. turning a JPEG or GIF file into a data: URI that you incorporate directly into the page 
+instead of referencing a remote file).
+
+atob() performs the opposite: given a base-64 string, it returns the binary data.
+
+encodeURIComponent() is used to perform URL-encoding of strings that will be used in a URI. This converts characters that have special meaning in URIs into % followed by the hex encoding, e.g. space becomes %20. This is usually used when creating URL parameters that will be used in redirects or AJAX requests, or the data that will be sent in XMLHTTPRequest.send().
+
+decodeURIComponent() performs the reverse of encodeURIComponent(), so if you have "foo%20bar" it will return "foo bar".
 
 
 ********* HTTP ***********
