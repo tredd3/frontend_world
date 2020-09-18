@@ -30,14 +30,17 @@ import - use named imports to selectively load only the pieces you need. That ca
 *multiple entry points - to speed up the build process by creating multiple builds in parallel
 *chunks - vendor dependencies(node modules) in one chunk, all the common modules in one chunk to eliminate duplicacy(using SplitChunksPlugin)
 and code splitting in other chunks
+
+//caching
 [hash] will generate unique hash for each build and use it for all chunks. 
 Replace [hash] with [chunkhash] to generate unique hashes for each chunk. 
 This is useful when you dont want to re-download vendors (dependencies) file but you have changes in your application code and want to update it.
+
 //code-splitting and lazy-loading
 code-splitting  - breaking (or splitting) your app into various parts so your entire app does not need to load straight away.
-if dynamic import tag is seen by webpack it spilts the code in small chunks and loads it on demand
-preload and prefetch - load the chunks without user interaction
-lazy-loading - load the chunk only when user performs an action
+if dynamic import tag is seen by webpack it spilts the code in small chunks,which can then be loaded on demand or in parallel
+
+1)preload and prefetch - load the chunks without user interaction
 A preloaded chunk(medium priority) starts loading in parallel to the parent chunk (instead of 2 round trips now there is only one)
 as size of parent chunk is small it boosts initial load time
 import(/* webpackPreload: true */ 'ChartingLibrary');
@@ -45,8 +48,20 @@ A prefetched chunk(low priority) starts after the parent chunk finishes loading 
 import(/* webpackPrefetch: true */ 'LoginModal');
 This will result in <link rel="prefetch" href="login-modal-chunk.js"> being appended in the head of the page, which will instruct the browser to prefetch in idle time
 
+2)lazy-loading - load the chunk only when user performs an action - use suspense(fallback to show when components are downloaded)
+const Cart = lazy(() => import(/* webpackChunkName: "cart" */ './components/cart'));
+https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c
+
+
 //lazy rendering - intersection observer API by browser
 clientsboundrect(to get the element position wrt viewport) + debounce/throttle the scroll event
 
-** code splitting using lazy(dynamic import of components) and suspense(fallback to show when components are downloaded)
-//https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c
+
+//webpack dev server(WDS) and HMR (HotModuleReplacement)
+WDS - make changes in the source file, files are re-compiled and generated bundle is stored in memory
+and then live reloading of the browser happens
+
+HMR - It allows all kinds of modules to be updated at runtime without the need for a full refresh
+uses web sockets under the hood.
+There are loaders available that makes HMR interact smoothly like react-hot-loader, angular HMR etc
+https://github.com/gaearon/react-hot-loader
