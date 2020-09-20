@@ -28,7 +28,8 @@ Server side rendering - faster initial Loading  and SEO improvement
 isomorphic application�is one whose code (in this case, JavaScript) can run both in the server and the client.
 Do you need to make a highly complex app which utilizes a large portion of platform-specific code?�Go native.
 Does your app need to support new mobile OS features as soon as they are released?�Go native.
-
+*Flutter by google - develop applications for Android, iOS, Linux, Mac, Windows, and the web from a single codebase
+It uses the Dart programming language which is very similar syntactically to JavaScript.
 
 //SEO - process of increasing website traffic by putting ur site on the top web search engine results
 *extremely imp for business to convert visitors to customers

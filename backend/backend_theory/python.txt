@@ -22,9 +22,9 @@ Downsides:
 Python is slower than several widely used programming languages including Java and C++. 
 You have to speed up the Python application by making changes to the application code or using custom runtime.
 
-//working of python
-python source code - compiler - python byte code - python virtual machine - machine dependent code
-
+//working of python - both compiled and interpreted
+python source code - compiler - python byte code - python virtual machine(interpreter/software) - interpreted to machine dependent code
+ 
 
 //implementations
 python - defines set of rules 

@@ -8,15 +8,41 @@ there exist two type processor i.e., 32-bit and 64-bit. These processor tells us
 any system having more than 4GB RAM should use 64 bit processor else RAM > 4GB gets watsed as the processor can't access it.
 speed of computation: 64-bit processors can come in dual core, quad core, six core, and eight core versions
 
+
 //compiler vs interpreters
+Compiler: all the source code is converted to binary and then executable file is executed
+compiler is primarily used for programs that translate source code from a high-level programming language
+ to a lower level/any intermediate language (e.g., assembly language, byte code, or machine code)
+pros: speed(compiled code can be optimized before execution), sorce code is private (binary/executable file
+ is downloaded by outside world)
+cons: not cross platform(separate binary files based on OS/CPU), speed of development is less as debugging requires
+the developer to compile the complete code every time before you run it. 
+solution: convert souce code to byte code instead of machine code(so that it is portable and platform independent)
+- ship the byte code - then use a software like JVM(JIT compiler+interpreter) on the consumer system to 
+convert it into platform dependent machine code.
+JIT(just in time) compiler - takes in the byte code and adds further optimisation for repeated code by marking them as repeated, 
+interpreter is going to store the binary code for the repeated byte code in the memory and next time it 
+encounters the repeated byte code instead of converting it in to binary it picks it up from memory
+
+
+Interpreter: source code is downloaded - each line is converted to binary and executed immediately by the processor
 interpreted code requires an interpreter to run. Therefore, without an interpreter, the source code serves as a plain text file rather than an executable program. 
-executable file - code can be executed directly by the computer's processor, .exe(windows), .app(mac)
+executable file - binary code that code can be executed directly by the computer's processor, .exe(windows), .app(mac)
 Additionally, programs written for an interpreter may not be able to use built-in system functions or access hardware resources like compiled programs can.
 Therefore, most software applications are compiled rather than interpreted.
-Also compiled code can be optimized before execution.
+pros: cross platform(single source code file is distributed independent of the machine), speed development
+cons: slower(bcoz we need to wait for a line conversion to binary and then execute), 
+public source code (as u ship the source file instead of binary)
+
+e.g of source code to machine code conversion:
+compiled languages: C,C++
+interpreted languages: JAVASCRIPT
+compiled + interpreted: Java, Python
+
 
 //bytecode vs assembly code
 Both bytecode and assembly language  and  "intermediate languages" that fall between source code and machine code. 
-The primary difference between the two is that bytecode is generated for a virtual machine (software), while assembly language is created for a CPU (hardware)
-assembly language, machine code - generated specific to processor (platform dependent)
+The primary difference between the two is that bytecode is generated for a virtual machine (software), 
+while assembly language is created for a CPU (hardware)
+assembly language, machine code - generated specific to processor and OS(platform dependent)
 Assembly code can be converted to machine code using an assembler.
