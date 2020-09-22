@@ -4,7 +4,9 @@ An endpoint is a combination of an IP address and a port number.
 
 
 ****** web sockets *********
+https://javascript.info/websocket
 https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API
 
 websockets - like http it is a communication protocol | considered as a upgradation to http protocol
 used make a TCP connection once and then bidirectional communication between client and server on the same TCP connection
@@ -13,29 +15,42 @@ used in real time data transfer applications like chat/trading/online gaming
 **how browser establishes web socket connection - high level details
 WebSocket "is designed to work over HTTP ports 80 and 443 as well as to support HTTP proxies and intermediaries
 HTTP servers typically interpret Web Socket handshakes as an Upgrade request.
+
 1)client establishes a connection through a process known as Web Socket handshake, for which the server returns a WebSocket handshake response
 The process begins with the client sending a regular HTTP request to the server:
 GET /chat HTTP/1.1
 Host: server.example.com
-Upgrade: websocket
-Connection: Upgrade
-Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==
-Sec-WebSocket-Protocol: chat, superchat
+Connection: Upgrade  //signals that the client would like to change the protocol
+Upgrade: websocket   //the requested protocol is “websocket”
+Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==  //a random browser-generated key for security
 Sec-WebSocket-Version: 13
-Origin: http://example.com
+Sec-WebSocket-Extensions: deflate-frame  //supports data compression
+Sec-WebSocket-Protocol: soap, wamp   //data formats
+Origin: http://example.com  //WebSocket requests are not restricted by the Same-origin policy. 
+Therefore WebSocket servers must validate the "Origin" header against the expected origins during connection 
+establishment, to avoid Cross-Site WebSocket Hijacking attacks.It is better to WSS and use tokens/cookies 
+to authenticate the WebSocket connection when sensitive (private) data is being transferred 
 
 /Server response:
 HTTP/1.1 101 Switching Protocols
 Upgrade: websocket
 Connection: Upgrade
-Sec-WebSocket-Accept: HSmrc0sMlYUkAGmm5OPpG2HaGWk=
-Sec-WebSocket-Protocol: chat
+Sec-WebSocket-Accept: HSmrc0sMlYUkAGmm5OPpG2HaGWk= //Sec-WebSocket-Accept is Sec-WebSocket-Key, recoded using a special algorithm. The browser uses it to make sure that the response corresponds to the request
+Sec-WebSocket-Extensions: deflate-frame
+Sec-WebSocket-Protocol: soap
 
 2)Once the connection is established, communication switches to a bidirectional binary protocol which does not conform to the HTTP protocol.
-WebSocket transmissions are described as "messages", where a single message can optionally be split across several data frames. 
-WebSocket requests are not restricted by the Same-origin policy. Therefore WebSocket servers must validate the "Origin" header
- against the expected origins during connection establishment, to avoid Cross-Site WebSocket Hijacking attacks 
-It is better to use tokens or similar protection mechanisms to authenticate the WebSocket connection when sensitive (private) data is being transferred 
+3)WebSocket transmissions are described as "messages", where a single message can optionally be split
+across several data frames.
+WebSocket communication consists of “frames” – data fragments, that can be sent from either side, and can be of several kinds:
+“text frames” – contain text data that parties send to each other.
+“binary data frames” – contain binary data that parties send to each other.
+“ping/pong frames” are used to check the connection, sent from the server, the browser responds to these automatically.
+there’s also “connection close frame” and a few other service frames.
+WebSocket .send() method can send either text frames or binary data frames.
+A call socket.send(body) allows body in string or a binary format, including Blob, ArrayBuffer, etc. No settings required: just send it out in any format.
+When we receive the data, text always comes as string. And for binary data, we can choose between Blob and ArrayBuffer formats.
+That’s set by socket.binaryType property, it’s "blob" by default, so binary data comes as Blob objects.
 
 
 ***** other stuff ****
