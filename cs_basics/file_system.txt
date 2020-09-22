@@ -38,6 +38,10 @@ image, download the image from the database and then send the visitor the image
 
 //BLOB(binary large object) - collection of binary data stored as a single entity in a database management systems (DBMS). BLOBs are used primarily to hold 
 multimedia objects such as images, videos, and sound, though they can also be used to store programs or even fragments of code
+*It is a file-like object of immutable, raw data; they can be read as text or binary data, or converted into a ReadableStream so its methods can be used for processing the data.
+https://developer.mozilla.org/en-US/docs/Web/API/Blob
+
+
 //DB indexing : Indexing is a way of sorting a number of records on multiple fields. Creating an index on a field in a table creates another data structure 
 which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
 performed on it.

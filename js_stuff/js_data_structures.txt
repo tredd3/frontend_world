@@ -65,12 +65,16 @@ for(var i=0;i<y.length;i++){
 console.log(years[2] != years['02']); //The 2 in years[2] is coerced into a string by the JavaScript engine through an implicit toString conversion
 Increasing the length adds empty elements in the gap.Decreasing the length property deletes elements.
 
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays
 **Typed Arrays are array-like objects that provide a mechanism for reading and writing raw binary data in memory buffers/blobs
 raw binary data - audio, video, image, file
-Each entry in a JavaScript typed array is a raw binary value 
-Not all methods available for normal arrays are supported by typed arrays 
-convert typed array in to an array using Array.prototype.slice.call(typedArray);
+Each entry in a JavaScript typed array is a raw binary value in one of a number of supported formats, from 8-bit integers to 64-bit floating-point numbers.
+Not all methods available for normal arrays are supported by typed arrays (as they are array like objects and not arrays)
+convert typed array in to an array using array.from() or Array.prototype.slice.call(typedArray);
+/Buffers and views: typed array architecture
+ A buffer (implemented by the ArrayBuffer object) is an object representing a chunk of data; it has no format to speak of and 
+ offers no mechanism for accessing its contents. In order to access the memory contained in a buffer, you need to use a view.
+A view provides a context — that is, a data type, starting offset, and the number of elements — that turns the data into a typed array.
 **The ArrayBuffer is a data type that is used to represent a generic, fixed-length binary data buffer. 
 You can't directly manipulate the contents of an ArrayBuffer; instead, you create a typed array view 
 or a DataView which represents the buffer in a specific format, and use that to read and write the contents of the buffer.
@@ -78,7 +82,7 @@ Typed array views are in the native byte-order of your platform. With a DataView
 new ArrayBuffer(length) - creates a new ArrayBuffer in the memory of the given length in bytes and intialises them to 0
 var buffer = new ArrayBuffer(8);
 var view   = new Int32Array(buffer);//reads 32 bits at a time 8*8/32 = 2 items in the array[0,0] 
-each item represented as 32 bits | treats the data in the buffer as an array of 32-bit signed integers 
+each item in a view is represented as 32 bits
 var view   = new Float64Array(buffer);//reads 64 bits a time [0] - each item represented as 64 bits
 
 //Keyed collections: Maps, Sets, WeakMaps, WeakSets

@@ -40,69 +40,13 @@ Consistent Hashing maps servers to the key space and assigns requests to the nex
 M hash fns and N servers - servers are placed at N*M points
 2 principles allowed by Consistent Hashing - fault tolerance(removing servers), scalability (adding servers)
 cloud - large computing 
-kafka - messaging queue 
+kafka - messaging queue - large real time data is split into multiple buckets and then passed into UI after
+some time which avaoids flickering and http querying overhead at the UI end.
 polling - using background thread for making request after every x sec to get new data like feed/ 
 to tell if a person is online or not 
 long polling - make a request and keep connection open until new data comes 
 polling and long polling are used as backward compatibility to web sockets 
-websockets - like http it is a communication protocol | considered as a upgradation to http protocol
-used make a TCP connection once and then bidirectional communication between client and server on the same TCP connection
-used in real time data transfer applications like chat/trading/online gaming 
-**how browser establishes web socket connection?
-WebSocket "is designed to work over HTTP ports 80 and 443 as well as to support HTTP proxies and intermediaries," thus making it compatible with the HTTP protocol.
-client sends a WebSocket handshake request, for which the server returns a WebSocket handshake response
-Once the connection is established, communication switches to a bidirectional binary protocol which does not conform to the HTTP protocol.
-WebSocket transmissions are described as "messages", where a single message can optionally be split across several data frames. 
-WebSocket requests are not restricted by the Same-origin policy. Therefore WebSocket servers must validate the "Origin" header against the expected origins during connection establishment,
- to avoid Cross-Site WebSocket Hijacking attacks 
-It is better to use tokens or similar protection mechanisms to authenticate the WebSocket connection when sensitive (private) data is being transferred 
-GET /chat HTTP/1.1
-Host: server.example.com
-Upgrade: websocket
-Connection: Upgrade
-Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==
-Sec-WebSocket-Protocol: chat, superchat
-Sec-WebSocket-Version: 13
-Origin: http://example.com
-Server response:
-
-HTTP/1.1 101 Switching Protocols
-Upgrade: websocket
-Connection: Upgrade
-Sec-WebSocket-Accept: HSmrc0sMlYUkAGmm5OPpG2HaGWk=
-Sec-WebSocket-Protocol: chat
-
-**socket.io - js library for web sockets (just like jquery is to javascript)
-handles fallback(if client and server doesn't agree on handshake then uses long polling as a 
-fallback mechanism to support old browsers) and auto-reconnection
-fan-in : all the client requests coming to a server
-fan-out: requests going from server to clients
-problem with fan-out is if million users are to be notified then server gets crashed
-so use rate limiting (1000 requests/sec etc)
-*SSE - server sent events - client initiates the SSE connection using EventSource API (server uses event source protocol)
-The client can’t send any data to the server after the initial handshake.
-EventSource instance opens a persistent connection to an HTTP server, which sends events in text/event-stream format. The connection remains open until closed by calling EventSource.close().
-Examples: Facebook/Twitter updates, stock price updates, news feeds, sport results or delivering 
-data into a client-side storage mechanism like IndexedDB or web storage etc where a user interaction is not needed
-
-const sse = new EventSource('/api/v1/sse');
-  
-  based on the type of events sent by the server we can listen to those specific events 
-  /* This will listen only for events with event type notice */
- 
-  sse.addEventListener("notice", function(e) { 
-    console.log(e.data)
-  })
-
-  /* Similarly, this will listen for events  with the field `event: update` */
-  sse.addEventListener("update", function(e) {
-    console.log(e.data)
-  })
-
-  sse.addEventListener("message", function(e) {
-    console.log(e.data)
-  })
-
+websockets - for full duplex communication (sending and recieving data at the same time over same connection)
 
 3)databases
 sharding - split ur database - useful for microservice architecture

@@ -2,8 +2,78 @@
 socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to.
 An endpoint is a combination of an IP address and a port number.
 
-//socket.io - primarily uses the WebSocket protocol with polling as a fallback option
+
+****** web sockets *********
+https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+
+websockets - like http it is a communication protocol | considered as a upgradation to http protocol
+used make a TCP connection once and then bidirectional communication between client and server on the same TCP connection
+used in real time data transfer applications like chat/trading/online gaming 
+
+**how browser establishes web socket connection - high level details
+WebSocket "is designed to work over HTTP ports 80 and 443 as well as to support HTTP proxies and intermediaries
+HTTP servers typically interpret Web Socket handshakes as an Upgrade request.
+1)client establishes a connection through a process known as Web Socket handshake, for which the server returns a WebSocket handshake response
+The process begins with the client sending a regular HTTP request to the server:
+GET /chat HTTP/1.1
+Host: server.example.com
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==
+Sec-WebSocket-Protocol: chat, superchat
+Sec-WebSocket-Version: 13
+Origin: http://example.com
+
+/Server response:
+HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: HSmrc0sMlYUkAGmm5OPpG2HaGWk=
+Sec-WebSocket-Protocol: chat
+
+2)Once the connection is established, communication switches to a bidirectional binary protocol which does not conform to the HTTP protocol.
+WebSocket transmissions are described as "messages", where a single message can optionally be split across several data frames. 
+WebSocket requests are not restricted by the Same-origin policy. Therefore WebSocket servers must validate the "Origin" header
+ against the expected origins during connection establishment, to avoid Cross-Site WebSocket Hijacking attacks 
+It is better to use tokens or similar protection mechanisms to authenticate the WebSocket connection when sensitive (private) data is being transferred 
+
+
+***** other stuff ****
+
+fan-in : all the client requests coming to a server
+fan-out: requests going from server to clients
+problem with fan-out is if million users are to be notified then server gets crashed
+so use rate limiting (1000 requests/sec etc)
+*SSE - server sent events - client initiates the SSE connection using EventSource API (server uses event source protocol)
+The client can’t send any data to the server after the initial handshake.
+EventSource instance opens a persistent connection to an HTTP server, which sends events in text/event-stream format. 
+The connection remains open until closed by calling EventSource.close().
+Examples: Facebook/Twitter updates, stock price updates, news feeds, sport results or delivering 
+data into a client-side storage mechanism like IndexedDB or web storage etc where a user interaction is not needed
+
+const sse = new EventSource('/api/v1/sse');
+  
+  based on the type of events sent by the server we can listen to those specific events 
+  /* This will listen only for events with event type notice */
+ 
+  sse.addEventListener("notice", function(e) { 
+    console.log(e.data)
+  })
+
+  /* Similarly, this will listen for events  with the field `event: update` */
+  sse.addEventListener("update", function(e) {
+    console.log(e.data)
+  })
+
+  sse.addEventListener("message", function(e) {
+    console.log(e.data)
+  })
+
+
 https://socket.io/docs/
+**socket.io - js library for web sockets (just like jquery is to javascript)
+handles fallback(if client and server doesn't agree on handshake then uses long polling as a 
+fallback mechanism to support old browsers) and auto-reconnection
 features: broadcasting to multiple sockets, storing data associated with each client, and asynchronous I/O.
 use cases: Real-time analytics, Binary streaming(audio, video and image), chat, Document collaboration (concurrently edit a document and see each other's changes)
 Socket.IO is not a WebSocket library with fallback options to other realtime protocols.
