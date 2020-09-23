@@ -7,6 +7,7 @@ An endpoint is a combination of an IP address and a port number.
 https://javascript.info/websocket
 https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
 https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API
+https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers
 
 websockets - like http it is a communication protocol | considered as a upgradation to http protocol
 used make a TCP connection once and then bidirectional communication between client and server on the same TCP connection

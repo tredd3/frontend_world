@@ -1,4 +1,4 @@
-let socket = new WebSocket("wss://javascript.info/article/websocket/demo/hello");
+let socket = new WebSocket("ws://localhost:8080");
 
 socket.onopen = function (e) {
     alert("[open] Connection established");
