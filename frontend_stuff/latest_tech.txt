@@ -6,6 +6,7 @@ Yarn, on the other hand, installs from multiple repositories npmjs.com as well a
 *Yarn caches every package it downloads so it never needs to again.NPM downloads the packages everytime u run npm install
 *Yarn is fast bcoz of parallel downloading of packages Npm downloads packages sequentially
 
+https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/
 //GraphQL - A query language for your API
 GraphQL has three main characteristics:
 It lets the client specify exactly what data it needs.

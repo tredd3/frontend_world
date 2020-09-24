@@ -48,8 +48,10 @@ P - physical - Binary data is converted into signals depending on the media (ele
 //Network Requests
 ASCII characters - Codes 0 through 127 (all keyboard chars)
 NON ASCII characters - Codes 128 through 255
-x-www-form-urlencoded - to send simple text/ ASCII data
-form-data - to send non-ASCII text or blob data like files and image uploading
+https://dev.to/sidthesloth92/understanding-html-form-encoding-url-encoded-and-multipart-forms-3lpa
+x-www-form-urlencoded - to send simple text/ ASCII data to server with URL encoding
+multipart/form-data - to send non-ASCII text or blob data like files and image uploading
+Text/plain Forms - same as the URL encoded forms, except that the form fields are not URL encoded when sent to the server
 Raw - if you want to send plain text /JSON/XML
 Binary - non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
 
