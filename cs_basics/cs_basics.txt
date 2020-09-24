@@ -46,3 +46,38 @@ The primary difference between the two is that bytecode is generated for a virtu
 while assembly language is created for a CPU (hardware)
 assembly language, machine code - generated specific to processor and OS(platform dependent)
 Assembly code can be converted to machine code using an assembler.
+
+
+//environment variables
+https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
+1)An environment variable is a variable whose value is set outside the program, typically through 
+functionality built into the operating system or microservice.
+2)During application initialization/runtime, these are loaded into process.env and accessed in the program 
+using command process.env.<env_variable>
+3)The primary use case for environment variables is to limit the need to modify and re-release an application due to changes in configuration data
+note: it  make your app easier to configure by separating infrequently changing data from your code
+4)Use cases for environment variables include but are not limited to data such as:
+Execution mode (e.g., production, development, staging, etc.)
+Domain names
+API URL/URI’s
+Public and private authentication keys (only secure in server applications)
+Group mail addresses, such as those for marketing, support, sales, etc.
+Service account names
+5)Management and manipulation of environment variables differ from operating system to operating system.
+One way to minimize these differences is to use the cross-env NPM package which provides an operating 
+system independent POSIX-compatible command to set environment variables.
+Portable Operating System Interface (POSIX) is a family of standards specified by the IEEE Computer Society
+for maintaining compatibility between operating systems
+
+
+//support for env_variables in the frontend - https://www.npmjs.com/package/dotenv
+1)Support for using environment variables in frontend applications isn’t an “out-of-the-box” feature of either the browser or Javascript;
+a package like dotenv is required to enable it. For the record, both frontend and backend applications may utilize dotenv.
+2)many popular packages such as Create React App (react-scripts), Gatsby, GraphQL CLI, Node Lambda, and more already include dotenv.
+In the case of Create React App, there is no need to call dotenv.config() since node_modules/react-scripts/config/env.js 
+automatically populates process.env with the contents of the .env file
+3)using webpack:
+Although webpack implements support for using environment variables it’s as an option of the webpack command. For example,
+webpack --env.NODE_ENV=local
+they are referenced in webpack configuration files (e.g., webpack.config.js) as env. suffixed by the environment variable name. For example, console.log(env.NODE_ENV)
+webpack configuration files may also reference environment variables defined by the operating system using process.env just like any other Javascript module
