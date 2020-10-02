@@ -77,3 +77,16 @@ is executed at a time by the CPU, these threads can be switched in and out as re
  This means that no thread is actually completed totally before another is scheduled. 
 Parallelism : multiple processes or threads are making progress in parallel.
 This means that the threads are executing at the same time on parallel processors.
+
+mutex vs semaphore
+mutual exclusion(mutex) is a property of concurrency control, which is instituted for the purpose of preventing race conditions.
+e.g:
+Consider the standard producer-consumer problem. Assume, we have a buffer of 4096 byte length. A producer thread collects the data 
+and writes it to the buffer. A consumer thread processes the collected data from the buffer. Objective is, both the threads should not run at the same time.
+Using Mutex:
+A mutex provides mutual exclusion, either producer or consumer can have the key (mutex) and proceed with their work. As long as the 
+buffer is filled by producer, the consumer needs to wait, and vice versa.
+At any point of time, only one thread can work with the entire buffer.
+Using Semaphore:
+A semaphore is a generalized mutex. In lieu of single buffer, we can split the 4 KB buffer into four 1 KB buffers (identical resources).
+A semaphore can be associated with these four buffers. The consumer and producer can work on different buffers at the same time.

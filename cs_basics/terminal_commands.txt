@@ -1,7 +1,12 @@
 //CLI
 https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
-commands in a terminal give instructions to kernel to perform tasks
-bash commands/PowerShell commands let you manage computers from the command line
+you manage a computer from the GUI/terminal -  to handle servers terminal commands are a must
+terminal commands give instructions to kernel to perform tasks
+(shell) - all the terminal commands are executed/processed by a shell
+/available shells:
+bash, PowerShell,zsh(zshell) etc - these are languages that terminal understands 
+run command echo $0 to know which language is used in the terminal
+
 https://www.tecmint.com/linux-curl-command-examples/
 curl command: to transfer data to or from a server, using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP or FILE).
 SSH: for establishing a secure channel connection to a server in a unsecured network for data tranfer.

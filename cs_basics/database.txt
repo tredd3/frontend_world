@@ -45,3 +45,6 @@ computer data storage. It is contrasted with database management systems that em
 //database sharding
 partitioning db based on location/timestamp etc so that the lookup is fast
 on top of it apply indexing so that u can use binary search and reduce the time even further
+
+//realtime listening also called tailing of database
+https://medium.com/@atharva.inamdar/understanding-mongodb-oplog-249f3996f528
