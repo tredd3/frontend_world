@@ -45,3 +45,29 @@ https://developer.mozilla.org/en-US/docs/Web/API/Blob
 //DB indexing : Indexing is a way of sorting a number of records on multiple fields. Creating an index on a field in a table creates another data structure 
 which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
 performed on it.
+
+
+//Understanding File Permissions
+https://www.elated.com/understanding-permissions/#:~:text=drwxr%2Dxr%2Dx,but%20not%20executed%20at%20all.
+chmod is the command and system call which is used to set/change the access permissions of file system objects.
+You can check the permissions on all files and folders in the current directory by using the command: ls -l
+/three types of people that can do stuff to files
+1)Owner of the file (creator of the file)
+2)Group that the file belongs to
+3)Others (everyone else)
+in UNIX, these 3 types of people are referred to using the letters U (for Owner, or User), G (for Group), and O (for Others).
+/ three basic things that can be done to files or folders:
+1)read the file - For folders, this means listing the contents of the folder.
+2)write to (change) the file. For folders, this means creating and deleting files in the folder.
+3)execute (run) the file, if it’s a program or script. For folders, this means accessing files in the folder.
+d	r	w	x	r	w	x	r	w	x
+    --Owner--	--Group--	--Other--
+d-Directory	r-Read	w-Write	x-Execute
+If any of these letters is replaced with a hyphen (-), it means that permission is not granted. For example:
+
+drwxr-xr-x
+A folder which has read, write and execute permissions for the owner, but only read and execute permissions for the group and for other users.
+-rw-rw-rw-
+A file that can be read and written by anyone, but not executed at all.
+-rw-r--r--
+A file that can be read and written by the user, but only read by the group and everyone else.
