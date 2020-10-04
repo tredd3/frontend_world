@@ -11,13 +11,16 @@ Docker image consists of all the project code
 Docker container replicates production environment where we can deploy our code and test
 
 
-//Web server - tomcat, apache, nginix
+//Web server - tomcat, apache(httpd), nginix(master and slave architecture)
+httpd is the Apache HyperText Transfer Protocol (HTTP) server program. It is designed to be run as a standalone
+daemon process(runs in background, no user interaction required).
+When used like this it will create a pool of child processes or threads to handle requests.
 https://cloud.google.com/compute/docs/tutorials/basic-webserver-apache
 inorder to make a computer webserver u need to install a software
 When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the HTTP server(software) accepts request, 
 finds the requested document (if it doesn't then a�404�response is returned), and sends it back to the browser, also through HTTP.
 static web server - the server sends its hosted files "as-is" to your browser
-dynamic web server(server side rendering) -  static web server + extra software, most commonly an application server and a database. 
+dynamic web server(server side rendering) -  static web server + extra software(CGI scripts), most commonly an application server and a database. 
 We call it "dynamic" because the application server updates the hosted files before sending them to your browser via the HTTP server.
 app server - for api responses 
 

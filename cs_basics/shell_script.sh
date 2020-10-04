@@ -18,7 +18,7 @@ echo "Hello $NAME, nice to meet you!"
 if [ "$NAME" == "Brad" ]
 then
   echo "Your name is Brad"
-fi
+fi #end iof if statement
 
 # IF-ELSE
 if [ "$NAME" == "Brad" ]
@@ -50,22 +50,40 @@ else
 fi
 
 #######
-val1 -eq val2 Returns true if the values are equal
-val1 -ne val2 Returns true if the values are not equal
-val1 -gt val2 Returns true if val1 is greater than val2
-val1 -ge val2 Returns true if val1 is greater than or equal to val2
-val1 -lt val2 Returns true if val1 is less than val2
-val1 -le val2 Returns true if val1 is less than or equal to val2
+# val1 -eq val2 Returns true if the values are equal
+# val1 -ne val2 Returns true if the values are not equal
+# val1 -gt val2 Returns true if val1 is greater than val2
+# val1 -ge val2 Returns true if val1 is greater than or equal to val2
+# val1 -lt val2 Returns true if val1 is less than val2
+# val1 -le val2 Returns true if val1 is less than or equal to val2
 ########
 
 # FILE CONDITIONS
 FILE="test.txt"
+
+touch "test.txt" #create a file
+echo "file created"
+
 if [ -e "$FILE" ]
 then
   echo "$FILE exists"
 else
   echo "$FILE does NOT exist"
 fi
+
+rm test.txt
+echo "file deleted"
+
+mkdir tarak
+echo "directory created"
+
+if [ -d "tarak" ]
+then
+  echo "directory exists"
+fi
+
+rmdir tarak
+echo "directory deleted"
 
 ########
 # -d file   True if the file is a directory
@@ -80,58 +98,59 @@ fi
 ########
 
 #CASE STATEMENT
-# read -p "Are you 21 or over? Y/N " ANSWER
-# case "$ANSWER" in 
-#   [yY] | [yY][eE][sS])
-#     echo "You can have a beer :)"
-#     ;;
-#   [nN] | [nN][oO])
-#     echo "Sorry, no drinking"
-#     ;;
-#   *)
-#     echo "Please enter y/yes or n/no"
-#     ;;
-# esac
+read -p "Are you 21 or over? Y/N " ANSWER
+case "$ANSWER" in 
+  [yY] | [yY][eE][sS])
+    echo "You can have a beer :)"
+    ;;
+  [nN] | [nN][oO])
+    echo "Sorry, no drinking"
+    ;;
+  *)
+    echo "Please enter y/yes or n/no"
+    ;;
+esac
 
 # SIMPLE FOR LOOP
-# NAMES="Brad Kevin Alice Mark"
-# for NAME in $NAMES
-#   do
-#     echo "Hello $NAME"
-# done
+NAMES="Brad Kevin Alice Mark"
+for NAME in $NAMES
+  do
+    echo "Hello $NAME"
+done
 
 # FOR LOOP TO RENAME FILES
-# FILES=$(ls *.txt)
-# NEW="new"
-# for FILE in $FILES  
-#   do
-#     echo "Renaming $FILE to new-$FILE"
-#     mv $FILE $NEW-$FILE
-# done
+FILES=$(ls *.js)
+echo $FILES
+NEW="new"
+for FILE in $FILES  
+  do
+    echo "Renaming $FILE to new-$FILE"
+    mv $FILE $NEW-$FILE
+done
 
 # WHILE LOOP - READ THROUGH A FILE LINE BY LINE
-# LINE=1
-# while read -r CURRENT_LINE
-#   do
-#     echo "$LINE: $CURRENT_LINE"
-#     ((LINE++))
-# done < "./new-1.txt"
+LINE=1
+while read -r CURRENT_LINE
+  do
+    echo "$LINE: $CURRENT_LINE"
+    ((LINE++))
+done < "./new-1.txt"
 
 # FUNCTION
-# function sayHello() {
-#   echo "Hello World"
-# }
-# sayHello
+function sayHello() {
+  echo "Hello World"
+}
+sayHello
 
 # FUNCTION WITH PARAMS
-# function greet() {
-#   echo "Hello, I am $1 and I am $2"
-# }
+function greet() {
+  echo "Hello, I am $1 and I am $2"
+}
 
-# greet "Brad" "36"
+greet "Brad" "36"
 
 # CREATE FOLDER AND WRITE TO A FILE
-# mkdir hello
-# touch "hello/world.txt"
-# echo "Hello World" >> "hello/world.txt"
-# echo "Created hello/world.txt"
+mkdir hello
+touch "hello/world.txt"
+echo "Hello World" >> "hello/world.txt"
+echo "Created hello/world.txt"
