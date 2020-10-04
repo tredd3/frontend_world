@@ -44,3 +44,16 @@ gecko - mozilla
 webkit - apple
 chrome - blink
 edge - blink
+
+
+//Key Differences Between HTTP(server file system to web browser + API calls) and FTP(server file system to client file system)
+server sends meta data needed to process the files by web browser via http headers
+HTTP is used to access different websites on the internet,FTP is used to transfer files from one host to the another.
+HTTP establishes data connection only whereas, the FTP establishes data as well as control connection.
+HTTP uses the TCP’s port number 80 whereas, FTP uses TCP’s port number 20 and 21.
+In case you are using HTTP, http appears in the URL of the website and if you are using FTP, ftp appears in your URL.
+//why browser uses http for file transfer
+HTTP is efficient to transfer smaller files like web pages whereas, FTP is efficient to transfer large files.
+HTTP does not require authentication whereas, FTP servers require the user to have an account and log on to the FTP server to transfer files
+Web pages or data content transferred to a device using HTTP are not saved in the memory of that device whereas, the data delivered to a device using FTP is saved in the memory of that device.
+Browsers can be used to transfer files via FTP; however, Internet Explorer and other browsers do not inherently support secure file transfers via FTP mode. When you type ftp:// and log in to an FTP Server in your browser, you are transmitting your password and data in clear-text, which is not secure

@@ -20,9 +20,21 @@ inorder to make a computer webserver u need to install a software
 When the browser requests the file via HTTP. When the request reaches the correct web server (hardware), the HTTP server(software) accepts request, 
 finds the requested document (if it doesn't then a�404�response is returned), and sends it back to the browser, also through HTTP.
 static web server - the server sends its hosted files "as-is" to your browser
-dynamic web server(server side rendering) -  static web server + extra software(CGI scripts), most commonly an application server and a database. 
+dynamic web server(server side rendering) -  static web server + dynamic web content generation using 
+CGI scripts(scripts which use CGI for info exchange with http server,i.e via env variables specified by CGI) 
+https://en.wikipedia.org/wiki/Common_Gateway_Interface
 We call it "dynamic" because the application server updates the hosted files before sending them to your browser via the HTTP server.
 app server - for api responses 
+
+/Using CGI scripts
+A web server allows its owner to configure which URLs shall be handled by which CGI scripts.
+This is usually done by marking a new directory within the document collection as containing CGI 
+scripts — its name is often cgi-bin. For example, /usr/local/apache/htdocs/cgi-bin could be designated 
+as a CGI directory on the web server. When a Web browser requests a URL that points to a file within the 
+CGI directory (e.g., http://example.com/cgi-bin/printenv.pl/with/additional/path?and=a&query=string), 
+then, instead of simply sending that file (/usr/local/apache/htdocs/cgi-bin/printenv.pl) to the Web browser, 
+the HTTP server runs the specified script and passes the output of the script to the Web browser.
+That is, anything that the script sends to standard output is passed to the Web client instead of being shown on-screen in a terminal window.
 
 
 //NGINIX - reverse proxy, caching, load balancing
