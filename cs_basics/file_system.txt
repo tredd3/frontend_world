@@ -48,6 +48,7 @@ performed on it.
 
 
 //Understanding File Permissions
+Every file in linux is owned by somebody and others need permissions
 https://www.elated.com/understanding-permissions/#:~:text=drwxr%2Dxr%2Dx,but%20not%20executed%20at%20all.
 chmod is the command and system call which is used to set/change the access permissions of file system objects.
 You can check the permissions on all files and folders in the current directory by using the command: ls -l
@@ -56,12 +57,16 @@ You can check the permissions on all files and folders in the current directory 
 2)Group that the file belongs to
 3)Others (everyone else)
 in UNIX, these 3 types of people are referred to using the letters U (for Owner, or User), G (for Group), and O (for Others).
-/ three basic things that can be done to files or folders:
-1)read the file - For folders, this means listing the contents of the folder.
-2)write to (change) the file. For folders, this means creating and deleting files in the folder.
-3)execute (run) the file, if it’s a program or script. For folders, this means accessing files in the folder.
+/ three basic things that can be done to files or folders(directory):
+1)read: file(list the content inside a file) | directory(list the files/folders inside a directory).
+2)write: file(edit/delete file content) | directory(create, rename, or delete files within the directory, and modify the directory's attributes)
+3)execute: file(run the file) | directory(allows the affected user to enter the directory, and access files and directories inside)
 d	r	w	x	r	w	x	r	w	x
     --Owner--	--Group--	--Other--
+    4   2   1
+  (2^2)(2^1)(2^0)  
+so rwxrwxrwx is represented as 777
+chmod 777 <filename>
 d-Directory	r-Read	w-Write	x-Execute
 If any of these letters is replaced with a hyphen (-), it means that permission is not granted. For example:
 

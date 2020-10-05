@@ -19,30 +19,48 @@ grep pattern target_file
 2. Searching for a string in multiple files - grep 'root' /etc/*
 
 more: https://www.linuxcloudvps.com/blog/83/
+whatis <command> //e.g whatis cal
+man <command>
+
 pwd - print working directory
 ls -a  //list all the files/folders in the current directory including hidden files
-ls -l //to check permisssions drwx (delets/read/write/execute)
+ls -l //to check permisssions drwx (directory/read/write/execute)
+ls <absolute/relative path>
 cd / //go to file ststem root
 cd or cd ~ // go to home directory from anywhere in the file system
+pushd <path> //to go to any directory temporarily from the current working directory
+popd   //to go back to the previous working directory
+file <file/directory name>  //tells u what type of file it is
+cal  //prints the calendar in the terminal
 mkdir	//Make Directory/create a new directory
 touch	//create a new file
 cat	  //Concatenate	view the contents of a file
 less instead of cat //to view the contents of a large file 
+nano <file_name> //to open the file in command line editor
+nano //to open command line editor
 echo "x" >	Echo	quickly print text to a file
 rm <file_name> //this will permanently delete the file - it won't send to the Trash/Recycling bin
 The asterisk (*) is known as a wildcard in programming. I can choose to delete all the files of a certain filetype with a wildcard. 
 For example, if I saved many .png files as .jpg, I could run rm *.png to batch delete the whole set of .png files.
 rmdir <dir_name> //delete empty directory
-rmd -r <dir_name> //if you want to remove a folder that has files in it
+rmdir *  //delete all the empty folders in a given directory
+rm -r <dir_name> //if you want to remove a folder and also the content inside it
 clear - clear terminal UI 
 exit - exit from server if u are connected to one, else exit the terminal
 which <folder/file> //gives folder/file location
+or locate <file/folder>  
 whoami  //gives username
 history //lists the history of commands entered in terminal
 cp source destination  //copy files
 cp -R	//Copy Recursively	copy a directory and all its contents
 mv source destination  //move (cut and paste) files and directories
 &&	And	run multiple commands
+sudo <command> //u will run the command as a root user/ administrator
+sudo -s //from now u will operate as a root user 
+su - <other user> //from now u will operate as other user and can access his stuff 
+                  //need to provide password of other user
+users  //show the user names of users currently logged in to the current host.                  
+
 
 //system commands - give info about the system
 uname -a //lists system details
@@ -51,7 +69,9 @@ top //process monitor
 
 //vim - command line text editor commands
 vim <file_name>
-Hit the Esc key to enter "Normal mode". Then you can type : to enter "Command-line mode". A colon (:) will appear at the bottom of the screen and you can type in one of the following commands. To execute a command, press the Enter key.
+Hit the Esc key to enter "Normal mode". Then you can type : to enter "Command-line mode". 
+A colon (:) will appear at the bottom of the screen and you can type in one of the following commands. 
+To execute a command, press the Enter key.
 :q to quit (short for :quit)
 :q! to quit without saving (short for :quit!)
 :wq to write and quit
