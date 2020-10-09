@@ -61,16 +61,6 @@ Monolithic kernel is a single large process running entirely in a single address
 In microkernels, the kernel is broken down into separate processes, known as servers.
 Some of the servers run in kernel space and some run in user-space. 
 
-CPU itself has following three components.
-1)Memory or Storage Unit -
-This unit can store instructions, data, and intermediate results. This unit supplies information to other units of the computer
- when needed. It is also known as internal storage unit or the main memory or the primary storage or Random Access Memory (RAM).
-2)Control Unit - It communicates with Input/Output devices for transfer of data or results from storage.
-It does not process or store data. It manages and coordinates all the units of the computer.
-3)ALU(Arithmetic Logic Unit) - consists of two subsections namely, 
-Arithmetic Section: perform arithmetic operations like addition, subtraction, multiplication, and division. All complex operations are done by making repetitive use of the above operations.
-Logic Section: perform logic operations such as comparing, selecting, matching, and merging of data.
-
 Concurrency vs Parallelism
 Concurrency : multiple processes or threads are making progress concurrently. While only one thread 
 is executed at a time by the CPU, these threads can be switched in and out as required.
@@ -90,3 +80,6 @@ At any point of time, only one thread can work with the entire buffer.
 Using Semaphore:
 A semaphore is a generalized mutex. In lieu of single buffer, we can split the 4 KB buffer into four 1 KB buffers (identical resources).
 A semaphore can be associated with these four buffers. The consumer and producer can work on different buffers at the same time.
+
+//LINUX vs UNIX
+https://www.guru99.com/difference-unix-vs-linux.html

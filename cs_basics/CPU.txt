@@ -1,0 +1,39 @@
+
+How Computers Work: The CPU and Memory
+https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm
+CPU itself has following three components.
+1)Memory or Storage Unit -
+This unit can store instructions, data, and intermediate results. This unit supplies information to other units of the computer
+ when needed. It is also known as internal storage unit or the main memory or the primary storage or Random Access Memory (RAM).
+/payroll program uses all three types of storage - Suppose the program calculates the salary of an employee. 
+The data representing the hours worked and the data for the rate of pay are ready in their respective registers.
+Other data related to the salary calculation-overtime hours, bonuses, deductions, and so forth-is waiting nearby in memory. 
+The data for other employees is available in secondary storage. As the CPU finishes calculations about one employee,
+the data about the next employee is brought from secondary storage into memory and eventually into the registers.
+2)Control Unit - 
+the control unit does not execute program instructions; rather, it directs other parts of the system to do so. 
+The control unit communicates b/w arithmetic/logic unit and memory, input device and memory
+Registers are temporary storage areas for instructions or data. They are not a part of memory; rather they are special additional 
+storage locations that offer the advantage of speed. Registers work under the direction of the control unit
+Computers usually assign special roles to certain registers, including these registers:
+An accumulator, which collects the result of computations.
+An address register, which keeps track of where a given instruction or piece of data is stored in memory. Each storage location in memory is identified by an address, just as each house on a street has an address.
+A storage register, which temporarily holds data taken from or about to be sent to memory.
+A general-purpose register, which is used for several functions.
+3)ALU(Arithmetic Logic Unit) - consists of two subsections namely, 
+Arithmetic Section: perform arithmetic operations like addition, subtraction, multiplication, and division.
+All complex operations are done by making repetitive use of the above operations.
+Logic Section: perform logic operations such as comparing, selecting, matching, and merging of data.
+
+
+//How the CPU Executes Program Instructions - In fact, most computers today can execute only one instruction at a time, though they execute it very quickly. 
+The Machine Cycle:
+Before an instruction can be executed, program instructions and data must be placed into memory from an input device or a 
+secondary storage device (the process is further complicated by the fact that, as we noted earlier, the data will probably 
+make a temporary stop in a register). once the necessary data and instruction are in memory, CPU performs the following 4 steps for each instruction:
+The control unit fetches (gets) the instruction from memory.
+The control unit decodes the instruction (decides what it means) and directs that the necessary data be moved from memory to the arithmetic/logic unit. These first two steps together are called instruction time, or I-time.
+The arithmetic/logic unit executes the arithmetic or logical instruction. That is, the ALU is given control and performs the actual operation on the data.
+Thc arithmetic/logic unit stores the result of this operation in memory or in a register. Steps 3 and 4 together are called execution time, or E-time.
+
+The control unit eventually directs memory to release the result to an output device or a secondary storage device. The combination of I-time and E-time is called the machine cycle.

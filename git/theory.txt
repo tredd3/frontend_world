@@ -2,3 +2,9 @@
 2)git init 
 3)git add .
 4)git commit -m "project push"
+
+https://medium.com/osedea/git-rebase-powerful-command-507bbac4a234
+
+first checkout a branch and then run the rebase command with the name of the branch you wish to rebase on to:
+git checkout feature
+git rebase develop/master (provided ur feature branch is cut out from it)

@@ -25,6 +25,14 @@ You have to speed up the Python application by making changes to the application
 //working of python - both compiled and interpreted
 python source code - compiler - python byte code - python virtual machine(interpreter/software) - interpreted to machine dependent code
  
+//python 
+/python -c command [arg] - which executes the statement(s) in command - quote command in its entirety with single quotes.
+Some Python modules are also useful as scripts. These can be invoked using python -m module [arg] 
+which executes the source file for module as if you had spelled out its full name on the command line.
+When a script file is used, it is sometimes useful to be able to run the script and enter interactive mode afterwards. This can be done by passing -i before the script.
+/When known to the interpreter, the script name and additional arguments thereafter are turned into a list of strings and assigned to the argv variable in the sys module.
+import sys. The length of the list is at least one; acces using sys.argv[i] 
+/Source Code Encoding -UTF 8, standard library only uses ASCII characters
 
 //implementations
 python - defines set of rules 

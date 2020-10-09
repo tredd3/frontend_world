@@ -2,6 +2,13 @@
 there are around 65535 ports. each port has a incoming and outgoing queue of messages
 certain ports are reserved for services like http, ftp etc
 each application runs on a single port
+/Input/output
+Inputs are the signals or data received by the system and outputs are the signals or data sent from it. 
+For instance, a keyboard or computer mouse is an input device for a computer, while monitors and printers are output devices
+Devices for communication between computers, such as modems and network cards, typically perform both input and output operations.
+**Any transfer of information to or from the CPU/memory combo, for example by reading data from a disk drive, is considered I/O
+https://en.wikipedia.org/wiki/Input/output
+
 
 //http vs https
 HTTP provides standard rules for web browsers & servers to communicate.
