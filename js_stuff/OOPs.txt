@@ -3,14 +3,16 @@ oops supporting languages can be class based or prototype based
 concepts:
 //encapsulation - binds together the data and functions that manipulate the data
 
-
 //abstraction - hide implementation by having public and private methods/properties
 implement interfaces
 
 //inheritance - code reusability
 
+//polymorphism - same method behaves differently in different objects
+overloading - compile time polymorphism
+overriding - runtime polymorphism
+https://www.programcreek.com/2009/02/overriding-and-overloading-in-java-with-examples/#:~:text=Overloading%20occurs%20when%20two%20or,(i.e.%2C%20method%20signature).
 
-//polymorphism - same method behaves differently in different objects | eliminate switch and 
 
 //SOLID principles
 https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
