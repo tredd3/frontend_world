@@ -6,11 +6,17 @@ https://codewithmosh.com/p/the-complete-node-js-course
 //NODE JS - running js outside browser environment
 node is a C++ program which includes V8 (Chrome JavaScript engine)
 event-driven, non-blocking I/O model that makes it lightweight and efficient
+I/O - interaction with the system's disk and network (including database and hardware access)
+in simple words anything which goes outside of the process(RAM) and CPU combination is referred to I/O
+to handle I/O u need to make system calls
 perfect for data-intensive real-time applications that run across distributed devices
 Node.js frameworks -  express, sails
-Asynchronous	- code that not running at same time or with same speed
 Package - bunch of modules
 Socket.io is  web socket library 
+Blocking - Node.js process must wait until a non-JavaScript operation completes
+but JavaScript that exhibits poor performance due to being CPU intensive code is not referred as blocking
+Blocking methods execute synchronously and non-blocking methods execute asynchronously.
+Asynchronous execution - code that not running at same time or with same speed
 https://www.sitepoint.com/build-a-simple-web-server-with-node-js/
 used in projects : real time(chat, live updates), scalable, data intensive, REST API(microservice)
 not to be used in projects: cpu intensive
