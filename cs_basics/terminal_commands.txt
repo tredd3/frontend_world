@@ -23,6 +23,7 @@ whatis <command> //e.g whatis cal
 man <command>
 
 pwd - print working directory
+file <file/directory name>  //tells u what type of file it is
 ls -a  //list all the files/folders in the current directory including hidden files
 ls -l //to check permisssions drwx (directory/read/write/execute)
 ls <absolute/relative path>
@@ -30,7 +31,6 @@ cd / //go to file ststem root
 cd or cd ~ // go to home directory from anywhere in the file system
 pushd <path> //to go to any directory temporarily from the current working directory
 popd   //to go back to the previous working directory
-file <file/directory name>  //tells u what type of file it is
 cal  //prints the calendar in the terminal
 mkdir	//Make Directory/create a new directory
 touch	//create a new file

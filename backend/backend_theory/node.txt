@@ -18,7 +18,7 @@ but JavaScript that exhibits poor performance due to being CPU intensive code is
 Blocking methods execute synchronously and non-blocking methods execute asynchronously.
 Asynchronous execution - code that not running at same time or with same speed
 https://www.sitepoint.com/build-a-simple-web-server-with-node-js/
-used in projects : real time(chat, live updates), scalable, data intensive, REST API(microservice)
+used in projects : real time(chat, live updates), scalable, I/O intensive, REST API(microservice)
 not to be used in projects: cpu intensive
 
 
@@ -55,3 +55,16 @@ the current operation in stack completes, regardless of the current phase of the
 all callbacks passed to process.nextTick() will be resolved before the event loop continues.
 /The main advantage to using setImmediate() over setTimeout() is setImmediate() will always be executed
  before any timers if scheduled within an I/O cycle, independently of how many timers are present.
+
+
+********* working of node ***********
+/A Node.js app is run in a single process, without creating a new thread for every request.
+/When Node.js performs an I/O operation, like reading from the network, accessing a database or the filesystem, 
+instead of blocking the thread and wasting CPU cycles waiting, Node.js will resume the operations when the response comes back.
+/This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing 
+thread concurrency, which could be a significant source of bugs.
+/features node can be used for: http server, server side rendering, APIs, real time stuff like web sockets
+
+/you can also enable specific ES6 experimental features by running Node.js with flags.
+/JavaScript is generally considered an interpreted language, but modern JavaScript engines no longer just interpret JavaScript, they compile it.
+/JavaScript is internally compiled by V8 with just-in-time (JIT) compilation to speed up the execution.
