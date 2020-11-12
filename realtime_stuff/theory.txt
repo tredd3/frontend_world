@@ -1,0 +1,23 @@
+//real-time system
+if it can guarantee that the reaction will be within a tight real-world deadline, usually in a matter of seconds or milliseconds.
+examples : stock market is the best example, ATMs
+
+//Batch Processing
+Batch data processing is an extremely efficient way to process large amounts of data that is collected over a period of time. 
+It also helps to reduce the operational costs that businesses might spend on labor as it doesn’t require specialized data entry 
+clerks to support its functioning. It can be used offline and gives managers complete control as to when to start the processing,
+ whether it be overnight or at the end of a week or pay period.
+
+//Stream Processing
+This method of continuous computation happens as data flows through the system with no compulsory time limitations on the output.
+ With the almost instant flow, systems do not require large amounts of data to be stored.
+examples: fraud detection and cybersecurity. 
+If transaction data is stream-processed,  fraudulent transactions can be identified and stopped before they are even complete.
+
+
+websocket vs stomp
+https://stackoverflow.com/questions/40988030/what-is-the-difference-between-websocket-and-stomp-protocols
+
+//rabbit mq vs kafka
+https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793 - implementation
+https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41 - differences and use cases

@@ -40,7 +40,8 @@ Consistent Hashing maps servers to the key space and assigns requests to the nex
 M hash fns and N servers - servers are placed at N*M points
 2 principles allowed by Consistent Hashing - fault tolerance(removing servers), scalability (adding servers)
 cloud - large computing 
-kafka - messaging queue - large real time data is split into multiple buckets and then passed into UI after
+https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793
+kafka - distributed messaging platform - large real time data is split into multiple buckets and then passed into UI after
 some time which avaoids flickering and http querying overhead at the UI end.
 polling - using background thread for making request after every x sec to get new data like feed/ 
 to tell if a person is online or not 
