@@ -41,8 +41,9 @@ M hash fns and N servers - servers are placed at N*M points
 2 principles allowed by Consistent Hashing - fault tolerance(removing servers), scalability (adding servers)
 cloud - large computing 
 https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793
-kafka - distributed messaging platform - large real time data is split into multiple buckets and then passed into UI after
-some time which avaoids flickering and http querying overhead at the UI end.
+kafka - distributed messaging platform - pub/sub model -large real time data is split into multiple buckets and then passed
+into UI aftersome time which avoids flickering and http querying overhead at the UI end.
+uses: real time recommendations/suggestions/uber uses it to calculate surge pricing by getting user,taxi and trip data real-time 
 polling - using background thread for making request after every x sec to get new data like feed/ 
 to tell if a person is online or not 
 long polling - make a request and keep connection open until new data comes 

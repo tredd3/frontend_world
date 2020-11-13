@@ -1,1 +1,12 @@
 https://codeforgeek.com/real-time-app-socket-io/
+
+https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/
+
+//build performant UI to handle large real time streaming data
+web sockets - real time data
+web workers - only web socket events are processed inside workers
+main UI thread is now free for user events , rendering and other stuff
+batch update - update react state for say 6 messages instead of single message update (code in shouldcomponentUpdate method)
+Throttling allows you to set the maximum number of messages that can be processed by a worker process/server in a given time frame
+https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html
+react async rendering - time slicing + suspense (adapts to user's device and network)

@@ -1,4 +1,4 @@
-//real-time system
+//real-time system - low latency say instantly/few milli seconds
 if it can guarantee that the reaction will be within a tight real-world deadline, usually in a matter of seconds or milliseconds.
 examples : stock market is the best example, ATMs
 
@@ -21,3 +21,7 @@ https://stackoverflow.com/questions/40988030/what-is-the-difference-between-webs
 //rabbit mq vs kafka
 https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793 - implementation
 https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41 - differences and use cases
+
+https://www.youtube.com/watch?v=PzPXRmVHMxI&ab_channel=StephaneMaarek - kafka tutorial
+https://www.youtube.com/watch?v=udnX21__SuU&ab_channel=LearningJournal - kafka tutorial 1
+

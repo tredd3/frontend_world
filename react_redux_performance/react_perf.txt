@@ -1,2 +1,27 @@
 https://www.codementor.io/blog/react-optimization-5wiwjnf9hj
 
+
+//react async rendering - time slicing + suspense (adapts to user's device and network)
+1)time slicing(to handle less cpu power devices): high-priority updates like user interactions don’t get blocked by a low-priority
+component update/rendering.implemented using requestIdleCallback
+for low priority update - only final rendered state/UI is displayed instead of slowly showing the UI in bits and pieces
+//comparing it with git single branch(sync update) and git rebase(async update)
+synchronous update: checkout master(DOM) and apply low priority update on it. when high priority update(user interaction) comes
+since there is only branch react has to finish the low priority update and then it applies high priority update.
+there is no way react can pause the low priority update, apply high priority update and then resume low priority update.
+asynchronous update: u have two branches master(DOM) and feature branch(VIRTUAL DOM) cut from master, now low priority updates 
+are applied on feature branch, high priority update goes to master. later feature branch is rebased with master and then
+merged in to master once the low priority update is done
+https://developers.google.com/web/updates/2015/08/using-requestidlecallback
+requestIdleCallback will schedule work when there is free time at the end of a frame, or when the user is inactive. 
+This means that there’s an opportunity to do your work without getting in the user’s way. 
+requestIdleCallback(callback) - non-essential/less-important callback  will be scheduled by browser whenever there is free time at the end of a frame, or in periods where the user is inactive.
+e.g: analytics data
+changing the DOM in particular will have unpredictable execution times, since it will trigger style calculations, layout, painting,
+and compositing. As such you should only make DOM changes in a requestAnimationFrame callback
+The window.requestAnimationFrame() method tells the browser that you wish to perform an animation and requests that 
+the browser calls a specified function to update an animation before the next repaint.
+The best practice is to only make DOM changes inside of a requestAnimationFrame callback, since it is scheduled by the browser with that type of work in mind
+2)suspen(to handle network speeds/IO) - suspend component rendering while they load async data. You can pause any state update until the data is ready
+on faster network - render after whole tree is ready (eliminating the show and hide hassle of spinners)
+on slower network - u can control which spinners to show
