@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=NQP89ish9t8&feature=youtu.be&ab_channel=freeCodeCamp.org
+
+steps:
+1)build a website - own code/online website builders with templates (like wordpress)
+2)buy a doman (go daddy, domains.google)
+3)host ur website (free - gitub pages, paid - go daddy, dreamhost, hostgator, bluehost)
+hosting - putting static folder containing website files on a machine that is internet connected
+and is switched on 24*7 without power supply interruption
+build - new feature is developed and build/static folder is created
+deployment - then the static folder is deployed to host server using FTP client like filezilla
+or go to the control panel>file manager and upload ur static folder
+4)connect hosting provider with domain name
+map name servers(hosting server name) with domain names
+or update DNS if u r hosting using github pages (so that if u hit ur website 
+name it will be forwarded to github pages url) 
+
+
+//how to find ip given the domain name 
+in the terminal type:
+ping <website_name>
+
+
+//steps: github pages hosting
+create repo with url /<username>.github.io
+upload ur static folder in the repo
+hit https://<github_url> in the browser - website is shown
+settings> custom domain name - enter ur own domain name
+update DNS settings of your domain name to map github pages url

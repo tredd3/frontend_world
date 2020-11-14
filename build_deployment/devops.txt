@@ -1,0 +1,11 @@
+
+DEVOPS stages:
+1.Version control - source code management	
+2.Continous Integration(CI) (Dev mode)- creating a build - after compiling, code review, unit testing(testing each part), integration testing(testing all parts together)
+Since everything is automated in devops it is called continuous
+JENKINS Is used here
+3.Continous Delivery (QA mode)- deploying the build to test servers for UAT
+4.Continous Deployment (customer mode) - deploying the build to prod servers
+Docker is used here 
+Docker image consists of all the project code
+Docker container replicates production environment where we can deploy our code and test

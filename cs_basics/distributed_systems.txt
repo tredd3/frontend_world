@@ -13,13 +13,14 @@ Three-tier: architectures that move the client intelligence to a middle tier so 
 n-tier: architectures that refer typically to web applications which further forward their requests to other enterprise services. This type of application is the one most responsible for the success of application servers.
 Peer-to-peer: all responsibilities are uniformly divided among all machines, known as peers. Peers can serve both as clients and as servers.
 
+//middlewares
+extensively used with distributed systems to facilitate hassle free communication b/w hosts
+e.g: messaging middlewares, kafka (distributed Streaming platform)
 
 //message passing among systems
-**RPC is a request–response protocol | form of inter-process communication (IPC), in that different processes have different address spaces
+1)RPC is a request–response protocol | form of inter-process communication (IPC), in that different processes have different address spaces
 synchronous(waits for server response) | tightley coupled components
-
-
-**Message-oriented middleware (MOM)/Enterprise messaging system 
+2)Message-oriented middleware (MOM)/Enterprise messaging system 
 The middleware creates a distributed communications layer that insulates the application developer from the details of the various operating systems and network interfaces.
 This middleware layer allows software components that have been developed independently and that run on different networked platforms to interact with one another. 
 async (message queues) | messages routing | transformation of messages before sending | loosely coupled
