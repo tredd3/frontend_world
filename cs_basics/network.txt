@@ -8,7 +8,14 @@ For instance, a keyboard or computer mouse is an input device for a computer, wh
 Devices for communication between computers, such as modems and network cards, typically perform both input and output operations.
 **Any transfer of information to or from the CPU/memory combo, for example by reading data from a disk drive, is considered I/O
 https://en.wikipedia.org/wiki/Input/output
-
+IP address = network identifier + host indentifier
+i.e, it is the address of a machine that is connected to the internet
+subnet - logical subdivision of an IP network into two or more networks is called subnetting.
+The Dynamic Host Configuration Protocol(DHCP) is a network management protocol used on Internet Protocol networks, whereby a 
+DHCP server dynamically assigns an IP address and other network configuration parameters to each device on the network, 
+so they can communicate with other IP networks
+ A DHCP server enables computers to request IP addresses and networking parameters automatically from the Internet service provider (ISP), 
+ reducing the need for a network administrator or a user to manually assign IP addresses to all network devices
 
 //http vs https
 HTTP provides standard rules for web browsers & servers to communicate.
@@ -49,6 +56,7 @@ path determination - uses the shortest path detemination protocols
 D - data link - data unit in this layer is called frame. head consisits of souce and destination MAC address and tail is used for errors
 media access control - this layer keeps an eye on shared media(ethernet/wifi) and once it is free it provides access to media to higher layers of OSI
 physical addressing (mac address present in NIC)
+Network interface controller(NIC) is a computer hardware component that connects a computer to a computer network
 P - physical - Binary data is converted into signals depending on the media (electrical signals for LAN, radio waves for wifi, light waves for optical fiber)
 
 

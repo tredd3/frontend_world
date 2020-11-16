@@ -6,3 +6,52 @@ remote-IP, remote-port, protocol). If any element in the tuple is different, the
 3) When a client connects to a server, it picks a random, unused high-order source port. 
 This way, a single client can have up to ~64k connections to the server for the same destination port.
 
+
+//0.0.0.0 (standard way to say ‘no particular address’) - it has a special meaning depending on the context
+/In IPv4 context, the address 0.0.0.0 is a non-routable meta-address used to designate an invalid, unknown or non-applicable target.
+/A way to route request to a nonexistent target instead of the original target. Often used for adblocking purposes.
+/In the context of servers, 0.0.0.0 can mean "all IPv4 addresses on the local machine". If a host has two IP addresses, 
+192.168.1.1 and 10.1.2.1, and a server running on the host is configured to listen on 0.0.0.0, it will be reachable at
+both of those IP addresses.
+note: u can have multiple ips for a single NIC, but it is recommended that no.of ip addresses assigned to a host should be
+equal to the no.of NIC cards present in that machine.
+/In the context of routing, 0.0.0.0 usually means the default route, i.e. the route which leads to ‘the rest of’ the Internet 
+instead of somewhere on the local network.
+/In routing tables
+ 0.0.0.0 can also appear in the gateway column. This indicates that the gateway to reach the corresponding destination subnet 
+ is unspecified. This generally means that no intermediate routing hops are necessary because the system is directly connected 
+ to the destination
+ /In IPv6, the all-zeros address is typically represented by "::", which is the short notation of 0000:0000:0000:0000:0000:0000:0000:0000.
+  The IPv6 variant serves the same purpose as its IPv4 counterpart.\\
+
+
+// 127.0.0.1 (loopback IP address, also known as localhost)
+/The address is used to establish an IP connection to the same machine which the user currently uses.
+The primary difference is that the connection avoids using the local network interface hardware.
+System administrators and application developers commonly use 127.0.0.1 to test applications.
+/ Special Addresses:
+
+      In certain contexts, it is useful to have fixed addresses with
+      functional significance rather than as identifiers of specific
+      hosts.
+
+         The address zero is to be interpreted as meaning "this", as in
+         "this network".
+
+            For example, the address 0.0.0.37 could be interpreted as
+            meaning host 37 on this network.
+
+         The address of all ones are to be interpreted as meaning "all",
+         as in "all hosts".
+
+            For example, the address 128.9.255.255 could be interpreted
+            as meaning all hosts on the network 128.9.
+
+         The class A network number 127 is assigned the "loopback"
+         function, that is, a datagram sent by a higher level protocol(from OSI model)
+         to a network 127 address should loop back inside the host.  No
+         datagram "sent" to a network 127 address should ever appear on
+         any network anywhere.
+
+
+
