@@ -42,6 +42,7 @@ popd   //to go back to the previous working directory
 cal  //prints the calendar in the terminal
 mkdir	//Make Directory/create a new directory
 touch	//create a new file
+source //read and execute statements in a file
 cat	  //Concatenate	view the contents of a file
 less instead of cat //to view the contents of a large file 
 nano <file_name> //to open the file in command line editor

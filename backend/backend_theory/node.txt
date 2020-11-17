@@ -68,3 +68,9 @@ thread concurrency, which could be a significant source of bugs.
 /you can also enable specific ES6 experimental features by running Node.js with flags.
 /JavaScript is generally considered an interpreted language, but modern JavaScript engines no longer just interpret JavaScript, they compile it.
 /JavaScript is internally compiled by V8 with just-in-time (JIT) compilation to speed up the execution.
+
+
+******* node debugging *********
+https://nodejs.org/en/docs/guides/debugging-getting-started/
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
