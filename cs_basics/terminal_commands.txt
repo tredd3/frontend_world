@@ -10,7 +10,15 @@ run command echo $0 to know which language is used in the terminal
 https://www.tecmint.com/linux-curl-command-examples/
 curl command: to transfer data to or from a server, using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP or FILE).
 SSH: for establishing a secure channel connection to a server in a unsecured network for data tranfer.
-in mac  it is inbuilt but in windows u need to install a software
+in mac  it is inbuilt but in windows u need to install a software like putty(ssh client)
+/SSH Port Forwarding/SSH Tunneling:
+Local forwarding: SSH client listens for connections on a configured port, and when it receives a connection, it tunnels the connection to an SSH server. 
+e.g: Tunneling sessions and file transfers through jump servers
+Remote Forwarding: SSH server forwards the connection to SSH client
+e.g: exposing an internal web application to the public Internet
+/jump server is a system on a network used to access and manage devices in a separate security zone like DMZ zone.
+The jump server acts as a single audit point for traffic and also a single place where user accounts can be managed
+make an SSH connection from the administrator's personal computer to the jump server and then use SSH forwarding to access the target machine.
 
 grep command is used to search for text strings or regular expressions within one or more files.
 The basic syntax of grep is:

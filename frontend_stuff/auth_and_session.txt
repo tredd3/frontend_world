@@ -81,5 +81,9 @@ Kerberos has three parts: a client, server, and trusted third party (KDC) to med
 Clients obtain tickets from the Kerberos Key Distribution Center (KDC), and they present these tickets
  to servers when connections are established. Kerberos tickets represent the client's credentials
 
+//firewall(protection b/w networks) vs kerberos(protection b/w networks and also within the network)
+firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined 
+security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+
 
 //Passport is authentication middleware for Node.js.
