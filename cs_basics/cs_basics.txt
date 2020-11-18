@@ -77,7 +77,24 @@ a package like dotenv is required to enable it. For the record, both frontend an
 In the case of Create React App, there is no need to call dotenv.config() since node_modules/react-scripts/config/env.js 
 automatically populates process.env with the contents of the .env file
 3)using webpack:
-Although webpack implements support for using environment variables it’s as an option of the webpack command. For example,
-webpack --env.NODE_ENV=local
+Although webpack implements support for using environment variables it’s as an option of the webpack command.
+ For example webpack --env.NODE_ENV=local
 they are referenced in webpack configuration files (e.g., webpack.config.js) as env. suffixed by the environment variable name. For example, console.log(env.NODE_ENV)
 webpack configuration files may also reference environment variables defined by the operating system using process.env just like any other Javascript module
+
+//more on env variables 
+Environment variables are variables that are available system-wide and are inherited by all spawned child processes and shells.
+Shell variables are variables that apply only to the current shell instance. Each shell such as zsh and bash, has its own set of internal shell variables.
+https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/
+printenv – The command prints all or the specified environment variables.
+set – The command sets or unsets shell variables. When used without an argument it will print a list of all variables including environment and shell variables, and shell functions.
+unset – The command deletes shell and environment variables.
+export – The command sets environment variables.
+You can also use the echo command to print a shell variable. For example, to print the value of the BASH_VERSION variable you would run:
+echo $BASH_VERSION
+e.g:
+MY_VAR='Linuxize'  //shell variabe
+echo $MY_VAR   //print the shell variable
+export MY_VAR   //export the shell variable as an environment variable
+printenv MY_VAR   //print the env variable
+export MY_NEW_VAR="My New Var"  //set environment variables in a single line:
