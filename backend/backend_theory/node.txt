@@ -80,3 +80,8 @@ ndb has some powerful features exclusively for Node.js:
 2)You can place breakpoints before the modules are required.
 3)You can edit your files within the UI. On Ctrl-S/Cmd-S, DevTools will save the changes to disk.
 4)By default, ndb blackboxes all scripts outside current working directory to improve focus.
+
+//using ndb
+1)cd to your project folder (with a package.json)
+example cd in to projects/nodejs_crash_course 
+now run (npm run debug)

@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
-    "debug": "ndb index"
+    "profile": "ndb --prof npm run start",
+    "debug": "ndb ."
   },
   "author": "Tarak",
   "license": "ISC",
