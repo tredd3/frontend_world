@@ -73,4 +73,10 @@ thread concurrency, which could be a significant source of bugs.
 ******* node debugging *********
 https://nodejs.org/en/docs/guides/debugging-getting-started/
 https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+https://github.com/GoogleChromeLabs/ndb
 
+ndb has some powerful features exclusively for Node.js:
+1)Child processes are detected and attached to.
+2)You can place breakpoints before the modules are required.
+3)You can edit your files within the UI. On Ctrl-S/Cmd-S, DevTools will save the changes to disk.
+4)By default, ndb blackboxes all scripts outside current working directory to improve focus.

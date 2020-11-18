@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "debug": "ndb index"
   },
   "author": "Tarak",
   "license": "ISC",
@@ -13,6 +14,7 @@
     "uuid": "^8.2.0"
   },
   "devDependencies": {
+    "ndb": "^1.1.5",
     "nodemon": "^2.0.4"
   }
 }

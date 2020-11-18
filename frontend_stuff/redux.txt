@@ -90,4 +90,5 @@ memoise the computation on data from store
 //immutable.js with redux
 https://redux.js.org/recipes/using-immutablejs-with-redux#what-are-some-opinionated-best-practices-for-using-immutablejs-with-redux
 
-//
+//using redux in server side - Redux's only job on the server side is to provide the initial state of our app.
+https://redux.js.org/recipes/server-rendering
