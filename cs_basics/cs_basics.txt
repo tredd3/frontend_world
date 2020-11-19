@@ -89,7 +89,7 @@ https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/
 printenv – The command prints all or the specified environment variables.
 set – The command sets or unsets shell variables. When used without an argument it will print a list of all variables including environment and shell variables, and shell functions.
 unset – The command deletes shell and environment variables.
-export – The command sets environment variables.
+export – The command sets environment variables temporarily for a given session.
 You can also use the echo command to print a shell variable. For example, to print the value of the BASH_VERSION variable you would run:
 echo $BASH_VERSION
 e.g:

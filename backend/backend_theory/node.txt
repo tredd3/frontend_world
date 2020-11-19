@@ -3,6 +3,30 @@ https://www.youtube.com/watch?v=TlB_eWDSMt4
 https://codewithmosh.com/p/the-complete-node-js-course
 
 
+//All about npm
+module - js file which consists of code that can be used in multiple files
+package - directory/folder which consists of modules
+traditional ways of downloading packages/modules - cdn links in a script tag, or download the file and use it from file system
+problem: when ur applications grows in size managing them becomes a problem
+1)CDN - if CDN server crashes ur app crashes
+2)script order - if package B depends on package A and if package B is loaded first then ur app crashes
+3)versioning - if a new version of a package is released u need to manually change it for all the packages
+solution: NPM, which is a package manager for node
+NPM = registry(packages are hosted) + CLI (access and publish packages)
+//install a package
+if u do npm install <package_name> - downloads the given package and puts it in node_modules folder
+also adds package_name as a dependency in package.json
+//publish a package - npm login(u need to have an account) and npm publish
+package is a folder with package.json file in it with name, version and main(entry point for package)
+//decoding package version  
+x.y.z - x(major/breaking changes) | y(minor/new changes) | z(patch/bug fixes)
+1)^x.y.z - get newest version for the same major x
+e.g we have ^15.0.2 in package.json and in the npm registry available packages are 15.1.2, 15.2.0 and 16.0.0
+then 15.2.0 is installed when u type npm install
+2)~x.y.z - get newest version for the same major x and same minor y
+3)x.y.z - get the exact version
+
+
 //NODE JS - running js outside browser environment
 node is a C++ program which includes V8 (Chrome JavaScript engine)
 event-driven, non-blocking I/O model that makes it lightweight and efficient
