@@ -27,16 +27,21 @@ vertically scalable, which means that you can increase the load on a single serv
 SQL databases follow ACID properties (Atomicity, Consistency, Isolation and Durability)
 SQL databases examples MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. 
 use case: complex queries, transaction data storage (accounting system), extensive delete and update operations
+analogy: automated car(complexity part handled by SQL itself)
+
 
 *NoSQL databases : 
 dynamic schemas 
-unstructured data 
+unstructured data (each document inside a collection can have )
 store data in document-based, key-value pairs, graph databases or wide-column stores.
 horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database.
 NoSQL database follows the Brewers CAP theorem (Consistency, Availability and Partition tolerance).
 NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra and CouchDB
 use case: large or ever-changing data sets(analytics data), hierarchical data storage, extensive insertion
 and read operations
+analogy: manual car(all the complexity part we need to handle) hence we use libraries/wrappers
+like mongoose to handle that complexity
+
 
 //in-memory database - fast manipulaion, updation
 An in-memory database(Redis) is a database management system that primarily relies on main memory for 
