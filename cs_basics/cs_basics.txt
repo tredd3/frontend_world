@@ -84,17 +84,39 @@ webpack configuration files may also reference environment variables defined by 
 
 //more on env variables 
 Environment variables are variables that are available system-wide and are inherited by all spawned child processes and shells.
-Shell variables are variables that apply only to the current shell instance. Each shell such as zsh and bash, has its own set of internal shell variables.
+Shell variables are variables that apply ONLY to the current shell instance. Each shell such as zsh and bash, has its own set of internal shell variables.
 https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/
 printenv – The command prints all or the specified environment variables.
-set – The command sets or unsets shell variables. When used without an argument it will print a list of all variables including environment and shell variables, and shell functions.
+set – The command sets or unsets shell variables. 
+When used without an argument it will print a list of all variables including environment and shell variables, and shell functions.
+set | less - The command will display a large list of all variables so you probably want to pipe the output to the less command.
 unset – The command deletes shell and environment variables.
-export – The command sets environment variables temporarily for a given session.
-You can also use the echo command to print a shell variable. For example, to print the value of the BASH_VERSION variable you would run:
-echo $BASH_VERSION
+export – The command sets environment variables temporarily for the current session. If you open a new shell or if you log out all variables will be lost.
+To make Environment variables persistent you need to define those variables in the bash configuration files
+/etc/profile - Variables set in this file are loaded whenever a bash login shell is entered. When declaring environment variables in this file you need to use the export command:
+export JAVA_HOME="/path/to/java/home"
+export PATH=$PATH:$JAVA_HOME/bin
+
+Per-user shell specific configuration files(~/.bashrc)
+export PATH="$PATH:/additional_path:/additional_path"
+source ~/.bashrc (to load the environment variables in the login shell u need to explicitly call this file,
+ for interactive(non-login) shells it is automatically called)
+
 e.g:
 MY_VAR='Linuxize'  //shell variabe
 echo $MY_VAR   //print the shell variable
+bash -c 'echo $MY_VAR' //print the variable in a sub-shell and you will get an empty output.
 export MY_VAR   //export the shell variable as an environment variable
 printenv MY_VAR   //print the env variable
+bash -c 'echo $MY_VAR' //If you try to print the variable in a sub-shell this time you will get the variable name printed on your terminal:
 export MY_NEW_VAR="My New Var"  //set environment variables in a single line:
+
+
+//some of the most common environment variables:
+USER - The current logged in user.
+HOME - The home directory of the current user.
+EDITOR - The default file editor to be used. This is the editor that will be used when you type edit in your terminal.
+SHELL - The path of the current user’s shell, such as bash or zsh.
+LOGNAME - The name of the current user.
+PATH - A list of directories to be searched when executing commands. When you run a command the system will search those directories in this order and use the first found executable.
+set PATH variable in bash_profile in the following way

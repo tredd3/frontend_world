@@ -46,6 +46,14 @@ https://developer.mozilla.org/en-US/docs/Web/API/Blob
 which holds the field value, and a pointer to the record it relates to. This index structure is then sorted, allowing Binary Searches to be 
 performed on it.
 
+//file paths
+./   = current directory
+../  = the parent directory
+../../ = the parent's parent directory 
+~/   = the user's home directory
+Home directory which is /Users/<short username> (also referred to as ~)
+/    = the root directory
+
 
 //Understanding File Permissions
 Every file in linux is owned by somebody and others need permissions
