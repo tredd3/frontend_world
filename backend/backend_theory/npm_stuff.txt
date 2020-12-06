@@ -1,0 +1,179 @@
+
+
+//All about npm - https://docs.npmjs.com/about-npm
+module - js file which consists of code that can be used in multiple files
+package - directory/folder which consists of modules
+traditional ways of downloading packages/modules - cdn links in a script tag, or download the file and use it from file system
+problem: when ur applications grows in size managing them becomes a problem
+1)CDN - if CDN server crashes ur app crashes
+2)script order - if package B depends on package A and if package B is loaded first then ur app crashes
+3)versioning - if a new version of a package is released u need to manually change it for all the packages
+solution: NPM, which is a package manager for node
+NPM = registry(database of JavaScript packages) + CLI (access and publish packages)
+
+//packages and modules
+
+1)packages - directory that contains a package.json file 
+Packages can be unscoped or scoped to a user or organization, and scoped packages can be private or public
+A package is any of the following:
+a) A folder containing a program described by a package.json file.
+b) A gzipped tarball containing (a).
+c) A URL that resolves to (b).
+d) A <name>@<version> that is published on the registry
+e) A git url that, when cloned, results in (a)
+deprecated package - doesn't always mean the package or version is unusable;it means package will no longer be updated by the publisher. 
+
+2)modules - module is any file or directory in the node_modules directory that can be loaded by the Node.js require() function.
+To be loaded by the Node.js require() function, a module must be one of the following:
+A folder with a package.json file containing a "main" field.
+A JavaScript file.
+Note: Since modules are not required to have a package.json file, not all modules are packages. Only modules that have
+ a package.json file are also packages.
+
+//Scopes and package visibility
+*Unscoped packages are always public.
+Unscoped public packages exist in the global public registry namespace and can be referenced in a package.json file with the package name alone: package-name.
+*Private packages are always scoped and Scoped packages are private by default; you must pass a command-line flag when publishing to make them public.
+Scoped public packages belong to a user or organization and must be preceded by the user or organization name when included as a dependency in a package.json file:
+@username/package-name
+@org-name/package-name
+
+//install a package - default behaviour is to install locally and not globally
+https://docs.npmjs.com/cli/v6/commands/npm-install
+if u do npm install <package_name> :
+1)This will create the node_modules directory in your current directory (if one doesn't exist yet) and will download the  package to that directory
+2)it also adds package_name as a dependency in package.json
+If there is a package.json file in the directory in which npm install is run, npm installs the latest version of the package that satisfies the semantic versioning rule declared in package.json.
+If there is no package.json file, the latest version of the package is installed.
+3)When executables are installed via npm packages, npm creates links to them:
+local installs have links created at the ./node_modules/.bin/ directory
+global installs have links created from the global bin/ directory (for example: /usr/local/bin)
+
+npm i <package_name> or npm i -S <package_name> //save a dependency as a runtime dependency, e.g: React, Redux, Express, and Axios.
+By default, npm install <pkg> (without any @<version> or @<tag> specifier) installs the latest tag.
+npm install <name>@<tag> //A tag can be used when installing packages as a reference to a version instead of using a specific version number
+npm i -D //save a dependency as a devDependency
+npm i -g <package_name>@x.y.z //install dependency globally and u can directly use the package_name in the terminal as
+npx <package_name> //run a package globally
+
+//NPX - node package runner
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
+Since npm version 5.2.0 npx is pre-bundled with npm. 
+It’s now very easy to run any sort of Node.js based executable program that you would normally install via npm.
+in the terminal: which npx - to see if it is already installed, if It’s not then npm install -g npx
+run a package: npx <command>/<github_dist>
+npx will check whether <command> exists in $PATH, or in the local project binaries(./node_modules/.bin/),
+ and execute that. If <command> is not found, it will be installed prior to execution.
+Also You can use npx to run any GitHub gists and repositories. Let’s focus on executing a GitHub gist because it’s easier to create one.
+npx https://gist.github.com/Tynael/0861d31ea17796c9a5b4a0162eb3c1e8 (Run code directly from GitHub without downloading it to disk)
+The most basic script consists of the main JS file and a package.json.
+
+//NVM - node version manager
+https://github.com/nvm-sh/nvm
+nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
+nvm install node // install latest release of node
+The first version installed becomes the default. New shells will start with the default version of node
+nvm install 6.14.4 // install a specific version of node in the shell
+nvm use node //in any new shell just use the installed version
+nvm ls-remote  // list available versions of node
+
+
+Please note that which nvm will not work, since nvm is a sourced shell function, not an executable binary.
+
+//publish a package - npm login(u need to have an account) and npm publish
+package is a folder with package.json file in it with name, version and main(entry point for package)
+
+//decoding package version  
+x.y.z - x(major/breaking changes) | y(minor/new changes) | z(patch/bug fixes)
+1)^x.y.z (Caret Dependencies) - get newest version for the same major x
+e.g we have ^15.0.2 in package.json and in the npm registry available packages are 15.1.2, 15.2.0 and 16.0.0
+then 15.2.0 is installed when u type npm install
+2)~x.y.z (Tilde Dependencies) - get newest version for the same major x and same minor y
+3)x.y.z - get the exact version
+
+//update packages
+npm install npm@latest -g //upgrading to the latest version of npm
+npm update // npm will check all local packages for a newer version that satisfies your versioning constraints.
+npm update <package-name> // updates a single package
+npm update -g //update all global packages
+npm update -g <package_name> //update a single global package
+
+//uninstall packages
+npm uninstall <package_name> //Removing a local package from your node_modules directory
+npm uninstall --save <package_name> //Removing a local package from the package.json dependencies
+npm uninstall --save-dev package_name // If you installed a package as a "devDependency" use --save-dev to uninstall it:
+npm uninstall -g <@scope/package_name> // uninstall a scoped global package
+
+//Running Tasks
+specifying command line tasks that can be run by using npm run <task-name>
+ {
+  "scripts": {
+    "watch": "webpack --watch --progress --colors --config webpack.conf.js",
+    "dev": "webpack --progress --colors --config webpack.conf.js",
+    "prod": "NODE_ENV=production webpack -p --config webpack.conf.js",
+  },
+}
+So instead of typing those long commands, which are easy to forget or mistype, 
+in the terminal you can run :npm run watch
+
+//resolving package-lock.json file conflicts
+manually fix any package.json conflicts, and then running npm install --package-lock-only
+
+//some useful cli commands
+npm bin //Print the folder where npm will install local executables.
+npm bin -g //Print the folder where npm will install global executables.
+npm bugs <pkg> //will open package's bug tracker URL in the browser
+npm cache clean --force //npm manages cache internally so should never be necessary to clear the cache for any reason other than reclaiming disk space, thus why clean now requires --force to run.
+npm ci //command is similar to npm install, except it's meant to be used in automated environments such as test platforms, continuous integration, and deployment
+  It can be significantly faster than a regular npm install by skipping certain user-oriented features. It is also more strict than a regular install
+  In short, the main differences between using npm install and npm ci are:
+  The project must have an existing package-lock.json or npm-shrinkwrap.json.
+  If dependencies in the package lock do not match those in package.json, npm ci will exit with an error, instead of updating the package lock.
+  npm ci can only install entire projects at a time: individual dependencies cannot be added with this command.
+  If a node_modules is already present, it will be automatically removed before npm ci begins its install.
+  It will never write to package.json or any of the package-locks: installs are essentially frozen.
+npm config list --json //npm gets its config settings from the command line, environment variables, npmrc files, and in some cases, the package.json file.
+npm deprecate <pkg>[@<version>] <message> //providing a deprecation warning to all who attempt to install it.
+npm dist-tag ls [<pkg>] //Show all of the dist-tags for a package
+npm doctor //npm doctor confirms that the npm installation is in a good state and if there are any recommended changes, it will display them.
+  Node.js and git must be executable by npm.
+  The primary npm registry, registry.npmjs.com, or another service that uses the registry API, is available.
+  The directories that npm uses, node_modules (both locally and globally), exist and can be written by the current user.
+  The npm cache exists, and the package tarballs within it aren't corrupt.
+npm hook add lodash https://example.com/ my-shared-secret //Hooks allow you to configure URL endpoints that will be notified whenever a change happens to any of the supported entity types(packages, owners, and scopes)
+npm init //adds a package.json file in the directory
+npm link //link packages to the current/working package so that any changes in the linked Packages will be reflected 
+npm owner ls [<@scope>/]<pkg> //List all the users who have access to modify a package and push new versions. Handy when you need to know who to bug for help.
+npm ping //Ping the configured or given npm registry and verify authentication
+npm root -g //prints global node_modules folder location
+npm run env //The env script is a special built-in command that can be used to list environment variables that will be available to the script at runtime. If an "env" command is defined in your package, it will take precedence over the built-in.
+npm run test -- --grep="pattern" --test="hey //npm will pass all the arguments after the -- directly to your script
+npm run start === npm start (provided start script exists)
+npm run stop === npm stop
+npm run test === npm test
+npm uninstall takes 3 exclusive, optional flags which save or update the package version in your main package.json:
+npm uninstall [<@scope>/]<pkg>[@<version>]... [-S|--save|-D|--save-dev|-O|--save-optional|--no-save]
+  -S, --save: Package will be removed from your dependencies.
+  -D, --save-dev: Package will be removed from your devDependencies.
+  -O, --save-optional: Package will be removed from your optionalDependencies.
+  --no-save: Package will not be removed from your package.json file.
+npm outdated <pkg> //check the registry to see if any (or, specific) installed packages are currently outdated.
+npm update [-g] [<pkg>] //npm update will change package.json to save the new version as the minimum required dependency. To get the old behavior, use npm update --no-save
+npm ls //to inspect current package/dependency versions
+npm view <pkg> [--json]// to know everything about a package
+
+
+//different kinds of dependencies:
+1)dependencies are always installed. Typically, something would break if a dependency was missing.
+ Examples: UI libraries like Bootstrap or frameworks like React. NPM recommends to not put test harnesses or transpilers in your dependencies object.
+2)devDependencies are typically packages that are used in development but not mandatory for the actual functionality of your project.
+ Examples: linters like ESLint and testing frameworks like Jest.
+3)peerDependencies are packages that are typically not installed automatically. In some cases, you want to express the compatibility of your package with another package without including it yourself.
+ NPM will warn you when you have missing peerDependencies. Example: the react-router package depends on React being installed.
+4)bundledDependencies are packages that will be bundled when publishing the package.
+5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency can be used, 
+but you would like npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
+Example:Let’s assume you have a web application, continuous integration and deployment, and a suite of end-to-end tests using Cypress. 
+Take a look at the following CI pipeline. It consists of four different parallel jobs (building, linting, unit testing, and end-to-end testing) 
+that all need to install the project dependencies as the first step. However, only one of them actually needs Cypress, yet we’re always installing all of the packages for each job.
+ When you want to avoid installing optional dependencies, you can execute npm ci --no-optional (e.g. on CI tools like GitLab CI).

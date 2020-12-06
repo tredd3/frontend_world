@@ -103,8 +103,9 @@ source ~/.bashrc (to load the environment variables in the login shell u need to
  for interactive(non-login) shells it is automatically called)
 
 e.g:
-MY_VAR='Linuxize'  //shell variabe
+MY_VAR='Linuxize'  //define a shell variabe
 echo $MY_VAR   //print the shell variable
+$MY_VAR //access a shell variable
 bash -c 'echo $MY_VAR' //print the variable in a sub-shell and you will get an empty output.
 export MY_VAR   //export the shell variable as an environment variable
 printenv MY_VAR   //print the env variable
@@ -118,5 +119,19 @@ HOME - The home directory of the current user.
 EDITOR - The default file editor to be used. This is the editor that will be used when you type edit in your terminal.
 SHELL - The path of the current user’s shell, such as bash or zsh.
 LOGNAME - The name of the current user.
-PATH - A list of directories to be searched when executing commands. When you run a command the system will search those directories in this order and use the first found executable.
-set PATH variable in bash_profile in the following way
+PATH - When you run a command in the terminal, the system will search/look for that command 
+in those list of directories in the given order mentioned in the environment variable, called $PATH and use the first found executable.
+/echo $PATH will return: /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+for example node,python,npm all these commands(executable programs) can be found in /usr/local/bin directory
+Even simple commands, like ls, mkdir, rm and others which are just small executable programs usually live inside a directory on your computer called /usr/bin.
+
+/set PATH variable in bash_profile in the following way:
+open bash_profile - vi ~/.bash_profile or (open ~/.bash_profile )
+if not created then - touch .bash_profile
+export PATH=$PATH:<file_path>:<file_path_1>
+example:
+an executable program can live practically anywhere on your computer: it doesn't have to be limited to one of these directories.
+Let's say you wrote a little shell script called hello.sh and have it located in a directory called /place/with/the/file. This script provides some useful 
+function and you'd like to be able to execute it from any directory.so instead of specificing the path of the script
+everytime you execute it you can Simply add /place/with/the/file to the $PATH variable with the following command:
+export PATH=$PATH:/place/with/the/file

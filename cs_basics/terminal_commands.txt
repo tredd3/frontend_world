@@ -81,6 +81,7 @@ more: https://www.linuxcloudvps.com/blog/83/
 whatis <command> //e.g whatis cal
 man <command>
 
+echo $0 - which shell is currently running like bash,zsh etc
 pwd - print working directory
 file <file/directory name>  //tells u what type of file it is
 ls -a  //list all the files/folders in the current directory including hidden files
@@ -95,7 +96,8 @@ mkdir	//Make Directory/create a new directory
 touch	//create a new file
 source //read and execute statements in a file
 cat	  //Concatenate	view the contents of a file
-less instead of cat //to view the contents of a large file 
+less instead of cat //to view the contents of a large file
+npm completion >> ~/.bashrc // >> will append the output of a command to a file
 nano <file_name> //to open the file in command line editor
 nano //to open command line editor
 echo "x" >	Echo	quickly print text to a file
