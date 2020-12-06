@@ -1,0 +1,72 @@
+setup: https://jscomplete.com/learn/1rd-reactful
+
+Techstack used in this project:
+1)React - for complete frontend (u can add redux and React-router etc for relevant functionalities) 
+react - for developing react ui components
+react-dom - render react components on both browser and server
+2)Express.js as a web and API server
+- you can use it to serve static content as well, but its better choose options like NGINX or a CDN service.
+3)Webpack - you’ll be writing your code in multiple modules (files) and it will depend on other modules (like React), you need a 
+module bundler to translate all these modules into something that can work in all browsers today
+4)Babel - webpack is just a generic module bundler. You need to configure it with loaders to transform code from one state into the
+ other. For example, you need to transform React’s JSX code into React’s API calls. The tool for that job is Babel. 
+ npm i babel-loader @babel/core @babel/node @babel/preset-env @babel/preset-react
+ The babel-loader package provides the Webpack loader (which you’ll need to configure). The other @babel-scoped libraries are needed to run the Babel configurations for Nodejs and Reactjs.
+install babel-cli so that u can use babel command to use/control the babel library from terminal(deployment)
+5)mogodb - install mongodb driver(npm i mongodb) to access mongodb from node
+
+
+Installing Development Dependencies - needed for development purposes
+1)Nodemon - When you run a Node server and then change the code of that server, you need to restart Node manually. Nodemon does it for you
+2)ESLint is a code quality tool and if you don’t use it, your code will not be as good as it could be.
+babel-eslint plugin: if you are using experimental features not supported in ESLint itself yet then use this plugin ou don't have to use it just because you are using Babel
+some of the syntax nodes that Babel supports aren't supported by ESLint. When using babel-eslint plugin, ESLint is monkeypatched and your code is transformed into code that ESLint can understand. 
+You should use the main recommended ESLint configurations in addition to those recommended for React projects.
+make your editor highlight any ESLint issues for you on save.
+your editor auto-format code for you on save as well using Prettier. 
+3)configure babel, eslint and webpack
+
+//Creating npm Scripts for Development
+https://github.com/babel/example-node-server
+"scripts": {
+    "build": "babel lib -d dist",
+    "start": "npm run build && nodemon dist/index.js",
++   "serve": "node dist/index.js"
+}
+
+//directory structure
+public - folder that will be hosted and served to browser| should contain index.html
+src - directory which contains source code | index.js being the entry point
+api - all our endpoint code | index.js being the entry point
+
+//installing and accessing modules (both globally and locally installed)
+1)globally installed
+installing - they get installed in a certain location and then the folder path is added to 
+PATH variable in the bash_profile file
+accessing - we can access directly using module name in the terminal like node,git etc
+
+2)locally installed
+i)npm installed modules(both runtime and dev dependency) or core node modules - by module name
+e.g:
+import 'React' //npm installed module
+const http = require("http") or import 'http' //node core module
+ii)your own modules - by relative file path 
+iii)dev dependency modules - access them in scprits via module name or via node_modules bin path
+"scripts": {
+    "start": "babel-node server.js",
+    "start_server": "./node_modules/.bin/babel-node server.js",
+}
+In the terminal: npm run start (using module name)
+In addition to the shell's pre-existing PATH, npm run adds node_modules/.bin to the PATH provided to scripts
+In the terminal: npm run start_server (using module path)
+
+/if u want to access them directly in terminal then use local bin path or npx
+In the terminal: ./node_modules/.bin/babel-node server.js
+In the terminal: npx babel-node server.js (if you type only babel-node server.js then ur terminal will check whether 
+<command> babel-node exists in $PATH variable or not if it doesn't it throws an error)
+
+/if u want to access them via the module name then make the node_modules bin path(./node_modules/.bin/) 
+a part of the global PATH variable by putting it in bash_profile
+open bash_profile - vi ~/.bash_profile
+export PATH=$PATH:./node_modules/.bin/
+In the terminal: babel-node server.js
