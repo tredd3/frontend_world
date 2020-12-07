@@ -40,8 +40,12 @@ Scoped public packages belong to a user or organization and must be preceded by 
 
 //install a package - default behaviour is to install locally and not globally
 https://docs.npmjs.com/cli/v6/commands/npm-install
-if u do npm install <package_name> :
-1)This will create the node_modules directory in your current directory (if one doesn't exist yet) and will download the  package to that directory
+what happens if u do npm install <package_name> :
+1)package is loaded into the cache, and then unpacked into ./node_modules/foo. Then, any of foo's dependencies are similarly unpacked into ./node_modules/foo/node_modules/....
+locally: Starting at the $PWD, npm will walk up the folder tree checking for a folder that contains either a package.json file, or a node_modules folder. If such a thing is found, 
+then that is treated as the effective "current directory" for the purpose of running npm commands.
+If no package root is found, then the current folder is used.
+globally: it will directly put it into global node_modules folder
 2)it also adds package_name as a dependency in package.json
 If there is a package.json file in the directory in which npm install is run, npm installs the latest version of the package that satisfies the semantic versioning rule declared in package.json.
 If there is no package.json file, the latest version of the package is installed.
@@ -70,14 +74,14 @@ The most basic script consists of the main JS file and a package.json.
 
 //NVM - node version manager
 https://github.com/nvm-sh/nvm
+Node version managers allow you to install and switch between multiple versions of Node.js and npm on your system
+so you can test your applications on multiple versions of npm to ensure they work for users on different versions.
 nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
 nvm install node // install latest release of node
 The first version installed becomes the default. New shells will start with the default version of node
 nvm install 6.14.4 // install a specific version of node in the shell
 nvm use node //in any new shell just use the installed version
 nvm ls-remote  // list available versions of node
-
-
 Please note that which nvm will not work, since nvm is a sourced shell function, not an executable binary.
 
 //publish a package - npm login(u need to have an account) and npm publish
@@ -122,6 +126,8 @@ manually fix any package.json conflicts, and then running npm install --package-
 //some useful cli commands
 npm bin //Print the folder where npm will install local executables.
 npm bin -g //Print the folder where npm will install global executables.
+npm root //prints local node_modules folder location
+npm root -g //prints global node_modules folder location
 npm bugs <pkg> //will open package's bug tracker URL in the browser
 npm cache clean --force //npm manages cache internally so should never be necessary to clear the cache for any reason other than reclaiming disk space, thus why clean now requires --force to run.
 npm ci //command is similar to npm install, except it's meant to be used in automated environments such as test platforms, continuous integration, and deployment
@@ -145,7 +151,6 @@ npm init //adds a package.json file in the directory
 npm link //link packages to the current/working package so that any changes in the linked Packages will be reflected 
 npm owner ls [<@scope>/]<pkg> //List all the users who have access to modify a package and push new versions. Handy when you need to know who to bug for help.
 npm ping //Ping the configured or given npm registry and verify authentication
-npm root -g //prints global node_modules folder location
 npm run env //The env script is a special built-in command that can be used to list environment variables that will be available to the script at runtime. If an "env" command is defined in your package, it will take precedence over the built-in.
 npm run test -- --grep="pattern" --test="hey //npm will pass all the arguments after the -- directly to your script
 npm run start === npm start (provided start script exists)
@@ -171,9 +176,47 @@ npm view <pkg> [--json]// to know everything about a package
 3)peerDependencies are packages that are typically not installed automatically. In some cases, you want to express the compatibility of your package with another package without including it yourself.
  NPM will warn you when you have missing peerDependencies. Example: the react-router package depends on React being installed.
 4)bundledDependencies are packages that will be bundled when publishing the package.
+Upon publishing, npm will look in the node_modules folder. If any of the items there are not in the bundledDependencies array, then they will not be included in the package tarball.
+This allows a package maintainer to install all of their dependencies (and dev dependencies) locally, but only re-publish those items that cannot be found elsewhere.
 5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency can be used, 
 but you would like npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
 Example:Let’s assume you have a web application, continuous integration and deployment, and a suite of end-to-end tests using Cypress. 
 Take a look at the following CI pipeline. It consists of four different parallel jobs (building, linting, unit testing, and end-to-end testing) 
 that all need to install the project dependencies as the first step. However, only one of them actually needs Cypress, yet we’re always installing all of the packages for each job.
  When you want to avoid installing optional dependencies, you can execute npm ci --no-optional (e.g. on CI tools like GitLab CI).
+
+
+//installing and accessing dependencies/modules (both globally and locally installed)
+1)globally installed (Install it globally if you're going to run it on the command line)
+installing - modules will get installed in /usr/local or prefix(wherever node is installed)
+PATH variable anyways contains /usr/local directory path, hence can be accessed from terminal
+Global installs on Unix systems go to {prefix}/lib/node_modules
+When in global mode, executables are linked into {prefix}/bin on Unix
+accessing - we can access directly using module name in the terminal like node,git etc
+
+2)locally installed (Install it locally if you're going to require() it)
+i)locally installed modules(both runtime and dev dependency) and node core node modules can be imported/required
+When in local mode, Any bin files are symlinked to ./node_modules/.bin/, so that they may be found by npm scripts when necessary.
+e.g:
+import 'React' //npm installed module
+const http = require("http") or import 'http' //node core module
+ii)your own modules - by relative file path 
+iii)dev dependency modules - access them in scprits via module name or via node_modules bin path
+"scripts": {
+    "start": "babel-node server.js",
+    "start_server": "./node_modules/.bin/babel-node server.js",
+}
+In the terminal: npm run start (using module name)
+In addition to the shell's pre-existing PATH, npm run adds node_modules/.bin to the PATH provided to scripts
+In the terminal: npm run start_server (using module path)
+
+/if u want to access them directly in terminal then use local bin path or npx
+In the terminal: ./node_modules/.bin/babel-node server.js
+In the terminal: npx babel-node server.js (if you type only babel-node server.js then ur terminal will check whether 
+<command> babel-node exists in $PATH variable or not if it doesn't it throws an error)
+
+/if u want to access them via the module name then make the node_modules bin path(./node_modules/.bin/) 
+a part of the global PATH variable by putting it in bash_profile
+open bash_profile - vi ~/.bash_profile
+export PATH=$PATH:./node_modules/.bin/
+In the terminal: babel-node server.js

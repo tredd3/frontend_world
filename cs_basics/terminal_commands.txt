@@ -130,7 +130,7 @@ ifconfig
 top //process monitor
 
 //vim - command line text editor commands
-vim <file_name>
+vim <file_name> or vi <file_name>
 Hit the Esc key to enter "Normal mode". Then you can type : to enter "Command-line mode". 
 A colon (:) will appear at the bottom of the screen and you can type in one of the following commands. 
 To execute a command, press the Enter key.

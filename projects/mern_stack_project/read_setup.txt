@@ -38,35 +38,3 @@ https://github.com/babel/example-node-server
 public - folder that will be hosted and served to browser| should contain index.html
 src - directory which contains source code | index.js being the entry point
 api - all our endpoint code | index.js being the entry point
-
-//installing and accessing modules (both globally and locally installed)
-1)globally installed
-installing - they get installed in a certain location and then the folder path is added to 
-PATH variable in the bash_profile file
-accessing - we can access directly using module name in the terminal like node,git etc
-
-2)locally installed
-i)npm installed modules(both runtime and dev dependency) or core node modules - by module name
-e.g:
-import 'React' //npm installed module
-const http = require("http") or import 'http' //node core module
-ii)your own modules - by relative file path 
-iii)dev dependency modules - access them in scprits via module name or via node_modules bin path
-"scripts": {
-    "start": "babel-node server.js",
-    "start_server": "./node_modules/.bin/babel-node server.js",
-}
-In the terminal: npm run start (using module name)
-In addition to the shell's pre-existing PATH, npm run adds node_modules/.bin to the PATH provided to scripts
-In the terminal: npm run start_server (using module path)
-
-/if u want to access them directly in terminal then use local bin path or npx
-In the terminal: ./node_modules/.bin/babel-node server.js
-In the terminal: npx babel-node server.js (if you type only babel-node server.js then ur terminal will check whether 
-<command> babel-node exists in $PATH variable or not if it doesn't it throws an error)
-
-/if u want to access them via the module name then make the node_modules bin path(./node_modules/.bin/) 
-a part of the global PATH variable by putting it in bash_profile
-open bash_profile - vi ~/.bash_profile
-export PATH=$PATH:./node_modules/.bin/
-In the terminal: babel-node server.js
