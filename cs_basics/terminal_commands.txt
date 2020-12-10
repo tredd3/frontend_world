@@ -84,9 +84,18 @@ man <command>
 echo $0 - which shell is currently running like bash,zsh etc
 pwd - print working directory
 file <file/directory name>  //tells u what type of file it is
-ls -a  //list all the files/folders in the current directory including hidden files
-ls -l //to check permisssions drwx (directory/read/write/execute)
-ls <absolute/relative path>
+ls <absolute/relative path> //list the contents of a directory
+e.g ls / will listing contents in the file system root
+ls -1 //show items of a directory as single entry per line
+ls -r //sort alphabetically in reverse manner
+ls -t //sort by last modified
+ls -S //sort by size
+ls -a  //list all the files/folders in the current directory including hidden files(.<file_name>)
+ls -l //directory contents info like file size, access rights permissions, last modification time and ownership details.
+ls -ld //directory info like size ,permissions etc
+ls -lh //file size in KB,MB etc and rest same as ls -l
+ls * // list the content of all subdirectories of a directory in which this command is run
+ls -F //mark all the executable files with * and list the directories with '/' character at the end
 cd / //go to file ststem root
 cd or cd ~ // go to home directory from anywhere in the file system
 pushd <path> //to go to any directory temporarily from the current working directory
@@ -142,3 +151,14 @@ To execute a command, press the Enter key.
 :exit to write and exit (same as :x)
 :qa to quit all (short for :quitall)
 :cq to quit without saving and make Vim return non-zero error (i.e. exit with error)
+
+
+//symlink(soft link/ symbolic link) vs shortcut
+e.g: executables in /node_modules/.bin are symlinks
+While a standard shortcut points to a certain object, a symlink makes it appear as if the linked object is actually there. 
+Your computer and the apps on it will read the symlink as the target object itself.
+it's a good idea to create symbolic links instead of shortcuts when you want to:
+Access a file from multiple locations without creating copies and without using much disk space. (Symlinks are only a few bytes in size.)
+Maintain different versions of a file while ensuring that any pointers to it always lead to the most recent or up-to-date version. (This works because a symlink remains active even when you replace the target file with a different file of the same name.)
+creating a symlink:
+ln -s [/path/to/file] [/path/to/symlink]

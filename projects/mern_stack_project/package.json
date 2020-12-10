@@ -1,20 +1,23 @@
 {
   "name": "mern_stack_project",
   "version": "2.0.0",
-  "description": "",
+  "description": "prototype for MERN stack project",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon --exec babel-node server.js --ignore public/",
     "dev": "webpack -wd"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "tarak",
+  "private": true,
+  "homepage": "https://github.com/tredd3/frontend_world/tree/master/projects/mern_stack_project",
   "dependencies": {
     "express": "^4.17.1",
     "mongodb": "^3.6.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "bin": {
+    "myown": "./test.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.8",

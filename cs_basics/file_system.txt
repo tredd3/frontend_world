@@ -47,7 +47,7 @@ which holds the field value, and a pointer to the record it relates to. This ind
 performed on it.
 
 //file paths
-./   = current directory
+./file or <file>  = current directory
 ../  = the parent directory
 ../../ = the parent's parent directory 
 ~/   = the user's home directory

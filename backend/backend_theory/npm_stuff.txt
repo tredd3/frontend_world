@@ -168,24 +168,6 @@ npm ls //to inspect current package/dependency versions
 npm view <pkg> [--json]// to know everything about a package
 
 
-//different kinds of dependencies:
-1)dependencies are always installed. Typically, something would break if a dependency was missing.
- Examples: UI libraries like Bootstrap or frameworks like React. NPM recommends to not put test harnesses or transpilers in your dependencies object.
-2)devDependencies are typically packages that are used in development but not mandatory for the actual functionality of your project.
- Examples: linters like ESLint and testing frameworks like Jest.
-3)peerDependencies are packages that are typically not installed automatically. In some cases, you want to express the compatibility of your package with another package without including it yourself.
- NPM will warn you when you have missing peerDependencies. Example: the react-router package depends on React being installed.
-4)bundledDependencies are packages that will be bundled when publishing the package.
-Upon publishing, npm will look in the node_modules folder. If any of the items there are not in the bundledDependencies array, then they will not be included in the package tarball.
-This allows a package maintainer to install all of their dependencies (and dev dependencies) locally, but only re-publish those items that cannot be found elsewhere.
-5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency can be used, 
-but you would like npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
-Example:Let’s assume you have a web application, continuous integration and deployment, and a suite of end-to-end tests using Cypress. 
-Take a look at the following CI pipeline. It consists of four different parallel jobs (building, linting, unit testing, and end-to-end testing) 
-that all need to install the project dependencies as the first step. However, only one of them actually needs Cypress, yet we’re always installing all of the packages for each job.
- When you want to avoid installing optional dependencies, you can execute npm ci --no-optional (e.g. on CI tools like GitLab CI).
-
-
 //installing and accessing dependencies/modules (both globally and locally installed)
 1)globally installed (Install it globally if you're going to run it on the command line)
 installing - modules will get installed in /usr/local or prefix(wherever node is installed)
@@ -220,3 +202,97 @@ a part of the global PATH variable by putting it in bash_profile
 open bash_profile - vi ~/.bash_profile
 export PATH=$PATH:./node_modules/.bin/
 In the terminal: babel-node server.js
+
+
+******** know about package.json file *********
+https://docs.npmjs.com/cli/v6/configuring-npm/package-json
+It must be actual JSON, not just a JavaScript object literal.
+A lot of the behavior described in this document is affected by the config settings described in config.
+If you plan to publish your package name and version fields are required. The name and version together form an identifier that is assumed to be completely unique.
+Changes to the package should come along with changes to the version.
+"description" is a string - This helps people discover your package, as it's listed in npm search.
+"keywords" is an array of strings - This helps people discover your package as it's listed in npm search.
+"homepage" - The github/other url to the project homepage.
+"bugs" - The url to your project's issue tracker and / or the email address to which issues should be reported. 
+"license": "UNLICENSED" //if you do not wish to grant others the right to use a private or unpublished package under any terms
+"private": true - to prevent accidental publication of private repositories
+"files" field is an array of file patterns that describes the entries to be included when your package is installed as a dependency.
+You can also provide a .npmignore file in the root of your package or in subdirectories, which will keep files from being included.
+At the root of your package it will not override the "files" field, but in subdirectories it will.
+The .npmignore file works just like a .gitignore. If there is a .gitignore file, and .npmignore is missing, .gitignore's contents will be used instead.
+Files included with the "package.json#files" field cannot be excluded through .npmignore or .gitignore.
+"main" field is a module ID that is the primary entry point to your program.
+Certain files are always included, regardless of settings:
+package.json
+README
+CHANGES / CHANGELOG / HISTORY
+LICENSE / LICENCE
+NOTICE
+The file in the "main" field
+README, CHANGES, LICENSE & NOTICE can have any case and extension.
+Conversely, some files are always ignored: (these files can be in github repo but will not be present in npm repo)
+.git
+npm-debug.log
+.npmrc
+node_modules
+package-lock.json
+
+//you can indicate the structure of your package using a directories object.
+
+A lot of packages have one or more executable files that they'd like to install into the PATH. npm makes this pretty easy (in fact, it uses this feature to install the "npm" executable.)
+To use this, supply a bin field in your package.json which is a map of command name to local file name. On install, npm will 
+symlink that file into prefix/bin for global installs, or ./node_modules/.bin/ for local installs.
+For example, myapp could have this:
+"bin" : { "myapp" : "./cli.js" } //in the terminal u can use (npx myapp | ./node_modules/.bin myapp | u can use myapp in npm scripts)
+If you have a single executable, and its name should be the name of the package, then you can just supply it as a string. For example:
+"bin": "./path/to/program"
+ file(s) referenced in bin starts with #!/usr/bin/env node, otherwise the scripts are started without the node executable!
+#!/usr/bin/env node is an instance of a shebang line: the very first line in an executable plain-text file on Unix-like platforms 
+that tells the system what interpreter to pass that file to for execution, via the command line following the magic #! prefix (called shebang).
+
+//dependency formats
+{ "dependencies" :
+  { "foo" : "1.0.0 - 2.9999.9999"
+  , "bar" : ">=1.0.2 <2.1.2"
+  , "baz" : ">1.0.2 <=2.3.4"
+  , "boo" : "2.0.1"
+  , "qux" : "<1.0.0 || >=2.3.1 <2.4.5 || >=2.5.2 <3.0.0"
+  , "asd" : "http://asdf.com/asdf.tar.gz"
+  , "til" : "~1.2"
+  , "elf" : "~1.2.3"
+  , "two" : "2.x"
+  , "thr" : "3.3.x"
+  , "lat" : "latest"
+  , "dyl" : "file:../dyl"
+  ,"xyz": "*"
+  }
+}
+
+//different kinds of dependencies:
+1)dependencies are always installed. Typically, something would break if a dependency was missing.
+ Examples: UI libraries like Bootstrap or frameworks like React. NPM recommends to not put test harnesses or transpilers in your dependencies object.
+2)devDependencies are typically packages that are used in development but not mandatory for the actual functionality of your project.
+ Examples: linters like ESLint and testing frameworks like Jest.
+3)peerDependencies are packages that are typically not installed automatically. In some cases, you want to express the compatibility of your package with another package without including it yourself.
+ NPM will warn you when you have missing peerDependencies. Example: the react-router package depends on React being installed.
+4)bundledDependencies are packages that will be bundled when publishing the package.
+Upon publishing, npm will look in the node_modules folder. If any of the items there are not in the bundledDependencies array, then they will not be included in the package tarball.
+This allows a package maintainer to install all of their dependencies (and dev dependencies) locally, but only re-publish those items that cannot be found elsewhere.
+In cases where you need to preserve npm packages locally or have them available through a single file download, you can bundle the
+packages in a tarball file by specifying the package names in the bundledDependencies array and executing npm pack.
+5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency can be used, 
+but you would like npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
+Example:Let’s assume you have a web application, continuous integration and deployment, and a suite of end-to-end tests using Cypress. 
+Take a look at the following CI pipeline. It consists of four different parallel jobs (building, linting, unit testing, and end-to-end testing) 
+that all need to install the project dependencies as the first step. However, only one of them actually needs Cypress, yet we’re always installing all of the packages for each job.
+When you want to avoid installing optional dependencies, you can execute npm ci --no-optional (e.g. on CI tools like GitLab CI).
+
+"engines" : { "node" : ">=0.10.3 <0.12" } //You can specify the version of node that your stuff works on
+"os" : [ "darwin", "linux" ] //You can specify which operating systems your module will run on
+"cpu" : [ "x64", "ia32" ] //If your code only runs on certain cpu architectures, you can specify which ones
+//publishConfig
+This is a set of config values that will be used at publish-time. It's especially handy if you want to set the tag, registry or access
+Any config values can be overridden, but only "tag", "registry" and "access" probably matter for the purposes of publishing.
+
+//DEFAULT VALUES
+If there is a server.js file in the root of your package, then npm will default the start command to node server.js.
