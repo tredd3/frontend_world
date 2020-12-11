@@ -120,9 +120,6 @@ specifying command line tasks that can be run by using npm run <task-name>
 So instead of typing those long commands, which are easy to forget or mistype, 
 in the terminal you can run :npm run watch
 
-//resolving package-lock.json file conflicts
-manually fix any package.json conflicts, and then running npm install --package-lock-only
-
 //some useful cli commands
 npm bin //Print the folder where npm will install local executables.
 npm bin -g //Print the folder where npm will install global executables.
@@ -280,6 +277,7 @@ Upon publishing, npm will look in the node_modules folder. If any of the items t
 This allows a package maintainer to install all of their dependencies (and dev dependencies) locally, but only re-publish those items that cannot be found elsewhere.
 In cases where you need to preserve npm packages locally or have them available through a single file download, you can bundle the
 packages in a tarball file by specifying the package names in the bundledDependencies array and executing npm pack.
+When installing, this module will be extracted from the parent module during the extract phase, not installed as a separate dependency.
 5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency can be used, 
 but you would like npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
 Example:Let’s assume you have a web application, continuous integration and deployment, and a suite of end-to-end tests using Cypress. 
@@ -296,3 +294,50 @@ Any config values can be overridden, but only "tag", "registry" and "access" pro
 
 //DEFAULT VALUES
 If there is a server.js file in the root of your package, then npm will default the start command to node server.js.
+
+****** all about package-lock.json *********
+Conceptually, the "input" to npm install is a package.json, while its "output" is a fully-formed node_modules tree
+npm should work like a pure function: the same package.json should produce the exact same node_modules tree, any time
+but ideally npm is unable to do this. There are multiple reasons for this:
+1)different versions of npm (or other package managers) may have been used to install a package, each using slightly different installation algorithms.
+2)a new version of a direct semver-range package may have been published since the last time your packages were installed, and thus a newer version will be used.
+3)A dependency of one of your dependencies may have published a new version, which will update even if you used pinned dependency specifiers 
+4)The registry you installed from is no longer available, or allows mutation of versions (unlike the primary npm registry), and a different version of a package exists under the same version number now.
+To prevent this potential issue, npm uses package-lock.json or, if present, npm-shrinkwrap.json. These files are called package locks, or lockfiles.
+Whenever you run npm install, npm generates or updates your package lock, which will look something like this:
+{
+  "name": "A",
+  "version": "0.1.0",
+  ...metadata fields...
+  "dependencies": {
+    "B": {
+      "version": "0.0.1",
+      "resolved": "https://registry.npmjs.org/B/-/B-0.0.1.tgz",
+      "integrity": "sha512-DeAdb33F+"
+      "dependencies": {
+        "C": {
+          "version": "git://github.com/org/C.git#5c380ae319fc4efe9e7f2d9c78b0faa588fd99b4"
+        }
+      }
+    }
+  }
+}
+Once it's present, any future installation will reproduce the structure described in the file, instead of recalculating dependency versions of package.json.
+The tree is walked and any missing dependencies are installed in the usual fashion.
+before, during and after installation if u want to run some activities u can do it via preshrinkwrap, shrinkwrap or postshrinkwrap scripts
+"scripts": {
+    "postshrinkwrap": "json -I -e \"this.myMetadata = $MY_APP_METADATA\""
+}
+any commands that update node_modules and/or package.json's dependencies will automatically sync the existing lockfile. This includes npm install, npm rm, npm update, etc.
+use --no-save option to prevent saving altogether(both package and package-lock json files)
+use --no-shrinkwrap to allow package.json to be updated while leaving package-lock.json
+
+//things to keep in mind:
+1)It is highly recommended you commit the generated package lock to source control: this will allow anyone else on your team,
+your deployments, to get the exact same dependency tree that you were developing on.
+2)One key detail about package-lock.json is that it cannot be published, and it will be ignored if found in any place other than the toplevel package
+3)package-lock.json is automatically generated for any operations where npm modifies either the node_modules tree, or package.json
+4)If both package-lock.json and npm-shrinkwrap.json are present in the root of a package, package-lock.json will be completely ignored.
+
+//resolving package-lock.json file conflicts
+manually fix any package.json conflicts, and then running npm install --package-lock-only
