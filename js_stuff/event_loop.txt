@@ -1,0 +1,32 @@
+//working of eventloop  - https://javascript.info/event-loop
+https://medium.com/javascript-in-plain-english/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e
+Eventloop(browser main thread) - It's an infinite loop that keeps the process alive. It waits for events (like layout and paint events) and processes them. 
+how does it process? - message is removed from the queue and its corresponding callback function is called on the stack with the message as param.
+Other messages has to wait until the current function is done executing. A downside of this model is that if a message takes too long to
+complete, the web application is unable to process user interactions like click or scroll.
+The callback in the eventloop has to wait until the stack is empty.
+Hence it is recommended to process data intensive and network operations using web workers.
+
+
+There are two task queues in the JS engine: macrotask queue and microtask queue (refer event_loop.png)
+1)Macrotask queue - initial script, I/O(Ajax), UI rendering, callback fns in setTimeout, setInterval, setImmediate also all the UI event handlers.
+  The entire script is initially executed as a macro task
+  During the execution, the synchronization code executes directly, and the macrotask enters the macro task queue, and the microtask enters the microtask queue
+  When a macro task completes, the JS engine checks the queue of microtasks first and executes all the microtasks in turn.
+
+When the microtask queue is empty, the JS engine checks the macro task queue and starts executing the next macro task.
+2)Microtask queue - callback fns in MutationObserver, Promise.then() and Promise.catch(), other promise based stuff like fetch API, 
+V8 garbage collection process, process.nextTick() in node environment.
+  if promise is resolved, callback fn in .then() will go to microtask queue
+  if promise is rejected, callback fn in .catch() will go to microtask queue
+  if it is in pending state no callback will go to microtask queue
+
+
+e.g:
+messages are added anytime an event occurs and there is an event listener attached to it. If there is no listener, the event is lost.
+postMessage method adds a message to the other runtime Eventloop
+setTimeout with a delay of 0 (zero) milliseconds doesn't execute the callback function after the given interval.
+it means the callback fn is pushed into the macrotask queue of eventloop after 0ms and it has to wait untill other messages are executed
+
+Promise(microtask) and setTimeout(macrotask) examples
+https://medium.com/javascript-in-plain-english/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e
