@@ -3,6 +3,9 @@ https://codeforgeek.com/real-time-app-socket-io/
 https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/
 
 //build performant UI to handle large real time streaming data
+real time - low latency
+streaming - continous flow of large data in small chunks and processing those small chunks as 
+they come, instead of transmitting the large data all at once and processing it.
 web sockets - real time data
 web workers - only web socket events are processed inside workers
 main UI thread is now free for user events , rendering and other stuff

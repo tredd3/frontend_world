@@ -1,4 +1,5 @@
 setup: https://jscomplete.com/learn/1rd-reactful
+https://github.com/jscomplete/learn-fullstack-javascript/tree/final-code
 
 Techstack used in this project:
 1)React - for complete frontend (u can add redux and React-router etc for relevant functionalities) 
