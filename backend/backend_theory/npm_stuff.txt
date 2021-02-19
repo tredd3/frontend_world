@@ -126,6 +126,8 @@ npm bin -g //Print the folder where npm will install global executables.
 npm root //prints local node_modules folder location
 npm root -g //prints global node_modules folder location
 npm bugs <pkg> //will open package's bug tracker URL in the browser
+.npm(folder) is a cache that npm uses to avoid re-downloading the same package multiple times.
+There's no harm in removing it. You can empty it with the command: npm cache clean.
 npm cache clean --force //npm manages cache internally so should never be necessary to clear the cache for any reason other than reclaiming disk space, thus why clean now requires --force to run.
 npm ci //command is similar to npm install, except it's meant to be used in automated environments such as test platforms, continuous integration, and deployment
   It can be significantly faster than a regular npm install by skipping certain user-oriented features. It is also more strict than a regular install

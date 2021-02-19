@@ -22,4 +22,41 @@ https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
 
+https://spec.json5.org/#arrays
+file format: file xyz.json, new file xyz.json5
+usage: https://www.npmjs.com/package/json5
+The JSON5 Data Interchange Format (JSON5) is a superset of JSON that aims to alleviate some of the limitations of JSON by expanding its syntax
+Summary of Features
+The following ECMAScript 5.1 features, which are not supported in JSON, have been extended to JSON5.
+Objects:
+Object keys may be an ECMAScript 5.1 IdentifierName.
+Objects may have a single trailing comma.
+Arrays:
+Arrays may have a single trailing comma.
+Strings:
+Strings may be single quoted.
+Strings may span multiple lines by escaping new line characters.
+Strings may include character escapes.
+Numbers:
+Numbers may be hexadecimal.
+Numbers may have a leading or trailing decimal point.
+Numbers may be IEEE 754 positive infinity, negative infinity, and NaN.
+Numbers may begin with an explicit plus sign.
+Comments:
+Single and multi-line comments are allowed.
+White Space
+Additional white space characters are allowed.
 
+Example (Informative)
+{
+  // comments
+  unquoted: 'and you can quote me on that',
+  singleQuotes: 'I can use "double quotes" here',
+  lineBreaks: "Look, Mom! \
+No \\n's!",
+  hexadecimal: 0xdecaf,
+  leadingDecimalPoint: .8675309, andTrailing: 8675309.,
+  positiveSign: +1,
+  trailingComma: 'in objects', andIn: ['arrays',],
+  "backwardsCompatible": "with JSON",
+}

@@ -22,7 +22,7 @@ bash_profile,bash_login, bashrc fand other bash configuration files are user spe
        what to put: PATH and other important environment variables.
 ~/.bashrc - executes EVERY TIME a non-login shell is started
        The individual(per user) per-interactive-shell startup file 
-       view: cat ~/.bashrc, edit: vi ~/.bashrc
+       view: cat ~/.bashrc, edit: vi ~/.bashrc, run: source ~/.bashrc
        what to put: aliases (stuff here should be as lightweight (minimal) as possible to reduce the overhead when starting a non-login shell)
 ~/.bash_logout
        The individual(per user) login shell cleanup file, executed when a login shell exits
@@ -118,6 +118,8 @@ For example, if I saved many .png files as .jpg, I could run rm *.png to batch d
 rmdir <dir_name> //delete empty directory
 rmdir *  //delete all the empty folders in a given directory
 rm -r <dir_name> //if you want to remove a folder and also the content inside it
+rm /path/to/directory/* - it is only used to delete files in a directory
+rm -r /path/to/directory/* -  remove all non-hidden files and sub-directories (along with all of their contents) in a directory 
 clear - clear terminal UI 
 exit - exit from server if u are connected to one, else exit the terminal
 whoami  //gives username
