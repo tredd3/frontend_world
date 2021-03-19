@@ -84,3 +84,24 @@ A folder which has read, write and execute permissions for the owner, but only r
 A file that can be read and written by anyone, but not executed at all.
 -rw-r--r--
 A file that can be read and written by the user, but only read by the group and everyone else.
+
+
+//compressed files
+https://www.fosslinux.com/34665/15-tar-command-in-linux-uses-with-examples.htm
+tar command is used to create tar archives by converting a group of files into an archive(tarball).
+It supports a vast range of compression programs such as gzip, bzip2, lzip, lzma
+Gzip is the most popular algorithm for compressing tar files. 
+gzip -d file.gz or (gunzip file.gz)
+To keep the compressed file pass the -k option to the command:
+gzip -dk file.gz
+Gzip algorithm is designed to compress only a single file. Files that end in .tar.gz/.tgz are .tar archives compressed with gzip.
+tar -tf archive.tar.gz //list the content of a tar.gz file
+tar -xf archive.tar.gz //extract the archive in current directory
+tar -xf archive.tar.gz -C <directory_path> // extract the archive contents to the given directory
+tar -xf archive.tar.gz file1 file2 // extract a specific file(s) from a tar.gz file 
+note: When extracting files, you must provide their exact names including the path, as printed by --list (-t)
+tar -xf archive.tar.gz --wildcards '*.js' //wildcard formats
+tar -xvf archive.tar.gz // print the names of the files being extracted on the terminal
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+
