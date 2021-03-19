@@ -1,0 +1,43 @@
+
+//The story of US dollar ascending the throne
+phase1:
+Before world war 1 Britain pound was the reserve and trusted currency as it was the largest economy and hub for world commerce. 
+Also all the currencies were pegged to gold. during world war 1 people needed money to meet military expenses hence the gold standard
+was abandoned  and every country started printing currency including Britain which lead to the currency devaluation and ultimate 
+lose of trust in pound. By that time US already emerged as the biggest economy.
+
+Phase2:
+United States served as the Allies’ main proprietor of weapons, supplies, and other goods. Collecting much of its payment in gold, 
+by the end of the war, the United States owned the vast majority of the world’s gold. This precluded a return to the gold standard 
+by all of the countries that had depleted their gold reserves.
+Now all the countries felt a need for stable global currency as most of them ran out of gold
+Bretton Woods agreement: to maintain stable currency It was decided follow fixed exchange rate regime where  the world’s currencies 
+couldn’t be linked to gold, but they could be linked to the U.S. dollar, which was in turn linked to gold. 
+U.S dollar was officially crowned the world’s reserve currency and was backed by the world’s largest gold reserves.
+
+Phase 3:
+After some time With growing concerns over the stability of the dollar, the countries began to convert dollar reserves into gold. 
+The demand for gold was such that US President has to intervene and de-link the dollar from gold, which led to the floating exchange 
+rates that exist today.
+
+
+//Why is dollar still globally accepted even though dollar is delinked from gold?
+The global acceptance of these currencies depends on the economic size and strength of the country.
+Summary:The reserve status is based largely on the size and strength of the U.S. economy and the dominance of the U.S. financial markets.
+Despite large deficit spending, trillions of dollars in debt, and the unbridled printing of U.S. dollars, U.S. Treasury securities
+remain the safest store of money. The trust and confidence that the world has in the ability of the United States to pay its debts 
+have kept the dollar as the most redeemable currency for facilitating world commerce.
+
+1. USA is the biggest economy in the world, also value of US dollar don’t fluctuate often bcoz of steady GDP growth,
+ low inflation and high employment rate in US.
+2.Most trading countries of the world accept payment in dollar only. That's why foreign banks and countries need dollar 
+to participate in international trade also central bank holds most of the reserves in USD.
+3. As per the rule of the IMF every member country has to deposit certain percentage of their quota in the US dollars,
+ which ultimately increases the demand of the dollar internationally.
+4. If two Non-American countries also trade with each other, they prefer to take US dollars in payment because they know that 
+if they have dollars in their hands, they can import goods from any other country any time.
+5 America is the world's biggest economy, due to which it lends many poorer countries in the US dollar and receives the 
+repayment in the same currency that is why the demand of dollar in the international market exists throughout the year.
+6. The US contributes the most in the treasures of the World Bank Group and the International Monetary Fund that is why
+ US regulates the functioning of these institutions. So these two world institutions lend money to its members in the US dollar, 
+ which further increases the faith of the lenders in the US dollar.

@@ -1,0 +1,117 @@
+//How Economy works
+https://www.youtube.com/watch?v=PHe0bXAIuk0&ab_channel=PrinciplesbyRayDalio
+Economy is defined by an AREA, where some ACTIVITY happens, caused by the involvement of AGENTS.
+AREA: india/any country/global
+ACTIVITY:
+* Production of “goods and services“.
+* Distribution of goods and services.
+* Trade of goods and services.
+* Consumption of goods and service.
+AGENTS: People who are involved in the above four activities
+* Government
+* Business
+* People (individuals)
+
+Economy Size is decided by GDP value 
+GDP is the market value of all goods and services produced within in a country in a specific financial year. Generally, 
+the economies of all the countries are expressed in USD for comparison.
+US GDP 2020: 20 trillion$
+India GDP 2020: 2 trillion$
+
+Things necessary for an Economic activity:
+*  Demand (Buyer)
+* buyer should have money(buying power) and is willing to spend
+“economic stimulus” - stimulating the buyers (government, business, individuals) to start spending money. 
+In modern economy, if people are not spending, GDP cannot grow, other people will not earn money.
+* Product (Seller).
+* Confluence of buyer and seller in a place (There is a Market).
+Transaction:In exchange for money, the seller gives the possession good (or renders a service) to the buyer.
+If India is the big market, following are its sub-markets:
+* NSE/BSE – stock market.
+* Steel Market.
+* Cement Market.
+* Housing Market.
+* Auto Market.
+* Fuel market.
+* Food Market.
+* Clothing Market.
+* Furniture Market etc.
+In all these markets, transaction keep happening. You can imagine in a big country like India how many transactions might be 
+happening in a matter of few minutes.
+All these transactions (between buyer and seller) shapes the GDP of India.
+
+Our economy works in cycles.The cycles effects everybody, be it government, business, or individuals.
+government - finds GDP, interest rates, employment going up and down.
+business - struggles to manage its sales, expenditure, profits in times of slower economic growth.
+Individuals  - when economy is growing as expected, salary increments seems to happen with ease. But in times of recession, 
+leave asides salary increments, the threat of job loss looms around.
+
+Why the world’s economy seems to be looming in cycles? - Due to Debt
+
+CYCLES of economy:
+1)Short Term Debt Cycle: 6-8 yrs (due to cheap debt)
+Within one short term debt cycle, there are two constituents (phases):
+* Expansion (GDP growth rate positive) - less interest rates
+=> People (individuals, business, government) take more debt in this phase
+=> spending as Capital for a person(income + debt) increases 
+=> income for others + debt taken by others 
+=> spending and so on… leading to positive GDP growth
+Too much spending => demand > supply => high inflation (peak of a short term debt cycle)
+Is  high inflation bad?
+Not always. But “excess credit” supported inflation is bad.
+When people get easy debt, they will not work harder and productivity decreases.
+Also since debt is cheap everyone takes more debt and more spending(more demand) while supply doesn’t grow at same pace and
+ businesses increase price leading to inflation.
+Income growth will happen only from productivity improvement. People must work hard to earn more money. But debt growth happens
+almost automatically. Debt increases @ interest%.
+PS: There must always be a balance between income growth and debt growth in an economy.
+
+* Recession (GDP growth rate negative):
+When inflation increases RBI increase interest rates 
+=> debt becomes costly 
+=> less loans taken and hence less spending 
+=> less income for others
+=> less spending so on….economy slows down(reverses the growth cycle)
+
+2)Long Term Debt Cycle: 60-65 yrs (due to excess debt accumulation in economy)
+Reason for debt accumulation: As debt is cheap people take new debts instead of clearing their older debts first, also  GDP 
+growth needs spending. But GDP need not always grow at a staggering pace. GDP growing at an average rate of 5-7% for next 15-20 years 
+is a dam good performance.
+Peak of a long term debt cycle: high debt accumulation 
+=> Interest levels are already rock bottom But people are still not opting for new debt bcoz they have to pay for existing debt,
+also People are proactively cutting their expenses (to pay debt)
+=> less spending meaning low income for others
+=> other people will also default on loan repayment
+=> again loss of income for someone else and so on…. 
+=> economy starts to collapse
+What follows the peak of “long term debt cycle” is Economic Depression.
+ In last 100 years, the world has seen two such rampant economic debacles (depression).
+One was in 1927 (The Great Depression), and in 2008 (USA Debt Crisis).
+* Recession can last for 5-6 months.
+* Depression can last for 2-3 years at a stretch.
+Reflation: it is the phase where economy comes out from depression. It takes almost 10yrs
+Since people have less money all the goods will now be traded for lesser price for people to sustain and fulfil their needs 
+=> deflation prices of all the assets/goods go down 
+PS: Deflation is hazardous for business and economy as a whole. Controlled inflation (neither high not too low) is what is best for any economy.
+In fact Reflation is worse than depression, because economy wants to grow, but nobody is ready to spend.
+Individuals - can’t spend bcoz income is less and also need to pay for debt
+Businesses - can spend but income of people is less hence no demand, also since prices are less they will make loss, hence they won’t
+Government - has to be the saviour
+RBI brings in  inflation  by prints money and hands over this money to the government by purchasing government bonds. 
+Government in turn use this money to stimulate spending in the economy. How?
+* They start buying assets. Hence asset price begins to rise.
+* As asset price rises, people start to feel wealthy.
+* Value of collateral rise, and people become more credit worthy.
+* Lenders begin to offer credit (debt).
+* People take loans and start spending.
+* Income of other begin to rise.
+* Credit worthiness of population rise further.
+* Hence more people resort to debt, means more spending.
+* GDP growth rate starts becoming positive.
+
+Exception : USD 
+Why post 2008 crisis USD value increased?
+US was also printing USD’s to boost spending and GDP growth. As a result USD valuation should have drastically fallen. 
+But on the contrary USD got stronger post 2008 crisis. Why? Because USD is a major portion of foreign exchange reserves of 
+many countries. If value of USD will go down, it will destroy the world economy. Hence during any crisis situation, 
+countries tend to hoard more USD. This is done both to prevent the value of their “reserves”, and also to keep USD’s valuation stable.
