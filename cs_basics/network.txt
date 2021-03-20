@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=vv4y_uOneC0
 //Open System Interconnection Model | OSI 7 layers
 data is transferred from one computer through all the layers and decapsulated at another computer 
 A - application layer - used by network applications like browser. They use proctocols of this layer
-like ftp,HTTP,smtp (each protocol uses a specific port)
+like ftp,HTTP,smtp,DNS (each protocol uses a specific port)
 P - presentaion - receives data(numbers and characters) from application layer.
 translation to binary then compression then encryption (SSL protocol) and decryption at receiver computer
 S - session - Authentication, authorisation, session management

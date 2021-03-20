@@ -11,3 +11,5 @@
 (Use Max Heap) O(n + klogn)
 1) Build a Max Heap tree in O(n)
 2) Use Extract Max k times to get k maximum elements from the Max Heap O(klogn)
+
+https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-set-2-using-min-heap/

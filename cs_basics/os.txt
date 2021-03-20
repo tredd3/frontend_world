@@ -40,12 +40,12 @@ A process in operating systems uses different resources and uses resources in fo
 1) Requests a resource
 2) Use the resource
 2) Releases the resource
-It can be prevented by avoiding the necessary conditions for deadlock
 **Deadlock can arise if following four conditions hold simultaneously (Necessary Conditions): 
 Mutual Exclusion: One or more than one resource are non-sharable (Only one process can use at a time) 
 Hold and Wait: A process is holding at least one resource and waiting for resources.
 No Preemption: A resource cannot be taken from a process unless the process releases the resource.
 Circular Wait: A set of processes are waiting for each other in circular form
+It can be prevented by avoiding the necessary conditions for deadlock
 
 STARVATION:
 High priority processes keep executing and low priority processes are blocked for indefinite time
