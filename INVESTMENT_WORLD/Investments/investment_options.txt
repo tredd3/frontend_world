@@ -1,0 +1,72 @@
+******* Investment options ******* 
+Cash is a bad investment - put it in productive assets that can generate earnings and not in dead assets like Gold
+Price of an asset depends on earnings and PE ratio, Which intern depends on demand and supply
+Target  : Longterm
+Invest every month is recommended. Sometimes u buy assets at more price ans sometimes but that is evened out at the end of the year.
+However if you are sure that stock/unit is available dead cheap then go for lumpsum
+ 
+//TAX - EPF,NPS,PPF etc
+//WEALTH - MFs and STOCK MARKET
+
+1st preference - Life insurance, 2nd preference - Wealth creation
+//Life insurance 
+Thumb rule - Never club investments with insurance
+**Traditional insurance - waste of time, money(costliest form of insurance)
+Problem : Less settlement amount and Lesser returns (fixed market returns - inflation)
+As return is assured/fixed they invest in low risk assets hence lesser returns 
+https://economictimes.indiatimes.com/wealth/insure/8-charges-in-ulip-that-one-needs-to-know/articleshow/63233637.cms?from=mdr
+**ULIP - insurance  +  investment (so many charges are deducted and then money is invested )
+Problem: Less settlement amount and less returns(stock market returns - inflation - ULIP charges)
+Solution: put some money in Term insurance(more settlement amount) + rest in MFs/Stocks
+MF - expense ratio will be deducted and rest amount is invested
+
+//stock markets
+Shares - own knowledge -10% - high risk
+Mutual funds - experts knowledge - 10yrs period - medium risk
+Small cases - theme based stock selection like rural demand, infra special etc
+Same like mutual funds but control is in our hands
+
+//post office, FD, RD- low returns 
+
+//LIC Jeevan Shiromani - per year 6 lakhs(1.1cr paid in total) - after 20 yrs - 2.25 cr
+PPF - per year 3 lakhs -after 20 yrs - 1.3cr
+ELSS/MF - index, equity, debt, hybrid
+NPS  https://enps.nsdl.com/eNPS/NationalPensionSystem.html
+
+
+//others
+Gold -  high risk - invest in SGB (if u want to invest in gold)
+Not recommended as a Investment - gold is a hedge against inflation
+Rise in inflation by x% => rupee value depreciates by x% => dollar value interns of rupee increases
+Gold is price is always decided interns of dollars, so as inflation increases gold value automatically increases (e.g corona times)
+Price appreciation	 in gold is more due to increase in dollar valuation and less due to actual gold price
+Bit coin - is a bad investment/currency because it neither has utility, stability nor backing 
+Utility currencies: gold(make jewellery) , chocolates (u can eat)
+Backing currencies: rupee(RBI backing), promissory notes(govt backing), bonds(corporate backing)
+
+Real estate/Housing - price depends on kind of place , average income of the public at that place,
+People sentiment etc
+Should u buy a house? if the rent u pay and EMI difference is less then YES
+Annuity - series of equal amount of payments at equal intervals of time for a given period
+e.g: PFF, SIP etc
+Perpetuity - for annuity total investment time is fixed time  but for perpetuity it is endless
+
+Own business
+Better than stock market but the risk of money being stalled for long term is possible
+Choose ur business wisely
+Don’t depend only only business diversify it with investments and job etc
+
+//investment in foreign markets
+Developed countries - inflation is always lesser, say 2% => currency depreciates by 2%
+Govt bond yield rates are lower - say 3% max 
+Effective return = 3% - 2% = 1%
+Developing countries - inflation is always higher, say 5% => currency depreciates by 5%
+Govt bond yield rates are higher - say 6% max 
+Effective return(interns of rupee) = 6% - 5% = 1%
+When FII invest in developing countries like India for higher returns and then take back money after some years, there is a currency depreciation risk involved.
+https://getmoneyrich.com/strength-of-currency/#benefits-of-strong-currency
+e.g: FII returns:
+6% from Indian markets 
+2% dollar depreciation - 5% rupee depreciation = -3% overall
+Effective return (interns of dollar)= 6% - 3% = 3%
+FIIs will face an issue when dollar appreciates and rupee depreciates further from the time of currency conversion

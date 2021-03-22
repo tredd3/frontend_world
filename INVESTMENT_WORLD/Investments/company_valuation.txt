@@ -1,0 +1,146 @@
+***** Company Valuation ******
+//Valuation Terminology:
+**capital: equity +debt
+**Market cap is the total value of all outstanding shares of the company's stock. It is calculated by multiplying the stock's current share price and the number of shares outstanding.
+Market cap gives you an idea of the growth and risk to expect from a particular stock. Companies are classified according to market capitalization. 
+The broad categories are large-, mid-, and small-cap.
+Large-cap companies are well-established successful companies with steady streams of revenue. Their growth over time may be slow but steady. 
+small-cap stocks are those that are experiencing accelerated growth, but that
+**Enterprise value(EV) is a more accurate measure of a company's real worth because it takes into consideration its debt obligations. 
+EV = market_cap +  outstanding preferred stock + all debt(short and long term) - all of its cash and cash equivalents.
+i.e if u want to buy a company, u need to pay the shareholders, lenders. However u will get the cash held by company
+
+//financial ratios  compare with the company 10yrs performance, competitors and industry to know the actual value/performance
+1)P/E <  20 - no need to check growth
+PE > 20 -  check if growth is fast and PEG < 1.3
+If a company’s PE is more that means investor is paying premium bcoz it’s a high growth industry and assuming that potential earnings growth will be more
+How to know whether this premium is justified? 
+PEG=PE/CAGR(Growth in net profit/net income/free cash flow for last 10 yrs)
+All B2C companies should be valued based on PE (FMCG) and not on PB
+NOTE :
+low P/E might not mean company is undervalued, company may be bankrupt in few years or their future may be skeptical or some negative news which might impact the business
+High P/E might not mean market is paying a premium price bcoz of positive sentiment, it can also mean earnings are less.
+Conclusion: Both high and low P/E has flaws, so focus on the earnings 
+2)D/E - debt to equity should be < 0.5 
+If D/E is high and if earnings decreases bcoz of business/economy slowdown then company will collapse and you will loose the capital
+if it is low then and ur shareholder base increases is also bad (as the money gets distributed lifetime) as Equity is costly(lifetime dividend payment from profits), debt is cheap(one time clearance)
+Reasons for Less debt: 
+** no growth plans
+** no one is giving u debt bcoz of less credit worthiness
+** company is strong enough to finance all its future needs - required
+For Great companies - D/E is 0 
+3)ROE - return on equity - net profit/total equity - rate at which equity/shareholders money grows 
+ROE should be  > 15% else better to invest in index funds
+4)P/B - market value per share to book value per share
+ROE and P/B must be in sync 
+Book value/net worth/net assets/equity= total assets - liabilities
+in simple words book value is what shareholders get after company is liquidated/sold
+When to buy based on PB: for a new company where earnings haven’t begun, B2B(ONGC,GAIL) exceptions for companies like L&T, Intel bcoz they established a sense of trust in customers
+PB value should be < 1.5 for great valuation
+5)free cash flow = owner’s earnings =Net Cash flow from Operating activities(CFO) - Capex
+owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
+Accrual accounting: money is expected to be received in the future
+Cash accounting: money is received instantly
+Net income can be manipulated but free cash flow can’t be
+Hence analysing free cashflow is very important
+Cash flow from Investing activities - earnings or expenditures from non core activities like rent from long-term assets, such as buildings/equipment 
+Cash flow from financing activities - cash flows between a company and its owners/shareholders and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock.
+Cash flow from Operating activities(CFO) - earnings from core/daily activities of a company involved in producing and selling its product, generating revenues, manufacturing, sales, advertising, and marketing activities
+Company is called Cash machine  if free cash flow  = 20% of sales
+**If free cash flow is high => assets increases => equity increases and ROE decreases
+Hence companies either use it in Capex(capacity increase),R&D(tech companies), mergers(to acquire market share/expansion)
+If a company has more cash in ideal mode then it might take wrong decision and everything gets screwed.
+Hence they give it as dividend or buyback shares from open market then cash decreases and the ROE is less
+Generally FMCG gives dividend and tech companies won’t rather they invest in R&D to keep ahead of competition.
+**CAGR - compounded annual growth rate -  on an average return rate per year
+For e.g: 2015 - investment year, 9% is CAGR which means from 2015 to 2016 there is 9% profit, and whole amount(principal + profit) is reinvested and then again 9% profit on the amount and so on
+**Beta analysis
+Beta - A positive beta value indicates that stocks generally move in the same direction with that of the market and the vice versa
+For example, if beta is 1.3 and the market is expected to move up by 10%, then the stock should move up by 13% (1.3 x 10).
+
+
+//if looking for dividend:
+dividend payout > 40% - good | industry leaders do that
+dividend payout ratio is the ratio of the total amount of dividends paid out to shareholders relative to the net income of the company
+Dividend yield > bank interest rates (6%)
+dividend_amount=face value*
+Dividend yield  = dividend_amount/share_price * 100
+
+
+//Reading Income statement
+Check consolidated values (subsidiaries included) Not standalone values
+Sales/revenue/turnover/topline
+COGS - cost of goods sold (preparation/making price)
+Gross Profit = sales- COGS
+Gross profit Margin/Gross Margin = (gross Profit/sales) *100
+Operating expenses = salaries+building rent +advertising+marketing cost+ cash burn to beat the price war+ R&D cost 
+EBITDA=Gross Profit -Operating expenses
+depreciation expenses = capital goods(like electronics/machinery/buildings) value depreciates over time and is included in income statement over say 5-10 yrs
+Amortisation expenses = same as depreciation but amortisation is for intangible assets like patents
+Operating Profit /Operating income(EBIT)
+=Gross Profit - Operating expenses - Depreciation - Amortisation expenses
+=EBITDA - Depreciation - Amortisation expenses
+Operating Profit margin/Operating Margin =(operating profit/sales) *100
+Operating profit margin shouldn’t be negative 100%/200%  and keeping it steady is difficult
+PBT = Operating Profit /Operating income(EBIT) - interest payment on debt 
+PAT/Net Income/Net Profit/BottomLine/Earnings = PBT - tax
+ICR(interest coverage ratio) = EBITDA/Interest = will the company be able to pay interest on debt. ICR should always be high so that during recession company can interest on its debt without loosing assets.
+ICR is not applicable for companies with 0 debt.
+
+
+//TWO VALUATION MODELS:
+1)Absolute valuation: find the intrinsic value of company by focusing on things as dividends, cash flow, and the growth rate for a single company, and not worry about any other companies.
+Valuation models in this category : dividend discount model, discounted cash flow model, residual income model, and asset-based model.
+
+**Discounted cash flow model - PV of growing perpetuity
+Fair value= Free cash flows/(rate-growth)
+Rate = minimum expected return rate per year by the company for infinite period (WACC is generally used)
+WACC is the minimum required return for a firm (expected equity returns by shareholder is roughly 14% + debt cost is the interest rate at which company took the loan)
+companies always target to earn more returns than WACC
+go through EY, BCG,Chief Economic Advisor reports on sector growth. expected sector growth should be >= WACC
+Benchmark rates: 
+low risk = 6%(govt 10 yr bond yield)
+Medium	risk = 15%(Nifty)
+High risk= > 20%(individual stocks/sectors/MFs etc) 
+PS: since we invest in great companies , risk factor is low and hence we need to discount based on risk free rate
+Add 50% or margin of safety to Fair value, i.e we pay 50% of fair value or below to buy a company
+**But why is margin of safety is needed?
+DCF requires making many assumptions. The future cash flow assumption might go wrong as it rely on a variety of factors, 
+such as market demand, the status of the economy, technology, competition, and unforeseen threats or opportunities
+Growth = by what % does free cash flow grow every year (assumption is 5%)
+Why 5% - since we invest in great businesses, over long period they might have become big and the only for them to grow is when economy grows
+i.e Economy growth will become company growth
+Economy growth = global nominal growth/ India’s nominal growth = 5%
+e.g:
+Free Cash flow =10lakhs
+rate=0.07 (risk free rate)
+growth=0.05
+Fair value=10/0.07-0.05 =10/0.02= 5 cr
+So we need buy this company for  < 50% of 5 cr == < 2.5 cr
+
+2)Relative valuation: 
+compare financial ratios and EV/EBITDA with other companies in the SAME industry also of same size to know the actual value/performance compared to peers 
+P/E of similar companies (ICICI, HDFC but don’t compare ICICI with Dena bcoz of diff in scale, area of operation, products ,management etc )
+
+PS: unfortunately all valuation methods yield different values. Moreover different sectors need dfifferent kinds of valuation
+like e-commerece mostly based on sales, FMCG, consulting based on free cash flows,  new companies based on P/B,
+capex intensive companies based on EBITDA
+
+E.g of Real world scenario:
+Historical cash flow growth: CAGR of free cashflows for last 10yrs (take avg of  3yrs cash flows incase of heavy fluctuations)
+Industry reports:  As u cannot rely on historical data always read EY, BCG,Chief Economic Advisor reports on specific sectors/industry growth and consider the weighted avg growth
+of all sectors in which company has revenue from 
+ITC business revenue share:
+65% tobacco - tobacco estimated to grow at 6%
+35% FMCG - 20% estimated growth
+Overall weighted growth = 0.65*6+0.35*20=11
+Assuming company grows 8% for next 5yrs and then slow down to 5% for rest of the time
+Calculation of PV:
+Then say in the year 2020 cashflow value is x
+Till 2025 cashflow = previous year cash flow*1.11
+Till 2030 cashflow=previous year cash flow*1.08
+From 2031 cashflow increases @5%
+In the year 2030 total cash flows = 2029 cashflow*1.08 + PV of future cashflows from 2030(growing perpetuity formula)
+Calculate PV value of total 2030 cashflows using PV formula
+Discounted value = 50% of PV value of total 2030 cashflows 
+Market Cap should be less than discounted value to go for a buy

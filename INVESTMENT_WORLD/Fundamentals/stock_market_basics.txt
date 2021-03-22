@@ -1,0 +1,163 @@
+********  Stock Market Basics  ********* 
+Long term - growth - so invest only if ur focus is long term -
+Short term - volatility - making profit needs lot of analysis, experience and knowledge. 
+Dividend - given from the profit which company makes from ur share of investment.
+if dividend is given stock price remains same
+If it is not given and re-invested share price will be increased
+//STCG - for both debt instruments and debt mutual funds
+Equity - 15% (<1 yr)
+Debt - added to income (<3 yrs) + tax as per income slab rate. It can be said as salary and hence  u can claim deductions under section 80C. 
+//LTCG -  selling the security after holding it for >1yr and earning profit
+Equity - Profit till 1 lakh is tax free. > 1 lakh  flat 10 percent
+Debt - 20% + indexation benefit
+//intraday trading - income is treated as speculative business income 
+//Dividend - Interest/ return on share - tax free till 5000 in a FY - after that 10% on excess
+DDT is removed and dividend is now taxed in the hands of investor
+//STT - need to pay 0.1% of transaction value when u buy/sell security 
+while buying or selling an equity share (delivery-based), purchaser and seller both need to pay 0.1% of share value as STT.
+Share - face value(depends  on the company), market value (price - depends on demand and supply of the share in the market)
+//promoters - original shareholders/ founders of the company - they decide the face value - dividend is paid on the face value
+//Topline - Turnover/sales
+Bottom Line - profit after tax (turnover - expenses)
+No.of.shares * share price = market capitalization
+//share price may be different in diff markets like NSE/BSE due to demand and supply
+
+*********** Indian Market Timings ****************
+4pm - 9am : after market orders will decide the opening price of share the next day
+Gap up opening, Gap down opening, unchanged
+9am - 9:15 am : all the after market orders(AMOs) are matched
+9:15 am - 3:30 pm : market is open, instant order matching unlike after market orders
+
+
+************ Trading order types ******************
+1)Market order: 
+order to buy or sell a security at the best available price in the current market. 
+fastest and most reliable, but can sometimes lead to unintended and significant costs.
+Commission : less -  least effort from broker
+well-suited for : high volume securities such as large-cap stocks, futures or ETFs.
+Bottom line : fill is guaranteed not the price, hence u might get the security at a higher or a lower price depending on the time of fill.
+2)Limit order: 
+allow investors to have more control over the bid or sell price. 
+purchase or sell a security at a specified price or better. 
+For buy limit orders, the order will be executed only at the limit price or a lower one
+sell limit orders, the order will be executed only at the limit price or a higher one.
+Commission : high - extra effort from broker
+well-suited for : trading thinly, are highly volatile or have wider bid-ask spreads.
+Bottom line : price is guaranteed not the fill, hence u might miss the security itself
+3)Stop Loss order:
+Broker sends the orders to exchange only when a stock moves past a specific price point. 
+stop loss market order - triggers a market order when the price reaches a designated point. 
+stop loss limit order - triggers a limit order when a designated price point is hit.
+Stop loss Order(Buy) - when price increases beyond a certain point then buy market order is triggered to reduce risk
+Stop loss Limit Order(Buy) - when price increases beyond a certain point then buy limit order is triggered/buy limit order goes to exchange/market.
+Stop loss order(Sell) - when price decreases beyond a certain point then sell market order is triggered
+Commission : higher - significant effort from broker
+well-suited for : gain from stock price swings, limit losses
+Bottom line : for those who are unable to monitor their portfolios for extended periods of time, or trading in volatile assets
+4)GTT - good till triggered
+Generally order validity will be a day or for that moment i.e IOC (immediately or cancelled)
+For GTT orders - order is valid till it is triggered (max for 1 year)
+https://zerodha.com/z-connect/tradezerodha/kite/introducing-gtt-good-till-triggered-orders
+5)AMO - after market orders 
+U can place an order even after markets are closed.But they will executed next day before the market opens
+
+
+******** why stock prices go up and down ********
+Mechanism:
+1)Demand and supply of shares
+More shares are in demand(more people want to buy) - supply is less(limited stocks available or few people want to sell)
+Closing price of a share in a day:  End of the day weighted avg price of the shares sold is published by exchange
+2)Factors that drive demand and supply
+Annual report
+Earning report
+Products 
+Legal cases/ scams
+News
+How do you interpret the data is important bcoz is data is available with everybody
+
+
+******** How corporate actions impact stock price *********
+1)Bonus Issue - freely given to share holders
+1:1 bonus issue, the share market price will fall by 50%, FV remains the same
+3:1 bonus shares - 3 bonus shares for 1 share held
+1:3 bonus shares - 1 bonus share for 3 shares held
+Ex-bonus date - need to buy shares before this date to get bonus shares in ur demat
+Record date - bonus shares get deposited in demat on this date
+However, over the long term, and as stock price increases, investors tend to gain. 
+Impact : The share price falls in the same proportion as the bonus issue ratio.
+
+2)rights issue - share holder has an option to buy
+fresh shares are issued by a company to its existing shareholders at a discounted price.
+It could either be for debt reduction or to finance the company’s expansion.
+FV remains same and market value gets adjusted based on (current market price + new price offered )/total shares
+Impact :The share price falls in the same proportion as the rights issue.
+
+3)dividend - quoted per share or as a percentage of the face value of the share.
+Also, when a company does not find any appropriate investment opportunity to deploy its funds, it declares a dividend to share its profits/reserves with the shareholders.
+Impact : Share price usually declines in line with the level of dividend paid per share.
+
+4)Stock Split - face value and market price of share decreases, so that small investors can invest
+used primarily by companies that have seen their share prices increase substantially.
+The number of outstanding shares increases and the price per share decreases, the market capitalization (and the value of the company) does not change.
+Advantage: make shares more affordable to smaller investors, liquidity increases and more buyers and sellers trade in the stock, which, in turn, helps discover its true value.
+E.g:  if the stock’s face value is Rs 10, and there is a 1:1 split, its face value will change to Rs 5. Accordingly, the market value also gets adjusted.
+//Bonus shares are issued, the new shares will have same face value as that of old ones but  Market prices will decrease. 
+Advantage: more dividend income
+
+5)buyback
+company purchases its shares from shareholders, usually at a premium to the market price. Companies go for buybacks to consolidate their stake in the enterprise and for greater control, to support the share price from declining, to improve earnings per share (as it reduces the number of outstanding shares in the market)
+Also They make use of free cash flows to buyback shares
+
+
+******* Types of investors ********
+RII - Retail individual investors - invest in IPO for <= 2 lakh
+HNI - High net worth individuals - invest in IPO for > 2 lakh
+DII - domestic institutional investor - banks, LIC companies, MFs
+FII/FPI - foreign institutional investor
+FDI - foreign direct investors (buys huge amount of stake in the company)
+
+******** Things needed for trading *********
+1)Bank Account
+2)Demat account - storage of Shares/Securities
+3)Trading Account(with brokers) - through which u can place orders
+Demat and trading account should be with the same broker for hassle free experience
+Buying and selling in stock exchanges happens only via brokers and not directly.
+We can have Multiple trading and demat accounts - like multiple savings account
+Contract note - receipt given by broker on Buying/selling shares via sms/email - very important to have this otherwise broker may trade on behalf for brokerage fee 
+
+
+****** Entities involved *******
+Depository - NSDL, CDSL.
+Maintains registrar of members (shareholders) of a given company
+Also converts physical shares to demat format
+NSDL - National Securities Depository Limited which deals with "National Stock Exchange" (NSE)
+CDSL - Central Depository Securities Limited which works for Bombay Stock Exchange (BSE)
+Broker is a member of any stock exchange. Trading account is opened with a broker
+A discount brokerage is a business that allows clients to buy and sell securities but does not provide advice, research, planning or other investment services. As a result, discount brokerages charge lower fees.
+Depository participant is a member of any depository- NSDL, CDSL. while, a Demat account is opened with a depository participant.
+Demat account can only be opened with DP and not directly with CDSL,NSDL
+Every Demat Account has its own unique 16 digit account number which is assigned by the Depository Participant, or the DP, to the Demat Account holder. ... The Demat Account number is also known as Beneficiary Owner ID or BO ID.
+Trading Flow:
+Seller/buyer - broker(trading account, places orders in  exchange) - stock exchange(order executed/matched) - broker gets the trades info from exchange - sends the demat, bank account and trades info to clearing house (settlement in T+2 days - debit and credit bank and demat accounts) and also depositories (refer above)
+ 
+
+************ Primary and secondary markets ***********
+Pvt ltd company - max 200 shareholders, not listed on exchanges
+Public ltd company - can accept more than 200 shareholders but listing is their choice
+If not listed then their shares are called private equities
+Primary market - transaction b/w issuer company and investor - stock exchange is not involved
+IPO(initial public offer), an unlisted company issues fresh shares and goes public.
+FPO(follow-on public offer), an already listed company issues fresh shares to new investors or existing shareholders.
+OFS(offer for sale) - for diluting promoter stake in a listed company. No new shares are created.
+Money goes to promoters and they might spend it or reinvest in the same business or Strat a new business, completely up to them
+Fresh Issue - money goes to company as equity and used by the company to do business and grow further
+Grey Market is the term used to describe unregulated over-the-counter market for trading IPO applications and IPO shares before the stock is listed at a stock market. This is a way for dealers to support their customers who may want to exit before listing.
+There are two kinds of transactions that happen in the IPO grey market:
+* Trade of IPO shares at a grey market premium
+* Trade of IPO application at a kostak.
+GMP or Grey Market Premium is the premium at which equity shares from the IPO are being traded in the grey market. This could either be a positive or negative – meaning the trading price in the grey market is either higher or lower than issue price respectively, based on demand and supply for the shares.
+Typically, investors who do not want to take the risk of allocation not happening through IPO will buy shares in the gray market and hope to flip the shares on listing to make a good profit.
+Kostak rate is the amount an investor gets by selling his/her IPO application in grey market. This is the amount an investor stands to gain, irrespective of allotment status.
+Subject to Sauda simply reflects the amount which an investor stands to get by selling his/her application for firm allotment. The key operative word here is firm allotment. In case of no allotment to the applicant, the sauda stands cancelled.
+
+Secondary market - transaction b/w investor and stock exchange - issuer company is not involved

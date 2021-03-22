@@ -1,0 +1,138 @@
+******** MUTUAL FUNDS ********** 
+https://www.valueresearchonline.com/funds/
+Facts:
+Total stock market capitalisation = promoter shares + floating shares
+Overall floating shares : DII + FII (60%)
+Mutual fund returns are nothing but economy/industry returns
+Hence only few mutual funds can give u index beating returns and not all bcoz at the end the aggregate returns of all mutual funds must be equal to economy/industry returns
+
+
+******** How to choose the best fund to invest *********
+1)Based on time frame:
+Short term : 
+equity: large cap, bluechip, multicap
+debt: overnight, liquid, ultra short and low duration
+Hybrid: conservative, ELSS
+
+Medium term - equity funds with majority in large cap
+Equity: contra, focused
+Debt: banking and PSU debt
+Hybrid: dynamic asset/balanced advantage
+
+Long term: 
+equity funds - small and mid cap
+Debt funds - gilt, corporate bonds, dynamic  bonds and credit risk
+Hybrid: aggressive, multi-asset
+
+2)Based on market condition
+Bull markets - growth stocks will outperform (growth stocks are generally small cap and have large P/E ratio)
+Bear markets - value stocks will outperform bcoz when market retains they will get back their original value (value stocks are generally well established company stocks with low P/E ratio)
+
+https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/short-duration-fund.html
+*************** Fund analysis and comparison ******************
+//analysing individual fund
+Direct - growth funds
+Consistent performance even though never topped the list
+Recent performance should be good
+Less standard deviation - less volatile
+co-relation(less co-relation b/w asset class more diversification)
+R-squared - more correlation with benchmark index is preferred
+Alpha - >1 performance better than benchmark index
+Beta - <1 less risky/volatile assets
+AUM should be high so that tracking error is less
+Expense ratio has to be less
+Cash component should be less -  more cash less returns
+Benchmark - should be acc to category like CRISIL liquid for liquid funds
+Exit load should be zero or negligible -  fee that the Asset Management Companies (AMCs) charge investors at the time of exiting or redeeming their fund units
+YTM should be high 
+YTM means what is the yield/return on a bond if u hold it till maturity
+Also u need to check holdings - if there is any such company involved which has negative forecast
+Portfolio - should consists of stocks which has great future potential 
+
+//comparison of diff mutual funds
+1)Fund performance with market(Sensex/NIFTY) performance
+When market is down MF should go lesser than market
+When market is up MF should go higher than the market 
+2)ratings by CRISIL/ICRA
+
+
+*************** Types of funds **************
+*equity funds - small, mid, large cap | value and growth -risky but more returns in long-term
+Contra funds - invest in assets that are either under-performing or depressed at that point in time
+I.e they go against most of the investors perception
+*bond funds - constant returns - but there is interest rate risk
+Dynamic bond - invest in bonds of varying maturities to reduce risk
+*index funds - less charges for investor as no analyst/expert advice is needed, get dividends
+*Balanced Funds - invest in a hybrid of asset classes to reduce risk exposure
+*income funds - provide regular cash flow to investors
+*international/global funds - risk diversification
+*specialty funds - sector specific like finance, healthcare - high risk - better to avoid unless u have in-depth understanding of the sector
+*regional funds - specific region like china, India, Asia etc
+*ETFs - Just like MFs but units are traded on stock exchange hence price fluctuates
+Daily unlike MF units whose price is decided per day.
+Open ended: no locking | can be entered or exited anytime
+Close ended: locking period 3-4 yrs | can only apply via NFO
+
+************** Mutual funds investing strategy ******************
+If u have no knowledge and don’t want to take any pain on research/analysis - go with index funds
+
+Good Returns for - asset allocation(domestic eq, international eq, debt, gold and commodities) rather than stock selection of individual companies
+Reason: diff asset classes perform well at diff times, few years equity, few years gold. 
+Even in equity few yrs large cap, few yrs small cap, few yrs mid cap. 
+
+Invest in - previous yr low return asset, diversify the investment + follow business/economy/finance news
+
+//SIP vs Lumpsum
+Forecast is Bear market - SIP is preferred so that all ur money isn’t invested when price is high
+Forecast is Bull market - Lumpsum is the best bcoz u can get units at lesser price
+If u have no idea then go for SIP (dollar cost averaging) - ultimately u will buy at an average price
+
+//direct and regular plans(more expense ratio) are two different channels of investing
+//growth and dividend are two profit distribution options
+In the growth option, the profit made by the scheme is re-invested in the scheme - compounding effect will be high
+In dividend option, the profit made by the scheme, partially or fully paid to the investors
+
+1)portfolio construction - diversification is most important
+Index funds are must and Bluechip funds are preferred to be next 
+Index funds - Nifty(UTI,ICICI,HDFC) | Nifty next 50 (UTI,ICICI)
+Senses vs nifty index funds - nifty represents a broader part of economy
+Gilt funds
+Bluechip - national reputation, quality, reliable, operates in good and bad times with profit
+Contra - Invesco India Contra Fund
+Large cap - Mirae Asset Large Cap Fund Direct Growth
+mid cap - https://groww.in/mutual-funds/mirae-asset-emerging-bluechip-fund-direct-growth
+Multi cap
+small cap
+
+
+2)Every month plan (SIP) - 10,000/month
+Every year increase ur monthly SIP  by at least 10%(or rate at which ur salary increases)
+Note: invest more amount when markets have crashed - so tracking markets is must 
+Choose the best exit time or keep it for 5+yrs
+
+3)price(market price) vs value(intrinsic value from the company)
+share/MF unit market price >  share/unit value - sell them
+share/MF unit market price <  share/unit value - buy them
+share/MF unit market price =  share/unit value - hold them if u r confident on the company/industry future
+Also when markets are down  - buying is the best
+When markets are up - selling is the best
+
+
+********* Index funds vs ETFs ************
+Both are same from investment perspective
+But Index funds are preferred.
+
+Index funds :
+units are bought from  MF houses - no liquidity issues
+No need to have trading and demat account
+Expense ratio may be more compared to ETFs
+SIPs are easy by providing mandates
+No transaction charges
+Issue: Buy/sell only at NAV of closing day if bought before 3pm else next day closing NAV
+
+ETFs:
+Bought from exchange - There can be iquidity issues if there are no sellers/buyers
+Must have a trading and demat account
+SIPs need to done actively no mandates allowed
+Transaction charges are levied by broker as buy/sell happens on exchanges
+Adv: But/sell at market price

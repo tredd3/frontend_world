@@ -1,0 +1,63 @@
+***** Index funds (passive) ****** 
+What does INDEX actually reflect? 
+Short Term: reflects stock market performance. P/E dominates in the period
+Long term : reflects economy performance 
+Index only grows when economy is doing better, consumption increase, GDP grows => implies next generation is leading a better life. Earnings dominate in this period
+
+NIFTY 50 - top 50 companies are decided only based on market cap and not on any other factors
+SENSEX 30 - top 30 companies only by market cap
+https://www.youtube.com/watch?v=kn2vMhAqO3g&ab_channel=DeepakGajraniClassesICOS - sensex history
+Index funds - mutual funds which invest money in all the companies in NIFTY in the same ratio as that of NIFTY composition
+When any company’s market cap decreases then NSE automatically adjusts the weight and Index funds would replicated the same.
+If a company performance is worse then NSE removes it from the index and index funds does the same.
+
+Does NIFTY represents GDP?
+Yes. aggregate of Sales of all companies in NIFTY have a strong correlation with India’s GDP
+To prove it we need to compare NIFTY sales with GDP and not NIFTY Earnings.
+Because GDP is all about sales, and not all the revenue from sales will be earnings of the company because they might have to repay the debt, invest in R&D, merger and acquisition, capex for expanding etc
+What if non-listed startups like paytm, zomato, ola,uber contribute more to GDP.
+Will NIFTY and GDP correlation be broken? Ideally yes but if startups like these perform, then the promoters generally will list the company via an IPO to book profits. So ultimately they will become part of NIFTY index.
+
+WHERE TO INVEST: Nifty, Junior Nifty
+https://www1.nseindia.com/products/content/equities/indices/index_funds.htm
+https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/index-fundsetfs.html
+
+WHEN TO INVEST: 
+Dow theory: 
+3 market Trends
+1)Primary Trend:
+Up trend: upcoming bottoms(lows) are higher than previous bottoms
+Down trend: upcoming tops(highs) are lower than previous highs
+2)Secondary Trend:top to low wave 
+3)Tertiary Trend: can be ignored
+When to buy: 
+if both PE and earnings are low no need to check dow theory else
+Let the market fall and whenever there is a recovery check
+if price is more than recent significant top, check PE and take decision, earnings not required
+Bank PE =100/5 = 20 , low PE range = bank PE+5
+Check PE, if<25 invest 100%,  > 32 0%, 25-32 then 50% and rest in debt funds bcoz u r not sure 
+whether markets will go up or down. if markets go down invest remaining 50%
+Avg Earnings growth rate: 14% (avg  nominal gdp growth in longterm)
+EGR < 14% for past 3-5  years buy else sell
+When to sell: if both PE and earnings are high no need to check dow theory else
+Let the market rise and whenever it falls check
+if price is less than recent significant bottom, check PE and take decision, earnings not required
+Check PE, if>32 sell 100%,  < 25 don’t sell it’s time to buy, 25-32 sell 50% 
+
+rules to identify significant bottom (valley)
+A - recent significant top
+B - least point after A
+C - highest point after B
+Width 31 days and height change 4%
+rules to identify significant top (mountain)
+A - recent significant bottom
+B - highest point after A
+C - lowest point after B
+Width 31 days and  height change 4%
+If any given bottom or top doesn’t satisfy this criteria we consider them teritary waves and ignore them
+
+
+HOW TO INVEST: 
+SIP(every month) - every time markets go down invest more 2X
+Lumpsum (when both PE, earnings are less + dow theory),
+Wealth Maximization (Lumpsum concept )

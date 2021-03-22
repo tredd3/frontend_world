@@ -1,0 +1,23 @@
+//Longer loan tenure advantages:
+
+1)Control in our hand - EMI can be increased if needed but very difficult to increase
+Also pre-payment can be done when needed - so u will be paying less interest to banks
+2)Monthly expenses and investments will not take a hit since the EMI is less 
+3)Money loses value over time - so in the long run u will technically be paying lesser amount
+i.e today’s 20,000 is much worth than 20,000 after 5 yrs
+4)Moreover salary increases every year hence EMI/salary ratio keeps on decreasing
+Remaining amount can be invested
+5)U can take new loans if needed for other reasons/investments
+6)If it is a home loan - then tax advantage
+
+
+
+//Loan pre-payment vs investment 
+
+Which one is better - depends on the tenure of the loan and pre-payment time
+EMI : in the initials years  major part(say 80%) is used for interest payment and remaining in principal payment
+let us say tenor is 20 yrs
+In the first 10 years : major part of the EMI goes towards interest payment
+In next 10yrs: major part of the EMI goes towards interest payment
+so Pre-payment should be done in the first 10yrs (i.e < half of the tenure) so that u pay less interest to bank
+Else no point in pre-payment as after 10yrs u r anyways paying principal. Rather u should invest the surplus amount in equity.
