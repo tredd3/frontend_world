@@ -1,0 +1,124 @@
+******** MY Investment checkList ********
+GOLDEN RULES : 
+INVEST IN YOURSELF: Read and analyse News - link it with ur investment , Books, finance Videos
+1)NEVER LOSE CAPITAL
+2)RISK LIES IN THE PRICE AND NOT ASSET CLASS - buy assets at cheaper price
+Even Buying great companies at higher valuation is also a risky thing 
+3)HAVE KNOWLEDGE BEFORE INVESTING - MORE KNOWLEDGE === LESS RISK
+3)SHORT TERM PRICE CHANGE is due to market sentiment (as earnings/revenue can’t increase in short term)
+4)LONG TERM PRICE CORRECTION IS DUE TO EARNINGS
+SO, LONG TERM INVESTOR SHOULD HAVE A OWNER MINDSET: focus on earnings not on share price, bcoz if earnings increase market sentiment(P/E) increases and hence share price eventually increases)
+5)WHEN TO BUY: when both PE and Earnings are less
+6)WHEN TO SELL: when both PE and Earnings are high
+
+
+MASTER TIPS & TRICKS:
+1)Transfer all your equity amount to debt for stability - if u feel stock markets are going to crash.
+Once market crashes and starts to recover put all ur debt amount to equity for growth.
+2)if NIFTY and Jr.NIFTY PE is almost same invest in Jr.Nifty as the earnings increase faster in junior nifty
+https://trendlyne.com/equity/PE/NIFTYNEXT50/1888/nifty-next-50-price-to-earning-ratios/
+
+
+//INDEX INVESTMENT - SAFEST
+Stock market going down and down? Invest in Junior Nifty as well but not much, only your risk capital 
+1)How to know markets are cheap?
+Extremely cheap:
+Both Market cap/GDP < 1 and GDP are low, both PE and EGR are less or PB is low 
+Estimated PE:  avg of medium range
+Bank PE =100/6 = 18  low PE range = bank PE+5 , low: 23, medium : 23-28, high > 28
+Medium costly: 
+Either Market cap/GDP < 1 or GDP is low, Either PE or EGR is less, PB is low 
+Generally if P/E ratio is more markets are costly but if earnings are less PE will be more and markets are still cheap because earnings are less. Hence market_cap/GDP is the right measure.
+In the long run market cap/gdp correlation has to be 1 (bcoz company valuation depends on its earnings in the long run)
+2)Data Points and Calculations
+Calculation: 
+https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+market_cap/GDP - https://www.gurufocus.com/global-market-valuation.php?country=IND
+Data Points : Nifty
+Price: https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm
+PE, PB - https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm
+Market cap - https://www.nseindia.com/regulations/listing-compliance/nse-top-1000-companies
+Data Points : Sensex
+price, PE, PB - https://www.bseindia.com/markets/keystatics/Keystat_index.aspx
+Market cap - https://www.bseindia.com/markets/equity/EQReports/TopMarketCapitalization.aspx
+
+
+//MEDIUM RISK
+Sector investments - cyclical, needs continuous monitoring
+Final summary of sectors and corresponding companies in that sector
+WIP - check sector and company hunt
+
+
+//HIGH RISK - INDIVIDUAL STOCKS
+1)PSU investment:
+ monopoly PSUs are better in long term other PSUs might be profitable in short term
+2)Bank valuation:
+NPA,CASA - less
+NIM,ROA,ROE - more
+3)Monopoly:
+B2B : customer identification
+B2C : essential products or luxury goods - buy at cheap valuations
+
+//Stock selection Tests: 
+Resources:
+https://www.morningstar.in/stocks/0p0000bqwx/bse-gail-(india)-ltd/overview.aspx
+https://www.screener.in/company/VGUARD/#cash-flow
+Normal check on stock price since inception - google search
+Wiki search
+
+1)Screening Test: Elimination
+Pre-step: google search why a company share is falling check why it is falling
+Internal factors: then skip the company
+External factors: then proceed with screening
+1)do you have enough knowledge about the industry ? 
+If NO then first gain knowledge on the industry present situation, check future growth rate, probable substitutes for the products, any govt regulations etc before proceeding 
+2)is it a predictable/steady business? 
+Check? Gross profit Margin and operating profit margin should be steady/Increasing
+Effect: cash flows can be discounted
+3)strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
+4)does it have moats? Check individual stocks section
+If most of them are passed then go to step 2
+Else discard the company and check other company
+
+2)Financial Health Test:
+5)Are you getting it at a good price/valuation- check company valuation section:
+3)PE < 20(medium) ? 
+High P/E  could also mean earnings are less - need to check
+Low PE could also mean sth is fundamentally wrong with the company - need to check
+4)PB - NA bcoz if it is a B2C company
+5)D/E < 0.5 ? 
+6)ICR high? NA if debt is 0 
+7)ROE > 15%
+8)
+—Both top line and bottom line is growing - extraordinary businesses
+I.e Gross profit Margin is either steady or increasing
+—Bottomline is growing fast but top line growth is slow - company having great moat
+i.e people are paying premium and has customer loyalty
+—Top line is growing but bottomline is not - bad business modal bcoz company is  trying to capture the market share first and then earn profits. But will the customers come back to the company for purchases? Is there any such moat ? 
+If yes - then definitely a good business
+If No - means other players will enter into market and current company will face losses
+9)Gross profit margin/Gross margin is steady or increasing?
+10)Operating profit margin/Operating margin is steady increasing?
+11)free cash flow is increasing?
+Fair value calculation for immediate year:
+Fair value = estimated earnings * Fair PE (roughly 27-28 as of 2021)
+estimated earnings  = 14% increase on previous year earnings (10% actual + 4% inflation)
+
+If most of the factors are good go to step 3 
+Else put the stock in watchlist
+
+3)Final and most important
+If cash flow regular? 
+    Market cap < DCF  - stock undervalued buy (verify from morning star, zerodha see detailed info section)
+    Market cap > DCF - stock overvalued (put in watchlist)
+Else 
+	buy based on step 1 and 2 results
+
+
+//very high Risk investments - HIGH RISK === HIGH RETURNS
+Junior Nifty - only buy when PE is low - During Boom junior nifty grows exponentially and during burst it goes down exponentially
+Growth Stocks
+Sector Investments - cyclical 
+Startups
+Intraday - avoid
+Options and futures - avoid

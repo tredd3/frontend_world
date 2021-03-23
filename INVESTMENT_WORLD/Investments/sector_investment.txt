@@ -1,0 +1,48 @@
+***** Sectors (semi active) ***** 
+****WHEN TO INVEST: depending on the economic cycle, during burst period or recovery phase
+Phases of Economy -
+Burst to Boom:
+Phase 1: RBI focuses on growth and decreases bank interest rates => people/companies take loan and spend => increase in demand. Most of the public spends it on home and vehicles.
+Impacted sectors => banks(income increases), auto and real-estate (sales increase)
+Problems :
+Banks - NPA mess
+Auto - supply is more but demand is not getting created
+Infra - supply is more but demand is not getting created 
+Phase 2: To counter the demand generated in phase 1  and to help increase supply Govt spends on Infrastructure(rail, road, aviation, power) => Job creation => further  increase in demand
+Companies can now focus only on core business, supply is met quickly and also job creation
+Phase 3: commodity(soft - agriculture, hard - metals, raw materials for construction) - as lot of jobs and demand is created in the previous phase commodity sector grows fast => economy enters boom peak (inflation at peak) =>if RBI doesn’t control inflation at this stage it can lead to hyper-inflation and economy will collapse => hence RBI increases interest rates and demand decreases
+Boom to Burst :
+Phase 4: Invest in FMCG, Pharma and Gold (as they are stable sectors)
+ 
+
+*** How to know what phase our economy is?
+Look at Stock market data - earnings
+Interest rates - less (burst to boom phase)
+
+
+*** What all sectors NIFTY/SENSEX is composed of? 
+MAJORITY I.e 75%: Banking/Finance , Technology and Oil & Gas 
+Banking/Finance - 34%
+HDFC,ICICI,SBI etc
+Technology - 21%
+Oil & Gas - 16%
+Cons Non-Durable - 5%
+Automotive/Transportaion- 4%
+Tata Motors,Hero Corp, Bajaj Auto
+Telecom - 3%
+Tobacco - 3%
+Power - 1%
+NTPC,Tata Power
+Pharmaceuticals - 2.3%
+Dr Reddy, Cipla, SunPharma
+Cement/Construction - 2%
+Chemicals - 2%
+Metal & Mining - 
+Tata Steel, Coal india, Sterlite, Jindal, Hindalco
+Oil & Gas - 2%
+RIL,ONGC,GAIL
+Engineering/Capital goods - 2%
+L&T, Bhel
+FMCG- 2%
+HUL,ITC 
+
