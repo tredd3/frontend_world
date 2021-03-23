@@ -33,8 +33,8 @@ For Great companies - D/E is 0
 ROE should be  > 15% else better to invest in index funds
 4)P/B - market value per share to book value per share
 ROE and P/B must be in sync 
-Book value/net worth/net assets/equity= total assets - liabilities
-in simple words book value is what shareholders get after company is liquidated/sold
+Book value/net worth/net assets/equity= total assets - liabilities (Intangible assets such as patents,copyrights, brand recognition, and goodwill are not included in the balance sheet)
+in simple words book value is what shareholders get after company is liquidated/sold and it's liabilities are paid off
 When to buy based on PB: for a new company where earnings haven’t begun, B2B(ONGC,GAIL) exceptions for companies like L&T, Intel bcoz they established a sense of trust in customers
 PB value should be < 1.5 for great valuation
 5)free cash flow = owner’s earnings =Net Cash flow from Operating activities(CFO) - Capex

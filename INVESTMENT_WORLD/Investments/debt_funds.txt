@@ -1,0 +1,42 @@
+******* Debt funds ********
+//About Debt funds
+Debt funds are mutual funds that invest in bonds(govt bonds and corporate bonds )of varying maturity(short term and long term)
+Investment period should be equal to bond period else there is a risk
+Don’t buy debt funds for any random price 
+In short term both debt funds and FDs have similar tax calculations I.e based on the current income slab
+
+Debt funds : Tax efficient in Long Term
+e.g: 
+Return =7%
+Inflation=5%
+Long term= After 3 yrs 
+U will get indexation benefit, effective return = Return - inflation = 2%
+Flat 20% tax irrespective of income slab  on effective return = 2*20% = 0.4%
+Final return = 7% - 0.4% = 6.6%
+
+FD: 
+e.g:
+Return : 7%
+No indexation benefit 
+Interest Income added to total income and tax based on income slab
+For 30% tax bracket people 
+Final return = 7% - 30%*7  = 7% - 2.1% = 4.9%
+
+Types of debt funds: 
+Liquid funds : short term govt bonds(treasury bills) + short term corporate bonds (commercial paper)
+Duration : < 1 yr
+Adv: non interest rate risk, capital won’t depreciate, can withdraw anytime
+Disadvantage: less returns
+Ultra short funds :  medium duration bonds
+Long Term debt funds : 
+short term govt bonds(GILT) + short term corporate bonds (debentures)
+Adv: more returns
+Disadvantage:  re-investment and inflation risk, capital depreciation risk in secondary market
+PS: avoid investing in long term debt funds rather consider equity.
+
+Risk involved:
+1)inflation risk
+2)credit/default risk
+3)re-investment risk - by the time u get the money prices would have drastically increased
+4)interest rate risk - if the bank interest rates keep increasing u will be at loss if u sell the bond in secondary market, as the bond face value decreases to make the yield equal to current bank interest rates
+pre-maturity withdrawal risk - if the bank interest rate high than the bond yield no one will buy in secondary market

@@ -1,0 +1,9 @@
+//financial formulas 
+1)Rule of 72
+72=rate * years
+If rate is 6% then money gets doubled in 12 yrs
+2)lumpsum/stocks(one time investment, one time return) - CAGR
+3)SIP/LIC(for periodic investments, one time return) - IRR 
+https://www.youtube.com/watch?v=Azi4VQhlQFw&ab_channel=CARachanaPhadkeRanade
+4)FV of Annuity - equal amounts invested at equal intervals (SIP/PPF/LIC) 
+
