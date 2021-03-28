@@ -48,7 +48,9 @@ maintaining at application level.
 node --trace-events-enabled --trace-event-categories v8,node server.js
 Running Node.js with tracing enabled will produce log files that can be opened in the chrome://tracing tab of Chrome.
 https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
-/setImmediate() is designed to execute a script once the current poll phase of event loop completes.
+phases/ticks:timers,I/O callbacks,(idle, prepare),poll,check, close callbacks
+cycle: all the above ticks together form a phase
+/setImmediate() method is called in the poll phase and it’s callback functions are invoked in the check phase, i.e after poll phase of event loop completes.
 /process.nextTick() technically not part of the event loop. Instead, the nextTickQueue will be processed after 
 the current operation in stack completes, regardless of the current phase of the event loop.
 all callbacks passed to process.nextTick() will be resolved before the event loop continues.

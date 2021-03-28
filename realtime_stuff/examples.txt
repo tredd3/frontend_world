@@ -13,3 +13,8 @@ batch update - update react state for say 6 messages instead of single message u
 Throttling allows you to set the maximum number of messages that can be processed by a worker process/server in a given time frame
 https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html
 react async rendering - time slicing + suspense (adapts to user's device and network)
+
+//deal with streaming data and streaming events
+http://reactivex.io/documentation/operators/from.html
+https://rxjs.dev/api
+
