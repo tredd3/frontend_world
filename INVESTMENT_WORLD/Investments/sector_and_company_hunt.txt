@@ -12,27 +12,33 @@ https://www.screener.in/explore/ - in the right side panel sectors are visible
 https://www.tickertape.in/screener - in the filter section sectors are available
 Note: MAJORITY I.e 75% of NIFTY sectors: Banking/Finance , Technology and Oil & Gas 
 1)Daily use: 
-Telecommunications
-Food - fast food, healthy food
-FMCG consumption - packed foods, instant mixes etc
-FMCG delivery - big basket
-Travel - road/train/aviation
-Health(lab testing, hospitals etc)
-Pharma -sun Pharma, division labs, dr.reddys etc
-Education
-Banking and finance stocks
-Power/energy - solar power, gas
-Water - pipes 
-Paints, granites etc - research
-Infrastructure/real Estate - construction 
+**Infrastructure/real Estate - construction 
 Cement, steel companies and other raw material companies
 Like l&t, ncc, Dilip buildcon
-Waste management 
-Banks/NBFCs
+Telecom
+Power/energy - solar power, gas
+Defence
+Companies manufacturing related equipments like BHEL, BEML
+
+
+** rock star sectors
+Banking and finance stocks
 Insurance - LIC, hdfc life etc
+Technology - IT, Electronics
+Health(lab testing, hospitals etc) - dr lal path labs, apollo
+Pharma -sun Pharma, division labs, dr.reddys etc
+FMCG consumption - packed foods, instant mixes etc
+FMCG delivery - big basket
 Habits- liquor, tobbaco, gaming
+Travel - road/train/aviation
+
+
+**household
+Food - fast food, healthy food
+Water - pipes 
+Paints, granites etc - research
 Entertainment, Tourism
-Technology -ML, AI, BLOCK CHAIN, Robots, Electronics etc
+
 Next 1year top sectors:
 healthcare
 Liquid Waste management: Ion exchange, va tech wabag, thermax etc
@@ -48,7 +54,7 @@ negative: oil, coal
 Positive: lithium batteries(manufacturing company: Himadri)
 Clean Energy - anti pollution
 Quick service restaurants
-Technology
+Technology -ML, AI, BLOCK CHAIN, Robots, Electronics etc
 
 // which sectors are bound to grow for next 5yrs? U can read reports on expected growth , also use ur intelligence 
 Which sectors customers are attracted to for sustainability?
@@ -76,10 +82,7 @@ https://www.nseindia.com/market-data/live-equity-market
 Monopolies selling essential goods and services- first priority
 Monopoly company?
 Debt free companies ?
-Business Model and where does it get its revenue from
-If it is a good company? Then what are its future projects and their scope
-checkout its future use for public(eg: organic eatables, water and air purification, waste management, EVs are need of the hour and have future scope)
-Will it earn profits beating its competitors? how can u say? What is the moat 
+//apply Stock selection Tests from My investment checklist section
 
 
 //For Investing
