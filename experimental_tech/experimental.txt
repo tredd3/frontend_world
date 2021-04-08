@@ -1,0 +1,17 @@
+//Data Science World = Data analysts(exploration) + Statisticians(make a decision) + ML/AI(automation decision)
+Data Science = making data useful (getting conclusions from data)
+Data engineering = making data usable (filtering and structuring data so that DS team can use it)
+1)Data analysts
+hypothesis
+speed
+2)Statistics
+data + assumptions = inference
+3)ML/AI
+algorithms - programming
+applied mathematics - calculus, linear algebra, Statistics etc
+
+
+//traditional programming vs ML
+data + Rules => traditional programming => Output
+data + Output => ML model => Rules
+
