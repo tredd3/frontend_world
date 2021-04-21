@@ -1,4 +1,5 @@
 //https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e/
+//https://carloscaballero.io/es2020-features-in-simple-examples/
 
 //******** ES 2017 **************
 Exponentiation - 2 ** 7  //before Math.pow(2,7) 
@@ -285,3 +286,18 @@ class Component {
         return this.value;
     }
 }
+
+
+//******** ES 2020 **************
+//https://www.freecodecamp.org/news/javascript-new-features-es2020/
+import * as utils from './utils.mjs'
+//However, no symmetric export syntax existed, until now:
+export * as utils from './utils.mjs'
+//This is equivalent to the following:
+
+import * as utils from './utils.mjs'
+export { utils }
+
+//globalThis which always refers to the global object, no matter where you are executing your code
+//This is because it is window for browsers, global for Node, and self for web workers. 
+

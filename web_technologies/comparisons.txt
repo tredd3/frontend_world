@@ -1,0 +1,77 @@
+
+/React(Library ) vs React native(Framework for building native hybrid apps using JavaScript)
+React Native is a complete platform, similar to a web browser, and  it provides a lot of the same APIs (e.g. XMLHttpRequest, setTimeout, geolocation, etc) -uses native components instead of web components -  u can�t use browser features(it has it�s own API)
+ReactJS is used for UI layer- u can use browser features - u can use it for websites and apps.
+React Native framework uses ReactJS library. it is also possible to use React Native in the browser by using react-native-web
+Both PhoneGap and  React Native  are �bridge� between JS and native platform
+ Cordova, PhoneGap for hybrid apps - render code via WebView so u can use angular and other web technologies unlike React Native where u can only use React. Same ui only all platforms and u can code once run anywhere .You can still access phone components via the navigator API. Sluggish performance
+React Native for native apps - renders native components.The app feels & looks native (different ui on different platforms) hence some components needed to be coded specific to platform. Better user experience and zero compromises on performance
+One single code base for both android and IOS both incase of webview + phonegap and react-native. But, incase of react native u will get native app feel.
+react-native-web: This library will convert our react-native components into web elements
+react-router-native:�routing library for React Native 
+react-router-dom:�routing library for React on the web 
+React uses HTML,CSS, virtual Dom  but React Native doesn't. we have to use native syntax,  animated API for css and Native API�s to render components on mobile.
+Server side rendering - faster initial Loading  and SEO improvement  
+isomorphic application�is one whose code (in this case, JavaScript) can run both in the server and the client.
+Do you need to make a highly complex app which utilizes a large portion of platform-specific code?�Go native.
+Does your app need to support new mobile OS features as soon as they are released?�Go native.
+*Flutter by google - develop applications for Android, iOS, Linux, Mac, Windows, and the web from a single codebase
+It uses the Dart programming language which is very similar syntactically to JavaScript.
+
+
+//YARN vs NPM
+https://stackshare.io/stackups/npm-vs-yarn
+*YARN by facebook to overcome shortcomings of NPM
+*NPM installs all and every package from npmjs.com which hinders accessibility in the event that one goes down, 
+Yarn, on the other hand, installs from multiple repositories npmjs.com as well as Bower
+*Yarn caches every package it downloads so it never needs to again.NPM downloads the packages everytime u run npm install
+*Yarn is fast bcoz of parallel downloading of packages Npm downloads packages sequentially
+
+
+
+//REACT(library) VS ANGULAR(framework-MVC archiecture) VS VUE
+REACT - virtual DOM
+Built for large and complex web apps 
+HTML ,CSS and JS all clubbed in to one component
+Virtual DOM - only updating parts of the DOM that changed instead of rendering the whole DOM
+React hooks lets you use every important feature of React � server-side rendering, accessibility, concurrent mode, and suspense � all without writing a class.
+React doesn't deep compare and hence never mutate state or props | Immutable data cannot be changed once created
+https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56
+VUE - 
+Easy to learn, lightweight, integration in the existing	projects, excellent documentation, virtual DOM, security, separation of HTML,CSS and JS
+ideal for startups and can also be used for large web apps
+Vue has official packages for state management, routing, or server-side rendering. unlike React where u are free to use anything
+1)Angular - Everything is available inbuilt. In react u can choose from many options(flexibility)
+2)two-way data binding(data mutable) vs unidirecional flow(immutable data)
+3)REACT(library) VS ANGULAR(framework)
+4)REACT(virtual DOM) VS ANGULAR(real DOM)
+5)React requires a set of tools to perform different types of testing.
+The testing and debugging for a complete angular project is possible with a single tool.
+**both are component based and used for creating SPAs/MPAs
+
+
+//JAVA VS NODE
+*Node.js is NOT a programming language. It is also not a framework. Node.js is an open-source, cross-platform JavaScript (JS) run-time environment that executes JavaScript code outside of a browser
+*Node is for simple, fast and scalable and real-time applications. Java is for highly complex and concurrent apps.
+*Node for I/O-intensive apps that include a lot of disk or network access, therefore we can serve more clients, without the need of throwing more hardware.
+ And that is why Node applications are highly scalable.
+*Node shouldn�t be used for CPU-intensive applications (video encoding, image manipulation service etc.) as it is single threaded (worker threads can help)
+*Java is platform independent due to the so-called Java Virtual Machine � the environment where Java code is executed.
+Node.js has modules that are tied to the operating system. When you need the software to run on another platform, you will have to rebuild the modules, so that they are compatible with the new OS.
+
+//monolithic vs Microservices
+*Microservices are frequently deployed on their own virtual machines - loosely coupled(independent of other services)
+parallel development - each service has its own database - can be reused in other projects
+scalable - e.g u have profile, analytics and chat service in ur system. if people are using more of
+the chat service then we can scale(horizontally scalaing) i.e add more chat servers
+A monolithic architecture - app is written as one cohesive unit of code - tighly coupled,
+sharing the same memory space and resources - frequent deployments - rigrous testing
+if something fails enire system fails
+
+
+//CDN vs Cloud computing
+**CDN is simply a network of servers that replicate your binary files so that they are served from geographically close locations. 
+CDN has been around for a lot longer than cloud computing as you know it today.
+Not every cloud provider is a CDN, and not every CDN is a cloud computing provider.
+**Cloud computing is simply - dividing up a large computing resource (usually processing power) into little chunks which you can use remotely.
+

@@ -1,0 +1,8 @@
+//source map
+Source map is used for debugging transpiled/minified files in production or transpiled files in development.
+Source map is a json file (filename.js.map)which is generated using build and other tools like web pack etc which contains info of  what all files are transpiled/minified in to one.
+sorucemappingurl directive is added by web pack at the end of minified/transpiled file with the info of original files.
+On opening dev tools if source maps option is enabled in the browser settings then browser will look for sourcemappingurl in the minified file
+And based on that it will fetch/download the corresponding original files which can be used for debugging.
+If it is a secure site like banking or u want to protect the code from others use fiddler.
+

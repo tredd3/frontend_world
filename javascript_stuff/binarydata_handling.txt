@@ -1,0 +1,40 @@
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays
+https://javascript.info/arraybuffer-binary-arrays - must go through
+**Typed Arrays are array-like objects that provide a mechanism for reading and writing raw binary data in memory buffers/blobs
+raw binary data - audio, video, image, file
+Each entry in a JavaScript typed array is a raw binary value in one of a number of supported formats, from 8-bit integers to 64-bit floating-point numbers.
+Not all methods available for normal arrays are supported by typed arrays (as they are array like objects and not arrays)
+convert typed array in to an array using array.from() or Array.prototype.slice.call(typedArray);
+/Buffers and views: typed array architecture
+ A buffer (implemented by the ArrayBuffer object) is an object representing a chunk of data; it has no format to speak of and 
+ offers no mechanism for accessing its contents. In order to access the memory contained in a buffer, you need to use a view.
+A view provides a context — that is, a data type, starting offset, and the number of elements — that turns the data into a typed array.
+**The ArrayBuffer is a data type that is used to represent a generic, fixed-length binary data buffer. 
+You can't directly manipulate the contents of an ArrayBuffer; instead, you create a typed array view 
+or a DataView which represents the buffer in a specific format, and use that to read and write the contents of the buffer.
+Typed array views are in the native byte-order of your platform. 
+With a DataView you are able to control the byte-order.
+new ArrayBuffer(length) - creates a new ArrayBuffer in the memory of the given length in bytes and intialises them to 0
+var buffer = new ArrayBuffer(8);
+var view   = new Int32Array(buffer);//reads 32 bits at a time 8*8/32 = 2 items in the array[0,0] 
+each item in a view is represented as 32 bits
+var view   = new Float64Array(buffer);//reads 64 bits a time [0] - each item represented as 64 bits
+
+
+//https://javascript.info/binary
+ArrayBuffer and views are a part of ECMA standard, a part of JavaScript.
+To manipulate/iterate an ArrayBuffer, we need to use a “view” object.(either typed array or dataview)
+
+Blob: In the browser, there are additional higher-level objects, like Blob described in File API
+Blob objects are immutable - We can’t change data directly in a Blob, but we can slice parts of a Blob, create new Blob objects from them, mix them into a new Blob and so on.
+This behavior is similar to JavaScript strings: we can’t change a character in a string, but we can make a new corrected string.
+FileReader object is used to  read data from Blobs in multiple formats.
+https://developer.mozilla.org/en-US/docs/Web/API/FileReader
+https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API
+
+
+why we need Blob when we have Array Buffer?
+ArrayBuffer is a memory area. What’s stored in it? It has no clue. Just a raw sequence of bytes.
+Blob represents “binary data with type” - That makes Blobs convenient for upload/download operations in the browser.
+
