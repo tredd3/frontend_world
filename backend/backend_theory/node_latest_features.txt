@@ -1,0 +1,27 @@
+https://www.esparkinfo.com/node-js-14-features.html
+https://nodejs.medium.com/node-js-version-14-available-now-8170d384567e#:~:text=js%2014%20was%20released%20today,of%20some%20long%20deprecated%20APIs.
+1)ES2020 features
+2)
+
+
+https://betterprogramming.pub/whats-new-in-node-js-15-fc24e87e2590
+https://blog.logrocket.com/node-js-15-whats-new-and-how-the-developer-experience-has-improved/
+1)NPM 7 - many new features: https://blog.npmjs.org/post/634067895980294144/release-v709
+//biggest feature is NPM workspaces, which is the start of built-in support for creating and managing multiple NPM packages in a single file system.
+//Running NPM packages without installing them first has become part of core NPM with the new npm exec command. This new command replaces npx but also behaves slightly differently
+//NPM now supports yarn.lock files. If present, this file will be used by NPM to determine where to fetch packages from. 
+NPM will even update it as packages are added or removed. There is no plan to replace package-lock.json with yarn.lock. 
+In fact, a package-lock.json file is still generated and maintained as the authoritative source of package version metadata.
+//Peer dependencies were essentially ignored in NPM 6. In NPM 7, they are installed by default. 
+//Deterministic builds: NPM ensures that versions of installed packages remain the same across builds if the package-lock.json file has not changed
+
+2)ES 2021 features are available - as V8 version is bumped up
+3)Experimental support for the QUIC protocol (HTTP/3) - a multiplexed stream transport over UDP
+QUIC is very similar to TCP+TLS+HTTP/2 implemented on UDP. Because TCP is implemented in operating system kernels, and middlebox firmware, making significant changes to TCP is next to impossible. However, since QUIC is built on top of UDP, it suffers from no such limitations.
+Key features of QUIC over existing TCP+TLS+HTTP2 include :
+It has built-in security with TLS 1.3, flow control, error correction, reduced connection establishment time, and multiplexing.
+4)Unhandled rejected promises - throws error instead of warnings
+5)Experimental diagnostics channel module
+Node.js 15.1.0 introduces a new experimental module named diagnostics_channel. This module essentially enables a publish-subscribe 
+pattern that developers can use to publish arbitrary data to a channel that can be consumed by other modules or applications.
+6)The deprecated node debug command has now been removed. It is replaced with node inspect, which uses the widely adopted inspector-based approach to debugging Node.js
