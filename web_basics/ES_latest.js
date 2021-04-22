@@ -290,14 +290,44 @@ class Component {
 
 //******** ES 2020 **************
 //https://www.freecodecamp.org/news/javascript-new-features-es2020/
-import * as utils from './utils.mjs'
-//However, no symmetric export syntax existed, until now:
+//BigInt - allows developers to have much greater integer representation in their JS code for data processing for data handling.
+//Dynamic import supported by browsers - now u don't need module bundlers for code splitting
+//Nullish Coalescing operator (??) - checks for either undefined or null
+//Optional Chaining(?.) -  allows you to access deeply nested object properties without worrying if the property exists or not
+//Promise.allSettled - Promise.allSettled method accepts an array of Promises and only resolves when all of them are settled – either resolved or rejected.
+//globalThis which always refers to the global object, no matter where you are executing your code
+//This is because it is window for browsers, global for Node, and self for web workers.
+//Module Namespace Exports
 export * as utils from './utils.mjs'
 //This is equivalent to the following:
 
 import * as utils from './utils.mjs'
 export { utils }
+//import.meta - You can access meta information about the module using the import.meta object:
+<script type="module" src="module.js"></script>
+//code inside module.js file is below:
+console.log(import.meta); // { url: "file:///home/user/module.js" }
+//It returns an object with a url property indicating the base URL of the module. This will either be the URL from which the 
+//script was obtained (for external scripts), or the document base URL of the containing document (for inline scripts).
 
-//globalThis which always refers to the global object, no matter where you are executing your code
-//This is because it is window for browsers, global for Node, and self for web workers. 
+//******** ES 2021 **************
+//https://blog.logrocket.com/new-es2021-features-you-may-have-missed/
+//https://backbencher.dev/javascript/es2021-new-features
+//logical assignment operators (&&=, ||=, and ??=)
+var x = 1;
+var y = 2;
+x &&= y;
+console.log(x); // 1
+//Here line 3 can be expanded like: 
+x && (x = y) //Since x is a truthy value, it is assigned with the value of y, ie 2.
+//Numeric separator
+//String.replaceAll
+//Promise.any - the resultant promise keeps waiting and gets resolved if atleast one promise gets resolved and it gets rejected only if all the promises get rejected
+//What if none of the promises resolve? In that case Promise.any() throws an AggregateError exception. We need to catch it and handle it.
 
+//WeakRef - better to avoid
+//WeakRef creates a weak reference to the the object passed to it.
+//This means that whenever the browser needs to run garbage collection, if the only reference to that object is from a WeakRef variable,
+//the JavaScript engine can safely remove the object from memory and free up space. This could be ideal for WebSocket data because of their short lifespans.
+//Finalizers - FinalizationRegistry is a companion feature of WeakRef. 
+//It lets programmers register callbacks, which gets invoked after an object is garbage collected.

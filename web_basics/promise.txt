@@ -1,3 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 //promise is a wrapper around async task - One of the great things about using promises is chaining/composition
 composition: f4(f3(f2(f1(param))))
 chaining: f1(param).then(f2).then(f3).then(f4)

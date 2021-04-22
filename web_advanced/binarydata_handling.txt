@@ -30,11 +30,26 @@ Blob: In the browser, there are additional higher-level objects, like Blob descr
 Blob objects are immutable - We can’t change data directly in a Blob, but we can slice parts of a Blob, create new Blob objects from them, mix them into a new Blob and so on.
 This behavior is similar to JavaScript strings: we can’t change a character in a string, but we can make a new corrected string.
 FileReader object is used to  read data from Blobs in multiple formats.
-https://developer.mozilla.org/en-US/docs/Web/API/FileReader
-https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API
+https://developer.mozilla.org/en-US/docs/Web/API/FileReader - for input upload, drag and drop 
+https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API - access complete user file system after permissions
 
 
 why we need Blob when we have Array Buffer?
 ArrayBuffer is a memory area. What’s stored in it? It has no clue. Just a raw sequence of bytes.
 Blob represents “binary data with type” - That makes Blobs convenient for upload/download operations in the browser.
+We can easily convert between Blob and low-level binary data types:
+We can make a Blob from a typed array using new Blob(...) constructor.
+We can get back ArrayBuffer from a Blob using FileReader, and then create a view over it for low-level binary processing.
 
+//file handling - downloads and sending over network
+https://javascript.info/file
+File objects inherit from Blob.
+In addition to Blob methods and properties, File objects also have name and lastModified properties, plus the internal ability to read from filesystem. We usually get File objects from user input, like <input> or Drag’n’Drop events (ondragend).
+FileReader objects can read from a file or a blob, in one of three formats:
+
+String (readAsText).
+ArrayBuffer (readAsArrayBuffer).
+Data url, base-64 encoded (readAsDataURL).
+In many cases though, we don’t have to read the file contents. Just as we did with blobs, we can create a short url with URL.createObjectURL(file) and assign it to <a> or <img>. This way the file can be downloaded or shown up as an image, as a part of canvas etc.
+
+And if we’re going to send a File over a network, that’s also easy: network API like XMLHttpRequest or fetch natively accepts File objects.
