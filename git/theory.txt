@@ -11,3 +11,14 @@ git rebase develop/master (provided ur feature branch is cut out from it)
 
 //get current branch name
 git branch --show-current
+
+//delete branches
+locally: git branch -d <branch_name>
+
+remotely: git push origin -d <branch_name>
+
+
+//rveret commits
+ git reset --soft HEAD~1 - undo the last commit by preserving the changes
+ git reset --hard HEAD~1 - undo the last commit and discard all changes in the working directory 
+ 
