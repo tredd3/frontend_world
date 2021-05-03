@@ -25,3 +25,5 @@ It has built-in security with TLS 1.3, flow control, error correction, reduced c
 Node.js 15.1.0 introduces a new experimental module named diagnostics_channel. This module essentially enables a publish-subscribe 
 pattern that developers can use to publish arbitrary data to a channel that can be consumed by other modules or applications.
 6)The deprecated node debug command has now been removed. It is replaced with node inspect, which uses the widely adopted inspector-based approach to debugging Node.js
+
+https://javascript.plainenglish.io/node-16-now-available-6bdc1ef5849d
