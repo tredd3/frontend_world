@@ -80,7 +80,7 @@ grep pattern target_file
 more: https://www.linuxcloudvps.com/blog/83/
 whatis <command> //e.g whatis cal
 which <folder/file> //gives folder/file location
-or locate <file/folder>  
+or locate <file/folder>
 man <command>
 
 echo $0 - which shell is currently running like bash,zsh etc

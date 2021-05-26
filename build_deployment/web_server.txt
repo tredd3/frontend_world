@@ -50,11 +50,210 @@ http://example.com/w/index.php?title=Page_title
 but can be rewritten as:
 http://example.com/wiki/Page_title
 
-//configuring NGINIX (nginx.conf filename)
-*worker process - no of workers process nginix will use as it is single threaded
+
+//configuring NGINIX (nginx.conf filename) - https://www.freecodecamp.org/news/the-nginx-handbook/
+nginx -t //to validate configuration file for syntax mistakes
+The way NGINX works is it reads the configuration file once and keeps working based on that.
+If you update the configuration file, then you'll have to instruct NGINX explicitly to reload the configuration file.
+There are two ways to do that :
+1.You can restart the NGINX service by executing the sudo systemctl restart nginx command.
+2.You can dispatch a reload signal to NGINX by executing the sudo nginx -s reload command (preferred)
+The -s option is used for dispatching various signals to NGINX. The available signals are stop, quit, reload and reopen
+Once you've reloaded the configuration file by executing the nginx -s reload command, you can see it in action by sending a simple get request to the server:
+either from browser | or from terminal curl -i http://<server_name>
+Simple Directives -  terminated by semicolons
+Block directives - similar to simple directives, except that instead of ending with semicolons they end with a pair of curly braces { }
+enclosing additional instructions.
+A block directive capable of containing other directives inside it is called a context, that is events, http and so on. There are four core contexts in NGINX:
+events { } – The events context is used for setting global configuration regarding how NGINX is going to handle requests on a general level. There can be only one events context in a valid configuration file.
+http { } – Evident by the name, http context is used for defining configuration regarding how the server is going to handle HTTP and HTTPS requests, specifically. There can be only one http context in a valid configuration file.
+server { } – The server context is nested inside the http context and used for configuring specific virtual servers within a single host. There can be multiple server contexts in a valid configuration file nested inside the http context. 
+Each server context is considered a virtual host.
+main – The main context is the configuration file itself. Anything written outside of the three previously mentioned contexts is on the main context.
+location context - usually nested inside server blocks. There can be multiple location contexts within a server context.
+by writing location /agatha, you're telling NGINX to match any URI starting with "agatha".  This kind of match is called a prefix match.
+i.e you'll get the same response for 
+To perform an exact match, you'll have to update the code as follows:
+http {
+
+    server {
+
+        listen 80;
+        server_name nginx-handbook.test;
+
+        #prefix match
+        # responds for http://nginx-handbook.test/agatha-christie and http://nginx-handbook.test/agatha anything that starts with agatha
+        location /agatha {
+            return 200 "Miss Marple.\nHercule Poirot.\n";
+        }
+
+        #exact match
+        #only responds for http://nginx-handbook.test/agatha-christie 
+        location = /agatha {
+            return 200 "Miss Marple.\nHercule Poirot.\n";
+        }
+
+        #regex match case sensitive - more priority compared to prefix match
+        # but the final type of match in NGINX is a preferential prefix match. To turn a prefix match into a preferential one, you need to include the ^~ modifier before the location URI:
+        #http://nginx-handbook.test/agatha8 but not http://nginx-handbook.test/Agatha8
+        location ~ /agatha[0-9] {
+        	return 200 "Miss Marple.\nHercule Poirot.\n";
+        }
+
+        #regex match and case insensitive
+        #http://nginx-handbook.test/agatha8 and http://nginx-handbook.test/Agatha8
+        location ~* /agatha[0-9] {
+        	return 200 "Miss Marple.\nHercule Poirot.\n";
+        }
+
+        #preferential prefix match - final priority
+        location ^~ /Agatha8 {
+        	return 200 "prefix matched.\n";
+        }
+
+        # redirect: If you visit http://nginx-handbook.test/about_page from a browser, you'll see that the URL will automatically change to http://nginx-handbook.test/about.html.
+        location = /about_page {
+          return 307 /about.html;
+        }
+
+        #rewrite directive, however, works a little differently. It changes the URI internally, without letting the user know.
+        #if you send a request to http://nginx-handbook/about_page URI, you'll get a 200 response code and the HTML code for about.html file in response:
+        #When a rewrite happens, the server context gets re-evaluated by NGINX. So, a rewrite is a more expensive operation than a redirect.
+        rewrite /about_page /about.html;
+
+    }
+
+}
+
+3 types of variables: String Integer Boolean
+set $<variable_name> <variable_value>;
+embedded variables : present internally in NGINX
+return 200 "Host - $host\nURI - $uri\nArgs - $args\n";  #all these 3 variables are part of http core module
+For a variable to be accessible in the configuration, NGINX has to be built with the module embedding the variable
+# curl http://nginx-handbook.test/user?name=Farhan
+# Host - nginx-handbook.test
+# URI - /user
+# Args - name=Farhan
+
+Logging in NGINX
+By default, NGINX's log files are located inside /var/log/nginx/access.log and var/log/nginx/error.log
+http {
+
+    include /etc/nginx/mime.types;
+
+    server {
+
+        listen 80;
+        server_name nginx-handbook.test;
+        #There are eight levels of error messages. set the minimum error level to warn. This way you won't have to look at unnecessary entries in the error log.
+        error_log /var/log/error.log warn;
+        
+        location / {
+            # logged to a default file /var/log/nginx/access.log
+            return 200 "this will be logged to the default file.\n";
+        }
+        
+        location = /admin {
+            access_log /var/logs/nginx/admin.log;
+            
+            return 200 "this will be logged in a separate file.\n";
+        }
+        
+        location = /no_logging {
+            access_log off;
+            
+            return 200 "this will not be logged.\n";
+        }
+    }
+}
+
+#reverse proxy
+http {
+    listen 80;
+    server_name nginx-handbook.test
+
+    location / {
+        proxy_pass http://localhost:3000;
+        #below 3 are needed for forwarding websocket Connection to backend
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade; #proxy_set_header directive used for setting headers on an ongoing request to the backend server.
+        proxy_set_header Connection 'upgrade';
+    }
+}
+
+#load balancing - nginx automatically balances the load using weighted round-robin balancing method.
+u can change the load balancing algorithm 
+An upstream context in NGINX is a collection of servers that can be treated as a single backend.
+http {
+
+    upstream backend_servers {
+        #requests from the same client will always be passed to the same server except when this server is unavailable
+        ip_hash;
+
+        server localhost:3001;
+        server localhost:3002;
+        server localhost:3003;
+    }
+
+    server {
+
+        listen 80;
+        server_name nginx-handbook.test;
+
+        location / {
+            proxy_pass http://backend_servers;
+        }
+    }
+}
+
+#Optimize NGINX for Maximum Performance
+1)total connections handling
+*worker process - no of workers process nginix will spawn to handle connections
+The worker processes are asynchronous in nature. This means that they will process incoming requests as fast as the hardware can.
+increasing the number of worker processes doesn't mean better performance. optimal number of worker processes = number of CPU cores.
+worker_processes auto; #NGINX will set the number of processes based on the number of CPUs automatically
 *worker connections - max connections per worker/ this decides how many users nginix can serve simultaneously
-*access_log & error_log - 
-*gzip -
+Just like the number of worker processes, this number is also related to the number of your CPU core and the number of files your operating system is allowed to open per core.
+2)caching
+http {
+
+    include /env/nginx/mime.types;
+
+    #compression technique
+    gzip on;
+    gzip_comp_level 3;
+
+    gzip_types text/css text/javascript;
+
+    server {
+
+        listen 80;
+        server_name nginx-handbook.test;
+
+        root /srv/nginx-handbook-demo/static-demo;
+        
+        gzip on;
+        gzip_comp_level 3;
+
+        gzip_types text/css text/javascript;
+        
+        location ~* \.(css|js|jpg)$ {
+            access_log off;
+            #adding response headers to instruct browser to cache the content and its validity
+            add_header Cache-Control public;
+            add_header Pragma public;
+            add_header Vary Accept-Encoding;
+            expires 1M;
+        }
+    }
+}
+3)file compression
+*gzip - better compression and decompression speed for dynamic/on the fly compression
+*brotli - better compression ratio - for static assets
+By default, NGINX compresses HTML responses. To compress other file formats, you'll have to pass them as parameters to the gzip_types directive.
+By writing gzip_types text/css text/javascript;  you're telling NGINX to compress any file with the mime types of text/css and text/javascript
+Configuring compression in NGINX is not enough. The client has to ask for the compressed response instead of the uncompressed responses. 
+by sending "Accept-Encoding: gzip" in the request header
 
 //why we need proxy or reverse proxy?
 *security - no direct access to any of your file transfer servers. Everyone has to pass through the reverse proxy. 
