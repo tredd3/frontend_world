@@ -33,11 +33,30 @@ Habits- liquor, tobbaco, gaming
 Travel - road/train/aviation
 
 
-**household
-Food - fast food, healthy food
-Water - pipes 
-Paints, granites etc - research
-Entertainment, Tourism
+** Overvalued / bull markets:
+Price should be backed with earnings and the PE should more or less remain the same - then bull market is justified
+If not market will correct/crash - never invest and be patient enough
+
+In the justified bull market always look companies with fair valuation bcoz it might not be possible to get companies with under valuation.
+
+Bear markets :
+Look for undervalued companies.
+Especially cyclical stocks , PSU stocks And heavy industry/Capex stocks
+
+Cyclical sectors: affected by economy
+boom/burst cycle
+Automobile, tourism, banking and financial services, Metal, infra/construction, electronic gadgets
+
+Defensive sectors:
+Pharma, IT service based, FMCG, commercial real-estate, insurance
+
+R&D spenders: automobile, pharma, electronics , IT product based
+R&D spending shouldn't cross 10-15% of profits. Same with Capex
+
+Technology(continuously evolving): Auto,
+IT product based, electronics, telecom
+
+Capex : energy, heavy industries
 
 Next 1year top sectors:
 healthcare

@@ -161,7 +161,7 @@ If not listed then their shares are called private equities
 Primary market - transaction b/w issuer company and investor - stock exchange is not involved
 IPO(initial public offer), an unlisted company issues fresh shares and goes public.
 FPO(follow-on public offer), an already listed company issues fresh shares to new investors or existing shareholders.
-OFS(offer for sale) - for diluting promoter stake in a listed company. No new shares are created.
+OFS(offer for sale) - promoters sell their shares to public.
 Money goes to promoters and they might spend it or reinvest in the same business or Strat a new business, completely up to them
 Fresh Issue - money goes to company as equity and used by the company to do business and grow further
 Grey Market is the term used to describe unregulated over-the-counter market for trading IPO applications and IPO shares before the stock is listed at a stock market. This is a way for dealers to support their customers who may want to exit before listing.
@@ -174,3 +174,11 @@ Kostak rate is the amount an investor gets by selling his/her IPO application i
 Subject to Sauda simply reflects the amount which an investor stands to get by selling his/her application for firm allotment. The key operative word here is firm allotment. In case of no allotment to the applicant, the sauda stands cancelled.
 
 Secondary market - transaction b/w investor and stock exchange - issuer company is not involved
+
+
+**** company size based on market capitalization ******
+large cap: 1-100
+bluechip: largest of top 100
+midcap: 101 - 250 
+small cap: 251 - 500
+nano: 500+

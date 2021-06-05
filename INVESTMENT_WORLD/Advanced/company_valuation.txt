@@ -6,6 +6,11 @@ Market cap gives you an idea of the growth and risk to expect from a particular 
 The broad categories are large-, mid-, and small-cap.
 Large-cap companies are well-established successful companies with steady streams of revenue. Their growth over time may be slow but steady. 
 small-cap stocks are those that are experiencing accelerated growth, but that
+large cap: 1-100
+bluechip: largest of top 100
+midcap: 101 - 250 
+small cap: 251 - 500
+nano: 500+
 **Enterprise value(EV) is a more accurate measure of a company's real worth because it takes into consideration its debt obligations. 
 EV = market_cap +  outstanding preferred stock + all debt(short and long term) - all of its cash and cash equivalents.
 i.e if u want to buy a company, u need to pay the shareholders, lenders. However u will get the cash held by company
