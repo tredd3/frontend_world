@@ -5,20 +5,22 @@ brokers, youtubers, paid servies(https://www.valueresearchstocks.com/recos-curre
 
 2)top down approach: 
 country analysis - sector and industry analysis - company analysis
+https://www.tijorifinance.com/macro/
+
 
 3)bottom up approach : 
 company analysis by financial ratios - sector and industry analysis  - country analysis
 https://www.screener.in/explore/
 
 4)products you use or industry you work - my preferred approach/ due to circle of competence
-since you know product quality, service
+since you know product,quality and service
 
 5)based on your own risk apetitte/requirement/imagination and belief
 read sector_and_company_hunt.txt 
 
 6)stock cloning : don't clone directly
 investors: https://www.ratestar.in/investor/Jhunjhunwala-Rakesh-Radheshyam
-mutual funds portfolio
+mutual funds portfolio: https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth
 instead get the idea behind the investment and apply for your investments
 
 
