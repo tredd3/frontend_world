@@ -1,16 +1,69 @@
-fundamental analysis is broadly divided in to 2:
+fundamental analysis is broadly divided in to 2 :
 1)qualitative analysis 
-2)quantitative analysis
+2)quantitative analysis: financial statements + business info(market share, revenue model, geographical presence)
+https://www.tijorifinance.com/company/tata-steel-limited/#marketshare
+also u can compare financial statements and business info across peers - which currently only tijori provides
 
-once you have picked stocks suitable to you and your competence, proceed with the fundamental analysis below
+1)discover - once you have picked stocks suitable to you and your competence, proceed with the fundamental analysis below
 
-steps involved :
-management analysis - qualitative analysis
-industry analysis - oppurtunities and threat
-balance sheet - quantitative analysis
-profit and loss, cash flow statement - quantitative analysis
-financial ratios analysis
-valuation
+2)steps/research involved :
+i)management analysis - qualitative analysis
+
+***integrity: how honest is the management and their moral values like not misusing cash in their favour,instead giving importance to shareholders
+*remuneration : < 5% of profits | when company in bad state remuneration should be still lesser | should be in limits prescribed by MCA | 
+search for management in annual report
+*related party transactions: transactions to benifit holding company,director/director relations,key management and relations,subsidary companies
+*track record: criminal, scams, warnings from SEBI/RBI - google search by promoter name / http://www.suchetadalal.com/
+*should focus on business and not on additional stuff like share price
+*regularly CFOs, auditors resign - avoid such companies
+*management should do what they say and should take responsibilty of things that didn't work (past 5yrs management section)
+*promoter pledging - know how much is pledged and the reason for pleding - if more shares are pledged company can go out of hand
+
+***skill test: you can get it from company about section/ annual report management section(past 5 yrs)
+qualifications(relevant skills are necessary)
+experience(more experience means managers seen boom and burst and knows how to behave in each situation) 
+mindset : growth, comfort zone - growth preferred
+retained earnings: how is retained earnings used and what is the return on the invested earnings
+age: if management is old, sucession plan is important
+
+ii)industry analysis - oppurtunities and threat
+*life cycle of an industry - 4 stages
+pioneering - EV, green energy
+growth - internet
+maturity/saturation - FMCG
+decling - obselete - TV channels, print media
+you need to identify the current phase of the industry and read reports on the industry
+*REPORTS: read and findout the growth scope, profits scope and risks/threats involved in the industry
+https://www.ibef.org/industry.aspx
+annual reports management section of similar companies in the same industry (MANAGEMENT DISCUSSION AND ANALYSIS REPORT), 
+https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11 - SEBI filings (industry overview),
+https://www.tijorifinance.com/company/marico-limited/#knowledgebase - industry
+https://www.tijorifinance.com/sector/banking - sector
+*further analysis
+1)level of competetion - don't invest in industries where there is huge competetion within companies, as the pricing power decreases
+2)threat of new entrants - how easy it is for a new entrant to disrupt the market share(jio for telecom, jiomart for dmart)
+3)threat of substitutes - EVs vs auto industries, OTT vs TV channels
+4)bargaining power of suppliers - if suppliers has more bargaining power than the company itself then profits will be skewed
+5)bargaining power of buyers - if client base is limited then company doesn't have a choice but to sell the products 
+at a lower price, if the buyer demands so
+6)high entry barrier - is a good sign, capex heavy, momopoly, difficult to manufacture, strict regulations from govt/regulators etc
+
+how to invest in a industry - morning star book
 
 
+iii)balance sheet - quantitative analysis
+iv)profit and loss, cash flow statement - quantitative analysis
+v)financial ratios analysis
+vi)reading annual reports
 
+3)valuation
+calculate: https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+verify: 
+https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
+https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
+https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
+
+
+4)tracking portfolio companies - news, earnings, reports all at one place
+https://www.ratestar.in/news
+https://www.ratestar.in/watchlist
