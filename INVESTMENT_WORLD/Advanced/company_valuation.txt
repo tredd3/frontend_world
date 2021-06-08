@@ -15,54 +15,6 @@ nano: 500+
 EV = market_cap +  outstanding preferred stock + all debt(short and long term) - all of its cash and cash equivalents.
 i.e if u want to buy a company, u need to pay the shareholders, lenders. However u will get the cash held by company
 
-//financial ratios  compare with the company 10yrs performance, competitors and industry to know the actual value/performance
-1)P/E <  20 - no need to check growth
-PE > 20 -  check if growth is fast and PEG < 1.3
-If a company’s PE is more that means investor is paying premium bcoz it’s a high growth industry and assuming that potential earnings growth will be more
-How to know whether this premium is justified? 
-PEG=PE/CAGR(Growth in net profit/net income/free cash flow for last 10 yrs)
-All B2C companies should be valued based on PE (FMCG) and not on PB
-NOTE :
-low P/E might not mean company is undervalued, company may be bankrupt in few years or their future may be skeptical or some negative news which might impact the business
-High P/E might not mean market is paying a premium price bcoz of positive sentiment, it can also mean earnings are less.
-Conclusion: Both high and low P/E has flaws, so focus on the earnings 
-2)D/E - debt to equity should be < 0.5 
-If D/E is high and if earnings decreases bcoz of business/economy slowdown then company will collapse and you will loose the capital
-if it is low then and ur shareholder base increases is also bad (as the money gets distributed lifetime) as Equity is costly(lifetime dividend payment from profits), debt is cheap(one time clearance)
-Reasons for Less debt: 
-** no growth plans
-** no one is giving u debt bcoz of less credit worthiness
-** company is strong enough to finance all its future needs - required
-For Great companies - D/E is 0 
-3)ROE - return on equity - net profit/total equity - rate at which equity/shareholders money grows 
-ROE should be  > 15% else better to invest in index funds
-4)P/B - market value per share to book value per share
-ROE and P/B must be in sync 
-Book value/net worth/net assets/equity= total assets - liabilities (Intangible assets such as patents,copyrights, brand recognition, and goodwill are not included in the balance sheet)
-in simple words book value is what shareholders get after company is liquidated/sold and it's liabilities are paid off
-When to buy based on PB: for a new company where earnings haven’t begun, B2B(ONGC,GAIL) exceptions for companies like L&T, Intel bcoz they established a sense of trust in customers
-PB value should be < 1.5 for great valuation
-5)free cash flow = owner’s earnings =Net Cash flow from Operating activities(CFO) - Capex
-owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
-Accrual accounting: money is expected to be received in the future
-Cash accounting: money is received instantly
-Net income can be manipulated but free cash flow can’t be
-Hence analysing free cashflow is very important
-Cash flow from Investing activities - earnings or expenditures from non core activities like rent from long-term assets, such as buildings/equipment 
-Cash flow from financing activities - cash flows between a company and its owners/shareholders and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock.
-Cash flow from Operating activities(CFO) - earnings from core/daily activities of a company involved in producing and selling its product, generating revenues, manufacturing, sales, advertising, and marketing activities
-Company is called Cash machine  if free cash flow  = 20% of sales
-**If free cash flow is high => assets increases => equity increases and ROE decreases
-Hence companies either use it in Capex(capacity increase),R&D(tech companies), mergers(to acquire market share/expansion)
-If a company has more cash in ideal mode then it might take wrong decision and everything gets screwed.
-Hence they give it as dividend or buyback shares from open market then cash decreases and the ROE is less
-Generally FMCG gives dividend and tech companies won’t rather they invest in R&D to keep ahead of competition.
-**CAGR - compounded annual growth rate -  on an average return rate per year
-For e.g: 2015 - investment year, 9% is CAGR which means from 2015 to 2016 there is 9% profit, and whole amount(principal + profit) is reinvested and then again 9% profit on the amount and so on
-**Beta analysis
-Beta - A positive beta value indicates that stocks generally move in the same direction with that of the market and the vice versa
-For example, if beta is 1.3 and the market is expected to move up by 10%, then the stock should move up by 13% (1.3 x 10).
-
 
 //if looking for dividend:
 dividend payout > 40% - good | industry leaders do that
@@ -70,27 +22,6 @@ dividend payout ratio is the ratio of the total amount of dividends paid out 
 Dividend yield > bank interest rates (6%)
 dividend_amount=face value*
 Dividend yield  = dividend_amount/share_price * 100
-
-
-//Reading Income statement
-Check consolidated values (subsidiaries included) Not standalone values
-Sales/revenue/turnover/topline
-COGS - cost of goods sold (preparation/making price)
-Gross Profit = sales- COGS
-Gross profit Margin/Gross Margin = (gross Profit/sales) *100
-Operating expenses = salaries+building rent +advertising+marketing cost+ cash burn to beat the price war+ R&D cost 
-EBITDA=Gross Profit -Operating expenses
-depreciation expenses = capital goods(like electronics/machinery/buildings) value depreciates over time and is included in income statement over say 5-10 yrs
-Amortisation expenses = same as depreciation but amortisation is for intangible assets like patents
-Operating Profit /Operating income(EBIT)
-=Gross Profit - Operating expenses - Depreciation - Amortisation expenses
-=EBITDA - Depreciation - Amortisation expenses
-Operating Profit margin/Operating Margin =(operating profit/sales) *100
-Operating profit margin shouldn’t be negative 100%/200%  and keeping it steady is difficult
-PBT = Operating Profit /Operating income(EBIT) - interest payment on debt 
-PAT/Net Income/Net Profit/BottomLine/Earnings = PBT - tax
-ICR(interest coverage ratio) = EBITDA/Interest = will the company be able to pay interest on debt. ICR should always be high so that during recession company can interest on its debt without loosing assets.
-ICR is not applicable for companies with 0 debt.
 
 
 //TWO VALUATION MODELS:

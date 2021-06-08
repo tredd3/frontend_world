@@ -85,6 +85,7 @@ Ex-bonus date - need to buy shares before this date to get bonus shares in ur de
 Record date - bonus shares get deposited in demat on this date
 However, over the long term, and as stock price increases, investors tend to gain. 
 Impact : The share price falls in the same proportion as the bonus issue ratio.
+the amount is deducted from reserves(other equity) and goes to share capital section in the balance sheet
 
 2)rights issue - share holder has an option to buy
 fresh shares are issued by a company to its existing shareholders at a discounted price.
@@ -93,8 +94,11 @@ FV remains same and market value gets adjusted based on (current market price + 
 Impact :The share price falls in the same proportion as the rights issue.
 
 3)dividend - quoted per share or as a percentage of the face value of the share.
-Also, when a company does not find any appropriate investment opportunity to deploy its funds, it declares a dividend to share its profits/reserves with the shareholders.
+Also, when a company does not find any appropriate investment opportunity to deploy its funds, it declares a dividend to 
+share its profits/reserves with the shareholders.
 Impact : Share price usually declines in line with the level of dividend paid per share.
+dividend amount is deducted from net profits and hence doesn’t contribute to share price or in other words 
+actual share price = expected share price - dividend amount
 
 4)Stock Split - face value and market price of share decreases, so that small investors can invest
 used primarily by companies that have seen their share prices increase substantially.
@@ -105,7 +109,9 @@ E.g:  if the stock’s face value is Rs 10, and there is a 1:1 split, its face v
 Advantage: more dividend income
 
 5)buyback
-company purchases its shares from shareholders, usually at a premium to the market price. Companies go for buybacks to consolidate their stake in the enterprise and for greater control, to support the share price from declining, to improve earnings per share (as it reduces the number of outstanding shares in the market)
+company purchases its shares from shareholders, usually at a premium to the market price. Companies go for buybacks to consolidate 
+their stake in the enterprise and for greater control, to support the share price from declining,
+to improve earnings per share (as it reduces the number of outstanding shares in the market)
 Also They make use of free cash flows to buyback shares
 
 6)take over: acquisition of a public company by another company

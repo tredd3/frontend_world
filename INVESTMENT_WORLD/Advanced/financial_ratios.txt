@@ -1,0 +1,31 @@
+//financial ratios  compare with the company 10yrs performance, competitors and industry to know the actual value/performance
+1)P/E <  20 - no need to check growth
+PE > 20 -  check if growth is fast and PEG < 1.3
+every sector has a different PE, also PE numbers can be misleading due to earnings 
+If a company’s PE is more that means investor is paying premium bcoz it’s a high growth industry and assuming that potential earnings growth will be more
+How to know whether this premium is justified? 
+PEG=PE/CAGR(Growth in net profit/net income/free cash flow for last 10 yrs)
+All B2C companies should be valued based on PE (FMCG) and not on PB
+NOTE :
+low P/E might not mean company is undervalued, company may be bankrupt in few years or their future may be skeptical or some negative news which might impact the business
+High P/E might not mean market is paying a premium price bcoz of positive sentiment, it can also mean earnings are less.
+Conclusion: Both high and low P/E has flaws, so focus on the earnings 
+2)D/E - debt to equity should be < 0.5 
+If D/E is high and if earnings decreases bcoz of business/economy slowdown then company will collapse and you will loose the capital
+if it is low then and ur shareholder base increases is also bad (as the money gets distributed lifetime) as Equity is costly(lifetime dividend payment from profits), debt is cheap(one time clearance)
+Reasons for Less debt: 
+** no growth plans
+** no one is giving u debt bcoz of less credit worthiness
+** company is strong enough to finance all its future needs - required
+For Great companies - D/E is 0 
+3)ROE - return on equity - net profit/total equity - rate at which equity/shareholders money grows 
+ROE should be  > 15% else better to invest in index funds
+4)P/B - market value per share to book value per share
+ROE and P/B must be in sync 
+considered only for capex/heavy industries like energy, realty etc
+Book value/net worth/net assets/equity= total assets - liabilities (Intangible assets such as patents,copyrights, brand recognition, and goodwill are not included in the balance sheet)
+in simple words book value is what shareholders get after company is liquidated/sold and it's liabilities are paid off
+When to buy based on PB: for a new company where earnings haven’t begun, B2B(ONGC,GAIL) exceptions for companies like L&T, Intel bcoz they established a sense of trust in customers
+PB value should be < 1.5 for great valuation
+5)EPS - always TTM (trailing 12 months) net profit  is considered 
+formula: net profit/total no.of outstanding shares
