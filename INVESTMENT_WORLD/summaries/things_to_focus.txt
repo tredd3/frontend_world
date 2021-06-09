@@ -3,6 +3,11 @@ value investing - buying best companies at fair/undervalued prices so that value
 more than the price you pay for the company.
 misconception: people buy bluechip companies at random prices and call it value investing
 
+when a company is liquidated .....
+debt payment
+tax
+preferred equity
+common equity
 
 Majorly invest in companies with less risk:
 1.Monopolies - no/less  competition
@@ -21,4 +26,5 @@ Family: agriculture, insurance, pharma, food, beverages, FMCG like ITC, HUL, pow
 Similarities in Best Companies :
 MOATS
 ROCE > cost of capital
-Debt almost negligible
+Debt almost negligible - if debt is more then during recession, when company makes less profit and
+need to more interest it will eat up the reserves and eventually may lead to bankruptcy

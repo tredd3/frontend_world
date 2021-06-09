@@ -56,7 +56,7 @@ how to invest in a industry - morning star book
 standalone financial statements - reports findings of core activity of the company
 u need to look at standalaone when the subisidaries of a company are listed. so that u get to know how the parent company is doing business
 e.g: HDFC - subsidaries are HDFC bank, HDFC amc, HDFC life and all these 3 are listed
-consolidated financial statements - reports all activities of a company, its subsidiaries and holding company as a combined entity
+consolidated financial statements - reports all activities of a company, its subsidiaries as a combined entity
 e.g L&T - certain subsidaries are not listed and hence u need to look at consolidated statement as the subsidary earnings are included in the consolidated statement
 iii)balance sheet - quantitative analysis
 solvency: ability to clear debt
@@ -82,19 +82,24 @@ Sales/revenue/turnover/topline
 COGS - cost of goods sold (preparation/making price)
 Gross Profit = sales - COGS
 Gross profit Margin/Gross Margin = (gross Profit/sales) *100
+consistent higher gross proft margin represents pricing power/brand/strong MOATs or company is reducing input costs
+if 2 similar companies cost of goods sold remains but GPM is higher for a company implies company has competettive advantage
 Operating expenses = salaries + building rent + advertising + marketing cost + cash burn to beat the price war + R&D cost 
 EBITDA=Gross Profit - Operating expenses (profit earned by a company from its business)
 depreciation expenses = capital goods(like electronics/machinery/buildings) value depreciates over time and is included in income statement over say 5-10 yrs
 Amortisation expenses = same as depreciation but amortisation is for intangible assets like patents
-Operating Profit /Operating income(EBIT)
-=Gross Profit - Operating expenses - Depreciation - Amortisation expenses
-=EBITDA - Depreciation - Amortisation expenses
+Operating Profit /Operating income(EBIT) =EBITDA - Depreciation - Amortisation expenses=Gross Profit - Operating expenses - Depreciation - Amortisation expenses 
 Operating Profit margin/Operating Margin =(operating profit/sales) *100
-Operating profit margin shouldn’t be negative 100%/200%  and keeping it steady is difficult
+Operating profit margin shouldn’t be negative, consistent higher OPM implies having better/efficient management
 PBT = Operating Profit /Operating income(EBIT) - interest payment on debt 
 PAT/Net Income/Net Profit/BottomLine/Earnings = PBT - tax
 ICR(interest coverage ratio) = EBITDA/Interest = will the company be able to pay interest on debt. ICR should always be high so that during recession company can interest on its debt without loosing assets.
 ICR is not applicable for companies with 0 debt.
+
+why EBITDA is important even thouh PAT/net profit exist?
+for capital intensive business we need to look in to EBITDA, which gives us the actual operating income as dep & amor numbers will be high
+for comparing actual operating income of old company (which already claimed dep and amo expenses) and new company(whose dep & amo expenses are being claimed)
+
 
 v)cash flow statement - quantitative analysis
 p&l statement can be manipulated. Also not all the net profit is received as cash, it takes time for the money to get credited 
@@ -122,7 +127,7 @@ For e.g: 2015 - investment year, 9% is CAGR which means from 2015 to 2016 there 
 Beta - A positive beta value indicates that stocks generally move in the same direction with that of the market and the vice versa
 For example, if beta is 1.3 and the market is expected to move up by 10%, then the stock should move up by 13% (1.3 x 10).
 
-vi)financial ratios analysis - quantitative analysis
+vi)financial ratios analysis - quantitative analysis check financial_ratios.txt
 vii)reading annual reports
 
 3)valuation

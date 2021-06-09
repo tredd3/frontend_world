@@ -20,7 +20,6 @@ i.e if u want to buy a company, u need to pay the shareholders, lenders. However
 dividend payout > 40% - good | industry leaders do that
 dividend payout ratio is the ratio of the total amount of dividends paid out to shareholders relative to the net income of the company
 Dividend yield > bank interest rates (6%)
-dividend_amount=face value*
 Dividend yield  = dividend_amount/share_price * 100
 
 
