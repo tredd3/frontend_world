@@ -1,6 +1,8 @@
 ******** MY Investment checkList ********
 GOLDEN RULES : 
 INVEST IN YOURSELF: Read and analyse News - link it with ur investment , Books, finance Videos
+CONROL UR EMOTIONS - Always believe in fundamentals price keeps on changing (make volatility your friend )
+LEARN FROM OTHERS MISTAKES - read more and apply them
 1)NEVER LOSE CAPITAL
 2)RISK LIES IN THE PRICE AND NOT ASSET CLASS - buy assets at cheaper price
 Even Buying great companies at higher valuation is also a risky thing 
@@ -8,16 +10,31 @@ Even Buying great companies at higher valuation is also a risky thing
 3)SHORT TERM PRICE CHANGE is due to market sentiment (as earnings/revenue can’t increase in short term)
 4)LONG TERM PRICE CORRECTION IS DUE TO EARNINGS
 SO, LONG TERM INVESTOR SHOULD HAVE A OWNER MINDSET: focus on earnings not on share price, bcoz if earnings increase market sentiment(P/E) increases and hence share price eventually increases)
-5)WHEN TO BUY: when both PE and Earnings are less
-6)WHEN TO SELL: when both PE and Earnings are high
+5)WHEN TO BUY: 
+Index: when both PE and Earnings are less, market_cap/GDP < 1
+Stocks: buy Great business at fair price instead of buying fair business at a wonderful price
+Seize the opportunity and play big if you get wonderful businesses at great price/undervalued price
+Always Invest in tranches bcoz we if the market is gone fall further we need to have capital to invest more
+6)WHEN TO SELL: 
+Index: when both PE and Earnings are high
+Stocks: If fundamentals gone bad then u need to sell to protect capital even though u might face minor loss
+if fundamentals are good but stock is trading at much higher price than intrinsic value
+PS: if fundamentals are good but stock is not trading at fair price then u need to hold
+7)3 THINGS TO CONSIDER:
+PAST: company financials history, dividend history
+PRESENT: debt, current sales, R&D and Capex spending, last 3yrs financials, how diversified is client/customer base ,demand for products, market share(how is the competition from peers - interns of products, innovation etc), business and revenue model , management 
+FUTURE/EARNING POWER: how is the sector growth - study reports, opportunities globally/locally for next 10yrs - will there be any innovation/trend change in the sector killing the demand and need for capacity rebuilding by the company, is MOAT breakable(can the market share be captured), Management vision(annual report)
 
-
+ 
 MASTER TIPS & TRICKS:
 1)Transfer all your equity amount to debt for stability - if u feel stock markets are going to crash.
 Once market crashes and starts to recover put all ur debt amount to equity for growth.
 2)if NIFTY and Jr.NIFTY PE is almost same invest in Jr.Nifty as the earnings increase faster in junior nifty
 https://trendlyne.com/equity/PE/NIFTYNEXT50/1888/nifty-next-50-price-to-earning-ratios/
+3)if markets crash make sure to invest in junior nifty along with value companies
 
+MACROECONOMICs check - https://www.tijorifinance.com/macro/#gdp
+OVERALL MARKETS and Financial Instruments performance check - https://in.tradingview.com/
 
 //INDEX INVESTMENT - SAFEST
 Stock market going down and down? Invest in Junior Nifty as well but not much, only your risk capital 
@@ -41,6 +58,7 @@ Market cap - https://www.nseindia.com/regulations/listing-compliance/nse-top-100
 Data Points : Sensex
 price, PE, PB - https://www.bseindia.com/markets/keystatics/Keystat_index.aspx
 Market cap - https://www.bseindia.com/markets/equity/EQReports/TopMarketCapitalization.aspx
+
 
 
 //MEDIUM RISK
@@ -67,7 +85,11 @@ Normal check on stock price since inception - google search
 Wiki search
 
 1)Screening Test: Elimination
-Pre-step: google search why a company share is falling check why it is falling
+Morningstar
+Screener
+MoneyControl
+Pre-step: google search why a company share is falling - check news section in morning start/screener.in
+And also check promoter shareholding pattern
 Internal factors: then skip the company
 External factors: then proceed with screening
 1)do you have enough knowledge about the industry ? 
@@ -77,14 +99,23 @@ Check? Gross profit Margin and operating profit margin should be steady/Increasi
 Effect: cash flows can be discounted
 3)strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
 4)does it have moats? Check individual stocks section
+5)check fundamentals:
+Fundamentals: 
+1)will the sector do good in future ? I.e will there be demand for next  5-10 yrs
+2)do the company has any threat from competitors(is the market share decreasing ?) - check MOATS
+3)company business and revenue model good? 
+4)management - vision and previous accomplishments - from annual report
+5)Earning power/future Growth - i.e if B2C will public buy products of this company or will there be a demand in the future, if B2B then why will other companies keep buying their product at premium ?
+
 If most of them are passed then go to step 2
 Else discard the company and check other company
 
-2)Financial Health Test:
+2)Financial Health Test: past performance 
 5)Are you getting it at a good price/valuation- check company valuation section:
 3)PE < 20(medium) ? 
-High P/E  could also mean earnings are less - need to check
+High P/E  could also mean earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate — need to check this
 Low PE could also mean sth is fundamentally wrong with the company - need to check
+Also PE < Industry PE?
 4)PB - NA bcoz if it is a B2C company
 5)D/E < 0.5 ? 
 6)ICR high? NA if debt is 0 
@@ -103,14 +134,18 @@ If No - means other players will enter into market and current company will face
 Fair value calculation for immediate year:
 Fair value = estimated earnings * Fair PE (roughly 27-28 as of 2021)
 estimated earnings  = 14% increase on previous year earnings (10% actual + 4% inflation)
+Margin of safety(MOS) = 30% - 50%
+Purchase value = MOS * fair value
 
-If most of the factors are good go to step 3 
-Else put the stock in watchlist
+If the above 2 tests are passed then go to step 3 
 
-3)Final and most important
+3)Final and most important - valuations
 If cash flow regular? 
-    Market cap < DCF  - stock undervalued buy (verify from morning star, zerodha see detailed info section)
-    Market cap > DCF - stock overvalued (put in watchlist)
+Market cap < DCF  and both PE and earnings are less? - stock undervalued, hence buy it (verify from morning star, zerodha see detailed info section)
+EV/EBITDA < 10 - excellent company
+EV/EBITDA < 14 - can be considered
+EV/EBITDA > 14 - high valuation
+    Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
 Else 
 	buy based on step 1 and 2 results
 

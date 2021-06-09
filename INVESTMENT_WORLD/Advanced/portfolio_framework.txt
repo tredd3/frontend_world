@@ -1,5 +1,5 @@
-***** Portfolio Framework*****
-Golden/Thumb rules: 
+***** Portfolio Framework***** 
+Golden/Thumb rules:
 —Cash is not good investment - inflation will reduce its worth Invest in productive assets
 —Patience is the key to success in stock market
 —Compounding is the 8th wonder - time is the key, make the most of it by investing early
@@ -28,6 +28,7 @@ Both in NIFTY and Next 50 MFs/ETFs
 If markets are costly -
 % split depends on the costliness of the markets
 50% - debt (to counter the loss of money value due to inflation)
+https://www.goldenpi.com/investment-options/list-view - for bond investment
 STP(systematic transfer plan) - interest earned goes to SIP, while the actual capital is undisturbed
 50% - equity 
 	30% Nifty - check Index funds notes - ETFs NIFTYBEES
@@ -38,7 +39,13 @@ STP(systematic transfer plan) - interest earned goes to SIP, while the actual ca
 	5% IT - no ETFs/funds available - need to pick stocks or small cases
         https://www1.nseindia.com/content/indices/ind_nifty_it.pdf
 	Junior Nifty(if markets are extremely cheap) - JUNIORBEES
-	MFs/Small cases
-	Stocks - max 15-20 not more
+	MFs/Small cases/ETFs:
+N100
+M100
+BNP Paribas Funds Aqua Fund of Fund
+https://www.bnpparibasmf.in/aquafof/
+https://groww.in/etfs/mirae-asset-nyse-fang-etf
+	Stocks - max 15-20 not more - yearly annual reports check
 
 For other sectors: https://www1.nseindia.com/products/content/equities/indices/sectoral_indices.htm
+For US stocks; https://www.indmoney.com/us-stocks/all?sortKey=mcap&sortOrder=desc&selectedMarketCapId=mega-cap&page=1

@@ -4,8 +4,7 @@ https://www.moneycontrol.com/india
 https://www.valueresearchonline.com/stocks/
 https://www.nseindia.com/market-data/live-equity-market
 https://www.bseindia.com/sensex/code/47/
-https://courses.varunmalhotra.co.in/learn
-
+ https://courses.varunmalhotra.co.in/learn
 
 //Selecting a sector
 https://www.screener.in/explore/ - in the right side panel sectors are visible
@@ -33,33 +32,14 @@ Habits- liquor, tobbaco, gaming
 Travel - road/train/aviation
 
 
-** Overvalued / bull markets:
-Price should be backed with earnings and the PE should more or less remain the same - then bull market is justified
-If not market will correct/crash - never invest and be patient enough
+**household
+Food - fast food, healthy food
+Water - pipes 
+Paints, granites etc - research
+Entertainment, Tourism
 
-In the justified bull market always look companies with fair valuation bcoz it might not be possible to get companies with under valuation.
-
-Bear markets :
-Look for undervalued companies.
-Especially cyclical stocks , PSU stocks And heavy industry/Capex stocks
-
-Cyclical sectors: affected by economy
-boom/burst cycle
-Automobile, tourism, banking and financial services, Metal, infra/construction, electronic gadgets
-
-Defensive sectors:
-Pharma, IT service based, FMCG, commercial real-estate, insurance
-
-R&D spenders: automobile, pharma, electronics , IT product based
-R&D spending shouldn't cross 10-15% of profits. Same with Capex
-
-Technology(continuously evolving): Auto,
-IT product based, electronics, telecom
-
-Capex : energy, heavy industries
-
-Next 1year top sectors:
-healthcare
+Next 5 year top sectors:
+healthcare/pharma 
 Liquid Waste management: Ion exchange, va tech wabag, thermax etc
 Plastic waste management: Antony Waste
 Power supply to households - stovekraft, ttk prestige
@@ -84,15 +64,15 @@ Will it collapse? If yes why and if no why?
 e.g: for eg BPO can be replaced with AI,ML tech bots
 Can there be govt restrictions in the future?
 
-
 //Screening a company
 1)Choose a sector first : Previous step
 does the sector has cheap valuation?
-choose corresponding sector index in both the below steps
+fair value = avg earnings based on previous earnings growth rate * avg PE of the sector over last 10yrs
+Market value = Check PE and earnings of the sector in https://trendlyne.com/equity/PE/NIFTYENERGY/1899/nifty-energy/
+if Market value < fair value then invest bcoz markets are cheap
+Verify:
 https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm - for current value
-https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm - for PE, PB values
-fair value = calculate best of previous year earnings * avg PE of the sector over last 10yrs(bank PE+5, i.e 25)
-if current value < fair value then invest bcoz markets are cheap
+https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm- for PE, PB values
 2)Choose  companies for a given sector
 Select 2/3 out of Top 10 companies for a given sector bcoz we don’t know which company will deliver
 https://www1.nseindia.com/products/content/equities/indices/sectoral_indices.htm
