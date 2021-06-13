@@ -1,4 +1,15 @@
+//valuation calculation
+https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+
+//valuation check
+https://www.marketsmojo.com/Stocks?StockId=696114&Exchange=0#navValuation 
+https://www.morningstar.in/stocks/0p0000ant3/bse-zydus-wellness-ltd/price.aspx
+https://www.tickertape.in/stocks/zydus-wellness-ZYDS?checklist=basic&chartScope=1d
+
 ***** Company Valuation ******
+There's no one method that's best suited for every situation. Each stock is different, and each industry or sector
+ has unique characteristics that may require multiple valuation methods.
+
 //Valuation Terminology:
 **capital: equity +debt
 **Market cap is the total value of all outstanding shares of the company's stock. It is calculated by multiplying the stock's current share price and the number of shares outstanding.

@@ -22,7 +22,8 @@ if fundamentals are good but stock is trading at much higher price than intrinsi
 PS: if fundamentals are good but stock is not trading at fair price then u need to hold
 7)3 THINGS TO CONSIDER:
 PAST: company financials history, dividend history
-PRESENT: debt, current sales, R&D and Capex spending, last 3yrs financials, how diversified is client/customer base ,demand for products, market share(how is the competition from peers - interns of products, innovation etc), business and revenue model , management 
+PRESENT: debt(keep in mind the industry, as banking and energy sector has significant debt), current sales, R&D and Capex spending,
+last 3yrs financials, how diversified is client/customer base ,demand for products, market share(how is the competition from peers - interns of products, innovation etc), business and revenue model , management 
 FUTURE/EARNING POWER: how is the sector growth - study reports, opportunities globally/locally for next 10yrs - will there be any innovation/trend change in the sector killing the demand and need for capacity rebuilding by the company, is MOAT breakable(can the market share be captured), Management vision(annual report)
 
  
@@ -113,7 +114,8 @@ Else discard the company and check other company
 2)Financial Health Test: past performance 
 5)Are you getting it at a good price/valuation- check company valuation section:
 3)PE < 20(medium) ? 
-High P/E  could also mean earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate — need to check this
+High P/E  could also mean earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate
+check PEG to confirm , premium is justified only when PEG < 2 or 3
 Low PE could also mean sth is fundamentally wrong with the company - need to check
 Also PE < Industry PE?
 4)PB - NA bcoz if it is a B2C company
@@ -145,6 +147,7 @@ Market cap < DCF  and both PE and earnings are less? - stock undervalued, hence 
 EV/EBITDA < 10 - excellent company
 EV/EBITDA < 14 - can be considered
 EV/EBITDA > 14 - high valuation
+also like PE, check whether EV/EBITDA < industry EV/EBITDA and compare it with peers of same size
     Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
 Else 
 	buy based on step 1 and 2 results

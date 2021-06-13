@@ -1,4 +1,4 @@
-//financial ratios  compare with the company 10yrs performance, competitors and industry to know the actual value/performance
+//financial ratios  compare with the company 10yrs performance, competitors and industry average to know the performance
 ROS - return on sales - GPM, OPM, NET PROFIT MARGIN
 ROI - return on investment: ROE, ROCE
 
@@ -6,13 +6,14 @@ ROI - return on investment: ROE, ROCE
 PE > 20 -  check if growth is fast and PEG < 1.3
 every sector has a different PE, also PE numbers can be misleading due to earnings 
 If a company’s PE is more that means investor is paying premium bcoz it’s a high growth industry and assuming that potential earnings growth will be more
-How to know whether this premium is justified? 
-PEG=PE/CAGR(Growth in net profit/net income/free cash flow for last 10 yrs)
 All B2C companies should be valued based on PE (FMCG) and not on PB
+**How to know whether this premium is justified? 
+PEG=PE/expected annual EPS growth rate(Growth in net profit/net income/free cash flow for past 10 yrs)
+PEG <2 // fairlyvalued/undervalued
 NOTE :
 low P/E might not mean company is undervalued, company may be bankrupt in few years or their future may be skeptical or some negative news which might impact the business
 High P/E might not mean market is paying a premium price bcoz of positive sentiment, it can also mean earnings are less.
-Conclusion: Both high and low P/E has flaws, so focus on the earnings 
+Conclusion: Both high and low P/E has flaws, so focus on the earnings(growth rate) 
 2)D/E - debt to equity should be < 0.5
 If D/E is high and if earnings decreases bcoz of business/economy slowdown then company will collapse and you will loose the capital
 if it is low then and ur shareholder base increases is also bad (as the money gets distributed lifetime) as Equity is costly(lifetime dividend payment from profits), debt is cheap(one time clearance)
@@ -36,3 +37,13 @@ formula: net profit/total no.of outstanding shares
 6)ROCE - return on capital employed = EBIT/Total equity + non-current liabilities
 golden rule: ROCE > WACC of company, if not equity amount(reserves part) is gradually reduced and becomes zero,leading to bankruptcy
 7)ROA - net profit/Total assets
+8)EV/EBITDA :
+EBITDA measures a firm's overall financial performance
+while EV determines the firm's total value = market cap + total debt - cash and cash equivalents
+(assume u r buying a company, total value/cash u need to pay shareholders and to creditors is nothing but EV)
+**why EV/EBITDA is considered a better valuation tool?
+i)It is possible to obtain fair comparisons of companies that have different capital structures(t is not affected by changes in a company’s capital structure )
+ii)it eliminates the effects of noncash expenses (which doesn't affect the cashflow)
+EV/EBITDA < 10 //undervalued
+EV/EBITDA < 15 //fairly valued 
+but compare it with peers of same size within same sector just like we do it for PE

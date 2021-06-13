@@ -1,3 +1,10 @@
+https://www.investopedia.com/fundamental-analysis-4689757
+https://www.screener.in/company/ZYDUSWELL/consolidated/
+https://www.tijorifinance.com/company/zydus-wellness/
+annual report - read
+check if the company is present in https://www.valueresearchstocks.com/recos-current
+
+
 fundamental analysis is broadly divided in to 2 :
 1)qualitative analysis 
 2)quantitative analysis: financial statements + business info(market share, revenue model, geographical presence)
@@ -99,7 +106,7 @@ ICR is not applicable for companies with 0 debt.
 why EBITDA is important even thouh PAT/net profit exist?
 for capital intensive business we need to look in to EBITDA, which gives us the actual operating income as dep & amor numbers will be high
 for comparing actual operating income of old company (which already claimed dep and amo expenses) and new company(whose dep & amo expenses are being claimed)
-
+also amortisation and depreciation are non-cash expenses, which doesn't go out from company's hand
 
 v)cash flow statement - quantitative analysis
 p&l statement can be manipulated. Also not all the net profit is received as cash, it takes time for the money to get credited 
