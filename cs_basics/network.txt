@@ -46,7 +46,7 @@ slow vs fast
 stream oriended(tcp splits data in chunks and recompose them) vs message oriented(application sends data in chunks)
 reliable(all data is sent and that too in correct order) vs unreliable (random display of messages)
 acknowledgment and re-transmission  vs no-acknowledgment
-TCP usage: send text messages, file and image transfers
+TCP usage: send text messages, file, image transfers, important information
 UDP usage: multimedia streaming
 
 N - network - logical/ip adressing, routing, path determination
