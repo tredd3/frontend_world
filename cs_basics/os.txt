@@ -4,38 +4,101 @@ user - software applications - OS - hardware
 It is an integrated set of specialized programs used to manage overall resources, controls and monitors the execution 
 of all other programs that reside in the computer (whether applications or system software)
 
-Memory Management − Keeps track of the primary memory, i.e. what part of it is in use by whom, what part is not in use, etc. and allocates the memory when a process or program requests it.
+Memory Management(ensures CPU is never idle) − Keeps track of the primary memory, i.e. what part of it is in use by whom, what part is not in use, etc. and allocates the memory when a process or program requests it.
 Processor Management − Allocates the processor (CPU) to a process and deallocates the processor when it is no longer required.
 Device Management − Keeps track of all the devices. This is also called I/O controller that decides which process gets the device, when, and for how much time.
 File Management − Allocates and de-allocates the resources and decides who gets the resources.
 Security − Prevents unauthorized access to programs and data by means of passwords and other similar techniques.
 
-Job Accounting
-
-process:
+**process:
 A program in execution is known as Process
 Process memory consists of: stack+heap+data(global and static variables)+text(compiled code)
-Thread: 
+*Process Life cycle:
+Start: This is the initial state when a process is first started/created.
+Ready: The process is waiting to be assigned to a processor by scheduler
+Running: Once the process has been assigned to a processor by the OS scheduler, the process state is set to running and the processor executes its instructions.
+Waiting: Process moves into the waiting state if it needs to wait for a resource, such as waiting for user input, or waiting for a file to become available.
+Terminated or Exit: Once the process finishes its execution, it is moved to the terminated state where it waits to be removed from main memory.
+*Process Control Block (PCB):
+A Process Control Block is a data structure maintained by the OS for every process. The PCB is identified by process ID (PID).
+1)Process State : The current state of the process i.e., whether it is ready, running, waiting, or whatever.
+2)Process privileges: This is required to allow/disallow access to system resources.
+3)Process ID: Unique identification for each of the process in the operating system.
+4)Pointer: A pointer to parent process.
+5)Program Counter: Program Counter is a pointer to the address of the next instruction to be executed for this process.
+6)CPU registers: Various CPU registers where process need to be stored for execution for running state.
+7)CPU Scheduling Information: Process priority and other scheduling information which is required to schedule the process.
+8)Memory management information: information of page table, memory limits, Segment table depending on memory used by the OS
+9)Accounting information:This includes the amount of CPU used for process execution, time limits, execution ID etc.
+10)IO status information: This includes a list of I/O devices allocated to the process.
+**Process Scheduling Queues:
+The OS maintains a separate queue for each of the process states and PCBs of all processes in the same execution state are placed in the same queue.
+Job queue − This queue keeps all the processes in the system.
+Ready queue − This queue keeps a set of all processes residing in main memory, ready and waiting to execute. A new process is always put in this queue.
+run queues - only one entry per core processor, OS scheduler determines how to move processes between the ready and run queues
+like (FIFO, Round Robin, Priority, etc.)
+Device queues − The processes which are blocked due to unavailability of an I/O device constitute this queue.
+
+
+**Thread: 
 https://www.geeksforgeeks.org/thread-in-operating-system/
 A thread is a path of execution within a process. A process can contain multiple threads.
 Multithreading: achieve parallelism by dividing a process into multiple threads
 threads within the same process run in a shared memory space, while processes run in separate memory spaces.
-Threads are not independent of one another like processes and hence share code section, data section, and
- OS resources (like open files and signals)
+Threads are not independent of one another like processes and hence share code section, data section, and OS resources (like open files and signals)
 But, like process, a thread has its own program counter (PC), register set, and stack space.
 A program counter is a register in a computer processor that contains the address (location) of the instruction being 
 executed at the current time.
+advantages:
+Process is heavy weight or resource intensive.Thread is light weight, taking lesser resources than a process.
+threads provide a way to improve application performance through parallelism(utilization of multiprocessor architectures efficiently)
+Multiple threaded processes use fewer resources.
+Process switching needs interaction with operating system unlike thread switching
+One thread can read, write or change another thread's data and data can be passed between threads
 
-Paging:
-Paging is a memory management scheme that eliminates the need for contiguous allocation of physical memory to a process
-Logical Address or Virtual Address (represented in bits): An address generated by the CPU
-The mapping from virtual to physical address is done by the memory management unit (MMU) which is a hardware device and 
-this mapping is known as paging technique.
 
-CPU scheduler:
-It selects a process among the processes that are ready to execute and allocates CPU to one of them.
+//Multitasking Operating Systems/Time-sharing systems
+Multitasking is when multiple jobs are executed by the CPU simultaneously by switching between them. 
+Switches occur so frequently that the users may interact with each program while it is running and each program is given the
+impression that it has a dedicated CPU, whereas actually one CPU is being shared among many programs.
+When a process executes, it typically executes for only a very short time before it either finishes or needs to perform I/O.
+During this time, a CPU can be utilized by another process.
+uses the concept of multiprogramming,CPU scheduling and  context switching
+multiprogramming:
+more than one process is loaded into the executable memory at a time and the loaded processes shares the CPU using time multiplexing.
 
-DEADLOCK:
+
+***Schedulers:
+special system software which handle process scheduling.they decide which process to run and When
+**Long Term Scheduler/job scheduler: It selects processes from the job queue and loads them into memory for execution.
+primary objective of the job scheduler is to provide a balanced mix of jobs, such as I/O bound and processor bound.
+time-sharing operating systems have no long term scheduler.
+**Short Term Scheduler/CPU scheduler/dispatchers :picks a process from ready queue and put it in run queue, so that CPU can execute it
+they make the decision of which process to execute next based on scheduling algorithms.
+* six popular process scheduling algorithms :
+These algorithms are either non-preemptive or preemptive. Non-preemptive algorithms are designed so that once a process enters the 
+running state, it cannot be preempted until it completes its allotted time, whereas the preemptive scheduling is based on 
+priority where a scheduler may preempt a low priority running process anytime when a high priority process enters into a ready state.
+1)First-Come, First-Served (FCFS) Scheduling - Poor in performance as average wait time is high.
+2)Shortest-Job-Next (SJN) Scheduling - Best approach to minimize waiting time but The processer should know in advance how much time process will take.
+3)Priority Scheduling - Each process is assigned a priority based on memory requirements, time requirements etc.
+Process with highest priority is to be executed first and so on.
+4)Shortest Remaining Time - The processor is allocated to the job closest to completion but it can be preempted by a newer ready job with shorter time to completion.
+5)Round Robin(RR) Scheduling -
+Each process is provided a fix time to execute, it is called a quantum.
+Once a process is executed for a given time period, it is preempted and other process executes for a given time period.
+Context switching is used to save states of preempted processes.
+6)Multiple-Level Queues Scheduling - They make use of other existing algorithms to group and schedule jobs with common characteristics.
+CPU-bound jobs can be scheduled in one queue and all I/O-bound jobs in another queue. The Process Scheduler then alternately selects jobs from each queue and assigns them to the CPU based on the algorithm assigned to the queue.
+**Medium Term Scheduler: does swapping of a I/O bound process with new process in the main memory.the suspended process is moved to the secondary storage. 
+speed: short-term>medium-term>long-term
+
+**Context Switch:
+A context switch is the mechanism to store and restore the state or context of a CPU in Process Control block so that a 
+process execution can be resumed from the same point at a later time.
+Context switches are computationally intensive since register and memory state must be saved and restored. 
+
+**DEADLOCK:
 A process in operating systems uses different resources and uses resources in following way.
 1) Requests a resource
 2) Use the resource
@@ -89,3 +152,90 @@ A semaphore can be associated with these four buffers. The consumer and producer
 
 //LINUX vs UNIX
 https://www.guru99.com/difference-unix-vs-linux.html
+
+
+**Memory management - keeps track of each and every memory location, regardless of either it is allocated to some process or it is free.
+*Process Address Space
+The process address space is the set of logical addresses that a process references in its code.For example, when 32-bit addressing 
+is in use, addresses can range from 0 to 0x7fffffff; that is, 2^31 possible numbers, for a total theoretical size of 2 gigabytes.
+The runtime mapping from virtual to physical address is done by the memory management unit (MMU) which is a hardware device.
+For example, if the base register value is 10000, then an attempt by the user to use address location 100 will be dynamically reallocated to location 10100.
+Symbolic addresses: The variable names, constants, and instruction labels present in source code.
+Relative addresses: At the time of compilation, a compiler converts symbolic addresses into relative addresses.
+Physical addresses: The loader generates these addresses at the time when a program is loaded into main memory.
+ with static loading, the absolute/complete program (and data) is loaded into memory in order for execution to start.
+ with dynamic loading, dynamic routines of the library are stored on a disk in relocatable form and are loaded into memory only when they are needed by the program.
+ when static linking is used, the linker combines all other modules needed by a program into a single executable program to avoid any runtime dependency.
+ when dynamic linking is used, it is not required to link the actual module or library with the program, rather a reference to the dynamic module is provided at the time of compilation and linking.
+logical address space: The set of all logical addresses generated by a program. 
+physical address space: The set of all physical addresses corresponding to these logical addresses
+
+*Swapping/memory compaction
+Swapping is a mechanism in which a process can be swapped temporarily out of main memory (or move) to secondary storage (disk) and 
+make that memory available to other processes. At some later time, the system swaps back the process from the secondary storage to main memory.
+
+*Fragmentation - problem where small memory blocks remain unused
+External fragmentation - Total memory space is enough to satisfy a request or to reside a process in it, but it is not contiguous, so it cannot be used.
+solution:External fragmentation can be reduced by paging and compaction or shuffle memory contents to place all free memory together in one large block. 
+Internal fragmentation - Memory block assigned to process is bigger. Some portion of memory is left unused, as it cannot be used by another process.
+solution: The internal fragmentation can be reduced by effectively assigning the smallest partition but large enough for the process.
+
+*Paging: Paging technique plays an important role in implementing virtual memory
+Paging is a memory management scheme that eliminates the need for contiguous allocation of physical memory to a process
+Paging is a memory management technique in which process address space is broken into blocks of the same size called pages.
+ The size of the process is measured in the number of pages.
+Similarly, main memory is divided into small fixed-sized blocks of (physical) memory called frames and the size of a frame 
+ is kept the same as that of a page to have optimum utilization of the main memory and to avoid external fragmentation.
+Logical Address/Virtual Address/page address (represented in bits): An address generated by the CPU
+Page address is called logical address and represented by page number and the offset.
+Logical Address = Page number + page offset
+Frame address is called physical address and represented by a frame number and the offset.
+Physical Address = Frame number + page offset
+A data structure called page map table is used to keep track of the relation between a page of a process to a frame in physical memory.
+The mapping from virtual to physical address is done by the memory management unit (MMU) which is a hardware device.
+e.g: Suppose you have a program of 8Kb but your memory can accommodate only 5Kb at a given point in time,
+ then the paging concept will come into picture. When a computer runs out of RAM, the operating system (OS) will move idle or 
+ unwanted pages of memory to secondary memory to free up RAM for other processes and brings them back when needed by the program.
+Paging reduces external fragmentation, but still suffer from internal fragmentation.
+Page tables consume additional memory.
+
+
+*segmentation
+Segmentation is a memory management technique in which each job is divided into several segments of different sizes, one for each module that contains pieces that perform related functions.
+When a process is to be executed, its corresponding segmentation are loaded into non-contiguous memory though every segment is loaded into a contiguous block of available memory.
+Segmentation memory management works very similar to paging but here segments are of variable-length where as in paging pages are of fixed size.
+OS maintains a segment map table for every process.For each segment, the table stores the starting address of the segment and the length of the segment. 
+
+**virtual memory
+A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a
+ section of a hard that's set up to emulate the computer's RAM. 
+The main visible advantage of this scheme is that programs can be larger than physical memory.
+Virtual memory is commonly implemented by demand paging.
+demand paging:
+it just begins executing the new program after loading the first page and fetches that program’s pages as they are referenced.
+While executing a program, if the program references a page which is not available in the main memory because it was swapped out a
+ little ago, the processor treats this invalid memory reference as a page fault and transfers control from the program to the operating system to demand the page back into the memory.
+Advantages
+Following are the advantages of Demand Paging −
+Large virtual memory.
+More efficient use of memory.
+There is no limit on degree of multiprogramming.
+Disadvantages
+Number of tables and the amount of processor overhead for handling page interrupts are greater 
+
+
+**Page replacement algorithms:
+Page replacement algorithms are the techniques using which an Operating System decides which memory pages to swap out, write to disk when a page of memory needs to be allocated.
+the lesser the time waiting for page-ins, the better is the algorithm
+Algorithm tries to select which pages should be replaced to minimize the total number of page misses/faults
+1)First In First Out (FIFO) algorithm: Oldest page in main memory is the one which will be selected for replacement.
+2)Optimal Page algorithm: it has the lowest page-fault rate of all algorithms
+Replace the page that will not be used for the longest period of time
+3)Least Recently Used (LRU) algorithm: Page which has not been used for the longest time in main memory is the one which will be selected for replacement.
+4)Page Buffering algorithm:
+To get a process start quickly, keep a pool of free frames. On page fault, select a page to be replaced.
+Write the new page in the frame of free pool, mark the page table and restart the process.
+5)Least frequently Used(LFU) algorithm:
+The page with the smallest count is the one which will be selected for replacement.
+This algorithm suffers from the situation in which a page is used heavily during the initial phase of a process, but then is never used again.
+
