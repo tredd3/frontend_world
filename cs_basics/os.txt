@@ -204,7 +204,7 @@ Page tables consume additional memory.
 Segmentation is a memory management technique in which each job is divided into several segments of different sizes, one for each module that contains pieces that perform related functions.
 When a process is to be executed, its corresponding segmentation are loaded into non-contiguous memory though every segment is loaded into a contiguous block of available memory.
 Segmentation memory management works very similar to paging but here segments are of variable-length where as in paging pages are of fixed size.
-OS maintains a segment map table for every process.For each segment, the table stores the starting address of the segment and the length of the segment. 
+OS maintains a segment map table for every process.For each segment, the table stores the starting address of the segment and the length of the segment.
 
 **virtual memory
 A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a

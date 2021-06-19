@@ -1,0 +1,51 @@
+IEX: power exchange (buy/sell physical delivery)
+//summary section
+**MOAT/competettive advantage
+companies save lot of money buying electricity on exchange, instead of direct buying from producer
+**RISK
+highly regulated by central electricity regulatory commission (CERC), which decides pricing power
+CERC is planning to launch market coupling.
+
+** Red flags - those that stop you from investment/ think you twice before investing
+market coupling - IEX might lose monopoly - buyers on other exchanges can buy from sellers on IEX and buyers on IEX can buy sellers 
+of other exchanges
+**Green flags
+monopoly - 95% market share
+
+
+**** ABOUT SECTOR ****
+TYPE:
+EXTERNAL DEPENDENCY:
+RISK FACTORS: 
+GROWTH FACTORS: 
+
+**** Company ****
+**PAST: financials
+very strong financial
+did it beat NIFTY in past 10yrs? yes
+debt - zero
+excellent reserve
+
+**PRESENT: business/products
+BUSINESS TYPE: Power Exchange
+BUSINESS MODEL: order matching, price discovery
+REVENUE : from business/companies
+REVENUE GEOGRAPHY: india
+PRODUCTS:
+**FUTURE : why/how does the company grow? 
+SECTOR GROWTH: check in sector growth
+MANAGEMENT VISION:
+COMPANY GROWTH:
+expand to entire south asian region
+will soon enable trading of renewable energy
+establishment of IGX(indian gas exchange) subsidary to facilitate trading of physical gas 
+
+******* Management ******
+promoter? - no promoter, professionaly managed
+clean?
+visionary?
+
+****** valuation *****
+status: overvalued
+SIP via averaging up, increase SIP if price falls due to external factors
+5yr median PE > median PE 

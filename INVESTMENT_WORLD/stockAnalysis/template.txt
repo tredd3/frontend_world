@@ -1,0 +1,38 @@
+Company name : sector/main business
+//summary section
+**MOAT/competettive advantage:
+**RISK
+** Red flags - those that stop you from investment/ think you twice before investing
+**Green flags
+
+
+**** ABOUT SECTOR ****
+TYPE:
+EXTERNAL DEPENDENCY:
+RISK FACTORS: 
+GROWTH FACTORS: 
+
+**** Company ****
+**PAST: financials
+did it beat NIFTY in past 10yrs? 
+**PRESENT: business/products
+BUSINESS TYPE: 
+BUSINESS MODEL: 
+REVENUE : from business/companies
+REVENUE GEOGRAPHY: india
+PRODUCTS:
+**FUTURE : why/how does the company grow? 
+SECTOR GROWTH: check in sector growth
+MANAGEMENT VISION:
+COMPANY GROWTH:
+
+******* Management ******
+clean?
+visionary?
+
+****** valuation *****
+status: overvalued/undervalued/fairly valued
+undervalued: lumpsum
+overvalued: SIP via averaging up, increase SIP if price falls due to external factors
+fairly valued: 50% of lumpsum based on the price trend
+5yr median PE (>/</=) median PE 

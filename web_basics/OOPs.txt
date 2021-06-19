@@ -1,18 +1,20 @@
+https://medium.com/swlh/applying-oop-in-real-world-applications-495c8ee4d946
 oops supporting languages can be class based or prototype based
 
 concepts:
 //encapsulation - binds together the data and functions that manipulate the data
 
-//abstraction - hide implementation by having public and private methods/properties
+//abstraction - hide implementation by exposing methods, so that the other developer only cares about working and not about implementation of code
 implement interfaces
 
 //inheritance - code reusability
 
-//polymorphism - same method behaves differently in different objects
-overloading - compile time polymorphism
-overriding - runtime polymorphism
+//polymorphism - perform different actions using the same method signature.
+Method Overriding/Runtime Polymorphism: child class provides its own implementation of the method defined in the parent class.
+Method Overloading/Static(compile) Polymorphism: methods of same name, from the same class having difference in number and types of parameters.
 https://www.programcreek.com/2009/02/overriding-and-overloading-in-java-with-examples/#:~:text=Overloading%20occurs%20when%20two%20or,(i.e.%2C%20method%20signature).
 
+//destructor - method is automatically invoked when an object is being destroyed. 
 
 //SOLID principles
 https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
