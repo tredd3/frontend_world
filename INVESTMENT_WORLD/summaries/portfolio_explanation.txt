@@ -15,6 +15,7 @@ maruti suziki - monopoly - but research (mostly in EV segment)
 Eiched motors - royal enfield - research (mostly in EV segment)
 IRCTC - monopoly - must have
 IEX - monopoly - must have
+page industires - jockey brand - monopoly - must have
 MCX
 CRISIL
 CAMS - monopoly - must have
@@ -29,6 +30,8 @@ Avantifeed - research
 SBI/HDFC/ICICI - SIBs with strict RBI regulations 
 Nifty bees
 Junior bees - large cap companies with high potential
+
+//heavy industries
 Hindzinc
 Gail
 Tata Steel/Sail - cyclical and tricky
@@ -36,14 +39,7 @@ Adani ports - research
 Adani green - research
 Embassy RR/mindspace RR/INVIT - dividend yielding with predicted cashflows, check valuations
 
-//EV space - check groww and rachana or other videos
-Tata motor - bus and 4 wheeler passenger EVs
-M&M - 3 wheeler, cargo EVs
-Tata chemicals - 
-Exide/Amarraja/himadri - EV battery manufacturing
-Tata power /NTPC/ BHEL - EV charging stations
-
-futurestic:
+//futurestic
 Railtel
 Wabag
 Ion exchange
@@ -54,6 +50,14 @@ BORORENEW
 MINDTREE/TATA ELEXI/Happiest Minds
 ENDURANCE
 DR LAL PATH LAB/laurus labs
+
+//EV space - check groww and rachana or other videos
+Tata motor - bus and 4 wheeler passenger EVs
+M&M - 3 wheeler, cargo EVs
+Tata chemicals - 
+Exide/Amarraja/himadri - EV battery manufacturing
+Tata power /NTPC/ BHEL - EV charging stations
+
 
 //Foreign
 N100 - tech and biotech industries with high growth potential
