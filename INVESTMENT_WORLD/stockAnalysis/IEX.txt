@@ -14,22 +14,32 @@ monopoly - 95% market share
 
 
 **** ABOUT SECTOR ****
+https://www.tijorifinance.com/company/marico-limited/#knowledgebase
+https://www.ibef.org/industry.aspx
 TYPE:
+STAGE :pioneering/growth/maturity/obselete
 EXTERNAL DEPENDENCY:
 RISK FACTORS: 
+-level of competetion: 
+-threat of new entrants : check news
+-threat of substitutes:
+-bargaining power of suppliers: 
+-market size/client base:
+-entry barriers:
 GROWTH FACTORS: 
 
 **** Company ****
 **PAST: financials
-very strong financial
+how good are financials? 
 did it beat NIFTY in past 10yrs? yes
+dividend payment history: 
 debt - zero
 excellent reserve
 
 **PRESENT: business/products
 BUSINESS TYPE: Power Exchange
 BUSINESS MODEL: order matching, price discovery
-REVENUE : from business/companies
+REVENUE MODEL: from business/companies 
 REVENUE GEOGRAPHY: india
 PRODUCTS:
 **FUTURE : why/how does the company grow? 
@@ -41,9 +51,19 @@ will soon enable trading of renewable energy
 establishment of IGX(indian gas exchange) subsidary to facilitate trading of physical gas 
 
 ******* Management ******
-promoter? - no promoter, professionaly managed
-clean?
-visionary?
+- promoter pledging? 
+- promoter shareholding pattern :
+- related party transactions: only for business purposes
+- involved in scams/cases: 
+- CFO /auditor recently resigned/ continously resigning: 
+- spkoke about share price instead of business: 
+- remuneration acc to MCA limits: 
+- management should do what they say. did they do so?: to be found in next annual rpeort
+** skill test:
+- skills relevant to industry: yes
+- experience over > 10 yrs : yes
+- mindset: growth/global foot print
+- how are reserves used - Long Term Investments
 
 ****** valuation *****
 status: overvalued

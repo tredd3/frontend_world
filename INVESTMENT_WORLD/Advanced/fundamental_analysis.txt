@@ -7,8 +7,8 @@ check if the company is present in https://www.valueresearchstocks.com/recos-cur
 
 fundamental analysis is broadly divided in to 2 :
 1)qualitative analysis 
-2)quantitative analysis: financial statements + business info(market share, revenue model, geographical presence)
-https://www.tijorifinance.com/company/tata-steel-limited/#marketshare
+2)quantitative analysis: financial statements + business info(market size, market share, business model, revenue model, 
+geographical presence)
 also u can compare financial statements and business info across peers - which currently only tijori provides
 
 1)discover - once you have picked stocks suitable to you and your competence using how_to_pick_stocks.txt ,
@@ -22,7 +22,7 @@ i)management analysis - qualitative analysis
 *remuneration : < 5% of profits | when company in bad state remuneration should be still lesser | should be in limits prescribed by MCA | 
 search for management in annual report
 *related party transactions: transactions to benifit holding company,director/director relations,key management and relations,subsidary companies
-*track record: criminal, scams, warnings from SEBI/RBI - google search by promoter name / http://www.suchetadalal.com/
+*track record: criminal, scams, warnings from SEBI/RBI - google search by promoter name http://www.suchetadalal.com/
 *should focus on business and not on additional stuff like share price
 *regularly CFOs, auditors resign - avoid such companies
 *management should do what they say and should take responsibilty of things that didn't work (past 5yrs management section)
@@ -33,7 +33,7 @@ qualifications(relevant skills are necessary)
 experience(more experience means managers seen boom and burst and knows how to behave in each situation) 
 mindset : growth, comfort zone - growth preferred
 retained earnings: how is retained earnings used and what is the return on the invested earnings
-age: if management is old, sucession plan is important
+age: if promoter is old, sucession plan is important
 
 ii)industry analysis
 *life cycle of an industry - 4 stages
@@ -57,7 +57,7 @@ https://www.tijorifinance.com/sector/banking - sector
 at a lower price, if the buyer demands so
 6)high entry barrier - is a good sign, capex heavy, momopoly, difficult to manufacture, strict regulations from govt/regulators etc
 
-how to invest in a industry - morning star book
+how to invest in a industry/sector - morning star book
 
 
 standalone financial statements - reports findings of core activity of the company

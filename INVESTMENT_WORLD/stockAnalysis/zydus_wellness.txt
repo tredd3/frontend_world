@@ -16,21 +16,32 @@ CRISIL and CARE ratings - AA+/Stable
 top MFs,LIC,GIC have increaed their shareholding in the past 1yr
 
 ***** ABOUT SECTOR ******:
+https://www.tijorifinance.com/company/marico-limited/#knowledgebase
+https://www.ibef.org/industry.aspx
 TYPE: FMCG
+STAGE :growth
 EXTERNAL DEPENDENCY: agri, rainfall, MSP, input material prices due to fuel
 RISK FACTORS: inflation, govt MSP 
+-level of competetion: can be high, most trusted brands might enter in to this segment
+-threat of new entrants : check news/ google search
+-threat of substitutes : high
+-bargaining power of suppliers: 
+-market size/client base: high
+-entry barriers: people generally don't prefer to experiment with health
 GROWTH FACTORS: changing consumer behaviour towards wellness, especially after COVID and this momentum will remain
 
 
 ***** COMPANY *******:
-*PAST: how good are financials?
+*PAST: 
+how good are financials? medium/okaish
 did it beat NIFTY in past 10yrs? no
-medium/okaish
+dividend payment history: continously paid over last 10 yrs
+
 
 *PRESENT: business/products
 BUSINESS TYPE: B2C, healthcare, nutrition and cosmeceutical products
 BUSINESS MODEL: sell it wholesale sellers/ ecommerce giants
-REVENUE : from customers
+REVENUE MODEL: from customers (flagship sugarfree product)
 REVENUE GEOGRAPHY: india
 PRODUCTS:
 portfolio: Glucon D, Complan, Sugar Free, Nycil, Everyuth, Nutralite and Sugarlite
@@ -44,16 +55,26 @@ Zydus Wellness International DMCC (Dubai)
 *FUTURE: why/how does the company grow? 
 SECTOR GROWTH: check in sector future 
 MANAGEMENT VISION: with current portfolio go deep in indian markets and enter in to international markets
-COMPANY GROWTH: 
+COMPANY GROWTH ROADMAP: 
 deeper penetration in indian markets with diversified products
 slowly entering in the international market
 subsidary in dubai - to manage international business
 
 
 ******* Management ******
-- promoter?
-- clean? yes
-- visionary? yes
+- promoter pledging? no
+- promoter shareholding pattern : decreased over years but very little
+- related party transactions: only for business purposes
+- involved in scams/cases: no
+- CFO /auditor recently resigned/ continously resigning: no
+- spkoke about share price instead of business: no
+- remuneration acc to MCA limits: yes
+- management should do what they say. did they do so?: to be found in 2021 annual rpeort
+** skill test:
+- skills relevant to industry: yes
+- experience over > 10 yrs : yes
+- mindset: growth/global foot print
+- how are reserves used - Long Term Investments
 
 ****** valuation *****
 status: overvalued
