@@ -116,9 +116,16 @@ also check that net profit and cash flow should be in sync, if not investigate w
 Cash flow from Investing activities - earnings or expenditures from non core activities like rent from long-term assets, such as buildings/equipment, investing in bonds,MFs, stocks of other companies etc
 Cash flow from financing activities - cash flows between a company and its owners/shareholders and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock,IPO,FPO etc.
 Cash flow from Operating activities(CFO) - earnings from core/daily activities of a company involved in producing and selling its product, generating revenues, manufacturing, sales, advertising, and marketing activities
-
-free cash flow = owner’s earnings = Net Cash flow from Operating activities(CFO) - Capex
+**Net cash flow = CIO + CFO + COO
+A negative cash flow does not mean a company is unable to pay all of its obligations; it just means that the amount of cash received
+ for that period was insufficient to cover its obligations for that same time period. If other savings vehicles are liquidated 
+ to meet the obligation—or additional debt is accrued 
+So, if Net cash flow < 0 then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
+Analyzing what activities contribute to positive or negative net cash is essential
+sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt
+**Free cash flow = owner’s earnings = Net Cash flow from Operating activities(CFO) - Capex
 = net profit + non_cash expenses(like depriciation,amortisation) - change in working capital - Capex
+free cash flow is the cash left in companies bank account after paying for expenses and capex
 owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
 
 Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)

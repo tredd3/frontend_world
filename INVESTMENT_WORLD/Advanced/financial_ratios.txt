@@ -9,7 +9,9 @@ If a company’s PE is more that means investor is paying premium bcoz it’s a 
 All B2C companies should be valued based on PE (FMCG) and not on PB
 **How to know whether this premium is justified? 
 PEG=PE/expected annual EPS growth rate(Growth in net profit/net income/free cash flow for past 10 yrs)
-PEG <2 // fairlyvalued/undervalued
+PEG =1 fairlyvalued
+PEG < 1 undervalued
+PEG >1 overvalued
 NOTE :
 low P/E might not mean company is undervalued, company may be bankrupt in few years or their future may be skeptical or some negative news which might impact the business
 High P/E might not mean market is paying a premium price bcoz of positive sentiment, it can also mean earnings are less.
@@ -26,12 +28,12 @@ For Great companies - D/E is 0
 ROE should be  > 15% else better to invest in index funds
 Total equity = share capital + reserves + preferred equity
 4)P/B - market value per share to book value per share
-ROE and P/B must be in sync 
+if PB is high check ROA.ROA should be high
 considered only for capex/heavy industries like energy, realty etc
 Book value/net worth/net assets/equity= total assets - liabilities (Intangible assets such as patents,copyrights, brand recognition, and goodwill are not included in the balance sheet)
 in simple words book value is what shareholders get after company is liquidated/sold and it's liabilities are paid off
 When to buy based on PB: for a new company where earnings haven’t begun, B2B(ONGC,GAIL) exceptions for companies like L&T, Intel bcoz they established a sense of trust in customers
-PB value should be < 1.5 for great valuation
+PB value should be < 3 for great valuation
 5)EPS - always TTM (trailing 12 months) net profit  is considered 
 formula: net profit/total no.of outstanding shares
 6)ROCE - return on capital employed = EBIT/Total equity + non-current liabilities

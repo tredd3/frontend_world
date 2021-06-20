@@ -118,7 +118,7 @@ High P/E  could also mean earnings are less OR market is paying  premium as they
 check PEG to confirm , premium is justified only when PEG < 2 or 3
 Low PE could also mean sth is fundamentally wrong with the company - need to check
 Also PE < Industry PE?
-4)PB - NA bcoz if it is a B2C company
+4)PB - NA bcoz if it is a B2C company,if PB applicable check ROA
 5)D/E < 0.5 ? 
 6)ICR high? NA if debt is 0 
 7)ROE > 15%
