@@ -1,22 +1,43 @@
 Sales/revenue/turnover/topline
 COGS - cost of goods sold (preparation/making price)
+
 Gross Profit = sales - COGS
+
 Gross profit Margin/Gross Margin = (gross Profit/sales) *100
 consistent higher gross proft margin represents pricing power/brand/strong MOATs or company is reducing input costs
 if 2 similar companies cost of goods sold remains but GPM is higher for a company implies company has competettive advantage
+
 Operating expenses = salaries + building rent + advertising + marketing cost + cash burn to beat the price war + R&D cost 
+
 EBITDA=Gross Profit - Operating expenses (profit earned by a company from its business)
+
 depreciation expenses = capital goods(like electronics/machinery/buildings) value depreciates over time and is included in income statement over say 5-10 yrs
 Amortisation expenses = same as depreciation but amortisation is for intangible assets like patents
+
 Operating Profit /Operating income(EBIT) =EBITDA - Depreciation - Amortisation expenses=Gross Profit - Operating expenses - Depreciation - Amortisation expenses 
+
 Operating Profit margin/Operating Margin =(operating profit/sales) *100
 Operating profit margin shouldn’t be negative, consistent higher OPM implies having better/efficient management
+
 PBT = Operating Profit /Operating income(EBIT) - interest payment on debt 
+
 PAT/Net Income/Net Profit/BottomLine/Earnings = PBT - tax
-ICR(interest coverage ratio) = EBITDA/Interest = will the company be able to pay interest on debt. ICR should always be high so that during recession company can interest on its debt without loosing assets.
+
+ICR(interest coverage ratio) = EBITDA/Interest = will the company be able to pay interest on debt. ICR should always be high so that
+during recession company can interest on its debt without loosing assets.
 ICR is not applicable for companies with 0 debt.
 
-why EBITDA is important even thouh PAT/net profit exist?
+**why EBITDA is important even thouh PAT/net profit exist?
 for capital intensive business we need to look in to EBITDA, which gives us the actual operating income as dep & amor numbers will be high
 for comparing actual operating income of old company (which already claimed dep and amo expenses) and new company(whose dep & amo expenses are being claimed)
-also amortisation and depreciation are non-cash expenses, which doesn't go out from company's hand
+also amortisation and depreciation are non-cash expenses, which doesn't go out from company's hand\
+
+** Trends and interpretation 
+—-Both top line and bottom line is growing - extraordinary businesses
+I.e Gross profit Margin is either steady or increasing
+—-Bottomline is growing fast but top line growth is slow - company having great moat
+i.e people are paying premium and has customer loyalty
+—-Top line is growing but bottomline is not - bad business modal bcoz company is  trying to capture the market share first and 
+then earn profits. But will the customers come back to the company for purchases? Is there any such moat ? 
+If yes - then definitely a good business
+If No - means other players will enter into market and current company will face losses

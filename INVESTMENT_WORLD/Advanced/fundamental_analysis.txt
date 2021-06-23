@@ -67,12 +67,7 @@ e.g L&T - certain subsidaries are not listed and hence u need to look at consoli
 
 
 3)valuation
-calculate: https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
-verify: 
-https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
-https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
-https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
-
+check advanced/company_valuation.txt
 
 4)tracking portfolio companies - news, earnings, reports all at one place
 https://www.ratestar.in/news

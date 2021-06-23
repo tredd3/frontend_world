@@ -1,5 +1,4 @@
-Diff ways of picking stocks:
-
+******** Diff ways of picking stocks *******
 1)suggestions : easiest way
 brokers, youtubers, paid servies(https://www.valueresearchstocks.com/recos-current)
 
@@ -22,5 +21,22 @@ read sector_and_company_hunt.txt
 investors: https://www.ratestar.in/investor/Jhunjhunwala-Rakesh-Radheshyam
 mutual funds portfolio: https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth
 instead get the idea behind the investment and apply for your investments
+
+******** Basic Screening of stocks *********
+-- pick a stock using any ot the methods mentioned above
+-- check if the company is present in https://www.valueresearchstocks.com/recos-current - read the report if stock is present
+-- Normal check on stock price since inception - google search (steady growth or any abnormality observed)
+-- if a share is falling: google search why a company share is falling - check news section in morning start/screener.in
+And also check promoter shareholding pattern
+Internal factors: then skip the company
+External factors: then proceed with screening
+-- get a gist by doing a Wiki search/about section in company website
+-- will the sector do good in future ? I.e will there be demand for next  5-10 yrs
+-- Earning power of the company: 
+if B2C will public buy products of this company or will there be a demand in the future ?
+if B2B then why will other companies keep buying their product at premium ?
+
+If everything is GOOD then proceed with the fundamental analysis else repeat the process for another stock
+
 
 

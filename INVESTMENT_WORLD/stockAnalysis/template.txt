@@ -19,6 +19,7 @@ RISK FACTORS:
 -bargaining power of suppliers: 
 -market size/client base:
 -entry barriers: low/high
+-govt regulations:
 GROWTH FACTORS: 
 -expected growth rate:
 -oppurtunities locally/globally:
@@ -31,29 +32,31 @@ https://www.tijorifinance.com/company/zydus-wellness/
 other income % contribution to net profit
 did it beat NIFTY in past 10yrs? 
 continous dividend payment history: yes/no
+
 *BALANCE SHEET:
+
 *INCOME STATEMENT:
-R&D spending(check in operating expenses) % wrt to net profit and operating expenses
+-- strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
+however it completely depends on the industry. it is possible that all companies in the sector have done poorly
+-- R&D spending(check in operating expenses) % wrt to net profit and operating expenses
+
+
 *CASH FLOW:
 Capex(check in Cash flow from investing) % wrt to net profit
+
 *OPERATIONAL RATIOS:
 quick ratio:
 current ratio:
-Debt/Equity(keep in mind the industry - bank, energy ect have high debt): 
-if D/E > 0 - check the debt position of peers
+Debt/Equity(keep in mind the industry - bank, energy, machinery ect have high debt): 
+if D/E > 0 - check the debt position of peers and ICR of the company
+
 *PROFITIABILITY RATIOS:
-OPM: consistent/increaing/decreasing
-NPM: consistent/increaing/decreasing
+OPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
+NPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 avg 5yrs ROE: 
 avg 5yrs ROCE:
 EPS CAGR:
 EPS wrt previous year and wrt highest EPS in past 10yrs:
-*VALUATION RATIOS
-PE < industry PE:
-PE < 5yr median PE:
-PEG ratio: 
-P/B: 
-EV/EBITDA:
 
 
 **PRESENT:
@@ -93,11 +96,44 @@ are the MOATs breakable?
 - skills relevant to industry: yes
 - experience over > 10 yrs : yes
 - mindset/vision: growth via rural penetration/global foot print
-- how are reserves used - Long Term Investments
+- how are reserves used - capex/M&A/dividends/buyback/reinvesting in business
 
 ****** valuation *****
+Talk about valuations only if the above factors are strong, else no point in buying the company
+
+*VALUATION RATIOS
+PE:
+PE < 20(medium) ? 
+High P/E => earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate
+check PEG to confirm , premium is justified only when PEG < 2
+Low PE => any fundamentally wrong with the company - check
+Also PE < Industry PE?
+PE < 5yr median PE?
+PEG ratio: 
+PB: 
+PB - NA for a B2C company,if PB is applicable check ROA
+EV/EBITDA:
+EV/EBITDA < 10 - excellent company
+EV/EBITDA < 14 - can be considered
+EV/EBITDA > 14 - high valuation
+EV/EBITDA < industry EV/EBITDA and compare it with peers of same size
+
+
+If cash flow regular? 
+calculate DCF valuation : https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+    Market cap < DCF valuation, both PE and earnings are less?, check valuation ratios - stock undervalued, hence buy it
+    Market cap ~= DCF - fairly valued, check valuation ratios
+    Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
+verify: 
+https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
+https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
+https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
+Else 
+	buy based on relative valuations mentioned in advanced/company_valuation.txt
+
+
+****** OVERALL SUMMARY *******
 status: overvalued/undervalued/fairly valued
 undervalued: lumpsum
 overvalued: SIP via averaging up, increase SIP if price falls due to external factors
 fairly valued: 50% of lumpsum based on the price trend
-5yr median PE (>/</=) median PE 

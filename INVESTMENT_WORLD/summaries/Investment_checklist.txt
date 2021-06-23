@@ -27,6 +27,7 @@ Once market crashes and starts to recover put all ur debt amount to equity for g
 2)if NIFTY and Jr.NIFTY PE is almost same invest in Jr.Nifty as the earnings increase faster in junior nifty
 https://trendlyne.com/equity/PE/NIFTYNEXT50/1888/nifty-next-50-price-to-earning-ratios/
 3)if markets crash make sure to invest in junior nifty along with value companies
+4)Junior Nifty - only buy when PE is low - During Boom junior nifty grows exponentially and during burst it goes down exponentially
 
 MACROECONOMICs check - https://www.tijorifinance.com/macro/#gdp
 OVERALL MARKETS and Financial Instruments performance check - https://in.tradingview.com/
@@ -64,54 +65,4 @@ https://www.youtube.com/watch?v=u-3Zl8NZMI4&t=184s - future investment ideas
 
 
 //HIGH RISK - INDIVIDUAL STOCKS
-
-//Stock selection Tests: 
-
-2)Financial Health Test: past performance 
-3)PE < 20(medium) ? 
-High P/E  could also mean earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate
-check PEG to confirm , premium is justified only when PEG < 2 or 3
-Low PE could also mean sth is fundamentally wrong with the company - need to check
-Also PE < Industry PE?
-4)PB - NA bcoz if it is a B2C company,if PB applicable check ROA
-5)D/E < 0.5 ? 
-6)ICR high? NA if debt is 0 
-7)ROE > 15%
-8)
-—Both top line and bottom line is growing - extraordinary businesses
-I.e Gross profit Margin is either steady or increasing
-—Bottomline is growing fast but top line growth is slow - company having great moat
-i.e people are paying premium and has customer loyalty
-—Top line is growing but bottomline is not - bad business modal bcoz company is  trying to capture the market share first and then earn profits. But will the customers come back to the company for purchases? Is there any such moat ? 
-If yes - then definitely a good business
-If No - means other players will enter into market and current company will face losses
-9)Gross profit margin/Gross margin is steady or increasing?
-10)Operating profit margin/Operating margin is steady increasing?
-11)free cash flow is increasing?
-Fair value calculation for immediate year:
-Fair value = estimated earnings * Fair PE (roughly 27-28 as of 2021)
-estimated earnings  = 14% increase on previous year earnings (10% actual + 4% inflation)
-Margin of safety(MOS) = 30% - 50%
-Purchase value = MOS * fair value
-
-If the above 2 tests are passed then go to step 3 
-
-3)Final and most important - valuations
-If cash flow regular? 
-Market cap < DCF  and both PE and earnings are less? - stock undervalued, hence buy it (verify from morning star, zerodha see detailed info section)
-EV/EBITDA < 10 - excellent company
-EV/EBITDA < 14 - can be considered
-EV/EBITDA > 14 - high valuation
-also like PE, check whether EV/EBITDA < industry EV/EBITDA and compare it with peers of same size
-    Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
-Else 
-	buy based on step 1 and 2 results
-
-
-//very high Risk investments - HIGH RISK === HIGH RETURNS
-Junior Nifty - only buy when PE is low - During Boom junior nifty grows exponentially and during burst it goes down exponentially
-Growth Stocks
-Sector Investments - cyclical 
-Startups
-Intraday - avoid
-Options and futures - avoid
+get started with advanced/how_to_pick_stocks.txt
