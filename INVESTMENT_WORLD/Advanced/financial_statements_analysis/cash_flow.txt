@@ -1,0 +1,32 @@
+//why cash flow statement is important
+p&l statement can be manipulated. Also not all the net profit is received as cash, it takes time for the money to get credited 
+also that money goes in to reserve section of balance sheet, hence analysing free cashflow is very important.
+also check that net profit and cash flow should be in sync, if not investigate why company is not able to convert profit to cash
+
+Cash flow from Investing activities - earnings or expenditures from non core activities like rent from long-term assets, such as buildings/equipment, investing in bonds,MFs, stocks of other companies etc
+Cash flow from financing activities - cash flows between a company and its owners/shareholders and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock,IPO,FPO etc.
+Cash flow from Operating activities(CFO) - earnings from core/daily activities of a company involved in producing and selling its product, generating revenues, manufacturing, sales, advertising, and marketing activities
+**Net cash flow = CIO + CFO + COO
+A negative cash flow does not mean a company is unable to pay all of its obligations; it just means that the amount of cash received
+ for that period was insufficient to cover its obligations for that same time period. If other savings vehicles are liquidated 
+ to meet the obligation—or additional debt is accrued 
+So, if Net cash flow < 0 then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
+Analyzing what activities contribute to positive or negative net cash is essential
+sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt
+**Free cash flow = owner’s earnings = Net Cash flow from Operating activities(CFO) - Capex
+= net profit + non_cash expenses(like depriciation,amortisation) - change in working capital - Capex
+free cash flow is the cash left in companies bank account after paying for expenses and capex
+owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
+
+Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
+
+**If free cash flow is high => assets increases => equity increases and ROE decreases
+Hence companies either use it in Capex(capacity increase),R&D(tech companies), mergers(to acquire market share/expansion)
+If a company has more cash in ideal mode then it might take wrong decision and everything gets screwed.
+Hence they give it as dividend or buyback shares from open market then cash decreases and the ROE is less
+Generally FMCG gives dividend and tech companies won’t rather they invest in R&D to keep ahead of competition.
+**CAGR - compounded annual growth rate -  on an average return rate per year
+For e.g: 2015 - investment year, 9% is CAGR which means from 2015 to 2016 there is 9% profit, and whole amount(principal + profit) is reinvested and then again 9% profit on the amount and so on
+**Beta analysis
+Beta - A positive beta value indicates that stocks generally move in the same direction with that of the market and the vice versa
+For example, if beta is 1.3 and the market is expected to move up by 10%, then the stock should move up by 13% (1.3 x 10).

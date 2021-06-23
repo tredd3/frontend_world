@@ -3,7 +3,11 @@ cyclical - but behaves like hybrid of cyclical and defensive
 keep an eye on NPAs
 still india has a scope for penetration
 not globally competetive
-valuation: only look ROE and not ROCE
+valuation: 
+NPA - less
+CASA,NIM,ROA,ROE - more
+higher CASA indicates current and saving account deposits are more compared to time deposits => low cost funds for banks =>high NIM
+don't look at debt 
 
 2)FMCG
 

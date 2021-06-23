@@ -1,32 +1,26 @@
 ******** MY Investment checkList ********
 GOLDEN RULES : 
 INVEST IN YOURSELF: Read and analyse News - link it with ur investment , Books, finance Videos
-CONROL UR EMOTIONS - Always believe in fundamentals price keeps on changing (make volatility your friend )
+CONROL UR EMOTIONS - intrinsic value changes anually, market value changes every minute (make volatility your friend )
 LEARN FROM OTHERS MISTAKES - read more and apply them
 1)NEVER LOSE CAPITAL
 2)RISK LIES IN THE PRICE AND NOT ASSET CLASS - buy assets at cheaper price
 Even Buying great companies at higher valuation is also a risky thing 
 3)HAVE KNOWLEDGE BEFORE INVESTING - MORE KNOWLEDGE === LESS RISK
-3)SHORT TERM PRICE CHANGE is due to market sentiment (as earnings/revenue can’t increase in short term)
-4)LONG TERM PRICE CORRECTION IS DUE TO EARNINGS
-SO, LONG TERM INVESTOR SHOULD HAVE A OWNER MINDSET: focus on earnings not on share price, bcoz if earnings increase market sentiment(P/E) increases and hence share price eventually increases)
+4)Short term - PE is significant(speculator focus), long term - earnings are significant(investor focus)
+SO, LONG TERM INVESTOR SHOULD HAVE A OWNER MINDSET: focus on business not on share price, bcoz if earnings increase market sentiment(P/E) increases and hence share price eventually increases)
 5)WHEN TO BUY: 
 Index: when both PE and Earnings are less, market_cap/GDP < 1
 Stocks: buy Great business at fair price instead of buying fair business at a wonderful price
 Seize the opportunity and play big if you get wonderful businesses at great price/undervalued price
-Always Invest in tranches bcoz we if the market is gone fall further we need to have capital to invest more
-6)WHEN TO SELL: 
-Index: when both PE and Earnings are high
+Always Invest in tranches bcoz we don't know if the market is gona fall further and we need to have capital to invest more
+6)WHEN TO SELL: idea is to hold it forever, but in below scenarios we can think of selling securities
+Index: when both PE and Earnings are exceptionally high
 Stocks: If fundamentals gone bad then u need to sell to protect capital even though u might face minor loss
 if fundamentals are good but stock is trading at much higher price than intrinsic value
-PS: if fundamentals are good but stock is not trading at fair price then u need to hold
-7)3 THINGS TO CONSIDER:
-PAST: company financials history, dividend history
-PRESENT: debt(keep in mind the industry, as banking and energy sector has significant debt), current sales, R&D and Capex spending,
-last 3yrs financials, how diversified is client/customer base ,demand for products, market share(how is the competition from peers - interns of products, innovation etc), business and revenue model , management 
-FUTURE/EARNING POWER: how is the sector growth - study reports, opportunities globally/locally for next 10yrs - will there be any innovation/trend change in the sector killing the demand and need for capacity rebuilding by the company, is MOAT breakable(can the market share be captured), Management vision(annual report)
+PS: if fundamentals are good but stock is not trading at fair price then u need to hold, infact u need to accumulate more
 
- 
+
 MASTER TIPS & TRICKS:
 1)Transfer all your equity amount to debt for stability - if u feel stock markets are going to crash.
 Once market crashes and starts to recover put all ur debt amount to equity for growth.
@@ -41,15 +35,16 @@ OVERALL MARKETS and Financial Instruments performance check - https://in.trading
 Stock market going down and down? Invest in Junior Nifty as well but not much, only your risk capital 
 1)How to know markets are cheap?
 Extremely cheap:
-Both Market cap/GDP < 1 and GDP are low, both PE and EGR are less or PB is low 
+Both Market cap/GDP < 1 and GDP are low, both PE and EPS is low 
 Estimated PE:  avg of medium range
 Bank PE =100/6 = 18  low PE range = bank PE+5 , low: 23, medium : 23-28, high > 28
 Medium costly: 
-Either Market cap/GDP < 1 or GDP is low, Either PE or EGR is less, PB is low 
-Generally if P/E ratio is more markets are costly but if earnings are less PE will be more and markets are still cheap because earnings are less. Hence market_cap/GDP is the right measure.
+Either Market cap/GDP < 1 or GDP is low, Either PE or EGR is less
+Generally if P/E ratio is more markets are costly but if earnings are less PE will be more and markets are still cheap because
+ earnings are less. Hence market_cap/GDP is the right measure.
 In the long run market cap/gdp correlation has to be 1 (bcoz company valuation depends on its earnings in the long run)
 2)Data Points and Calculations
-Calculation: 
+Calculation:
 https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
 market_cap/GDP - https://www.gurufocus.com/global-market-valuation.php?country=IND
 Data Points : Nifty
@@ -61,58 +56,18 @@ price, PE, PB - https://www.bseindia.com/markets/keystatics/Keystat_index.aspx
 Market cap - https://www.bseindia.com/markets/equity/EQReports/TopMarketCapitalization.aspx
 
 
-
 //MEDIUM RISK
-Sector investments - cyclical, needs continuous monitoring
+Sector investments - cyclical/defensice/growth/extinction, needs continuous monitoring
 Final summary of sectors and corresponding companies in that sector
 WIP - check sector and company hunt
+https://www.youtube.com/watch?v=u-3Zl8NZMI4&t=184s - future investment ideas
 
 
 //HIGH RISK - INDIVIDUAL STOCKS
-1)PSU investment:
- monopoly PSUs are better in long term other PSUs might be profitable in short term
-2)Bank valuation:
-NPA,CASA - less
-NIM,ROA,ROE - more
-3)Monopoly:
-B2B : customer identification
-B2C : essential products or luxury goods - buy at cheap valuations
 
 //Stock selection Tests: 
-Resources:
-https://www.morningstar.in/stocks/0p0000bqwx/bse-gail-(india)-ltd/overview.aspx
-https://www.screener.in/company/VGUARD/#cash-flow
-Normal check on stock price since inception - google search
-Wiki search
-
-1)Screening Test: Elimination
-Morningstar
-Screener
-MoneyControl
-Pre-step: google search why a company share is falling - check news section in morning start/screener.in
-And also check promoter shareholding pattern
-Internal factors: then skip the company
-External factors: then proceed with screening
-1)do you have enough knowledge about the industry ? 
-If NO then first gain knowledge on the industry present situation, check future growth rate, probable substitutes for the products, any govt regulations etc before proceeding 
-2)is it a predictable/steady business? 
-Check? Gross profit Margin and operating profit margin should be steady/Increasing
-Effect: cash flows can be discounted
-3)strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
-4)does it have moats? Check individual stocks section
-5)check fundamentals:
-Fundamentals: 
-1)will the sector do good in future ? I.e will there be demand for next  5-10 yrs
-2)do the company has any threat from competitors(is the market share decreasing ?) - check MOATS
-3)company business and revenue model good? 
-4)management - vision and previous accomplishments - from annual report
-5)Earning power/future Growth - i.e if B2C will public buy products of this company or will there be a demand in the future, if B2B then why will other companies keep buying their product at premium ?
-
-If most of them are passed then go to step 2
-Else discard the company and check other company
 
 2)Financial Health Test: past performance 
-5)Are you getting it at a good price/valuation- check company valuation section:
 3)PE < 20(medium) ? 
 High P/E  could also mean earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate
 check PEG to confirm , premium is justified only when PEG < 2 or 3

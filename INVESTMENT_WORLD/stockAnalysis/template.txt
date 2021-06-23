@@ -15,32 +15,74 @@ EXTERNAL DEPENDENCY:
 RISK FACTORS: 
 -level of competetion: 
 -threat of new entrants : check news
--threat of substitutes:
+-threat of substitutes/innovation/trend change:
 -bargaining power of suppliers: 
 -market size/client base:
--entry barriers:
+-entry barriers: low/high
 GROWTH FACTORS: 
+-expected growth rate:
+-oppurtunities locally/globally:
 
 
 **** Company ****
 **PAST: financials
-how good are financials? 
+https://www.screener.in/company/ZYDUSWELL/consolidated/
+https://www.tijorifinance.com/company/zydus-wellness/
+other income % contribution to net profit
 did it beat NIFTY in past 10yrs? 
-dividend payment history: 
-**PRESENT: business/products
+continous dividend payment history: yes/no
+*BALANCE SHEET:
+*INCOME STATEMENT:
+R&D spending(check in operating expenses) % wrt to net profit and operating expenses
+*CASH FLOW:
+Capex(check in Cash flow from investing) % wrt to net profit
+*OPERATIONAL RATIOS:
+quick ratio:
+current ratio:
+Debt/Equity(keep in mind the industry - bank, energy ect have high debt): 
+if D/E > 0 - check the debt position of peers
+*PROFITIABILITY RATIOS:
+OPM: consistent/increaing/decreasing
+NPM: consistent/increaing/decreasing
+avg 5yrs ROE: 
+avg 5yrs ROCE:
+EPS CAGR:
+EPS wrt previous year and wrt highest EPS in past 10yrs:
+*VALUATION RATIOS
+PE < industry PE:
+PE < 5yr median PE:
+PEG ratio: 
+P/B: 
+EV/EBITDA:
+
+
+**PRESENT:
 BUSINESS TYPE: 
 BUSINESS MODEL: 
-REVENUE MODEL: 
+PRODUCT/SERVICES PORTFOLIO:
+REVENUE MODEL:
+ clients diversification(if B2B):
+ products share:
 REVENUE GEOGRAPHY: india
 PRODUCTS:
+market share:
+market size: small/large
+PEER competetiors :
+how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
+POSITION IN PEERS :
+
+
+
 **FUTURE : why/how does the company grow? 
 SECTOR GROWTH: check in sector growth
 MANAGEMENT VISION:
-COMPANY GROWTH:
+COMPANY GROWTH: 
+are the MOATs breakable?
 
 ******* Management ******
+//annual report - reading it answers all ur questions
 - promoter pledging? 
-- promoter shareholding pattern :
+- promoter shareholding pattern : constant/ decreasing/ increasing
 - related party transactions: only for business purposes
 - involved in scams/cases: 
 - CFO /auditor recently resigned/ continously resigning: 
@@ -50,7 +92,7 @@ COMPANY GROWTH:
 ** skill test:
 - skills relevant to industry: yes
 - experience over > 10 yrs : yes
-- mindset: growth/global foot print
+- mindset/vision: growth via rural penetration/global foot print
 - how are reserves used - Long Term Investments
 
 ****** valuation *****

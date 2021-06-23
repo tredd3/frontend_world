@@ -1,18 +1,13 @@
 https://www.investopedia.com/fundamental-analysis-4689757
-https://www.screener.in/company/ZYDUSWELL/consolidated/
-https://www.tijorifinance.com/company/zydus-wellness/
-annual report - read
-check if the company is present in https://www.valueresearchstocks.com/recos-current
 
 
-fundamental analysis is broadly divided in to 2 :
-1)qualitative analysis 
-2)quantitative analysis: financial statements + business info(market size, market share, business model, revenue model, 
+FUNDAMENTAL ANALYSIS is broadly divided in to 2 :
+1)QUALITATIVE ANALYSIS 
+2)QUANTITATIVE ANALYSIS: financial statements + business info(market size, market share, business model, revenue model, 
 geographical presence)
 also u can compare financial statements and business info across peers - which currently only tijori provides
 
-1)discover - once you have picked stocks suitable to you and your competence using how_to_pick_stocks.txt ,
- proceed with the fundamental analysis below
+1)pick a stock - check how_to_pick_stocks.txt
 
 2)steps/research involved :
 mindset: analyse with a fraud identification mindset and not with a confirmation bias
@@ -48,6 +43,7 @@ annual reports management section of similar companies in the same industry (MAN
 https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11 - SEBI filings (industry overview),
 https://www.tijorifinance.com/company/marico-limited/#knowledgebase - industry
 https://www.tijorifinance.com/sector/banking - sector
+how to invest in a industry/sector - morning star book
 *further analysis
 1)level of competetion - don't invest in industries where there is huge competetion within companies, as the pricing power decreases
 2)threat of new entrants - how easy it is for a new entrant to disrupt the market share(jio for telecom, jiomart for dmart)
@@ -57,92 +53,18 @@ https://www.tijorifinance.com/sector/banking - sector
 at a lower price, if the buyer demands so
 6)high entry barrier - is a good sign, capex heavy, momopoly, difficult to manufacture, strict regulations from govt/regulators etc
 
-how to invest in a industry/sector - morning star book
-
-
+iii)financial statements analysis: quantitative analysis
 standalone financial statements - reports findings of core activity of the company
 u need to look at standalaone when the subisidaries of a company are listed. so that u get to know how the parent company is doing business
 e.g: HDFC - subsidaries are HDFC bank, HDFC amc, HDFC life and all these 3 are listed
 consolidated financial statements - reports all activities of a company, its subsidiaries as a combined entity
 e.g L&T - certain subsidaries are not listed and hence u need to look at consolidated statement as the subsidary earnings are included in the consolidated statement
-iii)balance sheet - quantitative analysis
-solvency: ability to clear debt
-liquidity: can it meet short term expenses
-money to shareholders if liquidated: 
-**liabilities: source of funds, i.e from where does the company get money from
-Equity:
-equity share capital - promoter share value
-other equity - reserves + premium paid during IPO,FPO share offers
-Non-current liabilities: to be paid for a period > 1 year
-borrowings - long term debt
-Other financial liabilities - like TDS for dividends declared
-Other liabilities  -
-Provisions - set aside some amount for unseen future expenses
-Current liabilities: to be paid within 1 year
-**assets: how the company is utilising the money
-current assets - can be liquidated within a year
-tangible assets(property,plants,equipments): the value is at the time company is incorporated adjusted with depreciation, 
-market value might be much more
 
-iv)profit and loss/income statement - quantitative analysis
-Sales/revenue/turnover/topline
-COGS - cost of goods sold (preparation/making price)
-Gross Profit = sales - COGS
-Gross profit Margin/Gross Margin = (gross Profit/sales) *100
-consistent higher gross proft margin represents pricing power/brand/strong MOATs or company is reducing input costs
-if 2 similar companies cost of goods sold remains but GPM is higher for a company implies company has competettive advantage
-Operating expenses = salaries + building rent + advertising + marketing cost + cash burn to beat the price war + R&D cost 
-EBITDA=Gross Profit - Operating expenses (profit earned by a company from its business)
-depreciation expenses = capital goods(like electronics/machinery/buildings) value depreciates over time and is included in income statement over say 5-10 yrs
-Amortisation expenses = same as depreciation but amortisation is for intangible assets like patents
-Operating Profit /Operating income(EBIT) =EBITDA - Depreciation - Amortisation expenses=Gross Profit - Operating expenses - Depreciation - Amortisation expenses 
-Operating Profit margin/Operating Margin =(operating profit/sales) *100
-Operating profit margin shouldn’t be negative, consistent higher OPM implies having better/efficient management
-PBT = Operating Profit /Operating income(EBIT) - interest payment on debt 
-PAT/Net Income/Net Profit/BottomLine/Earnings = PBT - tax
-ICR(interest coverage ratio) = EBITDA/Interest = will the company be able to pay interest on debt. ICR should always be high so that during recession company can interest on its debt without loosing assets.
-ICR is not applicable for companies with 0 debt.
+*balance sheet -  financial_statements_analysis/balance_sheet.txt
+*income statement - financial_statements_analysis/income_statement.txt
+*cash flow - financial_statements_analysis/cash_flow.txt
+*financial ratios analysis - financial_statements_analysis/financial_ratios.txt
 
-why EBITDA is important even thouh PAT/net profit exist?
-for capital intensive business we need to look in to EBITDA, which gives us the actual operating income as dep & amor numbers will be high
-for comparing actual operating income of old company (which already claimed dep and amo expenses) and new company(whose dep & amo expenses are being claimed)
-also amortisation and depreciation are non-cash expenses, which doesn't go out from company's hand
-
-v)cash flow statement - quantitative analysis
-p&l statement can be manipulated. Also not all the net profit is received as cash, it takes time for the money to get credited 
-also that money goes in to reserve section of balance sheet, hence analysing free cashflow is very important.
-also check that net profit and cash flow should be in sync, if not investigate why company is not able to convert profit to cash
-
-Cash flow from Investing activities - earnings or expenditures from non core activities like rent from long-term assets, such as buildings/equipment, investing in bonds,MFs, stocks of other companies etc
-Cash flow from financing activities - cash flows between a company and its owners/shareholders and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock,IPO,FPO etc.
-Cash flow from Operating activities(CFO) - earnings from core/daily activities of a company involved in producing and selling its product, generating revenues, manufacturing, sales, advertising, and marketing activities
-**Net cash flow = CIO + CFO + COO
-A negative cash flow does not mean a company is unable to pay all of its obligations; it just means that the amount of cash received
- for that period was insufficient to cover its obligations for that same time period. If other savings vehicles are liquidated 
- to meet the obligation—or additional debt is accrued 
-So, if Net cash flow < 0 then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
-Analyzing what activities contribute to positive or negative net cash is essential
-sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt
-**Free cash flow = owner’s earnings = Net Cash flow from Operating activities(CFO) - Capex
-= net profit + non_cash expenses(like depriciation,amortisation) - change in working capital - Capex
-free cash flow is the cash left in companies bank account after paying for expenses and capex
-owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
-
-Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
-
-**If free cash flow is high => assets increases => equity increases and ROE decreases
-Hence companies either use it in Capex(capacity increase),R&D(tech companies), mergers(to acquire market share/expansion)
-If a company has more cash in ideal mode then it might take wrong decision and everything gets screwed.
-Hence they give it as dividend or buyback shares from open market then cash decreases and the ROE is less
-Generally FMCG gives dividend and tech companies won’t rather they invest in R&D to keep ahead of competition.
-**CAGR - compounded annual growth rate -  on an average return rate per year
-For e.g: 2015 - investment year, 9% is CAGR which means from 2015 to 2016 there is 9% profit, and whole amount(principal + profit) is reinvested and then again 9% profit on the amount and so on
-**Beta analysis
-Beta - A positive beta value indicates that stocks generally move in the same direction with that of the market and the vice versa
-For example, if beta is 1.3 and the market is expected to move up by 10%, then the stock should move up by 13% (1.3 x 10).
-
-vi)financial ratios analysis - quantitative analysis check financial_ratios.txt
-vii)reading annual reports
 
 3)valuation
 calculate: https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
@@ -155,3 +77,5 @@ https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Sc
 4)tracking portfolio companies - news, earnings, reports all at one place
 https://www.ratestar.in/news
 https://www.ratestar.in/watchlist
+https://www.screener.in/
+
