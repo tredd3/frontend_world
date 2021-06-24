@@ -46,7 +46,6 @@ Ion exchange
 MTAR
 DIXON
 INDIAMART - largest B2B online platform
-BORORENEW
 MINDTREE/TATA ELEXI/Happiest Minds
 ENDURANCE
 DR LAL PATH LAB/laurus labs
@@ -54,10 +53,13 @@ DR LAL PATH LAB/laurus labs
 //EV space - check groww and rachana or other videos
 Tata motor - bus and 4 wheeler passenger EVs
 M&M - 3 wheeler, cargo EVs
-Tata chemicals - 
+Tata chemicals
 Exide/Amarraja/himadri - EV battery manufacturing
 Tata power /NTPC/ BHEL - EV charging stations
 
+//Renewable energy
+BORORENEW
+Tata power
 
 //Foreign
 N100 - tech and biotech industries with high growth potential
