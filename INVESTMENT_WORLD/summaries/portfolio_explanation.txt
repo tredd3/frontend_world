@@ -22,7 +22,6 @@ CAMS - monopoly - must have
 CDSL
 VBL
 Bluedart - research
-Bayercrop - research
 SAREGAMA - research
 HDFC AMC/NIPPON AMC - check money purse video before investing
 HDFC LIFE/SBI LIFE
@@ -57,7 +56,7 @@ Tata chemicals
 Exide/Amarraja/himadri - EV battery manufacturing
 Tata power /NTPC/ BHEL - EV charging stations
 
-//Renewable energy
+//Renewable energy - highest focus, research and invest 
 BORORENEW
 Tata power
 

@@ -1,17 +1,20 @@
+what idea does balance sheet give us?
 solvency: ability to clear debt
 liquidity: can it meet short term expenses
+
 money to shareholders if liquidated: 
 **liabilities: source of funds, i.e from where does the company get money from
 Equity:
 equity share capital - promoter share value
 other equity - reserves + retained earnings + premium paid during IPO,FPO share offers
 Non-current liabilities: to be paid for a period > 1 year
-borrowings - long term debt
+ borrowings - long term debt
 Other financial liabilities - like TDS for dividends declared
 Other liabilities  -
-Provisions - set aside some amount for unseen future expenses
+ Provisions - set aside some amount for unseen future expenses
 Current liabilities: to be paid within 1 year
+
 **assets: how the company is utilising the money
 current assets - can be liquidated within a year
-tangible assets(property,plants,equipments): the value is at the time company is incorporated adjusted with depreciation, 
-market value might be much more
+'Net Block' - the original cost of acquisition of tangible assets(property,plants,equipments) - depreciation
+current market value of tangible assets might be less/ more

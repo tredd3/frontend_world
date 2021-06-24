@@ -33,7 +33,16 @@ other income % contribution to net profit
 did it beat NIFTY in past 10yrs? 
 continous dividend payment history: yes/no
 
+
 *BALANCE SHEET:
+look reserves and net profit for every year - any abnormality(like reserves decreasing and profit increasing)observed ?
+current assets > current liabilities
+check cash/market_cap : if > 50% buy
+check if Accounts Receivable is significant compared to sales:
+ if yes there might be a default risk - also u need to reiterate on the company, as it has liberal credit policy
+inventory abnormally large ? 
+ if yes there might be a loss
+
 
 *INCOME STATEMENT:
 -- strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
@@ -75,12 +84,14 @@ how do peers provide competetion : strong moats/geographical expansion/innovativ
 POSITION IN PEERS :
 
 
-
 **FUTURE : why/how does the company grow? 
-SECTOR GROWTH: check in sector growth
+SECTOR GROWTH RATE: check in sector growth
 MANAGEMENT VISION:
-COMPANY GROWTH: 
-are the MOATs breakable?
+OPPURTUNITTIES FOR GROWTH: check sector growth section
+STEPS TAKEN TO CAPTURE OPPURTUNITY:
+CAN IT SUSTAIN PEER COMPETITION:
+-are the MOATs breakable: yes/no
+-steps taken to sustain :
 
 ******* Management ******
 //annual report - reading it answers all ur questions
