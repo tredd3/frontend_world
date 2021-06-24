@@ -51,7 +51,6 @@ however it completely depends on the industry. it is possible that all companies
 
 
 *CASH FLOW:
-
 Capex(check in Cash flow from investing) % wrt to net profit
 
 *OPERATIONAL RATIOS:
