@@ -6,20 +6,6 @@ Real Growth = current growth - inflation
 Tax can be a burden - include tax saving instruments
 GDP growth is guaranteed to be minimum 14%(8% actual growth + 6% inflation)
 
-*** affect of inflation ***
-2 types of inflation:
-1)demand pull: production capacity remains the same
-e.g: property prices increase becuase every one has wealth and wants to buy the property
-2)cost push : demand remains the same, but production cost increases
-e.g: raw material cost/fuel cost increases, final product cost increases
-*interest rates and inflation goes hand in hand
-inflation is up => RBI generally increases interest rates to attract investments in Bonds/FDs=> expectations from stock market increases
-if expectations are not reached => people remove money from stocks and invest in risk free returns => stock market can crash as well
-inflation is down => RBI decreases interest rates => people invest in stock market and create bubble and markets PE becomes high 
-*US increase interest rates => FIIs will remove money from indian markets and invest in US bonds => stock market will crash
-*impact of inflation on markets:
-positive: profits increase
-negative: 
 
 **Rescuers who makes sure GDP increases :
 RBI reduces interest rate and keeps inflation in check @ 4-6% per year
