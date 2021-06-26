@@ -49,7 +49,8 @@ inventory abnormally large ?
 -- strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
 however it completely depends on the industry. it is possible that all companies in the sector have done poorly
 -- R&D spending(check in operating expenses) % wrt to net profit and operating expenses
-
+-- amort/dep as a % of fixed assets
+-- amort/dep as a % of net profit
 
 *CASH FLOW:
 Capex(check in Cash flow from investing) % wrt to net profit

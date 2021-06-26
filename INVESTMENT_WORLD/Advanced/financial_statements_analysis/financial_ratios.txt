@@ -35,7 +35,7 @@ in simple words book value is what shareholders get after company is liquidated/
 When to buy based on PB: for a new company where earnings haven’t begun, B2B(ONGC,GAIL) exceptions for companies like L&T, Intel bcoz they established a sense of trust in customers
 PB value should be < 3 for great valuation
 5)EPS - always TTM (trailing 12 months) net profit  is considered 
-formula: net profit/total no.of outstanding shares
+formula: (net profit - preferred dividends)/total no.of outstanding shares
 6)ROCE - return on capital employed = EBIT/Total equity + non-current liabilities
 golden rule: ROCE > WACC of company, if not equity amount(reserves part) is gradually reduced and becomes zero,leading to bankruptcy
 7)ROA - net profit/Total assets
