@@ -1,6 +1,12 @@
-Sector investments - cyclical/defensice/growth/extinction, needs continuous monitoring
+**** keep in mind ******
+Sector types - cyclical/defensice/growth/extinction
+Sector investment - needs continuous monitoring
+Note: MAJORITY I.e 75% of NIFTY sectors: Banking/Finance , Technology and Oil & Gas 
+selecting a sector is always a top down approach
+sector comprises of many industries
 
-1)Banks and NBFC
+1)BANKING AND FINANCIAL SERVICES
+Industry: Banking
 cyclical - but behaves like hybrid of cyclical and defensive
 keep an eye on NPAs
 still india has a scope for penetration
@@ -11,14 +17,36 @@ CASA,NIM,ROA,ROE - more
 higher CASA indicates current and saving account deposits are more compared to time deposits => low cost funds for banks =>high NIM
 don't look at debt 
 
-2)FMCG
+Industry: Insurance
+
+Industry: capital markets : Depositories/Exchanges/Registrars etc
+
+2)IT
 
 3)pharma
 
-4)IT
+4)FMCG
 
 5)Energy
+Industry: petrol
+heavily relies on imports
+no pricing power - price is globally decided
 
-6)commodities sector
+Industry :Gas
+
+6)Power -Thermal/hydroelectric/renewable
+
+7)Infra
+
+8)Telecom
+heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
+
+9)Agriculture
+
+10)commodities sector
 no pricing power
 cyclical - high volatility
+
+11)Automobile
+
+12)chemical

@@ -84,7 +84,7 @@ REVENUE MODEL:
  clients diversification(if B2B):
  products share:
 REVENUE GEOGRAPHY: india
-PRODUCTS:
+Globally competetive company:
 market share:
 market size: small/large
 PEER competetiors :
@@ -96,7 +96,9 @@ POSITION IN PEERS :
 SECTOR GROWTH RATE: check in sector growth
 MANAGEMENT VISION:
 OPPURTUNITTIES FOR GROWTH: check sector growth section
-STEPS TAKEN TO CAPTURE OPPURTUNITY:
+Horizontal growth oppurtunities: Global footprint/Tieups etc
+Vertical growth oppurtunities: interms of volumes/price
+Steps Taken To Capture Oppurtunity:
 WILL THE PRODUCTS/SERVICES be in demand:
 CAN IT SUSTAIN PEER COMPETITION:
 -are the MOATs breakable: yes/no

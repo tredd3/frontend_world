@@ -1,6 +1,5 @@
 ********** SECTOR and COMPANY HUNT  ************
 https://www.tijorifinance.com/markets/#headline
-
 https://www.screener.in/company/LTTS/consolidated/
 https://www.moneycontrol.com/india
 https://www.valueresearchonline.com/stocks/
@@ -11,7 +10,7 @@ https://www.bseindia.com/sensex/code/47/
 //Selecting a sector
 https://www.screener.in/explore/ - in the right side panel sectors are visible
 https://www.tickertape.in/screener - in the filter section sectors are available
-Note: MAJORITY I.e 75% of NIFTY sectors: Banking/Finance , Technology and Oil & Gas 
+
 1)Daily use: 
 **Infrastructure/real Estate - construction 
 Cement, steel companies and other raw material companies
