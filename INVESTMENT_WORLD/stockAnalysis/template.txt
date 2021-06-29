@@ -21,8 +21,10 @@ RISK FACTORS:
 -entry barriers: low/high
 -govt regulations:
 GROWTH FACTORS: 
+-will this sector exists after 5/10 yrs:
 -expected growth rate:
 -oppurtunities locally/globally:
+-demand for the sector products/services:
 
 
 **** Company ****
@@ -51,6 +53,9 @@ however it completely depends on the industry. it is possible that all companies
 -- R&D spending(check in operating expenses) % wrt to net profit and operating expenses
 -- amort/dep as a % of fixed assets
 -- amort/dep as a % of net profit
+-- does eps , sales, net profit have a upward trend?
+if yes, are you sure it will continue
+if no, are you sure of the trend reversal
 
 *CASH FLOW:
 Capex(check in Cash flow from investing) % wrt to net profit
@@ -67,7 +72,8 @@ NPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 avg 5yrs ROE: 
 avg 5yrs ROCE:
 EPS CAGR:
-EPS wrt previous year and wrt highest EPS in past 10yrs:
+EPS trend : upward/downward/constant
+highest EPS in past 10yrs?
 
 
 **PRESENT:
@@ -91,6 +97,7 @@ SECTOR GROWTH RATE: check in sector growth
 MANAGEMENT VISION:
 OPPURTUNITTIES FOR GROWTH: check sector growth section
 STEPS TAKEN TO CAPTURE OPPURTUNITY:
+WILL THE PRODUCTS/SERVICES be in demand:
 CAN IT SUSTAIN PEER COMPETITION:
 -are the MOATs breakable: yes/no
 -steps taken to sustain :

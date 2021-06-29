@@ -14,8 +14,8 @@ git branch --show-current
 
 //delete branches
 locally: git branch -d <branch_name>
-
 remotely: git push origin -d <branch_name>
+both locally and remotely at a time: git branch -D <branch_name>
 
 
 //rveret commits

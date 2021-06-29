@@ -58,3 +58,29 @@ B - highest point after A
 C - lowest point after B
 Width 31 days and  height change 4%
 If any given bottom or top doesn’t satisfy this criteria we consider them teritary waves and ignore them
+
+
+//INDEX INVESTMENT - SAFEST
+Stock market going down and down? Invest in Junior Nifty as well but not much, only your risk capital 
+1)How to know markets are cheap?
+Extremely cheap:
+Both Market cap/GDP < 1 and GDP are low, both PE and EPS is low 
+Estimated PE:  avg of medium range
+Bank PE =100/6 = 18  low PE range = bank PE+5 , low: 23, medium : 23-28, high > 28
+Medium costly: 
+Either Market cap/GDP < 1 or GDP is low, Either PE or EGR is less
+Generally if P/E ratio is more markets are costly but if earnings are less PE will be more and markets are still cheap because
+ earnings are less. Hence market_cap/GDP is the right measure.
+In the long run market cap/gdp correlation has to be 1 (bcoz company valuation depends on its earnings in the long run)
+2)Data Points and Calculations
+Calculation:
+https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+market_cap/GDP - https://www.gurufocus.com/global-market-valuation.php?country=IND
+Data Points : Nifty
+Price: https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm
+PE, PB - https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm
+Market cap - https://www.nseindia.com/regulations/listing-compliance/nse-top-1000-companies
+Data Points : Sensex
+price, PE, PB - https://www.bseindia.com/markets/keystatics/Keystat_index.aspx
+Market cap - https://www.bseindia.com/markets/equity/EQReports/TopMarketCapitalization.aspx
+
