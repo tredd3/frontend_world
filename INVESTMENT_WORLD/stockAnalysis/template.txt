@@ -1,5 +1,7 @@
 Company name : sector/main business
 //summary section
+Resources to know the business : company filings(investor presentation, annual report, conference calls)
+screener summary
 **MOAT/competettive advantage:
 **RISK
 ** Red flags - those that stop you from investment/ think you twice before investing

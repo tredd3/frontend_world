@@ -21,11 +21,15 @@ Industry: Insurance
 
 Industry: capital markets : Depositories/Exchanges/Registrars etc
 
-2)IT
+2)IT - defensive
+globally competetive
 
-3)pharma
+3)pharma - defensive
+globally competetive
 
-4)FMCG
+4)FMCG - defensive
+inflation of raw materials
+margins depend on middle class purchasing power
 
 5)Energy
 Industry: petrol
@@ -36,7 +40,7 @@ Industry :Gas
 
 6)Power -Thermal/hydroelectric/renewable
 
-7)Infra
+7)Infra - cyclical
 
 8)Telecom
 heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
