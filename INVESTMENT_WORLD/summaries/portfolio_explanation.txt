@@ -6,14 +6,17 @@ may be 1,2 or 10 stocks
 
 //LEVEL 1 == Stong Moats
 Britania
-HUL - monopoly - must have
-IRCTC - monopoly - must have
-IEX - monopoly - must have
+Dabur
+nestle
+Jubiliant foodworks/Nestle - monopoly - must have
+pidilite - monopoly
 CRISIL
 CDSL
-MTAR
+MTAR - precison engineering
+Railtel - telecommunications
+IRCTC - monopoly - must have
+IEX - monopoly - must have
 Heritage
-CAMS - monopoly - must have
 HDFC AMC/NIPPON AMC - check money purse video before investing
 HDFC LIFE
 SBI LIFE
@@ -22,19 +25,20 @@ SBI/HDFC/ICICI - SIBs with strict RBI regulations
 
 //LEVEL 2
 Apollo hospitals
-Dabur
+GAIL - research
+CAMS - monopoly - must have
+HUL - monopoly - must have
+
 DIXON
 Praj
 Dr.Reddys
-Railtel
 Ion exchange - research
 Wabag - research
 MCX
 ITC - check money purse video before investing
 page industires - jockey brand - monopoly - must have
-Jubiliant foodworks/Nestle - monopoly - must have
 Asian paints - monopoly
-pidilite - monopoly
+
 zydus wellness
 
 //LEVEL 3

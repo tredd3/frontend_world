@@ -4,8 +4,8 @@ COGS - cost of goods sold (preparation/making price)
 Gross Profit = sales - COGS
 
 Gross profit Margin/Gross Margin = (gross Profit/sales) *100
-consistent higher gross proft margin represents pricing power/brand/strong MOATs or company is reducing input costs
-if 2 similar companies cost of goods sold remains but GPM is higher for a company implies company has competettive advantage
+consistent higher gross proft margin represents has durable competettive advantage
+i.e the company may be having pricing power/brand/strong MOATs or company is reducing input costs
 
 Operating expenses = salaries + building rent + advertising + marketing cost + cash burn to beat the price war + R&D cost 
 
@@ -13,7 +13,7 @@ EBITDA=Gross Profit - Operating expenses (profit earned by a company from its bu
 
 depreciation expenses = capital goods(like electronics/machinery/buildings) value depreciates over time and is included in income statement over say 5-10 yrs
 Amortisation expenses = same as depreciation but amortisation is for intangible assets like patents
---amort and depre should be in the range of 5-10% 0f fixed assets
+--amort and depre should be in the range of 5-10% 0f fixed assets (this is one such area where income can be manipulated)
 5% means fixed assets will be replaced in 20 yrs
 10% means fixed assets will be replaced in 10 yrs
 for capex heavy industries 20 - 25% is preferred
