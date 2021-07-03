@@ -2,10 +2,24 @@ Company name : sector/main business
 //summary section
 Resources to know the business : company filings(investor presentation, annual report, conference calls)
 screener summary
-**MOAT/competettive advantage:
+
+**STRENGTH
+MOAT/competitive advantage?
+check summaries/MOATS.txt
+unique product/service : 
+low cost buyer and seller, i.e does the company make margins from volumes?
+is it durable ?
+look for consistency in numbers in  financial statements. 
+are you sure about uptrend in future? or can the company earnings grow for next 10yrs at a good growth rate?
+users consistently need the product/service?
+globally competitive?
+circle of competence?
+vertical/horizontal growth oppurtunities?
+
+
 **RISK
 ** Red flags - those that stop you from investment/ think you twice before investing
-**Green flags
+
 
 
 **** ABOUT SECTOR ****
@@ -50,17 +64,55 @@ inventory abnormally large ?
 
 
 *INCOME STATEMENT:
+--source of earnings: 
+infact earnings source is more than earnings itself
+
+--GPM higher(>40%) and consistent or growing over last 10yrs? :
+if yes it is an early sign that the company has some kind of MOAT/competitive advantage over its peers
+if GPM<20 then the company is in a fierecely competetive industry and any company in such industry with out any competitive adv can't make you rich
+
+--operating expenses (factors that can strip off competettive advantage from the company and eat away profits)
+1)R&D spending(check in operating expenses) % wrt to net profit and operating expenses
+does the compnay consistently needs to spend on R&D for survival?
+if yes : R&D cost should be negligible or < 5% of gross profit
+2)sales and admin expenses(check in operating expenses)
+should be consistently < 50%-60% of gross profit depending on the peers - indicating brand/MOAT power
+if it increases heavily every year then company is trying to fight its competetion
+if the company incuding its peers consistently have >=100% of gross profit then the industry is highly competetive
+3)interest costs(can be found in p&l or financing cashflows)
+interest should be <10-15% of operating income/profit. (but it depends on industry and its peers)
+company with high debt means either it in highly competetive industry and it needs debt to finance the capex for survival
+OR it has acquired other company by taking debt
+NOTE: Generally in a given industry company with lowest ratio of interest to operating income has a competetive advantage
+
+
 -- strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
 however it completely depends on the industry. it is possible that all companies in the sector have done poorly
--- R&D spending(check in operating expenses) % wrt to net profit and operating expenses
--- amort/dep as a % of fixed assets
--- amort/dep as a % of net profit
--- does eps , sales, net profit have a upward trend?
+
+-- amort/dep as a % of fixed assets: 
+-- amort/dep as a % of gross profit/operating: 
+companies with DCA has <10% and also much lesser compared to peers
+
+--other income: significant compared to operating income? like >15-20%
+if yes: since it is non operating and  non recurring income, it should be removed from calculation
+if no: we can ignore
+
+-- durability check: does net profit have a upward trend?
 if yes, are you sure it will continue
-if no, are you sure of the trend reversal
+if no, are you sure of the trend reversal - very rare case trend reversal happens
+Note: net profit upward trend is important compared to EPS upward trend bcoz EPS can be increased by share repurchase
+--NPM consistent/increasing ?
+company with DCA generally has NPM > 20% 
+if NPM < 10% then company belongs is a highly competetive industry where no one has a durable competettive advantage (DCA)
+
+--EPS
+does eps have a upward trend or it has lot of fluctuations?
+stay away from cyclical stocks for long term
+
 
 *CASH FLOW:
 Capex(check in Cash flow from investing) % wrt to net profit
+capex is good as it useful to capture market share. but capex increase using debt is risky
 
 *OPERATIONAL RATIOS:
 quick ratio:
@@ -69,8 +121,8 @@ Debt/Equity(keep in mind the industry - bank, energy, machinery ect have high de
 if D/E > 0 - check the debt position of peers and ICR of the company
 
 *PROFITIABILITY RATIOS:
+GPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 OPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
-NPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 avg 5yrs ROE: 
 avg 5yrs ROCE:
 EPS CAGR:
@@ -88,7 +140,7 @@ REVENUE MODEL:
 REVENUE GEOGRAPHY: india
 Globally competetive company:
 market share:
-market size: small/large
+market size: small/large (most imp if a company is a monopoly)
 PEER competetiors :
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 POSITION IN PEERS :

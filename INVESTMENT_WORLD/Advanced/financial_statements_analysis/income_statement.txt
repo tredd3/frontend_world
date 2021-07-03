@@ -17,11 +17,8 @@ Amortisation expenses = same as depreciation but amortisation is for intangible 
 5% means fixed assets will be replaced in 20 yrs
 10% means fixed assets will be replaced in 10 yrs
 for capex heavy industries 20 - 25% is preferred
---also amort and dep expenses should be usually in the range of 8-12%
-if the above % are less => earnings inflated , stock is heavily overvalued
-if the above % are more => earnings impacted , stock is undervalued
 
-Operating Profit /Operating income(EBIT) =EBITDA - Depreciation - Amortisation expenses=Gross Profit - Operating expenses - Depreciation - Amortisation expenses 
+Operating Profit /Operating income(EBIT) =EBITDA - Depreciation - Amortisation expenses=Gross Profit - Operating expenses - Depreciation and Amortisation expenses 
 
 Operating Profit margin/Operating Margin =(operating profit/sales) *100
 Operating profit margin shouldn’t be negative, consistent higher OPM implies having better/efficient management

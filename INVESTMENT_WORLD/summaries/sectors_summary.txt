@@ -26,6 +26,7 @@ globally competetive
 
 3)pharma - defensive
 globally competetive
+R&D heavy
 
 4)FMCG - defensive
 inflation of raw materials
@@ -34,6 +35,7 @@ margins depend on middle class purchasing power
 5)Energy
 Industry: petrol
 heavily relies on imports
+capex heavy
 no pricing power - price is globally decided
 
 Industry :Gas
@@ -44,6 +46,7 @@ Industry :Gas
 
 8)Telecom
 heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
+capex heavy
 
 9)Agriculture
 
@@ -52,5 +55,6 @@ no pricing power
 cyclical - high volatility
 
 11)Automobile
+R&D heavy
 
 12)chemical
