@@ -5,12 +5,15 @@ screener summary
 
 **STRENGTH
 MOAT/competitive advantage?
-check summaries/MOATS.txt
-unique product/service : 
-low cost buyer and seller, i.e does the company make margins from volumes?
+ check summaries/MOATS.txt
+ unique product/service : 
+ low cost buyer and seller, i.e does the company make margins from volumes?
 is it durable ?
-look for consistency in numbers in  financial statements. 
-are you sure about uptrend in future? or can the company earnings grow for next 10yrs at a good growth rate?
+ look for consistency in numbers in  financial statements. 
+does the company have long term earning power?
+ even though the company has DCA over its peers, if the company doesn't have earning power bcoz of the less
+  market size/weak industry future/govt rules etc, then it doesn't make sense to buy
+i.e can the company earnings grow for next 10yrs at a good growth rate?
 users consistently need the product/service?
 globally competitive?
 circle of competence?
@@ -53,14 +56,56 @@ continous dividend payment history: yes/no
 
 
 *BALANCE SHEET:
-look reserves and net profit for every year - any abnormality(like reserves decreasing and profit increasing)observed ?
+**assets
+--current assets > current liabilities ?
+Note: some DCA companies might not have CA>CL but their earning power and DCA helps them sail through
+--cash increasing? 
+is the cash generated bcoz of operations? 
+Note: check last 10yrs balance sheet to find out
+--check cash/market_cap : if > 50% buy
+
+--does both inventory and net profit increasing ? 
+if no: there might be a price risk as inventory is becoming obselete
+
+--check if Accounts Receivable is significant compared to sales over the years:
+if yes there might be a default risk - also company might be in a highly competetive industry and to gain advantage , 
+ it might be giving more liberty to its customers
+Also if the same thing is done by their peers then it will also have profit risk
+
+--plant and equipment cost should be either constant/decreasing/increaing at low rate? 
+if it is increaing consistently at a higher rate then the company is investing from it reserves or by taking debt to beat the competettion
+this will eat up your profit as this extra money can be spent on some profitable ventures and hence you shouldn't invest
+
+--long term investments:
+probe this section in annual reports to understand whether the management have invested in companies with DCA or medicore businesses
+in a highly competetive industry
+Note: increase in longterm investment doesn't mean the market value of investment has gone up rather it means every year company
+is investing in some business
+
+
+**liabilities
+--short term debt:
+if debt is more check cash in balance sheet and verify whether it is a long term debt or short term debt
+avoild companies with short term debt > longterm debt
+-if short term debt is high compared to longterm debt and no cash in balance sheet, the company has to sell its assets to 
+cover the short term debt.
+
+--long term debt:
+usually DCA companies have zero or very low long term debt
+if they have a longterm debt it should be payable using the net profits of next 3-4 yrs
+Note: if the company has DCA and also a lot of debt then better to invest in bonds of that company and not stock, as the company
+will be focused on paying interest and not on growing the company
+
+--preferred stock ? 
+preferred stock is not preferred to have in balance sheet - it is expensive money
+
+--retained earnings: very very important
+consistent growth and growth rate of retained earnings implies company has a DCA
+also check how is the company using retained earnings - infact it is very important than the former
+it should invest in other DCA/profitable businesses, which inturn can increase their retained earnings and the process goes on
+
+--look reserves and net profit for every year - any abnormality(like reserves decreasing and profit increasing)observed ?
 also look at the notes for reserves
-current assets > current liabilities
-check cash/market_cap : if > 50% buy
-check if Accounts Receivable is significant compared to sales:
- if yes there might be a default risk - also u need to reiterate on the company, as it has liberal credit policy
-inventory abnormally large ? 
- if yes there might be a loss
 
 
 *INCOME STATEMENT:
@@ -116,9 +161,15 @@ capex is good as it useful to capture market share. but capex increase using deb
 
 *OPERATIONAL RATIOS:
 quick ratio:
-current ratio:
+current ratio >1 is preferred:
+but the importance of this ratio is high in deciding liquidity for avg companies but not so important for DCA companies, as 
+ DCA companies often have current ratio < 1 and their earning power is so high that it doesn't matter
 Debt/Equity(keep in mind the industry - bank, energy, machinery ect have high debt): 
-if D/E > 0 - check the debt position of peers and ICR of the company
+if D/E > 0 - check the debt position of peers and ICR of the company and interest expense as a % of operating profit
+Also some times D/E can be misleading as many DCA companies don't need to have retained earnings/equity in their balance sheet
+rather they use it to buyback shares which goes into treasury stock section.
+Hence it is recommended to check the debt along with D/E
+
 
 *PROFITIABILITY RATIOS:
 GPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)

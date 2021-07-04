@@ -1,8 +1,10 @@
+The balance sheet is a snapshot, representing the state of a company's finances (what it owns and owes) as of the date of publication.
+
 what idea does balance sheet give us?
 solvency: ability to clear debt
 liquidity: can it meet short term expenses
 
-money to shareholders if liquidated: 
+
 **liabilities: source of funds, i.e from where does the company get money from
 Equity:
 equity share capital - promoter share value
@@ -17,4 +19,22 @@ Current liabilities: to be paid within 1 year
 **assets: how the company is utilising the money
 current assets - can be liquidated within a year
 'Net Block' - the original cost of acquisition of tangible assets(property,plants,equipments) - depreciation
-current market value of tangible assets might be less/ more
+Note: current market value of tangible assets might be less/ more
+working assets/current assets cycle:
+cash used to buy inventory => inventory gets converted to accounts recievables => accounts recievables get converted to cash => repeat
+cash pile is due to 3 reasons:
+-by issuing bonds, equities or taking loan
+-by sell exisiting business or companies assets 
+-by business operations : this implies company has a DCA
+long term investments: investment in stocks,bonds of other companies or subsidaries and real estate 
+the value in balance sheet is the value at which the company has bought the assets and not the current market value.
+i.e the company might be holding businesses with DCA whose market value is much more than the value shown
+
+**shareholder equity
+both common and preferred stocks value in balance sheet is par/face value
+Additional paid-in capital or capital surplus represents the amount shareholders have invested in excess of the "common stock" 
+or "preferred stock" par value during ipo time or QIP time
+Note: these values are not market values, rather the values at which the investors hace acquired stocks in the past
+Retained earnings are the net earnings a company either reinvests in the business or use to pay off debt or dividends to shareholders
+or capex/expansion or buyback of shares or acquistion 
+Treasury stock is the stock a company has repurchased. It can be sold at a later date to raise cash or reserved to repel a hostile takeover.
