@@ -101,15 +101,19 @@ preferred stock is not preferred to have in balance sheet - it is expensive mone
 
 --retained earnings: very very important
 consistent growth and growth rate of retained earnings implies company has a DCA
+Note: some DCA companies are so strong that they don't have to retain earnings, rathet they distribute it to shareholders
 also check how is the company using retained earnings - infact it is very important than the former
 it should invest in other DCA/profitable businesses, which inturn can increase their retained earnings and the process goes on
+
+--any treasury stock ?
+DCA compoanies usually have a lot of cash and they buyback shares
 
 --look reserves and net profit for every year - any abnormality(like reserves decreasing and profit increasing)observed ?
 also look at the notes for reserves
 
 
 *INCOME STATEMENT:
---source of earnings: 
+--source of earnings: using debt/equity/retained earnings(cheapest and most preferred)
 infact earnings source is more than earnings itself
 
 --GPM higher(>40%) and consistent or growing over last 10yrs? :
@@ -156,8 +160,18 @@ stay away from cyclical stocks for long term
 
 
 *CASH FLOW:
-Capex(check in Cash flow from investing) % wrt to net profit
-capex is good as it useful to capture market share. but capex increase using debt is risky
+Cat1: businesses that grow but needs a lot of capital like adani group
+cat2: businesses that grow but DOESN'T need a lot of capital like britannia
+
+--Capex: 
+Capex(check in Cash flow from investing) <25-50% of net profit?
+capex is good as it useful to capture market share. but capex increase using high amounts of debt is risky
+bcoz debt increases => interest expense increases => net earnings decrease => EPS decreases => share price decreases
+some DCA companies use debt for capex and at the same time does buyback of shares to reduce the impact on EPS and share price
+Also if the company consistently need to do capex to stay in the business - earnings will be affected Avoid such businesses
+
+--check historical buyback in cash flow from investing (issuance/retirement of stock) 
+if yes company has DCA and is generating lot of cash to buyback
 
 *OPERATIONAL RATIOS:
 quick ratio:
@@ -167,7 +181,7 @@ but the importance of this ratio is high in deciding liquidity for avg companies
 Debt/Equity(keep in mind the industry - bank, energy, machinery ect have high debt): 
 if D/E > 0 - check the debt position of peers and ICR of the company and interest expense as a % of operating profit
 Also some times D/E can be misleading as many DCA companies don't need to have retained earnings/equity in their balance sheet
-rather they use it to buyback shares which goes into treasury stock section.
+rather they use it to buyback shares which goes into treasury stock section or give as dividends.
 Hence it is recommended to check the debt along with D/E
 
 
@@ -175,6 +189,10 @@ Hence it is recommended to check the debt along with D/E
 GPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 OPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 avg 5yrs ROE: 
+-ROE determines how efficient is the management in using shareholders money
+EQUITY=common and preffered stock + Retained Earnings
+-some DCA companies have strong net earnings but -ve ROE don't need to have retained earnings. 
+But insolvent companies only have -ve ROE so be careful
 avg 5yrs ROCE:
 EPS CAGR:
 EPS trend : upward/downward/constant
@@ -223,7 +241,10 @@ CAN IT SUSTAIN PEER COMPETITION:
 - skills relevant to industry: yes
 - experience over > 10 yrs : yes
 - mindset/vision: growth via rural penetration/global foot print
-- how are reserves used - capex/M&A/dividends/buyback/reinvesting in business
+- how are reserves used - capex/M&A/dividends/buyback/reinvesting in own business/investing in other DCA companies
+if dividends are paid - shareholders need to pay tax on it
+so better to invest on other DCA businesses or even better is to buyback shares from extra cash as this financial engineering
+concept increases shareholders wealth without paying any tax
 
 ****** valuation *****
 Talk about valuations only if the above factors are strong, else no point in buying the company

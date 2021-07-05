@@ -3,9 +3,15 @@ p&l statement can be manipulated. Also not all the net profit is received as cas
 also that money goes in to reserve section of balance sheet, hence analysing free cashflow is very important.
 also check that net profit and cash flow should be in sync, if not investigate why company is not able to convert profit to cash
 
-Cash flow from Investing activities - earnings or expenditures from non core activities like rent from long-term assets, such as buildings/equipment, investing in bonds,MFs, stocks of other companies etc
+Cash flow from Investing activities - 
+Capex: investment in fixed assets like plant, machinery, buildings etc
+investment in bonds,MFs, stocks of other companies etc
+subsidary investments
+selling and buying assets
+interest and dividends
 Cash flow from financing activities - cash flows between a company and its owners/shareholders and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock,IPO,FPO etc.
 Cash flow from Operating activities(CFO) - earnings from core/daily activities of a company involved in producing and selling its product, generating revenues, manufacturing, sales, advertising, and marketing activities
+
 **Net cash flow = CIO + CFO + COO
 A negative cash flow does not mean a company is unable to pay all of its obligations; it just means that the amount of cash received
  for that period was insufficient to cover its obligations for that same time period. If other savings vehicles are liquidated 
