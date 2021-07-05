@@ -8,16 +8,22 @@ MOAT/competitive advantage?
  check summaries/MOATS.txt
  unique product/service : 
  low cost buyer and seller, i.e does the company make margins from volumes?
+
 is it durable ?
  look for consistency in numbers in  financial statements. 
-does the company have long term earning power?
+
+why earning power is imporatnat?
  even though the company has DCA over its peers, if the company doesn't have earning power bcoz of the less
-  market size/weak industry future/govt rules etc, then it doesn't make sense to buy
-i.e can the company earnings grow for next 10yrs at a good growth rate?
+  market size/weak industry future/govt rules etc, then it doesn't make sense to buy 
+
+does the company have long term earning power?
+-can you predict how does the company business look like after 10-15yrs?
+will they still be in the race or is there any replacement/innovation?
 users consistently need the product/service?
 globally competitive?
 circle of competence?
 vertical/horizontal growth oppurtunities?
+CRISIL Rating and report in screener?
 
 
 **RISK
@@ -283,5 +289,9 @@ Else
 ****** OVERALL SUMMARY *******
 status: overvalued/undervalued/fairly valued
 undervalued: lumpsum
-overvalued: SIP via averaging up, increase SIP if price falls due to external factors
+overvalued: 
+Note: even if a company has DCA, if you buy at high price the returns will be like a mediocre company
+1)SIP via averaging up, increase SIP if price falls due to external factors
+2)wait for the bear markets 
+3)if company faces a temporary solvable problem , share price go down and you can grab
 fairly valued: 50% of lumpsum based on the price trend
