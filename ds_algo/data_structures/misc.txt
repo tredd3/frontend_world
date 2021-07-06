@@ -21,3 +21,5 @@ Deletion time   | log(n) + Rebalance  | Same as search
 
 https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
 
+https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g
+

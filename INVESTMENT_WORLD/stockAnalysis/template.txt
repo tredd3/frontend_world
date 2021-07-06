@@ -70,8 +70,8 @@ is the cash generated bcoz of operations?
 Note: check last 10yrs balance sheet to find out
 --check cash/market_cap : if > 50% buy
 
---does both inventory and net profit increasing ? 
-if no: there might be a price risk as inventory is becoming obselete
+--does inventory increase and sales decrease ? 
+if yes: there might be a price risk as inventory is becoming obselete
 
 --check if Accounts Receivable is significant compared to sales over the years:
 if yes there might be a default risk - also company might be in a highly competetive industry and to gain advantage , 
