@@ -6,23 +6,33 @@ CONROL UR EMOTIONS - intrinsic value changes anually, market value changes every
 
 LEARN FROM OTHERS MISTAKES - read more and apply them
 
-1)NEVER LOSE CAPITAL
+NEVER LOSE CAPITAL
 
-2)RISK LIES IN THE PRICE AND NOT ASSET CLASS - buy assets at cheaper price
+THERE IS A DIFF between good company and good investment.
+excellent at expensive valuation is still a bad investment
+
+RISK LIES IN THE PRICE AND NOT ASSET CLASS - buy assets at cheaper price
 Even Buying great companies at higher valuation is also a risky thing 
-3)HAVE KNOWLEDGE BEFORE INVESTING - MORE KNOWLEDGE === LESS RISK
+always have margin of safety so that you have cushion incase your predictions went wrong or future screws up
+
+MARGIN OF SAFETY: depends on the company
+excellent and predictable businesses margin of safety can be less
+for unpredictable businesses margin of safety should be more
+Note: sometimes it takes years for a stock to be available at a fair price/undervaluation. Patience is the key 
+
+HAVE KNOWLEDGE BEFORE INVESTING - MORE KNOWLEDGE === LESS RISK
 Stay in your circle of competence - invest in industries which you understand or believe
 
-4)Short term - PE is significant(speculator focus), long term - earnings are significant(investor focus)
+Short term - PE is significant(speculator focus), long term - earnings are significant(investor focus)
 SO, LONG TERM INVESTOR SHOULD HAVE A OWNER MINDSET: focus on business not on share price, bcoz if earnings increase market sentiment(P/E) increases and hence share price eventually increases)
 
-5)WHEN TO BUY: 
+WHEN TO BUY: 
 Index: when both PE and Earnings are less, market_cap/GDP < 1
 Stocks: buy Great business at fair price instead of buying fair business at a wonderful price
 Seize the opportunity and play big if you get wonderful businesses at great price/undervalued price
 Always Invest in tranches bcoz we don't know if the market is gona fall further and we need to have capital to invest more
 
-6)WHEN TO SELL: idea is to hold it forever to get compounding benefit, but in below scenarios we can think of selling securities
+WHEN TO SELL: idea is to hold it forever to get compounding benefit, but in below scenarios we can think of selling securities
 Index: when both PE and Earnings are exceptionally high
 Stocks: 
 1)If fundamentals gone bad or the company might be losing its DCA then u need to sell to protect capital even though u might face minor loss
