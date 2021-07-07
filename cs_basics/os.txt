@@ -89,7 +89,8 @@ Each process is provided a fix time to execute, it is called a quantum.
 Once a process is executed for a given time period, it is preempted and other process executes for a given time period.
 Context switching is used to save states of preempted processes.
 6)Multiple-Level Queues Scheduling - They make use of other existing algorithms to group and schedule jobs with common characteristics.
-CPU-bound jobs can be scheduled in one queue and all I/O-bound jobs in another queue. The Process Scheduler then alternately selects jobs from each queue and assigns them to the CPU based on the algorithm assigned to the queue.
+CPU-bound jobs can be scheduled in one queue and all I/O-bound jobs in another queue. The Process Scheduler then alternately selects 
+jobs from each queue and assigns them to the CPU based on the algorithm assigned to the queue.
 **Medium Term Scheduler: does swapping of a I/O bound process with new process in the main memory.the suspended process is moved to the secondary storage. 
 speed: short-term>medium-term>long-term
 
@@ -239,3 +240,5 @@ Write the new page in the frame of free pool, mark the page table and restart th
 The page with the smallest count is the one which will be selected for replacement.
 This algorithm suffers from the situation in which a page is used heavily during the initial phase of a process, but then is never used again.
 
+//problems:
+https://www.geeksforgeeks.org/producer-consumer-problem-using-semaphores-set-1/
