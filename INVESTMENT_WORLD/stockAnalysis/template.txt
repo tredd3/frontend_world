@@ -5,23 +5,34 @@ screener summary
 
 **STRENGTH
 MOAT/competitive advantage?
- check summaries/MOATS.txt
+ check summaries/MOATS.txt (how company insulates itself from competetion)
  unique product/service : 
- low cost buyer and seller, i.e does the company make margins from volumes?
+ low cost buyer and seller, i.e does the company make margins from volumes by spreading the costs?
+ but be careful as the volumes go down profits go down as well
+ users consistently need the product/service?
+ does this compnay or its products own the consumers mind?
+ is the public ready to pay premium for these brand products?
+ B2B MOATS:
+ is the switching cost > benifits of new products?
+  -products tightly integrated into customers business?
+  -is there any long term contract?
+  -does the customers staff needs training for new products usage?
+ why is the customer not willing to switch?
 
 is it durable ?
- look for consistency in numbers in  financial statements. 
+ past - look for consistency in numbers in  financial statements
+ future - can the company keep its DCA nature for next 20 yrs or can the competetiors snatch away the profits? 
 
-why earning power is imporatnat?
+why earning power is important?
  even though the company has DCA over its peers, if the company doesn't have earning power bcoz of the less
   market size/weak industry future/govt rules etc, then it doesn't make sense to buy 
 
 does the company have long term earning power?
 -can you predict how does the company business look like after 10-15yrs?
 -will they still be in the race or is there any replacement/innovation?
-users consistently need the product/service?
+
 globally competitive?
-circle of competence?
+circle of competence? check sector summary
 vertical/horizontal growth oppurtunities?
 CRISIL Rating and report in screener?
 
@@ -157,17 +168,22 @@ if yes, are you sure it will continue
 if no, are you sure of the trend reversal - very rare case trend reversal happens
 Note: net profit upward trend is important compared to EPS upward trend bcoz EPS can be increased by share repurchase
 --NPM consistent/increasing ?
-company with DCA generally has NPM > 20% 
+company with DCA generally has NPM > 15-20% 
 if NPM < 10% then company belongs is a highly competetive industry where no one has a durable competettive advantage (DCA)
 
 --EPS
 does eps have a upward trend or it has lot of fluctuations?
 stay away from cyclical stocks for long term
+Note: EPS can be manipulated in multiple ways, so don't base ur decision only on EPS 
 
 
 *CASH FLOW:
 Cat1: businesses that grow but needs a lot of capital like adani group
 cat2: businesses that grow but DOESN'T need a lot of capital like britannia
+
+--operating cashflow as % of net profit? 
+if net profit is increasing and operating cashflow is decreasing then something is messy
+--free cash flow as % of net profit?
 
 --Capex: 
 Capex(check in Cash flow from investing) <25-50% of net profit?
@@ -178,6 +194,17 @@ Also if the company consistently need to do capex to stay in the business - earn
 
 --check historical buyback in cash flow from investing (issuance/retirement of stock) 
 if yes company has DCA and is generating lot of cash to buyback
+
+--Net cash flow < 0 ?
+if yes then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
+sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt - check that
+
+--cash flow from investing
+check if the company took new debt or new equity in the current year
+Also check if the company CONSISTENTLY raising capital via the debt and equity
+if new debt => interest expense => net profit and EPS decreases => share price decrease
+if new equity => outstanding shares increases => EPS decreases => share price decrease
+
 
 *OPERATIONAL RATIOS:
 quick ratio:
@@ -256,13 +283,12 @@ concept increases shareholders wealth without paying any tax
 Talk about valuations only if the above factors are strong, else no point in buying the company
 
 *VALUATION RATIOS
-PE:
 PE < 20(medium) ? 
 High P/E => earnings are less OR market is paying  premium as they believe earnings will increase at a faster rate
 check PEG to confirm , premium is justified only when PEG < 2
 Low PE => any fundamentally wrong with the company - check
 Also PE < Industry PE?
-PE < 5yr median PE?
+PE < 5yr median PE? also check the historical PE range
 PEG ratio: 
 PB: 
 PB - NA for a B2C company,if PB is applicable check ROA

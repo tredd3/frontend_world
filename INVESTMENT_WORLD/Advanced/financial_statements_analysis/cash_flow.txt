@@ -16,12 +16,12 @@ Cash flow from Operating activities(CFO) - earnings from core/daily activities 
 A negative cash flow does not mean a company is unable to pay all of its obligations; it just means that the amount of cash received
  for that period was insufficient to cover its obligations for that same time period. If other savings vehicles are liquidated 
  to meet the obligation—or additional debt is accrued 
-So, if Net cash flow < 0 then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
 Analyzing what activities contribute to positive or negative net cash is essential
-sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt
+
+
 **Free cash flow = owner’s earnings = Net Cash flow from Operating activities(CFO) - Capex
 = net profit + non_cash expenses(like depriciation,amortisation) - change in working capital - Capex
-free cash flow is the cash left in companies bank account after paying for expenses and capex
+free cash flow is the cash that can be taken from company bank account without damaging the core business
 owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
 
 Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
