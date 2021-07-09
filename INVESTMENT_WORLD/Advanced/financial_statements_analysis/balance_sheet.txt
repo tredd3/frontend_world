@@ -5,32 +5,37 @@ solvency: ability to clear debt
 liquidity: can it meet short term expenses
 
 
-**liabilities: source of funds, i.e from where does the company get money from
-Equity:
-equity share capital - promoter share value
-other equity - reserves + retained earnings + premium paid during IPO,FPO share offers
-Non-current liabilities: to be paid for a period > 1 year
- borrowings - long term debt
-Other financial liabilities - like TDS for dividends declared
-Other liabilities  -
- Provisions - set aside some amount for unseen future expenses
-Current liabilities: to be paid within 1 year
-
-**assets: how the company is utilising the money
-current assets - can be liquidated within a year
-'Net Block' - the original cost of acquisition of tangible assets(property,plants,equipments) - depreciation
-Note: current market value of tangible assets might be less/ more
+**ASSETS: how the company is utilising the money
+1)current assets - can be liquidated within a year
+current assets=cash and cash equivalents(short-term investments like T-bills, CDs)+ accounts recievable +inventory
 working assets/current assets cycle:
 cash used to buy inventory => inventory gets converted to accounts recievables => accounts recievables get converted to cash => repeat
 cash pile is due to 3 reasons:
 -by issuing bonds, equities or taking loan
 -by sell exisiting business or companies assets 
 -by business operations : this implies company has a DCA
-long term investments: investment in stocks,bonds of other companies or subsidaries and real estate 
+2)non-current assets = goodwill + plant and machinery + intangible assets + longterm investments
+'Net Block' - the original cost of acquisition of tangible assets(property,plants,equipments) - depreciation
+Note: current market value of tangible assets might be less/ more
+ong term investments: investment in stocks,bonds of other companies or subsidaries and real estate 
 the value in balance sheet is the value at which the company has bought the assets and not the current market value.
 i.e the company might be holding businesses with DCA whose market value is much more than the value shown
+**Total Assets = current assets + non-current assets
 
-**shareholder equity
+
+**LIABILITIES: source of funds, i.e from where does the company get money from
+1)Current liabilities: to be paid within 1 year
+Current liabilities = short-term debt + accounts payable + payroll + taxes + dividends
+2)Non-current liabilities: to be paid for a period > 1 year
+Non-current liabilities = long term debt + TDS for dividends declared
+Other liabilities  -
+ Provisions - set aside some amount for unseen future expenses
+**Total Liabilities = Current liabilities + Non-current liabilities
+
+
+**SHAREHOLDER EQUITY
+assets - liabilities = shareholder's equity
+shareholder's equity = common + preferred + treasury stocks + additional paid in capital + retained earnings
 both common and preferred stocks value in balance sheet is par/face value
 Additional paid-in capital or capital surplus represents the amount shareholders have invested in excess of the "common stock" 
 or "preferred stock" par value during ipo time or QIP time

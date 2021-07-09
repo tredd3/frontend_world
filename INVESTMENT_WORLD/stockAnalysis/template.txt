@@ -82,11 +82,12 @@ Note: check last 10yrs balance sheet to find out
 --check cash/market_cap : if > 50% buy
 
 --does inventory increase and sales decrease ? 
-if yes: there might be a price risk as inventory is becoming obselete
+if yes: there might be a price risk as inventory is becoming obselete, also cash gets locked in inventory
+inventory turnover = COGS/inventory , companies with DCA have very high inventory turnover
 
 --check if Accounts Receivable is significant compared to sales over the years:
-if yes there might be a default risk - also company might be in a highly competetive industry and to gain advantage , 
- it might be giving more liberty to its customers
+if yes there might be a default risk - also company might be in a highly competetive industry and to gain advantage, 
+it might be giving more liberty to its customers
 Also if the same thing is done by their peers then it will also have profit risk
 
 --plant and equipment cost should be either constant/decreasing/increaing at low rate? 
@@ -94,10 +95,12 @@ if it is increaing consistently at a higher rate then the company is investing f
 this will eat up your profit as this extra money can be spent on some profitable ventures and hence you shouldn't invest
 
 --long term investments:
-probe this section in annual reports to understand whether the management have invested in companies with DCA or medicore businesses
-in a highly competetive industry
+probe this section in annual reports notes to understand whether the management have invested in companies with DCA or medicore
+businesses which are in a highly competetive industry
 Note: increase in longterm investment doesn't mean the market value of investment has gone up rather it means every year company
 is investing in some business
+
+--Goodwill: if a company has a lot of good will then go and probe what all the companies it acquired and if they are worth the value
 
 
 **liabilities

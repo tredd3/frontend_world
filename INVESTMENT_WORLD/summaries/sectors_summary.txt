@@ -58,6 +58,7 @@ capex heavy
 10)commodities sector
 no pricing power
 cyclical - high volatility
+MOATS: low cost provider(high volumes)
 
 11)Automobile
 R&D heavy
