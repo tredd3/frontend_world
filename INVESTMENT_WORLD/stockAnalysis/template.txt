@@ -7,8 +7,9 @@ screener summary
 MOAT/competitive advantage?
  check summaries/MOATS.txt (how company insulates itself from competetion)
  unique product/service : 
- low cost buyer and seller, i.e does the company make margins from volumes by spreading the costs?
- but be careful as the volumes go down profits go down as well
+ low cost buyer and seller :
+ i.e does the company make margins from volumes by spreading the costs? but be careful as the volumes go down profits go down as well
+ or the company doesn't deal with volumes but manages to keep the input costs and operating expenses low
  users consistently need the product/service?
  does this compnay or its products own the consumers mind?
  is the public ready to pay premium for these brand products?
@@ -188,6 +189,7 @@ if there is a tax relaxation from govt then company might be catching on the sub
 
 --net income:
 can be manipulated due to one time huge other income(keep an eye) and not all the net income is cash so check cashflow statement
+check operating cashflow should be greater than net income or if not equal
 
 --EPS
 does eps have a upward trend or it has lot of fluctuations?
@@ -196,33 +198,47 @@ Note: EPS can be manipulated in multiple ways like stock buybacks, convertible b
 so don't base ur decision only on net income and EPS 
 
 
-*CASH FLOW:
+*CASH FLOW: more important than income statement
 Cat1: businesses that grow but needs a lot of capital like adani group
 cat2: businesses that grow but DOESN'T need a lot of capital like britannia
 
---operating cashflow as % of net profit? 
-if net profit is increasing and operating cashflow is decreasing then something is messy
+--operating cashflow
+if net profit is increasing and operating cashflow is decreasing - company is in a highly competetive industry and 
+selling products on credit
+if operating cashflow is -ve then either reserves used or debt is raised -  be careful here
+--working capital changes : discrepancy b/w net profit and operating cash flow is mostly bcoz of WCC
+working capital changes = current liabilities - current assets
++ve meaning: consistently +ve means company has some moat and hence suppliers are giving them supplies on credit, but if it is significant
+ compared to OCF then that's a problem because someday cash is gonna go to suppliers and hence retained earnings will take a hit
+Also company is said to be consuming more cash than it is generating
+-ve meaning: consistently -ve  means company might be in a competetive industry or it might be a small company that
+neither have power nor a choice but to wait.
 --free cash flow as % of net profit?
 
+
+--cash flow from investing:
 --Capex: 
 Capex(check in Cash flow from investing) <25-50% of net profit?
 capex is good as it useful to capture market share. but capex increase using high amounts of debt is risky
 bcoz debt increases => interest expense increases => net earnings decrease => EPS decreases => share price decreases
+make sure to check the capex source over the years: debt/reserves/operating cash flow
 some DCA companies use debt for capex and at the same time does buyback of shares to reduce the impact on EPS and share price
 Also if the company consistently need to do capex to stay in the business - earnings will be affected Avoid such businesses
-
+--investment sold and purchased : check financial notes (especially subsidary investments)
 --check historical buyback in cash flow from investing (issuance/retirement of stock) 
 if yes company has DCA and is generating lot of cash to buyback
+
+
+--cash flow from financing
+check if the company took new debt or new equity in the current year
+Also check if the company CONSISTENTLY raising capital via the debt and equity
+if new debt => interest expense => net profit and EPS decreases => share price decrease
+if new equity => outstanding shares increases => EPS decreases => share price decrease
 
 --Net cash flow < 0 ?
 if yes then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
 sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt - check that
 
---cash flow from investing
-check if the company took new debt or new equity in the current year
-Also check if the company CONSISTENTLY raising capital via the debt and equity
-if new debt => interest expense => net profit and EPS decreases => share price decrease
-if new equity => outstanding shares increases => EPS decreases => share price decrease
 
 
 *OPERATIONAL RATIOS:
@@ -254,6 +270,7 @@ highest EPS in past 10yrs?
 **PRESENT:
 BUSINESS TYPE: 
 BUSINESS MODEL: 
+i.e how does the money flow from customers to shareholders(financial statements analysis can be useful)
 PRODUCT/SERVICES PORTFOLIO:
 REVENUE MODEL:
  clients diversification(if B2B):
@@ -293,10 +310,12 @@ CAN IT SUSTAIN PEER COMPETITION:
 - skills relevant to industry: yes
 - experience over > 10 yrs : yes
 - mindset/vision: growth via rural penetration/global foot print
-- how are reserves used - capex/M&A/dividends/buyback/reinvesting in own business/investing in other DCA companies
+- how are reserves used - bank balance/M&A/dividends/buyback/reinvesting in own business/investing in other DCA companies
 if dividends are paid - shareholders need to pay tax on it
 so better to invest on other DCA businesses or even better is to buyback shares from extra cash as this financial engineering
-concept increases shareholders wealth without paying any tax
+concept increases shareholders wealth without paying any tax.
+Note: buying back shares at a premium valuation is not the best use of capital, buying back is useful only if the 
+shares are bought at lower/fairprices.
 
 ****** valuation *****
 Talk about valuations only if the above factors are strong, else no point in buying the company

@@ -4,6 +4,9 @@ what idea does balance sheet give us?
 solvency: ability to clear debt
 liquidity: can it meet short term expenses
 
+why is it called a balance sheet?
+any change in assets/liabilities will cause a corresponding change in equity 
+
 
 **ASSETS: how the company is utilising the money
 1)current assets - can be liquidated within a year
