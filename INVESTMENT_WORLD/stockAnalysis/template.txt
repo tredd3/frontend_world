@@ -133,6 +133,9 @@ also look at the notes for reserves
 
 
 *INCOME STATEMENT:
+if subsidaries listed check standalone statements
+else check consolidated 
+
 --source of earnings: using debt/equity/retained earnings(cheapest and most preferred)
 infact earnings source is more than earnings itself
 
@@ -141,13 +144,14 @@ if yes it is an early sign that the company has some kind of MOAT/competitive ad
 if GPM<20 then the company is in a fierecely competetive industry and any company in such industry with out any competitive adv can't make you rich
 
 --operating expenses (factors that can strip off competettive advantage from the company and eat away profits)
-1)R&D spending(check in operating expenses) % wrt to net profit and operating expenses
+1)R&D spending(check in operating expenses)
 does the compnay consistently needs to spend on R&D for survival?
 if yes : R&D cost should be negligible or < 5% of gross profit
 2)sales and admin expenses(check in operating expenses)
 should be consistently < 50%-60% of gross profit depending on the peers - indicating brand/MOAT power
-if it increases heavily every year then company is trying to fight its competetion
+if it increases heavily every year then company is trying to fight its competetion by spending on marketing, advertising and paying more to employees
 if the company incuding its peers consistently have >=100% of gross profit then the industry is highly competetive
+if the company is consistently spending on marketing then check whether the next year sales is increasing or not
 3)interest costs(can be found in p&l or financing cashflows)
 interest should be <10-15% of operating income/profit. (but it depends on industry and its peers)
 company with high debt means either it in highly competetive industry and it needs debt to finance the capex for survival
@@ -164,6 +168,7 @@ companies with DCA has <10% and also much lesser compared to peers
 
 --other income: significant compared to operating income? like >15-20%
 if yes: since it is non operating and  non recurring income, it should be removed from calculation
+check notes section if the amount is significant or continously increasing over the years
 if no: we can ignore
 
 -- durability check: does net profit have a upward trend?
@@ -174,10 +179,21 @@ Note: net profit upward trend is important compared to EPS upward trend bcoz EPS
 company with DCA generally has NPM > 15-20% 
 if NPM < 10% then company belongs is a highly competetive industry where no one has a durable competettive advantage (DCA)
 
+--interest income: 
+if < 10% of operating profit and long term debt can be serviced by next 4 yr earnings then having debt is fine
+
+--tax:
+is it consistently paying fixed % of taxes or any tax relaxation from govt 
+if there is a tax relaxation from govt then company might be catching on the subsidy keeping sales down
+
+--net income:
+can be manipulated due to one time huge other income(keep an eye) and not all the net income is cash so check cashflow statement
+
 --EPS
 does eps have a upward trend or it has lot of fluctuations?
 stay away from cyclical stocks for long term
-Note: EPS can be manipulated in multiple ways, so don't base ur decision only on EPS 
+Note: EPS can be manipulated in multiple ways like stock buybacks, convertible bonds, equity capital
+so don't base ur decision only on net income and EPS 
 
 
 *CASH FLOW:

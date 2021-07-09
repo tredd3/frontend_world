@@ -23,6 +23,8 @@ Operating Profit /Operating income(EBIT) =EBITDA - Depreciation - Amortisation e
 Operating Profit margin/Operating Margin =(operating profit/sales) *100
 Operating profit margin shouldn’t be negative, consistent higher OPM implies having better/efficient management
 
+other income = sale of assets/sale of subsidaries/ writeoffs(-ve income)
+
 PBT = Operating Profit /Operating income(EBIT) - interest payment on debt 
 
 PAT/Net Income/Net Profit/BottomLine/Earnings = PBT - tax
