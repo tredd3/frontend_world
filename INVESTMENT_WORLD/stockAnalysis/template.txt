@@ -1,7 +1,9 @@
 Company name : sector/main business
 //summary section
-Resources to know the business : company filings(investor presentation, annual report, conference calls)
+Resources to know the business : 
+company filings(investor presentation, annual report, conference calls)
 screener summary
+check misc_negative.txt
 
 **STRENGTH
 MOAT/competitive advantage?
@@ -40,7 +42,12 @@ CRISIL Rating and report in screener?
 
 **RISK
 ** Red flags - those that stop you from investment/ think you twice before investing
+competetive risk/price risk/bleak furture/less market size/innovation risk
 
+**when can this stock be a bad investment
+Note: think about all the posisible negatives 
+Also will investors buy this stock in the future?
+all the customers of the company financial health?
 
 
 **** ABOUT SECTOR ****
@@ -137,8 +144,8 @@ also look at the notes for reserves
 if subsidaries listed check standalone statements
 else check consolidated 
 
---source of earnings: using debt/equity/retained earnings(cheapest and most preferred)
-infact earnings source is more than earnings itself
+--sales increasing?
+if NO why?
 
 --GPM higher(>40%) and consistent or growing over last 10yrs? :
 if yes it is an early sign that the company has some kind of MOAT/competitive advantage over its peers
@@ -172,14 +179,6 @@ if yes: since it is non operating and  non recurring income, it should be remove
 check notes section if the amount is significant or continously increasing over the years
 if no: we can ignore
 
--- durability check: does net profit have a upward trend?
-if yes, are you sure it will continue
-if no, are you sure of the trend reversal - very rare case trend reversal happens
-Note: net profit upward trend is important compared to EPS upward trend bcoz EPS can be increased by share repurchase
---NPM consistent/increasing ?
-company with DCA generally has NPM > 15-20% 
-if NPM < 10% then company belongs is a highly competetive industry where no one has a durable competettive advantage (DCA)
-
 --interest income: 
 if < 10% of operating profit and long term debt can be serviced by next 4 yr earnings then having debt is fine
 
@@ -191,11 +190,21 @@ if there is a tax relaxation from govt then company might be catching on the sub
 can be manipulated due to one time huge other income(keep an eye) and not all the net income is cash so check cashflow statement
 check operating cashflow should be greater than net income or if not equal
 
+-- durability check: does net profit have a upward trend?
+if yes, are you sure it will continue
+if no, are you sure of the trend reversal - very rare case trend reversal happens
+
+--NPM consistent/increasing ?
+if net income is increasing your sales growth should also be increasing otherwise if a 
+company with DCA generally has NPM > 15-20% 
+if NPM < 10% then company belongs is a highly competetive industry where no one has a durable competettive advantage (DCA)
+
+
 --EPS
 does eps have a upward trend or it has lot of fluctuations?
 stay away from cyclical stocks for long term
 Note: EPS can be manipulated in multiple ways like stock buybacks, convertible bonds, equity capital
-so don't base ur decision only on net income and EPS 
+so EPS increase should be along with sales, net income and cashflow increase 
 
 
 *CASH FLOW: more important than income statement
@@ -239,10 +248,14 @@ if new equity => outstanding shares increases => EPS decreases => share price de
 if yes then look at reserves(usually decreases) and debt(usually increases) to meet the obilgations
 sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt - check that
 
+--free cash flow:
+Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
+check cash_flow.txt
 
 
 *OPERATIONAL RATIOS:
 quick ratio:
+-important for manufacturing firms as lot of cash tends to be locked in the form of inventory
 current ratio >1 is preferred:
 but the importance of this ratio is high in deciding liquidity for avg companies but not so important for DCA companies, as 
  DCA companies often have current ratio < 1 and their earning power is so high that it doesn't matter
@@ -261,7 +274,11 @@ avg 5yrs ROE:
 EQUITY=common and preffered stock + Retained Earnings
 -some DCA companies have strong net earnings but -ve ROE don't need to have retained earnings. 
 But insolvent companies only have -ve ROE so be careful
+Note: if both ROE and Reserves/free cash flow are increasing then management is using Reserves efficiently
+if freecash flow is -ve due to heavy expansion and ROE is increasing in the coming years then company is profiting from capacity expansion
+Traps: buyback can inflate ROE, companies recently separated from parent companies can have huge ROE
 avg 5yrs ROCE:
+-ROE might not be a appropriate measure for companies with varied capital structure bcoz companies can boost ROE by taking high debt
 EPS CAGR:
 EPS trend : upward/downward/constant
 highest EPS in past 10yrs?
@@ -282,22 +299,34 @@ market size: small/large (most imp if a company is a monopoly)
 PEER competetiors :
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 POSITION IN PEERS :
+will it be easy for new entrants in this industry either for big brands or Novice companies: 
 
 
 **FUTURE : why/how does the company grow? 
 SECTOR GROWTH RATE: check in sector growth
 MANAGEMENT VISION:
-OPPURTUNITTIES FOR GROWTH: check sector growth section
-Horizontal growth oppurtunities: Global footprint/Tieups etc
-Vertical growth oppurtunities: interms of volumes/price
-Steps Taken To Capture Oppurtunity:
-WILL THE PRODUCTS/SERVICES be in demand:
-CAN IT SUSTAIN PEER COMPETITION:
--are the MOATs breakable: yes/no
--steps taken to sustain :
+OPPURTUNITTIES FOR SUSTAINABLE GROWTH:
+--working capital cyle improving and least among peers
+--sector growth: +ve/-ve/constant
+--source of earnings: business(volume increase/price increase/cost cutting with very little sales increase/M&A) OR accounting tricks(increased other income, lower amort and dep charges)
+due to voume increase(most sustainable of all) => then what is source of capital : debt/equity/retained earnings(cheapest and most preferred)
+due to price increase => sustainable only if company has a strong MOAT, also this has to be accompained with sales increase
+else after some years your company growth rate = inflation and the purpose of investing in stock markets to beat infalation is gone
+due to cost cutting => good but it is non-sustainable bcoz at some point cost cutting becomes stagnant
+due to lot of M&A => look at standalone statement and also invest only if the parent company is strong and is doing
+ acquistions to further strengthen rather than the parent company being a normal one and acquiring to sustain.
+due to accounting tricks => not sustainable and can be a fraud company
+INFACT earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not
+--Horizontal growth oppurtunities: Global footprint/Tieups/buying new companies etc
+--Vertical growth oppurtunities: selling more goods&services/raising prices/selling new products
+--Steps Taken To Capture Oppurtunity:
+--WILL THE PRODUCTS/SERVICES be in demand for next 10yrs:
+--CAN IT SUSTAIN PEER COMPETITION:
+--are the MOATs breakable: yes/no
+if NO then steps taken to strengthen the MOATS further :
 
 ******* Management ******
-//annual report - reading it answers all ur questions
+FOCUS: should be on growth and shareholders instead of personal profits
 - promoter pledging? 
 - promoter shareholding pattern : constant/ decreasing/ increasing
 - related party transactions: only for business purposes

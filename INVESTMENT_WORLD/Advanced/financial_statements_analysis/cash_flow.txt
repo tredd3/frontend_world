@@ -21,18 +21,16 @@ Analyzing what activities contribute to positive or negative net cash is essenti
 
 **Free cash flow = owner’s earnings = Net Cash flow from Operating activities(CFO) - Capex
 = net profit + non_cash expenses(like depriciation,amortisation) - change in working capital - Capex
-free cash flow is the cash that can be taken from company bank account without damaging the core business
-owner’s earnings = if u buy a company u can take this free cash flow home , hence they become your earnings
+owner’s earnings = if u buy a company u can take home this cash from company bank account without damaging the core business
 
-Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
 
-**If free cash flow is high => assets increases => equity increases and ROE decreases
+**If free cash flow is high => reserves increases => equity increases and ROE decreases
 Hence companies either use it in Capex(capacity increase),R&D(tech companies), mergers(to acquire market share/expansion)
 If a company has more cash in ideal mode then it might take wrong decision and everything gets screwed.
 Hence they give it as dividend or buyback shares from open market then cash decreases and the ROE is less
 Generally FMCG gives dividend and tech companies won’t rather they invest in R&D to keep ahead of competition.
-**CAGR - compounded annual growth rate -  on an average return rate per year
-For e.g: 2015 - investment year, 9% is CAGR which means from 2015 to 2016 there is 9% profit, and whole amount(principal + profit) is reinvested and then again 9% profit on the amount and so on
-**Beta analysis
-Beta - A positive beta value indicates that stocks generally move in the same direction with that of the market and the vice versa
-For example, if beta is 1.3 and the market is expected to move up by 10%, then the stock should move up by 13% (1.3 x 10).
+
+
+**if free cash flow is -ve
+debt/equity/reserves will be used up 
+consistently -ve free cashflow is bad 
