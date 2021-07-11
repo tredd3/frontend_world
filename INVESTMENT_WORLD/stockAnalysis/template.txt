@@ -329,12 +329,23 @@ if NO then steps taken to strengthen the MOATS further :
 FOCUS: should be on growth and shareholders instead of personal profits
 - promoter pledging? 
 - promoter shareholding pattern : constant/ decreasing/ increasing
-- related party transactions: only for business purposes
+-compnesation: variable based on permonance or fixed ?
+- remuneration acc to MCA limits: 
+- perks of management?
+- type of stock options :ESOP(not recorded as an expense even though it is)/RSU(preferred as it is recorded an expense)
+Note: make sure to check outstanding shares growth YOY
+- does the executives hold any stocks?
+- related party transactions: 
+Note: should only be for business purposes and not to executives family
+-Board of directors filled with management family members?
+if yes then there is no one to question the management and put the compnay on a winning track
+Note: board of directors is a group of individuals elected to represent shareholders and can question and fire the management
 - involved in scams/cases: 
 - CFO /auditor recently resigned/ continously resigning: 
-- spkoke about share price instead of business: 
-- remuneration acc to MCA limits: 
-- management should do what they say. did they do so?: to be found in next annual rpeort
+- spoke about share price instead of business in news/annual reports/conf calls: 
+- management should do what they say. did they do so?: to be found in annual reports(letter to shareholders) & conference calls
+-management should be completely transparent to its shareholders, "we don't disclose" is not what we want to hear
+Note: should admit the mistakes honestly
 ** skill test:
 - skills relevant to industry: yes
 - experience over > 10 yrs : yes
