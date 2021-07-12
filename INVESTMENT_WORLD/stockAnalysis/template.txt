@@ -89,8 +89,11 @@ is the cash generated bcoz of operations?
 Note: check last 10yrs balance sheet to find out
 --check cash/market_cap : if > 50% buy
 
---does inventory increase and sales decrease ? 
-if yes: there might be a price risk as inventory is becoming obselete, also cash gets locked in inventory
+--does inventory growth rate is higher than sales growth rate ? 
+if yes: inventory becomes obselete => write off or sell at discount => earnings take hit
+also cash gets locked in inventory => depriving firm of cash 
+cash conversion cycle -ve ?
+- if yes means cash is not locked in
 inventory turnover = COGS/inventory , companies with DCA have very high inventory turnover
 
 --check if Accounts Receivable is significant compared to sales over the years:
@@ -171,6 +174,7 @@ NOTE: Generally in a given industry company with lowest ratio of interest to ope
 however it completely depends on the industry. it is possible that all companies in the sector have done poorly
 
 -- amort/dep as a % of fixed assets: 
+Note: in general it should be 15-20% not less. if it is less then company is inflating the earnings by pushing expenses to future
 -- amort/dep as a % of gross profit/operating: 
 companies with DCA has <10% and also much lesser compared to peers
 
@@ -188,7 +192,7 @@ if there is a tax relaxation from govt then company might be catching on the sub
 
 --net income:
 can be manipulated due to one time huge other income(keep an eye) and not all the net income is cash so check cashflow statement
-check operating cashflow should be greater than net income or if not equal
+operating cashflow must be consistently greater than net income or if not equal
 
 -- durability check: does net profit have a upward trend?
 if yes, are you sure it will continue
