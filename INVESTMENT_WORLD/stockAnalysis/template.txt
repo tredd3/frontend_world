@@ -24,14 +24,17 @@ MOAT/competitive advantage?
 
 is it durable ?
  past - look for consistency in numbers in  financial statements
- future - can the company keep its DCA nature for next 20 yrs or can the competetiors snatch away the profits? 
-
+ future - wide/narrow/no economic moat?
+ can the company keep its DCA nature for next 20 yrs?
+ can the competetiors snatch away the profits? 
+ 
 why earning power is important?
  even though the company has DCA over its peers, if the company doesn't have earning power bcoz of the less
   market size/weak industry future/govt rules etc, then it doesn't make sense to buy 
 
 does the company have long term earning power?
--can you predict how does the company business look like after 10-15yrs?
+-will the company exist after 10yrs
+-if yes can you predict how does the company business look like after 10-15yrs?
 -will they still be in the race or is there any replacement/innovation?
 
 globally competitive?
@@ -254,6 +257,7 @@ if yes then look at reserves(usually decreases) and debt(usually increases) to m
 sometimes negative net cash flow is becoz of investing activities and positive cash flow is bcoz of debt - check that
 
 --free cash flow:
+every year free cash_flows are added to reserves
 Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
 check cash_flow.txt
 

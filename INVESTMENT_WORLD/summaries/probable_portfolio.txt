@@ -7,6 +7,8 @@ may be 1,2 or 10 stocks
 Britania
 Dabur
 nestle
+CAMS - monopoly - must have
+HUL - monopoly - must have
 pidilite - monopoly
 Jubiliant foodworks/Nestle - monopoly - must have
 CRISIL
@@ -25,8 +27,6 @@ SBI/HDFC/ICICI - SIBs with strict RBI regulations
 //LEVEL 2
 Apollo hospitals
 GAIL - research
-CAMS - monopoly - must have
-HUL - monopoly - must have
 DIXON
 Praj
 Ion exchange - research

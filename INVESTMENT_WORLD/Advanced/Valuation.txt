@@ -45,7 +45,7 @@ then  cash flows can be discounted and we can arrive at fair value for the compa
 
 **Discounted cash flow model - PV of growing perpetuity
 Fair value= Free cash flows/(rate-growth)
-Rate = minimum expected return rate per year by the company for infinite period (WACC is generally used)
+Discount Rate = minimum expected return rate per year by the company for infinite period (WACC is generally used)
 WACC is the minimum required return for a firm (expected equity returns by shareholder is roughly 14% + debt cost is the interest rate at which company took the loan)
 companies always target to earn more returns than WACC
 go through EY, BCG,Chief Economic Advisor reports on sector growth. expected sector growth should be >= WACC
@@ -54,7 +54,9 @@ low risk = 6%(govt 10 yr bond yield)
 Medium	risk = 15%(Nifty)
 High risk= > 20%(individual stocks/sectors/MFs etc) 
 PS: since we invest in great companies , risk factor is low and hence we need to discount based on risk free rate
-Add 50% or margin of safety to Fair value, i.e we pay 50% of fair value or below to buy a company
+MOS(margin of safety) for stable and predictable firms : 10-20%
+MOS(margin of safety) for non-predictable firms : 30-50%
+small/mid cap, cyclical , debt heavy, capex heavy industries discount rate is more as the risk is more
 **But why is margin of safety is needed?
 DCF requires making many assumptions. The future cash flow assumption might go wrong as it rely on a variety of factors, 
 such as market demand, the status of the economy, technology, competition, and unforeseen threats or opportunities
