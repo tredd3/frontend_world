@@ -1,13 +1,48 @@
 NAME - FAIR PRICE - Discounted Price
 https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
 
+//All the below companies must pass and have passed the below test
+Nature of test: test on 10yr financial data
+Check Screener pros and cons
+is the operating profit +ve  most of the time and growing?
+CFO +ve most of the time and growing?
+ROE > 10-15% (with D/E under control)?
+net income consistently +ve ?
+Note: shouldn't have major fluctuations and should never be -ve
+D/E < 1?
+if D/E > 0 check in the balance sheet if the long term debt is increasing ?
+also if there is short term debt check if current assets > current liabilities?
+free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => company might be trying to build a moat OR company with moat trying to capture market share ,
+Also if other params are good and -ve free cash flow is bcoz of capex then you can invest 
+is other income significant to net profit over the years?
+outstanding shares increasing every year by more than 2%?
+Note: check cashflow from financing section
+shareholding pattern of the promoter, FIIS and DIIs decreasing?
 
-1)HUL - 2145 - 1716
+
+1)HUL - 2150 - 1716
 2)DABUR - 610 - 488
 3)CRISIL -
 4)IEX -
-5)CDSL -
+5)CDSL - 1000 - 822
 6)MTAR -
 7)PIDILITE -
 8)IRCTC -
 9)ICICI PRUDENTIAL -
+10)CAMS - 4338 - 3471(now) 
+11)VBL -
+12)ITC -
+13)pidilite -
+14)Asian Paints - 
+15)Jubiliant foodworks -
+16)Nestle -
+17)Apollo -
+18)Wabag -
+19)Praj - 
+20)Britaniia -
+21)HDFC AMC -
+22)NIPPON AMC -
+23)RAIL TEL -

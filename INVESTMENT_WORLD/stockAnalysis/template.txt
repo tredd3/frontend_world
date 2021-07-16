@@ -7,14 +7,15 @@ check misc_negative.txt
 
 **STRENGTH
 MOAT/competitive advantage?
- check summaries/MOATS.txt (how company insulates itself from competetion)
- unique product/service : 
- low cost buyer and seller :
- i.e does the company make margins from volumes by spreading the costs? but be careful as the volumes go down profits go down as well
- or the company doesn't deal with volumes but manages to keep the input costs and operating expenses low
- users consistently need the product/service?
- does this compnay or its products own the consumers mind?
- is the public ready to pay premium for these brand products?
+ 1)check summaries/MOATS.txt (how company insulates itself from competetion)
+ 2)unique product/service : 
+ 3)low cost buyer and seller :
+ i.e does the company make margins from volumes by spreading the operating expenses mainly R&D? 
+ Note: but be careful as the volumes go down profits go down as well.Also these kind of companies must play with volumes
+ 4)users consistently need the product/service?
+ -will the products be used by most no of people, if not now in the future?
+ 5)does this compnay or its products own the consumers mind?
+ 6)is the public ready to pay premium for these brand products?
  B2B MOATS:
  is the switching cost > benifits of new products?
   -products tightly integrated into customers business?
@@ -32,7 +33,7 @@ why earning power is important?
  even though the company has DCA over its peers, if the company doesn't have earning power bcoz of the less
   market size/weak industry future/govt rules etc, then it doesn't make sense to buy 
 
-does the company have long term earning power?
+does the company have long term earning power? (check FUTURE section)
 -will the company exist after 10yrs
 -if yes can you predict how does the company business look like after 10-15yrs?
 -will they still be in the race or is there any replacement/innovation?
@@ -47,15 +48,21 @@ CRISIL Rating and report in screener?
 ** Red flags - those that stop you from investment/ think you twice before investing
 competetive risk/price risk/bleak furture/less market size/innovation risk
 
-**when can this stock be a bad investment
+**when can this stock be a bad investment (BEAR CASE)
 Note: think about all the posisible negatives 
 Also will investors buy this stock in the future?
-all the customers of the company financial health?
+all the customers of the company financially healthy?
+industry risk?
+competetior risk?
+geography /exports risk?
+legal risk - cases, scams?
+regulatory risk/govt policy risk?
 
 
 **** ABOUT SECTOR ****
 https://www.tijorifinance.com/company/marico-limited/#knowledgebase
 https://www.ibef.org/industry.aspx
+Most importantly in the Annual Report
 TYPE:
 STAGE :pioneering/growth/maturity/obselete
 EXTERNAL DEPENDENCY:
@@ -69,7 +76,7 @@ RISK FACTORS:
 -govt regulations:
 GROWTH FACTORS: 
 -will this sector exists after 5/10 yrs:
--expected growth rate:
+-expected growth rate: < 15% then better to invest in Index funds
 -oppurtunities locally/globally:
 -demand for the sector products/services:
 
@@ -107,6 +114,7 @@ Also if the same thing is done by their peers then it will also have profit risk
 --plant and equipment cost should be either constant/decreasing/increaing at low rate? 
 if it is increaing consistently at a higher rate then the company is investing from it reserves or by taking debt to beat the competettion
 this will eat up your profit as this extra money can be spent on some profitable ventures and hence you shouldn't invest
+Note: increase in the value of net block(plant and capital) doesn't imply value appreciation, rather it means every year new fixed assets are being bought
 
 --long term investments:
 probe this section in annual reports notes to understand whether the management have invested in companies with DCA or medicore
@@ -154,8 +162,8 @@ else check consolidated
 if NO why?
 
 --GPM higher(>40%) and consistent or growing over last 10yrs? :
-if yes it is an early sign that the company has some kind of MOAT/competitive advantage over its peers
-if GPM<20 then the company is in a fierecely competetive industry and any company in such industry with out any competitive adv can't make you rich
+if yes => company has pricing power bcoz of some kind of MOAT/competitive advantage over its peers
+if GPM<20 then the company is in a fierecely competetive industry where no company has DCA
 
 --operating expenses (factors that can strip off competettive advantage from the company and eat away profits)
 1)R&D spending(check in operating expenses)
@@ -229,7 +237,6 @@ working capital changes = current liabilities - current assets
 Also company is said to be consuming more cash than it is generating
 -ve meaning: consistently -ve  means company might be in a competetive industry or it might be a small company that
 neither have power nor a choice but to wait.
---free cash flow as % of net profit?
 
 
 --cash flow from investing:
@@ -259,6 +266,11 @@ sometimes negative net cash flow is becoz of investing activities and positive c
 --free cash flow:
 every year free cash_flows are added to reserves
 Company is called extraorinary  if free cash flow > 70% of net profit (u can check freecashflow on tijori/morningstar)
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => company might be trying to build a moat OR company with moat trying to capture market share ,
+to verify that :look net income, return ratios etc
+-free cash flow as % of net profit?
+-free cash flow as % of sales?
 check cash_flow.txt
 
 
@@ -319,8 +331,11 @@ OPPURTUNITTIES FOR SUSTAINABLE GROWTH:
 --sector growth: +ve/-ve/constant
 --source of earnings: business(volume increase/price increase/cost cutting with very little sales increase/M&A) OR accounting tricks(increased other income, lower amort and dep charges)
 due to voume increase(most sustainable of all) => then what is source of capital : debt/equity/retained earnings(cheapest and most preferred)
+How to verify? compare sales growth % with net profit growth % ?
+Note - there should be little difference if not then better to probe
 due to price increase => sustainable only if company has a strong MOAT, also this has to be accompained with sales increase
 else after some years your company growth rate = inflation and the purpose of investing in stock markets to beat infalation is gone
+Also if sales are not increasing then demand has dried up OR competetiors taking away market share - Both are bad situations
 due to cost cutting => good but it is non-sustainable bcoz at some point cost cutting becomes stagnant
 due to lot of M&A => look at standalone statement and also invest only if the parent company is strong and is doing
  acquistions to further strengthen rather than the parent company being a normal one and acquiring to sustain.
@@ -339,11 +354,14 @@ FOCUS: should be on growth and shareholders instead of personal profits
 - promoter pledging? 
 - promoter shareholding pattern : constant/ decreasing/ increasing
 -compnesation: variable based on permonance or fixed ?
+Note: compnesation of the management in the low time should be less compared to high times 
 - remuneration acc to MCA limits: 
-- perks of management?
+- perks of management? very high / less
 - type of stock options :ESOP(not recorded as an expense even though it is)/RSU(preferred as it is recorded an expense)
-Note: make sure to check outstanding shares growth YOY
+Note: make sure to check outstanding shares growth YOY. any company issuing ESPOs abnormally and having a YOY outstanding shares 
+increase > 10%, doesn't care about shareholders
 - does the executives hold any stocks?
+Note - if yes then that motivates them to act in favour of shareholders
 - related party transactions: 
 Note: should only be for business purposes and not to executives family
 -Board of directors filled with management family members?
@@ -376,7 +394,7 @@ check PEG to confirm , premium is justified only when PEG < 2
 Note: PE of a company might be less bcoz of the riskiness, cyclical nature, capex intensive and more capital requirement etc
 Low PE => inflated earnings due to one time income or any other manipulation OR any fundamentally wrong with the company
 Also PE < Industry PE?
--PE is generally compared with peers PE, but PE for other companies is based on their financial condition hence not a great measure
+-PE is generally compared with peers PE, but PE for other companies is based on their financial condition, hence not a great measure
 PE < 5yr median PE? also check the historical PE range (most reliable approach for established firms)
 -for young companies it might not be relevant as they business outlook and financials might have changed
 PEG ratio: 
