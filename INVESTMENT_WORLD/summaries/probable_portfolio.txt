@@ -10,12 +10,11 @@ nestle
 CAMS - monopoly - must have
 HUL - monopoly - must have
 pidilite - monopoly
-Jubiliant foodworks/Nestle - monopoly - must have
+Asian paints - monopoly
+Jubiliant foodworks - monopoly - must have
 CRISIL
 CDSL
 MTAR - precison engineering
-Railtel - telecommunications
-IRCTC - monopoly - must have
 IEX - monopoly - must have
 Heritage
 HDFC AMC/NIPPON AMC - check money purse video before investing
@@ -25,25 +24,35 @@ SBI/HDFC/ICICI - SIBs with strict RBI regulations
 
 
 //LEVEL 2
-Apollo hospitals
 GAIL - research
+IRCTC - monopoly - need to observe few more years
+RAIL TEL - cat 2 - needs observation
+capex > OCF but no debt taken
+MFs and FIIs hold less stake compared to public
+other income significant to operating income 
+significant other income
+CFO -ve and decreasing
 DIXON
 Praj
 Ion exchange - research
-Wabag - research
 MCX
 ITC - check money purse video before investing
-Asian paints - monopoly
 
 
 //LEVEL 3
-VBL -
+1)VBL -
 -ves:
 current liabilities > current assets
 D/E > 1
 significant interest income compared to operating profit
 ROE decreasing over the years
 capex is around > 100% of net profit for more than 10 yrs
+2)Apollo - 3300 3000 cat 3 - needs observation
+shares pledged
+capex almost equal to operating cash flow - needs observation
+interest income almost 30-40% of operating profit
+D/E increasing over the years
+consistent earnings can clear the debt in 4-5 yrs
 Bluedart - logistics - competettion risk
 SAREGAMA - research 
 fermenta biotech - vit D3 - competettion risk
@@ -51,9 +60,13 @@ zydus wellness
 page industires - jockey brand - monopoly - must have
 ** Heavy industries
 Hindzinc
+Wabag - financials are pretty bad
+Ionexchange - cat 3
+operating cash flow anf free cash flow not proper
+shareholding pattern decreasing for promoters and MFs hold a little stake
+little order book
+other income 30-40% of operating profit for last 4 yrs
 Gail
-Tata Steel/Sail - cyclical and tricky
-Adani ports - monopoly - research
 Embassy RR/mindspace RR/INVIT - dividend yielding with predicted cashflows, check valuations
 
 //Futurestic

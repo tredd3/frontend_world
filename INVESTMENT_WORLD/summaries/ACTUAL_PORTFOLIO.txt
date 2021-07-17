@@ -3,11 +3,12 @@ https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hd
 
 //All the below companies must pass and have passed the below test
 Nature of test: test on 10yr financial data (standalone and consolidated)
-1)Check Screener pros and cons
+1)Check Screener pros and cons, CRISIL rating
 2)is the operating profit +ve  most of the time and growing?
 3)CFO +ve most of the time and growing?
 4)net income consistently +ve ? 
 Note: shouldn't have major fluctuations and should never be -ve
+10)is other income significant to operating profit over the years?
 5)ROE > 10-15% (with D/E under control)?
 6)D/E < 1?
 if D/E > 0 check in the balance sheet if the long term debt is increasing ?
@@ -20,38 +21,40 @@ free cash flow -ve bcoz of operating cash flow => company is bad and in-efficien
 free cash flow -ve bcoz of capex => is it doing continous capex , if yes wt is the % of operating cash flow/net profit
 company might be trying to build a moat OR company with moat trying to capture market share ,
 Also if other params are good and -ve free cash flow is bcoz of capex then you can invest 
-10)is other income significant to operating profit over the years?
 11)outstanding shares increasing every year by more than 2%?
 Note: for this check cashflow from financing section
 12)shareholding pattern of the promoter, FIIS and DIIs decreasing?
 
 
 1)HUL - 2100 - 1700 - cat 1
-2)DABUR - 500 - 400 - cat 1
+2)DABUR - 500 - 400 - doubtful cat 1
 very less inventory turnover
 3)ITC - cat 2
 ROE and FII shareholding decreasing
+management taking huge salaries
 4)Britania - 3100 - 2500 - cat 2
 D/E 0.6, debt might eat up next 1-2 yrs earnings
-16)Nestle - 15000 12000 - cat 1
-15)Jubiliant foodworks - 2600 2000 - cat 1
-3)CRISIL -
-4)IEX -
-5)CDSL - 1100 - 830
+5)Nestle - 15000 12000 - cat 1
+6)Jubiliant foodworks - 2600 2000 - cat 2 - needs careful observation in the next few years
+initial 5-6 yrs have been -ve but last 4 yrs was good
+7)CRISIL - 2300 2000 - investigate below reasons - doubtful cat 2
+sales became constant and decreasing
+operating profit decreasing over the years
+net profit decreasing over the years
+other income almost 100% for last 2 yrs - probe  needed
+9)IEX - 370 330  - cat 1
+10)CDSL - 1100 - 830 - doubtful cat 1
 -ves: 
 shareholder pattern decreasing but other factors are good
 other income is almost 40-50% every year
 in-consistent cashflows and very less net profit growth over the years
 Needs observation every quarter and year
-10)CAMS - 2600 - 2100
-6)MTAR -
-23)RAIL TEL -
-7)PIDILITE -
-8)IRCTC -
-14)Asian Paints - 
-17)Apollo -
-18)Wabag -
-19)Praj - 
+11)CAMS - 2600 - 2100 - cat 1
+12)MTAR - 1200 - 1000 cat 2 - needs careful observation in the next few years
+numbers are less, the company started to show some progress in last 3 yrs
+13)Asian Paints - 2600 2100 - cat 1
+for the last 2 years capex was 10-15% of OCF, before that it was 40-50%
+14)PIDILITE - 2000 1500 - cat 1
 21)HDFC AMC -
 22)NIPPON AMC -
 9)ICICI PRUDENTIAL -
