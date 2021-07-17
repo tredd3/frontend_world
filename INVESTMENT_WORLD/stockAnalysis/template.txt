@@ -247,6 +247,7 @@ bcoz debt increases => interest expense increases => net earnings decrease => EP
 make sure to check the capex source over the years: debt/reserves/operating cash flow
 some DCA companies use debt for capex and at the same time does buyback of shares to reduce the impact on EPS and share price
 Also if the company consistently need to do capex to stay in the business - earnings will be affected Avoid such businesses
+Special case: 
 --investment sold and purchased : check financial notes (especially subsidary investments)
 --check historical buyback in cash flow from investing (issuance/retirement of stock) 
 if yes company has DCA and is generating lot of cash to buyback

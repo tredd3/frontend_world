@@ -37,7 +37,13 @@ Asian paints - monopoly
 
 
 //LEVEL 3
-VBL
+VBL -
+-ves:
+current liabilities > current assets
+D/E > 1
+significant interest income compared to operating profit
+ROE decreasing over the years
+capex is around > 100% of net profit for more than 10 yrs
 Bluedart - logistics - competettion risk
 SAREGAMA - research 
 fermenta biotech - vit D3 - competettion risk
