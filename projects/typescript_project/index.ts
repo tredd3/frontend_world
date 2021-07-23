@@ -7,6 +7,12 @@
 // TypeScript extends this list with a few more, such as object, any (allow anything), void (a function which returns undefined or has no return value).
 //TypeScript is a structural type system, i.e it infers type based on the structure and not mandatory to declare type to a structure
 //e.g If the object or class has all the required properties, TypeScript will say they match, regardless of the implementation details.
+//typechecking is optional even in a ts file
+//e.g: function tarak has no type checking
+function tarak(a) {
+  console.log(a + 3);
+}
+tarak("");
 interface User {
   name: string;
   adresses: object[];
@@ -153,6 +159,7 @@ function throwError(errorMsg: string): never {
 }
 
 //unknown type - safe alternative to any
+//The any type is useful when you don’t want to write out a long type just to convince TypeScript that a particular line of code is okay.
 //TypeScript won't let us perform arbitrary operations on values of type unknown unlike any
 let value: unknown;
 // value.foo.bar;  // Error

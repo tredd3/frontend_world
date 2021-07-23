@@ -1,3 +1,16 @@
+//The goal of TypeScript is to be a static typechecker for JavaScript programs - in other words, a tool that runs before your
+// code runs (static) and ensures that the types of the program are correct (typechecked), lowering the chance of bugs
+//JavaScript only truly provides dynamic typing - running the code to see what happens.
+//apart from type check, typescript also catches and reports logic,typo and uncalled function errors
+//Unlike C++, TypeScript uses postfix types, like so: x: string instead of string x.
+//js primitives can be used as types : boolean, bigint, null, number, string, symbol, and undefined
+// TypeScript extends this list with a few more, such as object, any (allow anything), void (a function which returns undefined or has no return value).
+//TypeScript is a structural type system, i.e it infers type based on the structure and not mandatory to declare type to a structure
+//e.g If the object or class has all the required properties, TypeScript will say they match, regardless of the implementation details.
+function tarak(a) {
+    console.log(a + 3);
+}
+tarak("");
 var rx = { x: 1 };
 //rx.x = 12; // error
 //const cannot prevent array from getting modified
