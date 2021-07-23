@@ -1,0 +1,2 @@
+//making typescript more strict by not emitting js files if an error is encountered
+tsc --noEmitOnError hello.ts

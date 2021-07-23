@@ -78,7 +78,11 @@
 
       //Upon creation, the Socket joins the room identified by its own id, which means you can use it for private messaging:
       socket.on("connect", () => {
-        console.log(socket.id); // ojIckSD2jqNzOqIrAGzL
+        console.log("connect event"); // ojIckSD2jqNzOqIrAGzL
+      });
+
+      socket.on("reconnect", () => {
+        console.log("reconnect");
       });
 
       socket.on("chat message", function ({ message }) {
