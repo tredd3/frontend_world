@@ -137,4 +137,29 @@ Object.keys() and Object.values() //best way - order is maintained and only own 
 //3 ways of object copy
 iteration
 Object.assign({},a,b)
-json.stringify and parse //best way
+json.stringify and parse //best way bcoz of deep copy
+
+//find out all an object’s property keys — including symbols
+const obj = {
+  [Symbol('my_key')]  : 1, 
+   enum               : 2, 
+   nonEnum            : 3
+};
+
+Object.defineProperty(obj, 'nonEnum', { enumerable: false }); // Making 'nonEnum' as not enumerable.
+
+// Ignores symbol-valued property keys:
+> Object.getOwnPropertyNames(obj)
+['enum', 'nonEnum']
+
+// Ignores string-valued property keys:
+> Object.getOwnPropertySymbols(obj)
+[Symbol(my_key)]
+
+// Considers all kinds of keys:
+> Reflect.ownKeys(obj)
+[Symbol(my_key),'enum', 'nonEnum']
+
+// Only considers enumerable property keys that are strings:
+> Object.keys(obj)
+['enum']

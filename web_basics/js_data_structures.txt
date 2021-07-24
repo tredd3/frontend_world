@@ -48,6 +48,8 @@ well-known symbols are: Symbol.iterator for array-like objects, or Symbol.search
 USES : 
 By making use of symbols, each library can generate their required symbols upon instantiation. 
 most common indirectly is their use to create object linkages.
+Name Clashes: when you wanted to prevent collisions with keys in objects
+Privacy: when you don’t want your object properties to be enumerable
 
 
 //Indexed collections: Arrays and typed Arrays
