@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const path = require("path");
 //using express with socket.io - below is the procedure to share the https server
 const server = require("http").createServer(app);
 const io = require("socket.io")(server);
@@ -11,9 +12,10 @@ server.listen(3000, () => {
   console.log("listening on *:3000");
 });
 
-app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/index.html");
-});
+// app.get("/", (req, res) => {
+//   res.sendFile(__dirname + "/index.html");
+// });
+app.use(express.static(path.join(__dirname, "public")));
 
 const usersList = [];
 

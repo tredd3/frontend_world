@@ -60,6 +60,9 @@
     <form id="form" action="">
       <input id="input" autocomplete="off" /><button>Send</button>
     </form>
+    <!-- with this ordering module_file can access the script_file variables/functions etc bcoz of their availability in global scope -->
+    <script src="/script_file.js"></script>
+    <script src="/module_file.js" type="module"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script>
       var socket = io();

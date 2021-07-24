@@ -18,12 +18,14 @@ names.forEach(function (s) {
   console.log(s.toUpperCase());
 });
 //typechecking is optional even in a ts file
-//e.g: function tarak has no type checking
-function tarak(a) {
+//e.g: function tarak has no type checking , params and return values are inferred by TS compiler
+function tarak1(a) {
   console.log(a + 3);
 }
-tarak("");
-
+tarak1("");
+//The namespace import import * as fs from "fs" only accounts for properties which are owned (basically properties set on the
+//object and not via the prototype chain) on the imported object. If the module you’re importing defines its API using inherited
+// properties, you need to use the default import form (import fs from "fs"), or disable esModuleInterop.
 interface User {
   name: string;
   adresses: object[];
