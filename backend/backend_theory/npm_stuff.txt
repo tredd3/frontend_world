@@ -338,8 +338,21 @@ use --no-shrinkwrap to allow package.json to be updated while leaving package-lo
 1)It is highly recommended you commit the generated package lock to source control: this will allow anyone else on your team,
 your deployments, to get the exact same dependency tree that you were developing on.
 2)One key detail about package-lock.json is that it cannot be published, and it will be ignored if found in any place other than the toplevel package
-3)package-lock.json is automatically generated for any operations where npm modifies either the node_modules tree, or package.json
+3)package-lock.json is automatically savegenerated for any operations where npm modifies either the node_modules tree, or package.json
 4)If both package-lock.json and npm-shrinkwrap.json are present in the root of a package, package-lock.json will be completely ignored.
 
 //resolving package-lock.json file conflicts
 manually fix any package.json conflicts, and then running npm install --package-lock-only
+
+//multuple versions of same dependency
+npm i <package_name_alias>@npm:<package_name>@version
+latest - npm i formik-latest@npm:formik
+specific version - npm i formik-latest@npm:formik@2.0.0
+"dependencies": {
+    "formik": "^1.5.0",
+    "formik-latest": "npm:formik@^2.2.0"
+  }
+// file1.js
+import { Formik } from 'formik';
+// file2.js
+import { Formik } from 'formik-latest';
