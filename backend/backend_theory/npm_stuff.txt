@@ -164,6 +164,7 @@ npm uninstall [<@scope>/]<pkg>[@<version>]... [-S|--save|-D|--save-dev|-O|--save
 npm outdated <pkg> //check the registry to see if any (or, specific) installed packages are currently outdated.
 npm update [-g] [<pkg>] //npm update will change package.json to save the new version as the minimum required dependency. To get the old behavior, use npm update --no-save
 npm ls //to inspect current package/dependency versions
+npm ls <pkg> //to inspect current package/dependency versions
 npm view <pkg> [--json]// to know everything about a package
 
 
@@ -280,8 +281,8 @@ This allows a package maintainer to install all of their dependencies (and dev d
 In cases where you need to preserve npm packages locally or have them available through a single file download, you can bundle the
 packages in a tarball file by specifying the package names in the bundledDependencies array and executing npm pack.
 When installing, this module will be extracted from the parent module during the extract phase, not installed as a separate dependency.
-5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency can be used, 
-but you would like npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
+5)optionalDependencies are dependencies that don’t necessarily need to be installed. If a dependency is used, but you would like
+npm to proceed if it cannot be found or fails to install, then you may put it in the optionalDependencies object.
 Example:Let’s assume you have a web application, continuous integration and deployment, and a suite of end-to-end tests using Cypress. 
 Take a look at the following CI pipeline. It consists of four different parallel jobs (building, linting, unit testing, and end-to-end testing) 
 that all need to install the project dependencies as the first step. However, only one of them actually needs Cypress, yet we’re always installing all of the packages for each job.

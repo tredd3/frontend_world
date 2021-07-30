@@ -1,0 +1,52 @@
+Salient features:
+It is a framework not a library.
+It is an open-source software platform developed by the Apache Software Foundation written in Scala and Java.
+Apache Kafka is distributed publish-subscribe based fault tolerant messaging system.
+The project aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+Apache Kafka is based on the commit log, and it allows users to subscribe to it and publish data to any number of
+ systems or real-time applications.
+Kafka is suitable for both offline and online message consumption. Kafka messages are persisted on the disk and replicated within the cluster to prevent data loss.
+Reliability − Kafka is distributed, partitioned, replicated and fault tolerance.
+Scalability − Kafka messaging system scales easily without down time.
+Durability − Kafka uses Distributed commit log which means messages persists on disk as fast as possible, hence it is durable..
+Performance − Kafka has high throughput for both publishing and subscribing messages. It maintains stable performance even many TB of messages are stored.
+
+What is a Messaging System?
+A Messaging System is responsible for transferring data from one application to another, so the applications can focus on data,
+ but not worry about how to share it. 
+Two types of messaging patterns are available − one is point to point and the other is publish-subscribe (pub-sub) messaging system.
+Most of the messaging patterns follow pub-sub.
+1)Point to Point Messaging System:
+messages are persisted in a queue. One or more consumers can consume the messages in the queue, but a particular message can
+ be consumed by a maximum of one consumer only
+e.g: Order Processing System, where each order will be processed by one Order Processor, but Multiple Order Processors can work as well at the same time.
+2)Publish-Subscribe Messaging System
+In the publish-subscribe system, messages are persisted in a topic. Unlike point-to-point system, consumers can subscribe to one 
+or more topic and consume all the messages in that topic.
+A real-life example is Dish TV, which publishes different channels like sports, movies, music, etc., and anyone can subscribe to their own set of channels
+
+Terminnology:
+-Topics: A stream of messages belonging to a particular category is called a topic. Data is stored in topics.
+Topics are split into partitions. Each such partition contains messages in an immutable ordered sequence.
+ A partition is implemented as a set of segment files of equal sizes.
+-Partition: Topics may have many partitions
+-Partition offset: Each partitioned message has a unique sequence id called as offset.
+-Replicas: backups of a partition. Replicas are never read or write data. They are used to prevent data loss.
+The id of the replica is same as the id of the server that hosts it.
+-Broker: machine responsile for storing and  maintaining the pub-lished data
+Kafka brokers are stateless, so they use ZooKeeper for maintaining their cluster state.
+Kafka broker leader election can be done by ZooKeeper.
+-Kafka cluster: Kafka’s having more than one broker are called as Kafka cluster.
+-Distributed: each parition can exist on a different broker
+ZooKeeper: ZooKeeper is used for managing and coordinating Kafka broker. ZooKeeper service is mainly used to notify producer and
+ consumer about the presence of any new broker in the Kafka system or failure of the broker in the Kafka system.
+-Producers: Producers are the publisher of messages to one or more Kafka topics. Producers send data to Kafka brokers. 
+Every time a producer pub-lishes a message to a broker, the broker simply appends the message to the last segment file. 
+Kafka producer doesn’t wait for acknowledgements from the broker and sends messages as fast as the broker can handle.
+Actually, the message will be appended to a partition. Producer can also send messages to a partition of their choice.
+-Consumers: Consumers subscribes to one or more topics and consume published messages by pulling data from the brokers.
+-Leader: The node responsible for all reads and writes for the given partition. Every partition has one server/broker acting as a leader.
+-Follower: Node which follows leader instructions are called as follower. If the leader fails, one of the follower will
+ automatically become the new leader. A follower acts as normal consumer, pulls messages and up-dates its own data store.
+
+ 
