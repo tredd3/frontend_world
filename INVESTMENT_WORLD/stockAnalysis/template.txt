@@ -12,6 +12,12 @@ MOAT/competitive advantage?
  3)low cost buyer and seller :
  i.e does the company make margins from volumes by spreading the operating expenses mainly R&D? 
  Note: but be careful as the volumes go down profits go down as well.Also these kind of companies must play with volumes
+ Does the company have economies of scale? bcoz low lost seller needs to have this else the profits will take a hit
+ economic of scale is the ability of the firm to leverage its fixed cost infrastructure across various clients(remember fixed costs 
+ should be in limit and not so much like airlines that the company might go bankruptcy during economic downturn)
+ operating leverage of the firm increases because of this ability.(check in profit loss statement - tijori finace)
+ operating leverage is 3 => if revenues grow by x then operating income grows  by 3x (not net income)
+ Note: if operating leverage is very high because of fixed costs company can be wildly profitable and can also be bankrupt
  4)users consistently need the product/service?
  -will the products be used by most no of people, if not now in the future?
  5)does this compnay or its products own the consumers mind?
@@ -131,7 +137,7 @@ is investing in some business
 **liabilities
 --short term debt:
 if debt is more check cash in balance sheet and verify whether it is a long term debt or short term debt
-avoild companies with short term debt > longterm debt
+avoid companies with short term debt > longterm debt
 -if short term debt is high compared to longterm debt and no cash in balance sheet, the company has to sell its assets to 
 cover the short term debt.
 
