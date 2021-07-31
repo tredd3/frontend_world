@@ -103,7 +103,10 @@ Note: check last 10yrs balance sheet to find out
 if yes: inventory becomes obselete => write off or sell at discount => earnings take hit
 also cash gets locked in inventory => depriving firm of cash 
 cash conversion cycle -ve ?
-- if yes means cash is not locked in
+CCC = inventory days + recievable days - payable days 
+if inventory days are more then the store/company has to go for a clearance sale with low pices 
+if payable days are more CCC is -ve and also company gets to hold cash for a longer time reducing the need to take short term debt hence improving operating cashflows
+if recievable days are less => cash is not locked in
 inventory turnover = COGS/inventory , companies with DCA have very high inventory turnover
 
 --check if Accounts Receivable is significant compared to sales over the years:

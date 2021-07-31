@@ -11,6 +11,7 @@ Scalability − Kafka messaging system scales easily without down time.
 Durability − Kafka uses Distributed commit log which means messages persists on disk as fast as possible, hence it is durable..
 Performance − Kafka has high throughput for both publishing and subscribing messages. It maintains stable performance even many TB of messages are stored.
 
+
 What is a Messaging System?
 A Messaging System is responsible for transferring data from one application to another, so the applications can focus on data,
  but not worry about how to share it. 
@@ -25,28 +26,48 @@ In the publish-subscribe system, messages are persisted in a topic. Unlike point
 or more topic and consume all the messages in that topic.
 A real-life example is Dish TV, which publishes different channels like sports, movies, music, etc., and anyone can subscribe to their own set of channels
 
+
 Terminnology:
 -Topics: A stream of messages belonging to a particular category is called a topic. Data is stored in topics.
 Topics are split into partitions. Each such partition contains messages in an immutable ordered sequence.
  A partition is implemented as a set of segment files of equal sizes.
 -Partition: Topics may have many partitions
+A Kafka partition is a linearly ordered sequence of messages, where each message is identified by their index (called as offset)
 -Partition offset: Each partitioned message has a unique sequence id called as offset.
 -Replicas: backups of a partition. Replicas are never read or write data. They are used to prevent data loss.
 The id of the replica is same as the id of the server that hosts it.
--Broker: machine responsile for storing and  maintaining the pub-lished data
+-Broker: machine responsile for storing and  maintaining the pub-lished data in tpoics.It ensures the messages are equally
+ shared between partitions. If the producer sends two messages and there are two partitions, Kafka will store one message 
+ in the first partition and the second message in the second partition.
 Kafka brokers are stateless, so they use ZooKeeper for maintaining their cluster state.
 Kafka broker leader election can be done by ZooKeeper.
 -Kafka cluster: Kafka’s having more than one broker are called as Kafka cluster.
+All the data in a Kafka cluster is the disjointed union of partitions. Incoming messages are written at the end of a partition and
+ messages are sequentially read by consumers. Durability is provided by replicating messages to different brokers.
 -Distributed: each parition can exist on a different broker
 ZooKeeper: ZooKeeper is used for managing and coordinating Kafka broker. ZooKeeper service is mainly used to notify producer and
  consumer about the presence of any new broker in the Kafka system or failure of the broker in the Kafka system.
+ Kafka stores basic metadata in Zookeeper such as information about topics, brokers, consumer offsets (queue readers) and so on.\
+ Since all the critical information is stored in the Zookeeper and it normally replicates this data across its ensemble, 
+ failure of Kafka broker / Zookeeper does not affect the state of the Kafka cluster. Kafka will restore the state, 
+ once the Zookeeper restarts. This gives zero downtime for Kafka. The leader election between the Kafka broker is also done by using Zookeeper in the event of leader failure.
 -Producers: Producers are the publisher of messages to one or more Kafka topics. Producers send data to Kafka brokers. 
 Every time a producer pub-lishes a message to a broker, the broker simply appends the message to the last segment file. 
 Kafka producer doesn’t wait for acknowledgements from the broker and sends messages as fast as the broker can handle.
 Actually, the message will be appended to a partition. Producer can also send messages to a partition of their choice.
 -Consumers: Consumers subscribes to one or more topics and consume published messages by pulling data from the brokers.
+Since Kafka brokers are stateless, which means that the consumer has to maintain how many messages have been consumed by using partition offset.
+If the consumer acknowledges a particular message offset, it implies that the consumer has consumed all prior messages. 
+The consumer issues an asynchronous pull request to the broker to have a buffer of bytes ready to consume.
 -Leader: The node responsible for all reads and writes for the given partition. Every partition has one server/broker acting as a leader.
 -Follower: Node which follows leader instructions are called as follower. If the leader fails, one of the follower will
  automatically become the new leader. A follower acts as normal consumer, pulls messages and up-dates its own data store.
 
- 
+
+//Kafka messaging system types
+Kafka provides both pub-sub and queue based messaging system in a fast, reliable, persisted, fault-tolerance and zero downtime manner.
+In both cases, producers simply send the message to a topic and consumer can choose any one type of messaging system depending on
+their need. Let us follow the steps in the next section to understand how the consumer can choose the messaging system of their choice.
+
+https://www.tutorialspoint.com/apache_kafka/apache_kafka_workflow.htm
+

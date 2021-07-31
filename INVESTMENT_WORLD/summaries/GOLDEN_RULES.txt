@@ -32,6 +32,7 @@ Index: when both PE and Earnings are less, market_cap/GDP < 1
 Stocks: buy Great business at fair price instead of buying fair business at a wonderful price
 Seize the opportunity and play big if you get wonderful businesses at great price/undervalued price
 Always Invest in tranches bcoz we don't know if the market is gona fall further and we need to have capital to invest more
+Note: when a solid company delivers poor results, news about economy/sector degrowth can be buy oppurtunities for long term investors
 
 WHEN TO SELL: idea is to hold it forever to get compounding benefit, but in below scenarios we can think of selling securities
 Index: when both PE and Earnings are exceptionally high

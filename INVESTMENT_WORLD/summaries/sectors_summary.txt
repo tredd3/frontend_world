@@ -5,6 +5,10 @@ Note: MAJORITY I.e 75% of NIFTY sectors: Banking/Finance , Technology and Oil & 
 selecting a sector is always a top down approach
 sector comprises of many industries
 
+//FOCUS ON:
+medical device companies : generally have wide moats
+
+
 1)BANKING AND FINANCIAL SERVICES
 Industry: Banking
 cyclical - but behaves like hybrid of cyclical and defensive
@@ -85,10 +89,18 @@ product based: R&D costs
 MOAT: narrow moat with most of the the firms
 low entry barrier - high margins
 
-3)pharma - defensive
+3)HEALTHCARE - defensive
+Industry : hospitals, Pharma, biotech, medical devices, diagnosis centers, Health insurance
 globally competetive
 R&D heavy
-MOATS: Patent
+Drug development is costly, time consuming and no guarantee of success
+take Big margin of safety for Pharma companies with certain drugs making up large % of sales
+Drug companies whose products target wider audience or significant unmet needs - can make better margins
+focus on medical devices industry as it has wide economic moats
+Govt and regualatoty requirements can have deep impact on pricing power for the whole sector
+Health Insurance is not an attractive business bcoz of the rising healthcare costs can wipe out profits
+MOATS: 
+Patent validity
 
 4)FMCG - defensive - saviour in bear markets
 business modal: company - retailers/wholsellers/distributors - customers
@@ -138,12 +150,16 @@ no pricing power - price is globally decided
 Industry :Gas
 
 6)Power -Thermal/hydroelectric/renewable
+Capex heavy
+low margins, high debt
 
 7)Infra - cyclical
 
 8)Telecom
 heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
 capex heavy
+continous R&D needed
+high debt
 
 9)Agriculture
 
@@ -156,3 +172,20 @@ MOATS: low cost provider(high volumes)
 R&D heavy
 
 12)chemical
+
+13)Consumer services
+highly competetive sector - no pricing power hence thin margins
+low or no barriers to entry
+outperform during periods of economic strength and underperform during econoimic weakness
+industries: Restaurants(QSR,FSR), retailers(like walmart,Dmart, clothing companies)
+with both parents working QSR is increasingly becoming popular
+look for companies that provide quality, quick and low cost services
+Retailers with CCC -ve , i.e with less inventory and more payable days are bound to be strong
+recievable days are negligible for retailers as they collect cash from customers immediately
+speciality retaiers like Nike, Puma ,Decatholon have MOATS for short term
+only Moat: low cost supplier(economies of scale)
+Risk:
+changing consumer trends and firms need to match up to that
+most consumer services concepts fail in the long run, so if u made investment in a speculative growth stage of a company
+ then u need to continously monitor
+financials might be inflated bcoz lease amount is not recorded on the balance sheet
