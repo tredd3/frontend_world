@@ -59,6 +59,7 @@ it low then the firm suffers
 
 
 Industry: Asset management
+https://www.youtube.com/watch?v=P4wC2k0zBEg&t=135s
 revenue: % of recurring investments/SIPs
 major expense : compensation of managers
 keep an eye on operating expense
@@ -68,6 +69,7 @@ loss is beared by customer unlike bank and isnurance business
 MOAT check:
 market share (smaller firms find it difficult to sustain the competetion)
 more assets: total AUM YOY growth and absolute numbers compared to peers
+companies with higher % of equity assets gain more
 longterm solid track recored( required to attract investors)
 diversification of products(investment in multiple asset classes)
 diversification of investors
@@ -79,6 +81,8 @@ CAMS(back office work) - only profitable if it deals with scale - need to spend 
 RISK:
 extremely competetive industry - bcoz of high margins and economies of scale, lot of firms enter in to this business
 people might stop SIPs and invest directly in stocks
+new prodcut launches(like sector ETFs,international investing) from other firms can take away the prfoits - need to monitor
+SEBI regulates MFs and they cannot invest in certain asset classes beyond a fixed %
 
 Industry: capital markets : Depositories/Exchanges/Registrars etc
 
@@ -158,8 +162,10 @@ low margins, high debt
 8)Telecom
 heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
 capex heavy
-continous R&D needed
-high debt
+financial strength needed to continously improve network (hence generally have high debt)
+high fixed cost business (i.e during low demand where revenues can't suffice u need to pay from reserves or even take debt)
+highly competetive industry (i.e firms compete on price hence margins are thin)
+highly regulated industry (firms need to be flexible enough)
 
 9)Agriculture
 

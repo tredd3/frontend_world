@@ -1,2 +1,6 @@
 
 https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG - system design
+
+//building system and scale for millions of users
+https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d
+
