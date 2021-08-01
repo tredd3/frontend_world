@@ -17,6 +17,3 @@ react async rendering - time slicing + suspense (adapts to user's device and net
 //deal with streaming data and streaming events
 http://reactivex.io/documentation/operators/from.html
 https://rxjs.dev/api
-
-//building system and scale for millions of users
-https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d
