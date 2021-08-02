@@ -1,1 +1,7 @@
 
+Steps:
+1)features + MVP(minimum viable product with most imp features)
+2)estimation of scale - no of users/hits
+3)to calculate reads and writes per sec to db (based on scale)
+3)estimate storage - timestamp, content , ids and other metadata (based on scale)
+4)

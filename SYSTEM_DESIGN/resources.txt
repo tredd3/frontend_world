@@ -4,3 +4,4 @@ https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8l
 //building system and scale for millions of users
 https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d
 
+https://www.youtube.com/watch?v=hPoGyTrhzPE&t=40s&ab_channel=ScalerAcademy
