@@ -20,7 +20,7 @@ Do you need to make a highly complex app which utilizes a large portion of platf
 Does your app need to support new mobile OS features as soon as they are released?�Go native.
 *Flutter by google - develop applications for Android, iOS, Linux, Mac, Windows, and the web from a single codebase
 It uses the Dart programming language which is very similar syntactically to JavaScript.
-
+https://pixelplex.io/blog/pwa-react-native-flutter-native-app-development/
 
 //YARN vs NPM
 https://stackshare.io/stackups/npm-vs-yarn

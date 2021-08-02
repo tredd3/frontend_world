@@ -8,7 +8,8 @@ https://2ality.com/2015/01/es6-maps-sets.html
 //PWA
 https://www.youtube.com/watch?v=DfFlBWCQjzA&list=RDCMUCnUYZLuoy1rq1aVMwx4aTzw&start_radio=1&rv=DfFlBWCQjzA
 https://developers.google.com/web/progressive-web-apps/
-
+https://www.youtube.com/watch?v=DfFlBWCQjzA&ab_channel=GoogleChromeDevelopers
+https://www.simicart.com/blog/pwa-vs-react-native/#Use_cases_examples
 
 //push notifications�can appear anytime, in-app notifications�only appear while someone is using the�app
 //An iframe is used to display a web page within a web page.
