@@ -3,8 +3,11 @@ https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823
 https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5
 https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-universal-javascript-and-why-it-matters-38c07c87905
 https://medium.com/@yej.arin.choi/this-is-a-post-that-summarizes-my-dive-into-immutability-in-programming-what-it-is-why-its-34cbba44f889
-https://developers.google.com/web/progressive-web-apps/
 https://2ality.com/2015/01/es6-maps-sets.html
+
+//PWA
+https://www.youtube.com/watch?v=DfFlBWCQjzA&list=RDCMUCnUYZLuoy1rq1aVMwx4aTzw&start_radio=1&rv=DfFlBWCQjzA
+https://developers.google.com/web/progressive-web-apps/
 
 
 //push notifications�can appear anytime, in-app notifications�only appear while someone is using the�app
