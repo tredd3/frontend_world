@@ -181,6 +181,7 @@ Note:cost cutting shouldn't happen in ads, bcoz brand may disappear from people'
 there are countries which are in a growth spree and selling products in that area leads to double digit growth
 e.g: cococola has a single digit growth in US but in abroad it has double digit growth
 Economic Moats:
+large market share
 economies of scale(sell low cost product by spreading expenses on volumes)
 brand recognition by customers + market share
 strong distribution network(dedicated distributers even make it better)
@@ -285,3 +286,26 @@ Trust by large companies
 Note: preference - tech based > people based > hard asset based
 Look at the earnings growth rate expectations from PEG ration if it is unrealestic then wait for correction at realistic growth rate
 if not u can avoid the stock
+
+
+15)MEDIA - revolution in this sector
+Generate cash by producing and delivering messages to public
+Industry: publishing(newspaper,magazines,novels,books), broadcast(radio,audio(music,podcasts) and video(OTT platforms,movies, shows)),
+cable TV(less attractive bcoz satellite TV like Tata sky is taking over), entertainment(not attractive bcoz of one time user fee revenue model)
+Revenue Models: one time user fees(watch a new movie, novel, buy CD), subsriptions(cable,newspaper,magazines and OTT), advertisement model
+Best model: subsriptions (users pay for services that are delivered at much later date, hence reducing the reliance on outside capital)
+economies of scale(subsription based models have high fixed costs giving them significant operating leverage,
+ as companies gain market share,profit margins should increase) - avoid companies that need to do continuous CAPEX
+Advertisement model - Dont rely on advertisement companies as advertising is the first cost that companies cut during recession 
+Deregulations in this sector can help strong players become stronger
+MOATS:
+publishing and broadcasting (economies of scale by leveraging production equipment and distribution network)
+ hence companies in publishing and broadcasting industries continously look for acquistions to increase market share
+newspaper(monopolies)
+broadcasting(generate revenue via subscriptions and ads, they can only attract ads if they have a significant market share)
+intangible assets(brand names, licenses,trademarks,copyrights)
+Look for companies:
+monopolies or companies with huge market share
+generating free cash flows
+management wisely using free cashflows
+willing to make sensible acquistions(smaller acquistions instead of synergy)
