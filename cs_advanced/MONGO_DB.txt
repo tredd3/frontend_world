@@ -1,0 +1,90 @@
+https://docs.mongodb.com/manual/
+learn for free - https://university.mongodb.com/
+Nosql database - Document based
+MongoDB offers both a Community and an Enterprise version of the database:
+Community edision is free
+MongoDB Enterprise adds enterprise-focused features such as LDAP and Kerberos support, on-disk encryption, and auditing.
+
+
+Components:
+mongod - The database server.
+mongos - Sharding router.
+mongo - The database shell (uses interactive javascript).
+
+MongoDB Atlas Database:
+https://www.mongodb.com/cloud/atlas
+Cloud DBaaS for MongoDB
+The Easiest Way to Deploy, Operate, and Scale MongoDB in the Cloud in Just a Few Clicks.
+
+3 diff ways of accessing MongoDB
+terninal- https://docs.mongodb.com/manual/reference/mongo-shell/
+MongoDB Compass, the GUI for MongoDB
+program/code - need to use drivers in ur code to connect to DB server
+https://docs.mongodb.com/manual/applications/drivers/. Use the shell (mongo) for administrative tasks.
+
+
+Key Features:
+--High Performance
+Support for embedded data models reduces I/O activity on database system.
+Indexes support faster queries and can include keys from embedded documents and arrays.
+--Rich Query Language
+to support read and write operations (CRUD), Data Aggregation and Text Search 
+--High Availability: MongoDB's replication facility, called replica set, provides: automatic failover and data redundancy.
+A replica set is a group of MongoDB servers that maintain the same data set, providing redundancy and increasing data availability.
+--Horizontal Scalability(part of its core functionality)
+Sharding distributes data across a cluster of machines
+ MongoDB supports creating zones of data based on the shard key. In a balanced cluster, MongoDB directs reads and writes covered 
+ by a zone only to those shards inside the zone.
+--MongoDB supports multiple storage engines:
+WiredTiger Storage Engine (including support for Encryption at Rest)
+In-Memory Storage Engine.
+In addition, MongoDB provides pluggable storage engine API that allows third parties to develop storage engines for MongoDB.
+
+
+------concepts---------
+one Mongo server can tackle multiple databases and one can database stores one or more collections of documents.
+-Naming restrictions: 
+Database names cannot contain /\. "$ , case insensitive , length < 64 characters,
+
+
+------ Collections ------
+Collection names should begin with an underscore or a letter character, cannot contain ."$
+Collections are assigned an immutable UUID. The collection UUID remains the same across all members of a replica set and shards in a sharded cluster.
+
+
+----- Documents --------
+-MongoDB 5.0 adds improved support for field names that are ($) prefixed or that contain (.) characters,need to use helper methods
+ like $getField, $setField, and $literal in queries that access those fields as they are not directly accessible
+- MongoDB stores data records as BSON documents. BSON is a binary representation of JSON documents, though it contains more data types than JSON.
+-A record in MongoDB is a document, which is a data structure composed of field and value pairs
+-Field names are strings
+-The value of a field can be any of the BSON data types, including other documents, arrays, and arrays of documents.
+-The advantages of using documents are:
+Documents (i.e. objects) correspond to native data types in many programming languages.
+Embedded documents and arrays reduce need for expensive joins.
+Dynamic schema supports fluent polymorphism.
+-GridFS is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB.
+
+
+------ _id field (primary key)-------
+The field name _id is reserved for use as a primary key; its value must be unique in the collection, is immutable, and may 
+be of any type other than an array. If the _id contains subfields, the subfield names cannot begin with a ($) symbol.
+The _id field is always the first field in the documents. If the server receives a document that does not have the _id field first,
+ then the server will move the field to the beginning.
+if the client sends a document without an _id field, the mongod will add the _id field and generate the ObjectId.
+
+
+------ Imp commands ---------
+show dbs
+use db
+db.collection.find({}).pretty()
+db.getCollectionNames()//get all the collections present in a db
+db.getCollectionInfos() //to get all info about collections (like id , options passed and metadata) 
+db.collection.find({},{field1:1,field2:1,filed3:0})//filter out documents with certain fields and show only those fields in the documents in a collection
+field1:1 - you want field1 to be present in your filtered document and field3 not to be present
+db.collection.count() // does not perform the find() operation but instead counts and returns the number of results that match a query.
+db.collection.distinct(field, query, options)//returns the distinct values for a field from all documents that satisfy a query in the collection.
+e.g distinct values for the field sku, embedded in the item field, from the documents whose dept is equal to "A":
+db.inventory.distinct( "item.sku", { dept: "A" } )
+result: [ "111", "333" ]
+db.collection.aggregate(pipeline, options)// applies a pipeline of queries to the documents in a collection and returns a cursor
