@@ -36,7 +36,7 @@ good banks make sure that the duration of long term liabilities is same as that 
 Financials:
 Should have strong Capital base compared to peers(check balance sheet)
 operating costs and non-interest expense should less as a % of revenue
-ROE and ROA must be high (provided enough money is taken out as provisions)
+ROE and ROA must be high (provided provisions ~= GNPA )
 CASA,NIM - must be more
 higher CASA indicates current and saving account deposits are more compared to time deposits => low cost funds for banks =>high NIM
 NPA - must be less
@@ -117,12 +117,36 @@ SEBI regulates MFs and they cannot invest in certain asset classes beyond a fixe
 
 Industry: capital markets : Depositories/Exchanges/Registrars etc
 
-2)IT - defensive
-globally competetive
+
+2)IT - defensive - globally competetive - high margins
+highly competettive industry - low barriers to entry - high barriers to success
+less capital required to build a software
+like FMCG they generate a lot of cash
+Generally have clean balance sheets with Zero debt
+Excellent growth prospects bcoz businesses keep upgrading with latest software that can make business run smoothly and cut costs
 services based: no significant cost
 product based: R&D costs
-MOAT: narrow moat with most of the the firms
-low entry barrier - high margins
+Attractive segments: Security(antivirus, firewalls), IOT, AI, ML, BlockChain
+LOOK FOR:
+niche players like Adobe who has low competetion and strong Moats
+Economies of Scale(once a software is developed revenue from new customer goes to bottom line)
+company with Large customer base (that are Loyal to the company)
+Great management(especially that don't give away ESPOs easily)
+FINANCIALS:
+License revenue(new softwares sold) trend should be increasing in general and also as a % of sales
+Deffered revenue (cash recieved by the company even before service delivery) - indicated strong future revenues
+if License revenues and Deffered revenues are declining then company's business has started to slow down
+excellent track records in both the economy cycles (sales and profit margins)
+MOATS:
+narrow moat with most of the the firms
+high switching costs (most of the customers train their employees and they can't spend again and again)
+Network effect (certain products are used by large no of people)
+Brand Name (people don't buy random software due to security issues)
+RISK:
+today's winner can be tomorrow's loser if the competetitior can develop a better product at a better price
+don't invest blindly if u don't find a MOAT and not getting at a discount to intrinsic value(bcoz the pace at which technology is 
+growing it is difficult to predict how software firms look like in the future)
+
 
 3)HEALTHCARE - defensive
 Industry : hospitals, Pharma, biotech, medical devices, diagnosis centers, Health insurance
