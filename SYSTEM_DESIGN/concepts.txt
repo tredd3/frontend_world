@@ -4,4 +4,11 @@ Steps:
 2)estimation of scale - no of users/hits
 3)to calculate reads and writes per sec to db (based on scale)
 3)estimate storage - timestamp, content , ids and other metadata (based on scale)
-4)
+4)load balancing technique is generally consistent hashing to maintain a sticky connection
+5)cache is generally Redis for key value match property
+6)static assets like files, images, video, audio are stored in file system and their urls are stored in DB, Also put it in CDN high availability
+7)reading/writing to file system(hard disk) from RAM is  I/O operation
+8)if u need faster responses then either store the responses in a cache (i.e compromise on storage) or choose a efficient data structure 
+Or structure ur schema in a way that the algorithms/queries are faster
+9)For real time systems use web-sockets, use Graphl-Ql if u r concerned about bandwidth
+KAFKA key away a lot of pain and dirty work for real time(trading,chat systems)
