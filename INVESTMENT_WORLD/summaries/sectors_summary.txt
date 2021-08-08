@@ -226,12 +226,38 @@ highly regulated industry (firms need to be flexible enough)
 9)Agriculture
 
 10)commodities sector
-no pricing power
-cyclical - high volatility
-MOATS: low cost provider(high volumes)
+categories: Metals(Gold, silver, Steel,copper), Energy(Crude oil, Natural gas, Gasoline), Chemicals, Agri products, Sugar,Paper,
+Raw materials,now a days mobiles have also become commodities
+Business model: take raw materials => produce inputs and machinery => other firms will use it
+no pricing power - globally decided
+also buyers will choose based on price else commodities are the same product regardless of who makes them
+high fixed costs and have many hard assets(buildings,machinery,equipment)
+MOATS: 
+hgh entry barriers but low margins bcoz of zero pricing power
+low cost provider(with high sales volumes)
+high market share
+concentrated industries, where few players capture entire market share (like defense,nuclear) - where customer have no switching option
+Niche/differentiated products (like speciality chemicals)
+FINANCIALS:
+low debt (as this is a cyclical sector, during economic downturn firms can see huge losses if they have more debt)
+Asset turn over should be high for an excellent firm
+Risk:
+cyclical - high volatility 
+firms generally ntake debt to cover up the fixed costs during recession => interests eating up your profits
+if imports are cheaper then the frims get affected as well
+Always invest in bear markets and never in bull markets as the money might get stuck in for years
+Sub sector: industry materials
+Value added goods: electrical equipment, auto parts, speciality chemicals and heavy machinery(long business cycles)
+wide moats for: auto parts, speciality chemicals bcoz of patents and niche products
+Moat:
+Those who spend on technology not only for developing a product but also for improving manufacturing efficiency, cutting production costs
+R&D spending - for product innovation / product differentiation
+
 
 11)Automobile
-R&D heavy
+R&D heavy - need to do constant innovation
+Capex for manufacturing
+
 
 12)chemical
 
