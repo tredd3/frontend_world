@@ -71,6 +71,8 @@ e.g: exposing an internal web application to the public Internet
 The jump server acts as a single audit point for traffic and also a single place where user accounts can be managed
 make an SSH connection from the administrator's personal computer to the jump server and then use SSH forwarding to access the target machine.
 
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
 grep command is used to search for text strings or regular expressions within one or more files.
 The basic syntax of grep is:
 grep pattern target_file

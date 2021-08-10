@@ -104,5 +104,3 @@ note: When extracting files, you must provide their exact names including the pa
 tar -xf archive.tar.gz --wildcards '*.js' //wildcard formats
 tar -xvf archive.tar.gz // print the names of the files being extracted on the terminal
 
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/
-

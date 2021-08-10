@@ -4,7 +4,11 @@ Nosql database - Document based
 MongoDB offers both a Community and an Enterprise version of the database:
 Community edision is free
 MongoDB Enterprise adds enterprise-focused features such as LDAP and Kerberos support, on-disk encryption, and auditing.
-
+use cases: big data, real-time (bcoz of the strong consistency property when you read from primary)
+when you are reading from a secondary-replica MongoDB becomes Eventually Consistent.
+MongoDB gets high availability through Replica-Sets
+But during primary failover every write that was performed by the old primary, but not synchronized to the secondaries will be 
+rolled back and saved to a rollback-file -  gives importance to consistency over availability
 
 Components:
 mongod - The database server.
@@ -13,7 +17,7 @@ mongo - The database shell (uses interactive javascript).
 
 MongoDB Atlas Database:
 https://www.mongodb.com/cloud/atlas
-Cloud DBaaS for MongoDB
+Cloud DBaaS for MongoDB -  requires no installation overhead and offers a free tier to get started.
 The Easiest Way to Deploy, Operate, and Scale MongoDB in the Cloud in Just a Few Clicks.
 
 3 diff ways of accessing MongoDB
@@ -45,14 +49,10 @@ In addition, MongoDB provides pluggable storage engine API that allows third par
 one Mongo server can tackle multiple databases and one can database stores one or more collections of documents.
 -Naming restrictions: 
 Database names cannot contain /\. "$ , case insensitive , length < 64 characters,
-
-
------- Collections ------
+--- Collections ---
 Collection names should begin with an underscore or a letter character, cannot contain ."$
 Collections are assigned an immutable UUID. The collection UUID remains the same across all members of a replica set and shards in a sharded cluster.
-
-
------ Documents --------
+--- Documents ---
 -MongoDB 5.0 adds improved support for field names that are ($) prefixed or that contain (.) characters,need to use helper methods
  like $getField, $setField, and $literal in queries that access those fields as they are not directly accessible
 - MongoDB stores data records as BSON documents. BSON is a binary representation of JSON documents, though it contains more data types than JSON.
@@ -64,9 +64,7 @@ Documents (i.e. objects) correspond to native data types in many programming lan
 Embedded documents and arrays reduce need for expensive joins.
 Dynamic schema supports fluent polymorphism.
 -GridFS is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB.
-
-
------- _id field (primary key)-------
+--- _id field (primary key)--
 The field name _id is reserved for use as a primary key; its value must be unique in the collection, is immutable, and may 
 be of any type other than an array. If the _id contains subfields, the subfield names cannot begin with a ($) symbol.
 The _id field is always the first field in the documents. If the server receives a document that does not have the _id field first,
@@ -74,17 +72,20 @@ The _id field is always the first field in the documents. If the server receives
 if the client sends a document without an _id field, the mongod will add the _id field and generate the ObjectId.
 
 
------- Imp commands ---------
-show dbs
-use db
-db.collection.find({}).pretty()
-db.getCollectionNames()//get all the collections present in a db
-db.getCollectionInfos() //to get all info about collections (like id , options passed and metadata) 
-db.collection.find({},{field1:1,field2:1,filed3:0})//filter out documents with certain fields and show only those fields in the documents in a collection
-field1:1 - you want field1 to be present in your filtered document and field3 not to be present
-db.collection.count() // does not perform the find() operation but instead counts and returns the number of results that match a query.
-db.collection.distinct(field, query, options)//returns the distinct values for a field from all documents that satisfy a query in the collection.
-e.g distinct values for the field sku, embedded in the item field, from the documents whose dept is equal to "A":
-db.inventory.distinct( "item.sku", { dept: "A" } )
-result: [ "111", "333" ]
-db.collection.aggregate(pipeline, options)// applies a pipeline of queries to the documents in a collection and returns a cursor
+
+//Installation
+https://docs.mongodb.com/v5.0/tutorial/install-mongodb-on-os-x/
+The installation includes the following binaries in the same folder where mongo is installed: mongod server,
+ mongos(sharded cluster query router), mongosh(database shell that uses interactive javascript to interact with mongodb)
+you can use the mongo shell to query and update data as well as perform administrative operations.
+the installation creates the following files and directories at the location for mac
+configuration file - /usr/local/etc/mongod.conf
+log directory - /usr/local/var/log/mongodb
+data directory - /usr/local/var/mongodb
+To run MongoDB (i.e. the mongod process) as a macOS service(Recommended):
+start: brew services start mongodb-community@5.0
+stop: brew services stop mongodb-community@5.0
+To run MongoDB (i.e. the mongod process) manually as a background process, run:
+mongod --config /usr/local/etc/mongod.conf --fork
+To stop a mongod running as a background process, connect to the mongod using mongosh, and issue the shutdown command as needed.
+

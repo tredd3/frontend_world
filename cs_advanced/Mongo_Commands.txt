@@ -1,0 +1,25 @@
+------ Imp commands ---------
+cat ~/.dbshell - to get the history of commands
+mongo --help
+show dbs
+use db
+db.help() //methods and properties on db object
+show collections
+db.<collection>.help() //methods and properties on collection object
+db.collection.find({}).pretty()
+db.collection.find().help()
+db.collection.find(<query>).count()
+db.collection.count()
+show users
+show logs
+show roles
+db.getCollectionNames()//get all the collections present in a db
+db.getCollectionInfos() //to get all info about collections (like id , options passed and metadata) 
+db.collection.find({},{field1:1,field2:1,filed3:0})//filter out documents with certain fields and show only those fields in the documents in a collection
+field1:1 - you want field1 to be present in your filtered document and field3 not to be present
+db.collection.count() // does not perform the find() operation but instead counts and returns the number of results that match a query.
+db.collection.distinct(field, query, options)//returns the distinct values for a field from all documents that satisfy a query in the collection.
+e.g distinct values for the field sku, embedded in the item field, from the documents whose dept is equal to "A":
+db.inventory.distinct( "item.sku", { dept: "A" } )
+result: [ "111", "333" ]
+db.collection.aggregate(pipeline, options)// applies a pipeline of queries to the documents in a collection and returns a cursor
