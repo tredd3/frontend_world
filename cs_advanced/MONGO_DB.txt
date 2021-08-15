@@ -70,8 +70,9 @@ be of any type other than an array. If the _id contains subfields, the subfield 
 The _id field is always the first field in the documents. If the server receives a document that does not have the _id field first,
  then the server will move the field to the beginning.
 if the client sends a document without an _id field, the mongod will add the _id field and generate the ObjectId.
-
-
+//All write(insert/update/delete) operations in MongoDB are atomic on the level of a single document and not on a collection.
+atomicity means either all operations on a single document is done/suspended but cannot be partial
+if u want atomicity on all the documents while handling multiple documents, use multi document transactions
 
 //Installation
 https://docs.mongodb.com/v5.0/tutorial/install-mongodb-on-os-x/

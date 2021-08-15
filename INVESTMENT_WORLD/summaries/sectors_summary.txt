@@ -202,11 +202,10 @@ pricing power is questionable because middlemen like walmart and amazon have a h
 
 
 5)Energy
-Industry: petrol
+Industry: Crude oil, Natural gas, Gasoline
 heavily relies on imports
 no pricing power - price is globally decided
 
-Industry :Gas
 
 6)Power -Thermal/hydroelectric/renewable
 capex heavy
@@ -225,7 +224,8 @@ highly regulated industry (firms need to be flexible enough)
 
 9)Agriculture
 
-10)commodities sector
+10)industry materials
+--type1: commodities sector
 categories: Metals(Gold, silver, Steel,copper), Energy(Crude oil, Natural gas, Gasoline), Chemicals, Agri products, Sugar,Paper,
 Raw materials,now a days mobiles have also become commodities
 Business model: take raw materials => produce inputs and machinery => other firms will use it
@@ -234,32 +234,44 @@ also buyers will choose based on price else commodities are the same product reg
 high fixed costs and have many hard assets(buildings,machinery,equipment)
 MOATS: 
 hgh entry barriers but low margins bcoz of zero pricing power
-low cost provider(with high sales volumes)
-high market share
+low cost provider(with high sales volumes and low debt)
+high market share(but not at the cost of profitability of the firm)
 concentrated industries, where few players capture entire market share (like defense,nuclear) - where customer have no switching option
 Niche/differentiated products (like speciality chemicals)
+having/building products that cater to various industries
 FINANCIALS:
 low debt (as this is a cyclical sector, during economic downturn firms can see huge losses if they have more debt)
-Asset turn over should be high for an excellent firm
+Asset turn over should be high compared to peers, especially FATO-fixed asset turnover(sales/fixed_assets) as firms are mostly 
+depend on factories, large/heavy equipments to generate revenue
+CCC: inventory days and recievables days should be consistently low
+dividend paying stocks reward shareholders for holding stocks even during economy downturn
+generally these kind of firms have high operating leverage bcoz of fixed costs, but extremely high operating leverage => high debt
+during economy downturn to service fixed costs => share price take a hit as the earnings are used to repay loans/interests
+Red flags:
+D/E > 0.5, most important factor to look at as it can make the firm bankrupt
+chasing market share : market share increase is not an indicator of efficiency unless FATO,TATO improves and hence companies 
+should focus on profitability and not market share
+more acquistions : intergration charges will be high and dilution of shares
 Risk:
 cyclical - high volatility 
 firms generally ntake debt to cover up the fixed costs during recession => interests eating up your profits
 if imports are cheaper then the frims get affected as well
 Always invest in bear markets and never in bull markets as the money might get stuck in for years
-Sub sector: industry materials
+
+--type2: value-added goods/services
 Value added goods: electrical equipment, auto parts, speciality chemicals and heavy machinery(long business cycles)
 wide moats for: auto parts, speciality chemicals bcoz of patents and niche products
 Moat:
 Those who spend on technology not only for developing a product but also for improving manufacturing efficiency, cutting production costs
 R&D spending - for product innovation / product differentiation
 
+11)Utilities
 
-11)Automobile
+
+12)Automobile
 R&D heavy - need to do constant innovation
 Capex for manufacturing
 
-
-12)chemical
 
 13)Consumer services
 highly competetive sector - no pricing power hence thin margins
@@ -314,7 +326,7 @@ Look at the earnings growth rate expectations from PEG ration if it is unrealest
 if not u can avoid the stock
 
 
-15)MEDIA - revolution in this sector
+15)MEDIA - revolution happening in this sector
 Generate cash by producing and delivering messages to public
 Industry: publishing(newspaper,magazines,novels,books), broadcast(radio,audio(music,podcasts) and video(OTT platforms,movies, shows)),
 cable TV(less attractive bcoz satellite TV like Tata sky is taking over), entertainment(not attractive bcoz of one time user fee revenue model)
