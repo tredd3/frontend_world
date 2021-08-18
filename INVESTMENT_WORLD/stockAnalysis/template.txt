@@ -286,9 +286,12 @@ check cash_flow.txt
 
 
 *OPERATIONAL RATIOS:
-quick ratio:
+quick ratio: >1 and <2.5
 -important for manufacturing firms as lot of cash tends to be locked in the form of inventory
-current ratio >1 is preferred:
+current assets - inventory (inventory is removed bcoz it cannot be converted to cash immediately)
+current ratio >1 and <3 is preferred:
+current ratio > 3 is more dangerous than <1 
+if a company has current ratio > 3 means management is not using cash efficiently or inventory is too high or recievables are increasing(all are bad)
 but the importance of this ratio is high in deciding liquidity for avg companies but not so important for DCA companies, as 
  DCA companies often have current ratio < 1 and their earning power is so high that it doesn't matter
 Debt/Equity(keep in mind the industry - bank, energy, machinery ect have high debt): 

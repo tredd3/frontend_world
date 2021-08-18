@@ -72,14 +72,48 @@ SAML uses XML to send Messages | OAuth uses JSON
 SAML uses session cookie in a browser | OAuth uses API calls extensively 
 
 
-//kerberos -  computer-network authentication protocol
- The Kerberos protocol uses strong cryptography so that a client can prove its identity to a server
-(and vice versa) across an insecure network connection. After a client and server has used Kerberos 
-to prove their identity, they can also encrypt all of their communications.
+//kerberos -  Kerberos is an authentication protocol for trusted hosts on untrusted networks
+features:
+provides a single sign-on environment
+no password travel 
+no password storage in client machine 
+in the database password should be stored in encrypted format 
+Authentication information management is centralized and resides on the authentication server.No application server should maintain auth info
+Mutual authentication(the application servers must prove their authenticity to the client as well)
+After a client and server has used Kerberos to prove their identity, they can also encrypt all of their communications.
+
+Components:
+Realm:
+realm indicates an authentication administrative domain.Its intention is to establish the boundaries within which an 
+authentication server has the authority to authenticate a user, host or service.
+It is also good practice, in an organization, to make the realm name the same as the DNS domain (in upper case letters though).
+Basically, a user/service belongs to a realm if and only if he/it shares a secret (password/key) with the authentication server of that realm.
+Principal:
+A principal is the name used to refer to the entries in the authentication server database.
+A principal is associated with each user, host or service of a given realm.
+Users:
+pippo@EXAMPLE.COM
+admin/admin@EXAMPLE.COM  - admin is the user 
+Services: 
+Service/Hostname@REALM
+ftp/mbox.example.com@EXAMPLE.COM - specific serivice
+host/server.example.com@EXAMPLE.COM - generic access to the mahine
+Ticket:
+A ticket is something a client presents to an application server to demonstrate the authenticity of its identity.
+Tickets are issued by the authentication server and are encrypted using the secret key of the service they are intended for.
+Since this key is a secret shared only between the authentication server and the server providing the service,, not even the 
+client which requested the ticket can know it or change its contents. The main information contained in a ticket includes:
+The requesting user's principal (generally the username);
+The principal of the service it is intended for;
+The IP address of the client machine from which the ticket can be used. In Kerberos 5 this field is optional and may also be multiple in order to be able to run clients under NAT or multihomed.
+The date and time (in timestamp format) when the tickets validity commences;
+The ticket's maximum lifetime
+The session key (this has a fundamental role which is described below);
+
 
 Kerberos has three parts: a client, server, and trusted third party (KDC) to mediate between them. 
 Clients obtain tickets from the Kerberos Key Distribution Center (KDC), and they present these tickets
- to servers when connections are established. Kerberos tickets represent the client's credentials
+ to servers when connections are established. Kerberos tickets are made up of client and server principals combined
 
 //firewall(protection b/w networks) vs kerberos(protection b/w networks and also within the network)
 firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined 

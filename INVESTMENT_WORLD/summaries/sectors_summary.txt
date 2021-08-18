@@ -201,13 +201,27 @@ margins depend on middle class purchasing power
 pricing power is questionable because middlemen like walmart and amazon have a huge customer attraction and can decide pricing
 
 
-5)Energy
-Industry: Crude oil, Natural gas, Gasoline
-heavily relies on imports
-no pricing power - price is globally decided
+5)Energy - most countries including india heavily relies on imports
+Industry: Crude oil, Natural gas, Nuclear,Thermal,hydroelectric,wind,solar
+2/3 of world's energy needs are met by oil and gas
+large part of oil and gas reserves are present in middle east, hence the countries exporting oil/gas formed a group called OPEC
+OPEC artificaially inflates the price by co-ordinating and limiting supply, hence mainpulating the prices for the whole industry benefit
+Reason for OPEC power: non-OPEC reserves are less and depelete faster compared to OPEC countries
+no pricing power bcoz price is globally decided => biggest influencers of financial health
+high fixed costs(cost of taking oil from ground to refinery is fixed irrespective of oil price) + high price volatility => AVG/NO profits for many years
+Business model: upstream(exploration and drilling/extraction) => Downstream(pipelines/ships to carry to off shore refineries => service stations)
+few oil companies own certain parts in the chain whereas most of the companies own the entire value chain
+Industry: products/services to oil companies - drilling services,
+oil companies have high profitability primarily because of OPEC support which maintains the oil prices so that oil companies 
+are always profitable, but the oil services industry is highly competettive and no protectors, hence weak margins and low profitability
+Reason: when oil prices are high companies use these services to quickly take final product to market to reap the profits else 
+they wait for the prices to be normal which is not in their hands
+MOATS:
+oil company in countries part of OPEC
+company size and economies of scale(especially in the Downstream)
 
 
-6)Power -Thermal/hydroelectric/renewable
+6)Power -
 capex heavy
 huge fixed asset costs
 low margins, high debt
