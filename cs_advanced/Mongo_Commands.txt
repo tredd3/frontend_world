@@ -10,6 +10,7 @@ db.collection.find({}).pretty()
 db.collection.find().help()
 db.collection.find(<query>).count()
 db.collection.count()
+<database>.system.profile collection stores database profiling information like cpu,memory and disk utilisation
 show users
 show logs
 show roles

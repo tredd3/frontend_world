@@ -73,6 +73,11 @@ SAML uses session cookie in a browser | OAuth uses API calls extensively
 
 
 //kerberos -  Kerberos is an authentication protocol for trusted hosts on untrusted networks
+https://kerberos.org/software/tutorial.html
+firewall(protection b/w networks) vs kerberos(protection b/w networks and also within the network)
+firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined 
+security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+
 features:
 provides a single sign-on environment
 no password travel 
@@ -83,41 +88,108 @@ Mutual authentication(the application servers must prove their authenticity to t
 After a client and server has used Kerberos to prove their identity, they can also encrypt all of their communications.
 
 Components:
-Realm:
+//Realm:
 realm indicates an authentication administrative domain.Its intention is to establish the boundaries within which an 
 authentication server has the authority to authenticate a user, host or service.
 It is also good practice, in an organization, to make the realm name the same as the DNS domain (in upper case letters though).
 Basically, a user/service belongs to a realm if and only if he/it shares a secret (password/key) with the authentication server of that realm.
-Principal:
+//Principal:
 A principal is the name used to refer to the entries in the authentication server database.
 A principal is associated with each user, host or service of a given realm.
-Users:
+//Users:
 pippo@EXAMPLE.COM
 admin/admin@EXAMPLE.COM  - admin is the user 
 Services: 
 Service/Hostname@REALM
 ftp/mbox.example.com@EXAMPLE.COM - specific serivice
 host/server.example.com@EXAMPLE.COM - generic access to the mahine
-Ticket:
+//Ticket:
 A ticket is something a client presents to an application server to demonstrate the authenticity of its identity.
 Tickets are issued by the authentication server and are encrypted using the secret key of the service they are intended for.
-Since this key is a secret shared only between the authentication server and the server providing the service,, not even the 
+Since this key is a secret shared only between the authentication server and the server providing the service not even the 
 client which requested the ticket can know it or change its contents. The main information contained in a ticket includes:
-The requesting user's principal (generally the username);
-The principal of the service it is intended for;
-The IP address of the client machine from which the ticket can be used. In Kerberos 5 this field is optional and may also be multiple in order to be able to run clients under NAT or multihomed.
-The date and time (in timestamp format) when the tickets validity commences;
-The ticket's maximum lifetime
-The session key (this has a fundamental role which is described below);
+  The requesting user's principal (generally the username);
+  The principal of the service it is intended for;
+  The IP address of the client machine from which the ticket can be used. In Kerberos 5 this field is optional and may also be multiple in order to be able to run clients under NAT or multihomed.
+  The date and time (in timestamp format) when the tickets validity commences;
+  The ticket's maximum lifetime
+  The session key (this has a fundamental role which is described below);
+//Encryption:
+Kerberos often needs to encrypt and decrypt the messages (tickets and authenticators) passing between the various participants in the authentication
+Encryption type: kerberos uses an encrypted type which is supported by most of the OS
+Encryption key: for user it is generated using realm and unencrypted password
+ Kpippo = string2key ( Ppippo + "pippo@EXAMPLE.COM" )
+ Kpippo is the encryption key of the user pippo and Ppippo is the unencrypted password of the user.
+ for servers, key is generated and set by the administrator in the KDC
+//Key Distribution Center (KDC):
+ it resides entirely on a single physical server (it often coincides with a single process) it can be logically considered divided 
+ into three parts: Database, Authentication Server (AS) and Ticket Granting Server (TGS).
+The database is the container for entries associated with users and services.
+/Each entry contains the following information:
+  The principal to which the entry is associated;
+  The encryption key(secret key) and related kvno;
+  The maximum validity duration for a ticket associated to the principal;
+  The maximum time a ticket associated to the principal may be renewed (only Kerberos 5);
+  The attributes or flags characterizing the behavior of the tickets;
+  The password expiration date;
+  The expiration date of the principal, after which no tickets will be issued.
+In order to make it more difficult to steal the keys present in the database, the implementations encrypt the database using the master key,
+/The Authentication Server is the part of the KDC which replies to the initial authentication request from the client, when the user,
+ not yet authenticated, must enter the password. In response to an authentication request, the AS issues a special ticket known as
+the Ticket Granting Ticket, or more briefly TGT, the principal associated with which is krbtgt/REALM@REALM. If the users are 
+actually who they say they are they can use the TGT to obtain other service tickets, without having to re-enter their password.
+/The Ticket Granting Server is the KDC component which distributes service tickets to clients with a valid TGT
+//Session keys - randomly generated by authentication server of KDC
+Encryption keys are called long term, since they do not change when the work session changes.
+Encryption key is between among users/servers and KDC
+However, it is necessary that the user also shares a secret with the service, at least for the time in which a client has a work 
+session open on a server: this key, generated by the KDC when a ticket is issued, is called the Session Key.
+application server knows the long term key and can decode it and extract the session key from the Ticket
+while the copy intended for the user is encapsulated in an encrypted packet with the user long term key.
+//Authenticator
+in a open and insecure network, others can capture the ticket and falsifly the ip address hence along with the ticket we need additional layer of protection
+ Thus the following strategy is applied: 
+ along with the request containing the ticket, the client adds another packet (the authenticator) where the user principal and 
+ time stamp (its at that time) are included and encrypts it with the session key;
+the server which must offer the service, upon receiving this request, unpacks the first ticket, extracts the session key and,
+if the user is actually who he/she says, the server is able to unencrypt the authenticator extracting the timestamp. 
+If the latter differs from the server time by less than 2 minutes (but the tolerance can be configured) then the authentication is successful. 
+//Replay Cache
+ In application servers (but also in TGS), there exists the capacity to remember authenticators which have arrived within the last 2 minutes, and to reject them if they are replicas.
+ This to counter the possibility possibility that hacker can steal both the ticket and the authenticator and use them during the 2 minutes the authenticator is valid. 
+ downside: if the hacker with ticket and authentcator connects first before the authentic person then the authentic person access would be rejected
+// Credential Cache
+to implement the single sign-on (SSO) characteristic, where the user is asked to enter the password just once per work session,
+it is necessary to memorise the tickets(TGT) and related session key. The place where this data is stored is called the "Credential Cache". 
+ Where this cache needs to be located does not depend on the protocol, but varies from one implementation to another
+ Often for portability purposes they are located in the filesystem (MIT and Heimdal)
 
+//Kerberos Operation
+https://kerberos.org/software/tutorial.html - detailed explaination
+it is important to underline that an application server never communicates directly with the Key Distribution Center: the service 
+tickets, even if packeted by TGS, reach the service only through the client wishing to access them.
+AS_REQ is the initial user authentication request (i.e. made with kinit) This message is directed to the KDC component known as Authentication Server (AS);
+AS_REP is the reply of the Authentication Server to the previous request. Basically it contains the TGT (encrypted using the TGS secret key) and the session key (encrypted using the secret key of the requesting user);
+TGS_REQ is the request from the client to the Ticket Granting Server (TGS) for a service ticket. This packet includes the TGT obtained from the previous message and an authenticator generated by the client and encrypted with the session key;
+TGS_REP is the reply of the Ticket Granting Server to the previous request. Located inside is the requested service ticket (encrypted with the secret key of the service) and a service session key generated by TGS and encrypted using the previous session key generated by the AS;
+AP_REQ is the request that the client sends to an application server to access a service. The components are the service ticket obtained from TGS with the previous reply and an authenticator again generated by the client, but this time encrypted using the service session key (generated by TGS);
+AP_REP is the reply that the application server gives to the client to prove it really is the server the client is expecting. This packet is not always requested. The client requests the server for it only when mutual authentication is necessary.
 
-Kerberos has three parts: a client, server, and trusted third party (KDC) to mediate between them. 
-Clients obtain tickets from the Kerberos Key Distribution Center (KDC), and they present these tickets
- to servers when connections are established. Kerberos tickets are made up of client and server principals combined
-
-//firewall(protection b/w networks) vs kerberos(protection b/w networks and also within the network)
-firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined 
-security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+//important commands
+https://web.mit.edu/kerberos/www/krb5-latest/doc/user/user_commands/index.html
+kinit --help //to get tickets for services
+klist -h //lists the Kerberos principal and Kerberos tickets held in a credentials cache, or the keys held in a keytab file.
+/etc/krb5/krb5. keytab 
+A keytab is a file containing pairs of Kerberos principals and encrypted keys (which are derived from the Kerberos password).
+You can use a keytab file to authenticate to various remote systems using Kerberos without entering a password. 
+ Keytab files are commonly used to allow scripts to automatically authenticate using Kerberos, without requiring human interaction or access to password stored in a plain-text file.
+However, when you change your Kerberos password, you will need to recreate all your keytabs.
+The script is then able to use the acquired credentials to access files stored on a remote system.
+kinit username@AREALM -k -t mykeytab; myscript
+The keytab file is independent of the computer it's created on, its filename, and its location in the file system. 
+Once it's created, you can rename it, move it to another location on the same computer, or move it to another Kerberos computer, 
+and it will still function. The keytab file is a binary file, so be sure to transfer it in a way that does not corrupt it.
 
 
 //Passport is authentication middleware for Node.js.
+Node doesn't support kerberos but Ngnix does
