@@ -1,0 +1,14 @@
+distributed - full text - search engine
+developed in java by Apache - open source
+full text search - sql is not meant for full text search on raw data
+ELK stack - Elasticsearch, Logstash, Kibana
+provides Http interface and stores data in schema free json documnets
+operates on unstuctured data like log files , message files. it converts these files in to internal documents
+/Logstash ingests unstructured data from log files and other sources and converts it into a structured format for Elasticsearch 
+storage and search functionalities.
+/Kibana - Kibana(UI interface) helps in Searching, viewing, and visualizing data indexed in Elasticsearch and analyzing 
+the data through the creation of bar charts, pie charts, tables, histograms, and maps.
+sql(fast) vs elastic search speed (super fast)
+use cases:
+Autocomplete(type in the input and u get options), instant search
+implemet analytics

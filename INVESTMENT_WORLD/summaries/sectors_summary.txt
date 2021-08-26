@@ -148,9 +148,9 @@ don't invest blindly if u don't find a MOAT and not getting at a discount to int
 growing it is difficult to predict how software firms look like in the future)
 
 
-3)HEALTHCARE - defensive
+3)HEALTHCARE - defensive - globally competetive
 Industry : hospitals, Pharma, biotech, medical devices, diagnosis centers, Health insurance
-globally competetive
+wide economic moated industries - pharma(bcoz of patents), medical devices(bcoz of switching costs)
 R&D heavy
 Drug development is costly, time consuming and no guarantee of success
 take Big margin of safety for Pharma companies with certain drugs making up large % of sales
@@ -159,7 +159,10 @@ focus on medical devices industry as it has wide economic moats
 Govt and regualatoty requirements can have deep impact on pricing power for the whole sector
 Health Insurance is not an attractive business bcoz of the rising healthcare costs can wipe out profits
 MOATS: 
-Patent validity
+Patent validity/protection
+significant product differentiation
+Economies of scale
+
 
 4)FMCG - defensive - saviour in bear markets
 business modal: company - retailers/wholsellers/distributors - customers
@@ -225,7 +228,8 @@ for commodity industry - economies of scale Moat is a must(especially in the Dow
 upstream is dependent on geology and geography of company's reserves - difficult to keep cost down here but if a company does that it will have an excellent moat
 high ROIC and profits compared to peers
 Look For:
-good financial track record for integrated oil companies in both boom and burst years
+Integrated oil companies with good financial track record in both boom and burst years OR companies who only does upstream operations
+e.g: IOL(integrated company), ONGC (only upstream company)
 high fixed costs and cyclical sector hence D/E < 1 is preferred to sail through burst years
 oil reserves growth or capacity wrt peers(future profit for the firms)
 reserve replacement ratio > 1 , i.e company has found more than what it is extracting => reserves are increasing
@@ -243,11 +247,12 @@ Industry: electricity, water
 highly regulated sector with constant demand hence it fetches guaranteed but low fixed income(i.e steady cashflows)
 highly competetive(low margins) - commodity industry(no pricing power) - high fixed costs(high debt if market share is low)
 electricity - generation, tranmission and distribution
-generation - input:coal/gas/uranium/sunlinght/wind/water output:electricity, deregulated, low enetry barriers, low margins because of competettion
-transmission - trasporatation of electricity from generation plants to grids via wires, regulated, high entry barriers, even though they 
+/Generation - input:coal/gas/uranium/sunlinght/wind/water output:electricity, deregulated, low enetry barriers, low margins because of competettion
+high operating leverage(high fixed costs, only fuel is the variable cost)
+/Transmission - trasporatation of electricity from generation plants to grids via wires, regulated, high entry barriers, even though they 
 operate as monopolies, still have low margins bcoz of rates regualtion
 Note: wireless transmission is a game changer in this industry but is difficult to acheieve as well but not impossible
-distribution - transmit power from grids to homes/businesses , wide moats bcoz of monopolies but low margins bcoz of regualtion
+/Distribution - transmit power from grids to homes/businesses , wide moats bcoz of monopolies but low margins bcoz of regualtion
 interms of wide Moats distribution > transmission > generation
 Regulations:
 state govt regulates structure,costs,competettion of the companies => regulation means low and steady margins
@@ -258,7 +263,6 @@ Note: Regulated companies are safe heavens, deregulation is positive interms of 
 considering its a commodity industry with low entry barriers
 Financials:
 even though financial are positive they are very less making it less attractive for investors
-high operating leverage(high fixed costs, only fuel is the variable cost)
 Don't invest assuming that steady cash flow yields dividends bcoz most companies have high debt
 high debt for most companies => all the steady cashflows are used in interest payment
 if dividend yield is ridiculosly high => stock price is falling and company is in trouble
