@@ -18,6 +18,13 @@ remotely: git push origin -d <branch_name>
 both locally and remotely at a time: git branch -D <branch_name>
 
 
-//rveret commits
+//revert commits
  git reset --soft HEAD~1 - undo the last commit by preserving the changes
  git reset --hard HEAD~1 - undo the last commit and discard all changes in the working directory 
+
+//merging
+https://git-scm.com/docs/merge-strategies
+lets say u want to override code in master with changes in refactoring_branch
+git pull (fetches and merges the remote branches with local branches)
+git checkout master
+git merge -X theirs <refactoring_branch> 

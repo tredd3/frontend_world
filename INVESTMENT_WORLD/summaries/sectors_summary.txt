@@ -6,7 +6,11 @@ selecting a sector is always a top down approach
 sector comprises of many industries
 
 //FOCUS ON:
-medical device companies : generally have wide moats
+Below are the sectors where companies can have wider moats and are highly profitable in the long run
+AMC
+Business services - tech based
+Healthcare
+media/communications
 
 
 1)BANKING AND FINANCIAL SERVICES
@@ -91,6 +95,8 @@ it low then the firm suffers
 
 Industry: Asset management
 https://www.youtube.com/watch?v=P4wC2k0zBEg&t=135s
+https://en.wikipedia.org/wiki/Mutual_funds_in_India
+https://groww.in/mutual-funds/filter - look for all the types of products for a given mutual fund y selecting filters
 revenue: % of recurring investments/SIPs
 major expense : compensation of managers
 keep an eye on operating expense
@@ -151,17 +157,58 @@ growing it is difficult to predict how software firms look like in the future)
 3)HEALTHCARE - defensive - globally competetive
 Industry : hospitals, Pharma, biotech, medical devices, diagnosis centers, Health insurance
 wide economic moated industries - pharma(bcoz of patents), medical devices(bcoz of switching costs)
-R&D heavy
-Drug development is costly, time consuming and no guarantee of success
-take Big margin of safety for Pharma companies with certain drugs making up large % of sales
-Drug companies whose products target wider audience or significant unmet needs - can make better margins
-focus on medical devices industry as it has wide economic moats
-Govt and regualatoty requirements can have deep impact on pricing power for the whole sector
-Health Insurance is not an attractive business bcoz of the rising healthcare costs can wipe out profits
+//2 types of drug companies - generic(copy cats producing drugs at low prices in high volumes) and branded(innovators and patent holder)
+Note: ironically generic drug companies are gaining popularity as they bring down healthcare costs significantly
+drug development process:
+- preclinical testing(on animals)
+- human clinical trials - phae 1, 2 and 3
+- once phase 3 trial is successful then the company files application with all the regualtory bodies in the world
+- fate of the drug is literally in the hands of Regulatory authorities
+/if rejected then it back to starting point figuring out what went wrong and fixing them and going through the whole testing 
+and approval process again which might take years
+/if accepted : company enjoys monopoly for that particular drug for about 20 yrs but as the patent is filed as soon as the 
+drug/chemical compound is identified, 8-10 yrs is eaten up during testing and approval years
+-once the patent is expired drug now becomes generic which means other generic drug companies copy the composition, manufacture it
+ and sell them at extremely low prices affecting the parent company which innopvated the product
+//Biotech firm: this industry runs on probability and luck
+discover drugs using cellular and molecular process rather than chemical process(like pharma companies)
+high risk, requires lot of luck and expertise - better to avoid
+//Medical devices firm:
+catering to old population (cardiac and orthopedic surgeries)
+patent protection for instruments/devices
+having high switching costs(both in terms of surgeons training and costs to hospital managment) and 
+long term clinical histories - acts as barriers for new entrants
+pricing power as the costs are covered by insurance companies(devices firms comfortably increases price every year)
+low regulatory risk: improvements in devices industry is evolutionary, meaning next product verions are made better than previous 
+products, unlike in phama where improvements are revolutionary, meaning a completely new drug can replace the exisiting drugs
+orthopedic devices has high switching costs but cardiac devices has low switching costs, hence companies has to spend a good amount 
+on R&D to come up with a new product ans stay in the competetion.
+PS: product innovation and diversification is must for these companies
+//Health Insurance/Managed care:
+intense regulatory pressure
+it is not an attractive business bcoz of the rising healthcare costs can wipe out profits
+2 types of operations: risk based(underwriting medical insurance for premiums), fee based(monitoring, claims processings etc)
+fee based busniess is more predicatable and profitable bcoz rising healthcare costs are taken up by employers
+limited exposure to govt funded programs is preferred because govt doesn't increase reimbursements inline with healthcare costs
 MOATS: 
-Patent validity/protection
+high entry barriers - it takes several years for developing a product through R&D, involving high startup costs and regulatory approval
+ also physicians always prefer medicines/medical devices with proven track record 
+Patent validity/protection - there is no competettion for price and mostly health insurance covers the costs so price 
+ is also high and end customers don't care about it
 significant product differentiation
 Economies of scale
+strong sales/marketting capabilities i.e tieups with physicians
+Risks:
+R&D heavy - Drug development is costly, time consuming(like 5-10 yrs) and no guarantee of success
+Govt and regualatoty requirements can have deep impact on pricing power for the whole sector
+Look for:
+drugs with increasing sales growth(and having high potential catering to wider audience like sugar,bp, cancer,cholestral and heart related etc)
+look for pharma companies with a pipeline of drugs in the clinical trials
+high patent validity of drugs - if validity is less then 1 and 3 points are must
+high acceptency rates with the regulators
+Drug companies whose products target wider audience or significant unmet needs - can make better margins compared to niche products
+
+Note: take Big margin of safety for Pharma companies with certain drugs making up large % of sales
 
 
 4)FMCG - defensive - saviour in bear markets
