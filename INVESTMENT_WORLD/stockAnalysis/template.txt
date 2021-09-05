@@ -1,9 +1,11 @@
 Company name : sector/main business
 //summary section
 Resources to know the business : 
-company filings(investor presentation, annual report, conference calls)
-screener summary
+company filings(investor presentation, annual report, conference calls) from tijori
+screener summary, crisil ratings and analysis at the end of the page
+check tickertape, morning star, moneycontrol for summary and confirmation
 check misc_negative.txt
+https://www.valueresearchstocks.com/recos-current
 
 **STRENGTH
 MOAT/competitive advantage?

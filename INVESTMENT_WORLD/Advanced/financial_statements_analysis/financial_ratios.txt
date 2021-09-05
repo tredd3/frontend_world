@@ -7,6 +7,14 @@ PE > 20 -  check if growth is fast and PEG < 1.3
 every sector has a different PE, also PE numbers can be misleading due to earnings 
 If a company’s PE is more that means investor is paying premium bcoz it’s a high growth industry and assuming that potential earnings growth will be more
 All B2C companies should be valued based on PE (FMCG) and not on PB
+PE is specific to sector so always compare stocks within the sector
+problems with PE:
+-earnings can be manipulated by management so don't forget to (look at cashflow and income statement to figure it out)
+-PE doesn't consider future earnings it only considers past earnings - but investors invest in future (look at PEG)
+-even in past earnings, quality of earnings is not reflected, i.e by looking at PE we don't know whether the earnings are from
+ sales and internal accruals/debt (look at price/free cashflow or price/cashflow as cashflow cannot be manipulated)
+price/FCF: price per share/free cash flow generated per share
+-cyclical companies PE is low so this can be misleading
 **How to know whether this premium is justified? 
 PEG=PE/expected annual EPS growth rate(Growth in net profit/net income/free cash flow for past 10 yrs)
 PEG =1 fairlyvalued

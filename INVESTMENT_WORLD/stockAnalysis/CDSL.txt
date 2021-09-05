@@ -1,0 +1,32 @@
+why CDSL?
+strong competettive advantage(duopoly)
+entry barriers: license cost, switching cost, high operating leverage(high fixed costs)
+toll tax kind of business (asset lite business)
+gaining market share in the deopsitory space
+It has a large digital infrastructure of huge databases - which can be used for multiple purposes and not restricted to capital markets
+
+
+//CDSL VS NSDL
+CDSL tariff based on slab system, NSDL has a fixed structure
+CDSL has centralised server model, NSDL needs server on premise
+DP account setup costs less in CDSL
+CDSL focuses on everyone including retail, NSDL focuses on bank based brokers and institutional clients
+
+
+//growth oppurtunities
+only 3% of indians have demat accounts which is expected to grow in future => new revenue stream for CDSL
+unlisted companies are huge and they  eventually get listed => new revenue stream for CDSL
+from subsidaries :
+1)CDSL ventures limited - largest KYC registration agency in india, GST suvidha provider, Registrar and Transfer agent to corporates
+reusing and library business
+2)CDSL insurance repository limited - all insurance policies can be held and monitored using a single accpunt
+3)CDSL commodity repository - storing warhouse reciepts in electronic format(useful for farmers and easy for banks to process loans)
+
+
+//financials
+Revenue sources:
+ML - market linked
+NML - not linked to market
+1) companies need to pay :ipo and corporate action charges(ML), custodian charges(NML), e-voting charges(NML)
+2) retail investors: security transaction charges paid via DPs(ML), KYC and e-KYC charges( ML), consolidated account statement 
+disbursion charges(NML)
