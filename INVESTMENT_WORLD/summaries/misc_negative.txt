@@ -17,16 +17,18 @@ Overconfidence bias - investing more and more when u gain significant gains with
 5.not adapting to change - like ev vehicles for auto sector, 5G tech for telecom, latest innovations in electronics latest innovations in electronics
 6.costly acquisitions
 
-**companies to AVOID
-1.CONTINOUSLY needs to do capex to stay in business like telecom companies
-2.CONTINOUSLY needs to R&D to stay in business like electronics, auto and pharma industries
+
+** companies to AVOID
+1.CONTINOUSLY needs to do capex to stay in business like infra comapnies (telecom, energy)
+2.CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma industries
 3.companies that have huge debt or need to take debt CONTINOUSLY to survive 
 bcoz it will eat away profits => EPS decreases => share price decreases
 and also company has to pay interest even if it is in loss => assets needs to be sold => bankruptcy
 4.Avoid industries where are highly competetive and no compnay has a DCA like auto industries - as 
-now company can make profits due to zero pricing power
+no company can make profits due to zero pricing power
 
-**manipulating income statement and earnings 
+
+** Manipulating income statement and earnings 
 significant increase in other/one-time income
 investment income can boost net income - be careful with that
 paying variable tax rate 

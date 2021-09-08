@@ -9,14 +9,33 @@ management focus on statying in the business rather than financials by increasin
 structural changes like giving autonomy to e-commerce team, consisting of young people so that they can take qucik calls
 and acquiring lateral talent to build capabilities in the Company to build the organization for the future
 Technology transformation:  like IT, sales and marketing automation, manufacturing automation , R&D etc will be driven by new 
-recruits in the senior management team , these are from very reputed organizations.
+ recruits in the senior management team , these are from very reputed organizations.
+Also Dabur makes sure that Ayurvedic Products are still relevant to current generation by doing lot of innovation and building
+ products as per their taste, needs and current trend
+By increasing the localization of manufacturing and supply chain, and focusing on digitization and process automation the 
+ business is reducing costs and increasing its efficiency and flexibility to access the local markets.
 
+//Strengths:
+Strong position in India’s FMCG industry
+Healthy financial risk profile - Rs 5,000 crore of cash and equivalent and marketable securities 
+
+//Weakness:
+The company faces competition from players in organised and unorganised sectors. Because of the growing popularity of herbal and 
+ natural products, other established FMCG players are launching similar products, putting pressure on the company’s market position
+ and operating efficiency.
+
+//-ve factors to be monitored :
+Erosion in market share in key business segments, leading to lower cash accrual
+Large, debt-funded capex or acquisition weakening the financial risk profile
 
 //growth oppurtunities
 increase in product portfolio
 market share gain in honey and hair oil
 new manufacturing unit in indore => produce Ayurvedic products for the domestic market
 upcomong wholly owned subsidiary in India => manufacture Consumer Care products, primarily for exports
+currently as international business is concerned Dabur has been following a localized supply chain policy in the overseas markets, 
+ having established manufacturing bases across the globe to develop and manufacture a range of products catering to the needs and
+ preferences of the local populace. 
 contract manufacturing - to capture the oppurtunity of high demand in certain times (flexible and cost cutting)
 
 
@@ -25,7 +44,8 @@ samriddhi project - save costs and put them back in to business, improving opera
 low price products for rural areas and premiumised products for e-commerce and modern trade => maintaining consistent OPM
 
 
-//Annual report FY21
+//Annual report FY21 - No change in nature of business 
+manufacturing facilities spread across 12 locations in India and 8 overseas, brand presence in over 100 countries across the globe.
 Our goal remains to drive revenue growth and increase market share across categories while maintaining our operating margins.
 protection of products by having 45 Patents till date and other IPs (trademark, copyright and trade secret protection etc)
 stringent quality check on raw materials and finished products
@@ -44,3 +64,18 @@ New Products developed for global markets and continous R&D investment across th
 continous innovation on existing power brands to make them contemporary and relevant for the consumers
 Induction of new technology and use of digital tools in research and development.
 To remain innovative, Dabur maintains long standing and strategic partnerships with various universities across the globe
+
+
+//Next Annual report 
+see all the newly launched products growth, extra market share captured
+ Home Care, Food & Beverages declined in the previous year (should increase this year if not look at FY 20 AR for numbers)
+-ve: look at advertisement spend and also current FY sales > previous FY sales + Advertisement (if no then look at he trend to know
+ whether it has happened for this year or it has been repeating over the years)
+it undeperformed NIFTY and SENSEX last year - any improvement ?
+FPIs held around 20% shares last YR
+Last year 361457 equity shares of Re.1/- each were allotted under ESOP scheme
+company has direct and indirect tax litigations of around 500 cr - check on the progress and the amount involved
+one time income was 20% of net profit(as investments are major part of assets) - now should be less?
+acquistion heavy especially in the overseas, keep an eye on the overseas business and subsidaries performance
+ also standalone statements should also be good along with consolidated statements
+subsidaries contribution last yr:  total revenues of 2,846.96 crores and net cash inflows amounting to 73.03
