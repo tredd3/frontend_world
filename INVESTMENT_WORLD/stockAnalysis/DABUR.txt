@@ -15,18 +15,6 @@ Also Dabur makes sure that Ayurvedic Products are still relevant to current gene
 By increasing the localization of manufacturing and supply chain, and focusing on digitization and process automation the 
  business is reducing costs and increasing its efficiency and flexibility to access the local markets.
 
-//Strengths:
-Strong position in India’s FMCG industry
-Healthy financial risk profile - Rs 5,000 crore of cash and equivalent and marketable securities 
-
-//Weakness:
-The company faces competition from players in organised and unorganised sectors. Because of the growing popularity of herbal and 
- natural products, other established FMCG players are launching similar products, putting pressure on the company’s market position
- and operating efficiency.
-
-//-ve factors to be monitored :
-Erosion in market share in key business segments, leading to lower cash accrual
-Large, debt-funded capex or acquisition weakening the financial risk profile
 
 //growth oppurtunities
 increase in product portfolio
@@ -42,7 +30,14 @@ contract manufacturing - to capture the oppurtunity of high demand in certain ti
 //financial
 samriddhi project - save costs and put them back in to business, improving operating profit margins
 low price products for rural areas and premiumised products for e-commerce and modern trade => maintaining consistent OPM
-
+almost equal returns as nifty in the last 10yrs till 2021
+continous dividend payment till 2021
+goodwill is 3% of total assets
+other income is the interest from investments
+CFO and net profit is almost same, meaning net profit is not manipulated and is being generated in to cash
+net profit is growing at a very slow pace
+free cash flow as % of net profit? 70% on an average
+free cash flow as % of sales? increasing over the years
 
 //Annual report FY21 - No change in nature of business 
 manufacturing facilities spread across 12 locations in India and 8 overseas, brand presence in over 100 countries across the globe.
@@ -64,18 +59,58 @@ New Products developed for global markets and continous R&D investment across th
 continous innovation on existing power brands to make them contemporary and relevant for the consumers
 Induction of new technology and use of digital tools in research and development.
 To remain innovative, Dabur maintains long standing and strategic partnerships with various universities across the globe
+no preffered stock issued lastyear - shouldn't issue this year as well
 
 
 //Next Annual report 
-see all the newly launched products growth, extra market share captured
+Dabur has launched new prodcuts successfully over the years -  did this continue (see all the newly launched products growth)
+additional market share captured (look at sales increase and volume growth as well)
+Note: sales = volume * price
  Home Care, Food & Beverages declined in the previous year (should increase this year if not look at FY 20 AR for numbers)
 -ve: look at advertisement spend and also current FY sales > previous FY sales + Advertisement (if no then look at he trend to know
  whether it has happened for this year or it has been repeating over the years)
 it undeperformed NIFTY and SENSEX last year - any improvement ?
 FPIs held around 20% shares last YR
 Last year 361457 equity shares of Re.1/- each were allotted under ESOP scheme
+No. of shareholders: 3,18,852, no.of shares: 1,76,78,51,627
 company has direct and indirect tax litigations of around 500 cr - check on the progress and the amount involved
-one time income was 20% of net profit(as investments are major part of assets) - now should be less?
+one time income was 20% of net profit(as investments were major part of assets) - now should be less?
 acquistion heavy especially in the overseas, keep an eye on the overseas business and subsidaries performance
  also standalone statements should also be good along with consolidated statements
 subsidaries contribution last yr:  total revenues of 2,846.96 crores and net cash inflows amounting to 73.03
+last yr samriddhi product helped in cutting 100cr costs - this year?
+no impairment to goodwill last yr - this year?
+no illegal related party transaction last year - this year?
+
+
+Summary:
+//growth strategy: innovation + acquistion + operating cost reduction + sell products overseas
+
+//Strengths:
+Strong position in India’s FMCG industry
+Healthy financial risk profile - Rs 5,000 crore of cash and equivalent and marketable securities 
+
+//Weakness:
+The company faces competition from players in organised and unorganised sectors. Because of the growing popularity of herbal and 
+ natural products, other established FMCG players are launching similar products, putting pressure on the company’s market position
+ and operating efficiency.
+lot of reserves went in to investment in debt instruments of 10+ yrs rather they would have been used for acquistions/ capex,
+ however ROE is above 30% which is good
+
+//-ve factors to be monitored :
+Erosion in market share in key business segments, leading to lower cash accrual => people definitely prefer ayurveda products to
+ chemical products but are they sticking to Dabur can only be known by market share
+Large, debt-funded capex or acquisition weakening the financial risk profile
+Things mentioned in next anual report section needs to be monitored
+
+//Risks:
+keep an eye on market share growth
+inflation of raw materials - dabur tackled it by slowly passing it down to customers but not completely as they may lose cutomers
+margins depend on middle class purchasing power - launched low cost products and increased reach in rural areas
+new companies with ayurvedic products
+highly competettive industry - hence high operating expenses and low margins
+ayurveda products attract customers, but if it comes from a reputed brand then it attracts more => check whether any reputed 
+ companies are coming up with ayurvedic protolio
+
+
+//fair valuation - 540 based on DCF

@@ -3,12 +3,13 @@ Company name : sector/main business
 Resources to know the business : 
 company filings(investor presentation, annual report, conference calls) from tijori
 screener summary, crisil ratings and analysis at the end of the page
-check tickertape, morning star, moneycontrol for summary and confirmation
+check moneycontrol SWOT analysis
+check tickertape and  morning star for valuation confirmation
 check misc_negative.txt
 https://www.valueresearchstocks.com/recos-current
 
 **STRENGTH
-MOAT/competitive advantage?
+//MOAT or competitive advantage?
  1)check summaries/MOATS.txt (how company insulates itself from competetion)
  2)unique product/service : 
  3)low cost buyer and seller :
@@ -32,7 +33,7 @@ MOAT/competitive advantage?
   -does the customers staff needs training for new products usage?
  why is the customer not willing to switch?
 
-is it durable ?
+//is the competettive advantage durable ?
  past - look for consistency in numbers in  financial statements
  future - wide/narrow/no economic moat?
  can the company keep its DCA nature for next 20 yrs?
@@ -50,18 +51,17 @@ does the company have long term earning power? (check FUTURE section)
 globally competitive?
 circle of competence? check sector summary
 vertical/horizontal growth oppurtunities?
-CRISIL Rating and report in screener?
 
 
 **RISK - VERY IMP - don't invest without knowing and accepting risks
-** Red flags - those that stop you from investment/ think you twice before investing
-competetive risk/price risk/bleak furture/less market size/innovation risk
+** Red flags - those that stop you from investment/ think twice before investing
+competetive risk/price risk/bleak future/less market size/innovation risk
 
 **when can this stock be a bad investment (BEAR CASE)
-Note: think about all the posisible negatives 
-Also will investors buy this stock in the future?
+Note: think about all the posisible negatives like
+will investors buy this stock in the future?
 all the customers of the company financially healthy?
-industry risk?
+industry risk like fuel vehicles in auto sector?
 competetior risk?
 geography /exports risk?
 legal risk - cases, scams?
@@ -80,7 +80,7 @@ RISK FACTORS:
 -threat of new entrants : check news
 -threat of substitutes/innovation/trend change:
 -bargaining power of suppliers: 
--market size/client base:
+-market size/client base: 
 -entry barriers: low/high
 -govt regulations:
 GROWTH FACTORS: 
@@ -92,11 +92,11 @@ GROWTH FACTORS:
 
 **** Company ****
 **PAST: financials
-https://www.screener.in/company/ZYDUSWELL/consolidated/
-https://www.tijorifinance.com/company/zydus-wellness/
+tijori and screener
 other income % contribution to net profit
-did it beat NIFTY in past 10yrs? 
-continous dividend payment history: yes/no
+did it beat NIFTY and its industry peers in past 10yrs? (check STOCK PERFORMANCE section in the right side below key 
+ facts in valueresearchstocks.com)
+continous dividend payment history: yes/no (check events section in tickertape by zerodha)
 
 
 *BALANCE SHEET:
@@ -134,7 +134,11 @@ businesses which are in a highly competetive industry
 Note: increase in longterm investment doesn't mean the market value of investment has gone up rather it means every year company
 is investing in some business
 
---Goodwill: if a company has a lot of good will then go and probe what all the companies it acquired and if they are worth the value
+--Goodwill: if a company has a lot of goodwill compared to total assets(say > 10%) then check the impairment to goodwill and how acquired companies are performing
+Goodwill is an asset representing the future economic benefits arising from other assets acquired in a business combination
+ that are not individually identified and separately recognized. 
+Goodwill is considered to have indefinite useful life and hence is not subject to amortization but tested for impairment annually. 
+ After initial recognition, goodwill is measured at cost less any accumulated impairment losses.
 
 
 **liabilities
@@ -161,6 +165,7 @@ it should invest in other DCA/profitable businesses, which inturn can increase t
 
 --any treasury stock ?
 DCA compoanies usually have a lot of cash and they buyback shares
+look for corporate actions in events section of tickertape by zerodha
 
 --look reserves and net profit for every year - any abnormality(like reserves decreasing and profit increasing)observed ?
 also look at the notes for reserves
@@ -197,11 +202,11 @@ NOTE: Generally in a given industry company with lowest ratio of interest to ope
 however it completely depends on the industry. it is possible that all companies in the sector have done poorly
 
 -- amort/dep as a % of fixed assets: 
-Note: in general it should be 15-20% not less. if it is less then company is inflating the earnings by pushing expenses to future
+Note: in general it should be > 10% not less. if it is less then company is inflating the earnings by pushing expenses to future
 -- amort/dep as a % of gross profit/operating: 
-companies with DCA has <10% and also much lesser compared to peers
+companies with DCA has <10% and also much lesser compared to peers otherwise net profit and EPS takes a hit
 
---other income: significant compared to operating income? like >15-20%
+--other income: significant compared to operating income? like >20-25%
 if yes: since it is non operating and  non recurring income, it should be removed from calculation
 check notes section if the amount is significant or continously increasing over the years
 if no: we can ignore
@@ -253,7 +258,7 @@ neither have power nor a choice but to wait.
 
 --cash flow from investing:
 --Capex: 
-Capex(check in Cash flow from investing) <25-50% of net profit?
+Capex(check in Cash flow from investing) <25-30% of net profit?
 capex is good as it useful to capture market share. but capex increase using high amounts of debt is risky
 bcoz debt increases => interest expense increases => net earnings decrease => EPS decreases => share price decreases
 make sure to check the capex source over the years: debt/reserves/operating cash flow
@@ -266,7 +271,7 @@ if yes company has DCA and is generating lot of cash to buyback
 
 
 --cash flow from financing
-check if the company took new debt or new equity in the current year
+check if the company took new capital (i.e new debt or new equity) in the current year
 Also check if the company CONSISTENTLY raising capital via the debt and equity
 if new debt => interest expense => net profit and EPS decreases => share price decrease
 if new equity => outstanding shares increases => EPS decreases => share price decrease
@@ -290,7 +295,7 @@ check cash_flow.txt
 *OPERATIONAL RATIOS:
 quick ratio: >1 and <2.5
 -important for manufacturing firms as lot of cash tends to be locked in the form of inventory
-current assets - inventory (inventory is removed bcoz it cannot be converted to cash immediately)
+qucik assets = current assets - inventory (inventory is removed bcoz it cannot be converted to cash immediately)
 current ratio >1 and <3 is preferred:
 current ratio > 3 is more dangerous than <1 
 if a company has current ratio > 3 means management is not using cash efficiently or inventory is too high or recievables are increasing(all are bad)
@@ -316,6 +321,7 @@ if freecash flow is -ve due to heavy expansion and ROE is increasing in the comi
 Traps: buyback can inflate ROE, companies recently separated from parent companies can have huge ROE
 avg 5yrs ROCE:
 -ROE might not be a appropriate measure for companies with varied capital structure bcoz companies can boost ROE by taking high debt
+ hence ROCE comes in the picture
 EPS CAGR:
 EPS trend : upward/downward/constant
 highest EPS in past 10yrs?
@@ -329,14 +335,14 @@ PRODUCT/SERVICES PORTFOLIO:
 REVENUE MODEL:
  clients diversification(if B2B):
  products share:
-REVENUE GEOGRAPHY: india
+REVENUE GEOGRAPHY: india, US , UK etc
 Globally competetive company:
 market share:
 market size: small/large (most imp if a company is a monopoly)
 PEER competetiors :
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 POSITION IN PEERS :
-will it be easy for new entrants in this industry either for big brands or Novice companies: 
+Entry barriers: will it be easy for new entrants in this industry either for big brands or Novice companies: 
 
 
 **FUTURE : why/how does the company grow? 
@@ -346,19 +352,19 @@ OPPURTUNITTIES FOR SUSTAINABLE GROWTH:
 --working capital cyle improving and least among peers
 --sector growth: +ve/-ve/constant
 --source of earnings: business(volume increase/price increase/cost cutting with very little sales increase/M&A) OR accounting tricks(increased other income, lower amort and dep charges)
-due to voume increase(most sustainable of all) => then what is source of capital : debt/equity/retained earnings(cheapest and most preferred)
+1.due to voume increase(most sustainable of all) => then what is source of capital : debt/equity/retained earnings(cheapest and most preferred)
 How to verify? compare sales growth % with net profit growth % ?
 Note - there should be little difference if not then better to probe
-due to price increase => sustainable only if company has a strong MOAT, also this has to be accompained with sales increase
+2.due to price increase => sustainable only if company has a strong MOAT, also this has to be accompained with sales increase
 else after some years your company growth rate = inflation and the purpose of investing in stock markets to beat infalation is gone
 Also if sales are not increasing then demand has dried up OR competetiors taking away market share - Both are bad situations
-due to cost cutting => good but it is non-sustainable bcoz at some point cost cutting becomes stagnant
-due to lot of M&A => look at standalone statement and also invest only if the parent company is strong and is doing
+3.due to cost cutting => good but it is non-sustainable bcoz at some point cost cutting becomes stagnant
+4.due to lot of M&A => look at standalone statement and also invest only if the parent company is strong and is doing
  acquistions to further strengthen rather than the parent company being a normal one and acquiring to sustain.
-due to accounting tricks => not sustainable and can be a fraud company
+5.due to accounting tricks => not sustainable and can be a fraud company
 INFACT earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not
 --Horizontal growth oppurtunities: Global footprint/Tieups/buying new companies etc
---Vertical growth oppurtunities: selling more goods&services/raising prices/selling new products
+--Vertical growth oppurtunities: selling new products/old product volumes increased/raising prices/increasing rural reach
 --Steps Taken To Capture Oppurtunity:
 --WILL THE PRODUCTS/SERVICES be in demand for next 10yrs:
 --CAN IT SUSTAIN PEER COMPETITION:
@@ -437,19 +443,20 @@ tell u how much price an investor is paying wrt peers.
 3)Business should be compared with peers but valuation should ONLY be based on instrinsic value of that company alone and not based on peer position
 why: PE for other companies is based on their financial condition and business outlook, lets say a company has poor outlook and
 financials then PE is obviously less and the company we are looking at may seem like overvalued but looking at intrinsic value it
-may be undervalued and might miss the oppurtunity assuming it is overvalued
-so we can't say whether the company is overvalued/undervalued
+may be undervalued and might miss the oppurtunity assuming it is overvalued so we can't say whether the company is 
+overvalued/undervalued by comparing ratios with peers.
 
-
+** hence valuing compnaies based on cashflows comes in the picture
 If cash flow regular? 
-calculate DCF valuation : https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
-    Market cap < DCF valuation, both PE and earnings are less?, check valuation ratios - stock undervalued, hence buy it
-    Market cap ~= DCF - fairly valued, check valuation ratios
-    Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
-verify: 
-https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
-https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
-https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
+  calculate DCF valuation : https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+      Market cap < DCF valuation, both PE and earnings are less?, check valuation ratios - stock undervalued, hence buy it
+      Market cap ~= DCF - fairly valued, check valuation ratios
+      Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
+  also check price to cash_flow /price to free cash_flow
+  verify: 
+  https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
+  https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
+  https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
 Else 
 	buy based on relative valuations mentioned in advanced/company_valuation.txt
 
