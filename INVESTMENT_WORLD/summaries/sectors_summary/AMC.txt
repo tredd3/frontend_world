@@ -1,0 +1,28 @@
+
+--Industry: Asset management (most profitable industry with high margins)
+https://www.youtube.com/watch?v=P4wC2k0zBEg&t=135s
+https://en.wikipedia.org/wiki/Mutual_funds_in_India
+https://groww.in/mutual-funds/filter - look for all the types of products for a given mutual fund y selecting filters
+revenue: % of recurring investments/SIPs
+major expense : compensation of managers
+keep an eye on operating expense
+economies of scale: excellent (as it doesn't require more managers when the asset size to manage increases)
+no capex, R&D and debt needed
+loss is beared by customer unlike bank and isnurance business
+MOAT check:
+market share (smaller firms find it difficult to sustain the competetion)
+more assets: total AUM YOY growth and absolute numbers compared to peers
+companies with higher % of equity assets gain more
+longterm solid track recored( required to attract investors)
+diversification of products(investment in multiple asset classes)
+diversification of investors
+uniqueness of products if any like international investing, tax saving funds etc
+stickiness of assets(money that stays in the firm even when times are tough)
+AUM growth reason ? market prices/ net inflows are more
+check for net inflows > net outflows in both bull and bear markets
+CAMS(back office work) - only profitable if it deals with scale - need to spend on Technology
+RISK:
+extremely competetive industry - bcoz of high margins and economies of scale, lot of firms enter in to this business
+people might stop SIPs and invest directly in stocks
+new prodcut launches(like sector ETFs,international investing) from other firms can take away the prfoits - need to monitor
+SEBI regulates MFs and they cannot invest in certain asset classes beyond a fixed %

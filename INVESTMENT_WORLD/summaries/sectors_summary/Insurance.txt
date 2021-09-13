@@ -1,0 +1,75 @@
+
+--Industry: Insurance (mostly avoid but if there is an exceptional company u can consider holding it)
+Types: life, general/non-life(health, vehicle, travel, home), reinsurance(transfer risk of premium payment)
+stakeholders: retail policy holders, corporate policy holders, IRDAI,TPAs(third party agents who does claims verfication),
+ re-insurers, hospitals, AMC(where they insurance companies does investment)
+private insurance players are gaining dominance
+TPAs like mediassist are the most profitable business model in insurance sector (but the risk is if in house settlement 
+ increases, no pricing power as insurance companies decide them, technology disruption can happen) - so take more margin of safety
+price de-tarrification is done by IRDAI and now price is decided by competettion
+
+//why general insurance sector?
+In india it has huge oppurtunities but competettion is also extreme
+huge market size oppurtunity as the penetration is less in india compared to other countries
+entry barriers
+private players gaining share from PSUs
+motor and health insurance is the key followed by crop insurance
+in the heath insurance space SAHI(standalone health insurance) companies like start health insurance have done much better than
+ GI(general insurance) companies like ICICI lomabard
+health insurance growth depends on the retail customers awareness, salary and economy etc
+
+//revenue: 
+1)recurring premiums and fees
+2)invest the pooled assets and get the profit(kind of similar to banks)
+It takes years for Insurance companies to know whether it made money on the policy or not - bcoz the life expectancy , 
+future investment value and the time for which an individual will hold the policy is unknown
+Also bcoz of the above reasons Insurance company cannot effectively price the policy
+
+//expense:
+1)insurance selling costs via agents/banks
+2)benefits to shareholders
+
+//financials
+complex products and financial statements(lot of assumptions and if assumptions fail the company fails)
+gross written premium(GWP): total premiums earned by all the customers
+net written premium(NWP): GWP - premiums ceded/paid to reinsures
+net premium earned(NPE): the premiums collected counts as earnings only when the policy is near to its end date (hence lesser the policy
+ period more quick is the premium realisation as earnings) - NPE is invested in equity/debt/real estate etc
+loss ratio: claims/NEP in %
+expense ratio: expenses/NWP in %
+combined ratio: loss ratio + expense ratio 
+combined ratio < 100% means company is making an underwriting profit and management may be efficient in managing expenses
+combined ratio > 100% means company outlow(claim amount) is more than inflow(premium amount) => loss but
+ it can be offset by investment income, so it is very imp to monitor AUI and their quality
+
+MOAT CHECK: weak moats in general
+brand
+distribution network
+diversification of products
+established relationship with corporate consumers - ensures stability
+consistent ROE and ROCE above 15%
+annual premium growth rate not too high
+credit rating
+investment portfolio quality
+low cost provider with volumes? but shouldn't sell unprofitable insurance policies
+did it survive a disaster in the past(2008, 2021)
+unique product: i.e providing insurance for those items which competetitiors don't provide
+
+RISK:
+extremely competetive - difficult to build a moat for longterm bcoz of commodity products which can be easily replaced
+mostly a no MOAT business with thin margins, hence acquistions are needed for sustainace
+big annuity business - risky investment as the exposure to equities is more
+no pricing power : public always prefer low cost products, corporate clients also generally interfere in pricing,
+some competetitiors price the policies so low and are ready to take losses in balance sheet to gain market share that will
+eventually effect other firms profits. e.g LIC
+cyclicality: even though it is a mature business since the profits are tied to market returns, in the bull market returns are good
+and premiums are less but in during crash/bear markets premiums need to be increased to make profits but if competetitiors still keep 
+it low then the firm suffers
+
+Risks specific to health insurance:
+increase in health care costs
+mass health infection like COVID/natural calamity etc
+Regulatory risk: IRDAI is considering to allow life insurers to sell health insurance considering their reach and also 
+ globally it is allowed. this will be -ve for SAHI(standalone health insurance) companies and GI(general insurance) companies
+investment risk - financial crisis/ economic recession/interest rate risk can yield low results
+Also corporates are providing health insurance now a days - so check 
