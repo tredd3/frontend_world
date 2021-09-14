@@ -1,0 +1,33 @@
+IT - defensive - globally competetive - high margins
+highly competettive industry - low barriers to entry - high barriers to success
+less capital required to build a software
+like FMCG they generate a lot of cash
+Generally have clean balance sheets with Zero debt
+Excellent growth prospects bcoz businesses keep upgrading with latest software that can make business run smoothly and cut costs
+services based: no significant cost
+product based: R&D costs
+Attractive segments: Security(antivirus, firewalls), IOT, AI, ML, BlockChain
+
+LOOK FOR:
+niche players like Adobe who has low competetion and strong Moats
+Economies of Scale(once a software is developed revenue from new customer goes to bottom line)
+company with Large customer base (that are Loyal to the company)
+Great management(especially that don't give away ESPOs easily)
+
+FINANCIALS:
+License revenue(new softwares sold) trend should be increasing in general and also as a % of sales
+Deffered revenue (cash recieved by the company even before service delivery) - indicated strong future revenues
+if License revenues and Deffered revenues are declining then company's business has started to slow down
+excellent track records in both the economy cycles (sales and profit margins)
+
+MOATS:
+narrow moat with most of the the firms
+high switching costs (most of the customers train their employees and they can't spend again and again)
+Network effect (certain products are used by large no of people)
+Brand Name (people don't buy random software due to security issues)
+
+RISK:
+today's winner can be tomorrow's loser if the competetitior can develop a better product at a better price
+don't invest blindly if u don't find a MOAT and not getting at a discount to intrinsic value(bcoz the pace at which technology is 
+growing it is difficult to predict how software firms look like in the future)
+

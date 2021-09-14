@@ -1,0 +1,31 @@
+Hardware (difficult to build moats and is cyclical)
+industry: semiconductors, PCs, Telecom equipment, contrcat manufacturing(like DIXON)
+failure and bankruptcy stories are more than success stories in this sector.so be carefull and pick wisely
+growth drivers:
+1)R&D, technological advances are must forcing firms to spend on R&D
+2)tight coupling between hardware and software: advanced software needs hitech hardware to run smoothly
+3)hardware demand is more than the economy growth
+intense price competetion: over the years all the technology advancements are passed on to consumers at a lesser price
+cyclical: corporates contribute more towards total hardware sales so during recession they cut down spending on upgradation
+strong competetion - very less entry barriers as well
+consumer spending also highly varies based on unemployment and minimum wages
+contract manufacturing companies should make sure that client commit certain volume so that they can take informed decision
+ on employee costs and manufacturing, else they mindlessly increase capex assuming that demand continues and when demand slows 
+ down the debt level increases to service capex as revenues cannot meet the needs.
+
+oats:
+durable market share and consistent profitability
+low cost producer like dell(high sales)
+niche products manufacturer(where there is scarcity of qualified staff and a new entrant possibly cannot overpower existing firms)
+more diverse and unique products
+large network effect like cisco where its products can be integrated with almost any hardware
+superior technology advantages(but it has to be complemented by above 3 else this moat alone cannot sustain long enough)
+high switching costs - especially for telecom equipment manufactures
+must have flexible economics(like outsource manufacturing to contract manufacturing companies like DIXON) so whenever
+ demand is low u can cut down manufacturing and save costs
+cutting costs wherever possible like outsource manufacturing, eliminating third party sales middlemen etc
+
+Keep in Mind:
+check inventory turnover: old stock goes for very less price meaning large inventory pileup leads to losses if not sold fast
+inventory growth shouldn't be more compared to sales growth
+moated companies in this industry haven't build moat on technology advantages alone, bcoz technology in itself doesn't have any moat

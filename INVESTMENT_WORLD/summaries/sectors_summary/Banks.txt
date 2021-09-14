@@ -1,0 +1,49 @@
+--Industry: Banking(still india has a scope for penetration)
+cyclical - but behaves like hybrid of cyclical and defensive
+Main business: Borrowing and lending
+Other services: invoice discounting, insurance, MF sale, escrow accounts, 
+Revenue model = net interest income(main business) + non-interest income (other services)
+low cost of borrowing - bcoz they are regulated by RBI and backed by Govt
+Balance sheet scrutiny is very important
+A mortgage is usually a loan sanctioned against an immovable asset like a house or a commercial property. The lender keeps the 
+ asset as collateral until the borrower repays the total loan amount. 
+Banks losses must be covered by earnings , if not reserves , if losses > (earnings + reserves), they end up eating equity
+
+
+Look for:
+product/services portfolio depth and reach to public
+Geograpical spread - good to have for risk management
+loan diversification (to multiple sectors/industries/companies) - avoid banks where most loans are in riskier sectors
+savings and other low cost deposits trend
+Prudent recovery and collection procedures
+low NPAs(for loans),charge-off rates(for credit cards) and delinquency rates(late payments) compared to peers
+*delinquency rates are imp bcoz they can turn in to a NPA
+*charge-off rate is a measure that shows the percentage of defaulted credit card balances in comparison to the total amount of credit outstanding
+good provisioning wrt to NPAs
+In this industry growth cannot be significantly faster than peers(if yes then it can lead to troubles , hence deep scrutiny is needed)
+Must be Complient with Basel norms (for both liquidity and risk frameworks)
+good banks make sure that the duration of long term liabilities is same as that of long term loans
+
+
+Financials:
+Should have strong Capital base compared to peers(check balance sheet)
+operating costs and non-interest expense should less as a % of revenue
+ROE and ROA must be high (provided provisions ~= GNPA )
+CASA,NIM - must be more
+higher CASA indicates current and saving account deposits are more compared to time deposits => low cost funds for banks =>high NIM
+NPA - must be less
+Good if Non interest income continously growing(extra income for bank) But this should complement interest income and not replace it
+P/B between 2-3 is a good bet to buy strong banks
+
+
+Moats:
+Capital intensive business (difficult for new player to enter or the existing player to became No.1)
+Brand(for attracting deposits and talent)
+Size (Large banks have prudent risk management framework and access to Capital markets)
+Economies of Scale(take advantage of larger distribution network)
+Switching costs
+
+
+Risk:
+increase in NPAs during recession
+not globally competetive 

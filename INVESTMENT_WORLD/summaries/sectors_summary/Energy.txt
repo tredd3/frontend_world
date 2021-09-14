@@ -1,0 +1,42 @@
+
+Energy - most countries including india heavily relies on imports
+
+Industry: Crude oil, Natural gas, Nuclear,Thermal,hydroelectric,wind,solar
+2/3 of world's energy needs are met by oil and gas
+huge fixed asset costs - cyclical sector
+large part of oil and gas reserves are present in middle east, hence the countries exporting oil/gas formed a group called OPEC
+OPEC artificaially inflates the prices by co-ordinating and limiting supply, hence mainpulating the prices for the whole industry benefit
+Reason for OPEC power: non-OPEC reserves are less and depelete faster compared to OPEC countries
+no pricing power bcoz price is globally decided => biggest influencers of financial health
+high fixed costs(cost of taking oil from ground to refinery is fixed irrespective of oil price) + high price volatility => AVG/NO profits for many years
+Business model: upstream(exploration and drilling/extraction) => Downstream(pipelines/ships to carry to off shore refineries => service stations)
+few oil companies own certain parts in the chain whereas most of the companies own the entire value chain(called integrated oil companies)
+OPEC has made Upstream business more profitable than Downstream(as upstream companies will only drill when prices are high)
+Industry: products/services to oil companies - drilling services,
+oil companies have high profitability primarily because of OPEC support which maintains the oil prices so that oil companies 
+are always profitable, but the oil services industry is highly competettive and no protectors, hence weak margins and low profitability
+Reason: when oil prices are high companies use these services to quickly take final product to market to reap the profits else 
+they don't want to extract the oil and wait for the prices to be normal which is not in their hands
+
+MOATS:
+oil company in countries part of OPEC
+large company size and customer base
+for commodity industry - economies of scale Moat is a must(especially in the Downstream by spreading the costs to large customer base)
+upstream is dependent on geology and geography of company's reserves - difficult to keep cost down here but if a company does that it will have an excellent moat
+high ROIC and profits compared to peers
+
+Look For:
+Integrated oil companies with good financial track record in both boom and burst years OR companies who only does upstream operations
+e.g: IOL(integrated company), ONGC (only upstream company)
+high fixed costs and cyclical sector hence D/E < 1 is preferred to sail through burst years
+oil reserves growth or capacity wrt peers(future profit for the firms)
+reserve replacement ratio > 1 , i.e company has found more than what it is extracting => reserves are increasing
+if it is < 1 then company has to spend on exploration or acquistions
+good dividends/effective utilisation of cash flows - as the energy sector is mature , most of the companies generate high cash flows 
+
+Risks:
+as oil and gas are commodities, OPEC is the protector but if any company comes out of OPEC and sells at will then it is a problem
+Russia is the one which has largest reserves outside of OPEC countries - can be a competettion by selling at low prices and 
+capturing the market share but russia economy is coupled with oil industry fortunes hence low cost selling is difficult
+Clean and Cheaper energy development - Solar, wind and other forms
+Note: even though these risks exists for last 20-30 yrs still oil companies have delivered excellent returns to their shareholders

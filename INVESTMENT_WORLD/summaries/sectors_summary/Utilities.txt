@@ -1,0 +1,33 @@
+Utilities - highly regulated sector with commodity type behaviour
+Industry: electricity, water
+highly regulated sector with constant demand hence it fetches guaranteed but low fixed income(i.e steady cashflows)
+highly competetive(low margins) - commodity industry(no pricing power) - high fixed costs(high debt if market share is low)
+electricity - generation, tranmission and distribution
+/Generation - input:coal/gas/uranium/sunlinght/wind/water output:electricity, deregulated, low enetry barriers, low margins because of competettion
+high operating leverage(high fixed costs, only fuel is the variable cost)
+/Transmission - trasporatation of electricity from generation plants to grids via wires, regulated, high entry barriers, even though they 
+operate as monopolies, still have low margins bcoz of rates regualtion
+Note: wireless transmission is a game changer in this industry but is difficult to acheieve as well but not impossible
+/Distribution - transmit power from grids to homes/businesses , wide moats bcoz of monopolies but low margins bcoz of regualtion
+interms of wide Moats distribution > transmission > generation
+
+Regulations:
+state govt regulates structure,costs,competettion of the companies => regulation means low and steady margins
+environmental agency regulates the amount of emission by power plants(mainly for coal/thermal plants) - companies must spend on
+expensive upgrades to reduce emissions
+nuclear agency regulates the nuclear power plants
+Note: Regulated companies are safe heavens, deregulation is positive interms of pricing power but negative interms of competetion 
+considering its a commodity industry with low entry barriers
+
+Financials:
+even though financial are positive they are very less making it less attractive for investors
+Don't invest assuming that steady cash flow yields dividends bcoz most companies have high debt
+high debt for most companies => all the steady cashflows are used in interest payment
+if dividend yield is ridiculosly high => stock price is falling and company is in trouble
+
+Look for :
+companies with low debt, stablitiy in financials, operating in stable regulatory environments(i.e having monopoly/less competetion)
+and companies that stay focused on its core business rather than entering in to other ventures that are out of its expertise, bcoz
+this can lead to bankruptcy.
+Especially if u r buy Utility company for dividends make sure to check their debt position and their payout ratio and 
+dividend paying history for last 10 yrs
