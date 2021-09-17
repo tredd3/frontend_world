@@ -166,6 +166,7 @@ npm update [-g] [<pkg>] //npm update will change package.json to save the new ve
 npm ls //to inspect current package/dependency versions
 npm ls <pkg> //to inspect current package/dependency versions
 npm view <pkg> [--json]// to know everything about a package
+npm show <pkg> versions //to list all the available versions of a package
 
 
 //installing and accessing dependencies/modules (both globally and locally installed)
