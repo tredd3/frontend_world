@@ -1,8 +1,9 @@
 
 --Industry: Insurance (mostly avoid but if there is an exceptional company u can consider holding it)
 Types: life, general/non-life(health, vehicle, travel, home), reinsurance(transfer risk of premium payment)
-stakeholders: retail policy holders, corporate policy holders, IRDAI,TPAs(third party agents who does claims verfication),
- re-insurers, hospitals, AMC(where they insurance companies does investment)
+stakeholders: insurance products, retail policy holders, corporate policy holders, IRDAI,TPAs(third party agents who does claims 
+verfication), re-insurers, distribution network(banks , agents etc),hospitals, AMC(where insurance companies does investment),
+ brokers and web aggregators(policy bazaar)
 private insurance players are gaining dominance
 TPAs like mediassist are the most profitable business model in insurance sector (but the risk is if in house settlement 
  increases, no pricing power as insurance companies decide them, technology disruption can happen) - so take more margin of safety
@@ -42,10 +43,12 @@ combined ratio < 100% means company is making an underwriting profit and managem
 combined ratio > 100% means company outlow(claim amount) is more than inflow(premium amount) => loss but
  it can be offset by investment income, so it is very imp to monitor AUI and their quality
 
+
 MOAT CHECK: weak moats in general
 brand
 distribution network
 diversification of products
+assumption heavy business - so conservative accounting assumptions is preferred
 established relationship with corporate consumers - ensures stability
 consistent ROE and ROCE above 15%
 annual premium growth rate not too high
@@ -76,10 +79,53 @@ Also corporates are providing health insurance now a days - so check
 
 
 //Life Insurance
-//why Life insurance sector?
+India is under protected and not under penetrated - because of mix of investment + insurance
+reinsurance companies are globally diversified(GIC, SWISS RE)
+products based on customer needs:
+1)savings: linked(ULIP, linked to stock markets), non-linked(participating(like bonus, mobeyback), non-participating(guaranteed return))
+participating - participating in the returns which insurer has invested in (usually in bonds)
+2)protection: term plan, life, health, disability etc
 
+
+//why Life insurance sector?
+as it is a must for everyone
+
+//business
+high margin business : term plans/protection > non participating > participating > ULIP
+non participating - investors/share holders are most benefitted
+participating - customers are most benefitted
 
 //financials
+persistency ratio : higher persistency means certainity of profts is high(i.e premiums are being paid out by insurance holders)
+complaint ratio: low is preferred, if it is higher surrender rates will be higher and persistency will be less
+solvency ratio: higher it is more guaranteed that insurer is gonna pay premiums, min is 150% as set by IRDAI
+cost ratio: less is better (operating expenses + commission expenses)/premium
+expenses are incurred and not amorotised over years, but profits are realized over years 
+
+//players
+LIC - strong agent network
+HDFC LIFE - diversified distribution including HDFC Bank, diversified product base, cost ratio is high because of its focus on
+ agent expansion by acquiring exide life insurance, aggressive accounting , expensive valuations
+ICICI PRUDENTIAL - strong bancassurance, subsidary of ICICI bank, focusing on diverse product mix, conservative accounting,
+ excellent asset quality with conservative investment even in bonds, significant ULIP product mix which can be deadly in bear
+ markets, ICICI is trying to reduce that mix
+SBI Life - strong bancassurance, subsidary of SBI bank, low protection prodcuts and high reliance on ULIP(low margin business),
+cost efficient in the entire industry with very less cost ratio
+
+//moats specific to life insurance
+high persistency ratio
+less surrender , cost and complaint ratio
+share of protection should be high
 
 
-//Risks specific to Life insurance::
+//Risks specific to Life insurance:
+tax rate, currently it is 12.5% but it can be 25% so keep an eye while buying
+be very strict in 
+
+//PolicyBazaar
+initially web aggregator but now becoming a broker with offline presence
+
+Risk for PolicyBazaar:
+new players
+people might compare on the platform but buy from actual site
+what if insurance players withdraw - especially the big ones
