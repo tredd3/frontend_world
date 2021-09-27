@@ -1,0 +1,35 @@
+why CAMS?
+CAMS is India’s largest registrar and transfer agent , asset light business model and provides services to businesses
+only 2 players in this RTA business in india (CAMS and KARVY)
+huge potential for mutual fund industry growth in india
+services to 16 out of 41 AMCs in india, 22 by KARVY
+but in terms of AUM it manages around 70% of total AAUM in the country (roughly 18,000 lakh crore)
+Revenues: primarily revolve around the AUMs handled by them across various categories – (equity, debt, liquid, hybrid and others)
+RTAs charge the highest fees for equity AUMs, 33% of CAMS managed AUM is equity AUM
+clients:
+The company’s mutual fund clients include 4 of the 5 largest mutual funds and 9 of the 15 largest mutual funds based on AAUM
+17 yrs relationship with HDFC AMC, ICICI AMC, SBI, ADITYA BIRLA
+The company has 7 business verticals, these are
+1)Mutual Fund Services Business - major part of the revenue from data processing
+2)Electronic Payment Collection Services Business - manages end to end automated clearing house transactions and ECS and service mutual funds, non banking financial company’s and insurance companies
+3)Insurance Service Business - insurance repository,  processing and scrutinizing of applications for insurance companies, training
+  and on boarding of new insurance agents and assisting in back office operations.
+4)Alternative Investment Fund Services Business - all services similar to that of MFs
+5)Banking and Non Banking Services Business - They also assist with loan application processing and loan disbursement. CAMS also offers with managing the operations of bank’s processing centers.
+6)KYC Registration Agency Business - maintains KYC records of investors on behalf of capital market intermediaries registered with SEBI.
+7)Software Solution Business - owns, develops, and maintains the technology solutions for mutual fund clients.
+
+
+Moats:
+Switching costs: RTA business is sticky, if a mutual fund is being serviced by a particular RTA shifting to another RTA is difficult 
+ as huge amount of data and information needs to be transferred and there is a high risk of disruption of operations and customer experience
+Entry barriers: because of switching costs, also MF RTA business is technology intensive requiring continuous upgradation of 
+ systems and processes in line with the increase in volumes and changing regulations, Investments in technology and branch expansion
+ is justified only if volumes are adequate, hence a new players has to think twice before entering this space
+
+
+Risk:
+Revenues are dependent on AAUM of mutual funds, if AAUM managed were to decline due to tough market conditions, revenues of CAMS will be impacted
+Top 5 clients contributed to 68% of revenues in FY20. Client concentration risk is high, even if 1 client were to move to another player, revenues will be impacted
+Regulations impacting mutual funds will impact the RTAs. For instance the latest regulation of capping expense ratios for AMCs will impact RTAs
+Company handles confidential data – personal and financial information of clients. Any breach of their systems will create legal and regulatory risk
