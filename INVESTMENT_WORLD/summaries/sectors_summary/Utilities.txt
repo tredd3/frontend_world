@@ -1,15 +1,16 @@
 Utilities - highly regulated sector with commodity type behaviour
 Industry: electricity, water
 highly regulated sector with constant demand hence it fetches guaranteed but low fixed income(i.e steady cashflows)
-highly competetive(low margins) - commodity industry(no pricing power) - high fixed costs(high debt if market share is low)
+highly competetive(low margins) - commodity industry(no pricing power) - high fixed costs(high debt)
 electricity - generation, tranmission and distribution
-/Generation - input:coal/gas/uranium/sunlinght/wind/water output:electricity, deregulated, low enetry barriers, low margins because of competettion
-high operating leverage(high fixed costs, only fuel is the variable cost)
-/Transmission - trasporatation of electricity from generation plants to grids via wires, regulated, high entry barriers, even though they 
-operate as monopolies, still have low margins bcoz of rates regualtion
+/Generation - input:coal/gas/uranium/sunlight/wind/water output:electricity, deregulated, low entry barriers, low margins because
+ of competettion and high operating leverage(high fixed costs, only fuel is the variable cost)
+/Transmission - trasporatation of electricity from generation plants to grids via wires, regulated, high entry barriers, even though
+ they operate as monopolies, still have low margins bcoz of rates regualtion
 Note: wireless transmission is a game changer in this industry but is difficult to acheieve as well but not impossible
 /Distribution - transmit power from grids to homes/businesses , wide moats bcoz of monopolies but low margins bcoz of regualtion
 interms of wide Moats distribution > transmission > generation
+Summary: low margins either because of regualtion or competettion
 
 Regulations:
 state govt regulates structure,costs,competettion of the companies => regulation means low and steady margins
