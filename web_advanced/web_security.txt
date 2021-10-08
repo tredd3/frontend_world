@@ -21,11 +21,26 @@ The victim then retrieves this malicious script from the server when the browser
  script�back to the user's browser,�such as in an error message, search result, or any other response that includes data sent to the server as part of the request.
 3)DOM-based XSS Attacks - The payload is executed as a result of modifying the DOM environment
 Solution:
-Content Security Policy (CSP) is to prevent execution of scripts and content from domains other than those mentioned in the Content-Security-Policy�HTTP header
+1)basic: use http only cookies such that JavaScript cannot read it, but the problem is even ur js cannot read the cookie 
+2)advanced: Content Security Policy (CSP) is to prevent execution of scripts and content from domains other than those mentioned in the Content-Security-Policy�HTTP header
 Browsers that don't support it still work with servers that implement it, and vice-versa
 To enable CSP, you need to configure your web server to return the Content-Security-Policy HTTP header. 
 
 
-**cross-site request forgery attacks (CSRF) - request is made from victim�s site without his notice 
+**cross-site request forgery attacks (CSRF) - request is made from authenticated victim's site without his notice 
+The attacker can't see the responses to the forged requests, so CSRF attacks focus on state changes, not theft of data which XSS does.
 SameSite�cookies let servers require that a cookie shouldn't be sent with cross-site (different  domain) requests, which provides some protection against cross-site request forgery attacks (CSRF)
-Both CSRF tokens and SameSite cookies should be deployed.  A CSRF token (randomly generated) should be  sent to the server.�
+Both CSRF tokens and SameSite cookies should be deployed.  A CSRF token (randomly generated) should be  sent to the server for the request to be valid
+CSRF tokens should not be transmitted using cookies. The CSRF token can be added through hidden fields in html by servers,
+then once ur client side app recieves that token they can add that headers, and can be used with forms, and AJAX calls.
+For instance, including malicious HTML image elements, sending emails, asking to click ads with
+underlying URL: <img src  = “https://samplebank.com/onlinebanking/transfer?amount=5000&accountNumber=425654” width=“0” height= “0”>
+
+
+XSS                                VS                         CSRF
+1)XSS attacks exploit the trust a user has                    CSRF attacks exploit the trust a Web application has in an 
+in a particular Web application                               authenticated user.
+2)XSS attacks focus on data theft                             CSRF attacks focus on state changes (sending a messge,Submitting a transaction, delete, cancel etc)
+3)data is stealed from current web applicaton and is          all state change requests are made to the same app server
+sent to third party(attacker) server
+4)
