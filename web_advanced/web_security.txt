@@ -31,8 +31,11 @@ To enable CSP, you need to configure your web server to return the Content-Secur
 The attacker can't see the responses to the forged requests, so CSRF attacks focus on state changes, not theft of data which XSS does.
 SameSite�cookies let servers require that a cookie shouldn't be sent with cross-site (different  domain) requests, which provides some protection against cross-site request forgery attacks (CSRF)
 Both CSRF tokens and SameSite cookies should be deployed.  A CSRF token (randomly generated) should be  sent to the server for the request to be valid
-CSRF tokens should not be transmitted using cookies. The CSRF token can be added through hidden fields in html by servers,
-then once ur client side app recieves that token they can add that headers, and can be used with forms, and AJAX calls.
+CSRF tokens should not be transmitted using cookies. 
+Token validation flow:  
+1)The CSRF token can be added through hidden fields in html by servers,
+2)then  ur client/browser extracts that token and adds that to header and sends it back while making a request
+3)server now validates the recieved CSRF token and sends the response, if token is invalid u get 403 forbidden error
 For instance, including malicious HTML image elements, sending emails, asking to click ads with
 underlying URL: <img src  = “https://samplebank.com/onlinebanking/transfer?amount=5000&accountNumber=425654” width=“0” height= “0”>
 
