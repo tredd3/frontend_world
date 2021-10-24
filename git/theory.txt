@@ -17,6 +17,10 @@ locally: git branch -d <branch_name>
 remotely: git push origin -d <branch_name>
 both locally and remotely at a time: git branch -D <branch_name>
 
+//useful commands
+one unique command allowing you to query a remote repo without having to clone/fetch it first
+git ls-remote -h -t https://<xyz>.git
+
 
 //revert commits
 git log --oneline //to check the commit history
