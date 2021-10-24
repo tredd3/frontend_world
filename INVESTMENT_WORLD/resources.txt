@@ -12,16 +12,6 @@ videos:
 https://www.youtube.com/channel/UCXh4nV7Ykue3ZBEbMl7x7VA -  book summaries
 
 
-books: check amazon cart
-Intelligent investor - value investing in stock markets
-Rich dad poor dad
-Secrets of the Millionaire Mind - how rich people think and act differently than poor and middle-class people
-The Millionaire Next Door - secrets of americas wealthy
-The Richest Man in Babylon - secrets of ancient rich
-Total money Make over - debt free life
-Art of thinking clearly - Rolf dobelli
-
-
 finacial resources :
 https://in.tradingview.com/  - overall markets and Financial Instruments performance
 sectors and macro economic tracker
@@ -34,3 +24,10 @@ websites: screener, money control ,livemint, tijori, ratestar.in, value research
 stock suggestions:
 https://docs.google.com/spreadsheets/d/1BvYtO0VdKrLu_7gtIjByo-Ihevp267YpaCbdTGPv8Yg/edit#gid=0 - market share
 https://www.valueresearchstocks.com/recos-current
+
+MFS:
+https://groww.in/mutual-funds/hdfc-banking-and-psu-debt-fund-direct-
+https://groww.in/mutual-funds/hdfc-corporate-debt-opportunities-fund-direct-growth
+https://groww.in/mutual-funds/icici-prudential-regular-i-come-fund-direct-growth
+Site to buy:
+
