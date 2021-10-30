@@ -12,15 +12,22 @@ Currency Strength is based on :
 Depends on global demand and supply of USD in forex market
 biggest factor that determine the strength of a currency is trade deficit. The bigger is the deficit the weaker a currency will become compared to USD.
 Advantages of currency depreciation/weak currency:
-Exports Become Profitable and Imports Become Expensive => Domestic Demand Increases => companies make profit, individuals income increases => demand increases => GDP grows
-When inflation is low, and GDP is growing at a reasonable pace, it is a sign of healthy economy. Foreign investors like to invest in such an economy. They will buy government bonds, stocks, real estate etc. This activity creates more demand for local currency (USD comes in to exchange INR). Increase demand for currency (say INR) will strengthen it.
+Exports Become Profitable and Imports Become Expensive => Domestic Demand Increases => companies make profit, individuals 
+ income increases => demand increases => GDP grows
+When inflation is low, and GDP is growing at a reasonable pace, it is a sign of healthy economy. Foreign investors like to 
+invest in such an economy. They will buy government bonds, stocks, real estate etc. This activity creates more demand for local 
+currency (USD comes in to exchange INR). Increase demand for currency (say INR) will strengthen it.
 Disadvantage: inflation if GDP growth is very high (explained in short term debt cycles below)
-Should an economy aim for stronger currency? Immediate effect of currency becoming stronger is disadvantageous. But over long term, a strong currency does more benefits to its domestic economy.
+Should an economy aim for stronger currency? Immediate effect of currency becoming stronger is disadvantageous. But over long term, 
+a strong currency does more benefits to its domestic economy.
 Advantages of currency appreciation/strong currency:
 Cheaper Imports: buy quality products and services from overseas countries at lower costs. More profits for businesses and more income for individuals 
 Low Inflation: Due to cheaper (but quality) imported goods and services available for citizens, inflation remains low & within control at all times.
 High Purchasing Power: Lavish life for the citizens
 High Currency Demand: can become a potential “global currency” in times to come
-Cheap Debt: countries and financial orgs will continue to buy the bonds even if the rates are low. Why? Because they just park their funds in strong currency (like USD). As the currency is in high demand, on a later date, the same currency will fetch higher returns as exchange rate becomes high.
-PS: strength of currency is not a real reflection of the economic well being of a nation. Along with strength of a currency, other factors like GDP growth rate, high employment rate, low inflation is needed.
+Cheap Debt: countries and financial orgs will continue to buy the bonds even if the rates are low. Why? Because they just park their
+ funds in strong currency (like USD). As the currency is in high demand, on a later date, the same currency will fetch higher returns
+ as exchange rate becomes high.
+PS: strength of currency is not a real reflection of the economic well being of a nation. Along with strength of a currency, other 
+ factors like GDP growth rate, high employment rate, low inflation is needed.
 

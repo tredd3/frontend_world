@@ -2,31 +2,42 @@
 BUSINESS + FINANCIAL +  Management + VALUATION (all are equally important) + Margin of safety(for growth companies,
 fair price for Value companies)
 
-//first set of companies
-why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
-debt free or almost debt free
-can company's business/products be replaced/substituted by new age technology/innovative products?
-avoid companies with intense competettion (The intense competition could restrict company's revenue growth and pricing flexibility)
-what is the competettive advantage
+//FIRST set of companies - getting them on fair valuation is also fine
+Note: increase margin of safety for companies which doesn't pass important filters
+1)why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
+2)check the share price in wiki (continously decreasing know the reason why)
+3)check shareholding pattern
+4)can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
+5)avoid companies with intense competettion (The intense competition could restrict company's revenue growth and it
+ takes away its pricing power)
+6)monopoly or duopoly
+7)repeat business
+6)owns customer minds
+7)what is the competettive advantage
 is the competettive advantage durable?
-entry barriers - bcoz the businesses are difficult to start/replace/maintain
-non commoditized business, if commoditized then must be a low cost producer
-pricing power - also people are ready to pay premium
-non cyclical or least cyclical
-not dependent on fortunes of any industry, raw material prices or govt
-global presence
-product diversification
-if B2B (client diversification)
-if B2C (products must be useful for each and every individual)
+8)entry barriers - bcoz the businesses are difficult to start/replace/maintain
+  check market share trend over the years
+9)geographical diversification - globally present? if not does it have a deep rural reach?
+ better to have both, which helps in risk Management and strong growth oppurtunities in emerging countries
+10)product diversification
+11)if B2B (client diversification, strong order book)
+if B2C (products must be useful for each and every individual and have a strong demand)
 if business service companies (almost every business should find its usage now or eventually)
-monopoly or duopoly
-repeat business
-strong financials - especially check their 5/10yr cash flow analysis in tijori
-High growth potential - both vertically (nation wide including rural areas) and horizontally (internationally)
+12)non commoditized business, if commoditized then must be a low cost producer
+13)non cyclical or least cyclical
+14)pricing power - are people ready to pay premium
+15)not dependent on/tightly linked to fortunes of any sector/company
+16)not dependent on govt lifting bans on imports, govt subsidies/schemes or order inflows only from 
+17)strong financials for 10yrs - especially check their 5/10yr cash flow analysis in tijori
+18)debt free or almost debt free
+19)should not require contionus investment on capex
+20)High growth potential - both vertically (nation wide including rural areas) and horizontally (internationally)
 
 
-//second set of companies
-ignored companies that have very strong growth potential in the future
-emerging tech companies
-owns customer minds
-deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
+//SECOND set of companies - high margin of safety
+1)sleeping gaints awakened
+2)ignored companies that have very strong growth potential in the future
+3)emerging tech companies
+4)deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
+5)niche/extreme niche
+6)limited market size - but not preferred unless u can track effectively
