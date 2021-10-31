@@ -116,12 +116,40 @@ Note: check last 10yrs balance sheet to find out
 --does inventory growth rate is higher than sales growth rate ? 
 if yes: inventory becomes obselete => write off or sell at discount => earnings take hit
 also cash gets locked in inventory => depriving firm of cash 
-cash conversion cycle -ve ?
-CCC = inventory days + recievable days - payable days 
+
+--CCC = inventory days + recievable days - payable days
+ It is a measure of management and operating eficiency
+ CCC applies only to companies dependent on inventory management and related operations.
+ It quantifies the number of days it takes a company to convert cash outflows into cash inflows 
+ lesser the CCC better is the firm's ability to compound shareholders wealth/generate return quickly
+In other words it is the time taken by the business to generate money.
+Inventory days measures how long a product is in storage before being sold.
 if inventory days are more then the store/company has to go for a clearance sale with low pices , cash gets locked
-if payable days are more CCC is -ve and also company gets to hold cash for a longer time reducing the need to take short term debt hence improving operating cashflows
+if payable days are more CCC is -ve and also company gets to hold cash for a longer time reducing the need to take short term debt 
+ hence improving operating cashflows
 if recievable days are more => customers are taking more days to pay for the goods then cash is locked in
 inventory turnover = COGS/inventory , companies with DCA have very high inventory turnover
+Note: If two companies have similar values for return on equity (ROE) and return on assets (ROA), it may be worth investing in the 
+ company that has a lower CCC value. It indicates that the company is able to generate similar returns more quickly.
+
+
+--"working capital intensive" operations?
+it refers to business industries that require large amounts of investment to produce a good or service and thus have a
+ high percentage of fixed assets, such as property, plant, and equipment (PP&E)
+e.g: automobile manufacturing, oil production, and refining, steel production, telecommunications, and transportation sectors (e.g., railways and airlines).
+As a rule of thumb u should avoid WC intense companies because they have high fixed costs/operating leverage, and hence high debt 
+ if they can't have customer volumes, also they re-invest cashflow in fixed assets upgradation
+But they are very very few companies that are profitable in this segment by producing premium products/services and not 
+ commodity products/services(if possible own them because the efficiency with which they operate acts as an entry barrier MOAT)
+
+
+--working capital days - lesser the days more efficient a company is
+how many days it takes for a company to convert its working capital into revenue. 
+If the days working capital number is decreasing, it might be due to an increase in sales.
+Conversely, if the days working capital number is high or increasing, it could mean that sales are decreasing or perhaps the 
+company is taking longer to collect payment for its payables.
+CCC should ideally be lesser than working capital days
+
 
 --check if Accounts Receivable is significant compared to sales over the years:
 if yes there might be a default risk - also company might be in a highly competetive industry and to gain advantage, 
