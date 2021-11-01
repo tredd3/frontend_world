@@ -1,33 +1,54 @@
 //Exchange rates
 * Floating exchange rate is determined by the currency/forex market through global supply and demand.central bank/govt of a country has a very less intervention here .
 * Fixed/pegged rate  - government (central bank) sets and maintains as the official exchange rate.
-* In order to maintain the local exchange rate, the central bank buys and sells its own currency on the foreign exchange market in return for the currency to which it is pegged.Also the central bank must keep a high level of forex reserves to sell in the forex market if needed.
-* The reasons to peg a currency are linked to stability. Especially in today's developing nations, a country may decide to peg its currency to create a stable atmosphere for foreign investment.
+* In order to maintain the local exchange rate, the central bank buys and sells its own currency on the foreign exchange market in 
+return for the currency to which it is pegged.Also the central bank must keep a high level of forex reserves to sell in the forex 
+market if needed.
+* The reasons to peg a currency are linked to stability. Especially in today's developing nations, a country may decide to peg its
+ currency to create a stable atmosphere for foreign investment.
 
 
 Floating exchange rate regime:
-Currency Strength is based on :
+//Currency Strength is based on :
 1)Internal factors - can be regulated by RBI like money supply, inflation, interest rates
 2)external factor(most important factor) - not in govt/RBI hand
 Depends on global demand and supply of USD in forex market
-biggest factor that determine the strength of a currency is trade deficit. The bigger is the deficit the weaker a currency will become compared to USD.
-Advantages of currency depreciation/weak currency:
+biggest factor that determine the strength of a currency is trade deficit. The bigger is the deficit the weaker a currency will 
+become compared to USD as we need to sell INR and acquire dollar.
+
+
+//Advantages of currency depreciation/weak currency:
 Exports Become Profitable and Imports Become Expensive => Domestic Demand Increases => companies make profit, individuals 
  income increases => demand increases => GDP grows
 When inflation is low, and GDP is growing at a reasonable pace, it is a sign of healthy economy. Foreign investors like to 
 invest in such an economy. They will buy government bonds, stocks, real estate etc. This activity creates more demand for local 
 currency (USD comes in to exchange INR). Increase demand for currency (say INR) will strengthen it.
-Disadvantage: inflation if GDP growth is very high (explained in short term debt cycles below)
-Should an economy aim for stronger currency? Immediate effect of currency becoming stronger is disadvantageous. But over long term, 
-a strong currency does more benefits to its domestic economy.
+
+
+//Disadvantage: inflation, rupee depreciation
+1)if GDP growth is VERY high, Foreign investors(invest in industries/businesses) and the indian investors rush to do more economic 
+activity by taking more loans which increases the demand and when supply side  is not able to match then there is a price 
+increase(inflation) => RBI increases interest rates to control inflation => GDP growth becomes slow => foreign investors gets 
+pissed off and move the money to some other developing country with low interest rates => INR exchanged to USD and hence rupee depreciates
+2)if rupee strengthens quickly - imports will increase as they become cheaper, trade deficit increases as we need to pay them with 
+their local currencies(USD/EURO) => INR to USD/EURO exchange in the forex market and depreciation of rupee
+
+
+//Should an economy aim for stronger currency? 
+Immediate effect of currency becoming stronger is disadvantageous. As there will beno demand for imports/foreign investments and 
+there is no production that happens in the country, no assets will be built, people of the country remain poor.
+But over long term, a strong currency does more benefits to its domestic economy.
 Advantages of currency appreciation/strong currency:
-Cheaper Imports: buy quality products and services from overseas countries at lower costs. More profits for businesses and more income for individuals 
-Low Inflation: Due to cheaper (but quality) imported goods and services available for citizens, inflation remains low & within control at all times.
+Cheaper Imports: buy quality products and services from overseas countries at lower costs. More profits for businesses and they re-invest,
+ more income for individuals and they spend/invest
+Low Inflation: Due to cheaper (but quality) imported goods and services available, businesses always keep their service/products cost 
+ as low as possible(fearing to competetion) and hence inflation remains low & within control at all times.
 High Purchasing Power: Lavish life for the citizens
-High Currency Demand: can become a potential “global currency” in times to come
+High Currency Demand: can become a potential “global currency” in times to come - as individual/businesses are welathy, low inflation 
+ and GDP is growing at a slower rate
 Cheap Debt: countries and financial orgs will continue to buy the bonds even if the rates are low. Why? Because they just park their
  funds in strong currency (like USD). As the currency is in high demand, on a later date, the same currency will fetch higher returns
  as exchange rate becomes high.
 PS: strength of currency is not a real reflection of the economic well being of a nation. Along with strength of a currency, other 
- factors like GDP growth rate, high employment rate, low inflation is needed.
+ factors like good GDP growth rate, high employment rate, low inflation is needed.
 

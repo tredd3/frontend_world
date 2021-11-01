@@ -2,30 +2,33 @@
 Long term - growth - so invest only if ur focus is long term -
 Short term - volatility - making profit needs lot of analysis, experience and knowledge. 
 Dividend - given from the profit which company makes from ur share of investment.
-if dividend is given stock price remains same
+mostly if dividend is given stock price remains same
 If it is not given and re-invested share price will be increased
-//STCG - for both debt instruments and debt mutual funds
+//STCG
 Equity - 15% (<1 yr)
-Debt - added to income (<3 yrs) + tax as per income slab rate. It can be said as salary and hence  u can claim deductions under section 80C. 
+Debt - for both debt instruments and debt mutual funds, returns added to income (<3 yrs) + tax as per income slab rate. 
+It can be said as salary and hence  u can claim deductions under section 80C. 
 //LTCG -  selling the security after holding it for >1yr and earning profit
 Equity - Profit till 1 lakh is tax free. > 1 lakh  flat 10 percent
 Debt - 20% + indexation benefit
 //intraday trading - income is treated as speculative business income 
 //Dividend - Interest/ return on share - tax free till 5000 in a FY - after that 10% on excess
-DDT is removed and dividend is now taxed in the hands of investor
+DDT is removed and dividend is now taxed in the hands of investor in the same way as FD income , where interest is added to income
+and taxed as per IT slab rate 
 //STT - need to pay 0.1% of transaction value when u buy/sell security 
 while buying or selling an equity share (delivery-based), purchaser and seller both need to pay 0.1% of share value as STT.
 Share - face value(depends  on the company), market value (price - depends on demand and supply of the share in the market)
 //promoters - original shareholders/ founders of the company - they decide the face value - dividend is paid on the face value
-//Topline - Turnover/sales
-Bottom Line - profit after tax (turnover - expenses)
+//Topline - Turnover/sales/Revenues
+Bottom Line - profit after tax (turnover - all expenses)
 No.of.shares * share price = market capitalization
+No.of.shares * face price = share capital
 //share price may be different in diff markets like NSE/BSE due to demand and supply
 
 *********** Indian Market Timings ****************
-4pm - 9am : after market orders will decide the opening price of share the next day
-Gap up opening, Gap down opening, unchanged
-9am - 9:15 am : all the after market orders(AMOs) are matched
+4pm - 9am : after market orders(AMO) are placed during this time 
+AMOI's decide will decide the opening price of share the next day - Gap up opening, Gap down opening, unchanged
+9am - 9:15 am : all the after market orders(AMOs) are matched - this decides 
 9:15 am - 3:30 pm : market is open, instant order matching unlike after market orders
 
 
@@ -69,7 +72,7 @@ More shares are in demand(more people want to buy) - supply is less(limited stoc
 Closing price of a share in a day:  End of the day weighted avg price of the shares sold is published by exchange
 2)Factors that drive demand and supply
 Annual report
-Earning report
+Earning
 Products 
 Legal cases/ scams
 News

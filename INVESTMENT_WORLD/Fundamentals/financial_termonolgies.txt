@@ -1,17 +1,18 @@
-market cap : total market value of this company (the price at which whole company can be bought)
-market cap = no.of outstanding shares * market value of a share
+market cap : total market value of this company (the price at which all the shares of the company can be bought)
+market cap = no.of outstanding shares * MARKET VALUE of a share
 share capital : total capital raised via shares/equity route
-share capital = no.of outstanding shares * face value of a share
+share capital = no.of outstanding shares * FACE VALUE of a share
 share capital = initial capital brought by promoters + capital raised via IPO, FPO, rights issues, bonus shares
-during bonus issue, instrinsic value = changes every quarter/year based on the earnings released by the company
-market value = changes every second due to trading
+during bonus issue etc
+instrinsic value = changes every quarter/year based on the earnings released by the company
+market price = changes every second due to trading
 
 Authorized Shares: maximum possible number of shares a company can issue
 Treasury shares: formerly outstanding stock that has been repurchased and is being held by the issuing company and which cannot be sold in the open market.
 these shares are not included in dividend and EPS calculations
 Restricted shares: held by employees and senior management and that can't be traded
 Floating shares: shares that are held by public/DII/FII and are frequently traded in the exchanges
-outstanding shares: restricted shares + floating shares + promoter shares
+outstanding shares = restricted shares + floating shares + promoter shares
 
 LTP: last traded price
 Closing price : average of trading prices in the last 30 min
@@ -24,3 +25,4 @@ Accrual accounting: money is expected to be received in the future
 Cash accounting: money is received instantly
 
 concentrated industry: market scenario where a few large companies have a very high market share in the business in the industry.
+fragmented industry: 
