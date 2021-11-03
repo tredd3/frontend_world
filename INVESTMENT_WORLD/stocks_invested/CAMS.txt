@@ -1,4 +1,13 @@
 why CAMS?
+Overall: 
+Ur Ranking: 
+CRISIL: 
+
+------------- About -------------
+
+
+
+-------- why to buy and hold? Business Strengths ---------
 CAMS is India’s largest registrar and transfer agent , asset light business model and provides services to businesses
 only 2 players in this RTA business in india (CAMS and KARVY)
 huge potential for mutual fund industry growth in india
@@ -20,7 +29,12 @@ The company has 7 business verticals, these are
 7)Software Solution Business - owns, develops, and maintains the technology solutions for mutual fund clients.
 
 
-Moats:
+
+//Growth oppurtunities
+
+
+
+//Moats:
 Switching costs: RTA business is sticky, if a mutual fund is being serviced by a particular RTA shifting to another RTA is difficult 
  as huge amount of data and information needs to be transferred and there is a high risk of disruption of operations and customer experience
 Entry barriers: because of switching costs, also MF RTA business is technology intensive requiring continuous upgradation of 
@@ -28,8 +42,33 @@ Entry barriers: because of switching costs, also MF RTA business is technology i
  is justified only if volumes are adequate, hence a new players has to think twice before entering this space
 
 
-Risk:
+
+
+--------- why you shouldn't hold the company? Business Weakness ----------
+...
+
+
+//Competettion
+
+
+
+//Risks
 Revenues are dependent on AAUM of mutual funds, if AAUM managed were to decline due to tough market conditions, revenues of CAMS will be impacted
 Top 5 clients contributed to 68% of revenues in FY20. Client concentration risk is high, even if 1 client were to move to another player, revenues will be impacted
 Regulations impacting mutual funds will impact the RTAs. For instance the latest regulation of capping expense ratios for AMCs will impact RTAs
 Company handles confidential data – personal and financial information of clients. Any breach of their systems will create legal and regulatory risk
+
+
+--------- Financials -----------
+//Financial strengths
+
+
+//Financial weakness
+
+
+
+--------- My filter check --------------
+
+
+
+------- Valuation -----------

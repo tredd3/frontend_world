@@ -3,6 +3,7 @@ BUSINESS + FINANCIAL +  Management + VALUATION (all are equally important) + Mar
 fair price for Value companies)
 
 //FIRST set of companies - getting them on fair valuation is also fine
+CRISIL Rating must be Above A
 Note: increase margin of safety for companies which doesn't pass important filters
 1)why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
 2)check the share price in wiki (continously decreasing know the reason why)

@@ -1,5 +1,10 @@
 Company name : sector/main business
 //summary section
+CRISIL Ratings:
+A AA AAA (Adequate to highest safety)
+B BB BBB (Moderate to high risk)
+C (Very high risk)
+D (Default)
 Resources to know the business : 
 company filings(investor presentation, annual report, conference calls) from tijori
 screener summary, crisil ratings and analysis at the end of the page

@@ -136,7 +136,7 @@ RII - Retail individual investors - invest in IPO for <= 2 lakh
 HNI - High net worth individuals - invest in IPO for > 2 lakh
 DII - domestic institutional investor - banks, LIC companies, MFs
 FII/FPI - foreign institutional investor
-FDI - foreign direct investors (buys huge amount of stake in the company)
+FDI - foreign direct investors (buys huge amount of stake in the company, having management control)
 
 ******** Things needed for trading *********
 1)Bank Account
@@ -155,12 +155,17 @@ Also converts physical shares to demat format
 NSDL - National Securities Depository Limited which deals with "National Stock Exchange" (NSE)
 CDSL - Central Depository Securities Limited which works for Bombay Stock Exchange (BSE)
 Broker is a member of any stock exchange. Trading account is opened with a broker
-A discount brokerage is a business that allows clients to buy and sell securities but does not provide advice, research, planning or other investment services. As a result, discount brokerages charge lower fees.
+A discount brokerage is a business that allows clients to buy and sell securities but does not provide advice, research, planning or 
+ other investment services. As a result, discount brokerages charge lower fees.
+A full service broker like ICICI Securities does research provides recommendations etc for a fee
 Depository participant is a member of any depository- NSDL, CDSL. while, a Demat account is opened with a depository participant.
 Demat account can only be opened with DP and not directly with CDSL,NSDL
-Every Demat Account has its own unique 16 digit account number which is assigned by the Depository Participant, or the DP, to the Demat Account holder. ... The Demat Account number is also known as Beneficiary Owner ID or BO ID.
+Every Demat Account has its own unique 16 digit account number which is assigned by the Depository Participant, or the DP, to the 
+ Demat Account holder.The Demat Account number is also known as Beneficiary Owner ID or BO ID.
 Trading Flow:
-Seller/buyer - broker(trading account, places orders in  exchange) - stock exchange(order executed/matched) - broker gets the trades info from exchange - sends the demat, bank account and trades info to clearing house (settlement in T+2 days - debit and credit bank and demat accounts) and also depositories (refer above)
+Seller/buyer - broker(trading account, places orders in  exchange) - stock exchange(order executed/matched) - broker gets the
+ trades info from exchange - sends the demat, bank account and trades info to clearing house (settlement in T+2 days - debit 
+ and credit bank and demat accounts) and also depositories (refer above)
  
 
 ************ Primary and secondary markets ***********
@@ -173,16 +178,21 @@ FPO(follow-on public offer), an already listed company issues fresh shares to ne
 OFS(offer for sale) - promoters sell their shares to public.
 Money goes to promoters and they might spend it or reinvest in the same business or Strat a new business, completely up to them
 Fresh Issue - money goes to company as equity and used by the company to do business and grow further
-Grey Market is the term used to describe unregulated over-the-counter market for trading IPO applications and IPO shares before the stock is listed at a stock market. This is a way for dealers to support their customers who may want to exit before listing.
+Grey Market is the term used to describe unregulated over-the-counter market for trading IPO applications and IPO shares before the 
+ stock is listed at a stock market. This is a way for dealers to support their customers who may want to exit before listing.
 There are two kinds of transactions that happen in the IPO grey market:
 * Trade of IPO shares at a grey market premium
 * Trade of IPO application at a kostak.
-GMP or Grey Market Premium is the premium at which equity shares from the IPO are being traded in the grey market. This could either be a positive or negative – meaning the trading price in the grey market is either higher or lower than issue price respectively, based on demand and supply for the shares.
-Typically, investors who do not want to take the risk of allocation not happening through IPO will buy shares in the gray market and hope to flip the shares on listing to make a good profit.
+GMP or Grey Market Premium is the premium at which equity shares from the IPO are being traded in the grey market. This could either be a
+ positive or negative – meaning the trading price in the grey market is either higher or lower than issue price respectively, based 
+ on demand and supply for the shares.
+Typically, investors who do not want to take the risk of allocation not happening through IPO will buy shares in the gray market and 
+ hope to flip the shares on listing to make a good profit.
 Kostak rate is the amount an investor gets by selling his/her IPO application in grey market. This is the amount an investor stands to gain, irrespective of allotment status.
-Subject to Sauda simply reflects the amount which an investor stands to get by selling his/her application for firm allotment. The key operative word here is firm allotment. In case of no allotment to the applicant, the sauda stands cancelled.
+Subject to Sauda simply reflects the amount which an investor stands to get by selling his/her application for firm allotment. The key 
+ operative word here is firm allotment. In case of no allotment to the applicant, the sauda stands cancelled.
 
-Secondary market - transaction b/w investor and stock exchange - issuer company is not involved
+Secondary market - transaction b/w investors via stock exchange - issuer company is not involved
 
 
 **** company size based on market capitalization ******

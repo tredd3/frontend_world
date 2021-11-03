@@ -1,29 +1,71 @@
-About:
+Overall: 
+Ur Ranking: Grade B
+CRISIL: A -
+
+------------- About -------------
 56 year old company
 End to end water treatment solution provider
+robust nationwide after sales service have helped to establish its brand
 Segments: 
 Engineering(helps in setting up water treatment plant) - 63% revenue
-consumer products - 7% revenue
-chemicals - 30% revenue
-
-
-//why to buy and hold?
-The company has over 50 patents to their credit and 100+ products commercialized.
-The company has a global presence apart from presence in major cities in India
+consumer products(for homes, institutions and community) - 7% revenue
+chemicals(chemical treatment of water by manufacturing and selling ion-exchange resins and industrial chemicals) - 30% revenue
 The company exports to Africa, Japan, Middle East, Russia, South East Asia,Europe, UK, USA, Canada and neighbouring countries.
 
 
-//Strengths
+-------- why to buy and hold? Business Strengths ---------
+The company has over 50 patents to their credit and 100+ products commercialized
+The company has a global presence apart from presence in major cities in India
+very strong order book - almost 50% of order book
+very good and established clients in india
+customers in diverse industries, thus protecting the Ion Exchange group from downturn in any one industry.
+Management focus on adding high margin products and dropping off low margin products
+
+//Growth oppurtunities
+Projects under Jal Jeevan Mission can fetch continous revenue for the company - As of now contract recieved for rural water drinking 
+ supply to 1,000 villages in two districts of UP under this mission (worth 1000 cr)
+Note: 1cr for a village, india has 6.5 lakh villages
+20% revenue growth over next 3yrs because of good order inflow - managemnt comments
+good response from the international market for various chemical products - hence doing a CAPEX of more than 100cr
+strong bid pipeline(domestic + international) - possibility of them being converted to orders if they win
 
 
-//Weakness/Risks
+//Moats
+clean Water is a must for everyone and it is an end to end integrated and established player in water industry
+robust nationwide after sales service have helped to establish its brand
+patented products - continous spend on R&D to stay in the game and come with more value added products
 
 
-//Financial
+--------- why you shouldn't hold the company? Business Weakness ----------
+Promoter holding has decreased over last 3 years: -17.03%
+Promoter holding is low: 27.01%
+
+//Competettion
+very high Competettion from both organised and unorganised players
+
+
+//Risks
+The margins pressure due to increase in raw material costs //management says it will increase prices to counter this
+bidding process to grab projects - pressure on revenues as they must bid at lower prices to get orders //but management says it is 
+ only focusing on profitable and high margin oppurtunities
+susceptibility to economic downturns - orders depends on corporate sector capex, which only happens in bull cycle (moreover 
+ 61% of revenues is from engineering divison)
+Tech R&D just like Praj, ABB - technology initself doesn't have any moat
+
+
+--------- Financials -----------
+//Financial strengths
+sales CAGR 5yr is 10%, profit CAGR 5yr is 56%
+Solid ROE, ROCE
+working capital reduced to 9 days from 70 days
+Inventory remained small at 38-45 days
+
+//Financial weakness
+low OPM and NPM
+
+
+--------- My filter check --------------
 
 
 
-//My filter check
-
-
-//Valuation
+------- Valuation -----------
