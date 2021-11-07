@@ -1,0 +1,58 @@
+US stocks to invest: My picks
+//index funds - 2
+//S&P 500 vangaurd growth fund
+//Vanguard Small-Cap Growth Index Fund
+//Invesco DWA Healthcare Momentum ETF
+
+
+//Finance - 13
+Visa 
+Mastercard
+Moody’s
+S&P
+ICE - owner of NYSE stock exchange
+CME - world’s largest financial derivatives exchange
+Nasdaq 
+MorningStar - mutual fund rating agency, research na investment advices
+Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
+United health group - largest insurance company by net premiums in US + health care products
+Blackrock - AMC with  largest AUM in the US, with foot in Europe and China
+JP Morgan chase - largest bank in the United States, the world's largest bank by market capitalization
+Bank of America -  second Largest bank in America
+
+
+//Life Style -11
+Apple
+Facebook (wtsapp, Instagram, Linkedin)
+Walt disney
+Nike
+Altria
+Johnson & Johnson
+Procter and Gamble
+Pfizer
+Walmart
+Kroger
+Target
+
+
+//Tech - 10
+Alphabet(GOOGL)
+Atlassian Corporation PLC
+Tesla
+Mongo DB
+Microsoft (Linkedin)
+Amazon
+Alibaba
+Qualcomm
+Adobe 
+Nvidia
+
+
+//Food - 7
+Domino's Pizza
+McDonald
+Yum Brands(KFC, Pizzahut, Taco bell)
+Yum china
+Papa Johns
+Cococola	
+Pepsico

@@ -1,0 +1,14 @@
+Photovoltaic panels include one or more PV modules assembled as a pre-wired, field-installable unit.
+Solar/PV modules are made up of smaller units called solar cells
+Solar cell is made from silicon (second most abundant element on earth)
+Light/photons that falls on solar/silicon cells eject the electrons, they travel and go back to where they have left
+Each solar cell can give u half a volt
+Solar Glass is the protector of solar panels
+
+
+//Cell efficiency is very important
+If the cell  doesn’t absorb sunlight and reflects it then energy is gone
+If the electron fallback to a hole before going through the circuit 
+Most efficient cell can only convert 46% of photons to electriity
+Most commercial systems are only 15-20% efficient  
+on extremely hot or cold days when the system DC voltage may exceed the inverter's permissible input voltage range, hence effective solar inverters should also be in the market
