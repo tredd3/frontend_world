@@ -1,9 +1,4 @@
 ***** Portfolio Framework***** 
-Golden/Thumb rules:
-—Cash is not good investment - inflation will reduce its worth Invest in productive assets
-—Patience is the key to success in stock market
-—Compounding is the 8th wonder - time is the key, make the most of it by investing early
-—when everyone is greedy be fearful and when everyone is fearful be greedy
 — portfolio diversification - very important but why?
 Even across MFs(diff varieties) and stocks(diff sectors)
 e.g: assume there are 100 MFs, only few MFs can beat the index, others will underperform in a way that the average return of all 100MFs will be equal to index

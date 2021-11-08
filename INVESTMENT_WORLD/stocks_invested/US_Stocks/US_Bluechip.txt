@@ -1,8 +1,10 @@
 US stocks to invest: My picks
 //index funds - 2
-//S&P 500 vangaurd growth fund
 //Vanguard Small-Cap Growth Index Fund
-//Invesco DWA Healthcare Momentum ETF
+//Invesco Dynamic Semiconductors (Nvidia is a part of this)
+//Invesco DWA Healthcare Momentum ETF 
+
+//S&P 500 vangaurd growth fund
 
 
 //Finance - 13
@@ -21,9 +23,8 @@ JP Morgan chase - largest bank in the United States, the world's largest bank by
 Bank of America -  second Largest bank in America
 
 
-//Life Style -11
+//Life Style - 10
 Apple
-Facebook (wtsapp, Instagram, Linkedin)
 Walt disney
 Nike
 Altria
@@ -35,17 +36,17 @@ Kroger
 Target
 
 
-//Tech - 10
+//Tech - 9 (+2)
 Alphabet(GOOGL)
+Facebook (wtsapp, Instagram, Linkedin)
 Atlassian Corporation PLC
-Tesla
 Mongo DB
 Microsoft (Linkedin)
 Amazon
 Alibaba
 Qualcomm
-Adobe 
-Nvidia
+Adobe
+AMD/Intel
 
 
 //Food - 7
