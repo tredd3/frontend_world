@@ -12,6 +12,8 @@ check moneycontrol SWOT analysis
 check tickertape and  morning star for valuation confirmation
 check misc_negative.txt
 https://www.valueresearchstocks.com/recos-current
+https://www.moneycontrol.com/equity-research/stock-recommendations-active
+
 
 **STRENGTH
 //MOAT or competitive advantage?
