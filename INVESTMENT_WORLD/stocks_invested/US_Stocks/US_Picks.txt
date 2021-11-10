@@ -1,4 +1,13 @@
 US stocks to invest: My picks
+1)Global Monopolies
+2)High growth businesses
+
+//Tax
+//US Stocks:
+Dividends are taxed at source at a rate of 25%
+STCG: Less than 24 months, Income tax slab rate (+ surcharge and cess)
+LTCG: More than 24 months @ 20%
+
 //index funds - 2
 //Vanguard Small-Cap Growth Index Fund
 //Invesco Dynamic Semiconductors (Nvidia is a part of this)
