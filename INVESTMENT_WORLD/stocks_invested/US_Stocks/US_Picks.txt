@@ -1,18 +1,52 @@
 US stocks to invest: My picks
 1)Global Monopolies
 2)High growth businesses
+3)stay away from dividend stocks because of high tax rate
 
-//Tax
-//US Stocks:
-Dividends are taxed at source at a rate of 25%
+
+//All about investing in US Stocks:
+https://vested.co.in/blog/how-to-invest-in-the-us-stock-market-from-india/
+** Investing in US stocks or ETFs by Indian investors is permissible under the RBI’s Liberalized Remittance Scheme (LRS)
+1)Tax:
+--Taxes on investment gains: You will be taxed in India for this gain
 STCG: Less than 24 months, Income tax slab rate (+ surcharge and cess)
-LTCG: More than 24 months @ 20%
+LTCG: More than 24 months @ 20% + indexation benefit (same as debt funds in india)
+--Taxes on dividends: Unlike investment gains, dividends will be taxed in the US at a flat rate of 25%.
+For e.g: if Microsoft gives an investor $100 of dividend, it will withhold $25 as tax, and will give the investor 
+the post tax dividend of $75. Subsequently, this post tax dividend is included as taxable income in India (as normal income).
+Fortunately, US and India have a Double Taxation Avoidance Agreement (DTAA), which allows taxpayers to offset income tax already
+ paid in the US. The 25% tax you already paid in the US is made available as Foreign Tax Credit and can be used to offset your 
+ income tax payable in India.
+2)you are allowed to invest up to US $250,000 per year per person (roughly 2cr)
+Once the remittance amount exceeds 5 lakh rupees per person per year u need to submit form 15CA
+3)Convert INR to USD - GST of 0.18% is charged 
+i.e 180rs for every 1lakh deposited
+4)USD to INR - $11 withdrawal in vested
+in Ind Money if the withdrawl amount exceeds $2000 it is free
+Note: Both Vested and Ind money are investment advisory firms, hence they never keep ur cash/Stocks with them
+Its either the broker that keeps both the USD cash and the securities.
+5)What if he runs with the money/goes bankrupt? - Insurance covers for us
+we are Insured up to $250k(cash) and up to $250k(securities), i.e total $500k under SIPC Act
+6)Buy fractional shares unlike india 
+Note: But keep more money in India as india's growth will be much higher, however Global monopolies and growth companies 
+ can give you significant returns over longterm
 
-//index funds - 2
+
+//Reasons for investing in US/Global markets
+1)Most of the Global monopolies are in the US and one of the best growing companies are in China
+2)US is the biggest economy with 21 trillion$ GDP and china is second biggest which has the potential to become 1st
+3)Rupee depreciation that will happen for India to grow , will put more return on top of the actual returns
+4)correlation: hardly there is any correlation between US, China and Indian Stock markets
+5)Diversification
+
+
+//Index funds - 2
+S&P 500: tracks the performance of the 500 largest US companies by market capitalization. In the year 2019, the S&P 500 surged more than 28%, which is the highest increase since 2013.
+Dow Jones Industrial Average: tracks the performance of 30 large US companies trading on the New York Stock Exchange (NYSE) and the NASDAQ. In 2019, the Dow Jones gained 22% for the year.
+Nasdaq Composite Index: tracks over 2,500 securities listed on the NASDAQ. In 2019, the Nasdaq Composite Index broke through the 9,000 level for the first time ever.
 //Vanguard Small-Cap Growth Index Fund
 //Invesco Dynamic Semiconductors (Nvidia is a part of this)
 //Invesco DWA Healthcare Momentum ETF 
-
 //S&P 500 vangaurd growth fund
 
 
@@ -23,8 +57,8 @@ Moody’s
 S&P
 ICE - owner of NYSE stock exchange
 CME - world’s largest financial derivatives exchange
-Nasdaq 
-MorningStar - mutual fund rating agency, research na investment advices
+Nasdaq - first electronic exchange in the world
+MorningStar - mutual fund rating agency, research and investment advices
 Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
 United health group - largest insurance company by net premiums in US + health care products
 Blackrock - AMC with  largest AUM in the US, with foot in Europe and China

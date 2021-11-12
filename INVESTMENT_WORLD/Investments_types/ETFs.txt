@@ -1,0 +1,19 @@
+
+********* Index funds vs ETFs ************
+Both are same from investment perspective
+But Index funds are preferred.
+
+Index funds :
+units are bought from  MF houses - no liquidity issues
+No need to have trading and demat account
+Expense ratio may be more compared to ETFs
+SIPs are easy by providing mandates
+No transaction charges
+Issue: Buy/sell only at NAV of closing day if bought before 3pm else next day closing NAV
+
+ETFs:
+Bought from exchange - There can be iquidity issues if there are no sellers/buyers
+Must have a trading and demat account
+SIPs need to done actively no mandates allowed
+Transaction charges are levied by broker as buy/sell happens on exchanges
+Adv: But/sell at market price

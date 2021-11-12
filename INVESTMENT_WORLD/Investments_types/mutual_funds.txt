@@ -6,6 +6,18 @@ Overall floating shares : DII + FII (60%)
 Mutual fund returns are nothing but economy/industry returns
 Hence only few mutual funds can give u index beating returns and not all bcoz at the end the aggregate returns of all mutual funds must be equal to economy/industry returns
 
+**** new mutual fund types ******
+Feeder fund:
+AMC has a master fund in some other country say US and now the indian/foreign subsidary of that AMC 
+ raises money in india/foreign country and invests the pooled money in the parent AMC.
+They are only allowed to invest in parent AMC and no other fund.
+The parent AMC then invests it in direct stocks
+Note: you need to pay two expense ratios for both subsidary and parent company
+
+Fund of Fund:
+AMC in india collects money and invests in multiple funds in various countries
+Note: Here also you need to pay two expense ratios for both subsidary and parent company
+
 
 ******** How to choose the best fund to invest *********
 1)Based on time frame:
@@ -116,23 +128,3 @@ share/MF unit market price <  share/unit value - buy them
 share/MF unit market price =  share/unit value - hold them if u r confident on the company/industry future
 Also when markets are down  - buying is the best
 When markets are up - selling is the best
-
-
-********* Index funds vs ETFs ************
-Both are same from investment perspective
-But Index funds are preferred.
-
-Index funds :
-units are bought from  MF houses - no liquidity issues
-No need to have trading and demat account
-Expense ratio may be more compared to ETFs
-SIPs are easy by providing mandates
-No transaction charges
-Issue: Buy/sell only at NAV of closing day if bought before 3pm else next day closing NAV
-
-ETFs:
-Bought from exchange - There can be iquidity issues if there are no sellers/buyers
-Must have a trading and demat account
-SIPs need to done actively no mandates allowed
-Transaction charges are levied by broker as buy/sell happens on exchanges
-Adv: But/sell at market price
