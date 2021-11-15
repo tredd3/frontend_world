@@ -40,57 +40,31 @@ Note: But keep more money in India as india's growth will be much higher, howeve
 5)Diversification
 
 
-//Index funds - 2
+//Indexes
 S&P 500: tracks the performance of the 500 largest US companies by market capitalization. In the year 2019, the S&P 500 surged more than 28%, which is the highest increase since 2013.
 Dow Jones Industrial Average: tracks the performance of 30 large US companies trading on the New York Stock Exchange (NYSE) and the NASDAQ. In 2019, the Dow Jones gained 22% for the year.
 Nasdaq Composite Index: tracks over 2,500 securities listed on the NASDAQ. In 2019, the Nasdaq Composite Index broke through the 9,000 level for the first time ever.
-//Vanguard Small-Cap Growth Index Fund
-//Invesco Dynamic Semiconductors (Nvidia is a part of this)
-//Invesco DWA Healthcare Momentum ETF 
-//S&P 500 vangaurd growth fund
 
 
-//Finance - 13
-Visa 
-Mastercard
-Moody’s
-S&P
-ICE - owner of NYSE stock exchange
-CME - world’s largest financial derivatives exchange
-Nasdaq - first electronic exchange in the world
-MorningStar - mutual fund rating agency, research and investment advices
-Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
+//ETFs and Index funds - 4
+1)Vanguard Small-Cap Growth Index Fund
+2)VanEck Vectors Semiconductor ETF (only top 25 semiconductor companies where 75% composition is : 
+Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/analogDevices/Applied Materials)
+3)VanEck Vectors Environmental Services ETF
+4)Vanguard Health Care Index Fund ETF(50% composition is: United health group/Johnson&Johnson/Nerck/Pfizer/Abbvie etc)
 United health group - largest insurance company by net premiums in US + health care products
-Blackrock - AMC with  largest AUM in the US, with foot in Europe and China
-JP Morgan chase - largest bank in the United States, the world's largest bank by market capitalization
-Bank of America -  second Largest bank in America
 
 
-//Life Style - 10
-Apple
-Walt disney
-Nike
-Altria
-Johnson & Johnson
-Procter and Gamble
-Pfizer
-Walmart
-Kroger
-Target
-
-
-//Tech - 9 (+2)
+//Tech - 9
 Alphabet(GOOGL)
 Facebook (wtsapp, Instagram, Linkedin)
+Amazon
+Netflix - largest media and entertainment company by marketcap + 40% content producted inhouse
 Atlassian Corporation PLC
 Mongo DB
 Microsoft (Linkedin)
-Amazon
 Alibaba
-Qualcomm
 Adobe
-AMD/Intel
-
 
 //Food - 7
 Domino's Pizza
@@ -100,3 +74,44 @@ Yum china
 Papa Johns
 Cococola	
 Pepsico
+
+//Finance - 18
+Visa 
+Mastercard
+Moody’s
+S&P Global
+ICE - owner of NYSE stock exchange
+CME - world’s largest financial derivatives exchange
+Nasdaq - first electronic exchange in the world
+MorningStar - mutual fund rating agency, research and investment advices
+Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
+Interactive Brokers Group Inc - clients from 200+ countries and territories invest globally and the largest full service broker in US
+  ICICI direct works with this broker.IBKR is the top pick for active traders and anyone who wants access to international markets.
+The Charles Schwab Corporation - largest discount broker in the US, 3rd largest asset manager in the world, behind BlackRock and Vanguard.
+  Charles Schwab is a good pick for casual investors and beginners.
+Blackrock - AMC with largest AUM in the US and in the world, with foot in Europe and China. 
+  BlackRock operates globally with 70 offices in 30 countries and clients in 100 countries
+  Largest provider of ETFs in the world by the name of ishares
+BlackStone - largest AIF(Alternative investment fund) in the US - investing private equity, funding startups, venture capitalist etc
+KKR & Co -   private equity and real estate investment firm specializes in acquisitions, leveraged buyouts, management buyouts, credit special situations
+Carlyle Group - Global Private Equity, Global Credit, and Investment Solutions.
+JP Morgan chase - largest bank in the United States, the world's largest bank by market capitalization
+Bank of America -  second Largest bank in America
+Royal bank of Canada - largest bank in Canada
+
+
+//Life Style - 12
+Apple
+Walt disney - media and entertainment
+Sony - media and entertainment
+WWE - World Wrestling Entertainment 
+Nike - biggest Sportswear company in the world
+Lululemon Athletica - exclusive yoga apparel
+Columbia Sportswear Company - sports wear
+Altria
+Procter and Gamble
+Royal Caribbean cruises - world's second-largest cruise line operator
+Carnival Corporation - Tourism and experiences, largest cruise vacation company in the world
+Walmart
+Kroger
+Target
