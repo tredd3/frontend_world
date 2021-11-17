@@ -46,12 +46,12 @@ Dow Jones Industrial Average: tracks the performance of 30 large US companies tr
 Nasdaq Composite Index: tracks over 2,500 securities listed on the NASDAQ. In 2019, the Nasdaq Composite Index broke through the 9,000 level for the first time ever.
 
 
-//ETFs and Index funds - 4
+//ETFs and Index funds - 3
 1)Vanguard Small-Cap Growth Index Fund
 2)VanEck Vectors Semiconductor ETF (only top 25 semiconductor companies where 75% composition is : 
 Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/analogDevices/Applied Materials)
-3)VanEck Vectors Environmental Services ETF
-4)Vanguard Health Care Index Fund ETF(50% composition is: United health group/Johnson&Johnson/Nerck/Pfizer/Abbvie etc)
+3)VanEck Vectors Environmental Services ETF - optional
+4)Vanguard Health Care Index Fund ETF (symbol: VHT)(50% composition is: United health group/Johnson&Johnson/Nerck/Pfizer/Abbvie etc)
 United health group - largest insurance company by net premiums in US + health care products
 
 
