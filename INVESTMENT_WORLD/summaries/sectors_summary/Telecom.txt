@@ -1,10 +1,41 @@
 Telecom - no moats, commodity type service and high regualatoty oversight 
-heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
 capital intensive business
-strong financial strength needed to continously improve network (hence generally have high debt)
+strong financial strength needed to continously upgrade and improve network and technology (hence generally have high debt)
 high fixed cost business (i.e during low demand where revenues can't suffice u need to pay from reserves or even take debt)
 highly competetive industry (i.e firms compete on price hence margins are thin)
-highly regulated industry (firms need to be flexible enough)
+highly regulated industry (firms need to be flexible enough to change their tariff structure and streamline operations)
 any technology advantages can be easily wiped off by competetitiors by providing similar service
 keep in mind to check:
 debt, margins, operating leverage (extremely high compared to peers can be deadly combined with high debt)
+
+
+//Situation in India
+Telecos heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
+ The cost of data per GB (gigabyte) per month in India is the lowest in the world at USD 0.09.
+ the cost per GB is still very low (USD0.70 in Bangladesh, USD1.12 in Malaysia, and USD1.23 in Thailand). This cost stands at USD8 in the US.
+Meanwhile, the cost incurred by Indian companies to maintain networks is almost similar to that of their global peers.
+
+//Airtel
+ has a clear focus on its high-value customers since this segment is most likely to absorb reasonable tariff hikes, there is no 
+  pressing need for the telco to do so, as it currently leads the market in terms of Arpu (INR157 vs. INR140 for Jio and INR114 for Vi in Q1 FY21).
+Airtel with the bold of 255 tariff rise has reiterated its strategic focus on high-Arpu subscribers. 
+Airtel’s 50% smartphone subscribers contribute 70% of its revenue
+
+//Jio
+Given its ambition of 500 million subscribers by 2023, it is unlikely to raise tariffs. Instead, Jio would want to cash in on this
+ opportunity to increase its subscriber base 
+Jio 70% of smartphone subscribers contribute 80% of revenue.
+
+//Vi
+Vi certainly needs an immediate hike in tariff of around 100%, as it would boost its Arpu (average revenue per user) and strengthen
+  books, besides restoring investors’ confidence, which can eventually translate into fresh fund infusion. 
+However, since Vi has a larger share of low-Arpu subscribers, raising the low-end tariffs could backfire
+Vi has the lowest number of smartphone users (just over 40%) out of total subscribers, but it realises 70% of its revenue from them.
+ The remaining 60% of its feature-phone subscribers contribute 30% to its revenue. So even if it loses some part of this 60% 
+ feature-phone subscribers to competition, the impact on revenue will not be high. 
+
+
+//Conclusion
+But telecom is an esessential/Utility service that is needed by every individual throughout their lifetime. so bet on the 
+companies which provide services to telecom operators (like sterlite technologies which provide optical cable upgradation services,
+ Tejas networks(telecom network parts/hardware) etc)

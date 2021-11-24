@@ -7,15 +7,16 @@ CRISIL Rating must be Above A
 Note: increase margin of safety for companies which doesn't pass important filters
 1)why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
 2)check the share price in wiki (continously decreasing know the reason why)
-3)check shareholding pattern
+3)check shareholding pattern and trend over the years in tijori
 4)can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
 5)avoid companies with intense competettion (The intense competition could restrict company's revenue growth and it
  takes away its pricing power)
 6)monopoly or duopoly
 7)repeat business
-6)owns customer minds
-7)what is the competettive advantage
-is the competettive advantage durable?
+6)owns customer minds? 
+7)what is the competettive advantage/MOAT and does the company have one compared to its competetiors?
+  if yes is it durable?
+  if NO what is the 10 yr picture u have in ur mind? will it build one?
 8)entry barriers - bcoz the businesses are difficult to start/replace/maintain
   check market share trend over the years
 9)geographical diversification - globally present? if not does it have a deep rural reach?
@@ -27,19 +28,40 @@ if B2C (products must be useful for each and every individual and have a strong 
 if business service companies (almost every business should find its usage now or eventually)
 12)non commoditized business, if commoditized then must be a low cost producer
 13)non cyclical or least cyclical
-14)pricing power - are people ready to pay premium
-15)not dependent on/tightly linked to fortunes of any sector/company
+cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
+14)pricing power - are people ready to pay premium (can the compnay increase the product prices in the cases like inflation and
+  be sure that people still buy their products?)
+ This will happen only when they add value to the customers in terms of 
+   i)quality of product/service OR
+   ii)affordable price OR any other thing which their competetiors cannot give
+15)not dependent on/tightly linked to fortunes of a single client company/certain companies
 16)not dependent on govt lifting bans on imports, govt subsidies/schemes or order inflows only from 
-17)strong financials for 10yrs - especially check their 5/10yr cash flow analysis in tijori
+  govt or limited clients or will get orders only on low bidding(here others can take over or it will
+  put pressure on margins)
+17)strong financials for 10yrs - especially check their 5/10yr cash flow analysis in tijori and initial summary section in screener
 18)debt free or almost debt free
-19)should not require contionus investment on capex
+19)should not require contionus investment on capex OR significant investment in R&D (for eg some pharma companies put >40% of
+  revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash)
+e.g: Telecom companies need to continously upgrade their network equipments and infra
 20)High growth potential - both vertically (nation wide including rural areas) and horizontally (internationally)
+   avoid companies with limited market size - as the companies doesn't have an option to expand beyond a certain point
+   e.g some companies market is limited to only domestic and that too only few businesses/clients need it
+21)Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
+  i) company will not have that USP built in , it will not have any core philosophy and hence might not attract investors. 
+  ii)Also the cost at which it is acquiring companies is very important. what if all the acquired companies work culture is 
+    different ? there will not be any synergy 
+  iii)rather it will be very complex for the management to handle putting the companies revenues and growth for a toss.
+  iv)management will not have a mindset to fix the business model, rather always think of few more acquisitions to solve the
+    all the problems mentioned.
 
 
 //SECOND set of companies - high margin of safety
-1)sleeping gaints awakened
-2)ignored companies that have very strong growth potential in the future
-3)emerging tech companies
-4)deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
-5)niche/extreme niche
-6)limited market size - but not preferred unless u can track effectively
+sleeping gaints awakened (turnaround like IDFC First, VI)
+value unlocking(highly profitable companies getting demerged from conglomerates
+  e.g: ITC Infotech, ITC FMCG demerger from ITC group
+ignored companies that have very strong growth potential in the future
+emerging tech companies
+companies in emerging industries
+companies acquiring market share from organised peers or unorganised peers
+deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
+niche/extreme niche
