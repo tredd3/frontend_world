@@ -2,8 +2,9 @@
 BUSINESS + FINANCIAL +  Management + VALUATION (all are equally important) + Margin of safety(for growth companies,
 fair price for Value companies)
 
+
 //FIRST set of companies - getting them on fair valuation is also fine
-CRISIL Rating must be Above A
+CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
 Note: increase margin of safety for companies which doesn't pass important filters
 1)why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
 2)check the share price in wiki (continously decreasing know the reason why)
@@ -30,7 +31,7 @@ if business service companies (almost every business should find its usage now o
 13)non cyclical or least cyclical
 cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
 14)pricing power - are people ready to pay premium (can the compnay increase the product prices in the cases like inflation and
-  be sure that people still buy their products?)
+  be sure that people still buy their products?) proof: Net profit Margin trend(tijori)
  This will happen only when they add value to the customers in terms of 
    i)quality of product/service OR
    ii)affordable price OR any other thing which their competetiors cannot give
@@ -53,6 +54,8 @@ e.g: Telecom companies need to continously upgrade their network equipments and 
   iii)rather it will be very complex for the management to handle putting the companies revenues and growth for a toss.
   iv)management will not have a mindset to fix the business model, rather always think of few more acquisitions to solve the
     all the problems mentioned.
+2))operating expenses under control? this parameter indicates management efficiency 
+  check the trend in Tijori
 
 
 //SECOND set of companies - high margin of safety

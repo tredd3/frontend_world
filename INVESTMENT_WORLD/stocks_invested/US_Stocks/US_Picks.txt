@@ -63,7 +63,7 @@ Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/
 United health group - largest insurance company by net premiums in US + health care products
 
 
-//Tech - 14
+//Tech - 15
 Alphabet(GOOGL)
 Facebook (wtsapp, Instagram, Linkedin) - meta platform
 Amazon
@@ -84,6 +84,8 @@ Autodesk - provides 3D design, engineering, and entertainment software and servi
 Lockheed Martin Corporation - a security and aerospace company
 Palo Alto Networks - American multinational cybersecurity companyserves over 70,000 organizations in over 150 countries, 
       including 85 of the Fortune 100.former Google and SoftBank executive Nikesh Arora joined the company as Chairman and CEO.
+UIpath - robotic process automation (where all the high volume,repetettive and boring tasks are automated, which gives room for 
+  employees to focus on more strategic work hence improving productivity,cost saving and efficiency for company)
 
 
 //Food - 7

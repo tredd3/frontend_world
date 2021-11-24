@@ -3,3 +3,29 @@ R&D heavy - need to do constant innovation
 like supporting engines for petrol blended with ethanol,
 electrical vehicles and their support, hydrogen fuel cell technology
 Capex for manufacturing
+
+
+//Engine types
+ICE(internal combustion engines) - diesel and petrol vehicles
+Mild Hybrid - Engines that run efficiently if used with ethanol blended petrol 
+BEV - fully electric
+Fuel cell technlogy - green hydrogen
+Hybrid - Mild Hybrid + BEV
+
+
+//Ethanol
+organic chemical compound, which is produced from feedstock (sugarcane, sugar, molasses, maize and damaged food grains, etc.), also 
+blends with petrol and power vehicles.
+why use Ethanol:
+A reduction of import dependence on fossils, cost savings, lower emissions(Environment), cost (forex) and extra income for farmers
+Ethanol is also a better-quality fuel due to its high-octane number, which enhances engine efficiency 
+Govt wants E20 fuel (20 per cent ethanol, 80 per cent petrol), which reduces hydrocarbon effluents by 20 per cent (carbon monoxide by 30-50 per cent)
+To meet this ambitious government target, the total ethanol capacity is required to be augmented by three times the capacity as of FY2021.
+
+
+//Green hydrogen
+pass current through water to separate hydrogen and oxygen (power generated should be from solare energy) else it doesn't make 
+ any sense.
+Dealing with green hydrogen needs lot of expertise which India doesn't have
+Major countries in the world are considering to use this fuel as replacement to electric Vehicles or just another type of 
+ clean vehicle

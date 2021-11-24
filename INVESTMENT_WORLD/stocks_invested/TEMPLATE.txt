@@ -5,9 +5,14 @@ A AA AAA (Adequate to highest safety)
 B BB BBB (Moderate to high risk)
 C (Very high risk)
 D (Default)
-Resources to know the business : 
-company filings(investor presentation, annual report, conference calls) from tijori
-screener summary, crisil ratings and analysis at the end of the page
+
+------------- know about the company -----------
+Resources to know about the  company/business : 
+1)wikipedia
+2)company website - most important for updated info 
+3)screener summary
+4)crisil ratings scroll to the end of the page(about company, subsidaries, rating history)
+5)company filings(investor presentation, annual report, conference calls) from tijori
 check moneycontrol SWOT analysis
 check tickertape and  morning star for valuation confirmation
 check misc_negative.txt
@@ -15,7 +20,7 @@ https://www.valueresearchstocks.com/recos-current
 https://www.moneycontrol.com/equity-research/stock-recommendations-active
 
 
-**STRENGTH
+--------------- STRENGTH -------------------
 //MOAT or competitive advantage?
  1)check summaries/MOATS.txt (how company insulates itself from competetion)
  2)unique product/service : 
@@ -76,7 +81,7 @@ the above filters and you decide to buy, you need to have patience.
 Stocks generate long-term wealth as their earning power does the work
 
 
-**RISK - VERY IMP - don't invest without knowing and accepting risks
+------------- understanding RISK - VERY IMP - don't invest without knowing and accepting risks ----------------
 ** Red flags - those that stop you from investment/ think twice before investing
 competetive risk/price risk/bleak future/less market size/innovation risk
 
@@ -94,7 +99,7 @@ products can be easily copied ?
 new players can easily enter and earn very good margings on par with the company?
 
 
-**** ABOUT SECTOR ****
+-------------------- ABOUT SECTOR ----------------------
 https://www.tijorifinance.com/company/marico-limited/#knowledgebase
 https://www.ibef.org/industry.aspx
 Most importantly in the Annual Report
@@ -116,17 +121,17 @@ GROWTH FACTORS:
 -demand for the sector products/services:
 
 
-**** Company ****
-**PAST: financials
+------------------ Company -----------------------
+******PAST: financials Summary
 tijori and screener
 other income % contribution to net profit
 did it beat NIFTY and its industry peers in past 10yrs? (check STOCK PERFORMANCE section in the right side below key 
  facts in valueresearchstocks.com)
 continous dividend payment history: yes/no (check events section in tickertape by zerodha)
+corporate actions (tickertape)
 
 
-*BALANCE SHEET:
-**assets
+----------BALANCE SHEET (Assets)---------
 --current assets > current liabilities ?
 Note: some DCA companies might not have CA>CL but their earning power and DCA helps them sail through
 --cash increasing? 
@@ -195,7 +200,7 @@ Goodwill is considered to have indefinite useful life and hence is not subject t
  After initial recognition, goodwill is measured at cost less any accumulated impairment losses.
 
 
-**liabilities
+----------BALANCE SHEET (Liabilities)---------
 --short term debt:
 if debt is more check cash in balance sheet and verify whether it is a long term debt or short term debt
 avoid companies with short term debt > longterm debt
@@ -225,7 +230,7 @@ look for corporate actions in events section of tickertape by zerodha
 also look at the notes for reserves
 
 
-*INCOME STATEMENT:
+---------------- INCOME STATEMENT ----------------
 if subsidaries listed check standalone statements
 else check consolidated 
 
@@ -293,7 +298,7 @@ Note: EPS can be manipulated in multiple ways like stock buybacks, convertible b
 so EPS increase should be along with sales, net income and cashflow increase 
 
 
-*CASH FLOW: more important than income statement
+---------------- CASH FLOW: more important than income statement ----------------------
 Cat1: businesses that grow but needs a lot of capital like adani group
 cat2: businesses that grow but DOESN'T need a lot of capital like britannia
 
@@ -349,7 +354,7 @@ to verify that :look net income, return ratios etc
 check cash_flow.txt
 
 
-*OPERATIONAL RATIOS:
+----------------- OPERATIONAL RATIOS ---------------------
 quick ratio: >1 and <2.5
 -important for manufacturing firms as lot of cash tends to be locked in the form of inventory
 qucik assets = current assets - inventory (inventory is removed bcoz it cannot be converted to cash immediately)
@@ -365,7 +370,7 @@ rather they use it to buyback shares which goes into treasury stock section or g
 Hence it is recommended to check the debt along with D/E
 
 
-*PROFITIABILITY RATIOS:
+----------------- PROFITIABILITY RATIOS ---------------------
 GPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 OPM: constant/increaing(profit increasing?)/decreasing(sales increasing?)
 avg 5yrs ROE: 
@@ -384,7 +389,7 @@ EPS trend : upward/downward/constant
 highest EPS in past 10yrs?
 
 
-**PRESENT:
+------------------ PRESENT -----------------------
 BUSINESS TYPE: 
 BUSINESS MODEL: 
 i.e how does the money flow from customers to shareholders(financial statements analysis can be useful)
@@ -402,7 +407,7 @@ POSITION IN PEERS :
 Entry barriers: will it be easy for new entrants in this industry either for big brands or Novice companies: 
 
 
-**FUTURE : why/how does the company grow? 
+------------------- FUTURE : why/how does the company grow? ------------------------
 SECTOR GROWTH RATE: check in sector growth
 MANAGEMENT VISION:
 OPPURTUNITTIES FOR SUSTAINABLE GROWTH:
@@ -428,7 +433,9 @@ INFACT earnings source is more than earnings itself bcoz earnings source decides
 --are the MOATs breakable: yes/no
 if NO then steps taken to strengthen the MOATS further :
 
-******* Management ******
+
+
+------------------------------ Management ----------------------------
 FOCUS: should be on growth and shareholders instead of personal profits
 - promoter pledging? 
 - promoter shareholding pattern : constant/ decreasing/ increasing
@@ -463,7 +470,7 @@ concept increases shareholders wealth without paying any tax.
 Note: buying back shares at a premium valuation is not the best use of capital, buying back is useful only if the 
 shares are bought at lower/fairprices.
 
-****** valuation *****
+-------------------------- Valuation -------------------------
 Talk about valuations only if the above factors are strong, else no point in buying the company
 
 *VALUATION RATIOS - talk about valuations only if business and management analysis is positive
@@ -518,7 +525,7 @@ Else
 	buy based on relative valuations mentioned in advanced/company_valuation.txt
 
 
-****** OVERALL SUMMARY *******
+------------------ OVERALL SUMMARY -----------------------
 status: overvalued/undervalued/fairly valued
 undervalued: lumpsum
 overvalued: 
