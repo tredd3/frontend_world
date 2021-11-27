@@ -13,7 +13,10 @@ Note: increase margin of safety for companies which doesn't pass important filte
 5)avoid companies with intense competettion (The intense competition could restrict company's revenue growth and it
  takes away its pricing power)
 6)monopoly or duopoly
-7)repeat business
+7)repeat business or one time stuff like capital goods
+    repeat businesses include subscripton models or continous demand
+    if it is one time stuff then growth oppurtunities should be vast like Praj.Even though Praj establishes the ethanol plant, it 
+    has huge oppurtunity abroad/huge order backlog both domestci and abroad
 6)owns customer minds? 
 7)what is the competettive advantage/MOAT and does the company have one compared to its competetiors?
   if yes is it durable?
@@ -27,11 +30,14 @@ Note: increase margin of safety for companies which doesn't pass important filte
 11)if B2B (client diversification, strong order book)
 if B2C (products must be useful for each and every individual and have a strong demand)
 if business service companies (almost every business should find its usage now or eventually)
-12)non commoditized business, if commoditized then must be a low cost producer
+12)high margin non commoditized business? 
+    if commoditized then must be a low cost producer
 13)non cyclical or least cyclical
 cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
-14)pricing power - are people ready to pay premium (can the compnay increase the product prices in the cases like inflation and
-  be sure that people still buy their products?) proof: Net profit Margin trend(tijori)
+14)pricing power - are people ready to pay premium (can the compnay increase the product/services prices in the cases like inflation 
+and supply chain disruption or in general and be sure that people still buy their products and they don't loose their business to 
+competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
+e.g: Airlines, E-commerce doesn't have pricing power
  This will happen only when they add value to the customers in terms of 
    i)quality of product/service OR
    ii)affordable price OR any other thing which their competetiors cannot give
@@ -43,19 +49,23 @@ cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
 18)debt free or almost debt free
 19)should not require contionus investment on capex OR significant investment in R&D (for eg some pharma companies put >40% of
   revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash)
-e.g: Telecom companies need to continously upgrade their network equipments and infra
-20)High growth potential - both vertically (nation wide including rural areas) and horizontally (internationally)
+e.g of Capex Upgradation: Telecom companies need to continous capex to upgrade their network equipments and infra, Also automobile companies 
+e.g of : but there are some companies which do capex to increase their capacity and service more demand which is fine
+20)operating expenses under control? this parameter indicates management efficiency 
+    if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)
+    To confirm check operating expense as % of revenues
+21)High growth potential - both vertically (nation wide including rural areas) and horizontally (internationally)
    avoid companies with limited market size - as the companies doesn't have an option to expand beyond a certain point
    e.g some companies market is limited to only domestic and that too only few businesses/clients need it
-21)Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
+22)Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
   i) company will not have that USP built in , it will not have any core philosophy and hence might not attract investors. 
   ii)Also the cost at which it is acquiring companies is very important. what if all the acquired companies work culture is 
-    different ? there will not be any synergy 
-  iii)rather it will be very complex for the management to handle putting the companies revenues and growth for a toss.
+    different ? there will not be any synergy rather it will be very complex for the management to handle putting the companies revenues and growth for a toss.
+  iii)The acquired companies might not augument/bring in much value to existing operations
   iv)management will not have a mindset to fix the business model, rather always think of few more acquisitions to solve the
     all the problems mentioned.
-2))operating expenses under control? this parameter indicates management efficiency 
-  check the trend in Tijori
+However Having said all these there are few companies that can really make it work and keep acquiring to get ahead of the
+  competettion or to eliminate the competettion and thrive as a major player
 
 
 //SECOND set of companies - high margin of safety
