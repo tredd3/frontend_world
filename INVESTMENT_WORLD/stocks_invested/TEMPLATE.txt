@@ -1,5 +1,12 @@
+------------------ Company -----------------------
 Company name : sector/main business
-//summary section
+did it beat NIFTY and its industry peers in past 10yrs? (check STOCK PERFORMANCE section in the right side below key 
+ facts in valueresearchstocks.com)
+corporate actions (tickertape)
+promoter pledging? 
+promoter shareholding pattern : constant/ decreasing/ increasing
+any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
+  promoters/top management then its a positive sign as they know better than any broker/analyst)
 CRISIL Ratings:
 A AA AAA (Adequate to highest safety)
 B BB BBB (Moderate to high risk)
@@ -121,23 +128,26 @@ GROWTH FACTORS:
 -demand for the sector products/services:
 
 
------------------- Company -----------------------
-******PAST: financials Summary
-tijori and screener
-other income % contribution to net profit
-did it beat NIFTY and its industry peers in past 10yrs? (check STOCK PERFORMANCE section in the right side below key 
- facts in valueresearchstocks.com)
-continous dividend payment history: yes/no (check events section in tickertape by zerodha)
-corporate actions (tickertape)
-
-
 ----------BALANCE SHEET (Assets)---------
 --current assets > current liabilities ?
 Note: some DCA companies might not have CA>CL but their earning power and DCA helps them sail through
---cash increasing? 
+
+--cash & bank balances increasing? 
 is the cash generated bcoz of operations? 
+what % of reserves is cash?
+compare cash with long term debt and not reserves with longterm debt because reserves might be locked in other investments 
+  which might not be liquid(if longterm debt > cash check if net profit /free cash flow of next 4 yrs can service entire longterm debt)
+we are not considering short term debt will be taken by current assets(excluding cash & bank balance)
 Note: check last 10yrs balance sheet to find out
---check cash/market_cap : if > 50% buy
+
+--check cash/market_cap :
+if significant i.e > 0.3 then calculate cash per share
+steps:
+1)total cash: cash & bank balances + short term investments
+2)net cash = total cash - long term debt
+3)CASH PER SHARE = (net cash * share price)/market cap  => also calculated via (net cash/total shareholders)
+4)now the actual price u will be paying for a company's share = SHARE_PRICE - CASH_PER_SHARE
+In other words (CASH_PER_SHARE/SHARE_PRICE)*100 is the discount at which the share is avilable 
 
 --does inventory growth rate is higher than sales growth rate ? 
 if yes: inventory becomes obselete => write off or sell at discount => earnings take hit
@@ -196,8 +206,9 @@ is investing in some business
 --Goodwill: if a company has a lot of goodwill compared to total assets(say > 10%) then check the impairment to goodwill and how acquired companies are performing
 Goodwill is an asset representing the future economic benefits arising from other assets acquired in a business combination
  that are not individually identified and separately recognized. 
-Goodwill is considered to have indefinite useful life and hence is not subject to amortization but tested for impairment annually. 
- After initial recognition, goodwill is measured at cost less any accumulated impairment losses.
+Goodwill needs to be written off over the period at the cost of earnings.But ironically the acquired company keeps growing. 
+which means even though earnings are not shown the company is becoming stronger day by day => Focus on such companies because 
+once the goodwill completely written off they will blast off
 
 
 ----------BALANCE SHEET (Liabilities)---------
@@ -256,7 +267,6 @@ company with high debt means either it in highly competetive industry and it nee
 OR it has acquired other company by taking debt
 NOTE: Generally in a given industry company with lowest ratio of interest to operating income has a competetive advantage
 
-
 -- strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
 however it completely depends on the industry. it is possible that all companies in the sector have done poorly
 
@@ -266,6 +276,7 @@ Note: in general it should be > 10% not less. if it is less then company is infl
 companies with DCA has <10% and also much lesser compared to peers otherwise net profit and EPS takes a hit
 
 --other income: significant compared to operating income? like >20-25%
+also compare other income contribution to net profit
 if yes: since it is non operating and  non recurring income, it should be removed from calculation
 check notes section if the amount is significant or continously increasing over the years
 if no: we can ignore
@@ -437,8 +448,6 @@ if NO then steps taken to strengthen the MOATS further :
 
 ------------------------------ Management ----------------------------
 FOCUS: should be on growth and shareholders instead of personal profits
-- promoter pledging? 
-- promoter shareholding pattern : constant/ decreasing/ increasing
 -compnesation: variable based on permonance or fixed ?
 Note: compnesation of the management in the low time should be less compared to high times 
 - remuneration acc to MCA limits: 
@@ -509,6 +518,9 @@ why: PE for other companies is based on their financial condition and business o
 financials then PE is obviously less and the company we are looking at may seem like overvalued but looking at intrinsic value it
 may be undervalued and might miss the oppurtunity assuming it is overvalued so we can't say whether the company is 
 overvalued/undervalued by comparing ratios with peers.
+4)Book value in PB can go down significantly as the assets value decreases when company files for bankruptcy. so if u think u are getting 
+high value assets at lower price (P/B < 1) then always check what is there on the asset side(natural resources like land, gold, silver,
+oil etc is fine but random real estate, machinery, inventory values can down significantly during auction)
 
 ** hence valuing compnaies based on cashflows comes in the picture
 If cash flow regular? 

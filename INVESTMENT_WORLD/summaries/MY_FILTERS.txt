@@ -2,10 +2,19 @@
 BUSINESS + FINANCIAL +  Management + VALUATION (all are equally important) + Margin of safety(for growth companies,
 fair price for Value companies)
 
+Note: increase margin of safety is a must for companies which doesn't pass important filters
+
 
 //FIRST set of companies - getting them on fair valuation is also fine
 CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-Note: increase margin of safety for companies which doesn't pass important filters
+why peter lynch bucket does stock belongs to? slow growers/stalwarts/fast growers/turnarounds
+ cyclicals/asset plays
+Have u used the product/service ? 
+  if YES, what is your view 
+  if NO, go and open their website, check public review in ecommerce or google search
+Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
+always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
+ on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
 1)why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
 2)check the share price in wiki (continously decreasing know the reason why)
 3)check shareholding pattern and trend over the years in tijori
@@ -16,7 +25,7 @@ Note: increase margin of safety for companies which doesn't pass important filte
 7)repeat business or one time stuff like capital goods
     repeat businesses include subscripton models or continous demand
     if it is one time stuff then growth oppurtunities should be vast like Praj.Even though Praj establishes the ethanol plant, it 
-    has huge oppurtunity abroad/huge order backlog both domestci and abroad
+    has huge oppurtunity abroad/huge order backlog both domestic and abroad
 6)owns customer minds? 
 7)what is the competettive advantage/MOAT and does the company have one compared to its competetiors?
   if yes is it durable?
@@ -47,16 +56,29 @@ e.g: Airlines, E-commerce doesn't have pricing power
   put pressure on margins)
 17)strong financials for 10yrs - especially check their 5/10yr cash flow analysis in tijori and initial summary section in screener
 18)debt free or almost debt free
+Types of Debt:
+1)Bank Type Debt: Non-convertible debentures and commercial papers(complete payment within a year) , bankOverdraft(on demand payment)
+2)Funded Debt: Term loans, Non-convertible bonds and Convertible bonds(they are long term and payments can be made in installments
+  over the years)
+Note: any company having a lot of bank type debt is gone duing crisis(stock price will crash)
 19)should not require contionus investment on capex OR significant investment in R&D (for eg some pharma companies put >40% of
   revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash)
-e.g of Capex Upgradation: Telecom companies need to continous capex to upgrade their network equipments and infra, Also automobile companies 
-e.g of : but there are some companies which do capex to increase their capacity and service more demand which is fine
+Types of Capex:
+i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do continous capex to upgrade their network equipments and infra etc
+ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
 20)operating expenses under control? this parameter indicates management efficiency 
     if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)
     To confirm check operating expense as % of revenues
 21)High growth potential - both vertically (nation wide including rural areas) and horizontally (internationally)
    avoid companies with limited market size - as the companies doesn't have an option to expand beyond a certain point
    e.g some companies market is limited to only domestic and that too only few businesses/clients need it
+5 ways of Increasing Earnings: (find out which strategy out of the 5 will the company use in )
+- sell more products in older markets(acquire new customers - expanding to other areas like rural/untapped areas, takeaway market 
+    share from competetiors )
+- launching new products (and selling them to old customers)
+- sell products(expand) in new markets(international expansion/ exports)
+- cost cutting
+- dispose losing operations (increases firm efficiency)
 22)Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
   i) company will not have that USP built in , it will not have any core philosophy and hence might not attract investors. 
   ii)Also the cost at which it is acquiring companies is very important. what if all the acquired companies work culture is 

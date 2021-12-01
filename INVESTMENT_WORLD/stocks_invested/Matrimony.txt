@@ -3,38 +3,71 @@ Ur Ranking:
 CRISIL: 
 
 ------------- About -------------
-Revenue model: billings(new customers + renewal + relationship manager model)
-
+Nationwide coverage - 60% market share in matchmaking service
+The company has an active base of 46 lakh users. ~6 lakh (13%) are paid subscribers.
+Offices in 3 international cities - nepal, bangladesh, dubai
+matchmaking services both online and offline(retail stores) to cater to the unique requirements of Indian origin consumers like
+ regional,community, and also tailor made services for the elite.
+Forward integrated into providing marriage services by aspiring to become a one stop shop for our customers in an asset light  
+  vendor platform for venue bookings, catering, decorations, etc
+Business verticals : matchmaking services(99% revenue) , marriage services(1% revenue)
+//Matchmaking services: 
+Revenue from matchmaking: subscription(new customers + renewal + relationship manager model)
+1)Elite Matrimony (for the Rich)
+2)Community Matrimony (Regional matrimony further sub-divided into categories like ChristianMatrimony,MuslimMatrimony, SikhMatrimony, 
+   JainMatrimony, AgarwalMatrimony, YadavMatrimony, MarathaMatrimony etc)
+3)Assisted Matrimony (for busy people , relationship manager specific to the customer will be alloted)
+4)DoctorsMatrimony
+5)IIMIITMatrimony
+17 Regional sites as of nov 2021 (like RajasthaniMatrimony, BihariMatrimony )
+//Marriage servies :
+Revenue from marriage services: subscription(new vendors + renewal)
+1)WeddingBazaar - photography , makeup, caterig, decoration, apparel, jewellery
+2)ShaadiSaga : wedding planning platform recently acquired
+3)mandap.com - venue for marriage
 
 
 -------- why to buy and hold? Business Strengths ---------
-Fixed cost: employee cost + rental cost (hence huge operating leverage as any increase in the customer billings will fall straight to bottom line)
-
+high growth potential: only 6% of marriages in India are from online match making (estimated to grow by atleast 5 times)
+tech driven platform with servies and operations migrated to cloud (AWS)
+24*7 customer service support to find a relevant match
 
 
 //Growth oppurtunities
-muslimmatch.com, the matchmaking service for the global Muslim community
-continue to look for opportunity beyond India - srilanka, bangladesh etc
+continue to look for opportunity beyond India - srilanka, bangladesh etc (here Competettion is very less)
+marriage servies currently contribute to 1% of revenues. But going forward it has a huge scope with ShaadiSaga integration as 
+  it is has significant presence in both North and west markets. Matrimony has very good reach in south india hence leading to 
+  synergy in operations making Matrimony  single largest player in the wedding services space.
+Joodi - matchmaking service for less privileged people (in nascent stages need to monitor)
 
 
 //Moats
-
+asset light buiness model with very high operating levarage and economies of scale
+  Fixed cost: employee cost + rental cost (hence huge operating leverage as any increase in the customer billings will fall
+   straight to bottom line). Negligible variable cost
+End to end player which means all the successfull customers who found their match can be converted to customers of 
+ marriage services(which means vendors show more interest and ready to pay more for listing)
+only profit making company in matrimony space
 
 
 --------- why you shouldn't hold the company? Business Weakness ----------
-...
+Not a repeat business as in Any individual would only need this service once in his lifetime
 
 
 //Competettion
-
+North markets - Shaadi and Jeevansathi (matrimony is trying to invest in marketting and coming up with new product 
+   offerings to stay competettive)
 
 
 //Risks
+keep an eye on ad/marketting spends - if it is significantly high then better not to buy
+ compare marketting spends with sales and profit.As of nov 2021 marketting spending = 4*net profit
 
 
 --------- Financials -----------
 //Financial strengths
-
+Debt free
+postive and growing cashflows from last 5yrs
 
 //Financial weakness
 
@@ -45,3 +78,4 @@ continue to look for opportunity beyond India - srilanka, bangladesh etc
 
 
 ------- Valuation -----------
+as of Nov 2021 with cashflows of 50 cr - 850 discounted, 900 fair price

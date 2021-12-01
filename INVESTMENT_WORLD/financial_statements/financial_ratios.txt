@@ -44,10 +44,20 @@ When to buy based on PB: for a new company where earnings haven’t begun, B2B(O
 PB value should be < 3 for great valuation
 5)EPS - always TTM (trailing 12 months) net profit  is considered 
 formula: (net profit - preferred dividends)/total no.of outstanding shares
-6)ROCE - return on capital employed = EBIT/Total equity + non-current liabilities
+6)ROCE - return on capital employed = EBIT/Employed Capital(Total equity + non-current liabilities)
 golden rule: ROCE > WACC of company, if not equity amount(reserves part) is gradually reduced and becomes zero,leading to bankruptcy
-7)ROA - net profit/Total assets
-8)EV/EBITDA :
+7)ROIC: This gives u a better picture of how a company is performing its core business
+Invested capital is a subset of Employed capital, and it is the percentage of capital that is actively invested in the business.
+Invested capital = Employed Capital - cash and cash equivalents
+ROIC is calculated by obtaining the Net Profit After Tax (Net income – Dividends) divided by invested capital.
+ROIC VS ROCE:
+since ROCE doesn't take in to account taxes and interest paid, it is useful for comparing companies in various geographies as the
+ tax structure varies and ROCE doesn't condier tax in to account.
+ROIC is better for comparing companies in a given country(as tax structure will be same) and in a given industry to identify most 
+ profitable companies in core business vertical.
+
+8)ROA - net profit/Total assets
+9)EV/EBITDA :
 EBITDA measures a firm's overall financial performance
 while EV determines the firm's total value = market cap + total debt - cash and cash equivalents
 (assume u r buying a company, total value/cash u need to pay shareholders and to creditors is nothing but EV)
