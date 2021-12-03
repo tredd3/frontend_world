@@ -63,7 +63,7 @@ Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/
 United health group - largest insurance company by net premiums in US + health care products
 
 
-//Tech - 14 (Dad)
+//Tech - 15 (Dad)
 Alphabet(GOOGL)
 Facebook (wtsapp, Instagram, Linkedin) - meta platform
 Amazon - vertically integrated (website, warehouse,shipping, delivery)
@@ -73,9 +73,15 @@ Microsoft (Linkedin, Github, Lynda)
 Alibaba - asset lite model (excellent managemnt + rapid share buyback is happening)
           strong consumer confidence, expanding beyond chinese markets
           Amazon of China
+          $15.5 billion over the next five years for social causes. Considering the company's $3.2 billion in free cash flow this past quarter, this is a significant figure. 
+          had a down quarter since last 10 quarters(because of tax increase from 12 to 24%)
+          Alibaba owns a third of Ant Group, and the blocking of its IPO is a value-destructive event leading to stock price crash
+          China economy is undergoing significant structural changes and it is expected to be down for next couple of years
 Adobe - develops software tools primarily for audio-visual(graphics, photography, illustration, animation, multimedia/video,
         motion pictures) content creation, editing and publishing.
 Accenture - IT services and consulting. current clients : 91 of the Fortune Global 100 and more than 3/4 of the Fortune Global 500
+Teledyne technologies - leading provider of sophisticated instrumentation, digital imaging products and software, aerospace and
+  defense electronics, and engineered systems.
 synopsys - software tools for emulating and testing electronic components integration
            Synopsys has expanded its products and services to include application security testing
 cadence design - software tools for emulating and testing electronic components integration
@@ -130,10 +136,9 @@ Royal bank of Canada - largest bank in Canada
 
 //Life Style - 20  (Brother)
 Apple
-Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
-   number of categories, including furniture, lighting, textiles, bathware etc
-floor and decor holdings
+Renew Energy Global PLC,(RNW) - largest renewable nergy in india(sector analysis must)
 Activision Blizzard - video games (deep wiki readout as company employees are leaving)
+Live Nation Entertainment - operates as a live entertainment company. It operates through Concerts, Ticketing, and Sponsorship & Advertising segments
 Airbnb - asset light business model - vacation rentals all over the world
 Booking Holdings Inc - It operates websites in about 40 languages and 200 countries.
     owns and operates several travel fare aggregators and travel fare metasearch engines including namesake and flagship Booking.com
@@ -157,10 +162,16 @@ Royal Caribbean cruises - world's second-largest cruise line operator
 Carnival Corporation - Tourism and experiences, largest cruise vacation company in the world
 
 
-//Life style - 4 - people mostly not interested in paying premium
+//Life style - 9 - people mostly not interested in paying premium
 united parcel service - UPS is the largest courier company in the world by revenue, best known for its ground delivery service
 Fedex - Fedex is best known for its air delivery service
 Walmart
 Kroger
 Target
-Renew Energy Global PLC,(RNW) - largest renewable nergy in india(sector analysis must)
+Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
+   number of categories, including furniture, lighting, textiles, bathware etc
+floor and decor holdings
+The Home Depot - operates as a home improvement retailer. It operates The Home Depot stores that sell various building materials, 
+ home improvement products, building materials, lawn and garden products, and décor products
+Marriott International - operates, franchises, and licenses hotel, residential, and timeshare properties worldwide.
+  operated approximately 7,800 properties under 30 hotel brands in 138 countries and territories

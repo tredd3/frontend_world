@@ -150,6 +150,7 @@ steps:
 In other words (CASH_PER_SHARE/SHARE_PRICE)*100 is the discount at which the share is avilable 
 
 --does inventory growth rate is higher than sales growth rate ? 
+very important for manufacturing and retail firms
 if yes: inventory becomes obselete => write off or sell at discount => earnings take hit
 also cash gets locked in inventory => depriving firm of cash 
 
