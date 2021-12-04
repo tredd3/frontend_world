@@ -1,3 +1,11 @@
+Golden facts: 
+//Sometimes fundamentals and stock price move in opposite direction for short term.
+  so if fundamentals are good and stock price is down (it could be a potential buy based on valuations)
+  similary if price is way above earning power then correction is expected
+//people working in a given industry or customers using the products will have an EDGE compared to wall street professionals
+ Employees/Owners will know the developments in a sector/company much before and in a much better way than the professionals
+ Customers will know the product quality and service as they have been using it for a while
+
 1)Fact: disruptions can create winners even among traditional players 
 Assumption: it will wipe out all the existing players
 
@@ -27,5 +35,30 @@ for you but for the next few years it will be easy because the amount of knowled
 8)There will also be times when you do not find many good ideas to invest in. During the dry investment periods turn to reading.
 Because sometimes the best thing to do in the market is to sit and watch
 
-9)Assmption:
-Fact:
+9)Assmption not necessarily true or sometimes they will never be true
+-It's gone down this much already it can't go much lower
+-you can predict when did the stock hit the bottom
+-if it's already gone high that it can't go higher (but if the story is good, fundamentals haven't changed, earnings are improving 
+then there is no reason why stock price won't go up as stock price in the long run always follows EARNINGS)
+e.g: stocks that are already a 20 bagger still have become further 10 bagger only because of earning power
+-when it rebounds back i will sell - if you are not confident about the business then sell immediately else might end up having 
+ more losses
+-conservative stocks won't fluctuate (economy and regualtory troubles can make them down by 50% but they will quickly rebound)
+
+10)just because a stock is down 20% the next day you bought doesn't mean it bad investment, similarly if it is up 20% the next 
+day also doesn't mean the investment is good - it all about the long term short term price changes doesn't matter it's the 
+underlying business strength and earning power of the company that matters
+
+11)Instead of buying next Disney, next Walmart at bargain price, its better to buy the original companies at a fair price.
+Because 95% of the time the so called the next companies might not be the actual next companies
+
+
+-------- big people moves explained ----------
+why stocks like zomato/Paytm get so much attention from investors?
+Reason: ability to carry forward operating losses. Once they start becoming profitable they don't have to pay taxes for next 
+  couple of years and hence EPS keeps growing
+
+why people hold low profit margin stocks ?
+if the sales increases more than the costs, if you do the math say for e.g: sales increases 10%, costs increases 5%
+then EPS for a low profit margin company increases 3X but for high profit margin company it does increase 0.5X and hence the 
+share price follows multiplying their money 3 times

@@ -13,7 +13,7 @@ Note: increase margin of safety is a must for companies which doesn't pass impor
 ---------- company Background and Basic screening ---------
 //CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
 //why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
-//check the share price in wiki (continously decreasing know the reason why)
+//check the share price in wiki (continously decreasing then check Stock_Crash.txt)
 //check shareholding pattern and trend over the years in tijori
   Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
 //non cyclical or least cyclical
@@ -21,20 +21,34 @@ cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
 
 
 ----------- which category does the stock belong to ---------------
-//why peter lynch bucket does stock belongs to? 
-slow growers(low risk, low returns)  - the only reason to hold should be dividends
-stalwarts(low risk, moderate returns) - check if they can maintain the momentum and are getting in to diworsefications?
-fast growers(high risk, high returns) - can they replicate the growth story somewhere else? what room is still left for growth?
-turnarounds(high risk, high returns)  - either via slicing off the divisons that are less profitable/sell divisons in highly competettive industry OR 
-  increase the efficiency of the process/divisons by cost cutting and technology upgradation etc, which will translate them
-  to low cost producer.
-  what road map does the company have from loss to profits (VI, IDFC FIRST BANK, TATA CONSUMER)
-cyclicals(high risk, low returns or low risk high returns depending upon the cycle at which u have invested) - the more things 
+//why peter lynch bucket does stock belongs to?  check share price trend over the years you will get to know
+1)slow growers(low risk, low returns)  - the only reason to hold should be dividends
+2)stalwarts(low risk, moderate returns) - check if they can maintain the momentum and are getting in to diworsefications?
+  companies acquiring market share from organised peers or unorganised peers
+3)fast growers(high risk, high returns) :
+  can they replicate the growth story somewhere else? e.g cam Matrimony replicate the startegy even in bangladesh(we need to monitor)
+  what room is still left for growth?
+  emerging tech companies
+  companies in emerging industries
+4)turnarounds(high risk, high returns)  - value unlocking via selling off the divisons that are less profitable/sell divisons in highly
+  competettive industry OR increase the efficiency of the process/divisons by cost cutting and technology upgradation etc, which will
+  translate them to low cost producer.
+  value unlocking(highly profitable companies getting demerged from conglomerates e.g: ITC Infotech, ITC FMCG demerger from ITC group
+  sleeping gaints awakened  - what road map does the company have from loss to profits (VI, IDFC FIRST BANK, TATA CONSUMER)
+  ignored companies that have very strong growth potential in the future
+Note: don't buy a turnaround just because stock price is down, own it if business is starting to pickup, financials are great etc
+5)cyclicals(high risk, low returns or low risk high returns depending upon the cycle at which u have invested) - the more things 
   are stressed the better will be the recovery
-asset plays(low risk, high returns) - price vs value play (balance sheet scanning is must)
+6)asset plays(low risk, high returns) - price vs value play (balance sheet scanning is must)
    hidden assets(like extrememly profitable subsidaries or divisons) like ITC
-   natural resources like land, gold or cash etc in high amounts?
+   natural resources like land, real estate,gold, oil or cash etc in high amounts? where the value of these exceeds the stock price
+   patience is the key here because it might take years for wall street to discover these gems and re-rate the stock
 
+Note: 
+--companies keep shifting the buckets like fast growers can become slow growers or slow growers can become cyclicals
+--cyclicals can become turarounds
+--stalwarts like MCD can become asset plays bcoz of the real estate it owns
+--growth expectation should not be the same for all the categories stocks alike
 
 ------ Products/services demand and supply check --------
 //product diversification
@@ -113,8 +127,8 @@ ii)Capacity augumentation(Good): most companies do capex to increase their capac
 - sell more products in older markets(acquire new customers - expanding to other areas like rural/untapped areas, takeaway market 
     share from competetiors )
 - capex and manufacture new products(innovated products/refurbised products) and selling them to old customers at high prices
-- simply increase the price of old products(no increase in volume) - crapiest growth among all options
-- sell products(expand) in new markets(international expansion/ exports)
+- simply increase the price of old products(no increase in volume) - stupid growth among all options
+- expand in new markets(international expansion/ exports)
 - cost cutting
 - dispose losing operations (increases firm efficiency)
 - acquistion and synergy led growth

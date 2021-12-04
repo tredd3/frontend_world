@@ -162,7 +162,13 @@ Royal Caribbean cruises - world's second-largest cruise line operator
 Carnival Corporation - Tourism and experiences, largest cruise vacation company in the world
 
 
-//Life style - 9 - people mostly not interested in paying premium
+//Life style and Misc - 12 - people mostly not interested in paying premium
+Comcast Corporation - media and technology company worldwide
+Caesars Entertainment - largest casino-entertainment company in the U.S. and one of the world's most diversified casino-entertainment providers.
+  operates as a gaming and hospitality company in the United States. The company operates casinos, including poker, keno, and race 
+  and online sportsbooks; dining venues, bars, nightclubs, and lounges; hotels; and entertainment venues.
+SeaWorld Entertainment - portfolio of 12 destination and regional theme parks that are grouped in key markets across the United States, many of which showcase its one-of-a-kind zoological collection. 
+  The Company is one of the world's foremost zoological organizations and a global leader in animal welfare, training, husbandry and veterinary care.
 united parcel service - UPS is the largest courier company in the world by revenue, best known for its ground delivery service
 Fedex - Fedex is best known for its air delivery service
 Walmart
@@ -175,3 +181,8 @@ The Home Depot - operates as a home improvement retailer. It operates The Home D
  home improvement products, building materials, lawn and garden products, and décor products
 Marriott International - operates, franchises, and licenses hotel, residential, and timeshare properties worldwide.
   operated approximately 7,800 properties under 30 hotel brands in 138 countries and territories
+Albemarle Corporation - develops, manufactures, and markets engineered specialty chemicals worldwide. It operates through three
+  segments: Lithium(electrical vehicles), Bromine Specialties, and Catalysts. 
+  second-largest lithium miner in the world
+  Albemarle, as of 2020, was the largest provider of lithium for electric vehicle batteries.
+https://piedmontlithium.com/about/ - integrated player in lithium industry
