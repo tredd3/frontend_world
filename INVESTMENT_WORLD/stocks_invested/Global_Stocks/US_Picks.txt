@@ -67,7 +67,7 @@ United health group - largest insurance company by net premiums in US + health c
 Alphabet(GOOGL)
 Facebook (wtsapp, Instagram, Linkedin) - meta platform
 Amazon - vertically integrated (website, warehouse,shipping, delivery)
-Netflix - largest media and entertainment company by marketcap + 40% content producted inhouse
+Netflix - largest media and entertainment company in the world by marketcap + 40% content producted inhouse
 Mongo DB
 Microsoft (Linkedin, Github, Lynda)
 Alibaba - asset lite model (excellent managemnt + rapid share buyback is happening)
@@ -97,7 +97,7 @@ UIpath - robotic process automation (where all the high volume,repetettive and b
   employees to focus on more strategic work hence improving productivity,cost saving and efficiency for company)
 
 
-//Food - 7 (Dad)
+//Food - 9 (Dad)
 Domino's Pizza
 McDonald
 Yum Brands(KFC, Pizzahut, Taco bell)
@@ -105,18 +105,27 @@ Yum china
 Papa Johns
 Cococola	
 Pepsico
+Hershey Company
+Mondelez international - Cadbury Dairy Milk, Oreo and Toblerone chocolates among others
 
 
-//Finance - 20 (pallavi)
+//Finance - 23 (pallavi)
 Visa 
 Mastercard
-Moody’s
+MorningStar - mutual fund rating agency, research and investment advices
+Thomson Reuters Corporation - provides business information services in the Americas, Europe, the Middle East, Africa, and the Asia
+  Pacific. It operates in 5 segments: Legal Professionals, Corporates, Tax & Accounting Professionals, Reuters News, and Global Print. 
+MSCI - together with its subsidiaries, provides investment decision support tools for the clients to manage their investment
+  processes worldwide. The company operates through Index, Analytics, and All Other segments.
+FACTSET RESEARCH SYSTEMS -The company delivers insight and information through the workflow solutions of research, analytics and
+  trading, content and technology solutions, and wealth. It serves portfolio managers, investment banks, asset managers, wealth 
+  advisors, corporate clients, and other financial services entities.
 S&P Global
+Moody’s
 ICE - owner of NYSE stock exchange
 CME - world’s largest financial derivatives exchange
 Nasdaq - first electronic exchange in the world
 Coinbase - 2nd largest crypto exchange by volume
-MorningStar - mutual fund rating agency, research and investment advices
 Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
 Interactive Brokers Group Inc - clients from 200+ countries and territories invest globally and the largest full service broker in US
   ICICI direct works with this broker.IBKR is the top pick for active traders and anyone who wants access to international markets.
