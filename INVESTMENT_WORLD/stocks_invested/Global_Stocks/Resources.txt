@@ -1,0 +1,57 @@
+//https://en.wikipedia.org/wiki/List_of_assets_owned_by_Berkshire_Hathaway
+
+concall transcripts: https://www.rev.com/blog/transcript-category/financial-transcripts/page/4
+
+fundamental analysis and stats (no predictions only data analysis): https://www.wallstreetzen.com/stocks/us/nyse/baba/earnings
+
+magazines: Barron's(wsj)
+
+Research reports/analayst reports: i.e input a stock name and get the thorough report
+Best sites: morningstar, zacks, seeking alpha, stock rover
+
+//How to pick the best analyst/research websites:
+1)Methodology: are u inline with that and agree to the params of valuation and analysis?
+2)Quality of analysis: pick a stock and read the report in every site and how easy is for you to locate and get an idea on 
+ the company
+3)Availability: does all the company reports are available or not? - very important because top company stock reports are 
+ avialbale with every one
+
+
+ //Morning star:
+ 1)Moat
+ Profitability : ROIC > WACC
+ Wide Moat: sustainability of profitability for MORE that 20 years
+ Narrow Moat: sustainability of profitability will fade away after 10 years
+ No moat: will loss excess profits soon to competettion/profitability will fade away before 10 years because of some internal problem
+ 2) Moat trend
+sources of economic moats: intangible assets, switching costs, network effect, cost advantage, and efficient scale.
+firm’s moat trend is positive in cases where we think its sources of competitive
+advantage are growing stronger; stable where we don’t anticipate changes to competitive advantages
+over the next several years; 
+Negative when we see signs of deterioration. The assumptions that we make about a firm’s economic moat play a vital role in
+ determining the length of “economic outperformance” that we assume in the terminal sections of our valuation model
+ 3)intrinsic value based on free cash flow and longterm business prospects
+ Analysts create custom industry and company assumptions to feed income statement, balance sheet, and capital investment assumptions 
+ into our globally standardized, proprietary discounted cash flow, or DCF, modeling templates. 
+
+ Reason to use DCF : Moreover, we think analyzing valuation through discounted cash flows presents a better lens for
+viewing cyclical companies, high-growth firms, businesses with finite lives (such as mines), or
+companies expected to generate negative earnings over the next few years. 
+4)Margin of safety
+Base case: operating and financial leverage, sales sensitivity to the overall economy,product concentration, pricing power, and 
+  other company-specific factors.
+Analysts consider at least two scenarios in addition to their base case: a bull case and a bear case.
+Our uncertainty ratings are low, medium, high, very high, and extreme. With each uncertainty rating is a corresponding set of 
+ price/fair value ratios that we use to assign star ratings
+The more uncertain we are about the estimated value of the equity, the greater the discount we require relative to our estimate of 
+ the value of the firm before we would recommend the purchase of the shares.
+
+ Ratings: keeps changing based on the market price
+ 5 star: highly undervalued - extremely pessimestic outlook by the market -  best time to buy the stock based on fundamentals
+ 3 star: fairly valued
+ 2 star : slightly overvalued - We believe investors are likely to receive a less than fair risk-adjusted return and should consider
+directing their capital elsewhere.
+ 1 star: over valued - extremely optimistic outlook by market - strong sell but again based on fundamentals
+ Note: When there are many 5-star stocks, the stock market as a whole is more undervalued, in our opinion, than when very few 
+   companies garner our highest rating.
+

@@ -173,6 +173,7 @@ Note: If two companies have similar values for return on equity (ROE) and return
 --"working capital intensive" operations?
 it refers to business industries that require large amounts of investment to produce a good or service and thus have a
  high percentage of fixed assets, such as property, plant, and equipment (PP&E)
+//these are bad businesses according to buffet because they take huge capital(or use more assets to produce less) and margins be low
 e.g: automobile manufacturing, oil production, and refining, steel production, telecommunications, and transportation sectors (e.g., railways and airlines).
 As a rule of thumb u should avoid WC intense companies because they have high fixed costs/operating leverage, and hence high debt 
  if they can't have customer volumes, also they re-invest cashflow in fixed assets upgradation
@@ -193,10 +194,16 @@ if yes there might be a default risk - also company might be in a highly compete
 it might be giving more liberty to its customers
 Also if the same thing is done by their peers then it will also have profit risk
 
---plant and equipment cost should be either constant/decreasing/increaing at low rate? 
+--property, plant, equipment and machinery - cost should be either constant/decreasing/increaing at low rate? 
+//gross block vs ney block 
+Gross block is the sum total of all assets of the company valued at their cost of acquisition. This is inclusive of the 
+depreciation that is to be charged on each asset. Net block is the gross block less accumulated depreciation on assets.
+ Net block is actually what the asset are worth to the company.
 if it is increaing consistently at a higher rate then the company is investing from it reserves or by taking debt to beat the competettion
 this will eat up your profit as this extra money can be spent on some profitable ventures and hence you shouldn't invest
 Note: increase in the value of net block(plant and capital) doesn't imply value appreciation, rather it means every year new fixed assets are being bought
+check: The asset turnover ratio which measures the efficiency of a company's assets in generating revenue or sales.
+also check capex spending (capex spending should be insync with net block)
 
 --long term investments:
 probe this section in annual reports notes to understand whether the management have invested in companies with DCA or medicore

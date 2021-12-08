@@ -143,6 +143,7 @@ Usage of Debt: Very important
   
 Types of Capex:
 i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do continous capex to upgrade their network equipments and infra etc
+check net block(plant, equipment, machinery trend in balance sheet to check whether it is a upgradation capex or capex addition)
 ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
 //operating expenses under control? this parameter indicates management efficiency 
     if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)

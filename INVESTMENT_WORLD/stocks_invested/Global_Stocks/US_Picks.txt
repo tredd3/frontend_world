@@ -3,7 +3,6 @@ US stocks to invest: My picks
 2)High growth businesses
 3)stay away from dividend stocks because of high tax rate
 
-
 //All about investing in US Stocks:
 https://vested.co.in/blog/how-to-invest-in-the-us-stock-market-from-india/
 ** Investing in US stocks or ETFs by Indian investors is permissible under the RBI’s Liberalized Remittance Scheme (LRS)
@@ -73,6 +72,8 @@ Microsoft (Linkedin, Github, Lynda)
 Alibaba - asset lite model (excellent managemnt + rapid share buyback is happening)
           strong consumer confidence, expanding beyond chinese markets
           Amazon of China
+          Alibaba is a big data-centric conglomerate, with transaction data from its marketplaces, financial services, and logistics
+           businesses allowing it to move into cloud computing, media/entertainment, and online-to-offline services. 
           $15.5 billion over the next five years for social causes. Considering the company's $3.2 billion in free cash flow this past quarter, this is a significant figure. 
           had a down quarter since last 10 quarters(because of tax increase from 12 to 24%)
           Alibaba owns a third of Ant Group, and the blocking of its IPO is a value-destructive event leading to stock price crash
@@ -97,7 +98,7 @@ UIpath - robotic process automation (where all the high volume,repetettive and b
   employees to focus on more strategic work hence improving productivity,cost saving and efficiency for company)
 
 
-//Food - 9 (Dad)
+//Consumption - 9 (Dad)
 Domino's Pizza
 McDonald
 Yum Brands(KFC, Pizzahut, Taco bell)
@@ -107,9 +108,9 @@ Cococola
 Pepsico
 Hershey Company
 Mondelez international - Cadbury Dairy Milk, Oreo and Toblerone chocolates among others
+American Water Works Company
 
-
-//Finance - 23 (pallavi)
+//Finance - 25 (pallavi)
 Visa 
 Mastercard
 MorningStar - mutual fund rating agency, research and investment advices
@@ -127,6 +128,8 @@ CME - world’s largest financial derivatives exchange
 Nasdaq - first electronic exchange in the world
 Coinbase - 2nd largest crypto exchange by volume
 Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
+Progressive - provides insurance for personal and commercial autos and trucks, motorcycles, boats,
+  recreational vehicles, and homes; it is the third largest auto insurer in the country
 Interactive Brokers Group Inc - clients from 200+ countries and territories invest globally and the largest full service broker in US
   ICICI direct works with this broker.IBKR is the top pick for active traders and anyone who wants access to international markets.
 The Charles Schwab Corporation - largest discount broker in the US, 3rd largest asset manager in the world, behind BlackRock and Vanguard.
@@ -141,9 +144,13 @@ JP Morgan chase - largest bank in the United States, the world's largest bank by
 Bank of America -  second Largest bank in America
 wells fargo - 3rd Largest bank in America
 Royal bank of Canada - largest bank in Canada
+Canadian National Railway Company - world-class transportation leader and trade-enabler
+  CN safely transports more than 300 million tons of natural resources, manufactured products, and finished goods throughout North America every year
+  As the only railroad connecting Canada's Eastern and Western coasts with the U.S. South through a 19,500-mile rail network
+Canadian Pacific Railway
 
 
-//Life Style - 20  (Brother)
+//Life Style - 18  (Brother)
 Apple
 Renew Energy Global PLC,(RNW) - largest renewable nergy in india(sector analysis must)
 Activision Blizzard - video games (deep wiki readout as company employees are leaving)
@@ -167,11 +174,17 @@ Lululemon Athletica - exclusive yoga apparel
 Columbia Sportswear Company - sports wear
 Altria
 Procter and Gamble
+
+//Extreme much Luxury and asset heavy (5) - costly prodcuts and services, lifetime experiences
 Royal Caribbean cruises - world's second-largest cruise line operator
 Carnival Corporation - Tourism and experiences, largest cruise vacation company in the world
+Vail resorts - mountain resorts
+Marriott International - operates, franchises, and licenses hotel, residential, and timeshare properties worldwide.
+  operated approximately 7,800 properties under 30 hotel brands in 138 countries and territories
+Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
+   number of categories, including furniture, lighting, textiles, bathware etc
 
-
-//Life style and Misc - 12 - people mostly not interested in paying premium
+//Life style and Misc - 13 - people mostly not interested in paying premium
 Comcast Corporation - media and technology company worldwide
 Caesars Entertainment - largest casino-entertainment company in the U.S. and one of the world's most diversified casino-entertainment providers.
   operates as a gaming and hospitality company in the United States. The company operates casinos, including poker, keno, and race 
@@ -181,15 +194,19 @@ SeaWorld Entertainment - portfolio of 12 destination and regional theme parks th
 united parcel service - UPS is the largest courier company in the world by revenue, best known for its ground delivery service
 Fedex - Fedex is best known for its air delivery service
 Walmart
+Best Buy - largest specialty retailer in the United States consumer electronics retail industry
+   operates internationally in Canada as well
+Costco Wholesale Corporation - together with its subsidiaries, engages in the operation of membership-only warehouses in the United States,
+  Puerto Rico, Canada, the United Kingdom, Mexico, Japan, Korea, Australia, Spain, France, Iceland, China, and Taiwan. It offers
+  branded and private-label products in a range of merchandise categories.
+  customers may buy large, wholesale quantities of the store's products, which makes these clubs attractive to both bargain hunters and small business owners.
+  it also has a website for online delivery(same day delivery feature is recently launched)
 Kroger
 Target
-Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
-   number of categories, including furniture, lighting, textiles, bathware etc
 floor and decor holdings
 The Home Depot - operates as a home improvement retailer. It operates The Home Depot stores that sell various building materials, 
  home improvement products, building materials, lawn and garden products, and décor products
-Marriott International - operates, franchises, and licenses hotel, residential, and timeshare properties worldwide.
-  operated approximately 7,800 properties under 30 hotel brands in 138 countries and territories
+
 Albemarle Corporation - develops, manufactures, and markets engineered specialty chemicals worldwide. It operates through three
   segments: Lithium(electrical vehicles), Bromine Specialties, and Catalysts. 
   second-largest lithium miner in the world

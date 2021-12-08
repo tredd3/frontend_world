@@ -62,3 +62,7 @@ why people hold low profit margin stocks ?
 if the sales increases more than the costs, if you do the math say for e.g: sales increases 10%, costs increases 5%
 then EPS for a low profit margin company increases 3X but for high profit margin company it does increase 0.5X and hence the 
 share price follows multiplying their money 3 times
+
+why they even own companies with high D/E?
+Equity is costly(15% expectations from shareholders), Debt is cheap(max 10%)
+hence if Debt used wisely can significantly increase ROE and proftability of the company
