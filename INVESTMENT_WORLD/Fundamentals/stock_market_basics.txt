@@ -85,7 +85,8 @@ How do you interpret the data is important bcoz is data is available with everyb
 3:1 bonus shares - 3 bonus shares for 1 share held
 1:3 bonus shares - 1 bonus share for 3 shares held
 Ex-bonus date - need to buy shares before this date to get bonus shares in ur demat
-Record date - bonus shares get deposited in demat on this date
+Record date - bonus shares will get deposited in demat within 15 days from this date
+e.g: Dec 6 is the record date, bonus shares will get credited in demat between 6th and 21st dec
 However, over the long term, and as stock price increases, investors tend to gain. 
 Impact : The share price falls in the same proportion as the bonus issue ratio.
 the amount is deducted from reserves(other equity) and goes to share capital section in the balance sheet

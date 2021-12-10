@@ -1,0 +1,56 @@
+https://www.morningstar.com/articles/1065359/is-it-really-a-bear-market-for-china-stocks
+Non chinese individual investors can only buy and sell mainland-listed stocks through the Hong Kong exchange.
+However, mutual fund and big institutions have a greater access to mainland listed stocks.
+Hence ADRs came in where institutions hold the direct stocks of chinese companies and issue ADRs backed by chinese/foreign company stocks
+Also VIE(variable interest entity) - where a shell company is created and holds the stocks(individual people can be investors and  
+  will get returns but they don't have ownership)
+Delisting risk from US: if a chinese company is listed in the US and it doesn't follow American auditing standards for 3 yrs in a row
+  then Acc to US law stocks will get delisted from US Exchanges.But china doesn't allow any one to audit the chinese companies and
+  foreign companies listed in china. Hence the concern
+Delisting risk from China: if a company doesn't follow chinese govt laws/regulations , doesn't follow data breach policies and bypass 
+  everything and then get listed on US exchanges then chinese govt will stop the business of the company and eventually ask them to delist
+  But In the first place you should not invest in the companies who does all such fraud and doesn't obey chinese govt
+  China doesn't want to compromise on the data and National security, it want all the firms to adhere to chinese laws/regulations
+  It has no intention of delisting all the VIEs in the US or not allowing the new VIEs
+
+Safe Bet: Hongkong Exchange seems to be a safer bet as china doesn't have any issues from their companies being listed on that exchange infact
+they don't have problem with their companies being listed even in the US as they get foreign capital and economy grows, tax revenue increase,
+people standard of life increases and so on... but US govt want to audit the companies listed in their exchanges hence the problem
+
+Indexes: 
+CSI 300(broader chinese index) - top 300 stocks traded on the Shanghai Stock Exchange and the Shenzhen Stock Exchange. 
+  heaviest bets in consumer defensive and financial services
+  CSI 300 is considered blue chip index for Mainland China stock exchanges (treated as S&P 500 of the US)
+  CSI full form -  China Securities Index
+
+
+//ETFs and Funds(Both Index and Active)
+Index Funds: focus on index funds but index composition is must - check index composition image
+Active funds/ETFs: 
+Some funds invest exclusively in China A shares (tilted toward more "old economy" sectors like financial services and energy)
+some in HK-listed securities : currency fluctuation risk but but since hongkong dollar is pegged to USD there is not much issue 
+  in currency fluctuation
+while others primarily own American depositary shares(may get delisted if not ethical and follow right accounting, also china-US 
+  tensions can lead to more regulations affecting the ADRs straight away)
+Note: funds investing in companies listed on the Hong Kong exchange or as ADRs are more exposed to the communication services and 
+ consumer cyclical sectors. so explore the possibility of combination
+//popular ETFs
+Xtrackers Harvest CSI 300 China A ETF (Index fund) - no communication services, no consumer cyclicals
+Invesco China Technology ETF/Krane Shares CSI China Internet - 60% ADRs listed in US + 40% in Hong Kong listed securities
+iShares MSCI China ETF - 484 stocks and has the widest investment scope, covering all Chinese enterprises regardless of their 
+  listing destinations(China A shares, hong kong, ADRs).
+check for technology or bluechip funds
+//research all global ETFs (pick best company and check their competettion)
+
+
+//Stocks - only famous and best of the best
+Xiaomi
+Tencent
+  Business 1 :software gaint with an army of 25,000 developers who develop products that generate cash
+  Business 2: that cash is deployed by Investment team across investment including flipkart
+One plus
+Netease
+BYD (build your dreams) - It has two major subsidiaries, BYD Automobile and BYD Electronic.
+ major manufacturer of automobiles (most notably full-electric and hybrid cars, buses, trucks, etc.),
+ battery-powered bicycles, forklift, solar panels and rechargeable batteries (mobile phone batteries, electric vehicle batteries 
+ and renewable bulk storage).

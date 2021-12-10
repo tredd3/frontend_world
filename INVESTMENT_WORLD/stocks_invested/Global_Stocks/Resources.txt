@@ -1,10 +1,11 @@
 //https://en.wikipedia.org/wiki/List_of_assets_owned_by_Berkshire_Hathaway
 
-concall transcripts: https://www.rev.com/blog/transcript-category/financial-transcripts/page/4
+concall transcripts:
+ https://www.rev.com/blog/transcript-category/financial-transcripts/page/4
+ https://seekingalpha.com/symbol/BABA - scroll to bottom for investor presentation and transcripts
 
-fundamental analysis and stats (no predictions only data analysis): https://www.wallstreetzen.com/stocks/us/nyse/baba/earnings
 
-magazines: Barron's(wsj)
+magazines: Barron's(wsj) https://wsjshop.com/collections/barrons
 
 Research reports/analayst reports: i.e input a stock name and get the thorough report
 Best sites: morningstar, zacks, seeking alpha, stock rover
@@ -55,3 +56,9 @@ directing their capital elsewhere.
  Note: When there are many 5-star stocks, the stock market as a whole is more undervalued, in our opinion, than when very few 
    companies garner our highest rating.
 
+
+//Final sites to look at
+https://seekingalpha.com/symbol/BABA - one of the best sites and a must see for all stocks
+https://www.wallstreetzen.com/stocks/us/nyse/baba/earnings - fundamental analysis and stats (no predictions only data analysis)
+https://tijorifinance.com/us/company/GOOGL/overview - for 10yr finacials and ratios
+https://www.morningstar.com/stocks/xhan/1nc/price-fair-value - exclusive for DCF Valuations

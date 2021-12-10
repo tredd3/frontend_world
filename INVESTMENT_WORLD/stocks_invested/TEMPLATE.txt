@@ -166,8 +166,24 @@ if payable days are more CCC is -ve and also company gets to hold cash for a lon
  hence improving operating cashflows
 if recievable days are more => customers are taking more days to pay for the goods then cash is locked in
 inventory turnover = COGS/inventory , companies with DCA have very high inventory turnover
+
 Note: If two companies have similar values for return on equity (ROE) and return on assets (ROA), it may be worth investing in the 
  company that has a lower CCC value. It indicates that the company is able to generate similar returns more quickly.
+
+--working capital cycle - 
+These companies realize proceeds from sales over a longer time-frame. This characteristic of a longer cycle between sales and 
+ realization of proceeds is reflected in their higher working capital requirements.
+aviation sector, real estate sector, gems & jewellery, engineering, power sector, sugar sector and textile sector are highly capital intensive.
+There are different reasons in each industry for the relatively longer working capital cycle.:
+Real estate and engineering sectors involve projects which take a long time to complete, resulting in long inventory holding periods
+export oriented companies => might suffer due to long recievables
+sugar and textile sectors longer working capital cycles are due to their dependence on commodity-based inputs which are seasonal 
+   in nature and necessitate their storage. 
+power distribution companies have problems of collecting payment which leads to increase in Receivable days and often default
+Note: Higher working capital requirement adversely impacts their earnings as higher debt is required to service working capital(day 
+ to day capital requirements). So, the return on equity (ROE) of these sectors is among the lowest
+On the other hand, sectors such as FMCG, Mining, Oil & gas and IT produce higher returns by virtue of low or negative working capital cycles.
+Companies with strong pricing/brand power has -ve working cycle meaning, they get money even before sales
 
 
 --"working capital intensive" operations?
@@ -180,13 +196,6 @@ As a rule of thumb u should avoid WC intense companies because they have high fi
 But they are very very few companies that are profitable in this segment by producing premium products/services and not 
  commodity products/services(if possible own them because the efficiency with which they operate acts as an entry barrier MOAT)
 
-
---working capital days - lesser the days more efficient a company is
-how many days it takes for a company to convert its working capital into revenue. 
-If the days working capital number is decreasing, it might be due to an increase in sales.
-Conversely, if the days working capital number is high or increasing, it could mean that sales are decreasing or perhaps the 
-company is taking longer to collect payment for its payables.
-CCC should ideally be lesser than working capital days
 
 
 --check if Accounts Receivable is significant compared to sales over the years:
@@ -274,6 +283,10 @@ interest should be <10-15% of operating income/profit. (but it depends on indust
 company with high debt means either it in highly competetive industry and it needs debt to finance the capex for survival
 OR it has acquired other company by taking debt
 NOTE: Generally in a given industry company with lowest ratio of interest to operating income has a competetive advantage
+
+--OPM higer it is the better
+It tells you how good is the management in cutting down the operating costs.
+But you want the company to be cost effective and profitable, hence OPM has to be accompained by NPM
 
 -- strength check: What are the earnings/situation of the company in 2008 and 2020 crisis?
 however it completely depends on the industry. it is possible that all companies in the sector have done poorly
