@@ -19,12 +19,13 @@ Resources to know about the  company/business :
 2)company website - most important for updated info 
 3)screener summary
 4)crisil ratings scroll to the end of the page(about company, subsidaries, rating history)
-5)company filings(investor presentation, annual report, conference calls) from tijori
-check moneycontrol SWOT analysis
+5)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
 check tickertape and  morning star for valuation confirmation
-check misc_negative.txt
+check DON'T_BUY.txt and BUY_THESE.txt
+https://www.moneycontrol.com/equity-research/category-stock-reports
 https://www.valueresearchstocks.com/recos-current
 https://www.moneycontrol.com/equity-research/stock-recommendations-active
+check moneycontrol SWOT analysis
 
 
 --------------- STRENGTH -------------------

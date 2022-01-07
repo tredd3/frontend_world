@@ -6,4 +6,4 @@ Puma : 3rd largest sportswear manufacturer in the world.
 EssilorLuxottica: designs, produces and markets ophthalmic lenses, optical equipment and prescription glasses and sunglasses
     brands: Oakley , sun glass hut
 
-Exclusive for all German car brands
+//German car brands:

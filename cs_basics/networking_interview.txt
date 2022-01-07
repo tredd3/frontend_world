@@ -1,3 +1,7 @@
+//How internet works:
+ https://www.netnod.se/i-root/what-are-root-name-servers
+
+ 
 //client - server connection
 1) On a server, a process is listening on a port. Once it gets a connection, it hands it off
  to another thread. The communication never hogs the listening port.

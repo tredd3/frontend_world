@@ -62,11 +62,13 @@ Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/
 United health group - largest insurance company by net premiums in US + health care products
 
 
-//Tech - 15 (Dad)
+//Tech - 16 (Dad)
 Alphabet(GOOGL)
 Facebook (wtsapp, Instagram, Linkedin) - meta platform
 Amazon - vertically integrated (website, warehouse,shipping, delivery)
 Netflix - largest media and entertainment company in the world by marketcap + 40% content producted inhouse
+Verisign -  operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the 
+      authoritative registry for the .com, .net, and .name generic top-level domains
 Mongo DB
 Microsoft (Linkedin, Github, Lynda)
 Alibaba - asset lite model (excellent managemnt + rapid share buyback is happening)
@@ -78,6 +80,9 @@ Alibaba - asset lite model (excellent managemnt + rapid share buyback is happeni
           had a down quarter since last 10 quarters(because of tax increase from 12 to 24%)
           Alibaba owns a third of Ant Group, and the blocking of its IPO is a value-destructive event leading to stock price crash
           China economy is undergoing significant structural changes and it is expected to be down for next couple of years
+          To be monitored: 
+          Revenue: the lockin which Alibaba imposed on merchants is now gone, which might take away their market share
+          operating Costs: management needs to spend on Ads to remain competettive
 Adobe - develops software tools primarily for audio-visual(graphics, photography, illustration, animation, multimedia/video,
         motion pictures) content creation, editing and publishing.
 Accenture - IT services and consulting. current clients : 91 of the Fortune Global 100 and more than 3/4 of the Fortune Global 500
@@ -175,7 +180,7 @@ Columbia Sportswear Company - sports wear
 Altria
 Procter and Gamble
 
-//Extreme much Luxury and asset heavy (5) - costly prodcuts and services, lifetime experiences
+//Extreme Luxury and asset heavy (5) - costly prodcuts and services, lifetime experiences
 Royal Caribbean cruises - world's second-largest cruise line operator
 Carnival Corporation - Tourism and experiences, largest cruise vacation company in the world
 Vail resorts - mountain resorts
