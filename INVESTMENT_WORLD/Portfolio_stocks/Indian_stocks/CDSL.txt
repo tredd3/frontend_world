@@ -42,6 +42,10 @@ reusing and library business
 
 
 //Risks
+-ves: 
+shareholder pattern decreasing but other factors are good
+other income is almost 40-50% every year
+in-consistent cashflows and very less net profit growth over the years
 
 
 --------- Financials -----------

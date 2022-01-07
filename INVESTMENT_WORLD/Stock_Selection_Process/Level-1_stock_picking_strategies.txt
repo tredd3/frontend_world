@@ -1,0 +1,27 @@
+******** Diff ways of picking stocks *******
+1)suggestions : easiest way
+brokers, youtubers, paid servies(https://www.valueresearchstocks.com/recos-current)
+
+2)top down approach: 
+globay economy -> indian economy anlaysis -> sector and industry analysis -> company analysis
+tailwinds
+https://www.tijorifinance.com/macro/
+
+
+3)bottom up approach : 
+company selection based on market leader/financials(screener filter)
+company analysis -> sector and industry analysis  -> country analysis
+https://www.screener.in/explore/
+
+4)products you use or industry you work - my preferred approach/ due to circle of competence
+since you know product,quality and service
+
+5)based on your own risk apetitte/knowledge/imagination and belief
+read sector_and_company_hunt.txt 
+
+6)stock cloning : all cloned stocks should pass circle of competence test
+investors: https://www.ratestar.in/investor/Jhunjhunwala-Rakesh-Radheshyam
+mutual funds portfolio: https://groww.in/mutual-funds/icici-prudential-technology-fund-direct-growth
+instead get the idea behind the investment and apply for your investments
+
+

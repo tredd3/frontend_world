@@ -1,44 +1,41 @@
-Overall: 
-Ur Ranking: 
-CRISIL: 
+Overall:
 
-------------- About -------------
+------------------------------ PAST -----------------------------------
+know about the company
+quick check
+any research report/youtube analysis available for the company
 
-
-
--------- why to buy and hold? Business Strengths ---------
-...
-
-
-//Growth oppurtunities
-
-
-
-//Moats
-
-
-
---------- why you shouldn't hold the company? Business Weakness ----------
-...
-
-
-//Competettion
-
-
-
-//Risks
-
-
---------- Financials -----------
+------------------------------ PRESENT --------------------------------
+Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
+at profitable end of value chain) demand and supply (size of opportunity)
+Any  substitutes available or upcoming
+product quality and value addition to customers - does it delight the customers or own consumer mind
+pricing power :
+    bargaining power of suppliers
+    bargaining power of consumers
+Moat check:
+Competettion:
+  tijori(benchmark) and screener peer comparison sections for profitability and costs
+  threat of new entrants
+Financials:
 //Financial strengths
-
-
 //Financial weakness
 
 
+------------------------------ FUTURE ---------------------------------
+Growth opportunities(extremely important) -
+  is it in a growing sector with tailwinds? OR 
+  is it in a non growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
+  planned capex - but not capex needed for  sustainence like upgradation
+  expansion to other geographies including abroad
+  deeper penetration in existing geographies -  including increasing distribution network
+  having a strong order book > market cap
 
---------- My filter check --------------
+
+------------------------------ RISKS ---------------------------------
 
 
 
-------- Valuation -----------
+------------------------------ VALUATION ---------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation

@@ -1,16 +1,16 @@
 //overall requirements to be satisfied by a company
 BUSINESS + FINANCIAL +  Management + VALUATION (all are equally important) + Margin of safety(for growth companies,
 fair price for Value companies)
+decision ONLY  based on facts(news, reports) and reasoning(think, compare), not on opinion and emotions
+Provide Continuous fuel and efficiency to the process: keep updated with present knowledge
 //why valuation are important?
 if you buy an extraordinary company that is over valued, then it might take a decade for the earnings to catchup to the price
 till then the stock price is not moving anywhere.
 Which means the company will still make money , earnings will grow but your money won't grow
 
-Note: increase margin of safety is a must for companies which doesn't pass important filters
-
 
 ----------- FIRST set of companies - get them on undervaluation/fair valuation -------------------------
----------- company Background and Basic screening ---------
+---------- PAST: company Background and Basic screening ---------
 //CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
 //why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
 //check the share price in wiki (continously decreasing then check Stock_Crash.txt)
