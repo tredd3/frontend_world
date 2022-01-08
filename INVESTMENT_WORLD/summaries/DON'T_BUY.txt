@@ -1,45 +1,83 @@
-** Similarities in Worst companies :
+------------------- Similarities in Worst companies -------------------------
 1.Promoter shareholding keeps decreasing
 2.Promoter pledging increases over the years
 3.Debt/Equity is huge and have increased over the years
 4.Mindless diversification - entering into businesses in which they don't have expertise
-5.not adapting to change - like ev vehicles for auto sector, 5G tech for telecom, latest innovations in electronics latest innovations in electronics
+5.not adapting to change - like EVs for auto sector, 5G tech for telecom, latest innovations in electronics latest innovations in electronics
 6.costly acquisitions
 
 
-** companies to AVOID
+--------------------------- companies to AVOID ------------------------------
 /CONTINOUSLY needs to do capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
   However you can buy companies providing services to above sectors as those comapnies will be at the receiving end and the
   above sectors will be at the spending end.
   e.g: NBCC (infra and construction services)
   Sterlite technologies(telecom optical fibre setup and monitoring services)
+Types of Capex:
+i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do continous capex to upgrade their network equipments and infra etc
+check net block(plant, equipment, machinery trend in balance sheet to check whether it is a upgradation capex or capex addition)
+ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
+//operating expenses under control? this parameter indicates management efficiency 
+    if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)
+    To confirm check operating expense as % of revenue
 /CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
+e.g some pharma companies put >40% of revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash
  However if you find an exceptional company(strong MOAT) which is both efficient and profitable in above sectors then buy
 /companies that have huge debt or need to take debt CONTINOUSLY to survive 
 during Bull run: it will eat away profits => EPS decreases => share price decreases
 during Bear crash: it can make company bankrupt
 and also company has to pay interest even if it is in loss => assets needs to be sold => bankruptcy
+Types of Debt:
+1)Bank Type Debt: Non-convertible debentures and commercial papers(complete payment within a year) , bankOverdraft(on demand payment)
+2)Funded Debt: Term loans, Non-convertible bonds and Convertible bonds(they are long term and payments can be made in installments
+  over the years)
 /Avoid industries that are highly competetive and no compnay has a DCA like auto, telecom, aviation industries - as 
-    no company can make huge profits due to zero pricing power
+    no company sales can grow consistently and none can make huge profits due to zero pricing power
+/Avoid companies that compete on price - invest in companies that compete on providing value addition
+Companies in heavy competetive market like Food delivery,E-commerce,Aviation are loss making because they always burn cash in 
+the form of discounts to attract customers as customers always search for discounted prices and not ready to pay premium.
 /Avoid commodity stocks like metals (unless u know the commodity cycle and track its prices and supply etc) because price is decided
   globally and it can take you around 80-90% down if you enter at he wrong time.
-/hotest trending stocks - can be locked at very expensive valuation
+/hotest trending stocks - you can be locked at very expensive valuation
   Avoid hottest stock in the hottest industry like Tata Motors
   problem with the tech/hottest industry: it attracts smart people and someone in the world will always try and get the technology 
   products at cheaper price hence instead of focusing on tech stocks focus on companies that use this tech and become EFFICIENT. 
   Now tomorrow when the R&D people succeed and come with a low cost product, then the company that is already using the tech will be
   more PROFITABLE (infact EFFICIENT + PROFITABLE)
-/stocks with buzz of next IBM, next Microsoft, next HUL etc
-/serial Acquirers like Zydus but if it is for strategic purpose(related businesses) then fine else acquiring companies to become a conglomerate is bad.
+/stocks with buzz of next IBM, next Microsoft, next HUL etc - why don't you focus on existing brands and learn why they have become
+ brands, instead of focusing on the next/upcoming brands
+ However if you have studied and know the success mantra of brands and find a company that is replicating it, then  you can conside
+  buying it. for e.g: IDFC First bank has a CEO, who has a proven track record and following the footsteps of HDFC Bank interms
+  of shifting the focus to retail sector instead of infra and wholesale where the chances of loan default is high
+/Avoid serial Acquirers like Zydus but if it is for strategic purpose(related businesses) or pure investment related purposes then 
+   its fine else acquiring companies to become a conglomerate is bad.
+   /Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
+  i) company will not have that USP built in , it will not have any core philosophy and hence might not attract investors. 
+  ii)Also the cost at which it is acquiring companies is very important. what if all the acquired companies work culture is 
+    different ? there will not be any synergy rather it will be very complex for the management to handle putting the companies revenues and growth for a toss.
+  iii)The acquired companies might not augument/bring in much value to existing operations
+  iv)management will not have a mindset to fix the business model, rather always think of few more acquisitions to solve the
+    all the problems mentioned.
    However if the price at which the companies are acquired is low and the performance of the acquired companies(subsidaries) 
    is great then we can consider holding the company like (infoedge and bekshire has acquired companies that doesn't provide any 
-   strategic role , they acuired it for investment purposes and they are doing great as an investment so that is fine)
+   strategic role , they acquired it for investment purposes and they are doing great as an investment so that is fine)
+   Similarly Facebook(acquired wtsapp, instagram etc) for strategic purpose(to strengthen their presence in social platform) and
+   keep the competettion at bay.
 /over diversification - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
-  compnay it is bound to see losses.
+  company it is bound to see losses.Moreover overdiversification sometimes leads to producing of avg revenues as all the profitable
+  businesses revenue will be nullified with bad/Average ones
   However if the company does the reverse and sell all the unrelated businesses then it will be a turnaround oppurtunity
-/having very few clients like railtel
+/having very few clients like railtel - they will be highly dependent on fortunes of the client business and stickyness which leads
+  to either losing of pricing power OR the business altogether
+/Avoid companies dependent on govt lifting bans on imports, govt subsidies/schemes or order inflows only from 
+  govt or limited clients or will get orders only on low bidding(here others can take over or it will
+  put pressure on margins)
 /irregular growth  or too high growth in small span (50%/100% growth rate in 1-2 years) - this is unsustainable
 /No new development of products or not catching up with current trends
-/commodity type business where price power doesn't lie with the company
 /B2B companies(suppliers) that doesn't have pricing power because of high competettion/high customer and revenue concentration
+B2C companies might cut them off if they increase the price.Because the increase in price will affect the profitability of the 
+firm as they purchase in bulk quantity (so they always expect discount)
+Exception: L&T, Intel bcoz they established a sense of trust/brand/customer loyalty
+/Avoid companies with limited market size - as the companies doesn't have an option to expand beyond a certain point
+   e.g some companies market is limited to only domestic and that too only few businesses/clients need it
 

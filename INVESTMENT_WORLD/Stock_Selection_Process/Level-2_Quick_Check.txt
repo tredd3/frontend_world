@@ -1,18 +1,26 @@
 ******** Basic Screening of stocks *********
 1)General
---Normal check on stock price since inception - google search (steady growth or any abnormality observed)
+--Normal check on stock price since inception - google search (share price increasing or any abnormality observed)
   if a share is falling: google search why a company share is falling - check news section in morning star/screener.in
-  And also check promoter shareholding pattern
+  Also check Stock_Crash.txt
+  And also check promoter shareholding pattern trend in tijori
   Internal factors: then skip the company
   External factors: then proceed with screening
+--check if the company is present in https://www.valueresearchstocks.com/recos-current - read the report if stock is present
 --check DON'T_BUY.txt 
 --check BUY_THESE.txt
+--check shareholding pattern(especially promoter) trend over the years in tijori
+  Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+--promoter pledging
 
 
 2)Business:
 --Check Screener pros and cons
---CRISIL rating
+--what peter lynch bucket does stock belongs to?
+--CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
 --market share trend
+--can a fool run this business - i e business brand value and strength check
+--can you put 25% of your net worth and forget about it for next 10 yrs in a stock???
 
 
 3)Financial Strength: Consistency check on 10yr financial data (standalone and consolidated)
@@ -27,11 +35,9 @@ Note: if free cash flow is -ve check why
 free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
 Also if other params are good and -ve free cash flow is bcoz of capex then you can invest 
---check 10yr cash flow analysis to undestand wt company is doing with its cash
---outstanding shares increasing every year ?
-Note: for this check cashflow from financing section
---shareholding pattern of the promoter, FIIS and DIIs decreasing?
---promoter pledging
+--check 10yr cash flow analysis in tijori to undestand what company is doing with its cash
+company can have average finacials and has a high scope to improve
+--outstanding shares increasing every year ? check cashflow from financing section
 --ROE consistent and  10-15% (with D/E under control)?
 --ROCE and ROIC (consistent and above 15%)
 --D/E < 1?
@@ -40,7 +46,10 @@ check D/E trend
 can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
 
-//Conclusion:
---can a fool run this business - i e business brand value and strength check
---check if the company is present in https://www.valueresearchstocks.com/recos-current - read the report if stock is present
---can you put 25% of your net worth and forget about it for next 10 yrs in a stock???
+4)Valuation: find out how much time will it take to get ur money back? 
+--EV/EBIT Valuation
+--(Market cap - cash&cash equivalents)/Free cash flow Valuation
+if free cashflow is irregular(avg free cash flow for 5 years)/if free cashflow is increasing consistently(free cash flow for last year)
+<= 5 : Undervalued,
+5 - 10 : Fair value,
+>10 : company is Overvalued, better to invest in NIFTY where u get ur money back in 8-10yrs

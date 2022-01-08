@@ -1,39 +1,35 @@
 Overall:
 
 ------------------------------ PAST -----------------------------------
-know about the company
 quick check
+know about the company
+why did the promoters start the business
 any research report/youtube analysis available for the company
+what peter lynch bucket does stock belongs to
 
 ------------------------------ PRESENT --------------------------------
-Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain) demand and supply (size of opportunity)
-Any  substitutes available or upcoming
-product quality and value addition to customers - does it delight the customers or own consumer mind
-pricing power :
-    bargaining power of suppliers
-    bargaining power of consumers
-Moat check:
-Competettion:
-  tijori(benchmark) and screener peer comparison sections for profitability and costs
-  threat of new entrants
-Financials:
+---Sectoral analysis:
+---Products/services DEMAND check :
+---Products/services SUPPLY check :
+--- Products/services quality and value addition to customers check :
+
+
+------------------------------ FUTURE ---------------------------------
+---Process/Strategy check?
+--- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
+
+
+------------------------------ Financial strength check ---------------------------
 //Financial strengths
 //Financial weakness
 
 
------------------------------- FUTURE ---------------------------------
-Growth opportunities(extremely important) -
-  is it in a growing sector with tailwinds? OR 
-  is it in a non growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
-  planned capex - but not capex needed for  sustainence like upgradation
-  expansion to other geographies including abroad
-  deeper penetration in existing geographies -  including increasing distribution network
-  having a strong order book > market cap
-
-
------------------------------- RISKS ---------------------------------
-
+--------------------------------- RISKS --------------------------------------
+Think for some time with a cool and calm mind and you will get all the scenarios - don't predict about macroeconomy because over 
+ the years it will and it has to improve.
+1)Loss of Capital
+2)Not getting Adequate returns - in the short term u can dream of 25-30% CAGR but in the longterm getting anywhere between 15-25% is
+ extraordinary, for this u need to start early
 
 
 ------------------------------ VALUATION ---------------------------------

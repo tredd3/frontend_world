@@ -52,7 +52,7 @@ Invested capital = Employed Capital - cash and cash equivalents
 ROIC is calculated by obtaining the Net Profit After Tax (Net income – Dividends) divided by invested capital.
 ROIC VS ROCE:
 since ROCE doesn't take in to account taxes and interest paid, it is useful for comparing companies in various geographies as the
- tax structure varies and ROCE doesn't condier tax in to account.
+ tax structure varies.
 ROIC is better for comparing companies in a given country(as tax structure will be same) and in a given industry to identify most 
  profitable companies in core business vertical.
 

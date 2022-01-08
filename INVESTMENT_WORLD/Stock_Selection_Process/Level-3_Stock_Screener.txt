@@ -6,22 +6,26 @@ Provide Continuous fuel and efficiency to the process: keep updated with present
 //why valuation are important?
 if you buy an extraordinary company that is over valued, then it might take a decade for the earnings to catchup to the price
 till then the stock price is not moving anywhere.
-Which means the company will still make money , earnings will grow but your money won't grow
+Which means the company will still make money , earnings will grow but your money won't grow, instead u could have kept the money in 
+index funds/liquid debt funds
 
 
------------ FIRST set of companies - get them on undervaluation/fair valuation -------------------------
----------- PAST: company Background and Basic screening ---------
-//CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-//why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
-//check the share price in wiki (continously decreasing then check Stock_Crash.txt)
-//check shareholding pattern and trend over the years in tijori
-  Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-//non cyclical or least cyclical
-cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
+----------------------- PAST: company Background and Past performance ---------------------
+---why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
 
+---Resources to know about the  company/business : 
+1)wikipedia
+2)company website - most important for updated info 
+3)screener summary
+4)crisil ratings scroll to the end of the page(about company, subsidaries, rating history)
+5)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
 
------------ which category does the stock belong to ---------------
-//why peter lynch bucket does stock belongs to?  check share price trend over the years you will get to know
+---Stock research report sources:
+https://www.moneycontrol.com/equity-research/category-stock-reports
+https://www.valueresearchstocks.com/recos-current
+https://www.moneycontrol.com/equity-research/stock-recommendations-active
+
+---what peter lynch bucket does stock belongs to?  check share price trend over the years you will get to know
 1)slow growers(low risk, low returns)  - the only reason to hold should be dividends
 2)stalwarts(low risk, moderate returns) - check if they can maintain the momentum and are getting in to diworsefications?
   companies acquiring market share from organised peers or unorganised peers
@@ -39,6 +43,9 @@ cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
 Note: don't buy a turnaround just because stock price is down, own it if business is starting to pickup, financials are great etc
 5)cyclicals(high risk, low returns or low risk high returns depending upon the cycle at which u have invested) - the more things 
   are stressed the better will be the recovery
+  //Always prefer non cyclical or least cyclical
+  cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
+  Note: Timing is everything in cyclicals
 6)asset plays(low risk, high returns) - price vs value play (balance sheet scanning is must)
    hidden assets(like extrememly profitable subsidaries or divisons) like ITC
    natural resources like land, real estate,gold, oil or cash etc in high amounts? where the value of these exceeds the stock price
@@ -50,25 +57,39 @@ Note:
 --stalwarts like MCD can become asset plays bcoz of the real estate it owns
 --growth expectation should not be the same for all the categories stocks alike
 
------- Products/services demand and supply check --------
-//product diversification
-//where are the product used/what is the demand for the products?
+--------------------------------------- PRESENT ----------------------------------------
+---Sectoral analysis:
+//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
+at profitable end of value chain) demand and supply (size of opportunity)
+
+---Products/services DEMAND check :
+//product diversification - what all products company manufactures (you can find in investor presentation)
+//where are the products used/what is the demand for those products?
     repeat businesses include subscripton models/continous and growing demand(solar,EV)/continous and constant demand(FMCG)
     if it is one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol plant,
      it has huge oppurtunity abroad/huge order backlog both domestic and abroad
-//can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
 //high margin non commoditized business? 
     if commoditized then must be a low cost producer
 //if B2B (client diversification, strong order book)
-//if B2C (products must be useful for each and every individual and have a strong demand bcoz strong demand => supply increases(check 
-market share to know how much demand is being catered) => revenue increases => EPS increases => share price increase => your money grows)
-Is there any peer whose market share is higher than the current company?
-compare the peers screener/BSE on the basis of (efficieny - NPM,OPM and  profitability - ROCE, ROE, ROIC)
+//if B2C (are the products useful for each and every individual and have a strong demand)? bcoz strong demand => supply increases
+ => revenue increases => EPS increases => share price increase => your money grows)
 //if business service companies (almost every business should find its usage now or eventually)
 
 
----------- Products/services quality and strength check ---------
-//owns consumer minds (retail/business)? 
+---Products/services SUPPLY check :
+check market share trend over the years in tijori - to know how much demand is being catered by the company 
+Also to know if the company is losing the business to competetiors
+Is there any peer whose market share is higher than the current company? - great check to find a excellent competetior business
+what is the unorganised players market share?
+imports risk from china or any other low cost producer country?
+can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
+Competettion: 
+  tijori(benchmark) and screener peer comparison sections for profitability and costs
+  threat of new entrants
+
+
+--- Products/services quality and value addition to customers check :
+//does it delight the customers or own consumer minds (i.e people always remember this company when u talk about this product)? 
 //Have u used the product/service ? 
   if YES, what is your view 
   if NO, go and open their website, check public review in ecommerce or google search
@@ -77,79 +98,56 @@ always check wt % revenues are contributed by that product (for Eicher RE contri
  on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
 
 
------------ Sustainability -----------
-//what is the competettive advantage/MOAT and does the company have one compared to its competetiors?
-  if yes is it durable?
+--------------------------------------- FUTURE ----------------------------------------
+---Process/Strategy check?
+do you know market leader success and failures stories? if yes apply then to the current company process/strategy
+
+
+--- Sustainabile Growth of Earnings check :
+//competettive advantage/MOAT Check?
+  check MOATS.txt
+  if the company has a MOAT is it durable?
   if NO what is the 10 yr picture u have in ur mind? will it build one?
-//entry barriers - bcoz the businesses are difficult to start/replace/maintain
-  check market share trend over the years - to know if the company is losing the business to competetiors
-//avoid companies with intense competettion (The intense competition could restrict company's revenue growth and it
- takes away its pricing power)
 //monopoly or duopoly
-//geographical diversification - globally present? if not does it have a deep rural reach?
- better to have both, which helps in risk Management and strong growth oppurtunities in emerging countries
- for a company with high global presence , global competettion, political and currency risk need to be monitored
 //pricing power - are people ready to pay premium (can the compnay increase the product/services prices in the cases like inflation 
 and supply chain disruption or in general and be sure that people still buy their products and they don't loose their business to 
 competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
-e.g: Airlines, E-commerce doesn't have pricing power
  This will happen only when they add value to the customers in terms of 
    i)quality of product/service OR
    ii)affordable price OR any other thing which their competetiors cannot give
-//not dependent on/tightly linked to fortunes of a single client company/certain companies
-//not dependent on govt lifting bans on imports, govt subsidies/schemes or order inflows only from 
-  govt or limited clients or will get orders only on low bidding(here others can take over or it will
-  put pressure on margins)
-
-
-------------- Growth potential ---------
-//High growth potential? - both vertically (nation wide including rural areas) and horizontally (internationally)
-   avoid companies with limited market size - as the companies doesn't have an option to expand beyond a certain point
-   e.g some companies market is limited to only domestic and that too only few businesses/clients need it
+//bargaining power of suppliers - if suppliers have the power it is pretty bad
+//bargaining power of consumers - like e-commerce , this means company is in a highly competettive business
+//Growth potential ?
+Geographical diversification - globally present? if not does it have a deep rural reach?
+ better to have both, which helps in risk Management and strong growth oppurtunities in emerging countries
+ for a company with high global presence , global competettion, political and currency risk need to be monitored
 ** Multiple ways of Growth(Increasing Earnings): (find out which strategy out of the these will the company use)
-- sell more products in older markets(acquire new customers - expanding to other areas like rural/untapped areas, takeaway market 
-    share from competetiors )
+- sell more products in older markets(acquire new customers - deeper penetration to areas like rural/untapped areas, takeaway market 
+    share from competetiors in those areas)
 - capex and manufacture new products(innovated products/refurbised products) and selling them to old customers at high prices
 - simply increase the price of old products(no increase in volume) - stupid growth among all options
 - expand in new markets(international expansion/ exports)
-- cost cutting
+- cost cutting(cannot cut beyond a certain point)
 - dispose losing operations (increases firm efficiency)
 - acquistion and synergy led growth
+- it is in a growing sector with tailwinds
+- it is in a non growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
+
+Note: Both Growth MOATS and Growth oppurtunities need to exist else earnings are not sustainable
+Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
+market share soon - need to monitor closely
+company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if you have lot of money u can invest
+ here if not search for stalwarts or fast growers)
 
 
-//Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
-  i) company will not have that USP built in , it will not have any core philosophy and hence might not attract investors. 
-  ii)Also the cost at which it is acquiring companies is very important. what if all the acquired companies work culture is 
-    different ? there will not be any synergy rather it will be very complex for the management to handle putting the companies revenues and growth for a toss.
-  iii)The acquired companies might not augument/bring in much value to existing operations
-  iv)management will not have a mindset to fix the business model, rather always think of few more acquisitions to solve the
-    all the problems mentioned.
-However Having said all these there are few companies that can really make it work and keep acquiring to get ahead of the
-  competettion or to eliminate the competettion and thrive as a major player
-
----------- Financial strength ----------
+----------------------------------- Financial strength check -----------------------------
 //debt free or almost debt free
-Types of Debt:
-1)Bank Type Debt: Non-convertible debentures and commercial papers(complete payment within a year) , bankOverdraft(on demand payment)
-2)Funded Debt: Term loans, Non-convertible bonds and Convertible bonds(they are long term and payments can be made in installments
-  over the years)
-Note: any company having a lot of bank type debt is gone duing crisis(stock price will crash)
-//should not require contionus investment on capex OR significant investment in R&D (for eg some pharma companies put >40% of
-  revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash)
-Usage of Debt: Very important 
-  GOOD Usage: growth/capex augumentation/one time capex upgradation/ acquisition purposes/new product launch/spending on technology
-   for achieving efficiency
+//if there is debt then usage of Debt is Very important 
+  GOOD Usage: sales growth/capex augumentation/one time capex upgradation/ acquisition purposes/new product launch/spending on 
+  technology for achieving efficiency
   BAD Usage: expenses, continous capex upgradation
   
-Types of Capex:
-i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do continous capex to upgrade their network equipments and infra etc
-check net block(plant, equipment, machinery trend in balance sheet to check whether it is a upgradation capex or capex addition)
-ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
-//operating expenses under control? this parameter indicates management efficiency 
-    if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)
-    To confirm check operating expense as % of revenue
-//strong financials for 10yrs - especially check their 5/10yr cash flow analysis in tijori and initial summary section in screener
-however a company can have average finacials and has a high scope to improve
+
 Note: financials always give you an idea of the company till now and the how is financial strength of the company at present,
  but you need to own the company because of its future prospects and decide whether these past finacials can improve or remian 
  sustainable or deteriorate depending on the above analysis
