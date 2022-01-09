@@ -1,0 +1,65 @@
+
+-------------------------- Valuation -------------------------
+Talk about valuations only if the above factors are strong, else no point in buying the company
+
+*VALUATION RATIOS - talk about valuations only if business and management analysis is positive
+PE < 25(govt 10 yr bond yield) ? 
+High P/E => earnings may be less due to recession or one time costs OR market is paying premium as they believe earnings will increase at a faster rate
+check PEG to confirm , premium is justified only when PEG < 2
+Note: PE of a company might be less bcoz of the riskiness, cyclical nature, capex intensive and more capital requirement etc
+Low PE => inflated earnings due to one time income or any other manipulation OR any fundamentally wrong with the company
+Also PE < Industry PE?
+-PE is generally compared with peers PE, but PE for other companies is based on their financial condition, hence not a great measure
+PE < 5yr median PE? also check the historical PE range (most reliable approach for established firms)
+-for young companies it might not be relevant as they business outlook and financials might have changed
+PEG ratio: 
+-find out the earnings growth rate and check if they are releastic (check source of earnings section in FUTURE)
+PB: 
+Note: imp for capex intensive(fixed assets - old value) and financial firms(liquid assets - current value),makes less sense for service based companies
+Also don't forget to look at goodwill when you are valueing a firm based on PB value
+Bargain: if ROE is consistently high(i.e equity/book value is increasing) and PB value is less compared to peers
+PB - NA for a B2C company,if PB is applicable check ROA
+EV/EBITDA:
+EV/EBITDA < 10 - excellent company
+EV/EBITDA < 14 - can be considered
+EV/EBITDA > 14 - high valuation
+EV/EBITDA < industry EV/EBITDA and compare it with peers of same size
+cash return: free cashflow as a % of EV?
+EV= market_cap + long_term debt - cash
+compare this yield/cash_return with longterm bonds/FDs => if it is almost similar and the earnings of the company is bound to grow
+hence better to invest in the company else invest in the FDs or bonds
+
+**Problem with valuation ratios
+1)they are relative - i.e they are least useful if used alone and are generally used to compare with peers
+2)They don't tell anything about value(i.e how much the firm is actually worth) - ratios are based on price and they only 
+tell u how much price an investor is paying wrt peers.
+3)Business should be compared with peers but valuation should ONLY be based on instrinsic value of that company alone and not based on peer position
+why: PE for other companies is based on their financial condition and business outlook, lets say a company has poor outlook and
+financials then PE is obviously less and the company we are looking at may seem like overvalued but looking at intrinsic value it
+may be undervalued and might miss the oppurtunity assuming it is overvalued so we can't say whether the company is 
+overvalued/undervalued by comparing ratios with peers.
+4)Book value in PB can go down significantly as the assets value decreases when company files for bankruptcy. so if u think u are getting 
+high value assets at lower price (P/B < 1) then always check what is there on the asset side(natural resources like land, gold, silver,
+oil etc is fine but random real estate, machinery, inventory values can down significantly during auction)
+
+** hence valuing compnaies based on cashflows comes in the picture
+If cash flow regular? 
+  calculate DCF valuation : https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+      Market cap < DCF valuation, both PE and earnings are less?, check valuation ratios - stock undervalued, hence buy it
+      Market cap ~= DCF - fairly valued, check valuation ratios
+      Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
+  also check price to cash_flow /price to free cash_flow
+  verify: 
+  https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
+  https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
+  https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
+Else 
+	buy based on relative valuations mentioned in advanced/company_valuation.txt
+
+
+Note: even if a company has DCA, if you buy at high price the returns will be like a mediocre company
+1)SIP via averaging up when price increases by 50%
+increase SIP if price falls due to external factors
+2)wait for the bear markets 
+3)if company faces a temporary solvable problem , share price go down and you can grab
+

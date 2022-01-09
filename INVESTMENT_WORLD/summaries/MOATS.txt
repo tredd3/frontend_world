@@ -8,6 +8,13 @@ Economic MOATS - strengths that are not easy to break by competitors / market tr
 value of the product should be less compared to overall expenditure of a person/family then only customer pays premium because 
  the product cost is less compared to their salary/spending
 made for a penny, sold for a dollar and customer loyalty is high(customer keeps coming)
+ Does the company have economies of scale? bcoz low lost seller needs to have this else the profits will take a hit
+ ECONOMIES OF SCALE: it is the ability of the firm to leverage its fixed cost infrastructure across various clients
+ operating leverage of the firm increases because of this ability.(check in profit loss statement last line - tijori )
+ operating leverage is 3 => if revenues grow by x then operating income grows  by 3x (not net income)
+ Note: if operating leverage is very high because of fixed costs company can be wildly profitable and can also be bankrupt(check debt
+  levels, especially interest wrt operating profit)
+ so companies with high operating leverages must focus on revenue increase and capturing market share
 New companies cannot break this moat bcoz they will be in loss
 2)Brand - there should be trust in the public
 Breakable? -takes many years to build
@@ -22,6 +29,10 @@ for competitors to break this or overcome this hurdle is nearly impossible.
 Hence they start negative publicity
 6)high entry bariers like high capex, highly skill needed, complex operations ,heavy machinery operations,
  not easy to start/replace/maintain, high govt regulations
-7)switching cost
+7) B2B MOATS:
+is the switching cost > benifits of new products?
+products tightly integrated into customers business?
+is there any long term contract?
+does the customers staff needs training for new products usage?
 8)Luxury/Premium range: People are ready to pay premium because the value addition is huge compared to the price - mostly rich 
  people and businesses focus on it (like apple, Luxury furniture, Experiences etc)

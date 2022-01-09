@@ -1,153 +1,48 @@
-//overall requirements to be satisfied by a company
-BUSINESS + FINANCIAL +  Management + VALUATION (all are equally important) + Margin of safety(for growth companies,
-fair price for Value companies)
-decision ONLY  based on facts(news, reports) and reasoning(think, compare), not on opinion and emotions
-Provide Continuous fuel and efficiency to the process: keep updated with present knowledge
-//why valuation are important?
-if you buy an extraordinary company that is over valued, then it might take a decade for the earnings to catchup to the price
-till then the stock price is not moving anywhere.
-Which means the company will still make money , earnings will grow but your money won't grow, instead u could have kept the money in 
-index funds/liquid debt funds
+Overall:
 
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+---------------- PAST ---------------
+quick check
+know about the company:
+  PRODUCT/SERVICES PORTFOLIO:
+  REVENUE GEOGRAPHY: india, US , UK etc
+  Globally competetive company:
+  market share:
+  market size: small/large (most imp if a company is a monopoly)
+why did the promoters start the business
+any research report/youtube analysis available for the company
+what peter lynch bucket does stock belongs to
 
------------------------ PAST: company Background and Past performance ---------------------
----why did the promoters start business (family legacy/passion/strategic importance to other companies) - PASSION clearly wins
-
----Resources to know about the  company/business : 
-1)wikipedia
-2)company website - most important for updated info 
-3)screener summary
-4)crisil ratings scroll to the end of the page(about company, subsidaries, rating history)
-5)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
-
----Stock research report sources:
-https://www.moneycontrol.com/equity-research/category-stock-reports
-https://www.valueresearchstocks.com/recos-current
-https://www.moneycontrol.com/equity-research/stock-recommendations-active
-
----what peter lynch bucket does stock belongs to?  check share price trend over the years you will get to know
-1)slow growers(low risk, low returns)  - the only reason to hold should be dividends
-2)stalwarts(low risk, moderate returns) - check if they can maintain the momentum and are getting in to diworsefications?
-  companies acquiring market share from organised peers or unorganised peers
-3)fast growers(high risk, high returns) :
-  can they replicate the growth story somewhere else? e.g cam Matrimony replicate the startegy even in bangladesh(we need to monitor)
-  what room is still left for growth?
-  emerging tech companies
-  companies in emerging industries
-4)turnarounds(high risk, high returns)  - value unlocking via selling off the divisons that are less profitable/sell divisons in highly
-  competettive industry OR increase the efficiency of the process/divisons by cost cutting and technology upgradation etc, which will
-  translate them to low cost producer.
-  value unlocking(highly profitable companies getting demerged from conglomerates e.g: ITC Infotech, ITC FMCG demerger from ITC group
-  sleeping gaints awakened  - what road map does the company have from loss to profits (VI, IDFC FIRST BANK, TATA CONSUMER)
-  ignored companies that have very strong growth potential in the future
-Note: don't buy a turnaround just because stock price is down, own it if business is starting to pickup, financials are great etc
-5)cyclicals(high risk, low returns or low risk high returns depending upon the cycle at which u have invested) - the more things 
-  are stressed the better will be the recovery
-  //Always prefer non cyclical or least cyclical
-  cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
-  Note: Timing is everything in cyclicals
-6)asset plays(low risk, high returns) - price vs value play (balance sheet scanning is must)
-   hidden assets(like extrememly profitable subsidaries or divisons) like ITC
-   natural resources like land, real estate,gold, oil or cash etc in high amounts? where the value of these exceeds the stock price
-   patience is the key here because it might take years for wall street to discover these gems and re-rate the stock
-
-Note: 
---companies keep shifting the buckets like fast growers can become slow growers or slow growers can become cyclicals
---cyclicals can become turarounds
---stalwarts like MCD can become asset plays bcoz of the real estate it owns
---growth expectation should not be the same for all the categories stocks alike
-
---------------------------------------- PRESENT ----------------------------------------
+--------------- PRESENT ---------------
 ---Sectoral analysis:
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain) demand and supply (size of opportunity)
-
 ---Products/services DEMAND check :
-//product diversification - what all products company manufactures (you can find in investor presentation)
-//where are the products used/what is the demand for those products?
-    repeat businesses include subscripton models/continous and growing demand(solar,EV)/continous and constant demand(FMCG)
-    if it is one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol plant,
-     it has huge oppurtunity abroad/huge order backlog both domestic and abroad
-//high margin non commoditized business? 
-    if commoditized then must be a low cost producer
-//if B2B (client diversification, strong order book)
-//if B2C (are the products useful for each and every individual and have a strong demand)? bcoz strong demand => supply increases
- => revenue increases => EPS increases => share price increase => your money grows)
-//if business service companies (almost every business should find its usage now or eventually)
-
-
 ---Products/services SUPPLY check :
-check market share trend over the years in tijori - to know how much demand is being catered by the company 
-Also to know if the company is losing the business to competetiors
-Is there any peer whose market share is higher than the current company? - great check to find a excellent competetior business
-what is the unorganised players market share?
-imports risk from china or any other low cost producer country?
-can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
-Competettion: 
-  tijori(benchmark) and screener peer comparison sections for profitability and costs
-  threat of new entrants
-
-
 --- Products/services quality and value addition to customers check :
-//does it delight the customers or own consumer minds (i.e people always remember this company when u talk about this product)? 
-//Have u used the product/service ? 
-  if YES, what is your view 
-  if NO, go and open their website, check public review in ecommerce or google search
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
 
 
---------------------------------------- FUTURE ----------------------------------------
+--------------- FUTURE ----------------
 ---Process/Strategy check?
-do you know market leader success and failures stories? if yes apply then to the current company process/strategy
+---Management Check?
+--- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
 
 
---- Sustainabile Growth of Earnings check :
-//competettive advantage/MOAT Check?
-  check MOATS.txt
-  if the company has a MOAT is it durable?
-  if NO what is the 10 yr picture u have in ur mind? will it build one?
-//monopoly or duopoly
-//pricing power - are people ready to pay premium (can the compnay increase the product/services prices in the cases like inflation 
-and supply chain disruption or in general and be sure that people still buy their products and they don't loose their business to 
-competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
- This will happen only when they add value to the customers in terms of 
-   i)quality of product/service OR
-   ii)affordable price OR any other thing which their competetiors cannot give
-//bargaining power of suppliers - if suppliers have the power it is pretty bad
-//bargaining power of consumers - like e-commerce , this means company is in a highly competettive business
-//Growth potential ?
-Geographical diversification - globally present? if not does it have a deep rural reach?
- better to have both, which helps in risk Management and strong growth oppurtunities in emerging countries
- for a company with high global presence , global competettion, political and currency risk need to be monitored
-** Multiple ways of Growth(Increasing Earnings): (find out which strategy out of the these will the company use)
-- sell more products in older markets(acquire new customers - deeper penetration to areas like rural/untapped areas, takeaway market 
-    share from competetiors in those areas)
-- capex and manufacture new products(innovated products/refurbised products) and selling them to old customers at high prices
-- simply increase the price of old products(no increase in volume) - stupid growth among all options
-- expand in new markets(international expansion/ exports)
-- cost cutting(cannot cut beyond a certain point)
-- dispose losing operations (increases firm efficiency)
-- acquistion and synergy led growth
-- it is in a growing sector with tailwinds
-- it is in a non growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
 
-Note: Both Growth MOATS and Growth oppurtunities need to exist else earnings are not sustainable
-Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
-market share soon - need to monitor closely
-company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if you have lot of money u can invest
- here if not search for stalwarts or fast growers)
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+//Financial strengths
+//Financial weakness
 
 
------------------------------------ Financial strength check -----------------------------
-//debt free or almost debt free
-//if there is debt then usage of Debt is Very important 
-  GOOD Usage: sales growth/capex augumentation/one time capex upgradation/ acquisition purposes/new product launch/spending on 
-  technology for achieving efficiency
-  BAD Usage: expenses, continous capex upgradation
-  
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
 
-Note: financials always give you an idea of the company till now and the how is financial strength of the company at present,
- but you need to own the company because of its future prospects and decide whether these past finacials can improve or remian 
- sustainable or deteriorate depending on the above analysis
+---Financial Risk:
+
+---Investment Returns Risk:
+
+
+---------------------------------- VALUATION --------------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt

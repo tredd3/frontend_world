@@ -202,3 +202,21 @@ bluechip: largest of top 100
 midcap: 101 - 250 
 small cap: 251 - 500
 nano: 500+
+
+
+******* value vs growth investing ********
+value investing - buying best companies at fair/undervalued prices so that value you get is 
+more than the price you pay for the company.
+misconception: people buy bluechip companies at random prices and call it value investing
+Growth investor - invests in companies which might click and turn in to a great business fetching great returns. 
+ But if it collapses u will loose ur capital
+Value investor - might not get great returns but will never loose capital even in tough times.
+
+
+***** company liquidation ******
+debt payment
+tax
+preferred equity
+common equity
+book value will reduce significantly especially fixed assets cost
+hence during liquidation company with large current assets will maintain its book value 
