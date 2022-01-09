@@ -67,20 +67,25 @@ Note:
 
 --------------------------------------- PRESENT ----------------------------------------
 ---Sectoral analysis:
-Information Source: 
+//Information Source: 
 check sector_summary folder (from morning star analysts)
-https://www.tijorifinance.com/company/marico-limited/#knowledgebase
-https://www.ibef.org/industry.aspx
-you will get information about a sector in the Annual Report/IPO DRHP
-STAGE :pioneering/growth/maturity/obselete
+https://www.ibef.org/industry.aspx - reports
+you will get information about a sector in the Annual Report(MANAGEMENT DISCUSSION AND ANALYSIS REPORT)
+https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11 - SEBI IPO filings (industry overview),
+https://www.tijorifinance.com/company/marico-limited/#knowledgebase - industry
+https://www.tijorifinance.com/sector/banking - sector
+//STAGE of development:
+pioneering - EV, green energy
+growth - internet
+maturity/saturation - FMCG
+decling - obselete - TV channels, print media
 //Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
 at profitable end of value chain) demand and supply (size of opportunity)
-
-
+ 
 
 ---Products/services DEMAND check :
-//From where does the demand come?
-  B2B supplier (client diversification, strong order book)
+//From where does the demand come? 
+  B2B supplier (client diversification, strong order book - must be volume led growth)
   B2C (are the products frequently used by each and every individual, creating high demand)?  
     Reason: strong demand => supply increases => revenue increases => EPS increases => share price increase => your money grows)
   Business service companies (almost every business should find its usage now or eventually)
@@ -138,7 +143,7 @@ check Management_Check.txt
 
 --- Sustainabile Growth of Earnings check :
 //competettive advantage/MOAT Check?
-  Does MOAT Exists? check MOATS.txt
+  Does MOAT Exists? check MOATS_check.txt
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
    the profits? Imagine and think with a calm mind take in to account, facts and reasoning not opinion
   if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
@@ -152,8 +157,11 @@ competettion) proof: sales trend is upwards and Net profit Margin trend is eithe
  This will happen only when they add value to the customers in terms of 
    i)quality of product/service OR
    ii)affordable price OR any other thing which their competetiors cannot give
-//bargaining power of suppliers - if suppliers have the power it is pretty bad
-//bargaining power of consumers - like e-commerce , this means company is in a highly competettive business
+//bargaining power of suppliers - if suppliers has more bargaining power than the company itself then profits will be skewed
+//bargaining power of buyers - 
+   if client base is limited then company doesn't have a choice but to sell the products at a lower price, if the buyer demands 
+   so, especially for B2B companies
+   company might be in a highly competettive business (e-commerce)
 
 
 //Growth potential/Oppurtunities ?
@@ -172,6 +180,7 @@ Geographical diversification - globally present? if not does it have a deep rura
   money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
   then demand has dried up OR competetiors taking away market share - Both are bad situations
 - cost cutting(cannot cut cost beyond a certain point)
+- import substitution (Atam nirbhar bharat)
 - dispose losing operations (increases firm efficiency)
 - Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business) or pure investment related purposes
   then its fine else acquiring companies to become a conglomerate is bad)

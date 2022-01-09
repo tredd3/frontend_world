@@ -31,6 +31,8 @@ Types of Debt:
 1)Bank Type Debt: Non-convertible debentures and commercial papers(complete payment within a year) , bankOverdraft(on demand payment)
 2)Funded Debt: Term loans, Non-convertible bonds and Convertible bonds(they are long term and payments can be made in installments
   over the years)
+/Combination of working capital heavy(need more capital/cash to generate sales) + more CCC days(need more time to generate
+ cash from operations) => deadly combination and a sure shot wealth destructor
 /Avoid industries that are highly competetive and no compnay has a DCA like auto, telecom, aviation industries - as 
     no company sales can grow consistently and none can make huge profits due to zero pricing power
 /Avoid companies that compete on price - invest in companies that compete on providing value addition

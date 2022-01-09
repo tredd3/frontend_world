@@ -30,48 +30,52 @@ very important for manufacturing and retail firms
 if yes: inventory becomes obselete => write off or sell at discount => earnings take hit
 also cash gets locked in inventory => depriving firm of cash 
 
+
 --CCC = inventory days + recievable days - payable days
- It is a measure of management and operating eficiency
- CCC applies only to companies dependent on inventory management and related operations.
- It quantifies the number of days it takes a company to convert cash outflows into cash inflows 
- lesser the CCC better is the firm's ability to compound shareholders wealth/generate return quickly
-In other words it is the time taken by the business to generate money.
+ It quantifies the number of days it takes a company to convert cash outflows into cash inflows  - In other words it is the time taken by the business to generate cash.
+ It is a measure of  operating eficiency, lesser the CCC better is the firm's ability to compound shareholders wealth/generate return quickly
 Inventory days measures how long a product is in storage before being sold.
 if inventory days are more then the store/company has to go for a clearance sale with low pices , cash gets locked
+if recievable days are more => customers are taking more days to pay for the goods then cash is locked in
 if payable days are more CCC is -ve and also company gets to hold cash for a longer time reducing the need to take short term debt 
  hence improving operating cashflows
-if recievable days are more => customers are taking more days to pay for the goods then cash is locked in
 inventory turnover = COGS/inventory , companies with DCA have very high inventory turnover
 
 Note: If two companies have similar values for return on equity (ROE) and return on assets (ROA), it may be worth investing in the 
  company that has a lower CCC value. It indicates that the company is able to generate similar returns more quickly.
 
---working capital cycle - 
-These companies realize proceeds from sales over a longer time-frame. This characteristic of a longer cycle between sales and 
- realization of proceeds is reflected in their higher working capital requirements.
-aviation sector, real estate sector, gems & jewellery, engineering, power sector, sugar sector and textile sector are highly capital intensive.
-There are different reasons in each industry for the relatively longer working capital cycle.:
-Real estate and engineering sectors involve projects which take a long time to complete, resulting in long inventory holding periods
-export oriented companies => might suffer due to long recievables
-sugar and textile sectors longer working capital cycles are due to their dependence on commodity-based inputs which are seasonal 
-   in nature and necessitate their storage. 
-power distribution companies have problems of collecting payment which leads to increase in Receivable days and often default
-Note: Higher working capital requirement adversely impacts their earnings as higher debt is required to service working capital(day 
- to day capital requirements). So, the return on equity (ROE) of these sectors is among the lowest
+
+--"working capital intensive" operations? check WC/sales in screener - low is better
+Working Capital = Current Assets – Current Liabilities (day to day capital requirements)
+E.g: aviation sector, real estate builders, gems & jewellery, engineering, power sector,steel production,automobile manufacturing,
+ sugar sector and textile sector are highly capital intensive.
+"working capital intensive" operations refers to businesses that require large amounts of working capital to produce 
+sales(goods/services) and this is because of 3 reasons:
+INVENTORY : store and maintain the inventory
+e.g: sugar and textile sectors longer working capital cycles are due to their dependence on commodity-based inputs which are seasonal 
+   in nature and necessitate their storage
+CASH : company has large amount of fixed assets, such as property, plant, and equipment (PP&E) and hence to maintain that u need cash
+       inflation of raw materials
+RECIEVABLES : if companies realize proceeds from sales over a longer time-frame.
+e.g: real estate and EPC sectors involve projects which take a long time to complete, resulting in long inventory holding periods
+     export oriented companies might suffer due to long recievables
+     power distribution companies have problems of collecting payment which leads to increase in Receivable days and often default
+
+Note: for Higher working capital requirement companies as the cash gets locked in Inventory and recievables they need to take 
+  higher debt to service working capital requirement. 
+So, the return on equity (ROE) of these sectors is among the lowest
+Also as take huge capital(or use more assets to produce sales), margins be low
+As a rule of thumb u should avoid WC intense companies because they have high fixed costs/operating leverage, and hence high debt 
+ if they can't have customer volumes, also they re-invest cashflow in fixed assets upgradation.
 On the other hand, sectors such as FMCG, Mining, Oil & gas and IT produce higher returns by virtue of low or negative working capital cycles.
 Companies with strong pricing/brand power has -ve working cycle meaning, they get money even before sales
 
+Note: Combination of working capital heavy(need more capital/cash to generate sales) + more CCC days(need more time to generate
+ cash from operations) => deadly combination and a sure shot wealth destructor
 
---"working capital intensive" operations?
-it refers to business industries that require large amounts of investment to produce a good or service and thus have a
- high percentage of fixed assets, such as property, plant, and equipment (PP&E)
-//these are bad businesses according to buffet because they take huge capital(or use more assets to produce less) and margins be low
-e.g: automobile manufacturing, oil production, and refining, steel production, telecommunications, and transportation sectors (e.g., railways and airlines).
-As a rule of thumb u should avoid WC intense companies because they have high fixed costs/operating leverage, and hence high debt 
- if they can't have customer volumes, also they re-invest cashflow in fixed assets upgradation
+
 But they are very very few companies that are profitable in this segment by producing premium products/services and not 
  commodity products/services(if possible own them because the efficiency with which they operate acts as an entry barrier MOAT)
-
 
 
 --check if Accounts Receivable is significant compared to sales over the years:
@@ -140,8 +144,10 @@ also look at the notes for reserves
 
 
 ---------------- INCOME STATEMENT ----------------
-if subsidaries listed check standalone statements
-else check consolidated 
+if subsidaries listed check standalone statements else check consolidated statements
+e.g: HDFC - subsidaries are HDFC bank, HDFC amc, HDFC life and all these 3 are listed
+consolidated financial statements - reports all activities of a company, its subsidiaries as a combined entity
+e.g L&T - certain subsidaries are not listed and hence u need to look at consolidated statement as the subsidary earnings are included in the consolidated statement
 
 --sales increasing?
 if NO why?

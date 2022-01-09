@@ -1,0 +1,37 @@
+********** SECTOR and COMPANY HUNT  ************
+https://www.tijorifinance.com/markets/#headline
+https://www.valueresearchonline.com/stocks/
+https://www.nseindia.com/market-data/live-equity-market
+https://www.bseindia.com/sensex/code/47/
+ https://courses.varunmalhotra.co.in/learn
+
+
+//Selecting a sector
+https://www.screener.in/explore/ - in the right side panel sectors are visible
+https://www.tickertape.in/screener - in the filter section sectors are available
+
+
+//Check sector Valuations
+https://trendlyne.com/equity/PE/NIFTYENERGY/1899/nifty-energy/ - PE and EPS check
+https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm - for current value
+https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm - for PE, PB values
+https://www1.nseindia.com/products/content/equities/indices/sectoral_indices.htm
+
+
+//Futurestic
+**EV space - check groww and rachana or other videos
+maruti suziki and Eiched motors(royal enfield) - research (mostly in EV segment)
+Tata motor - bus and 4 wheeler passenger EVs
+M&M - 3 wheeler, cargo EVs
+Tata chemicals
+EV Tech companies: KPIT, LTTS, ELXI
+Tata power /NTPC/IOCL - EV charging stations
+Lithium batteries(manufacturing company: Himadri)
+**Green hydrogen - both as fuel for power generation and automobiles
+ MTAR, GAIL
+**Renewable energy(green power) - highest focus, research and invest 
+**5G
+**Technology - ML, AI, BLOCK CHAIN, Robots, Electronics etc
+**Semiconductor (US ETFs)
+use case: IOT, quantum computing and any digital device that process Info
+**Waste management: Antony Waste(Plastic waste management)

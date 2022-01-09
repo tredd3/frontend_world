@@ -25,4 +25,4 @@ Accrual accounting: money is expected to be received in the future
 Cash accounting: money is received instantly
 
 concentrated industry: market scenario where a few large companies have a very high market share in the business in the industry.
-fragmented industry: 
+fragmented industry: multiple players have very less market share (textiles, footwear etc)

@@ -1,4 +1,8 @@
-Overall:
+Overall: Analyse with a fraud identification mindset and not with a confirmation bias
+Business :
+Financials :
+Risks :
+Valuation :
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 ---------------- PAST ---------------
@@ -9,9 +13,11 @@ know about the company:
   Globally competetive company:
   market share:
   market size: small/large (most imp if a company is a monopoly)
+  Nature of business: capital intensive/labour intensive/commodity
 why did the promoters start the business
 any research report/youtube analysis available for the company
 what peter lynch bucket does stock belongs to
+
 
 --------------- PRESENT ---------------
 ---Sectoral analysis:

@@ -128,3 +128,21 @@ share/MF unit market price <  share/unit value - buy them
 share/MF unit market price =  share/unit value - hold them if u r confident on the company/industry future
 Also when markets are down  - buying is the best
 When markets are up - selling is the best
+
+
+
+************** Mutual Funds Exit strategy ******************
+In the below scenarios it is better to exit from MFs
+-MOST IMPORTANT: MF cannot beat the index for past 3yrs
+-NEXT: MF cannot beat the peers for past 3yrs
+-if INR becoming stronger compared to USD
+-investment objective is not met like sector is not attractive anymore
+-if you find an oppurtunity which can give better returns than the current MF
+-near the retirement - systematic withdrawl plan(withdraw certain amount every month/year)
+-for rebalancing debt and equity allocation
+
+
+//My investments
+https://www.pgim.com/investments/mutual-funds/pgim-jennison-global-opportunities-fund
+https://www.edelweissmf.com/types-of-mutual-funds/international-fund-of-funds/edelweiss-greater-china-equity-offshore-fund
+
