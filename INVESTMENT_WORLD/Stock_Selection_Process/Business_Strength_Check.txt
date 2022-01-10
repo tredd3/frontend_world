@@ -165,28 +165,71 @@ competettion) proof: sales trend is upwards and Net profit Margin trend is eithe
 
 
 //Growth potential/Oppurtunities ?
-Geographical diversification - globally present? if not does it have a deep rural reach?
- better to have both, which helps in risk Management and strong growth oppurtunities in emerging countries
- for a company with high global presence , global competettion, political and currency risk need to be monitored
----Source of capital : retained earnings(cheapest and most preferred)/debt(next preference)/new equity(EPS will decrease)
----source of earnings: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
+---SOURCE OF CAPITAL : 
+EPS = Net Income(earnings)/Total Shares outstanding
+1)RETAINED EARNINGS(cheapest and most preferred)
++ve scenario: Earnings increase => EPS increases => share price increases
+-ve scenario: you will lose Reserves, but your Earnings will remian same => EPS remians same => share price remains constant
+most importantly it doesn't have to pay any interest , also the total number of shares outstanding doesn't change
+Hence a company needs to do some experimentation with the products/geography or try something new it is preferred to use RETAINED EARNINGS
+2)DEBT(next preference)
++ve scenario: Earnings increase => debt repaid => after repayment whatever company acquired using debt(brand value, building, plant 
+  and machinery) will remian with the company and fetch cash forever
+-ve scenario: if debt levels are very high and Earnings decrease,company need to sell assets and repay debt => Bankruptcy
+3)NEW EQUITY(EPS will decrease)
++ve scenario: new equity raised is used in the best way possible (reinvesting in own buiness/M&A) => Earnings increase => EPS increase
+  and hence share price increases
+-ve scenario: Earnings decrease and Total Shares outstanding increases, EPS goes down and  hence share prices crash
+Note: if new equity can be used very efficiently then this will have a greater preferrence over debt as u don't have to payback
+
+
+---SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
       sustainable or not
-- Acquire new customers - sell more products in older markets(deeper penetration to areas like rural/untapped areas, takeaway market 
-    share from competetiors in those areas)
-- Launch New products - capex and manufacture new products(innovated products/refurbised products) and selling them to old customers at high prices
-- Global expansion/ exports - Launch products in new markets
-- Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
-  growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
-  money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
-  then demand has dried up OR competetiors taking away market share - Both are bad situations
-- cost cutting(cannot cut cost beyond a certain point)
-- import substitution (Atam nirbhar bharat)
-- dispose losing operations (increases firm efficiency)
-- Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business) or pure investment related purposes
-  then its fine else acquiring companies to become a conglomerate is bad)
-- it is in a growing sector with tailwinds
-- it is in a non growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
-- Accounting tricks/fraud(increased other income, lower amort and dep charges)
+Logic: Your money of shareholder increases if share price increases.share price in the lonterm depends ONLY on Earnings,Earnings and Earnings
+Earnings can come from =>  Sales led Growth OR Company Synergy and Efficiency led growth OR BOTH(need to pick such companies)
+Pro Tip: if all Peers are equally profitable and equally effiecient then low WC/sales(less capital needed to generate sales) and
+  low CCC(less time taken to generate profits) is preferred
+
+// Sales led Growth (every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /Acquire new customers in untapped and rural areas
+    /Acquire customers from competetiors by taking away their market share (does capex to service the demand)
+    /import substitution (Atam nirbhar bharat)
+    /Global expansion/ exports - Launch products in new markets
+    /it is in a NON Growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
+    /Strong Order inflows (only for B2B companies)
+    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
+       products etc - but be careful here as they can move from India to someother country too) 
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /volume led growth - cutomers buy more of the current/old products
+    /Launch New products - capex and manufacture new products(innovated products/refurbised products) and selling them to old
+      customers at high prices
+  3)ONLY Price led Growth (Not preferred at all)
+    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
+    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
+    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
+    then demand has dried up OR competetiors taking away market share - Both are bad situations
+// Company Synergy and Efficiency led growth (few firms have achieved it, they just need to maintain)
+    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
+    //spending on technology for achieving efficiency and modernising the workflow or processes
+    /dispose losing operations (increases firm efficiency by increasing management focus)
+    /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
+    key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
+    areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
+    firm doesn't OR any firm that increases the efficieny of the current firm operations) 
+    /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
+    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+
+    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
+    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
+    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
+    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
+    on making the firm efficient or not apart from focusing on sales
+// Other Ways (Misc)
+  /it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies
+  /support from govt - relief packages etc - (not preferred if relief is for short term)
+  /Accounting tricks/fraud(increased other income, lower amort and dep charges)
+  /promoter OR management change
 
 Note: Both Growth MOATS and Growth oppurtunities need to exist else earnings are not sustainable
 Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the

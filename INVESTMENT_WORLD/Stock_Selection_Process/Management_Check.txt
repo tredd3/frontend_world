@@ -4,33 +4,40 @@ Promoter check:
   if promoter is old, sucession plan is important
   history and passion is also important
   promoter pledging - know how much is pledged and the reason for pleding - if more shares are pledged company can go out of hand
-FOCUS: should be on growth and shareholders instead of personal profits
--compnesation: variable based on permonance or fixed ? compnesation of the management in the low times should be less compared to high times 
-  remuneration acc to MCA limits: 
-  - type of stock options :ESOP(not recorded as an expense even though it is)/RSU(preferred as it is recorded an expense)
-  Note: make sure to check outstanding shares growth YOY. any company issuing ESOPs abnormally and having a YOY outstanding shares 
-  increase > 10%, doesn't care about shareholders
-  -if the total outstanding shares are increasing YOY then check if EPS is growing or not (in the same rate or higher than EPS increase)
-- does the executives hold any stocks? if yes then that motivates them to act in favour of shareholders
-- related party transactions: should only be for business purposes(subsidary, JVs etc) and not to executives family or someother unrelated business
--Board of directors filled with management family members?
-if yes then there is no one to question the management and put the compnay on a winning track
-Note: board of directors is a group of individuals elected to represent shareholders and can question and fire the management
-- involved in scams/cases: 
-- CFO /auditor recently resigned/ continously resigning: 
-- spoke about share price instead of business in news/annual reports/conf calls: 
-- management should do what they say. did they do so? to be found in annual reports(letter to shareholders) & conference calls
--management should be completely transparent to its shareholders, "we don't disclose" is not what we want to hear 
-Note: should admit the mistakes honestly and take responsibility for their actions
-** skill test:
-- skills relevant to industry: yes
-- experience over > 10 yrs : yes (more experience means managers seen boom and burst and knows how to behave in each situation) 
-- mindset/vision: growth via rural penetration/global foot print and value addition to customers
-- how are reserves used - bank balance/M&A/dividends/buyback/reinvesting in own business/investing in other DCA companies
-if dividends are paid - shareholders need to pay tax on it
-so better to invest on other DCA businesses or even better is to buyback shares from extra cash as this financial engineering
-concept increases shareholders wealth without paying any tax.
-Note: buying back shares at a premium valuation is not the best use of capital, buying back is useful only if the 
-shares are bought at lower/fairprices.
+FOCUS: 
+    -if a comapnay is efficienct then management should focus on growth and maintaing the efficiency of the company 
+    -if a comapnay is NOT efficienct then management should focus on increasing the efficiency of the company and then volume led growth 
+COMPENSATION:
+    -compnesation: variable based on permonance or fixed ? compnesation of the management in the low times should be less compared to high times  
+    -remuneration should be acc to MCA limits: 
+    -type of stock options :ESOP(not recorded as an expense even though it is)/RSU(preferred as it is recorded an expense)
+    Note: make sure to check outstanding shares growth YOY. any company issuing ESOPs abnormally and having a YOY outstanding shares 
+    increase > 10%, doesn't care about shareholders
+    -if the total outstanding shares are increasing YOY then check if EPS is growing or not (in the same rate or higher than EPS increase)
+    -does the executives hold any stocks? if yes then that motivates them to act in favour of shareholders
+ETHICS AND INTEGRITY:
+    - should do what they say. did they do so? to be found in annual reports(letter to shareholders) & conference calls
+    - should be completely transparent to its shareholders, "we don't disclose" is not what we want to hear 
+    - should admit the mistakes honestly and take responsibility for their actions
+    - should keep shareholders in mind and work for them instead of personal profits
+    - shouldn't be involved in specific scams/cases
+SKILL AND INTELLIGENCE TEST:
+    - skills relevant to industry: yes
+    - experience over > 10 yrs : yes (more experience means managers seen boom and burst and knows how to behave in each situation) 
+    - mindset/vision: growth via rural penetration/global foot print and value addition to customers
+    - how are reserves used - bank balance/dividends/buyback/investing in other DCA companies/Reinvesting in your own
+     business(capex augumentation/one time capex upgradation/new product launch/spending on technology for achieving efficiency)
+    if dividends are paid - shareholders need to pay tax on it
+    so better to invest on other DCA businesses or even better is to buyback shares from extra cash as this financial engineering
+    concept increases shareholders wealth without paying any tax.
+    Note: buying back shares at a premium valuation is not the best use of capital, buying back is useful only if the 
+    shares are bought at lower/fairprices.
+DEEP DIVE: 
+    - related party transactions: should only be for business purposes(subsidary, JVs etc) and not to executives family or someother unrelated business
+    -Board of directors filled with management family members?
+    if yes then there is no one to question the management and put the compnay on a winning track
+    Note: board of directors is a group of individuals elected to represent shareholders and can question and fire the management
+    - CFO /auditor recently resigned/ continously resigning: 
+    - shouldn't speak more about share price instead should speak and focus on business in news/annual reports/conf calls: 
 
 

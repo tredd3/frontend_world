@@ -6,8 +6,10 @@ However we need to remember that all the characteristics combined might not be p
 -strong MOAT(high NPM)
 -highly efficient (high OPM)
 -highly profitable (high ROCE, ROE, ROIC)
--very strong financials
+-if all Peers are equally profitable and equally effiecient
+  then low WC/sales(less capital needed to generate sales) and low CCC(less time taken to generate profits) is preferred
+-very strong 10yr financials
 -excellent stable free cash low generation
 -Tailwinds //needed to grow ur wealth faster
--good management / any person run this business
+-ideally any person can run this business(but good management is preferred)
 -Cheap valuations
