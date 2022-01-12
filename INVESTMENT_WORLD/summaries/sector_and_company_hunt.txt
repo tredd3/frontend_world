@@ -3,7 +3,7 @@ https://www.tijorifinance.com/markets/#headline
 https://www.valueresearchonline.com/stocks/
 https://www.nseindia.com/market-data/live-equity-market
 https://www.bseindia.com/sensex/code/47/
- https://courses.varunmalhotra.co.in/learn
+https://courses.varunmalhotra.co.in/learn
 
 
 //Selecting a sector
@@ -19,8 +19,12 @@ https://www1.nseindia.com/products/content/equities/indices/sectoral_indices.htm
 
 
 //Futurestic
-**EV space - check groww and rachana or other videos
-maruti suziki and Eiched motors(royal enfield) - research (mostly in EV segment)
+**EV space :
+   Supplier end: reduced production costs, Since 1991, a whopping 97 per cent decrease in the price of lithium-ion batteries(50%
+     of EV vehicle cost)
+   Consumer end: Ease of maintenance and a consistent rise in fuel prices, deduction of up to `1,50,000 for the interests paid 
+      on the loans taken to purchase EVs under the section 80EEB
+   EV market is expected to grow at a massive 90 per cent CAGR in the next 10 years
 Tata motor - bus and 4 wheeler passenger EVs
 M&M - 3 wheeler, cargo EVs
 Tata chemicals

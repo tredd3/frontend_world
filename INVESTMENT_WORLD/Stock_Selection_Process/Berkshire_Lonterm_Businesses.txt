@@ -51,6 +51,7 @@ sports wear
 //consumer goods
 Personal care
 health care - medical devices, Pharma, kidney dialysis
+Automobile: EV Vehicle, Oldest Market leader
 
 //Luxury Items
 Jewellery: diamonds, watches, Luxury branded items
