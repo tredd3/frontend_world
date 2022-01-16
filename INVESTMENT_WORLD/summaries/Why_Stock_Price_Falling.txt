@@ -1,0 +1,29 @@
+//what to do when stock price is falling:
+Golden fact: 
+Sometimes fundamentals and stock price move in opposite direction for short term.
+so if fundamentals are good and stock price is down (it could be a potential buy based on
+ valuations and not on price)
+
+
+//why is the stock price falling or why are people selling it heavily
+GOLDEN CHECK: Only the stock price went down or is it that the valuation also went down?
+1)Year end tax selling
+US yr end tax selling: nov - dec
+Indian yr end tax selling: feb - march
+2)EPS DECREASING (Valuation remains same )
+--EPS decreasing (net income down)
+   is it a short term phenomenon/long term hit? can be a turnaround oppurtunity if the earnings are temporarily down 
+   and has the potential to rebound
+--EPS decreasing (number of outstanding shares increased due to recent raise in equity capital)
+   what does the company plan to do with capital raised? reinvest in current business(must reinvest in a profitable business only), 
+   increase operating efficiency, new investment/growth oppurtunities, new business expansion
+3)EPS INCREASING (Valuation is cheap) - potential BUY
+--EPS increasing (net income increasing)
+--EPS increasing (share buyback)
+4)EPS IS ALMOST CONSTANT - but PE is down due to some reasons
+  what is that reason? google it or exchange fillings
+4)why did you buy the stock? - go through the story
+   did the story/fundamentals change? if it significantly changed/impacted then you can sell
+4)do you really believe in the stock and have the courage to hold if stock falls further?
+i.e can you put 25% of your net worth and forget about it for next 10 yrs in a stock?
+

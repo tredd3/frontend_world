@@ -1,6 +1,7 @@
 US stocks to invest: My picks
 1)Global Monopolies
-2)High growth businesses
+2)High growth businesses not present in india like (semiconductor)
+3)luxury or lifestyle stocks (RNW, Apple)
 3)stay away from dividend stocks because of high tax rate
 
 //All about investing in US Stocks:
@@ -64,11 +65,15 @@ United health group - largest insurance company by net premiums in US + health c
 
 //Tech - 16 (Dad)
 Alphabet(GOOGL)
+Workday, Inc - has a strategic partnership with Google LLC to digitally transform enterprises worldwide.It provides enterprise cloud 
+    applications worldwide. Its applications help its customers to manage critical business functions and optimize their financial and human resources. 
 Facebook (wtsapp, Instagram, Linkedin) - meta platform
 Amazon - vertically integrated (website, warehouse,shipping, delivery)
 Netflix - largest media and entertainment company in the world by marketcap + 40% content producted inhouse
 Verisign -  operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the 
       authoritative registry for the .com, .net, and .name generic top-level domains
+Intuit Inc - provides financial management and compliance products and services for consumers, small businesses, self-employed,
+  and accounting professionals in the United States, Canada, and internationally. 
 Mongo DB
 Microsoft (Linkedin, Github, Lynda)
 Alibaba - asset lite model (excellent managemnt + rapid share buyback is happening)
@@ -88,6 +93,7 @@ Adobe - develops software tools primarily for audio-visual(graphics, photography
 Accenture - IT services and consulting. current clients : 91 of the Fortune Global 100 and more than 3/4 of the Fortune Global 500
 Teledyne technologies - leading provider of sophisticated instrumentation, digital imaging products and software, aerospace and
   defense electronics, and engineered systems.
+L3Harris Technologies - an aerospace and defense technology company, provides mission-critical solutions for government and commercial customers worldwide.
 synopsys - software tools for emulating and testing electronic components integration
            Synopsys has expanded its products and services to include application security testing
 cadence design - software tools for emulating and testing electronic components integration
@@ -99,8 +105,7 @@ Autodesk - provides 3D design, engineering, and entertainment software and servi
 Lockheed Martin Corporation - a security and aerospace company
 Palo Alto Networks - American multinational cybersecurity companyserves over 70,000 organizations in over 150 countries, 
       including 85 of the Fortune 100.former Google and SoftBank executive Nikesh Arora joined the company as Chairman and CEO.
-UIpath - robotic process automation (where all the high volume,repetettive and boring tasks are automated, which gives room for 
-  employees to focus on more strategic work hence improving productivity,cost saving and efficiency for company)
+crowdstrike holdings - security solutions for cloud related applications
 
 
 //Consumption - 9 (Dad)
@@ -114,6 +119,8 @@ Pepsico
 Hershey Company
 Mondelez international - Cadbury Dairy Milk, Oreo and Toblerone chocolates among others
 American Water Works Company
+hormel foods - packaging and selling of ham, Spam, sausage and other pork, chicken, beef and lamb products to consumers; by the 1980s,
+ Hormel began offering a wider range of packaged and refrigerated foods.
 
 //Finance - 25 (pallavi)
 Visa 
@@ -144,6 +151,7 @@ Blackrock - AMC with largest AUM in the US and in the world, with foot in Europe
   Largest provider of ETFs in the world by the name of ishares
 BlackStone - largest AIF(Alternative investment fund) in the US - investing private equity, funding startups, venture capitalist etc
 KKR & Co -   private equity and real estate investment firm specializes in acquisitions, leveraged buyouts, management buyouts, credit special situations
+Apollo Global Management, Inc - private equity firm specializing investments in credit, private equity and real estate markets. 
 Carlyle Group - Global Private Equity, Global Credit, and Investment Solutions.
 JP Morgan chase - largest bank in the United States, the world's largest bank by market capitalization
 Bank of America -  second Largest bank in America
@@ -157,7 +165,13 @@ Canadian Pacific Railway
 
 //Life Style - 18  (Brother)
 Apple
-Renew Energy Global PLC,(RNW) - largest renewable nergy in india(sector analysis must)
+Dell
+(RNW) - largest renewable nergy in india(sector analysis must)
+Renew Energy Global PLC
+NextEra Energy(NEE) - generates, transmits, distributes, and sells electric power to retail and wholesale customers in North America.
+  The company generates electricity through wind, solar, nuclear, and fossil fuel, such as coal and natural gas facilities. It also 
+  develops, constructs, and operates long-term contracted assets with a focus on renewable generation facilities, electric transmission facilities, and battery storage projects; 
+Brookfield Renewable Partners - The company generates electricity through hydroelectric, wind, solar, distributed generation, pumped storage, cogeneration, and biomass sources.
 Activision Blizzard - video games (deep wiki readout as company employees are leaving)
 Live Nation Entertainment - operates as a live entertainment company. It operates through Concerts, Ticketing, and Sponsorship & Advertising segments
 Airbnb - asset light business model - vacation rentals all over the world
@@ -177,8 +191,13 @@ PVH - owns brands such as Tommy Hilfiger, Calvin Klein, Warner's, Olga and True 
 Nike - biggest Sportswear company in the world
 Lululemon Athletica - exclusive yoga apparel
 Columbia Sportswear Company - sports wear
+Dick's Sporting Goods - America's largest sporting goods retailer
 Altria
 Procter and Gamble
+Sirius XM Holdings(SIRI) - provides satellite radio(digital radio) and online radio services operating in the United States
+ SiriusXM’s platforms collectively reach more than 150 million listeners across all categories of digital audio – music, sports, 
+ talk, and podcasts – the largest reach of any digital audio provider in North America.
+ https://www.siriusxm.com/corporate
 
 //Extreme Luxury and asset heavy (5) - costly prodcuts and services, lifetime experiences
 Royal Caribbean cruises - world's second-largest cruise line operator
@@ -188,8 +207,15 @@ Marriott International - operates, franchises, and licenses hotel, residential, 
   operated approximately 7,800 properties under 30 hotel brands in 138 countries and territories
 Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
    number of categories, including furniture, lighting, textiles, bathware etc
+D.R.Horton - acquisition and development of land; and construction and sale of residential homes in 31 states and 98 markets 
+   mortgage financing services and title insurance policies, and examination and closing services, as well as engages in the residential lot development business.
+(check NVR, Lennar, Pultegroup  and other competettiors and reviews)
 
-//Life style and Misc - 13 - people mostly not interested in paying premium
+
+//Life style and Misc - 13
+Lucid - replacement to TESLA? under observation
+CARR - carrier global corporation - manufacturing and distributing heating, ventilating and air conditioning (HVAC) systems, and has
+  since expanded to include manufacturing commercial refrigeration and foodservice equipment, and fire and security technologies
 Comcast Corporation - media and technology company worldwide
 Caesars Entertainment - largest casino-entertainment company in the U.S. and one of the world's most diversified casino-entertainment providers.
   operates as a gaming and hospitality company in the United States. The company operates casinos, including poker, keno, and race 
@@ -198,7 +224,6 @@ SeaWorld Entertainment - portfolio of 12 destination and regional theme parks th
   The Company is one of the world's foremost zoological organizations and a global leader in animal welfare, training, husbandry and veterinary care.
 united parcel service - UPS is the largest courier company in the world by revenue, best known for its ground delivery service
 Fedex - Fedex is best known for its air delivery service
-Walmart
 Best Buy - largest specialty retailer in the United States consumer electronics retail industry
    operates internationally in Canada as well
 Costco Wholesale Corporation - together with its subsidiaries, engages in the operation of membership-only warehouses in the United States,
@@ -211,7 +236,8 @@ Target
 floor and decor holdings
 The Home Depot - operates as a home improvement retailer. It operates The Home Depot stores that sell various building materials, 
  home improvement products, building materials, lawn and garden products, and décor products
-
+Lowe's Companies, Inc - together with its subsidiaries, operates as a home improvement retailer in the United States and 
+  internationally. The company offers a line of products for construction, maintenance, repair, remodeling, and decorating. 
 Albemarle Corporation - develops, manufactures, and markets engineered specialty chemicals worldwide. It operates through three
   segments: Lithium(electrical vehicles), Bromine Specialties, and Catalysts. 
   second-largest lithium miner in the world
