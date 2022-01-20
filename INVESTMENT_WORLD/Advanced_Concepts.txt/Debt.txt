@@ -1,0 +1,13 @@
+Types of Debt:
+1)Bank Type Debt(short term): Non-convertible debentures and commercial papers(complete payment within a year) , bankOverdraft(on demand payment)
+  for repaying short term debt company  needs to do the following:
+  //Good routes
+  -it needs enough cash in its accounts
+  -operating cashflow for that year
+  //Bad routes
+  -raise money through equity
+  -raise more debt to clear existing debt
+  -convert short term to longterm debt
+  -sell its fixed assets
+2)Funded Debt(preferred): Term loans, Non-convertible bonds and Convertible bonds(they are long term and payments can be made in installments
+  over the years)

@@ -1,0 +1,31 @@
+//Why companies Acquire other companies?
+1)Strategic -  to augument their current businesses(beat competettion/monopoly/forward or backward integration)
+2)Diversification - to get into other businesses
+3)Investment - purely on a investment basis where companies deploy cash to acquire companies that can generate even more cash
+
+
+//Reverse merging
+merge a smaller company in to a bigger company like ICICI Group merged with ICICI Bank
+
+
+//Different kinds of acquisition
+1)All stock deal:
+Acquiring company replaces all the shares of acquired company with its own shares. All the finacial statements of acquired company
+  gets merged with the financial statements of acquiring company.
+  Acquiring company should make sure this synergy works and net income increases else EPS takes a hit (as the total number of 
+  shareholders have now increased)
+postive for acquired company shareholders as they don't have to pay tax and also they got shares of acquiring company but in the 
+  short term they don't get any cash.
+2)All cash deal:
+Acquiring company WILL NOT replace all the shares of acquired company with its own shares. Rather it uses cash to buy majority of 
+  the shares from the company by fixing price per share.
+  Acquired company financial statements will not be merged in to the acquiring company financial statements but they will be part
+  of consolidated financial statements.
+Acquired company might/might not be delisted based on Acquired company's call. 
+  Acquired company shareholders will get cash in exchange for their shares and they have to pay capital gains tax.
+  If it gets delisted they will announce a delisting price.
+  if it doesn't get delisted and you current minority shareholders don't sell their shares then they will continue as the shareholders
+  even after the acquisition
+3)Stock + Cash deal: combination of both the above strategies
+
+

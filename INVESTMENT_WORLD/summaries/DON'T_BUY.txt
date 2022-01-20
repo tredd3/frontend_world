@@ -13,13 +13,6 @@
   above sectors will be at the spending end.
   e.g: NBCC (infra and construction services)
   Sterlite technologies(telecom optical fibre setup and monitoring services)
-Types of Capex:
-i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do continous capex to upgrade their network equipments and infra etc
-check net block(plant, equipment, machinery trend in balance sheet to check whether it is a upgradation capex or capex addition)
-ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
-//operating expenses under control? this parameter indicates management efficiency 
-    if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)
-    To confirm check operating expense as % of revenue
 /CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
 e.g some pharma companies put >40% of revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash
  However if you find an exceptional company(strong MOAT) which is both efficient and profitable in above sectors then buy
@@ -27,10 +20,6 @@ e.g some pharma companies put >40% of revenues in R&D, if it succeeds then new r
 during Bull run: it will eat away profits => EPS decreases => share price decreases
 during Bear crash: it can make company bankrupt
 and also company has to pay interest even if it is in loss => assets needs to be sold => bankruptcy
-Types of Debt:
-1)Bank Type Debt: Non-convertible debentures and commercial papers(complete payment within a year) , bankOverdraft(on demand payment)
-2)Funded Debt: Term loans, Non-convertible bonds and Convertible bonds(they are long term and payments can be made in installments
-  over the years)
 /Combination of working capital heavy(need more capital/cash to generate sales) + more CCC days(need more time to generate
  cash from operations) => deadly combination and a sure shot wealth destructor
 /Avoid industries that are highly competetive and no compnay has a DCA like auto, telecom, aviation industries - as 
@@ -60,7 +49,7 @@ the form of discounts to attract customers as customers always search for discou
   iii)The acquired companies might not augument/bring in much value to existing operations
   iv)management will not have a mindset to fix the business model, rather always think of few more acquisitions to solve the
     all the problems mentioned.
-   However if the price at which the companies are acquired is low and the performance of the acquired companies(subsidaries) 
+   However if the price at which the companies are acquired is low and the quality of the acquired companies(subsidaries) 
    is great then we can consider holding the company like (infoedge and bekshire has acquired companies that doesn't provide any 
    strategic role , they acquired it for investment purposes and they are doing great as an investment so that is fine)
    Similarly Facebook(acquired wtsapp, instagram etc) for strategic purpose(to strengthen their presence in social platform) and
