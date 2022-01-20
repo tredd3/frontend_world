@@ -31,7 +31,7 @@ what peter lynch bucket does stock belongs to
 ---Management Check?
 --- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
 
-
+Note: Business strength check process is to decide the Quality of the business
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt

@@ -21,6 +21,13 @@
 2)Business:
 --Check Screener pros and cons
 --what peter lynch bucket does stock belongs to?
+Categories of Stock: 
+1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
+2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
+3)Fast Growers (Praj)
+4)cyclicals(Auto industry, Travel)
+5)Asset heavy(most of the PSUs)
+6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 --CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
 --market share trend
 --company must focus on value addition to its customers and not on price

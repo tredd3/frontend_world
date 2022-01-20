@@ -1,6 +1,6 @@
 
 -------------------------- Valuation -------------------------
-Talk about valuations only if the above factors are strong, else no point in buying the company
+Talk about valuations only if Business QUALITY is good , else no point in buying the company as iam a longterm investor
 
 *VALUATION RATIOS - talk about valuations only if business and management analysis is positive
 PE < 25(govt 10 yr bond yield) ? 
@@ -29,7 +29,9 @@ EV= market_cap + long_term debt - cash
 compare this yield/cash_return with longterm bonds/FDs => if it is almost similar and the earnings of the company is bound to grow
 hence better to invest in the company else invest in the FDs or bonds
 
-**Problem with valuation ratios
+
+------------------- INTRINSIC Value Importance and Calculation ------------------
+//Problem with valuation ratios :
 1)they are relative - i.e they are least useful if used alone and are generally used to compare with peers
 2)They don't tell anything about value(i.e how much the firm is actually worth) - ratios are based on price and they only 
 tell u how much price an investor is paying wrt peers.
@@ -42,19 +44,26 @@ overvalued/undervalued by comparing ratios with peers.
 high value assets at lower price (P/B < 1) then always check what is there on the asset side(natural resources like land, gold, silver,
 oil etc is fine but random real estate, machinery, inventory values can down significantly during auction)
 
-** hence valuing compnaies based on cashflows comes in the picture
+
+// hence finding intrinsic value is imp or valuing companies based on cashflows comes in the picture
 If cash flow regular? 
-  calculate DCF valuation : https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+  calculate DCF valuation : 
+    Calculator:https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
+    Register: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
       Market cap < DCF valuation, both PE and earnings are less?, check valuation ratios - stock undervalued, hence buy it
       Market cap ~= DCF - fairly valued, check valuation ratios
       Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
   also check price to cash_flow /price to free cash_flow
-  verify: 
+Else 
+	buy based on relative valuations mentioned in advanced/company_valuation.txt
+
+
+------------------- INTRINSIC Value Verification ------------------
+verify your calculated value with others: 
   https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
   https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
   https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
-Else 
-	buy based on relative valuations mentioned in advanced/company_valuation.txt
+
 
 
 Note: even if a company has DCA, if you buy at high price the returns will be like a mediocre company
