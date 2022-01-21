@@ -151,9 +151,6 @@ Using Semaphore:
 A semaphore is a generalized mutex. In lieu of single buffer, we can split the 4 KB buffer into four 1 KB buffers (identical resources).
 A semaphore can be associated with these four buffers. The consumer and producer can work on different buffers at the same time.
 
-//LINUX vs UNIX
-https://www.guru99.com/difference-unix-vs-linux.html
-
 
 **Memory management - keeps track of each and every memory location, regardless of either it is allocated to some process or it is free.
 *Process Address Space
@@ -242,3 +239,35 @@ This algorithm suffers from the situation in which a page is used heavily during
 
 //problems:
 https://www.geeksforgeeks.org/producer-consumer-problem-using-semaphores-set-1/
+
+
+------------------- OS Types --------------------
+//LINUX vs UNIX
+https://www.guru99.com/difference-unix-vs-linux.html
+UNIX: completely written in C
+Unix systems are characterized by a modular design that is sometimes called the "Unix philosophy". According to this philosophy,
+ the operating system should provide a set of simple tools, each of which performs a limited, well-defined function.
+  A unified and inode-based filesystem (the Unix filesystem) and an inter-process communication mechanism known as "pipes" 
+  serve as the main means of communication,[3] and a shell scripting and command language (the Unix shell) is used to combine 
+  the tools to perform complex workflows.
+Initially developed by AT&T for internal use, later AT&T licensed Unix to outside parties in the late 1970s, leading to a variety 
+of both academic and commercial Unix variants from vendors
+Source model :	Historically proprietary software, while some Unix projects (including BSD family and illumos) are open-source
+Kernel type	Varies; monolithic, microkernel, hybrid
+
+
+//Linux: Unix like OS
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/List_of_GNU_packages
+GNU Project is a free software, mass collaboration project started by some guy with a goal to give computer users freedom and 
+  control in their use of their computers
+Linux kernel developed outside GNU project, Combined with the operating system utilities already developed by the GNU project, 
+  it allowed for the first operating system that was free software, commonly known as Linux
+
+
+The Portable Operating System Interface(POSIX) is a family of standards specified by the IEEE Computer Society for maintaining 
+ compatibility between operating systems
+Single UNIX Specification (SUS) is the collective name of a family of standards for computer operating systems, compliance with 
+ which is required to qualify for using the "UNIX" trademark.
+ compliance with POSIX standards, forms the core of the Single UNIX Specification.
+Unix like OS: Linux, MACOS etc

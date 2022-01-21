@@ -1,10 +1,10 @@
 //CLI
 https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
 you manage a computer from the GUI/terminal -  to handle servers terminal commands are a must
-terminal commands give instructions to kernel to perform tasks
-(shell) - all the terminal commands are executed/processed by a shell
+Humans/software users use terminal commands to give instructions to kernel to perform tasks
+shell(basically a language which terminal understands) - all the terminal commands are executed/processed by a shell
 /available shells:
-bash, PowerShell,zsh(zshell) etc - these are languages that terminal understands 
+bash(Linux), PowerShell(windows),zsh/zshell(Mac) etc - these are languages that terminal understands 
 run command echo $0 to know which language is used in the terminal
 
 //shell config files
@@ -76,10 +76,18 @@ https://www.geeksforgeeks.org/grep-command-in-unixlinux/
 grep command is used to search for text strings or regular expressions within one or more files.
 The basic syntax of grep is:
 grep pattern target_file
+grep -E 'name|50|....' /var/log/access.log - in the log file searches for lines having any of these words
+grep -R 'warning\|error' /var/log/*.log - in the /var/log directory searches for files having any of these words (Recursively)
+grep '17:09:5[0-9]' /var/log/xyz.log - search based on timestamp range
 1. Searching for a text string in one file - grep 'root' /etc/passwd
 2. Searching for a string in multiple files - grep 'root' /etc/*
 
-more: https://www.linuxcloudvps.com/blog/83/
+
+MORE: https://www.linuxcloudvps.com/blog/83/
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://en.wikipedia.org/wiki/List_of_GNU_packages
+https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands
+
 whatis <command> //e.g whatis cal
 which <folder/file> //gives folder/file location
 or locate <file/folder>
@@ -141,9 +149,9 @@ su - <other user> //from now u will operate as other user and can access his stu
 users  //show the user names of users currently logged in to the current host.                  
 
 
-//system commands - give info about the system
+//SYSTEM COMMANDS commands - give info about the system
 uname -a //lists system details
-ifconfig
+ipconfig
 top //process monitor
 
 //vim - command line text editor commands
@@ -170,3 +178,19 @@ Access a file from multiple locations without creating copies and without using 
 Maintain different versions of a file while ensuring that any pointers to it always lead to the most recent or up-to-date version. (This works because a symlink remains active even when you replace the target file with a different file of the same name.)
 creating a symlink:
 ln -s [/path/to/file] [/path/to/symlink]
+
+
+//zip files
+These archive/zip files contain one or more files, compressed into a smaller file size for faster download times from the Internet.
+E.g: Source code and other software program files for Linux are often distributed in .gz or .tar.gz format. 
+gzip <file_name> //By default original file will be replaced by the compressed file ending with extension (.gz).
+cat <file1> <file2>. . | gzip > <newFile.gz>  //If you want to compress more than one file together
+gzip -l <file> //
+//unzip files
+gunzip example.gz //for compresses files
+
+
+//why tar - The gzip command will not be able to compress a directory because it can only compress a single file. 
+tar cf - <directory> | gzip > <directoryName>  //creating a tar file of directory  OR tar cvfz office.tar.gz office  
+e.g: tar cf - office | gzip > office.tar.gz  //compressed file office.tar.gz will be in the same directory as that of office
+tar -zxvf example.tar.gz  //for extracting compressed tar files
