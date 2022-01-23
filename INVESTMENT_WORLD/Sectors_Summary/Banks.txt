@@ -8,9 +8,11 @@ Balance sheet scrutiny is very important
 A mortgage is usually a loan sanctioned against an immovable asset like a house or a commercial property. The lender keeps the 
  asset as collateral until the borrower repays the total loan amount. 
 Banks losses must be covered by earnings , if not reserves , if losses > (earnings + reserves), they end up eating equity
+Bank Financials doesn't tell much about the Financial health of bank, u need to look at annual report
 
 
 Look for:
+Asset quality and how much does a bank earn on those assets (ROA) compared to peers
 product/services portfolio depth and reach to public
 Geograpical spread - good to have for risk management
 loan diversification (to multiple sectors/industries/companies) - avoid banks where most loans are in riskier sectors

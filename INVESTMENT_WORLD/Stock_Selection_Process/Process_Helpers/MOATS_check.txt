@@ -1,38 +1,89 @@
 How to identify Great businesses? 
-Every company is like an empire which has economic moats.
+Every company is like an empire which has economic moats(strengths/advantages)
 Economic MOATS - strengths that are not easy to break by competitors / market trends/ public choice or decision/Govt intervention
+
+//Types of MOATs:
+1)deep MOATs 
+only one MOAT exists OR MOATs exist for only few of its product lines 
+e.g: chawanprash (Dabur)
+2)wide MOATs
+multiple MOATs exist OR MOATs exist for almost all of its product lines - if some MOAT goes wrong others will protect you, 
+  meaning ROCE will be sustainable for longterm
 
 
 //All possible MOATs
-1)low cost production:
-value of the product should be less compared to overall expenditure of a person/family then only customer pays premium because 
- the product cost is less compared to their salary/spending
-made for a penny, sold for a dollar and customer loyalty is high(customer keeps coming)
- Does the company have economies of scale? bcoz low lost seller needs to have this else the profits will take a hit
- ECONOMIES OF SCALE: it is the ability of the firm to leverage its fixed cost infrastructure across various clients
+1)ECONOMIES OF SCALE: it is the ability of the firm to leverage its fixed cost infrastructure across various customers
+ in other words firms spread their fixed costs over large units of products - bringing down the cost of single product unit
  operating leverage of the firm increases because of this ability.(check in profit loss statement last line - tijori )
- operating leverage is 3 => if revenues grow by x then operating income grows  by 3x (not net income)
+ for e.g if operating leverage is 3 => means if revenues grow by x then operating income grows  by 3x (not net income)
  Note: if operating leverage is very high because of fixed costs company can be wildly profitable and can also be bankrupt(check debt
   levels, especially interest wrt operating profit)
- so companies with high operating leverages must focus on revenue increase and capturing market share
-New companies cannot break this moat bcoz they will be in loss
-2)Brand - there should be trust in the public
-Breakable? -takes many years to build
+ so to have this MOAT companies must focus on revenue increase by increasing sales volume (check business_strength_check line 194,195)
+e.g: AMC, Insurance companies - no matter how much money flows in, the money manager will be given same salary and the operating cost 
+   are very much fixed
+
+2)LOW COST PRODUCER:
+ customer loyalty is high(customer keeps coming because he gets quality product/service at low cost) - airlines, commodity companies
+  should have this moat otherwise they can't suvive
+  3 ways of becoming low cost producer:
+  --Process based : Dell manufacturers products only after recieving order(saving inventory costs), GEICO sells insurance policies
+    over phone instead of conventional agent route (saving agent payments), outsource manufacturing (save capex upgradation and 
+    maintenance costs)
+  --Structure based: vertically/backward integrated meaning u don't have to depend on others - Tata steel is the lowest producer of 
+    steel in the world as it has access to its own mines
+  --Economies of scale(Demand side) - demand for low cost quality product increases, i.e more and more people want to buy it
+   Microsoft develops a software once and as more customers use it , the cost of software per customer decreases
+   Amazon (AWS, prime) - unique products whose price depends on number of people using it
+  --Economies of scale(Supply side) - when output/supply increases production cost per product decreases as fixed costs like 
+     warehouse , distribution network maintenance costs, technology upgradation costs are spread over products manufactured/supplied
+  Double edged sword: Economies of scale(Demand side) + Economies of scale(Supply side) => very very cheap products(Amazon, maruti)
+  but if supply is increased to take advantage of Economies of scale(Supply side) and there is not enough demand then inventory costs
+   will increase and company might get in to debt trap
+  --other ways of saving costs if u can think of
+Once you are a low cost producer , use the profits to bring costs even further (advertisement spending, campaigning)
+Note: New companies cannot break this moat bcoz they will be in loss. 
+
+3)BRAND - public must trust the product and ready to pay premium for it 
+It takes many years to build because customers recognise a company as a brand if the firm consistently produces products/services
+ that have highest quality compared to competitors
 Real product differentiation - i.e products are more popular => but constant innovation is needed and lot of cash is sucked up
-Percieved product differentiation - Brand name itself is enough people are ready to pay premium
-3)distribution network -  should have wide geographical presence - so that it can cater to wide audience across the country/globe
-4)R&D negligible- bcoz if more is spent on R&D and people don’t like the products or if any competitor comes up with more exciting products money spent on R&D gets wasted.
-Instead this money could have reinvested and compounding effect is achieved
-5)Taste - making people habituated with taste
+Percieved product differentiation - Brand name itself is enough people are ready to pay premium(importance of BRAND)
+Advertisement plays a major role in implanting the name of the company as a brand in customers mind
+E.g: Nestle, LIC, HDFC, SBI
+
+4)NETWORK EFFECT :
+  wide geographical presence including semi-urban and rural areas
+  strong distribution network (more and more people know and use the product)
+  quick after sales support as sales centers are present everywhere in the country
+
+5)INTANGIBLE ASSETS: 
+  --Patents/copyrights: gives right for drug makers to maufacture and sell drugs for almost 20 yrs
+Note: R&D has to be small compared to sales - bcoz if more is spent on R&D and people don’t like the products or if any competitor 
+  comes up with more exciting products, then money spent on R&D gets wasted.
+  --Human capital (talented, experienced, sticking with company for several years)
+
+6)TASTE - making people habituated with taste
 Examples: cococola, Britannia, oreo, amul icecream and most of the FMCG or F&B businesses
 for competitors to break this or overcome this hurdle is nearly impossible.
 Hence they start negative publicity
-6)high entry bariers like high capex, highly skill needed, complex operations ,heavy machinery operations,
- not easy to start/replace/maintain, high govt regulations
-7) B2B MOATS:
-is the switching cost > benifits of new products?
-products tightly integrated into customers business?
-is there any long term contract?
-does the customers staff needs training for new products usage?
-8)Luxury/Premium range: People are ready to pay premium because the value addition is huge compared to the price - mostly rich 
+
+7)HIGH ENTRY BARRIER :
+ high capex - GAIL, IOCL
+ highly skill needed - MTAR
+ complex operations/heavy machinery operations -
+ not easy to start/replace/maintain - telecom, airlines
+ high govt regulations(takes long time and process to obtain license) - tobacco(foreign manufacturers can't come and manufacture),
+  liqour, telecom(few licenses issues)
+
+8)HIGH SWITCHING COST: (check this mainly for B2B suppliers)
+   people/customers won't get much advantage moving to other suppliers(i.e switching cost > benefits of new products as it 
+   involves time, money and effort) OR 
+   the staff needs to be trained for the usage of the new product(lot of unlearn and relearn) OR 
+   ur entire infra/products are build using the existing product/service from a supplier OR
+   customer care/support is superb by the current supplier OR
+   company made long term contracts with suppliers (and breaking them will cost so much and loss of trust)
+Note: high switching costs acts as entry barrier for competitors - MTAR(important national missions), DTH, Banks(used at 
+  multiple places and now need to replace everywhere)
+
+9)Luxury/Premium range: People are ready to pay premium because the value addition is huge compared to the price - mostly rich 
  people and businesses focus on it (like apple, Luxury furniture, Experiences etc)

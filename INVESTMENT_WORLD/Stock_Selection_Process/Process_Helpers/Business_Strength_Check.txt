@@ -121,12 +121,14 @@ Competettion:
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 POSITION IN PEERS :
 
---- Products/services quality and value addition to customers check :
-//does it delight the customers or own consumer minds (i.e people always remember this company when u talk about this product)? 
-//what value does it add to customers?
-//how is the quality of product/service - Have u used the product/service ? 
-  if YES, what is your view 
-  if NO, go and open their website, check public review in ecommerce or google search
+--- Products/services Uniqueness check :
+what makes the product or service of this company Unique?
+  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
+  //what value does it add to customers?
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
 Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
 always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
  on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
@@ -142,26 +144,31 @@ check Management_Check.txt
 
 
 --- Sustainabile Growth of Earnings check :
-//competettive advantage/MOAT Check?
+//Competettive advantage/MOAT Check? - company might not be a market leader but it should have some advantage(MOAT) that put them far
+   ahead of the competettion and make it sustain for a longterm
   Does MOAT Exists? check MOATS_check.txt
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
-   the profits? Imagine and think with a calm mind take in to account, facts and reasoning not opinion
+   the profits? Imagine and think with a calm mind where do you see this company in the next 10 yrs,
+    take in to account, facts and reasoning not opinion
   if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
-  what is the uniqueness in product/service
   monopoly or duopoly
+Note: even though company has a MOAT, you always need to have the guard(YOU) inspect the castle anually because MOATS could 
+   have been broken or there is something else that went wrong (weak growth oppurtunities, substitutes, bad management, costly
+   acquistions)
 
-
-//pricing power - are people ready to pay premium (can the compnay increase the product/services prices in the cases like inflation 
+//PRICING POWER - are people ready to pay premium (can the compnay increase the product/services prices in the cases like inflation 
 and supply chain disruption or in general and be sure that people still buy their products and they don't loose their business to 
 competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
- This will happen only when they add value to the customers in terms of 
-   i)quality of product/service OR
-   ii)affordable price OR any other thing which their competetiors cannot give
-//bargaining power of suppliers - if suppliers has more bargaining power than the company itself then profits will be skewed
-//bargaining power of buyers - 
-   if client base is limited then company doesn't have a choice but to sell the products at a lower price, if the buyer demands 
-   so, especially for B2B companies
-   company might be in a highly competettive business (e-commerce)
+ This will happen only when :
+   i)The product or service is unique
+   ii)company has a MOAT
+   iii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
+     Bargining power of suppliers - critical parts/services suppliers, ONLY producer/supplier of certain products
+     Bargining power of company - bulk and recurring buy, company with MOATS 
+   iv)NO bargaining power of buyers :
+     Bargaining power of buyers - if client base is limited then company doesn't have a choice but to sell the products at a lower 
+     price, if the buyer demands so, especially true for B2B suppliers OR a company in a highly competettive business (e-commerce)
+     OR if the product is a commodity (then people always look for low price as value is same across producers)
 
 
 //Growth potential/Oppurtunities ?

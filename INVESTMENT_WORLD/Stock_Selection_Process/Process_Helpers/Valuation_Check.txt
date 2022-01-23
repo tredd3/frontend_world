@@ -1,6 +1,13 @@
 
 -------------------------- Valuation -------------------------
+GOLDEN RULE:
 Talk about valuations only if Business QUALITY is good , else no point in buying the company as iam a longterm investor
+Note: even if a company has DCA, if you buy at high price the returns will be like a mediocre company
+but if a company has wide MOATS clubbed with high ROCE and high free cash flow then we can pay premium(not overpay), provided
+  you are ready to hold it for a longer period (10+ yrs) which justifies high valuation
+To value such stocks terminal multiple should be high bcoz of their ability to sustain earnings for a long period but discount
+rate should be low as they are relatively safe(like debt instruments)
+
 
 *VALUATION RATIOS - talk about valuations only if business and management analysis is positive
 PE < 25(govt 10 yr bond yield) ? 
@@ -63,12 +70,4 @@ verify your calculated value with others:
   https://www.morningstar.in/stocks/0p0000b1w1/nse-reliance-industries-ltd-shs-dematerialised/price.aspx
   https://www.marketsmojo.com/Stocks?StockId=1002774&Exchange=1
   https://www.tickertape.in/stocks/reliance-industries-RELI?checklist=basic&ref=Screener_Table_int-stock-widget
-
-
-
-Note: even if a company has DCA, if you buy at high price the returns will be like a mediocre company
-1)SIP via averaging up when price increases by 50%
-increase SIP if price falls due to external factors
-2)wait for the bear markets 
-3)if company faces a temporary solvable problem , share price go down and you can grab
 

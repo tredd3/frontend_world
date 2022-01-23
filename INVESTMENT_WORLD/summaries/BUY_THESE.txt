@@ -30,16 +30,20 @@ Also reinvest the dividend in other dividend paying stocks
 
 
 ------ Companies that can have wider MOAT and are highly profitable in the long run --------
-AMC
+Golden rule: prefer asset lite business model
+
+AMC (MOAT: Economies of scale, Switching cost)
 Business services - tech based/people based
 media/Entertainment
 Healthcare
-Basket of IT/Software companies  
+Basket of IT/Software companies
 deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
-niche/extreme niche - ofcourse profitable ventures only
-It does something dull and profitable(manufacturing bottle caps, plastic forks)
-it does something disagreeable and profitable(waste management, cleaning, chappals, underwear)
+niche/extreme niche - ofcourse profitable ventures only (MOAT: entry barriers, switching cost)
 No growth Industry where the company is growing by acquiring market share and becomes profitable
-repeat business - people need to keep buying it
+  It does something dull and profitable(manufacturing bottle caps, plastic forks) - demand throughout the year but no new competettion
+  wants to enter this business (MOAT: entry barriers, switching cost)
+  It does something disagreeable and profitable(waste management, cleaning, chappals, underwear) - demand throughout the year but 
+  no new competettion wants to do this because of the nature of the business (MOAT: entry barriers, switching cost)
+repeat business - people need to keep buying it to survive/daily needs (MOAT: low cost producer, Brand, distribution network)
 has a magnet that attracts customers(the customers should automatically get attracted to or in need of the the product/services)
-Platform Business(Indiamart, IEX, Amazon)
+Platform Business(Indiamart, IEX, Amazon) - (MOAT: Economies of scale, Switching cost, Distribution network)
