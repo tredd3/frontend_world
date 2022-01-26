@@ -1,16 +1,19 @@
 
 -------------------------- Valuation -------------------------
-GOLDEN RULE:
-Talk about valuations only if Business QUALITY is good , else no point in buying the company as iam a longterm investor
-Note: even if a company has DCA, if you buy at high price the returns will be like a mediocre company
-but if a company has wide MOATS clubbed with high ROCE and high free cash flow then we can pay premium(not overpay), provided
+GOLDEN RULES:
+1)Talk about valuations only if Business QUALITY is good , else no point in buying the company as iam a longterm investor
+2)Don't overpay: Even if a company has DCA, if you buy at high price the returns will be like a mediocre company
+3)if a company has wide MOATS clubbed with high ROCE and high free cash flow then we can pay premium(don't overpay), provided
   you are ready to hold it for a longer period (10+ yrs) which justifies high valuation
 To value such stocks terminal multiple should be high bcoz of their ability to sustain earnings for a long period but discount
 rate should be low as they are relatively safe(like debt instruments)
+4)PRICE and VALUATION - both are not same
+if Share price of a company increases at slower rate but earnings increase at higher rate then - Low Valuation
+if Share price of a company decreases at certain rate but earnings decrease at higher rate then - High Valuation
 
 
 *VALUATION RATIOS - talk about valuations only if business and management analysis is positive
-PE < 25(govt 10 yr bond yield) ? 
+1)PE < 25(govt 10 yr bond yield) ? 
 High P/E => earnings may be less due to recession or one time costs OR market is paying premium as they believe earnings will increase at a faster rate
 check PEG to confirm , premium is justified only when PEG < 2
 Note: PE of a company might be less bcoz of the riskiness, cyclical nature, capex intensive and more capital requirement etc
@@ -21,12 +24,12 @@ PE < 5yr median PE? also check the historical PE range (most reliable approach f
 -for young companies it might not be relevant as they business outlook and financials might have changed
 PEG ratio: 
 -find out the earnings growth rate and check if they are releastic (check source of earnings section in FUTURE)
-PB: 
+2)PB: 
 Note: imp for capex intensive(fixed assets - old value) and financial firms(liquid assets - current value),makes less sense for service based companies
 Also don't forget to look at goodwill when you are valueing a firm based on PB value
 Bargain: if ROE is consistently high(i.e equity/book value is increasing) and PB value is less compared to peers
 PB - NA for a B2C company,if PB is applicable check ROA
-EV/EBITDA:
+3)EV/EBITDA or EV/EBIT:
 EV/EBITDA < 10 - excellent company
 EV/EBITDA < 14 - can be considered
 EV/EBITDA > 14 - high valuation

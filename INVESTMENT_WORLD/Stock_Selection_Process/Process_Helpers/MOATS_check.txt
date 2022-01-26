@@ -34,6 +34,7 @@ e.g: AMC, Insurance companies - no matter how much money flows in, the money man
   --Economies of scale(Demand side) - demand for low cost quality product increases, i.e more and more people want to buy it
    Microsoft develops a software once and as more customers use it , the cost of software per customer decreases
    Amazon (AWS, prime) - unique products whose price depends on number of people using it
+   Note: More relevant for service based companies, single product development and reuse companies
   --Economies of scale(Supply side) - when output/supply increases production cost per product decreases as fixed costs like 
      warehouse , distribution network maintenance costs, technology upgradation costs are spread over products manufactured/supplied
   Double edged sword: Economies of scale(Demand side) + Economies of scale(Supply side) => very very cheap products(Amazon, maruti)
@@ -50,6 +51,9 @@ Real product differentiation - i.e products are more popular => but constant inn
 Percieved product differentiation - Brand name itself is enough people are ready to pay premium(importance of BRAND)
 Advertisement plays a major role in implanting the name of the company as a brand in customers mind
 E.g: Nestle, LIC, HDFC, SBI
+Note: ONLY brand name cannot be a MOAT , it has to be accompained with pricing power
+e.g: Sony is a brand but if it increases the price it will lose customers, on the other hand even though BMW raises prices it will
+   not loose customers bcoz of its pricing power
 
 4)NETWORK EFFECT :
   wide geographical presence including semi-urban and rural areas

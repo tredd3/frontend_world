@@ -16,8 +16,9 @@
 --promoter pledging
 --any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
   promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
---circle of competence? do you know this business, do you have an edge over others? if you don't 
-   then develop one
+--circle of competence? do you know this business, do you have an edge over others? if you don't then develop one
+    Note: Never buy a business that you don't understand or difficult to understand even after reading it
+--Never buy a business that changes too often that you can't predict it for the next 10 years
 
 
 2)Business:
@@ -34,12 +35,15 @@ Categories of Stock:
 --market share trend
 --company must focus on value addition to its customers and not on price
 --can a fool run this business - i.e business brand value and strength check
---can you put 25% of your net worth and forget about it for next 5-10 yrs in a stock???
+--can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
   assuming that stock market is closed for next 5-10yrs are you ok holding the stock?
---company/company products can be easily be replaced by competettion in next 10 yrs?
+--for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 
 3)Financial Strength: Consistency check on 10yr financial data (standalone and consolidated)
+--Total assets(current valuation) compared with Marketcap - to identify asset plays
+--shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
+  activity -- proceeds from shares section)
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
 --other income significant to operating profit over the years?
@@ -54,7 +58,8 @@ Also if other params are good and -ve free cash flow is bcoz of capex then you c
 --check 10yr cash flow analysis in tijori to undestand what company is doing with its cash
 company can have average finacials and has a high scope to improve
 --outstanding shares increasing every year ? check cashflow from financing section
---ROE consistent and  10-15% (with D/E under control)?
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return which actually speaks about the stock return as well
+-- free cash flow/share holder's equity check 
 --ROCE and ROIC (consistent and above 15%)
 --D/E < 1?
 if D/E > 0 check in the balance sheet if the long term debt is increasing ?
@@ -62,7 +67,9 @@ check D/E trend
 can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
 
-4)Valuation: find out how much time will it take to get ur money back? 
+4)Valuation: 
+Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
+//find out how much time will it take to get ur money back? 
 --EV/EBIT Valuation
 --(Market cap - cash&cash equivalents)/Free cash flow Valuation
 if free cashflow is irregular(avg free cash flow for 5 years)/if free cashflow is increasing consistently(free cash flow for last year)

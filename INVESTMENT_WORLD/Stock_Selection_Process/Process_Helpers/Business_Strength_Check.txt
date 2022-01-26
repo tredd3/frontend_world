@@ -156,9 +156,9 @@ Note: even though company has a MOAT, you always need to have the guard(YOU) ins
    have been broken or there is something else that went wrong (weak growth oppurtunities, substitutes, bad management, costly
    acquistions)
 
-//PRICING POWER - are people ready to pay premium (can the compnay increase the product/services prices in the cases like inflation 
-and supply chain disruption or in general and be sure that people still buy their products and they don't loose their business to 
-competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
+//PRICING POWER (MUST HAVE MOAT)- are people ready to pay premium (can the compnay increase the product/services prices in the cases
+ like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
+ business to competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
  This will happen only when :
    i)The product or service is unique
    ii)company has a MOAT
@@ -238,7 +238,7 @@ Pro Tip: if all Peers are equally profitable and equally effiecient then low WC/
   /Accounting tricks/fraud(increased other income, lower amort and dep charges)
   /promoter OR management change
 
-Note: Both Growth MOATS and Growth oppurtunities need to exist else earnings are not sustainable
+Note: Both MOATS and Growth oppurtunities need to exist else earnings are not sustainable
 Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
 market share soon - need to monitor closely
 company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if you have lot of money u can invest
