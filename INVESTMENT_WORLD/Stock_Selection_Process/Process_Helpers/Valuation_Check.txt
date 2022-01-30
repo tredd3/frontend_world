@@ -3,10 +3,13 @@
 GOLDEN RULES:
 1)Talk about valuations only if Business QUALITY is good , else no point in buying the company as iam a longterm investor
 2)Don't overpay: Even if a company has DCA, if you buy at high price the returns will be like a mediocre company
-3)if a company has wide MOATS clubbed with high ROCE and high free cash flow then we can pay premium(don't overpay), provided
-  you are ready to hold it for a longer period (10+ yrs) which justifies high valuation
-To value such stocks terminal multiple should be high bcoz of their ability to sustain earnings for a long period but discount
-rate should be low as they are relatively safe(like debt instruments)
+3)if a company has wide MOATS(must have, otherwise profits are not sustainable in the future) clubbed with high ROCE and high free 
+cash flow(generally non-growth generates high free cash and very few growth companies generate free cash) then we can pay 
+premium(don't overpay), provided  you are ready to hold it for a longer period (10+ yrs) which justifies high valuation
+*** To value such stocks terminal multiple should be high bcoz of their ability to sustain earnings for a long period but discount
+rate should be low(current interest rates) as they are relatively safe(like debt instruments)
+Note: if inflation increases and central banks increase interest rates to curb inflation then intrinsic value of the companies
+  decrease and they seem overvalued(but it is a short term phenomenon)
 4)PRICE and VALUATION - both are not same
 if Share price of a company increases at slower rate but earnings increase at higher rate then - Low Valuation
 if Share price of a company decreases at certain rate but earnings decrease at higher rate then - High Valuation

@@ -16,8 +16,8 @@ multiple MOATs exist OR MOATs exist for almost all of its product lines - if som
  in other words firms spread their fixed costs over large units of products - bringing down the cost of single product unit
  operating leverage of the firm increases because of this ability.(check in profit loss statement last line - tijori )
  for e.g if operating leverage is 3 => means if revenues grow by x then operating income grows  by 3x (not net income)
- Note: if operating leverage is very high because of fixed costs company can be wildly profitable and can also be bankrupt(check debt
-  levels, especially interest wrt operating profit)
+ Note: if operating leverage is very high because of fixed costs company can be wildly profitable and expand margins , but it
+  can also be bankrupt if it has high debt and sales decrease(check debt levels, especially interest wrt operating profit)
  so to have this MOAT companies must focus on revenue increase by increasing sales volume (check business_strength_check line 194,195)
 e.g: AMC, Insurance companies - no matter how much money flows in, the money manager will be given same salary and the operating cost 
    are very much fixed
@@ -44,7 +44,7 @@ e.g: AMC, Insurance companies - no matter how much money flows in, the money man
 Once you are a low cost producer , use the profits to bring costs even further (advertisement spending, campaigning)
 Note: New companies cannot break this moat bcoz they will be in loss. 
 
-3)BRAND - public must trust the product and ready to pay premium for it 
+3)BRAND Loyalty- public must trust the product and ready to pay premium for it 
 It takes many years to build because customers recognise a company as a brand if the firm consistently produces products/services
  that have highest quality compared to competitors
 Real product differentiation - i.e products are more popular => but constant innovation is needed and lot of cash is sucked up

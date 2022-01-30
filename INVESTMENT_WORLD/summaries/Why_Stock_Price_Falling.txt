@@ -1,33 +1,48 @@
 //what to do when stock price is falling:
-Golden fact: 
-Sometimes fundamentals and stock price move in opposite direction for short term.
-1)if fundamentals are good and stock price is down (it could be a potential buy based on
- valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB) and not on price)
-2)Check if it is a value trap: 
- what is a value trap? stock available at low price but it might stay there for few years OR it might decrease further
- how to identify: low quality business available at reasonable valuation like a company with ROCE > 12% , good market share but no
-   pricing power available at 5 time FCF. Instead buy a company with ROCE > 10% , decent market share but has pricing power and 
-   available at 10-15 times FCF
+Golden fact: Sometimes fundamentals and stock price move in opposite direction for short term
+1)stock price falls when people are selling stocks heavily(reasons can be varied like -ve sentiment, predictions, opinions, news, 
+macroeconomy concerns etc - we don't care about all these unless it drastically impacts the business, we only care about FUNDAMENTALS
+and if they detoriorate then we need to take a call)
+2)
+  Internal factors: temporary problem(can be a buy oppurtunity), permanent problem (skip)
+  External factors: then proceed with screening
+  Note: There is stock and there is business behind stock
+  you cannot determine what's going on in the business based on share price, share price should be used to determine the gap
+    between intrinsic value and the selling price. 
+  Regarding business always consider you are buying the whole business and not share of a company 
 
-//why is the stock price falling or why are people selling it heavily
-GOLDEN CHECK: Only the stock price went down or is it that the valuation also went down?
-1)Year end tax selling
+
+-------------------- BASIC CHECK ----------------------
+1)check promoter shareholding pattern trend in tijori
+2)Year end tax selling?
 US yr end tax selling: nov - dec
 Indian yr end tax selling: feb - march
-2)EPS DECREASING (Valuation remains same )
+3)check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB))
+  US stocks: Vested (ratios section) - extreme bottom
+  Indian Stocks - screener top section
+4)check Intrinsic value: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
+
+
+-------------------- DEEP CHECK ----------------------
+1)EPS/FCF DECREASING (Valuation remains same )
 --EPS decreasing (net income down)
    is it a short term phenomenon/long term hit? can be a turnaround oppurtunity if the earnings are temporarily down 
    and has the potential to rebound
 --EPS decreasing (number of outstanding shares increased due to recent raise in equity capital)
    what does the company plan to do with capital raised? reinvest in current business(must reinvest in a profitable business only), 
    increase operating efficiency, new investment/growth oppurtunities, new business expansion
-3)EPS INCREASING (Valuation is cheap) - potential BUY
+2)EPS/FCF INCREASING (Valuation is cheap) - potential BUY
 --EPS increasing (net income increasing)
 --EPS increasing (share buyback)
-4)EPS IS ALMOST CONSTANT - but PE is down due to some reasons
+3)EPS/FCF IS ALMOST CONSTANT - but PE is down due to some reasons
   what is that reason? google it or exchange fillings
 4)why did you buy the stock? - go through the story
    did the story/fundamentals change? if it significantly changed/impacted then you can sell
-4)do you really believe in the stock and have the courage to hold if stock falls further?
+5)Check if it is a value trap: 
+ what is a value trap? stock available at low price but it might stay there for few years OR it might decrease further
+ how to identify: low quality business available at reasonable valuation like a company with ROCE > 12% , good market share but no
+   pricing power available at 5 time FCF. Instead buy a company with ROCE > 10% , decent market share but has pricing power and 
+   available at 10-15 times FCF
+6)do you really believe in the stock and have the courage to hold if stock falls further?
 i.e can you put 25% of your net worth and forget about it for next 10 yrs in a stock?
 
