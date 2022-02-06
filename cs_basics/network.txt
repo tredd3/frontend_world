@@ -1,7 +1,22 @@
 //networking basics
-there are around 65535 ports. each port has a incoming and outgoing queue of messages
-certain ports are reserved for services like http, ftp etc
-each application runs on a single port
+https://www.cloudflare.com/en-in/learning/network-layer/what-is-a-computer-port/
+A port is a virtual point where network connections start and end. Ports are software-based and managed by a computer's operating 
+  system. Each port is associated with a specific process or service.
+Most ports are reserved for certain protocols — for example, all Hypertext Transfer Protocol (HTTP) messages go to port 80. 
+  While IP addresses enable messages to go to and from specific devices, port numbers allow targeting of specific services or
+  applications within those devices.
+  few more ports reserved are for services like http, ftp, smtp, dns, RDP etc
+There are around 65535 ports. each port has a incoming and outgoing queue of messages
+//These 65535 ports has been separated by the IANA (Internet Assigned Numbers Authority) into several different segments :
+1)Port 0 is not used for internet/network traffic, but it’s sometimes utilized in communications going down between different programs on identical computers.
+2)Ports 1-1023 are alluded to as system ports. These ports speak to official ports for most notable system administrations and many 
+ common network services. HTTP usually communicates at port 80, while FTP at port 21. In most working frameworks/OS,
+  administrative-level access is expected to begin a program that tunes in on a system port.
+3)Ports 1024-49151 are known as registered ports. These ports are utilized for a bunch of different network functions and services 
+  that probably won’t be very frequently used as ones that are on system ports.
+4)port 49152-65535 - Ephemeral ports (or private ports) - for outbound network traffic and connections
+
+
 /Input/output
 Inputs are the signals or data received by the system and outputs are the signals or data sent from it. 
 For instance, a keyboard or computer mouse is an input device for a computer, while monitors and printers are output devices
@@ -39,14 +54,19 @@ T - transport - segmentation, flow and error control
 segmentation - break data into segments and each segment has sequence number(to rearrange), port number(to identify application)
 flow/congestion control - client tells server at what rate data transfer should happen so that client can process it and data is not lost
 error control - corrupted(using checksum) and missing(using segment numbers) data are requested again 
-TCP(www, email,ftp) and UDP protocols(songs,movies,games)
+TCP(www, email,ftp) and UDP protocols(songs,movies,games) - Ports are a transport layer (layer 4) concept. Only a transport protocol
+  such as the Transmission Control Protocol (TCP) or User Datagram Protocol (UDP) can indicate which port a packet should go to. 
+  TCP and UDP headers have a section for indicating port numbers.
 connection vs connection LESS
 more packet size vs less packet size
 slow vs fast
 stream oriended(tcp splits data in chunks and recompose them) vs message oriented(application sends data in chunks)
 reliable(all data is sent and that too in correct order) vs unreliable (random display of messages)
 acknowledgment and re-transmission  vs no-acknowledgment
-TCP usage: send text messages, file, image transfers, important information
+TCP usage: send text messages, file, image transfers, important information 
+ Note: TCP traffic needs one destination port and one source port to establish a connection. At the point when a client needs to 
+  speak with a server, the client will be appointed an ephemeral port to be utilized for simply that one connection, while the 
+  server tunes in on a static system framework or registered port.
 UDP usage: multimedia streaming
 
 N - network - logical/ip adressing, routing, path determination

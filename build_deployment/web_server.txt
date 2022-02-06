@@ -88,7 +88,7 @@ http {
         }
 
         #exact match
-        #only responds for http://nginx-handbook.test/agatha-christie 
+        #only responds for http://nginx-handbook.test/agatha 
         location = /agatha {
             return 200 "Miss Marple.\nHercule Poirot.\n";
         }

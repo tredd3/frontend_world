@@ -1,6 +1,40 @@
 //How internet works:
  https://www.netnod.se/i-root/what-are-root-name-servers
 
+
+//Domain Name System (DNS) is the hierarchical and decentralized naming system 
+ The Internet maintains two principal namespaces: the domain name hierarchy and the IP address system
+ It is used to identify computers, services, and other resources reachable through the Internet.
+ DNS maintains the domain namespace and provides translation services between these two namespaces -  name servers implement the Domain Name System
+/DNS ame server
+most important function of DNS servers/DNS name server is the translation (resolution) of human-memorable domain names (facebook.com)
+  and hostnames into the corresponding numeric Internet Protocol (IP) addresses (93.184.216.34)
+A DNS name server is a server that stores the DNS records, such as address (A, AAAA) records, name server (NS) records, and mail
+  exchanger (MX) records for a domain name and responds with answers to queries against its database.
+/List of DNS record types
+The DNS records contain domain names along with other forms of information.
+A : domain/hostname - ip address
+CNAME: domain - another domain/hostname
+SRV : service name, host, port - ip address
+NS: domain/FQDN/sub domain - ip address(one more DNS call in this ip for hostname resolution)
+/root domain name: . The top hierarchy of the Domain Name System is served by the root name servers maintained by 12 organisations
+ root name servers are present all over the world (since their ip addresses are fixed, they are hardcoded in all the softwares - any
+ upgradation in their ip addresses needs software upgradation to reflect) Also they are present in each geography
+Below the root, Internet resources are organized into a hierarchy of domains, administered by the respective registrars and domain name holders. 
+/TLD : .org, .com etc
+/domain name: .deshaw.com, .google.com, (google can form further sub domains like mail.google, drive.google etc)
+/A fully qualified domain name (FQDN) is the complete domain name for a specific computer, or host, on the internet. The FQDN 
+consists of two parts: the hostname and the domain name. For example, an FQDN for a hypothetical mail server might
+ be mymail.somecollege.edu. The hostname is mymail, and the host is located within the domain somecollege.edu.
+In this example, .edu is the top-level domain (TLD). This is similar to the root directory on a typical workstation, where all 
+other directories (or folders) originate. (Within the .edu TLD, Indiana University Bloomington has been assigned the indiana.edu 
+domain, and has authority to create subdomains within it.)
+/why we need FQDN?
+if you are trying to connect to a remote host that is not local to your internet service provider (ISP), you will 
+ probably have to use the FQDN. For example, it's unlikely that a DNS server at Indiana University would have a listing for remote 
+ hosts at another university or an unrelated ISP.
+
+
  
 //client - server connection
 1) On a server, a process is listening on a port. Once it gets a connection, it hands it off
