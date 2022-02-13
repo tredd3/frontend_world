@@ -63,18 +63,12 @@ Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/
 United health group - largest insurance company by net premiums in US + health care products
 
 
-//Tech - 16 (Dad)
+--------------------------------------- TECH (Dad) ----------------------------------
+//Must Add Tech - 8
 Alphabet(GOOGL)
-Workday, Inc - has a strategic partnership with Google LLC to digitally transform enterprises worldwide.It provides enterprise cloud 
-    applications worldwide. Its applications help its customers to manage critical business functions and optimize their financial and human resources. 
 Facebook (wtsapp, Instagram, Linkedin) - meta platform
 Amazon - vertically integrated (website, warehouse,shipping, delivery)
 Netflix - largest media and entertainment company in the world by marketcap + 40% content producted inhouse
-Verisign -  operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the 
-      authoritative registry for the .com, .net, and .name generic top-level domains
-Intuit Inc - provides financial management and compliance products and services for consumers, small businesses, self-employed,
-  and accounting professionals in the United States, Canada, and internationally. 
-Mongo DB
 Microsoft (Linkedin, Github, Lynda)
 Alibaba - asset lite model (excellent managemnt + rapid share buyback is happening)
           strong consumer confidence, expanding beyond chinese markets
@@ -90,6 +84,13 @@ Alibaba - asset lite model (excellent managemnt + rapid share buyback is happeni
           operating Costs: management needs to spend on Ads to remain competettive
 Adobe - develops software tools primarily for audio-visual(graphics, photography, illustration, animation, multimedia/video,
         motion pictures) content creation, editing and publishing.
+Autodesk - provides 3D design, engineering, and entertainment software and services worldwide for by architects, project managers, 
+  engineers, graphic designers, city planners and other professionals. 
+  It was supported by 750 training centers worldwide with world wide presence
+  Empowering innovators with design-and-make technology, so that they can achieve the new possible also enables them to build and manufacture efficiently and sustainably. 
+  Proxy play to Infrastructure development in the US and Manufacturing hub in China
+
+//Doubtful Tech - 7
 Accenture - IT services and consulting. current clients : 91 of the Fortune Global 100 and more than 3/4 of the Fortune Global 500
 Teledyne technologies - leading provider of sophisticated instrumentation, digital imaging products and software, aerospace and
   defense electronics, and engineered systems.
@@ -97,150 +98,116 @@ L3Harris Technologies - an aerospace and defense technology company, provides mi
 synopsys - software tools for emulating and testing electronic components integration
            Synopsys has expanded its products and services to include application security testing
 cadence design - software tools for emulating and testing electronic components integration
-Autodesk - provides 3D design, engineering, and entertainment software and services worldwide for by architects, project managers, 
-  engineers, graphic designers, city planners and other professionals. 
-  It was supported by 750 training centers worldwide with world wide presence
-  Empowering innovators with design-and-make technology, so that they can achieve the new possible also enables them to build and manufacture efficiently and sustainably. 
-  Proxy play to Infrastructure development in the US and Manufacturing hub in China
 Lockheed Martin Corporation - a security and aerospace company
 Palo Alto Networks - American multinational cybersecurity companyserves over 70,000 organizations in over 150 countries, 
       including 85 of the Fortune 100.former Google and SoftBank executive Nikesh Arora joined the company as Chairman and CEO.
 crowdstrike holdings - security solutions for cloud related applications
+Intuit Inc - provides financial management and compliance products and services for consumers, small businesses, self-employed,
+  and accounting professionals in the United States, Canada, and internationally. 
+Workday, Inc - has a strategic partnership with Google LLC to digitally transform enterprises worldwide.It provides enterprise cloud 
+    applications worldwide. Its applications help its customers to manage critical business functions and optimize their financial and human resources. 
+Mongo DB
 
-
-//Consumption - 9 (Dad)
+--------------------------------------- Consumption (Dad) ----------------------------------
+//Must ADD - 7
 Domino's Pizza
 McDonald
 Yum Brands(KFC, Pizzahut, Taco bell)
 Yum china
-Papa Johns
-Cococola	
 Pepsico
-Hershey Company
 Mondelez international - Cadbury Dairy Milk, Oreo and Toblerone chocolates among others
+
+
+//Doubtful
+Hershey Company
+Papa Johns
 American Water Works Company
 hormel foods - packaging and selling of ham, Spam, sausage and other pork, chicken, beef and lamb products to consumers; by the 1980s,
  Hormel began offering a wider range of packaged and refrigerated foods.
 
-//Finance - 25 (pallavi)
-Visa 
-Mastercard
-MorningStar - mutual fund rating agency, research and investment advices
-Thomson Reuters Corporation - provides business information services in the Americas, Europe, the Middle East, Africa, and the Asia
-  Pacific. It operates in 5 segments: Legal Professionals, Corporates, Tax & Accounting Professionals, Reuters News, and Global Print. 
-MSCI - together with its subsidiaries, provides investment decision support tools for the clients to manage their investment
-  processes worldwide. The company operates through Index, Analytics, and All Other segments.
-FACTSET RESEARCH SYSTEMS -The company delivers insight and information through the workflow solutions of research, analytics and
-  trading, content and technology solutions, and wealth. It serves portfolio managers, investment banks, asset managers, wealth 
-  advisors, corporate clients, and other financial services entities.
+--------------------------------------- FINANCE (Pallavi) ----------------------------------
+//Must - 6
+Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
+  Visa
+  Mastercard
+  Cococola
+  JP Morgan chase - largest bank in the United States, the world's largest bank by market capitalization
+  Bank of America -  second Largest bank in America
+  wells fargo - 3rd Largest bank in America
+  Moody’s
+  Procter and Gamble
+  Johnson & Johnson
+  Sirius XM Holdings(SIRI) - provides satellite radio(digital radio) and online radio services operating in the United States
+  SiriusXM’s platforms collectively reach more than 150 million listeners across all categories of digital audio – music, sports, 
+  talk, and podcasts – the largest reach of any digital audio provider in North America.
+  https://www.siriusxm.com/corporate
+  Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
+   number of categories, including furniture, lighting, textiles, bathware etc
+  united parcel service - UPS is the largest courier company in the world by revenue, best known for its ground delivery service
+  floor and decor holdings
+  Verisign -  operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the 
+      authoritative registry for the .com, .net, and .name generic top-level domains
 S&P Global
-Moody’s
 ICE - owner of NYSE stock exchange
 CME - world’s largest financial derivatives exchange
 Nasdaq - first electronic exchange in the world
-Coinbase - 2nd largest crypto exchange by volume
-Berkshire Hathaway - largest financial services company by revenue in the world + conglomerate
-Progressive - provides insurance for personal and commercial autos and trucks, motorcycles, boats,
-  recreational vehicles, and homes; it is the third largest auto insurer in the country
-Interactive Brokers Group Inc - clients from 200+ countries and territories invest globally and the largest full service broker in US
-  ICICI direct works with this broker.IBKR is the top pick for active traders and anyone who wants access to international markets.
-The Charles Schwab Corporation - largest discount broker in the US, 3rd largest asset manager in the world, behind BlackRock and Vanguard.
-  Charles Schwab is a good pick for casual investors and beginners.
-Blackrock - AMC with largest AUM in the US and in the world, with foot in Europe and China. 
-  BlackRock operates globally with 70 offices in 30 countries and clients in 100 countries
-  Largest provider of ETFs in the world by the name of ishares
-BlackStone - largest AIF(Alternative investment fund) in the US - investing private equity, funding startups, venture capitalist etc
-KKR & Co -   private equity and real estate investment firm specializes in acquisitions, leveraged buyouts, management buyouts, credit special situations
-Apollo Global Management, Inc - private equity firm specializing investments in credit, private equity and real estate markets. 
-Carlyle Group - Global Private Equity, Global Credit, and Investment Solutions.
-JP Morgan chase - largest bank in the United States, the world's largest bank by market capitalization
-Bank of America -  second Largest bank in America
-wells fargo - 3rd Largest bank in America
 Royal bank of Canada - largest bank in Canada
+
+
+//Doubtful - 4
+Coinbase - 2nd largest crypto exchange by volume
 Canadian National Railway Company - world-class transportation leader and trade-enabler
   CN safely transports more than 300 million tons of natural resources, manufactured products, and finished goods throughout North America every year
   As the only railroad connecting Canada's Eastern and Western coasts with the U.S. South through a 19,500-mile rail network
 Canadian Pacific Railway
+Thomson Reuters Corporation - provides business information services in the Americas, Europe, the Middle East, Africa, and the Asia
+  Pacific. It operates in 5 segments: Legal Professionals, Corporates, Tax & Accounting Professionals, Reuters News, and Global Print. 
 
-
-//Life Style - 18  (Daily use or cannot live without these)
+--------------------------------------- Life Style  (Pallavi) ----------------------------------
+//Must- 5  (Daily use or cannot live without these)
 Apple
-Dell
-(RNW) - largest renewable nergy in india(sector analysis must)
-Renew Energy Global PLC
-NextEra Energy(NEE) - generates, transmits, distributes, and sells electric power to retail and wholesale customers in North America.
-  The company generates electricity through wind, solar, nuclear, and fossil fuel, such as coal and natural gas facilities. It also 
-  develops, constructs, and operates long-term contracted assets with a focus on renewable generation facilities, electric transmission facilities, and battery storage projects; 
-Brookfield Renewable Partners - The company generates electricity through hydroelectric, wind, solar, distributed generation, pumped storage, cogeneration, and biomass sources.
-Activision Blizzard - video games (deep wiki readout as company employees are leaving)
-Live Nation Entertainment - operates as a live entertainment company. It operates through Concerts, Ticketing, and Sponsorship & Advertising segments
-Airbnb - asset light business model - vacation rentals all over the world
-Booking Holdings Inc - It operates websites in about 40 languages and 200 countries.
-    owns and operates several travel fare aggregators and travel fare metasearch engines including namesake and flagship Booking.com
-    In 2017, 89% of its gross profit was made outside the United States– most of which used Booking.com
-    In 2017, 93.4% of revenues were derived from commissions and 6.6% of revenues were derived from advertising.
-Expedia Group - operates several travel fare aggregators and travel fare metasearch engines including Expedia.com, Vrbo, Hotels.com,
-    Hotwire.com, Orbitz, Travelocity, trivago and CarRentals.com
-spotify - industry leader in music streaming with worldwide presence
-Tencent Music Entertainment Group - (keep any eye for now)
-Walt disney - media and entertainment
-Sony - media and entertainment
-WWE - World Wrestling Entertainment 
-PVH - owns brands such as Tommy Hilfiger, Calvin Klein, Warner's, Olga and True & Co.. The company also licenses brands such as
-    Kenneth Cole New York and Michael Kors
 Nike - biggest Sportswear company in the world
-Lululemon Athletica - exclusive yoga apparel
-Columbia Sportswear Company - sports wear
-Dick's Sporting Goods - America's largest sporting goods retailer
+Walt disney - media and entertainment
 Altria
-Procter and Gamble
-Johnson & Johnson
-Sirius XM Holdings(SIRI) - provides satellite radio(digital radio) and online radio services operating in the United States
- SiriusXM’s platforms collectively reach more than 150 million listeners across all categories of digital audio – music, sports, 
- talk, and podcasts – the largest reach of any digital audio provider in North America.
- https://www.siriusxm.com/corporate
-D.R.Horton - acquisition and development of land; and construction and sale of residential homes in 31 states and 98 markets 
-   mortgage financing services and title insurance policies, and examination and closing services, as well as engages in the residential lot development business.
-(check NVR, Lennar, Pultegroup  and other competettiors and reviews) Note: for property developers always check debt, inventory
-   and cash levels(balance sheet must be clean)
+
 
 //Extreme Luxury and asset heavy (5) - costly prodcuts and services, lifetime experiences
+PVH - owns brands such as Tommy Hilfiger, Calvin Klein, Warner's, Olga and True & Co.. The company also licenses brands such as
+    Kenneth Cole New York and Michael Kors
 Royal Caribbean cruises - world's second-largest cruise line operator
 Carnival Corporation - Tourism and experiences, largest cruise vacation company in the world
 Vail resorts - mountain resorts
 Marriott International - operates, franchises, and licenses hotel, residential, and timeshare properties worldwide.
   operated approximately 7,800 properties under 30 hotel brands in 138 countries and territories
-Restoration Hardware Holdings(RH) - is a luxury brand in the home furnishings marketplace, offering product assortments across a 
-   number of categories, including furniture, lighting, textiles, bathware etc
-
-
-
-//Life style and Misc - 13
-Lucid - replacement to TESLA? under observation
-CARR - carrier global corporation - manufacturing and distributing heating, ventilating and air conditioning (HVAC) systems, and has
-  since expanded to include manufacturing commercial refrigeration and foodservice equipment, and fire and security technologies
-Comcast Corporation - media and technology company worldwide
-Caesars Entertainment - largest casino-entertainment company in the U.S. and one of the world's most diversified casino-entertainment providers.
-  operates as a gaming and hospitality company in the United States. The company operates casinos, including poker, keno, and race 
-  and online sportsbooks; dining venues, bars, nightclubs, and lounges; hotels; and entertainment venues.
 SeaWorld Entertainment - portfolio of 12 destination and regional theme parks that are grouped in key markets across the United States, many of which showcase its one-of-a-kind zoological collection. 
   The Company is one of the world's foremost zoological organizations and a global leader in animal welfare, training, husbandry and veterinary care.
-united parcel service - UPS is the largest courier company in the world by revenue, best known for its ground delivery service
+
+
+//Doubtful
+Dick's Sporting Goods - America's largest sporting goods retailer
+Renew Energy Global PLC(RNW) - largest renewable nergy in india(sector analysis must)
+NextEra Energy(NEE) - generates, transmits, distributes, and sells electric power to retail and wholesale customers in North America.
+  The company generates electricity through wind, solar, nuclear, and fossil fuel, such as coal and natural gas facilities. It also 
+  develops, constructs, and operates long-term contracted assets with a focus on renewable generation facilities, electric transmission facilities, and battery storage projects; 
+Brookfield Renewable Partners - The company generates electricity through hydroelectric, wind, solar, distributed generation, pumped storage, cogeneration, and biomass sources.
+Lululemon Athletica - exclusive yoga apparel
+Columbia Sportswear Company - sports wear
+D.R.Horton - acquisition and development of land; and construction and sale of residential homes in 31 states and 98 markets 
+   mortgage financing services and title insurance policies, and examination and closing services, as well as engages in the residential lot development business.
+(check NVR, Lennar, Pultegroup  and other competettiors and reviews) Note: for property developers always check debt, inventory
+   and cash levels(balance sheet must be clean)
+The Home Depot - operates as a home improvement retailer. It operates The Home Depot stores that sell various building materials, 
+ home improvement products, building materials, lawn and garden products, and décor products
+Lowe's Companies, Inc - together with its subsidiaries, operates as a home improvement retailer in the United States and 
+  internationally. The company offers a line of products for construction, maintenance, repair, remodeling, and decorating. 
+Comcast Corporation - media and technology company worldwide
 Fedex - Fedex is best known for its air delivery service
-Best Buy - largest specialty retailer in the United States consumer electronics retail industry
-   operates internationally in Canada as well
+Best Buy - largest specialty retailer in the United States consumer electronics retail industry ,operates internationally in Canada as well
 Costco Wholesale Corporation - together with its subsidiaries, engages in the operation of membership-only warehouses in the United States,
   Puerto Rico, Canada, the United Kingdom, Mexico, Japan, Korea, Australia, Spain, France, Iceland, China, and Taiwan. It offers
   branded and private-label products in a range of merchandise categories.
   customers may buy large, wholesale quantities of the store's products, which makes these clubs attractive to both bargain hunters and small business owners.
   it also has a website for online delivery(same day delivery feature is recently launched)
-Kroger
-Target
-floor and decor holdings
-The Home Depot - operates as a home improvement retailer. It operates The Home Depot stores that sell various building materials, 
- home improvement products, building materials, lawn and garden products, and décor products
-Lowe's Companies, Inc - together with its subsidiaries, operates as a home improvement retailer in the United States and 
-  internationally. The company offers a line of products for construction, maintenance, repair, remodeling, and decorating. 
 Albemarle Corporation - develops, manufactures, and markets engineered specialty chemicals worldwide. It operates through three
   segments: Lithium(electrical vehicles), Bromine Specialties, and Catalysts. 
   second-largest lithium miner in the world

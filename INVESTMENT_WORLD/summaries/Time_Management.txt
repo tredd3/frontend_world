@@ -1,0 +1,32 @@
+//what is time?
+)Time is Allocation - it is a derivation that comes from noting daily time allocation in excel 
+  and then observing it carefully
+check time_allocation_matrix.png
+
+2)Time is Energy - when someone says i don't have time to do it, that means they don't have energy 
+  to do it. Energy levels keep changing throughout the day, i.e each and every hour some or the other form of energy will 
+  be at high level and some other form is at low level.
+4 types of Energy in humans:
+/physical energy - sleep(when do u sleep and how long), food, workout
+/emotional energy(comes from within) - self confidence, self control, empathy
+/mental energy - optimism, creativity, proactive(forward looking)
+/spiritual energy - commitment, inegrity, honesty
+
+2 types of tasks - energy increasing, energy decreasing 
+how you allocate ur time(or what type of task u do) determines ur energy levels(increases/decreases)
+e.g: reading, analysing, brain storming etc will decrease ur energy levels
+     sleeping will oncrease ur energy levels
+After doing a task whatever energy is left, you should now align the other task according to ur current energy levels:
+   do/allocate all important tasks during the day where ur energy levels are highest - now these will mostly be heavy tasks that
+      drain ur energy 
+   do non urgent and non important tasks in the day where ur energy levels are lowest
+
+
+3)Time is Money - 
+Time is precious , u can spend money and get it back one day or the other but time once spent is gone
+
+//Task handling
+Urgent +  Important - you should do it now
+Not Urgent +  Not Important - drop it u should never do it
+Urgent +  Not Important - delegate it
+Not Urgent +  Important - (schedule it) - you should do it later

@@ -198,7 +198,7 @@ Paging reduces external fragmentation, but still suffer from internal fragmentat
 Page tables consume additional memory.
 
 
-*segmentation
+*segmentation - to solve internal fragmentation.
 Segmentation is a memory management technique in which each job is divided into several segments of different sizes, one for each module that contains pieces that perform related functions.
 When a process is to be executed, its corresponding segmentation are loaded into non-contiguous memory though every segment is loaded into a contiguous block of available memory.
 Segmentation memory management works very similar to paging but here segments are of variable-length where as in paging pages are of fixed size.

@@ -1,8 +1,8 @@
 //Overall requirements to be satisfied by a company
-1)BUSINESS(high quality -  predictable and consistent EARNINGS for next 10 yrs(MOATS, pricing power) , scalable business model, competes on value 
- rather than price bcoz company that competes on value is like a magnet with stronger magnetic field than competetiors that attracts 
- customers, company having calibre or potential to adapt to the changing business environment - invest in a business with slow 
- rate of change, rapid change is the enemy of an investor)
+1)BUSINESS(high quality -  predictable and consistent EARNINGS for next 10 yrs(MOATS, pricing power) , scalable business model - globally
+ preferred, competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field 
+ than competetiors that attracts customers, company having calibre or potential to adapt to the changing business environment - invest 
+ in a business with slow rate of change, rapid change is the enemy of an investor) - Tailwinds is added advantage
  Assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year
  Note: Quality of the business has nothing to do with the size
 2)FINANCIAL (last 10 yrs decent financials, if not does it have the potential to generate great financials for the next 10yrs)
@@ -14,6 +14,7 @@
    and not focus on short term profits(like giving discounts to boost quarterly sales, take debt to buyback shares etc)
 4)VALUATION (see below) - we can pay premium to intrinsic value (but not overpay) for high quality businesses - if you don't find any
   oppurtunity then invest in Index funds.
+  if the company is excellent but available at low valuation - u need to check Why_Stock_Price_Falling.txt
   /why valuation are important?
   if you buy an extraordinary company that is over valued, then it might take a decade for the earnings to catchup to the price
   till then the stock price is not moving anywhere.
