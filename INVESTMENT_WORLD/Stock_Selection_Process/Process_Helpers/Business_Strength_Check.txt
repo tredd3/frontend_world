@@ -1,9 +1,19 @@
 //Overall requirements to be satisfied by a company
-1)BUSINESS(high quality -  predictable and consistent EARNINGS for next 10 yrs(MOATS, pricing power) , scalable business model - globally
- preferred, competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field 
- than competetiors that attracts customers, company having calibre or potential to adapt to the changing business environment - invest 
- in a business with slow rate of change, rapid change is the enemy of an investor) - Tailwinds is added advantage
- Assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year
+3D Visualisation: Business(including financials), stock price and Valuation - don't take decision based on price focus on Business,
+ think in a way that you will own the entire business
+ 
+1)BUSINESS(high quality)
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -Superior economics (what does company produce, target audience and how does it produce) - does the products/services add some
+   value to customers or do they waste their time or money or destroy their health
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
  Note: Quality of the business has nothing to do with the size
 2)FINANCIAL (last 10 yrs decent financials, if not does it have the potential to generate great financials for the next 10yrs)
 3)MANAGEMENT (high quality management having a long term vision instead of short term profits) 
@@ -128,8 +138,13 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-product diversification - what all products company manufactures (you can find in investor presentation)
-prefer high margin non commoditized business - if commoditized then must be a low cost producer
+product diversification - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
+  of each product
+Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
+always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
+ on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
+e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
+  only based on EV exposure
 check market share trend over the years in tijori - to know how much demand is being catered by the company 
   Also to know if the company is losing the business to competetiors
 Is there any peer whose market share is higher than the current company? - great way to find a excellent competetior business
@@ -156,9 +171,6 @@ what makes the product or service of this company Unique?
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 
     if NO, go and open their website, check public review in ecommerce or google search
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
 
 
 --------------------------------------- FUTURE ----------------------------------------
@@ -257,15 +269,17 @@ Pro Tip: if all Peers are equally profitable and equally effecient then low WC/s
     areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
     firm doesn't OR any firm that increases the efficieny of the current firm operations) 
     /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
+    /process optimisation and innovation - chemicals and pharma mainly
+    /backward and forward integration
     /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-
     NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
     after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
     needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
     But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
     on making the firm efficient or not apart from focusing on sales
 // Other Ways (Misc)
-  /it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies
+  /Innovation led growth - either in process or the product
+  /it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
   /support from govt - relief packages etc - (not preferred if relief is for short term)
   /Accounting tricks/fraud(increased other income, lower amort and dep charges)
   /promoter OR management change

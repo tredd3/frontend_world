@@ -1,4 +1,45 @@
+use of chemicals: almost everwhere
 Cyclical
 Based on raw material prices which inturn is dependent on crude oil prices
-Global competettion (mainly fron China)
+Global competettion (mainly fron China) - but now china+1 is an emrging trend
 Threat of product replacements (by a better alternative product)
+4 trillion USD is the Global chemical industry size - india contributes only 4%
+import 56 billion USD, export 41 billion USD
+Types of chemicals:
+commodity - anyone can manufacture
+specality - only few can do it - expected CAGR 12% for next 5yrs 
+  50% of specality chemicals - agro chemicals, dyes and pigments
+
+//chemical products
+F&F + Nutra - high entry barriers, product specalisation, end market growth potential - speific to customer
+ privi
+personal care - high entry barriers, product specalisation, end market growth potential
+dyes and pigments - low entry barriers - low capex, very polluting industry - chinese competettion is high
+cleaner and greener chemistry:
+  clean science
+  flouro chemicals - navin flourine, srf, gujarat flouro chem
+  tatva chintan
+EV:
+ neogen - lithium chemicals - EV batteries
+ tatva chintan - electrolyte salts(but only small part of their portfolio)
+
+//Investment framework
+1)safety and compliance: most important
+  plant accidents
+  pollution control board
+  affluent treatment plant/zero discharge - must have
+  USFDA audit(warning letter import alert)
+2)product portfolio
+  leadership
+  innovation - either in product/process
+  differentiation of product
+  diversification of product portfolio
+  end user industries: pharma and personal care (high margins)
+3)execution capabilities
+4)ability to scale
+
+//Risk:
+pollution
+hazardous 
+waste management
+impact on economy

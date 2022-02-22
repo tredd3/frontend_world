@@ -45,17 +45,31 @@ https://www.geeksforgeeks.org/thread-in-operating-system/
 A thread is a path of execution within a process. A process can contain multiple threads.
 Multithreading: achieve parallelism by dividing a process into multiple threads
 threads within the same process run in a shared memory space, while processes run in separate memory spaces.
-Threads are not independent of one another like processes and hence share code section, data section, and OS resources (like open files and signals)
+easy to create and switch between threads compared to processes for an OS
+Any program in which many activities are not dependent upon each other can be redesigned so that each independent activity is defined as a thread.
+Thread operations are independent of each other like processes but they since Threads share code section, data section, and OS 
+  resources (like open files and signals) of a process they have an advantage over processes
 But, like process, a thread has its own program counter (PC), register set, and stack space.
 A program counter is a register in a computer processor that contains the address (location) of the instruction being 
 executed at the current time.
-advantages:
+Typically, applications that express concurrency requirements with threads need not take into account the number of available
+ processors. The performance of the application improves transparently with additional processors because the operating system 
+ takes care of scheduling threads for the number of processors that are available.
+e.g: process with 4 threads running on a single core machine will work a bit slow compared with the same process running on a multi 
+   core machine as the OS takes care of assigning a thread per cpu core 
+Advantages:
 Process is heavy weight or resource intensive.Thread is light weight, taking lesser resources than a process.
 threads provide a way to improve application performance through parallelism(utilization of multiprocessor architectures efficiently)
 Multiple threaded processes use fewer resources.
 Process switching needs interaction with operating system unlike thread switching
 One thread can read, write or change another thread's data and data can be passed between threads
-
+Combining Threads and RPC
+By combining threads and a remote procedure call (RPC) package, you can exploit nonshared-memory multiprocessors, such as a 
+collection of workstations. This combination distributes your application relatively easily and treats the collection of workstations
+ a multiprocessor.
+For example, one thread might create additional threads. Each of these children could then place a remote procedure call, 
+invoking a procedure on another workstation. Although the original thread has merely created threads that are now running in
+parallel, this parallelism involves other computers.
 
 //Multitasking Operating Systems/Time-sharing systems
 Multitasking is when multiple jobs are executed by the CPU simultaneously by switching between them. 
@@ -66,6 +80,28 @@ During this time, a CPU can be utilized by another process.
 uses the concept of multiprogramming,CPU scheduling and  context switching
 multiprogramming:
 more than one process is loaded into the executable memory at a time and the loaded processes shares the CPU using time multiplexing.
+
+
+//Thread Synchronization
+Synchronization enables you to control program flow and access to shared data for concurrently executing threads.
+The four synchronization models are mutex locks, read/write locks, condition variables, and semaphores.
+1)Mutex locks allow only one thread at a time to execute a specific section of code, or to access specific data.
+2)Read/write locks permit concurrent reads and exclusive writes to a protected shared resource. To modify a resource, a thread must first acquire the exclusive write lock. An exclusive write lock is not permitted until all read locks have been released.
+3)Condition variables block threads until a particular condition is true.
+4)Counting semaphores typically coordinate access to resources. The count is the limit on how many threads can have concurrent access to the data protected by the semaphore. When the count is reached, the semaphore causes the calling thread to block until the count changes. A binary semaphore (with a count of one) is similar in operation to a mutex lock.
+
+//Mutex vs Semaphore
+mutual exclusion(mutex) is a property of concurrency control, which is instituted for the purpose of preventing race conditions.
+e.g:
+Consider the standard producer-consumer problem. Assume, we have a buffer of 4096 byte length. A producer thread collects the data 
+and writes it to the buffer. A consumer thread processes the collected data from the buffer. Objective is, both the threads should not run at the same time.
+Using Mutex:
+A mutex provides mutual exclusion, either producer or consumer can have the key (mutex) and proceed with their work. As long as the 
+buffer is filled by producer, the consumer needs to wait, and vice versa.
+At any point of time, only one thread can work with the entire buffer.
+Using Semaphore:
+A semaphore is a generalized mutex. In lieu of single buffer, we can split the 4 KB buffer into four 1 KB buffers (identical resources).
+A semaphore can be associated with these four buffers. The consumer and producer can work on different buffers at the same time.
 
 
 ***Schedulers:
@@ -137,19 +173,6 @@ javascript/node handles concurrency via event loop
 This means that the threads are executing at the same time on parallel processors.
 cores used: multiple cores
 javascript/node handles parallelism via web workers
-
-mutex vs semaphore
-mutual exclusion(mutex) is a property of concurrency control, which is instituted for the purpose of preventing race conditions.
-e.g:
-Consider the standard producer-consumer problem. Assume, we have a buffer of 4096 byte length. A producer thread collects the data 
-and writes it to the buffer. A consumer thread processes the collected data from the buffer. Objective is, both the threads should not run at the same time.
-Using Mutex:
-A mutex provides mutual exclusion, either producer or consumer can have the key (mutex) and proceed with their work. As long as the 
-buffer is filled by producer, the consumer needs to wait, and vice versa.
-At any point of time, only one thread can work with the entire buffer.
-Using Semaphore:
-A semaphore is a generalized mutex. In lieu of single buffer, we can split the 4 KB buffer into four 1 KB buffers (identical resources).
-A semaphore can be associated with these four buffers. The consumer and producer can work on different buffers at the same time.
 
 
 **Memory management - keeps track of each and every memory location, regardless of either it is allocated to some process or it is free.
