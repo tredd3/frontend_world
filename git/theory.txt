@@ -24,7 +24,9 @@ git ls-remote -h -t https://<xyz>.git
 
 //revert commits
 git log --oneline //to check the commit history
+git log //to get the commit id, author , date
  git reset --soft HEAD~1 - undo the last commit by preserving the changes
+ git reset --soft <commit_hash> - commit_hash where you want to get back to without losing changes 
  git reset --hard HEAD~1 - undo the last commit and discard all changes in the working directory 
 
 //merging

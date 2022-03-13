@@ -61,7 +61,7 @@ Taiwan semiconductors/ASML/AMD/Intel/Qualcomm/Nvidia/Broadcomm/TexasInstruments/
 3)VanEck Vectors Environmental Services ETF - optional
 4)Vanguard Health Care Index Fund ETF (symbol: VHT)(50% composition is: United health group/Johnson&Johnson/Nerck/Pfizer/Abbvie etc)
 United health group - largest insurance company by net premiums in US + health care products
-
+IYH
 
 --------------------------------------- TECH (Dad) ----------------------------------
 //Must Add Tech - 8

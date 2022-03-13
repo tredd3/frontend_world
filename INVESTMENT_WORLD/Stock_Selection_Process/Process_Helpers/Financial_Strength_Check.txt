@@ -104,11 +104,21 @@ Note: increase in longterm investment doesn't mean the market value of investmen
 is investing in some business
 
 --Goodwill: if a company has a lot of goodwill compared to total assets(say > 10%) then check the impairment to goodwill and how acquired companies are performing
-Goodwill is an asset representing the future economic benefits arising from other assets acquired in a business combination
- that are not individually identified and separately recognized. 
-Goodwill needs to be written off over the period at the cost of earnings.But ironically the acquired company keeps growing. 
-which means even though earnings are not shown the company is becoming stronger day by day => Focus on such companies because 
-once the goodwill completely written off they will blast off
+Economic Goodwill represents the increased/excess earnings arising from other intangible assets acquired in a business like brand 
+ name,patents etc that are not individually identified and separately recognized. 
+Accounting Goodwill is the premium paid over book value of a company.It is recognised as an asset needs to be written off over the 
+period , i.e it is amorotised as an expense. But ironically the acquired company keeps growing bcoz of additional assets(tangible 
+and intangible) acquired from child company.
+Note: Economic Goodwill increases over time and Accounting Goodwill keeps decreasing, which means even though earnings are written 
+off the company's earnings are increasing day by day => Focus on such companies because once the goodwill completely written off
+ they will blast off as the company is actually making cash
+
+ --amorotisation and depreciation
+ amorotisation: intangible assets like goodwill are amorotised as an expense  
+ depreciation: tangible asset loses value every year and eventually has to be replaced over time , hence the asset replacement cost is 
+   depreciated and recorded as an expense
+Note: we shouldn't remove depreciation expenses as they are real , but amorotisation expenses need to added back and counted as cashflow 
+
 
 
 ----------BALANCE SHEET (Liabilities)---------

@@ -1,7 +1,15 @@
-
 ***** GOLDEN RULES *********
 Decision ONLY  based on facts(news, reports) and reasoning(think, compare), not on opinion and emotions
 Provide Continuous fuel and efficiency to the process: keep updated with present knowledge
+
+HAVE KNOWLEDGE BEFORE INVESTING - MORE KNOWLEDGE === LESS RISK
+Stay in your circle of competence - invest only in industries which you understand, believe and predictable
+
+Growth and Value investing: both are same just that the growth rates and discount rates changes for DCF calculation 
+Growth stocks : high growth rates, high discount rates
+Value Stocks : low growth rates, low discount rates
+Note: fundamental concept of price vs value remians the same. But investing in a growth stock at random prices and waiting 
+  for price to go up is pure speculation
 
 FORTUNE: when oppurtunity meets prepared mind, meaning keep reading about companies, keep youself updated with the knowledge 
   and trends even though you never got a chance to buy the best companies that is fine (one day or the other you are bound to get it)
@@ -10,14 +18,14 @@ Risks in Stock Market/Investing
 1)Loss of Capital
 2)Not getting Adequate returns
 
-HAVE KNOWLEDGE BEFORE INVESTING - MORE KNOWLEDGE === LESS RISK
-Stay in your circle of competence - invest in industries which you understand or believe
-
 Short term - PE is significant(speculator focus), long term - earnings are significant(investor focus)
 SO, LONG TERM INVESTOR SHOULD HAVE A OWNER MINDSET: 
  Always consider you are buying the whole company for market cap/EV and not a single stock
  focus on business not on share price, bcoz if earnings increase market sentiment(P/E) increases and so do share price)
-
+for immediate deployment of cash - look at current interest rates (if current interest rates are high then there will be a large 
+ sell off across other asset classes like equities, land, real estate you need to be careful here because the prices keep moving 
+  down and might be locked at higher price for long time)
+similarly if interest rates are low people invest the money in other asset classes apart from bonds driving the prices higher
 
 There is STOCK and then there is Business behind the stock
 e.g: we have Apple stock and we have Apple business(FOCUS on business bcoz in the longterm stock price MUST follow Business
@@ -35,14 +43,15 @@ How much Patience? - few stocks take 5-10yrs to become multi baggers (keep udati
 
 INVEST IN YOURSELF: Read and analyse News - link it with ur investment , Books, finance Videos
 
-DON'T TIME THE MARKET - You only need to react.
-e.g: if the market falls buy stocks, if it raises bcoz of high PE and no earnings backup then sell
+DON'T TIME THE MARKET -  you can never predict the market except in certain situations like war, You only need to react
+when everyone is greedy be fearful and when everyone is fearful be greedy
+Mr.Market: every minute price keeps changing you don't have to participate in that just ignore
 
 Cash is not good investment - inflation will reduce its worth Invest in productive assets
 
-Compounding is the 8th wonder - time is the key, make the most of it by investing early
+Compounding is the 8th wonder - time is the key, make the most of it by investing early (either invest in a business or invest in 
+  a person skills)
 
-when everyone is greedy be fearful and when everyone is fearful be greedy
 
 THERE IS A DIFF between good company and good investment.
 excellent company at expensive valuation is still a bad investment
@@ -67,8 +76,14 @@ Buy Great business at fair price instead of buying fair business at a wonderful 
   if u buy a company that is generating 6% ROCE at huge discount and hold it for say 20 yrs - you will still get 6% returns
   but if u buy a company that is in your circle of competence and is generating 15% ROCE at higher price and hold it for say 
   20 yrs - it will create huge wealth
-Seize the opportunity and play big if you get wonderful businesses at great price/undervalued price
+Seize the opportunity and play big if you get wonderful businesses at great price/undervalued price - if you don't play big 
+  it is as good as not playing at all
 Always Invest in tranches bcoz we don't know if the market is gona fall further and we need to have capital to invest more
-Don't sell a quality business just to invest in a fair business at undervaluation
+Don't sell a quality business just to invest in a fair business at undervaluation(wonderful price) or just because the price is 
+ too high because few companies always trade at higher prices throughout their lifetime.
+you only need to sell a business if the management disaapoints you or economics of the business changed in a big way
 Note: when a solid company delivers poor results, news about economy/sector degrowth can be buy oppurtunities for long term investors
 try to hold quality businesses as long as possible(to get compounding effect)
+When market falls it's a happy moment because you can accumulate business or increase the ownership of the existing businesses
+  at a great price
+if you limit the no of stocks to be included you will be extra careful in selecting the businesses

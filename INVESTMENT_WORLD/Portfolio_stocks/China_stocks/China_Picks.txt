@@ -56,8 +56,9 @@ Note: funds investing in companies listed on the Hong Kong exchange or as ADRs a
 //popular ETFs
 Xtrackers Harvest CSI 300 China A ETF (Index fund) - no communication services, no consumer cyclicals
 Invesco China Technology ETF/Krane Shares CSI China Internet - 60% ADRs listed in US + 40% in Hong Kong listed securities
-iShares MSCI China ETF - 484 stocks and has the widest investment scope, covering all Chinese enterprises regardless of their 
+iShares MSCI China ETF(MCHI) - 484 stocks and has the widest investment scope, covering all Chinese enterprises regardless of their 
   listing destinations(China A shares, hong kong, ADRs).
+CQQQ - Invesco China Technology ETF
 check for technology or bluechip funds
 //research all global ETFs (pick best company and check their competettion)
 

@@ -10,11 +10,12 @@ run command echo $0 to know which language is used in the terminal
 //shell config files
 main difference with shell config files is that some are only read by "login" shells (eg. when you login from another host, 
 or login at the text console of a local unix machine). these are the ones called, say, .login or .profile or .zlogin
-config files that are read by "interactive" shells (as in, ones connected to a terminal) these are the ones with names like .bashrc, .tcshrc, .zshrc, etc.
+config files that are read by "interactive" shells (as in, ones connected to a terminal) these are the ones with names like .bashrc, 
+.tcshrc, .zshrc, etc. 
 etc folder consists of system configuration files
 /etc/profile
        The systemwide initialization file(per system and not user specific), executed for login shells
-bash_profile,bash_login, bashrc fand other bash configuration files are user specific
+bash_profile,bash_login, bashrc and other bash configuration files are user specific
 ~/.bash_profile -  file is executed ONLY ONCE when you login
        The personal initialization(per user) file, executed for login shells (e.g when u do ssh on a host)
        view: cat ~/.bash_profile
@@ -22,8 +23,19 @@ bash_profile,bash_login, bashrc fand other bash configuration files are user spe
        what to put: PATH and other important environment variables.
 ~/.bashrc - executes EVERY TIME a non-login shell is started
        The individual(per user) per-interactive-shell startup file 
-       view: cat ~/.bashrc, edit: vi ~/.bashrc, run: source ~/.bashrc
+       view: cat ~/.bashrc, edit: nano ~/.bashrc, run: source ~/.bashrc
        what to put: aliases (stuff here should be as lightweight (minimal) as possible to reduce the overhead when starting a non-login shell)
+       e.g: 
+       1)aliases
+       https://linuxize.com/post/how-to-create-bash-aliases/
+       alias alias alias_name="command_to_run"
+       2)bash functions : https://linuxize.com/post/bash-functions/
+       function mongouat() {
+            mongo "<mongo_url>"
+            echo "connecting"
+        }
+        mongouat  //or export -f mongouat if the before one didn't work
+        put the above function in bashrc file and call mongouat in terminal
 ~/.bash_logout
        The individual(per user) login shell cleanup file, executed when a login shell exits
        what to put: using "clear" command u can clear the screen when you log out.
@@ -194,3 +206,14 @@ gunzip example.gz //for compresses files
 tar cf - <directory> | gzip > <directoryName>  //creating a tar file of directory  OR tar cvfz office.tar.gz office  
 e.g: tar cf - office | gzip > office.tar.gz  //compressed file office.tar.gz will be in the same directory as that of office
 tar -zxvf example.tar.gz  //for extracting compressed tar files
+
+//shebang
+In Linux system, we have shell which interprets our UNIX commands. Now there are a number of shell in Unix system. Among them,
+ there is a shell called bash which is very very common Linux and it has a long history. This is a by default shell in Linux.
+When you write a script (collection of unix commands and so on) you have a option to specify which shell it can be used. Generally
+ you can specify which shell it would be by using Shebang(#!/bin/bash , #!/bin/sh)
+if you put #!/bin/bash in the top of your scripts then you are telling your system to use bash shell to execute it
+#!/user/bin/env bash - you can use the bash executable found in the $PATH
+When you specify #!/bin/sh then system will use it's internal system shell to interpreting your shell scripts.
+
+

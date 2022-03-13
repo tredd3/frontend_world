@@ -2,3 +2,8 @@
 Metals are commodities - used as hedge against inflation
 Copper, aluminium and steel required across green capex like electric vehicles, solar & wind 
   power and grid infrastructure
+
+//Sectors directly affected due to commodity metals price increase
+semiconductor industry 
+ electronics
+ Auto

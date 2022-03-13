@@ -106,7 +106,7 @@ A semaphore can be associated with these four buffers. The consumer and producer
 
 ***Schedulers:
 special system software which handle process scheduling.they decide which process to run and When
-**Long Term Scheduler/job scheduler: It selects processes from the job queue and loads them into memory for execution.
+**Long Term Scheduler/job scheduler: It selects processes from the job queue and loads them into ready queue(memory for execution).
 primary objective of the job scheduler is to provide a balanced mix of jobs, such as I/O bound and processor bound.
 time-sharing operating systems have no long term scheduler.
 **Short Term Scheduler/CPU scheduler/dispatchers :picks a process from ready queue and put it in run queue, so that CPU can execute it
