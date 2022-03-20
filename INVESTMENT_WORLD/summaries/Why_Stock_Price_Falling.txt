@@ -1,28 +1,27 @@
 //what to do when stock price is falling:
 Golden fact: Sometimes fundamentals and stock price move in opposite direction for short term
+
+-------------------- BASIC CHECK ----------------------
 1)stock price falls when people are selling stocks heavily(reasons can be varied like -ve sentiment, predictions, opinions, news, 
 macroeconomy concerns,year end tax selling  etc - we don't care about all these unless it drastically impacts the business, we only 
 care about FUNDAMENTALS and if they detoriorate then we need to take a call)
 US yr end tax selling: nov - dec
 Indian yr end tax selling: feb - march.
-2)what if people sell bcoz of issues in Fundamentals , i.e Earnings/Earning Potential?
+2)who is selling ?
+check promoter shareholding pattern, DII and FII share holding trend in tijori and insider trading in BSE/NSE, 
+https://www.tijorifinance.com/company/pi-industries-limited/#trend-shareholding
+https://www.screener.in/company/PIIND/consolidated/#shareholding
+https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543384/disclosures-insider-trading-2015/
+3)what if people sell bcoz of issues in Fundamentals , i.e Earnings/Earning Potential?
   Internal factors: temporary problem(can be a buy oppurtunity), permanent problem (skip), if difficult to decide the nature of
    the problem then wait and watch/monitor news etc
   External factors: then proceed with screening
   Note: There is stock and there is business behind stock(understand the business)
-  you cannot determine what's going on in the business based on share price, share price should be used to determine the gap
-    between intrinsic value and the selling price. 
   Regarding business always consider you are buying the whole business and not share of a company 
-3)check promoter shareholding pattern trend in tijori
-
--------------------- BASIC CHECK ----------------------
-
-2)Year end tax selling?
-
-3)check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB))
+Check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB))
   US stocks: Vested (ratios section) - extreme bottom
   Indian Stocks - screener top section
-4)check Intrinsic value: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
+Check Intrinsic value: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
 
 
 -------------------- DEEP CHECK ----------------------

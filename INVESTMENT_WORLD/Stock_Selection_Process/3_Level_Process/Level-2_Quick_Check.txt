@@ -7,6 +7,7 @@
 --check DON'T_BUY.txt
 --check BUY_THESE.txt
 --legal orders(confirm from wiki) and tickertape
+--corporate actions, dividend history and announcements from tickertape
 --shareholder friendly actions like buyback or continous dividend payment?
 --check shareholding pattern(especially promoter) trend over the years in tijori
   Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off

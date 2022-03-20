@@ -40,6 +40,33 @@ https://brokercheck.finra.org/ - must be a member of FINRA as well, FINRA is an 
     by making sure the securities industry operates fairly and honestly.
 
 
+//SEC important filings to read before investing in the market
+10-k : longer version of annual report
+readers of a 10-K should also pay attention to its "Item 1", which explains what the company does, who its customers are, and the 
+ primary industry in which it operates.
+pay attention to footnotes.
+
+13-F : holdings report
+
+20-F : annual report of foreign companies listed in the US
+
+10-Q: quarterly updates(Investors can use the 10-Q to observe any changes that may be taking place within the corporation even before it files its annual report.)
+
+8-K is what a company uses to disclose major developments that occur between filings of the Form 10-K or Form 10-Q. Major company 
+ events that would necessitate the filing of a Form 8-K include bankruptcies, completion of acquisition or disposition of assets,
+ or departures or appointments of executives
+
+proxy statement: investors can view the salaries of the management of a company and any other perks that a company's management is eligible for.
+
+form 3, 4, 5 - indisder trading of large shareholders (insiders might sell their shares for any number of reasons, but they buy
+  them for only one: they think the price will rise over the long term and they might know stuff that u don't)
+
+Schedule 13 D: when any owner acquires 5% or more of the voting shares in a company. Schedule 13D was designed to give individual 
+   investors warning of impending changes to corporate control that could impact the future of the company,Investors use 
+   Schedule 13D to both detect red flags in the consolidation of insider ownership that can be potentially harmful to individual
+  shareholders, but also as a possible harbinger of a company being acquired or bought out, which could benefit shareholders.
+
+
 //Reasons for investing in US/Global markets
 1)Most of the Global monopolies are in the US and one of the best growing companies are in China
 2)US is the biggest economy with 21 trillion$ GDP and china is second biggest which has the potential to become 1st

@@ -1,9 +1,9 @@
 
 --------------- Berkshire portfolio constitution, subsidiaries/Investments -------------------------
 Types of businesses: 95% businesses are classified in 3 categories
-1)consumer goods
-2)consumer services
-3)business services
+1)consumer goods - exposex to inflation
+2)consumer services - relative immune to inflation 
+3)business services - relative immune to inflation 
 
 Berkshire portfolio was a mix of 2:
 1)Growth(for capital appreciation), most of the growth firms don't generate free cash bcoz of expenses (advertisement/Capex/R&D)
@@ -107,9 +107,11 @@ Niche - Specailty chemicals - Only one company With usage in multiple industries
 //Infrastructure for Industries/Manufacturing sector:
 Rail road logistics - freight rail network covering entire US (low cost)
 Logistic services: import and export services to complex supply chain operations
-Logistics: the movement and transportation of goods by several different modes of transport including air, ocean, rail, and truck.
+Logistics: the movement/transportation of goods by different modes including air, ocean, rail, and road + warehousing (employees 
+ pack the goods in inventory and dispatch/transport)
+Logistics is a component of supply chain management
 Freight: goods transported in bulk by truck, train, ship, or aircraft.
-Package Delivery services
+Package Delivery services/courier (door delivery by picking package from from retailer/sender to public/businesses)
 
 
 //Business services

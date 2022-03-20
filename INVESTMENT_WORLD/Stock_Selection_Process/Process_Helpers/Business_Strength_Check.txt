@@ -1,14 +1,16 @@
 //Overall requirements to be satisfied by a company
 3D Visualisation Mindset: 
-  Business(including financials) -  think in a way that you will own the entire business, thing about longterm at least 10 yrs 
-  and the big picture, i.e the macroeconomic picture and oppurtunity
-  Valuation
-  stock price  - don't take decision based on Rear view mirror(stock price trend) focus on Business and Valuation(front mirror)
- 
-1)BUSINESS(high quality)
+  Stock price : you cannot determine what's going on in the business based on share price
+  price is what people are ready to pay to acquire/sell a business - you need to decide do you want to participate or stay away
+  hence, don't take decision based on Rear view mirror(stock price trend) focus on Business and Valuation(front mirror)
+  Note: use share price should be used to determine the gap between intrinsic value and the selling price. 
+
+1)BUSINESS(high quality) - think in a way that you will own/buy the entire business and not a single share. understand/analyse the 
+  big picture, i.e the macroeconomic picture and oppurtunity and sector growth oppurtunity(keeping in mind global low cost imports)
   -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
@@ -18,17 +20,19 @@
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
  Note: Quality of the business has nothing to do with the size
 2)FINANCIAL (last 10 yrs decent financials, if not does it have the potential to generate great financials for the next 10yrs)
+As a business owners we are more interested in profitability of the business i.e ROE, ROCE, ROIC, GPM(pricing power),
+ OPM(mangement efficiency) and NPM (profitability)
 3)MANAGEMENT (high quality management having a long term vision instead of short term profits) 
    No corperate governance issues
    should make the best use of cashflows
    should never hesitate to capture long term oppurtunities by spending on advertising(brand promotion), R&D(innovative products) ,
    capex(infra, upgrading machinery), technolgy(for efficiency) etc as they save taxes in short term and create wealth in the longterm
    and not focus on short term profits(like giving discounts to boost quarterly sales, take debt to buyback shares etc)
-4)VALUATION (see below) - we can pay premium to intrinsic value (but not overpay) for high quality businesses - if you don't find any
-  oppurtunity then invest in Index funds.
+4)VALUATION - how much the business is actually worth, i.e we are interested in compounding of company's earnings over the next 10 yrs
+   and discount it using current interest rates to derive intrinsic value
+  we can pay premium to intrinsic value (but not overpay) for high quality businesses - if you don't find any oppurtunity then invest in Index funds.
   if the company is excellent but available at low valuation - u need to check Why_Stock_Price_Falling.txt
   /why valuation are important?
   if you buy an extraordinary company that is over valued, then it might take a decade for the earnings to catchup to the price

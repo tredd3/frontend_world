@@ -67,20 +67,28 @@ You can check the permissions on all files and folders in the current directory 
 3)Others (everyone else)
 in UNIX, these 3 types of people are referred to using the letters U (for Owner, or User), G (for Group), and O (for Others).
 / three basic things that can be done to files or folders(directory):
-1)read: file(list the content inside a file) | directory(list the files/folders inside a directory).
+1)read: file(list the content inside a file): cat command | directory(list the files/folders inside a directory): ls command
 2)write: file(edit/delete file content) | directory(create, rename, or delete files within the directory, and modify the directory's attributes)
 3)execute: file(run the file) | directory(allows the affected user to enter the directory, and access files and directories inside)
-d	r	w	x	r	w	x	r	w	x
-    --Owner--	--Group--	--Other--
-    4   2   1
-  (2^2)(2^1)(2^0)  
+d|r	w	x|r	w	x|r	w	x
+  Owner|Group|Other
+for rwx (read, write and execute)
+    4(r)   2(w)   1(x)
+  (2^2)+(2^1)+(2^0)=7  
+ similarly for rw- (only read and write) 
+   4(r)   2(w)   1(x)
+  (2^2)+0+(2^0)=5
+ similarly for --x  (only execute)
+   4(r)   2(w)   1(x)
+  (2^2)+0+(2^0)=5
 so rwxrwxrwx is represented as 777
 chmod 777 <filename>
 d-Directory	r-Read	w-Write	x-Execute
 If any of these letters is replaced with a hyphen (-), it means that permission is not granted. For example:
 
-drwxr-xr-x
-A folder which has read, write and execute permissions for the owner, but only read and execute permissions for the group and for other users.
+drwxr-x--x
+A folder which has read, write and execute permissions for the owner, but only read and execute permissions for the group and 
+ only execute permission for other users.
 -rw-rw-rw-
 A file that can be read and written by anyone, but not executed at all.
 -rw-r--r--
