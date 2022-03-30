@@ -1,5 +1,6 @@
 ******** Basic Screening of stocks *********
 1)General
+--stock picking strategy: check Level-1_stock_picking_strategies.txt
 --Normal check on stock price since inception - google search (share price increasing or any abnormality observed)
   if a share is falling: google search why a company share is falling - check news section in morning star/ticker tape
   Also check Why_Stock_Price_Falling.txt

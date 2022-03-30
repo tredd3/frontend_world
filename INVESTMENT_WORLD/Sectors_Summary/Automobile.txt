@@ -1,9 +1,9 @@
 dependency on semiconductors and steel
 R&D heavy - need to do constant innovation
 like supporting engines for petrol blended with ethanol,
-electrical vehicles and their support, hydrogen fuel cell technology
+disruptions - electrical vehicles , hydrogen fuel cell technology, hybrid fuel engines
 Capex for manufacturing
-
+But this is the second largest industry after housing industry
 
 //Engine types
 ICE(internal combustion engines) - diesel and petrol vehicles

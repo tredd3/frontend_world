@@ -167,6 +167,10 @@ npm ls //to inspect current package/dependency versions
 npm ls <pkg> //to inspect current package/dependency versions
 npm view <pkg> [--json]// to know everything about a package
 npm show <pkg> versions //to list all the available versions of a package
+npm dedupe - resolves all of the packages dependencies on a given child module by redirecting them to the top level copy of the 
+  child module and removes all the nested copies.
+https://medium.com/learnwithrahul/understanding-npm-dependency-resolution-84a24180901b
+
 
 
 //installing and accessing dependencies/modules (both globally and locally installed)

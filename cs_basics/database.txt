@@ -53,3 +53,11 @@ on top of it apply indexing so that u can use binary search and reduce the time 
 
 //realtime listening also called tailing of database
 https://medium.com/@atharva.inamdar/understanding-mongodb-oplog-249f3996f528
+
+
+//SQL commands:
+1)update timestamp automatically:
+ALTER TABLE employee MODIFY 
+COLUMN empLoginTime 
+TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+ON UPDATE CURRENT_TIMESTAMP;  

@@ -4,6 +4,7 @@
   price is what people are ready to pay to acquire/sell a business - you need to decide do you want to participate or stay away
   hence, don't take decision based on Rear view mirror(stock price trend) focus on Business and Valuation(front mirror)
   Note: use share price should be used to determine the gap between intrinsic value and the selling price. 
+  INVESTING IS A COMBINATION OF ART + SCIENCE + Legal Work
 
 1)BUSINESS(high quality) - think in a way that you will own/buy the entire business and not a single share. understand/analyse the 
   big picture, i.e the macroeconomic picture and oppurtunity and sector growth oppurtunity(keeping in mind global low cost imports)
@@ -19,6 +20,11 @@
   -Company having calibre or potential to adapt to the changing business environment - having said that invest 
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
+  -try to to find companies operating in niche/boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability etc(which means some companies if manged well can become market leaders by 
+   capturing market share from losers/bankruptors - even a survivor for longtime can become a gem)
+   lousy industries : steel, textiles, aviation, telecom
+   highly competetive industries: auto , FMCG etc 
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
  Note: Quality of the business has nothing to do with the size
 2)FINANCIAL (last 10 yrs decent financials, if not does it have the potential to generate great financials for the next 10yrs)
@@ -92,6 +98,7 @@ Note: don't buy a turnaround just because stock price is down, own it if busines
   are stressed the better will be the recovery
   //Always prefer non cyclical or least cyclical
   cyclical + high fixed cost => DANGER as debt levels will be high, e.g: Airlines
+  Also during inflation if there is no pricing power for the company - then it will be a disaster for shareholders
   Note: Timing is everything in cyclicals
 6)asset plays(low risk, high returns) - price vs value play (balance sheet scanning is must)
    hidden assets(like extrememly profitable subsidaries or divisons) like ITC
@@ -224,9 +231,10 @@ Note: even though company has a MOAT, you always need to have the guard(YOU) ins
      the products at a lower price, if the buyer demands so, especially true for B2B suppliers OR a company in a highly competettive
      business (e-commerce, airlines) where people never want to pay premium OR if the product is a commodity (then people always 
      look for low price as value is same across producers)
+Note: Pricing power is must for capex heavy companies and companies with large amounts of debt - otherwise they can go Bankruptcy
+  and destroy shareholder's wealth
 
-
-//EARNING POWER - Internal Growth (sales growth/efficiency) + External growth(acquisitions)?
+//EARNING POWER - may be due to Internal Growth (sales growth/efficiency) OR External growth(acquisitions) OR Both
 Earning Power is the ability of the company to grow or compound its earnings every year (in the worst case keep it constant but
   then its better to hold bonds for more predicitability)
 ---SOURCE OF CAPITAL : 
@@ -239,11 +247,20 @@ Hence a company needs to do some experimentation with the products/geography or 
 2)DEBT(next preference)
 +ve scenario: Earnings increase => debt repaid => after repayment whatever company acquired using debt(brand value, building, plant 
   and machinery) will remian with the company and fetch cash forever
--ve scenario: if debt levels are very high and Earnings decrease,company need to sell assets and repay debt => Bankruptcy
+-ve scenario: if debt levels are very high and Earnings decrease because of no pricing power ,company need to sell assets and 
+ repay debt => Bankruptcy
 3)NEW EQUITY(EPS will decrease)
 +ve scenario: new equity raised is used in the best way possible (reinvesting in own buiness/M&A) => Earnings increase => EPS increase
   and hence share price increases
 -ve scenario: Earnings decrease and Total Shares outstanding increases, EPS goes down and  hence share prices crash
+
+---RETURN ON CAPITAL:
+Ideal company is the one which earns very high returns on the capital employed and 
+but if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
+Note: there are a very few companies that does this
+Hence better to take out the cash from such companies and use it acquire other businesses, if u redeploy the incremental
+  capital in a business where there are no growth oppurtunities to use that capital then its returns get hampered - exactly to avoid 
+  such case most FMCG companies distribute their profits as dividends
 
 
 ---SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 

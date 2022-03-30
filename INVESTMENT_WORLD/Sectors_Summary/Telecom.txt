@@ -14,6 +14,8 @@ Telecos heavily relies on imports - atmnirbhar bharat and PLI schemes can be gam
  The cost of data per GB (gigabyte) per month in India is the lowest in the world at USD 0.09.
  the cost per GB is still very low (USD0.70 in Bangladesh, USD1.12 in Malaysia, and USD1.23 in Thailand). This cost stands at USD8 in the US.
 Meanwhile, the cost incurred by Indian companies to maintain networks is almost similar to that of their global peers.
+No Telecom company in India has generater ROIC > WACC in the last 20 yrs
+Also after deploying 5G in the foreign countries, no telecom company has seen profits/ARPU increase bcoz of 5G services
 
 //Airtel
  has a clear focus on its high-value customers since this segment is most likely to absorb reasonable tariff hikes, there is no 

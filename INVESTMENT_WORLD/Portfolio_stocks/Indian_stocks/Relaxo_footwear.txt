@@ -1,0 +1,87 @@
+Overall: Analyse with a fraud identification mindset and not with a confirmation bias
+Business :
+Financials :
+Risks :
+Valuation :
+
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+1)PAST :
+quick check
+know about the company:
+  Nature of business: manufacturing (non-commoditised)
+  what does it produce (Product/Services Portfolio): sandals and flipflop brands
+  Target Audience : low/middle income category(100cr population, bcoz for the remaining 30 cr people lot of companies cater and 
+    there is huge competettion)
+  market size: large (most imp if a company is a monopoly)
+  market share: 10% (80% is unorganised market share, which relaxo is planning to capture)
+  REVENUE GEOGRAPHY: India 95%, Rest of the world 5%
+  Globally competetive company: NO
+why did the promoters start the business: to capture the huge oppurtunity in footwear industry where there is no established 
+  organised player who operates on scale
+any research report/youtube analysis available for the company:
+ https://www.youtube.com/watch?v=4WzVf0DZ0sI&ab_channel=EDGECommunity
+what peter lynch bucket does stock belongs to : fast growers
+
+
+2)PRESENT :
+---Sectoral analysis:
+largely unorganised Sector
+mostly companies outsource mnufacturing
+no player in india  has low cost production of product on scale 
+almost all the players except relaxo has products for high end customers
+for low end customers unorganised players 
+---Products/services DEMAND check :
+---Products/services SUPPLY check :
+--- Products/services Uniqueness check :
+
+3)FUTURE :
+---Process/Strategy check?
+--- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
+---PRICING POWER (MUST HAVE MOAT)
+---EARNING POWER 
+
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+//Financial strengths
+working capital cycle is least among peers
+consistent Returns on capital 
+use of free cash flow - in building manufacturing units (to have more control on Quality)
+//Financial weakness
+
+
+------------------------------ MANAGEMENT CHECK --------------------------------
+
+
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
+
+---Financial Risk:
+
+---Management Risk:
+
+---Investment Returns Risk:
+
+
+---------------------------------- VALUATION --------------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt

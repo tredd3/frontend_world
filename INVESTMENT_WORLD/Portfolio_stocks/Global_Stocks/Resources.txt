@@ -1,6 +1,7 @@
 //https://en.wikipedia.org/wiki/List_of_assets_owned_by_Berkshire_Hathaway
 
 concall transcripts:
+ https://app.tikr.com/stock/transcripts?cid=29096&tid=11311662&ref=yqahe1
  https://www.rev.com/blog/transcript-category/financial-transcripts/page/4
  https://seekingalpha.com/symbol/BABA - scroll to bottom for investor presentation and transcripts
 
@@ -58,6 +59,7 @@ directing their capital elsewhere.
 
 
 //Final sites to look at
+https://app.tikr.com/stock/transcripts?cid=29096&tid=11311662&ref=yqahe1
 https://seekingalpha.com/symbol/BABA - one of the best sites and a must see for all stocks
 https://www.wallstreetzen.com/stocks/us/nyse/baba/earnings - fundamental analysis and stats (no predictions only data analysis)
 https://tijorifinance.com/us/company/GOOGL/overview - for 10yr finacials and ratios
