@@ -35,3 +35,8 @@ lets say u want to override code in master with changes in refactoring_branch
 git pull (fetches and merges the remote branches with local branches)
 git checkout master
 git merge -X theirs <refactoring_branch> 
+
+//gitignore existing directory
+since existing directory is already cached in git we need to remove that
+git rm --cached <folder_to_be_added_to_gitignore>
+then make a commit and we are good to go

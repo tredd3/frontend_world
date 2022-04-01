@@ -216,4 +216,14 @@ if you put #!/bin/bash in the top of your scripts then you are telling your syst
 #!/user/bin/env bash - you can use the bash executable found in the $PATH
 When you specify #!/bin/sh then system will use it's internal system shell to interpreting your shell scripts.
 
+Steps to execute a shell script in Linux
+The procedure is as follows:
+Create a new file called demo.sh using a text editor such as nano or vi in Linux: 
+e.g: nano demo.sh
+Add the following code:
+#!/bin/bash
+echo "Hello World"
+Set the script executable permission by running chmod command in Linux: chmod +x demo.sh
+Execute a shell script in Linux: ./demo.sh OR source <path>/<shell_script.sh>
+
 
