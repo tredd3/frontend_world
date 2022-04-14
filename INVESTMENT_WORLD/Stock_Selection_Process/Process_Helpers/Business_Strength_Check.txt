@@ -24,7 +24,7 @@
    facing heavy loses and low profitability etc(which means some companies if manged well can become market leaders by 
    capturing market share from losers/bankruptors - even a survivor for longtime can become a gem)
    lousy industries : steel, textiles, aviation, telecom
-   highly competetive industries: auto , FMCG etc 
+   highly competetive industries: auto , FMCG ,cement etc 
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
  Note: Quality of the business has nothing to do with the size
 2)FINANCIAL (last 10 yrs decent financials, if not does it have the potential to generate great financials for the next 10yrs)
@@ -139,8 +139,8 @@ at profitable end of value chain), demand and supply (size of opportunity)
   Business service companies (almost every business should find its usage now or eventually)
 //Type of demand
     Infrastructure/Platform - repeat usage including subscripton models
-    continous and growing demand - volume led growth reaching to larger audience(personal care, healthcare, insurnace, 
-      real estate, home furnishing, Energy,Banking and finance)
+    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
+    insurnace, real estate, home furnishing, Energy,Banking and finance)
     continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
     Electronics, Automobile, Telecommunication)
     continous and constant/slow growth demand(FMCG, Food)
@@ -156,7 +156,7 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-product diversification - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
+1)product diversification - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
 Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
 always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
@@ -165,9 +165,10 @@ e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV 
   only based on EV exposure
 check market share trend over the years in tijori - to know how much demand is being catered by the company 
   Also to know if the company is losing the business to competetiors
-Is there any peer whose market share is higher than the current company? - great way to find a excellent competetior business
+2)Is there any peer whose market share is higher than the current company? - great way to find a excellent competetior business
 can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
-COMPETETION: Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
+POSITION IN PEERS :
+3)COMPETETION: Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
   what is the unlisted players market share?
@@ -176,10 +177,9 @@ COMPETETION: Never look for companies that doesn't have competetion, always pref
   threat of new entrants
 Note: 
  if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
- if a business is dull/not profitable then lot of capital goes away => current company that continues doing business will keep
+ if a business is dull/not profitable then lot of capital goes away => current company that survives or control expenses will keep
  gaining market share and eventually turns profitable (keep an eye)
-how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
-POSITION IN PEERS :
+4)how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 
 --- Products/services Uniqueness check :
 what makes the product or service of this company Unique?
@@ -201,7 +201,7 @@ check Management_Check.txt
 
 
 --- Sustainabile Growth of Earnings check :
-//Competettive advantage/MOAT Check? - company might not be a market leader but it should have some advantage over competetiors(MOAT)
+1)Competettive advantage/MOAT Check? - company might not be a market leader but it should have some advantage over competetiors(MOAT)
  that puts them far ahead of the competettion and make it sustain for a longterm
   Does MOAT Exists? check MOATS_check.txt
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -215,7 +215,7 @@ Note: even though company has a MOAT, you always need to have the guard(YOU) ins
    have been broken or there is something else that went wrong (weak growth oppurtunities, substitutes, bad management, costly
    acquistions)
 
-//PRICING POWER (MUST HAVE MOAT)- are people ready to pay premium (can the compnay increase the product/services prices in the cases
+2)PRICING POWER (MUST HAVE MOAT)- are people ready to pay premium (can the compnay increase the product/services prices in the cases
  like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
  business to competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
  This will happen only when :
@@ -234,34 +234,9 @@ Note: even though company has a MOAT, you always need to have the guard(YOU) ins
 Note: Pricing power is must for capex heavy companies and companies with large amounts of debt - otherwise they can go Bankruptcy
   and destroy shareholder's wealth
 
-//EARNING POWER - may be due to Internal Growth (sales growth/efficiency) OR External growth(acquisitions) OR Both
+3)EARNING POWER - may be due to Internal Growth (sales growth/efficiency) OR External growth(acquisitions) OR Both
 Earning Power is the ability of the company to grow or compound its earnings every year (in the worst case keep it constant but
   then its better to hold bonds for more predicitability)
----SOURCE OF CAPITAL : 
-EPS = Net Income(earnings)/Total Shares outstanding
-1)RETAINED EARNINGS(cheapest and most preferred) - i.e reinvest free cashflow generated by the company
-+ve scenario: Earnings increase => EPS increases => share price increases
--ve scenario: you will lose Reserves, but your Earnings will remain same => EPS remains same => share price remains constant
-most importantly it doesn't have to pay any interest , also the total number of shares outstanding doesn't change
-Hence a company needs to do some experimentation with the products/geography or try something new it is preferred to use RETAINED EARNINGS
-2)DEBT(next preference)
-+ve scenario: Earnings increase => debt repaid => after repayment whatever company acquired using debt(brand value, building, plant 
-  and machinery) will remian with the company and fetch cash forever
--ve scenario: if debt levels are very high and Earnings decrease because of no pricing power ,company need to sell assets and 
- repay debt => Bankruptcy
-3)NEW EQUITY(EPS will decrease)
-+ve scenario: new equity raised is used in the best way possible (reinvesting in own buiness/M&A) => Earnings increase => EPS increase
-  and hence share price increases
--ve scenario: Earnings decrease and Total Shares outstanding increases, EPS goes down and  hence share prices crash
-
----RETURN ON CAPITAL:
-Ideal company is the one which earns very high returns on the capital employed and 
-but if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
-Note: there are a very few companies that does this
-Hence better to take out the cash from such companies and use it acquire other businesses, if u redeploy the incremental
-  capital in a business where there are no growth oppurtunities to use that capital then its returns get hampered - exactly to avoid 
-  such case most FMCG companies distribute their profits as dividends
-
 
 ---SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
       sustainable or not
@@ -270,7 +245,7 @@ Earnings can come from =>  Sales led Growth OR Company Synergy and Efficiency le
 Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
   low CCC(less time taken to generate profits) is preferred
 
-1)INTERNAL GROWTH OPPURTUNITIES
+i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /Acquire new customers in untapped and rural areas
@@ -306,7 +281,7 @@ Pro Tip: if all Peers are equally profitable and equally effecient then low WC/s
     But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
     on making the firm efficient or not apart from focusing on sales
 
-2)EXTERNAL: GROWTH OPPURTUNITIES
+ii)EXTERNAL: GROWTH OPPURTUNITIES
   /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
     key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
     areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
@@ -323,7 +298,6 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    opts and invests the capital in external growth oppurtunity instead, say acquisition then its cashflow grows by 50% then it
    is a no brainer to allocate capital for external growth opportunity by the Management
 
-
 ---Combination of MOATS and Growth Oppurtunities
 /Preferred Investment: Both MOATS and Growth oppurtunities need to exist for capital appreciation
 /Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
@@ -331,3 +305,28 @@ market share soon - need to monitor closely
 /Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
 you can use the cash to buy other growth and non-growth businesses) 
 Note: Don't forget to compare dividend yield with FD interest rates
+
+---SOURCE OF CAPITAL : 
+EPS = Net Income(earnings)/Total Shares outstanding
+1)RETAINED EARNINGS(cheapest and most preferred) - i.e reinvest free cashflow generated by the company
++ve scenario: Earnings increase => EPS increases => share price increases
+-ve scenario: you will lose Reserves, but your Earnings will remain same => EPS remains same => share price remains constant
+most importantly it doesn't have to pay any interest , also the total number of shares outstanding doesn't change
+Hence a company needs to do some experimentation with the products/geography or try something new it is preferred to use RETAINED EARNINGS
+2)DEBT(next preference)
++ve scenario: Earnings increase => debt repaid => after repayment whatever company acquired using debt(brand value, building, plant 
+  and machinery) will remian with the company and fetch cash forever
+-ve scenario: if debt levels are very high and Earnings decrease because of no pricing power ,company need to sell assets and 
+ repay debt => Bankruptcy
+3)NEW EQUITY(EPS will decrease)
++ve scenario: new equity raised is used in the best way possible (reinvesting in own buiness/M&A) => Earnings increase => EPS increase
+  and hence share price increases
+-ve scenario: Earnings decrease and Total Shares outstanding increases, EPS goes down and  hence share prices crash
+
+---RETURN ON CAPITAL:
+Ideal company is the one which earns very high returns on the capital employed and 
+but if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
+Note: there are a very few companies that does this
+Hence better to take out the cash from such companies and use it acquire other businesses, if u redeploy the incremental
+  capital in a business where there are no growth oppurtunities to use that capital then its returns get hampered - exactly to avoid 
+  such case most FMCG companies distribute their profits as dividends

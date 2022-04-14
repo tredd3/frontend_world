@@ -1,0 +1,191 @@
+Overall: Analyse with a fraud identification mindset and not with a confirmation bias
+Business :
+Financials :
+Risks :
+Valuation :
+
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+Investor presentation for reference: 
+1)PAST :
+quick check
+know about the company:
+  Nature of business: business services
+  what does it do (Product/Services Portfolio/business verticals): advanced digital maps, web mapping(plotting geospatial data, i.e
+    data related to a specific location on map), location-based IoT (telematics), Navigation, Tracking and geospatial analytics
+    THE MOAT FOR THE COMPANY IS THE BORING BUSINESS OF Generating(collect+update) HUGE GEOSPATIAL DATA using Technology (hardware + software)
+    Data Acquisition and Processing: field team does this with the help of survey system which is engineered with multiple sensors
+     like lidar, cameras mounted on car, GPS, drones etc. core data is maintained in a proprietary format , which makes it 
+     easy for us to convert core maps into customer-specific formats.
+    IF IT TAKES A LOT OF YEARS TO GET RELIABLE AND PRECISE DATA - this will be a super duper MOAT
+  1)Maas(map as a service): Digital maps of the company are used in navigation by client like autos
+  2)Saas(software as a service): client subscribe to the software provided by the company
+  MapmyIndia's may ready Data Catalogue Data-as-a-Service : Powering your Geobusiness Analytics with continuously updated, reliable
+    and industry-specific data that is clean.
+  Custom Solutions for complex business requirements built on our/your location data
+  3)Paas(platform as a service): APIs of digital maps by the company an be integrated easily in the software of a client
+    APIs - Our directory of APIs & SDKs for maps, routes, search, geo-code and reverse geo-code live tracking, route optimisation, 
+      analytics, navigation
+    E.g: MapmyIndia’s Location APIs answer location queries in real-time for Alexa users
+    Global APIs for 238 nations, Route Optimisation APIs and SDKs
+    AI-powered image analysis APIs, SDKs, plugins and widgets
+  Subsidaries/JVs:
+    Vidteq : Technology and Product Company and in the field of Navigation, Mapping, Location and Local Search. We provide Video 
+    Directions (based on our VideoMap technology).
+    Gtropy : solutions for every Industry type in the Logistics domain that help in the management of Logistics Operations, 
+    Passenger Transportation, Fleet Management, Supply & Distribution as well as pickup and drop services.
+  Target Audience : B2B, B2B2C including new age tech, automotive OEMs, businesses, govt, app developers and consumers
+    unlike Google which is a B2C service and it is for free
+  market size: huge
+  market share: 
+     95% market share on GPS navigation in India
+     80% market share in the location intelligence space
+     80-90% market share in the automotive sector
+  Presence : 
+    headquartered at New Delhi with regional offices in Mumbai and Bengaluru and smaller offices across India.
+     international offices in the San Francisco Bay Area and Tokyo.
+  Globally competetive company: NO
+  REVENUE GEOGRAPHY: India 100%
+  Revenue Model: 
+    subscription fees, Annuities of licenses and Royalties
+    Automotive OEMs (52.5% of revenue) and Customer-tech and Enterprises (47.5%)
+    10% direct business from Govt , max will restrict it to 20% - part of C&E
+  Clients(Important ones): Apple, Hyundai, Benz, Amazo-alexa, Facebook, Uber Mcdonalds, HDFC, Airtel , Flipkart, yulu, ISRO,
+   GSTN by Govt of india
+   Serviced 2,000+ enterprise customers since inception
+   500+ customers on Saas,Paas and Maas platforms
+promoters:
+flipkart acquired 34% stake in the company for 1600 cr ,i.e for 4700cr valuation - now the valuation has doubled
+why did the promoters start the business: envisoned that siginificant % of all data would have a location dimension to it
+any research report/youtube analysis available for the company: 
+what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
+
+
+2)PRESENT :
+---Sectoral analysis: niche sector 
+
+---Products/services DEMAND check : almost every industry today needs map Services
+Automotive: navigation and maps in 2W, PV, CV - also self driven cars need accurate location data 
+Food delivery: address intelligence, last mile delivery tracking
+E-commerce: long haul first mile and last mile delivery tracking;
+Drone services: fly zone data, accurate and precise location data
+Healthcare and Pharma: distribution and logistics of medical goods, indoor mapping of plants, GPS tracking for ambulance
+BFSI: geo verification and onboarding, usage based auto insurance, geo CRM for sales, claims and collection agents;
+Retail and QSR: location enabled online e-commerce, location based digital advertising
+Telecom and Utilities: field force monitoring, optical fibre mapping and distribution analytics;
+Transportation and Logistics: fleet and asset tracking, transportation data, truck routing solutions, driver safety, route risk assessment;
+Government: Geo tagging of public assets for repair and overhaul; for example, gas pipeline, water pipeline; emergency response, smart city, taxation;
+Railways and waterways: network and route mapping; tracking of fleet
+Forest department: geo tagging and digital mapping
+
+---Products/services SUPPLY check :
+Company services:
+  i)The maps are generated in 2D, 3D, 4D and HD and are updated using AI and analytics. They not just show the traffic but also show the safety
+  ii)data collected from multiple sources , including ISRO satellite images => analytics on data => represent them on digital map
+  large amount of the map dataset is proprietary - the company has built comprehensive, accurate and feature enriched map datasets.
+  These maps are professionally curated, continuously updated and used in navigation, telematics and location based services. 
+  iii)granular/precise data useful for hyperlocal navigation and continous update of data
+  iv)RealView is India’s first and only Street Imagery Service, captured by high end cameras , businesses and govt can use this data
+   for analysing and decision making
+  v)HD maps create a 3D view of their environment that are accurate at a centimetre level - Specifically designed for self-driving 
+    cars, we offer comprehensive, accurate and updated HD maps. 
+  vi)workmate - location based employee tracking, work assignment and management
+--- Products/services Uniqueness check :
+what makes the product or service of this company Unique?
+1)We use Google maps to see the distance and traffic. But, MapmyIndia has demographic data which can be used by the likes of Zomato 
+  to get a better sense of no of employees to be recruited in a given area based on demography or by banks to understand where to open ATMs.
+  Note: Demographic information examples include: age, race, ethnicity, gender, marital status, income, education, and employment. 
+2)Google is a giant. It is into many businesses including autos. Obviously, Hyundai and MG Hector won’t use Google Maps as they
+   perceive Google as a threat. Here comes MapmyIndia in picture
+3) provides more granularity details of location which is used for hyperlocal navigation(door delivery in remote areas) - this is
+ in collaboration with ISRO , since MapmyIndia is a Indian origin company they have the previlege to access the data, unlike 
+ Google with which ISRO might not share the data bcoz of security issues
+
+3)FUTURE :
+---Process/Strategy check?
+--- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
+//Growth oppurtunities
+1)Macroeconomic:
+ huge addressable market (47000 cr as per Frost and Sullivan's report)
+2)Internal:
+3)Tailwinds: 
+//Moats:
+Economises of Scale - high operating leverage , any new client addition contributions will go staright to PAT
+Trust - People won't trust Google as it advertises the data, whereas MapmyIndia claims that it never use data of
+    customer and maintains the confidentiality!
+Entry barriers for global players - due to confidentiality of data
+foreign entities are restricted due to vehicle based or street view surveys, acquiring, re-selling granular geospatial data and 
+ restricting the data to pass through their severs. Hence indian entities becomes a preffered player
+Entry barriers for new entrants - MapmyIndia has built proprietary technology over 25 years and built ground validated geospatial 
+ databases of large countries like India may be difficult to replicate by a new entrant in a short period of time.
+---PRICING POWER (MUST HAVE MOAT)
+---EARNING POWER 
+
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) - mix of lousy and niche industry
+  -proxy play on some capital intensive/debt heavy/lousy industry ? Yes on Auto and logistics, e-commerce, online delivery etc
+   very imp to check the competetiors and the uniqueness of the company bcoz if it is in highly competettive industry with no
+   uniqueness it will not have pricing power as well and can easily lose business to competetiors, bcoz the customers of the 
+   current company want to cut costs and hence they will choose competetiors providing business for less value
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+//Financial strengths 
+ operating leverage(the cost of collecting, updating and analysing data is fixed)
+//Financial weakness
+ significant other income compared to operating profit
+
+------------------------------ MANAGEMENT CHECK --------------------------------
+Longterm Vision: MapmyIndia is working towards solving the unstructured address system with Digital Addressing system called 
+  eLocation, will become the backbone of the location-based solution. The vision is to move from 2D/3D maps based solutions to 
+  a real-time Digital Twin of the country.
+Skillset: Promoters have good technical and management background (IITs and foreign MBAs)
+
+
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
+1)high concentration of automotive clients
+2)The entire geospatial space was liberalized by govt This will cause more competition in future
+New Indian players can enter in to this but lot of data gathering is involved - so we need to keep monitor this space
+any company that can collect comprehensive and accurate data and develop better systems to present 
+it on maps can win : but this just web mapping and MapmyIndia is offering other services too
+There are roughly 100 companies that are in to map/location related services - but there is no strong competetior to mapmy india 
+  interms of holistic range of services they provide
+3)MapymyIndia services can be replaced by other company services if proven better - As maympindia makes other companies efficient
+you need to track its clients for investing oppurtunities and see if they are streamlining their Operations and becoming more efficient
+4)unpredictable: addressable market is huge, they have a first mover advantage but customers need to be educated to use mapymyindia
+  which means there is still a longway to go. if competetior comes in at some later point he can capture the market and take away
+  market share just like PAYTM bust.However unlike PAYTM, Maymyindia is not burning cash to acquire customers - it is burning cash on 
+  technology upgrades which adds value to customers and attract them more
+5)cybersecurity risk: as all the operations are data based
+
+---Financial Risk:
+Consistent R&D is required to keep with tech changes and innovate, any laxness on this end will cause damage to existing customer relationships.
+continous Investments on technology to make it more competettive
+
+---Management Risk:
+CTO is a chemical engineer - whereas company is using all the latest technologies
+
+
+---Investment Returns Risk:
+
+
+---------------------------------- VALUATION --------------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt

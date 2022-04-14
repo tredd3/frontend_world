@@ -2,21 +2,25 @@
 --------------------------------- RISKS --------------------------------------
 ---Business Risk:
 Also check RHP/DRHP to see the risks mentioned by the management
-competetive risk - threat from existing players or new entrants 
-pricing power risk
+competetive risk - threat from existing players or new entrants both local /global
+ i.e if the competetitors have enough money can they replace this business and snatch the market share and profits from the company
+pricing power risk - during inflation company cannot pass on the price
 sector innovation risk (EV,5G)
 less market size
-substitution risk - mainly for chemical/technology
+substitution risk - mainly for chemical/pharma/technology
+commoditised risk - business becoming commodity type(no value addition hence products can be easily copied) - you will lose margins and pricing power
 low cost imports risk
 legal/scams Risk
 regulatory risk/govt policy risk - power sector(controlling prices),allow imports without anti-dumping duty(chemicals,textiles)
-business becoming commodity type(no value addition hence products can be easily copied) - you will lose margins and pricing power
+diworsification risk - if the company keeps acquiring businesses for non-strategic reasons
 
 
 ---Financial Risk:
-high Debt - can lead to bankruptcy during bear cycle
-continous upgradation capex - low returns for shareholders
-high spend on R&D - can lead to bankruptcy
+high Debt - can lead to bankruptcy during inflation/recession times, especially if the company has no pricing power
+continous upgradation capex - low returns for shareholders (Aviation,Telecom)
+high spend on R&D - can lead to bankruptcy, if R&D spend as a % of sales is higher and keeps increasing over time
+increasing other income /non-core income - company business might be down or management focusing on non-core activities
+
 
 ---Management Risk
 old management, with no succession plan
@@ -24,6 +28,8 @@ fraud - related party transactions to the companies in which management/promoter
 not focusing on core business, trying to diworsify
 not focusing on share holders
 irrelevant skills / experience
+short term mindset - management needs to focus on longterm benfits instead of short term profits
+
 
 ---Investment Returns Risk:
 1)Loss of Capital

@@ -2,7 +2,7 @@
 GOLDEN RULES:
 Valuation keeps changing every year - as the business grows or shrinks
 Valuation is very tricky as well as it depends on individual perception
-1)Talk about valuations only if Business QUALITY is good , else no point in buying the company as iam a longterm investor
+1)Talk about valuations only if Business QUALITY is good , else no point in buying the company as a longterm investor
 2)Don't overpay: Even if a company has DCA, if you buy at high price the returns will be like a mediocre company
 3)if a company has wide MOATS(must have, otherwise profits are not sustainable in the future) clubbed with high ROCE and high free 
 cash flow(generally non-growth generates high free cash and very few growth companies generate free cash) then we can pay 
@@ -14,9 +14,33 @@ Note: if inflation increases and central banks increase interest rates to curb i
 4)PRICE and VALUATION - both are not same
 if Share price of a company increases at slower rate but earnings increase at higher rate then - Low Valuation
 if Share price of a company decreases at certain rate but earnings decrease at higher rate then - High Valuation
+5)There's no one method that's best suited for every situation. Each stock is different, and each industry or sector
+ has unique characteristics that may require multiple valuation methods.
 
 
-*VALUATION RATIOS - talk about valuations only if business and management analysis is positive
+//Valuation Terminology:
+*capital: equity +debt
+*Fair value= Free cash flows/(rate-growth)
+*Discount Rate = minimum expected return rate per year by the company for infinite period (WACC is generally used)
+*WACC is the minimum required return for a firm (expected equity returns by shareholder is roughly 14% + debt cost is the interest rate at which company took the loan)
+companies always target to earn more returns than WACC
+go through EY, BCG,Chief Economic Advisor reports on sector growth. expected sector growth should be >= WACC
+*Benchmark rates: 
+low risk = 6%(govt 10 yr bond yield)
+Medium	risk = 15%(Nifty)
+High risk= > 20%(individual stocks/sectors/MFs etc) 
+*Enterprise value(EV) is a more accurate measure of a company's real worth because it takes into consideration its debt obligations. 
+EV = market_cap +  outstanding preferred stock + all debt(short and long term) - all of its cash and cash equivalents.
+i.e if u want to buy a company, u need to pay the shareholders, lenders. However u will get the cash held by company
+
+
+--------------------- VALUATION RATIOS (Relative Valuation)-------------------------
+Note: 
+compare valuation ratios of the company with other companies in the SAME sector and same industry ,also of same size to know
+the actual value/performance compared to peers .
+P/E of similar companies (ICICI, HDFC but don’t compare ICICI with Dena bcoz of diff in scale, area of operation,
+ products ,management etc )
+
 1)PE < 25(govt 10 yr bond yield) ? 
 High P/E => earnings may be less due to recession or one time costs OR market is paying premium as they believe earnings will increase at a faster rate
 check PEG to confirm , premium is justified only when PEG < 2
@@ -29,11 +53,12 @@ PE < 5yr median PE? also check the historical PE range (most reliable approach f
 PEG ratio: 
 -find out the earnings growth rate and check if they are releastic (check source of earnings section in FUTURE)
 2)PB: 
-Note: imp for capex intensive(fixed assets - old value) and financial firms(liquid assets - current value),makes less sense for service based companies
+Note: imp for capex intensive like utilities(fixed assets - old value) and financial firms(liquid assets - current value),
+  this parameter makes less sense for service based companies
 Also don't forget to look at goodwill when you are valueing a firm based on PB value
 Bargain: if ROE is consistently high(i.e equity/book value is increasing) and PB value is less compared to peers
 PB - NA for a B2C company,if PB is applicable check ROA
-3)EV/EBITDA or EV/EBIT:
+3)EV/EBITDA or EV/EBIT: for capex heavy companies where depreciation eats a lot of revenue
 EV/EBITDA < 10 - excellent company
 EV/EBITDA < 14 - can be considered
 EV/EBITDA > 14 - high valuation
@@ -42,9 +67,18 @@ cash return: free cashflow as a % of EV?
 EV= market_cap + long_term debt - cash
 compare this yield/cash_return with longterm bonds/FDs => if it is almost similar and the earnings of the company is bound to grow
 hence better to invest in the company else invest in the FDs or bonds
+4)price to sales: for new age companies that are not yet profitable
+5)Market cap to free cash flow - FMCG and mature companies generating lot of cash
+MCAP/FCF is 10 meaning you get your money back in 10 yrs and rest of your life you are getting things for free
+6)Dividend yield > bank interest rates (6%) - if investing for dividends
+check dividend payout ratio and cash flow analysis to check what part of cash is dividends
+dividend payout ratio is the ratio of the total amount of dividends paid out to shareholders relative to the net income of the company
+Dividend yield  = dividend_amount/share_price * 100
+7)compare market cap with total cash(cash+cash equivalents - total debt)
+if total cash > market cap OR total cash = 30% or market cap (then you are technically getting the share at 70% of share price)
 
 
-------------------- INTRINSIC Value Importance and Calculation ------------------
+------------------- INTRINSIC Value Importance and Calculation (Absolute Valuation) ------------------
 //Problem with valuation ratios :
 1)they are relative - i.e they are least useful if used alone and are generally used to compare with peers
 2)They don't tell anything about value(i.e how much the firm is actually worth) - ratios are based on price and they only 
@@ -57,19 +91,46 @@ overvalued/undervalued by comparing ratios with peers.
 4)Book value in PB can go down significantly as the assets value decreases when company files for bankruptcy. so if u think u are getting 
 high value assets at lower price (P/B < 1) then always check what is there on the asset side(natural resources like land, gold, silver,
 oil etc is fine but random real estate, machinery, inventory values can down significantly during auction)
+*** Hence finding intrinsic value is imp or valuing companies based on cashflows comes in the picture
 
-
-// hence finding intrinsic value is imp or valuing companies based on cashflows comes in the picture
+//DCF valuation for the entire company 
 If cash flow regular? 
-  calculate DCF valuation : 
+    Based on Earnings: calculate earnings after 10yrs  based on the previous 10yr earnings growth rate, now multiply the predicted
+      earnings with estimated PE to get the estimated market_cap. Now calculate the rate at which the current market cap grows
+       to achieve the estimated marketcap in next 10yrs. if it < 15% then better to invest in index funds
+    Based on Cashflow: same as above replace earnings with cashflow and PE with MCAP/FCF
     Calculator:https://docs.google.com/spreadsheets/d/1MuOiZa6lAnofjJcGEBPVoiZuNG-mGE3Eo4DWu3hdQF8/edit#gid=0
     Register: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
       Market cap < DCF valuation, both PE and earnings are less?, check valuation ratios - stock undervalued, hence buy it
       Market cap ~= DCF - fairly valued, check valuation ratios
       Market cap > DCF - stock overvalued (put in watchlist and do averaging down/up based on the company)
-  also check price to cash_flow /price to free cash_flow
 Else 
-	buy based on relative valuations mentioned in advanced/company_valuation.txt
+	buy based on relative valuations mentioned above
+
+//DCF valuation for each segment of the company - if company has multiple business segments/divisons OR SUBSIDARIES
+then valuation of each segment/each subsidary needs to be combined to arrive at the overall valuation of the company 
+For e.g: facebook advertising business itself is worth the whole market cap
+meaning u get the metaverse business for free
+
+
+//Industry Growth rate related
+Assume that auto sales will increase 10% every year , you get the final number 
+For e.g: say that the total market size for Auto sales  in FY25 or 5 yrs down the line == 100 billion 
+Now Maruti suziki which has 40% market share , will have the revenue of 40 billion (Assuming it retains market share)
+NPM of Maruti is say 20% meaning 20% of 40 billion == 8 billion (net profit)
+PE or historical PE == 40
+now expected market cap = Net Income * PE = 8*40 = 320 billion 
+current market cap = say 100 billion
+You need to calculate the rate, to know at what % CAGR your money will grow assuming you bought the whole company at 100 billion 
+and held it for 4yrs till it reaches 320 billion.
+Note: if this rate is < 15% then index funds are the best option for now else u can invest in the company if rate > 15%
+
+
+//Macroeconomic oppurtunity
+Lets say IEX has just 5% of total electricity trade flowing through its servers.
+Even if that becomes 30% (bcoz of unorganised to organised shift) then IEX profits will become 6 times
+Expected MCAP will become = 6*current profit * PE (after this same calculation will apply)
+Now the stock will respond accordingly making it a multibagger
 
 
 ------------------- INTRINSIC Value Verification ------------------

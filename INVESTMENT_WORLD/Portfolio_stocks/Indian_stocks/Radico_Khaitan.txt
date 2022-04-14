@@ -9,26 +9,57 @@ Investor presentation for reference:
 1)PAST :
 quick check
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  what does it do (Product/Services Portfolio/business verticals): 
-
+  Nature of business: consumer goods(veblen goods)
+     limited edition - hence they are expensive - ironically demand also increases with price
+  what does it do (Product/Services Portfolio/business verticals): Alcoholic Beverages
+  Rampur plant : grain , molasses ENA, malt spirit
+    100% self sufficient on its power requirements => effluents(liquid discharge) => biogas => power
+    conversion of Rampur existing 140 KLPD molasses plant into dual feed (extract ENA/Extra-Neutral Alcohol(ethanol of 96% purity)
+       from both molasses and grains - broken rice, wheat, maize)
+    grain ENA production at the Rampur campus will increase from 100 KLPD to ~260 KLPD
+    malt maturation => to be used in niche premium brands
+  Sitapur campus: grain based distillery
+    100% self sufficient on its power requirements using bio fuels from the inception
+    producing 350 KLPD of ENA
+    Bottling capacity of 10 million cases each of IMFL and CL to be set up in phased manner
+    Malt maturation hall keeping in view the future growth potential of Rampur Indian Single Malt
+    Given the ample land, this campus will have a scope to double its capacity in the future, including additional malt 
+    distillation and craft gin plant
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small
-  market share: 
+  market share: continous increase in market share from  2016
+  whisky : 5%
+  brandy : 7%
+  vodka : 53%
+  Rum : 4% 
   Presence : offices in India /US etc
+   plants in UP 
   Globally competetive company: NO
   REVENUE GEOGRAPHY: India 100%
   Revenue Model: 
+    IMFL : 80% (premium)
   Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
-what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
+what peter lynch bucket does stock belongs to : stalwarts/fast growers
 
 
 2)PRESENT :
 ---Sectoral analysis:
+alcohol per capita consumption : 5.9 litres per litres per year
+EUROPE: 12 L
+US: 9L
+China: 7.5L
+
+Whisky consumption is 75% of the total consumption
+consolidation of industry - 15 players remaining
+difficult to build economies of scale as prices varies bcoz of tax rate change according to states
+7 states - pricing power
+2 states - banned
+12 states - state govt controls the pricing
+5 states - need to negotiate 
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -40,13 +71,19 @@ at profitable end of value chain), demand and supply (size of opportunity)
 ---Products/services DEMAND check :
 //From where does the demand come? 
 //Type of demand
-//Market size/Oppurtunity:
+//Market size/Oppurtunity: huge
 
 ---Products/services SUPPLY check :
 //product portfolio :
+regular - 
+prestige and above - premium
+The Company launched ten new brands over the past decade. Of these new brands, nine brands are in the premium category.
+
 //Is there any peer whose market share is higher than the current company? 
 POSITION IN PEERS :
+
 //COMPETETION :
+
 //how do peers provide competetion :
 
 --- Products/services Uniqueness check :
@@ -57,24 +94,24 @@ what makes the product or service of this company Unique?
 ---Process/Strategy check?
 --- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
 1)Competettive advantage/MOAT Check?
-Economises of Scale
-Low cost producer
+Economises of Scale - N
+Low cost producer - N
 Brand
 Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
+Entry barriers - difficult to get license from state govt, no alcohol drink advertising allowed, 
 Luxury/Premium Range
 2)PRICING POWER (MUST HAVE MOAT)
+very high - people don't mind spendinging as alcohol is either consumed in group or in parties
 3)EARNING POWER 
 //SOURCE OF EARNINGS
 --Internal Growth oppurtunities
-
+CSD canteen demand - no foreign liquor allowed, hence this a strongest MOAT
+export growth oppurtunities
+focus on high margin/premium products
 --External Growth oppurtunities
 Macroeconomic
 Tailwinds
-//SOURCE OF CAPITAL
+//SOURCE OF CAPITAL : reserves
 //RETURN ON CAPITAL
 
 
@@ -99,6 +136,8 @@ Tailwinds
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt
 //Financial strengths
+No margin impact - due to Premiumisation and in-house ENA production
+expenses - 7% of sales in brand building
 //Financial weakness
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
@@ -106,8 +145,18 @@ check Financial_Strength_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+1)Lower than anticipated sugarcane production and/or any sharp rise in prices of molasses or grains or of ENA could have an impact
+ on the company’s profitability. 
+ However, the company maintains a sizable inventory of molasses which insulates it against short and medium term fluctuations in molasses prices.
+2)ENA prices may also increase due its alternative uses, especially in ethanol blending and a more attractive price offered by the petrochemical industry. 
+ However, the company’s capability to shift to a grain-based distillery insulates it against any significant increase in prices of 
+ molasses.
+ Further, RKL has flexibility to shift its production between grains and molasses with change in prices of each.
+2)Liquor ban might be a risk - highly regulated industry
+
 
 ---Financial Risk:
+high tax rates
 
 ---Management Risk:
 

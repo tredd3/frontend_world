@@ -1,7 +1,8 @@
 Utilities - highly regulated sector with commodity type behaviour
-Industry: electricity, water
+Industry: electricity, water, gas
 highly regulated sector with constant demand hence it fetches guaranteed but low fixed income(i.e steady cashflows)
-highly competetive(low margins) - commodity industry(no pricing power) - high fixed costs(high debt)
+highly competetive(low margins) - commodity industry(no pricing power bcoz govt decides whether the increased fuel and operating 
+  prices needs to be passed on to customer or not) - high fixed costs(high debt will ve a problem)
 electricity - generation, tranmission and distribution
 /Generation - input:coal/gas/uranium/sunlight/wind/water output:electricity, deregulated, low entry barriers, low margins because
  of competettion and high operating leverage(high fixed costs, only fuel is the variable cost)
@@ -12,6 +13,7 @@ Note: wireless transmission is a game changer in this industry but is difficult 
 interms of wide Moats distribution > transmission > generation
 Summary: low margins either because of regualtion or competettion
 
+
 Regulations:
 state govt regulates structure,costs,competettion of the companies => regulation means low and steady margins
 environmental agency regulates the amount of emission by power plants(mainly for coal/thermal plants) - companies must spend on
@@ -20,18 +22,26 @@ nuclear agency regulates the nuclear power plants
 Note: Regulated companies are safe heavens, deregulation is positive interms of pricing power but negative interms of competetion 
 considering its a commodity industry with low entry barriers
 
+
 Financials:
 even though financial are positive they are very less making it less attractive for investors
 Don't invest assuming that steady cash flow yields dividends bcoz most companies have high debt
 high debt for most companies => all the steady cashflows are used in interest payment
 if dividend yield is ridiculosly high => stock price is falling and company is in trouble
+Look at the price to book value if the company is trading below its assets value
+
 
 Look for :
 companies with low debt, stablitiy in financials, operating in stable regulatory environments(i.e having monopoly/less competetion)
-and companies that stay focused on its core business rather than entering in to other ventures that are out of its expertise, bcoz
-this can lead to bankruptcy.
+companies that stay focused on its core business rather than entering in to other ventures that are out of its expertise, bcoz
+ this can lead to bankruptcy.
+If the company has heavy debts then it should be a long term, debt check annual report footnotes - Also company should make enough
+ operating profits to service the interest
 Especially if u r buy Utility company for dividends make sure to check their debt position and their payout ratio and 
 dividend paying history for last 10 yrs
-If a utility company is owned and controlled by Govt then generating ROIC > WACC if near to
- impossible(no indian company has done it so far). However if the sector is privatised then 
- we can think of owning it like Berkshire Energy
+If a utility company is owned and controlled by Govt then generating ROIC > WACC if near to impossible(no indian company has done 
+it so far). However if the sector is privatised then we can think of owning it like Berkshire Energy
+Power plants geographical location, condition and stability is very important - look at the accidents that happened and how the 
+  company handled it or bounced back from situation
+Cost of 1 unit of electricity/1l of gas compared to peers - low is preferred
+Increasing capcity to cater to high demand is always positive - so expanding capex is good in the long run

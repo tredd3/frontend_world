@@ -40,3 +40,20 @@ git merge -X theirs <refactoring_branch>
 since existing directory is already cached in git we need to remove that
 git rm --cached <folder_to_be_added_to_gitignore>
 then make a commit and we are good to go
+
+//add tag
+https://devconnected.com/how-to-create-git-tags/#:~:text=In%20order%20to%20create%20a,that%20you%20want%20to%20create.&text=As%20an%20example%2C%20let's%20say,command%20and%20specify%20the%20tagname.
+
+
+//checkout tag
+https://devconnected.com/how-to-checkout-git-tags/
+git checkout tags/<tag> -b <branch>
+git checkout tags/v1.0 -b v1.0-branch
+
+
+//delete tagging 
+git tag -d <tag_name>
+git push --delete origin tagname
+e.g: 
+git tag -d v1.0
+git push --delete origin v1.0

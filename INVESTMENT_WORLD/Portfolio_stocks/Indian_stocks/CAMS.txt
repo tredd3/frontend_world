@@ -22,6 +22,11 @@ know about the company:
     5)Banking and Non Banking Services Business - They also assist with loan application processing and loan disbursement. CAMS also offers with managing the operations of bank’s processing centers.
     6)KYC Registration Agency Business - maintains KYC records of investors on behalf of capital market intermediaries registered with SEBI.
     7)Software Solution Business - owns, develops, and maintains the technology solutions for mutual fund clients.
+  Subsidaries/JVs:
+   CAMSKRA - kyc services
+   CAMSREP - Insurance Repository & Services
+   sterling software - Software Development (fintech)
+   CAMS finserv - Account Aggregator
   Target Audience : AMCs, Insurance companies, PMS, AIF etc
   market size: huge (services to 16 out of 41 AMCs in india, 22 by KARVY/Kfintech)
   market share: 70% of total AAUM in the country (roughly 19 lakh crore)
@@ -81,6 +86,19 @@ Entry barriers: because of switching costs, also MF RTA business is technology i
 
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs
+  -Competes on value rather than price 
+  -prefer high margin non commoditized business
+  -lousy industry - company does lot of backoffice and repetettive tasks
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution: +ve
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health: +ve
+   Governance: Superior Management and board of directors: +ve experienced management 
+  -Scalable business model - not globally but within indian finacial sector space
+  -Company having calibre or potential to adapt to the changing business environment - yes it actually helps clients/businesses 
+    to achieve that
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+    yes it does havd a lot of Tailwinds and macroeconomic oppurtunity
 
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
@@ -95,7 +113,7 @@ asset light business model
 low sales growth
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
-promoters:
+promoters: shareholding decreasing over the years
 
 
 ----------------------------------- RISKS ----------------------------------------
@@ -116,7 +134,7 @@ Company handles confidential data – personal and financial information of clie
 
 ---Management Risk:
 
----Investment Returns Risk:
+---Investment Returns Risk: None
 
 
 ---------------------------------- VALUATION --------------------------------------

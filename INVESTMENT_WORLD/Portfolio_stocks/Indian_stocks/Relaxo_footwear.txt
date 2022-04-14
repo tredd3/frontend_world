@@ -30,15 +30,51 @@ mostly companies outsource mnufacturing
 no player in india  has low cost production of product on scale 
 almost all the players except relaxo has products for high end customers
 for low end customers unorganised players 
+footwear per capita comsumption is 1.9 in india (world average is 3)
+i.e per person we have only 2 pairs in india
 ---Products/services DEMAND check :
+//From where does the demand come? 
+//Type of demand
+//Market size/Oppurtunity: huge
+
 ---Products/services SUPPLY check :
+//product portfolio :
+regular(non-premium OR mass market) - yes (it plays on volumes)
+
+//Is there any peer whose market share is higher than the current company? 
+POSITION IN PEERS :
+
+//COMPETETION :
+Avg selling price of metro brands : 1348, Bata : 540, Relaxo : 130
+Metro - asset light model - because of 100% outsourcing of manufacturing -  COCO model - highest EBITDA per store
+Bata - 50% insourcing +  50% outsourcing of manufacturing - COCO model + distribution
+Relaxo - 100% insourcing - doesn't have own stores - it gives its products to distributors which inturn gives it to retailers
+
+//how do peers provide competetion :
+
 --- Products/services Uniqueness check :
+what makes the product or service of this company Unique?
 
 3)FUTURE :
 ---Process/Strategy check?
 --- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
----PRICING POWER (MUST HAVE MOAT)
----EARNING POWER 
+1)Competettive advantage/MOAT Check?
+Economises of Scale - Y
+Low cost producer - Y
+Brand
+Entry barriers - Targets mass market and a market leader in that space 
+2)PRICING POWER (MUST HAVE MOAT)
+high - because the actual cost of manufactiring is distributed across all footwear
+3)EARNING POWER 
+//SOURCE OF EARNINGS
+--Internal Growth oppurtunities
+
+--External Growth oppurtunities
+Macroeconomic
+Tailwinds
+//SOURCE OF CAPITAL : reserves
+//RETURN ON CAPITAL
+
 
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company

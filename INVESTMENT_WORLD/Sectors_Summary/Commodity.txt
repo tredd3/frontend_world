@@ -1,9 +1,53 @@
+/Cyclicals are best bought during recession(lower inflation levels) - when stock price hits the rock bottom
+/Commodity prices are globally decided based on the demand and supply which is linked to economic booms and burst, geopolitics, 
+  interest rates etc
+  Their prices are traded every day in the commodities market.
+  demand from developing nations such as China and India—whose economies are still growing—is also pushing up prices.
+/high PE means cyclicals earnings have gone down and they are ready to rise - good time to consider buying/accumulating
+However like anyother investing having knowledge in that particular industry gives u an edge
+/Any cyclical company with a good balance sheet will rebound (check DEBT - CASH position compared to equity)
+/Also check the capex amount compared to the cash flow generated
 
+Note: you need to be extra careful if you are buying stocks of companies that mine or prodcue commodities
+
+Commodities are grouped in to 3 categories: 
+1)Agriculture:
+Things you drink, such as sugar, cocoa, coffee, and orange juice. (These are called the "softs markets")
+Grains, such as wheat, soybeans, soybean oil, rice, oats, and corn.
+Animals that become food, such as live cattle and pork 
+Things you wouldn't eat, such as cotton and silk.
+2)Energy :  crude oil, gasoline, natural gas, and heating oil.
+3)Metals : gold, copper, silver, and platinum.
+
+--------------------------------- Agriculture ----------------------------
+
+
+
+--------------------------------- Energy ----------------------------
+Products made from petroleum include plastics, medicines, linoleum, shingles, ink, cosmetics, synthetic fibers, solvents, 
+   fertilizer, asphalt, and thousands of others.
+
+
+--------------------------------- Metals ----------------------------
 Metals are commodities - used as hedge against inflation
-Copper, aluminium and steel required across green capex like electric vehicles, solar & wind 
-  power and grid infrastructure
+Copper, aluminium and steel required across green capex like electric vehicles, solar & wind power and grid infrastructure
 
 //Sectors directly affected due to commodity metals price increase
 semiconductor industry 
- electronics
- Auto
+electronics
+Auto
+
+//Metals and their usage and possible demand
+Gold: Jewellery, central banks, investments etc
+  When the INR or any currency  goes down, you can bet gold prices will go up.
+  Also when stock markets crash GOLD prices go up
+  prices are affected when central banks—which hold gold—decide to diversify their monetary reserves by buying more gold.
+Aluminium - abundant, easy to extract
+  Usage:
+Copper - scarce
+  Usage:
+Zinc - 
+  Usage:
+Steel - Iron Alloy(1% carbon) used as a building material
+  With over 3500 different grades and almost 2 billion tons of steel manufactured globally each year, steel is the most commonly used metal in the world.
+  From kitchen utensils to tables, sinks, and other furniture, stainless steel is perfect for the manufacturing of anything that comes into contact with food because it doesn’t rust easily.

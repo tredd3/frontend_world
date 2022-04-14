@@ -1,5 +1,7 @@
 --Industry: Banking(still india has a scope for penetration)
+Backbone of an economy
 cyclical - but behaves like hybrid of cyclical and defensive
+Banking business depends on 3 things : MANAGEMENT, MANAGEMENT and MANAGEMENT
 Main business: Borrowing and lending
 Other services: invoice discounting, insurance, MF sale, escrow accounts, 
 Revenue model = net interest income(main business) + non-interest income (other services)
@@ -12,11 +14,19 @@ Bank Financials doesn't tell much about the Financial health of bank, u need to 
 
 
 Look for:
-Asset quality and how much does a bank earn on those assets (ROA) compared to peers
+Asset quality(low NPAs) and how much does a bank earn on those assets (ROA) compared to peers
 product/services portfolio depth and reach to public
-Geograpical spread - good to have for risk management
-loan diversification (to multiple sectors/industries/companies) - avoid banks where most loans are in riskier sectors
+Geograpical spread - good to have both urban and rural,i.e as deep and wide as possible to reduce risk
 savings and other low cost deposits trend
+CAR = (tier 1 capital + tier 2 capital)/Risk weighted assets - CAR determines the bank's capacity to meet the time liabilities and 
+other risks such as credit risk, operational risk etc - RBI monitors CAR to protect depositors, thereby maintaining confidence in the banking system
+ tier 1 capital - which can absorb losses without a bank being required to cease trading
+ tier 2 capital - which can absorb losses in the event of a winding-up 
+loan diversification (to multiple sectors/industries/companies) - avoid banks where most loans are in riskier sectors
+loan/assets mix - high % of Retail loans is preferred compared to corporate loans bcoz of low probability of default
+Note: Banks with high % mix of corporate loans may grow aggresively (faster) but when recession starts /some unfortunate event starts
+  these banks will be work hit. Hence business/financials of corporates to which bank lend is also imp to consider
+Quality mix of corporate loan book - infra/construction/energy sector has defaulted traditionally
 Prudent recovery and collection procedures
 low NPAs(for loans),charge-off rates(for credit cards) and delinquency rates(late payments) compared to peers
 *delinquency rates are imp bcoz they can turn in to a NPA
@@ -26,10 +36,17 @@ In this industry growth cannot be significantly faster than peers(if yes then it
 Must be Complient with Basel norms (for both liquidity and risk frameworks)
 good banks make sure that the duration of long term liabilities is same as that of long term loans
 
+//Best time to Invest
+1)Interest rates are currently lowest and about to increase - i.e high inflation scenario
+Note: In this scenario prefer the one with High % of floating rate loans - bcoz interest rates linked to repo rates and get 
+ reflected immediately and liaibilities cost takes time to increases
+2)Credit growth/Private capex cycle is reviving
 
 Financials:
 Should have strong Capital base compared to peers(check balance sheet)
-operating costs and non-interest expense should less as a % of revenue
+operating costs should be less
+Segment wise revenue: core income should contribute more at any given point 
+ i.e non-interest expense should less as a % of revenue
 ROE and ROA must be high (provided provisions ~= GNPA )
 CASA,NIM - must be more
 higher CASA indicates current and saving account deposits are more compared to time deposits => low cost funds for banks =>high NIM
@@ -39,7 +56,7 @@ P/B between 2-3 is a good bet to buy strong banks
 
 
 Moats:
-Capital intensive business (difficult for new player to enter or the existing player to became No.1)
+Entry Barriers (difficult for new player to enter or the existing player to became No.1)
 Brand(for attracting deposits and talent)
 Size (Large banks have prudent risk management framework and access to Capital markets)
 Economies of Scale(take advantage of larger distribution network)

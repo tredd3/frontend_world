@@ -8,6 +8,35 @@ look for companies that provide quality, quick and low cost services
 Retailers with CCC -ve , i.e with less inventory and more payable days are bound to be strong
 recievable days are negligible for retailers as they collect cash from customers immediately
 speciality retaiers like Nike, Puma ,Decatholon have MOATS for short term
+Note: In retail it is not about total sales or total stores it is all about having best per store sales/profit
+
+
+//Types of store ownership model
+1)COCO - company owned company operated
+company opens stores in new places and operates the existing ones to maintain brand value among
+ customers. However this model is difficult to scale bcoz it is capex heavy , company has to 
+ spend its own money to maintain the store
+E.g: Dmart, Metro footware 
+2)FOFO - Franchisee owned Franchisee operated
+Franchiser own the store, operating expenses by franchisee owner
+Merchandise and price is decided by the company
+Franchiser needs to pay certain amount of revenue as Royalty to parent company
+This is the best model to scale the business but any bad maintenance or experience will dilute 
+  the brand value in customers mind
+Hence companies take atmost care in setting up store infra, equipments, staff training etc
+E.g: MCD, APOLLO DIAGNOSTICS
+3)Distributor model - give all products to distributors and they give it to various retailers
+4)E-commerce : Amazon, flipkart, own sites for businesses
+
+
+//Types of outlets
+EBO - exclusive brand outlet - JOCKEY, ZARA, CLEVIN KELVIN stores
+ only one brand products are sold
+MBO - multiple brand outlet - Reliance , Pantaloons, Shopers stop
+ multiple brand products are sold
+Large format stores - huge size 
+E.g: Walmart, Dmart, Lifestyle
+
 
 Growth oppurtunities check:
 same store sales growth
@@ -28,13 +57,14 @@ Moat:
 low cost supplier(economies of scale)
 quality and comfort for public(clothing and footwear)
 constant innovation and products inline with the trend
+per store efficiency
 
 Risk:
 avoid those retailers that expand too quickly that too using debt
-changing consumer trends and firms need to match up to that - hence companies with more inventory can lose their value
-most consumer services concepts fail in the long run, so if u made investment in a speculative growth stage of a company
- then u need to continously monitor
-financials might be inflated bcoz lease amount is not recorded on the balance sheet
+changing consumer trends and firms need to match up to that else they will go bankrupt - true for fashion retailers
+Inventory management - huge inventory might lead to offer sale and slash prices 
+COCO model - They need to keep expanding , so focus on lease and depreciation expenses (opening more stores with poor per store 
+  profit of existing stores is a bad sign)
 
 Note:
 stock might have gone 20X/30X times - but if there is enough room for the stores to grow in the country then the stock can 
