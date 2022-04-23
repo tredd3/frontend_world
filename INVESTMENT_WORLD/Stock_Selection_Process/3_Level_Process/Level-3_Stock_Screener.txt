@@ -6,12 +6,12 @@ Valuation :
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
-1)PAST :
+-------------------- PAST --------------------
 quick check
 know about the company:
   Nature of business: business services/consumer goods/consumer services/B2B goods
-  what does it do (Product/Services Portfolio/business verticals): 
-
+  What does it do: (what is the actual business): 
+  How does it do :
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small
@@ -27,7 +27,7 @@ any research report/youtube analysis available for the company:
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 
 
-2)PRESENT :
+--------------------- PRESENT --------------------
 ---Sectoral analysis:
 //STAGE of development:
 pioneering - EV, green energy
@@ -36,26 +36,83 @@ maturity/saturation - FMCG
 declining - obselete - TV channels, print media
 //Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
 at profitable end of value chain), demand and supply (size of opportunity)
+//Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
+   only within the country :
+        limited to few businesses/limited customer usage
+        not limited to a single user (almost every user will find its usage now or eventually)
+        not limited to single business (almost every business will find its usage now or eventually)
+   global oppurtunity/exports :
+        limited to few businesses/limited customer usage
+        not limited to a single user (almost every user will find its usage now or eventually)
+        not limited to single business (almost every business will find its usage now or eventually)
 
 ---Products/services DEMAND check :
-//From where does the demand come? 
+//From where does the actual demand from for the company? 
+  B2B (client diversification, strong order book - must be volume led growth)
+  B2C (how many users out of 140 cr population use it)
+  Business service companies (what all industries/companies need it)
+  Government
+  Global - from which all countries demand come from
+
 //Type of demand
-//Market size/Oppurtunity:
+    Infrastructure/Platform - repeat usage including subscripton models
+    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
+       insurnace, real estate, home furnishing, Energy,Banking and finance)
+    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
+        Electronics, Automobile, Telecommunication)
+    continous and constant/slow growth demand(FMCG, Food)
+    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
+     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
+    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+
+//Capturing sector demand Oppurtunities:
+sector demand is growing like Telecom, aviation : even if the company retains its market share and can sustain over the years 
+  it can grow effortlessly
+sector demand constant like FMCG :  company needs to capture market share from others by providing unique products or enetring in to 
+   other FMCG verticals where the company is not even present
+
 
 ---Products/services SUPPLY check :
-//product portfolio :
-//Is there any peer whose market share is higher than the current company? 
-POSITION IN PEERS :
-//COMPETETION :
-//how do peers provide competetion :
+1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
+  of each product
 
---- Products/services Uniqueness check :
+2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
+             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
+             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
+  what is the unlisted players market share - 
+  listed peers market share -
+  postion among peers - 
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants
+
+3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
+
+4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
+  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
+  //what value does it add to customers compared to competetiors?
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
 
 
-3)FUTURE :
----Process/Strategy check?
---- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
+------------------- FUTURE -----------------
+---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
+//Goal/Aim - global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
+//Strategies being employed: 
+ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
+
+
+--- EARNING POWER (Earnings Growth Oppurtunities check )
+//SOURCE OF EARNINGS
+--Internal Growth oppurtunities
+
+--External Growth oppurtunities
+Macroeconomic - check MacroEconomy folder
+Tailwinds
+
+---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
 Economises of Scale
 Low cost producer
@@ -66,17 +123,40 @@ Intangible assets
 Switching costs
 Entry barriers
 Luxury/Premium Range
+
 2)PRICING POWER (MUST HAVE MOAT)
-3)EARNING POWER 
-//SOURCE OF EARNINGS
---Internal Growth oppurtunities
 
---External Growth oppurtunities
-Macroeconomic
-Tailwinds
-//SOURCE OF CAPITAL
+3) Longterm vs short term bet
+/Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
+/Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
+market share soon - need to monitor closely
+/Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
+you can use the cash to buy other growth and non-growth businesses) 
+Note: Don't forget to compare dividend yield with FD interest rates
+
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
+
+
+//USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
+Cash
+Organic growth - putting back the money in the same business
+Inorganic growth - M&A
+Dividends
+Buyback - preferred
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
+modernising or technology upgradation of operations
+R&D
+Advertising
+Working capital (tied up in) - bad
+
+
 //RETURN ON CAPITAL
-
+Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital)
+Very Good company: ROCE/ROIC(return on capital) >>> WACC (cost of cpital)
+Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
   -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
@@ -102,6 +182,8 @@ check Financial_Strength_Check.txt
 //Financial weakness
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
+//how is the Management and their Vision:
+//
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt

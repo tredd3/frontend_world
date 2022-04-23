@@ -1,7 +1,7 @@
 
 Energy - most countries including india heavily relies on imports
 
-Industry: Crude oil, Natural gas, Nuclear,Thermal,hydroelectric,wind,solar
+Industry: Crude oil, Natural gas
 2/3 of world's energy needs are met by oil and gas
 huge fixed asset costs - cyclical sector
 large part of oil and gas reserves are present in middle east, hence the countries exporting oil/gas formed a group called OPEC
@@ -18,6 +18,30 @@ are always profitable, but the oil services industry is highly competettive and 
 Reason: when oil prices are high companies use these services to quickly take final product to market to reap the profits else 
 they don't want to extract the oil and wait for the prices to be normal which is not in their hands
 
+
+//India situation
+overall crude oil imports of 175.900 MMT(million metric tonnes) - overall requirement for india 0.4 billion cubic metres per year
+In FY21, India imported 85% of its crude-oil requirements. 
+India’s major sources of crude oil and gas imports are Iraq, Saudi Arabia, Qatar, UAE, Nigeria, Kuwait, Oman, and the US. 
+India imported approximately less than 1% of its total crude oil and gas requirements from Russia in 2021-22.
+estimated natural-gas reserves are around 1,141.3 billion cubic metres(ONGC, the country’s largest oil and gas company, produces around 22 billion cubic metres every year)
+Around 198 discoveries of oil and gas have been notified in the basin so far. Of this, ONGC has 156 discoveries, RIL 31, Vedanta eight, and OIL has three discoveries.
+
+
+//GAS
+India's target to raise the share of natural gas in India’s energy mix to 15% by 2030 from about 6.7% now. 
+Demand: power and fertiliser sectors, which account for almost 70% of the consumption.
+Supply: 
+  Imports - 54% of its natural-gas needs through LNG imports
+  Domestic production: RIL has dicovered the largest gas filed in the country + ONGC producing
+  RIL-BP combine is developing three deepwater gas discoveries which by 2023, meeting up to 15% of the country’s gas demand.
+Gas pricing is revised bi-anually based on four global benchmarks — US Henry Hub, Canada Alberta gas, UK NBP, and Russian Natural Gas
+both oil and gas has central excise and VAT that add significantly to the actual production prices 
+Note: VAT is meant for State government and Central Excise Tax is levied by central government. Central excise Tax is levied up on
+ manufacture of excisable goods in India. But VAT is charges at the time sale of goods within the state
+E.g: fuel, tobacco, alcohol
+
+
 MOATS:
 oil company in countries part of OPEC
 large company size and customer base
@@ -27,7 +51,7 @@ high ROIC and profits compared to peers
 
 Look For:
 Integrated oil companies with good financial track record in both boom and burst years OR companies who only does upstream operations
-e.g: IOL(integrated company), ONGC (only upstream company)
+e.g: IOL(integrated company), ONGC and Oil India (only upstream companies)
 high fixed costs and cyclical sector hence D/E < 1 is preferred to sail through burst years
 oil reserves growth or capacity wrt peers(future profit for the firms)
 reserve replacement ratio > 1 , i.e company has found more than what it is extracting => reserves are increasing
@@ -53,3 +77,5 @@ Auto sector - people won't buy individual vehicles and prefer shared transport
 
 //Sectors directly affected due to gas
 ceramics - used in industry for cutting
+natural gas is used to produce power and fertilisers, turned into CNG for vehicles, and piped to household kitchens.
+

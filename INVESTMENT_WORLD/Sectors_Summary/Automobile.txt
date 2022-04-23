@@ -4,6 +4,18 @@ like supporting engines for petrol blended with ethanol,
 disruptions - electrical vehicles , hydrogen fuel cell technology, hybrid fuel engines
 Capex for manufacturing
 But this is the second largest industry after housing industry
+Possible Headwinds: 
+Covid-19 pandemic
+the rising input costs due to skyrocketing commodity prices
+the supply-chain issues
+coupled with chip shortages - Russia accounts for about 40% of the global production of palladium, a key raw material for chip 
+  manufacturing. Ukraine accounts for 70% of the global production of neon gas, a critical component in chip production.
+
+
+//Auto sector stats
+In 2021, the number of electric vehicles sold was 3,24,840 units. The number of petrol and diesel vehicles sold stood at 18.3 
+million units. This means that electric vehicles stood at around 1.7% of the total vehicles sold. Interestingly, this proportion 
+ was at 0.7% in 2019 and 2020.
 
 //Engine types
 ICE(internal combustion engines) - diesel and petrol vehicles
@@ -29,3 +41,25 @@ pass current through water to separate hydrogen and oxygen (power generated shou
 Dealing with green hydrogen needs lot of expertise which India doesn't have
 Major countries in the world are considering to use this fuel as replacement to electric Vehicles or just another type of 
  clean vehicle
+
+
+//EVs
+Maruti Suziki: By 2025 EVs will be available to premium market only
+ Technology will be improved, but it will not be as good as that level that we can introduce a really affordable EV 
+ as a small car. That will take more time beyond 2025.It takes a lot of time to really develop good technology for affordable small electric cars. 
+  Secondly, charging infrastructure must also be developed enough to make affordable cars, as the number or size of batteries
+   we put in a small car will have to be small; if we put bigger batteries, the cost will become high. To make this viable,
+    more charging points must be available all over.
+
+
+//Market share of Indian auto makers
+Maruti Suzuki - 47.4 (In order to achieve a 50% market share, Maruti needs to be present in every single segment of the automotive 
+ industry. Their presence in small cars and MPVs (multi-purpose vehicles) is very strong. SUVs are where Maruti lacks, introduction of 
+ multiple models into the SUV space in a year or two will get maruti on track)
+Hyundai - 17
+Tata - 7.5
+Kia - 7.3
+Mahindra - 6.4
+Renault - 3.6
+Honda - 3.5
+Toyota - 3.0

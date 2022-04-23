@@ -1,44 +1,223 @@
-Overall: 
-Ur Ranking: 
-CRISIL: 
+Overall: Analyse with a fraud identification mindset and not with a confirmation bias
+Business :
+Financials :
+Risks :
+Valuation :
 
-------------- About -------------
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+Investor presentation for reference: 
+-------------------- PAST --------------------
+quick check
+know about the company:
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): 
+     High Performance Solar Tempered Glass - company does deal in glasses with various thickness, size and textures.  
+  How does it do :
+  //Raw materials
+    //Manufacturing Processes - how ?
+    Use of low cost renewable energy. Owns 1.5 MW of wind farm and is developing solar plant of 1 MW and proposed investing in 
+      10 MW Wind-Solar Hybrid power plant
+    The Company has a 22% lower carbon footprint in comparison to the default score for glass manufacturing in Life Cycle Assessment. 
+      This value is the best value so far for glass manufacturing as per a very reputed European institute.
+    Received a patent to use the waste materials as a part of raw material 
+    Close loop water circuit system- For water treatment and reuse of water
+    Installed sewage treatment plant
+  Target Audience : Solar Module and PV manufacturers globally and domestically
+  Subsidaries/JVs:
+  market size: large
+  market share: 35% (remaining imports from Malasiya, China)
+  Presence : offices in India /US etc
+  Globally competetive company: NO
+  REVENUE GEOGRAPHY: Exports - 20%
+  Revenue Model: 
+  Clients(Important ones):
+    domestic - 100 customers
+    international - Majority international customers based in Western Europe/Turkey, which leaves scope to expand to other markets
+       like US, Russia, MENA And Latin America
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
+any research report/youtube analysis available for the company: 
+what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 
 
+--------------------- PRESENT --------------------
+---Sectoral analysis:
+//STAGE of development:
+pioneering - green energy
+//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
+at profitable end of value chain), demand and supply (size of opportunity)
+//Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
+   only within the country :
+        limited to few businesses/limited customer usage
+        not limited to a single user (almost every user will find its usage now or eventually)
+        not limited to single business (almost every business will find its usage now or eventually)
+   global oppurtunity/exports :
+        limited to few businesses/limited customer usage
+        not limited to a single user (almost every user will find its usage now or eventually)
+        not limited to single business (almost every business will find its usage now or eventually)
 
--------- why to buy and hold? Business Strengths ---------
-...
+---Products/services DEMAND check :
+//From where does the actual demand from for the company? 
+  B2B - from module and PV manufacturers
+  Global - exports
+
+//Type of demand
+    continous and growing demand 
+    Transitionory Demand 
+
+//Capturing sector demand Oppurtunities:
+sector demand is growing and it is the only player in india
 
 
-//Growth oppurtunities
+---Products/services SUPPLY check :
+1)Product portfolio :
+High Performance Solar Glass for 
+• solar PV
+• High Performance Green House
+• Solar Rooftop, Water pumps
+• Solar Thermal projects
+• Bifacial - using two glasses in each module as against one in the case a conventional module and as a result, there is a shift
+ in favor of thinner glass of 2mm globally. 
+• Borosil Solar Glass with low Antimony content
+• NoSbEra: Borosil Solar Glass – without Antimony(patented technology) - Borosil is the only solar glass manufacturer in the world
+ who has been able to successfully remove the Antimony(toxic element) from Solar glass
+Value added products:
+Recently developed a solar glass with matt finish on both sides - Transmission value reaching higher than 94% with use of an 
+  appropriate AR Coating
+SELENE” ANTI-GLARE SOLAR GLASS FOR PV PROJECTS NEAR AIRPORTS - Reflection/ glare from the PV modules installed near Airports may
+interfere pilot or airport staff’s visibility. 
+
+//In order to achieve the optimum module weight, the Solar PV market is moving towards use of thinner glass
+World’s 1st fully tempered thinnest Solar Glass for versatility and longevity - Reduces the overall weight of the module leading to
+Project Cost Optimization, Offers Superior Edge-to-Edge sealing increasing module lifetime (up to 40 years), strength & reliability.
+Applications of thinner glass : Floating PV, Frameless Modules, Bifacial and  Glass-glass modules
 
 
-
-//Moats
-
-
-
---------- why you shouldn't hold the company? Business Weakness ----------
-...
+2)COMPETETION :  none in india
+  global competettion - low cost imports risk from china any Malasiya
+  threat of new entrants - none in the near term as getting in to this space needs an R&D of atleast 5-6 yrs and by then borosil 
+     might have gotten that brand name and first mover adavantage with huge market share
 
 
-//Competettion
+3)Listed peers Comparison: no peers
 
 
+4)Products/services Uniqueness and Quality check :
+what makes the product or service of this company Unique?
+ ENGINEERED FOR LONG TERM DURABILITY, safe and strong
 
-//Risks
+------------------- FUTURE -----------------
+---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
+//Goal/Aim - global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
+//Strategies being employed: 
+ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
 
 
---------- Financials -----------
+--- EARNING POWER (Earnings Growth Oppurtunities check )
+//SOURCE OF EARNINGS
+--Internal Growth oppurtunities
+capex - 5 times increase by FY24 (from 450 TPD to 2100 TPD)
+TPD - tons per day
+--External Growth oppurtunities
+Macroeconomic: 14 Gigawatts of solar module manufacturing capacity exists
+in India, actual production was about 5.5 Gigawatts during the financial year 2021. We see
+installed capacity rising to 50 Gigawatts of solar panels within the next three year
+Tailwinds:
+Lot of Govt support
+Exports - A very good potential to increase exports to Europe, Americas, Russia, Turkey and MENA due to renewed focus on domestic
+  modules manufacturing in Solar PV 
+
+---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
+1)Competettive advantage/MOAT Check?
+Economises of Scale
+Low cost producer
+Brand
+Taste
+Network effect
+Intangible assets
+Switching costs
+Entry barriers
+Luxury/Premium Range
+
+2)PRICING POWER (MUST HAVE MOAT)
+
+3) Longterm vs short term bet
+/Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
+/Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
+market share soon - need to monitor closely
+/Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
+you can use the cash to buy other growth and non-growth businesses) 
+Note: Don't forget to compare dividend yield with FD interest rates
+
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
+
+
+//USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
+Cash
+Organic growth - putting back the money in the same business
+Inorganic growth - M&A
+Dividends
+Buyback - preferred
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
+modernising or technology upgradation of operations
+R&D
+Advertising
+Working capital (tied up in) - bad
+
+
+//RETURN ON CAPITAL
+Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital)
+Very Good company: ROCE/ROIC(return on capital) >>> WACC (cost of cpital)
+Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
+  -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
 //Financial strengths
-
-
 //Financial weakness
 
+------------------------------ MANAGEMENT CHECK --------------------------------
+//how is the Management and their Vision: growth vision
+Corporate Governance: A professionally managed business backed up by family
+
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
+1)demand is mostly linked to demand of module manufacturing in the country - Recent announcements by various Module Manufacturers/
+  Solar Plant Developers to add 37 GW of module manufacturing capacity taking the same to about 50 GW over next 3 years
+2)The government of India has been protecting the domestic manufacturers through anti-dumping duty and countervailing duty on imports.
+ Hence, any change in the current policy or increase in supply by importers, could impact BRL’s turnover and profitability.
+Even if govt removes both the rules - Present domestic demand > BRL’s post-expansion capacity, robust growth in the sector in domestic
+ manufacturing of modules, current high share of imports and high growth in exports = Easy absorption of additional production volumes
+
+---Financial Risk:
+
+---Management Risk:
+
+---Investment Returns Risk:
 
 
---------- My filter check --------------
-
-
-
-------- Valuation -----------
+---------------------------------- VALUATION --------------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt

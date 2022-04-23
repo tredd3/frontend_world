@@ -13,12 +13,27 @@ Recession: economy growth is slow and showing some signs of recovery
 Cyclicals - commodities, Auto, Luuxry goods demand goes down and hence when economy recovers the earnings recover and stock price 
    will also recover 
 
-high inflation: hold stocks that are beaten down beacuse of inflation bcoz when situation becomes normal they ROAR
-FMCG - beacuse when inflation decreases earnings go up and stock price goes up
-
 low inflation : 
-Commodities - Metals like Gold - if there is a sign that inflation increases commodities provide hedge against inflation where cash
-   loses its value
+Commodities - Metals like Gold 
+
+Inflation beneficiaries:
+1)Banks: assets gets repriced as the interest rate hikes are immediately passed on for liabilities the pass on is bit slow, High CASA ratio banks will benefit a lot , also new corporate loans addition due to more working capital requirements.
+2)Insurance :  float that is invested in FD earn higher interest rates
+3)B2C companies with high market share and pricing power - beacuse when inflation decreases earnings go up because the demand is 
+  back and the companies that have taken price hike will maintain them and stock price goes up
+4)Commodities like oil, gas and metals will benefit due to increast prices - if there is a sign that inflation increases 
+ commodities provide hedge against inflation where cas  loses its value
+5)export oriented, IT and pharma who get revenue in dollars will benefit bcoz of natural hedge to inflation
+
+Resistant to inflation :
+services - adani ports, CRISIL
+
+Affected due to inflation:
+Companies that require high capital will have the share beaten down because cost of capital increases
+High debt levels - bcoz of high interest rate
+High Capex - price of capital goods increases
+No pricing power
+
 
 Low interest rates: 
 High dividend yield companies like FMCG, Utilities -  but if there is a transition to high interest rates then better to shift to FDs

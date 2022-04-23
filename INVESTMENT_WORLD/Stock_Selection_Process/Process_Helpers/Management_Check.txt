@@ -3,8 +3,8 @@
 Investors don't run the show, it is the Management who does that so picking quality management is as important as picking a business
 WEAPON: passion + intelligence + honesty(IMPORTANT)
 Overall: Management check only makes sense if the business is good
-Good Management + bad business => results in BAD business most of the time
-Good Management + bad business => if business situation changes then it is a turnaround oppurtunity
+Good Management + bad business => mostly results in BAD business most of the time, very rarely business situation changes
+   then it is a turnaround oppurtunity
 
 Promoter check: 
   if promoter is old, sucession plan is important
@@ -20,17 +20,17 @@ COMPENSATION:
     Note: make sure to check outstanding shares growth YOY. any company issuing ESOPs abnormally and having a YOY outstanding shares 
     increase > 10%, doesn't care about shareholders
     -if the total outstanding shares are increasing YOY then check if EPS is growing or not (in the same rate or higher than EPS increase)
-    -does the Management hold any stocks? if yes then that motivates them to act in favour of shareholders
+    -does the Management or Board of directors hold any stocks? if yes then that motivates them to act in favour of shareholders
 ETHICS AND INTEGRITY:
     - should do what they say. did they do so? to be found in annual reports(letter to shareholders) & conference calls
     - should be completely transparent to its shareholders, "we don't disclose" is not what we want to hear 
     - should admit the mistakes honestly and take responsibility for their actions
     - should keep shareholders(especially minority shareholders) in mind and work for them instead of personal profits(IMPORTANT)
-    - shouldn't be involved in specific scams/cases
+    - shouldn't be involved in any scams/cases
 SKILL AND INTELLIGENCE TEST:
-    - skills relevant to industry: yes
+    - skills relevant to industry: Yes/No
     - experience over > 10 yrs : yes (more experience means managers seen boom and burst and knows how to behave in each situation) 
-    - mindset/vision: growth via rural penetration/global foot print and value addition to customers
+    - mindset/vision: growth and value addition to customers, shareholders wealth creation
     - how are reserves used(IMPORTANT) - bank balance/dividends/buyback/Acquisition/JV with other DCA companies/Reinvesting in your own
      business(capex augumentation/one time capex upgradation/new product launch/spending on technology for achieving efficiency/
      even better is to strengthen its competettive advantage)
@@ -38,7 +38,7 @@ SKILL AND INTELLIGENCE TEST:
     so better to invest on other DCA businesses or even better is to buyback shares from extra cash as this financial engineering
     concept increases shareholders wealth without paying any tax.
     Note: buying back shares at a premium valuation is not the best use of capital, buying back is useful only if the 
-    shares are bought at lower/fairprices.
+    shares are bought at lower/fair prices.
 ECONOMIC PERFORMANCE:
     -ROCE and ROE over last 5yrs/10 yrs ? also consider debt levels (IMPORTANT)
     Note: maintaining consistent ROCE is more imoprtant than EPS growth rate bcoz EPS is influenced by factors like taxes,

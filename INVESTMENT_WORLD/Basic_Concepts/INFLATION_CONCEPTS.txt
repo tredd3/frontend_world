@@ -1,0 +1,41 @@
+**** SUMMARY ****
+inflation is temporary
+inflation and interest rates are directly proportional, i.e if inflation rises interest rates will also rise
+inflation => less real returns on fixed deposits, bonds etc
+
+//Effect of High Inflation on economy:
+price of goods/services increases
+currency will lose value
+RBI reacts with high interest rates
+public/corporate spending decreases bcoz of costlier loans - hence when demand decreases , 
+  supply decreases meaning corporate profits take a hit
+
+
+//Effects of Inflation on Asset classes
+Equities: there will be a sell off across equities and people wants to invest in bonds/debt instruments as interest rate increases , 
+  the reason for sell off is that as interest rate increses demand decreases , hence corporate earnings decrease and stocks become 
+  overvalued
+ Note: this is the oppurtunity to grab the best stocks and invest in them 
+Real estate  and land - price and rents increase , consider investing in REITs => as they invest in commercial properties
+Gold will rise - hedge against inflation, but when inflation decreases gold prices decrease and equities will rally
+ Note: If you want to invest in Gold invest when inflation is low and is about to raise else you will lose money
+CASH: purchasing power decreases as value decreases
+CRYPTO : price increases
+
+
+*** Types of inflation ******
+1)demand pull: production capacity remains the same
+e.g: property prices increase becuase every one has wealth and wants to buy the property
+2)cost push : demand and supply remains the same, but production cost increases
+e.g: raw material cost/fuel cost increases, final product cost increases => companies can take a hit on balance sheet or they
+can pass the price to customer
+3)supply decreases : this is due to issues like geo-political issues/ supply chain disruptions  etc but demand remains constant
+
+
+**** interest rates and inflation goes hand in hand *****
+inflation is up => RBI generally increases interest rates (BULL MARKET) => stock market earnings goes down or there is a high 
+expectations and if that is not met => people remove money from stocks and invest in risk free returns (Bonds/FDs) => stock
+ market can crash as well
+*e.g: US increase interest rates => FIIs will remove money from indian markets and invest in US bonds => stock market will crash
+inflation is down => RBI decreases interest rates => (BULL MARKET) people invest in stock market and create bubble and markets PE becomes high 
+

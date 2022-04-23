@@ -26,7 +26,7 @@ This is the best model to scale the business but any bad maintenance or experien
 Hence companies take atmost care in setting up store infra, equipments, staff training etc
 E.g: MCD, APOLLO DIAGNOSTICS
 3)Distributor model - give all products to distributors and they give it to various retailers
-4)E-commerce : Amazon, flipkart, own sites for businesses
+4)E-commerce : Amazon, flipkart, NYKAA fashion stores own sites for businesses
 
 
 //Types of outlets
@@ -40,6 +40,7 @@ E.g: Walmart, Dmart, Lifestyle
 
 Growth oppurtunities check:
 same store sales growth
+operating profit/net profit per Square feet area is also important for comparison between peers
 if a store is successful in one area you can open a store in other areas and make it successful - are they doing it?
 Franchisee model is the best compared to company owned - because company is expanding its brand and opening new stores and that 
    too with someone else's money. It gets 5-10% of sales as Royalty fees
@@ -60,7 +61,8 @@ constant innovation and products inline with the trend
 per store efficiency
 
 Risk:
-avoid those retailers that expand too quickly that too using debt
+avoid those retailers that expand too quickly that too using debt - more than 50-100 outlets a year is a problem
+In general, if you expand too fast you may pick wrong places, wrong managers, pay more for real estate ect
 changing consumer trends and firms need to match up to that else they will go bankrupt - true for fashion retailers
 Inventory management - huge inventory might lead to offer sale and slash prices 
 COCO model - They need to keep expanding , so focus on lease and depreciation expenses (opening more stores with poor per store 

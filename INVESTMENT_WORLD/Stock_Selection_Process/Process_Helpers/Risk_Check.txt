@@ -7,7 +7,8 @@ competetive risk - threat from existing players or new entrants both local /glob
 pricing power risk - during inflation company cannot pass on the price
 sector innovation risk (EV,5G)
 less market size
-substitution risk - mainly for chemical/pharma/technology
+substitution risk - mainly for chemical/pharma/technology 
+  can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
 commoditised risk - business becoming commodity type(no value addition hence products can be easily copied) - you will lose margins and pricing power
 low cost imports risk
 legal/scams Risk

@@ -37,13 +37,16 @@ Business services - tech based/people based
 media/Entertainment
 Healthcare
 Basket of IT/Software companies
-deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
-niche/extreme niche - ofcourse profitable ventures only (MOAT: entry barriers, switching cost)
-No growth Industry where the company is growing by acquiring market share and becomes profitable
+deals with very sensitive sectors needing lot of approvals and gain client trust/confidence - high entry barriers
+niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+New age businesses that has a capacity to suffer - i.e they are diverting profits to build long term moats 
+  Noet: always buy them only when they are profitable for like 2 yrs in a row, bcoz of most of them might not be profitable and you
+  will lose money
+Lousy industries: No growth Industry where the company is growing by acquiring market share and becomes profitable
   It does something dull and profitable(manufacturing bottle caps, plastic forks) - demand throughout the year but no new competettion
   wants to enter this business (MOAT: entry barriers, switching cost)
   It does something disagreeable and profitable(waste management, cleaning, chappals, underwear) - demand throughout the year but 
   no new competettion wants to do this because of the nature of the business (MOAT: entry barriers, switching cost)
+  high capex is needed
 repeat business - people need to keep buying it to survive/daily needs (MOAT: low cost producer, Brand, distribution network)
-has a magnet that attracts customers(the customers should automatically get attracted to or in need of the the product/services)
-Platform Business(Indiamart, IEX, Amazon) - (MOAT: Economies of scale, Switching cost, Distribution network)
+Platform/Infrastucture Business(Indiamart, IEX, Amazon, Zomato) - (MOAT: Economies of scale, Switching cost, Distribution network)

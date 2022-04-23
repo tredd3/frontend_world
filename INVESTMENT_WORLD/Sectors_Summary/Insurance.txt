@@ -101,6 +101,7 @@ complaint ratio: low is preferred, if it is higher surrender rates will be highe
 solvency ratio: higher it is more guaranteed that insurer is gonna pay premiums, min is 150% as set by IRDAI
 cost ratio: less is better (operating expenses + commission expenses)/premium
 expenses are incurred and not amorotised over years, but profits are realized over years 
+The ‘embedded value’, in short, is the sum of the present value of future profits plus the market value of net assets.
 
 //players
 LIC - strong agent network

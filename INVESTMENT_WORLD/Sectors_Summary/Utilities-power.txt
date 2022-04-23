@@ -3,7 +3,20 @@ Industry: electricity, water, gas
 highly regulated sector with constant demand hence it fetches guaranteed but low fixed income(i.e steady cashflows)
 highly competetive(low margins) - commodity industry(no pricing power bcoz govt decides whether the increased fuel and operating 
   prices needs to be passed on to customer or not) - high fixed costs(high debt will ve a problem)
-electricity - generation, tranmission and distribution
+
+/Indian stats
+Total Installed Power Generation Capacity in India 393 GW as of Dec'21:
+Coal+Lignite - 210, 53%
+Renewables(sunlight, wind, rain, tides, waves, and geothermal heat) - 105, 27% (solar 49GW)
+  solar (49GW) is about 47% of the renewable capacity
+  The target for Solar has since been raised to installing 300 GW by 2030.
+Hydro(waterflow from dam/river rotates turbine of generator) - 47, 12%
+Nuclear - 7, 2%
+Diesel - 1, 0.1%
+Gas - 25, 6%
+
+
+------------- Electricity - generation, tranmission and distribution -----------
 /Generation - input:coal/gas/uranium/sunlight/wind/water output:electricity, deregulated, low entry barriers, low margins because
  of competettion and high operating leverage(high fixed costs, only fuel is the variable cost)
 /Transmission - trasporatation of electricity from generation plants to grids via wires, regulated, high entry barriers, even though

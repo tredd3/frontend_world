@@ -112,10 +112,6 @@ Niche - Specailty chemicals - Only one company With usage in multiple industries
 //Infrastructure for Industries/Manufacturing sector:
 Rail road logistics - freight rail network covering entire US (low cost)
 Logistic services: import and export services to complex supply chain operations
-Logistics: the movement/transportation of goods by different modes including air, ocean, rail, and road + warehousing (employees 
- pack the goods in inventory and dispatch/transport)
-Logistics is a component of supply chain management
-Freight: goods transported in bulk by truck, train, ship, or aircraft.
 Package Delivery services/courier (door delivery by picking package from from retailer/sender to public/businesses)
 
 

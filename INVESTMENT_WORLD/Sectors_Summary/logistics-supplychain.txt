@@ -1,0 +1,43 @@
+
+Logistics: the movement/transportation of goods by different modes including air, ocean, rail, and road + warehousing (employees 
+ pack the goods in inventory and dispatch/transport)
+Logistics is a component of supply chain management
+Freight: transporting products or goods via truck, van, or train
+CARGO : goods carried by larger vehicles, such as large cargo ships and planes
+Container:  20 feet to 40 feet-long metal boxes made of a special category of steel, where cargo is placed inside
+
+
+//AIRLINES - fastest but costlier
+
+//SHIP - cheapest and greenest, huge capacity saving lot of money and time
+maritime shipping today accounts for 95% of the export-import (EXIM) trade in the world. 
+60% is through containers
+biggest container ships can carry as many as 23,000 containers, but a train in India can carry only 90 containers and a
+ truck or a trailer can take only one.
+
+**COVID and Russian war supplychain issues
+1)Unavaialability or shortage of containers
+One reason why Indian traders and exporters have suffered is high dependence on foreign vessels for transporting container cargo.
+Lot of containers fullly loaded with cargo were not allowed to unload becuase of COVID rules
+We have tankers, gas carriers, and LNG vessels. But we have a very negligible investment in our own container fleet
+ Shipping companies have not invested in expanding their container fleet because of unfavorable government policies
+2)lack of demand + sky high logistics prices => forced small exporters to lose their business to large players
+3)Lot of time taken because of port congestion, COVID checks, lot of containers stuck in warehouses
+4)paucity of warehousing space
+5)price of logistics sky rocketted due because of supply demand misatch
+ shipping companies charged a bomb even for lesser distances
+ fuel prices increased - russia ukraine war
+
+**Consolidation in the shipping market:
+Twenty-five years ago, the top 20 companies controlled about half of the global capacity.
+only 10 container lines based in Asia and Europe, including Maersk, MSC, France’s CMA CGM SA, and China’s Cosco Shipping Holdings,
+ control nearly 85% of the capacity for shipping goods by sea.
+
+**PORTS
+congestion at ports have worsened things - adding fuel to fire
+ Even though shipping companies has added capacity throughout the year, but that hasn’t helped ease supply chains because ships 
+ are stuck waiting outside ports.
+
+
+//RAILWAYS
+//ROAD

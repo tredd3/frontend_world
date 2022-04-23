@@ -46,8 +46,13 @@ Aluminium - abundant, easy to extract
   Usage:
 Copper - scarce
   Usage:
-Zinc - 
+Zinc - Zinc is used to coat and protect other metals, as well as to prevent rusting in galvanized steel. Its applications include
+  the industrial, marine, and medical sectors, as well as hardware, electrical and automotive industries.
   Usage:
 Steel - Iron Alloy(1% carbon) used as a building material
-  With over 3500 different grades and almost 2 billion tons of steel manufactured globally each year, steel is the most commonly used metal in the world.
-  From kitchen utensils to tables, sinks, and other furniture, stainless steel is perfect for the manufacturing of anything that comes into contact with food because it doesn’t rust easily.
+  With over 3500 different grades and almost 2 billion tons of steel manufactured globally each year, steel is the most commonly used
+   metal in the world.From kitchen utensils to tables, sinks, and other furniture, stainless steel is perfect for the manufacturing
+   of anything that comes into contact with food because it doesn’t rust easily.
+ With around 5% of the Earth’s crust and as the 6th most common element in the universe, iron is a highly abundant and immensely 
+ popular metal. Unalloyed iron is an unstable element that easily reacts with the oxygen from the air and forms iron oxide. 
+ In order to make it more stable, it is commonly alloyed with other elements to create steel.

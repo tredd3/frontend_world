@@ -141,6 +141,9 @@ will be focused on paying interest and not on growing the company
 
 --preferred stock ? 
 preferred stock is not preferred to have in balance sheet - it is expensive money
+In the U.S. dividends on preferred stock are not tax-deductible at the corporate level (in contrast to interest expense), the 
+ effective cost of capital raised by preferred stock is significantly greater than issuing the equivalent amount of debt at the 
+ same interest rate.
 
 --retained earnings: very very important
 consistent growth and growth rate of retained earnings implies company has a DCA

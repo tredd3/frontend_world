@@ -70,11 +70,13 @@ hence better to invest in the company else invest in the FDs or bonds
 4)price to sales: for new age companies that are not yet profitable
 5)Market cap to free cash flow - FMCG and mature companies generating lot of cash
 MCAP/FCF is 10 meaning you get your money back in 10 yrs and rest of your life you are getting things for free
+Note: before calculation MCAP/FCF subtract Total cash from MCAP i.e final ratio is (MCAP - Total Cash)/FCF
+Total cash = (cash+cash equivalents - total debt)
 6)Dividend yield > bank interest rates (6%) - if investing for dividends
 check dividend payout ratio and cash flow analysis to check what part of cash is dividends
 dividend payout ratio is the ratio of the total amount of dividends paid out to shareholders relative to the net income of the company
 Dividend yield  = dividend_amount/share_price * 100
-7)compare market cap with total cash(cash+cash equivalents - total debt)
+7)compare market cap with Total cash(cash+cash equivalents - total debt)
 if total cash > market cap OR total cash = 30% or market cap (then you are technically getting the share at 70% of share price)
 
 
