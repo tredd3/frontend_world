@@ -1,13 +1,70 @@
+-------------------- SUMMARY --------------------
 Overall: Analyse with a fraud identification mindset and not with a confirmation bias
 Business :
 Financials :
 Risks :
 Valuation :
 
+------------------- SCREENING SUMMARY -------------------
+Basic check:
+  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
+     capacity to suffer/suggestion from youtuber or broker
+  stock price falling continously/abnormal(google search): Yes/No
+  legal orders(confirm from wiki) and tickertape
+  corporate actions, dividend history and announcements from tickertape
+  check shareholding pattern(especially promoter) trend over the years in tijori
+  promoter pledging
+  is the business easy to understand or complex :
+  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
+    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
+
+Business check:
+  screener pros and cons
+  market share trend
+  //how is the quality of product/service - Have u used the product/service ? 
+  if YES, what is your view 
+  if NO, go and open their website, check public review in ecommerce or google search
+  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
+  can a fool run this business
+  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+Finance check:
+  //Balance sheet
+--Total assets(current valuation) compared with Marketcap - to identify asset plays
+--check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
+  sell non current-assets to clear them or take loan (both are bad)
+--shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
+  activity -- proceeds from shares section)
+  //Profit and loss statement
+--sales growth consistent and increasing?
+--operating profit +ve  most of the time and growing?
+--other income significant to operating profit over the years?
+--interest expense >40-50% of operating profit?
+--net income consistently +ve and growing? 
+//Cashflow statement
+--CFO +ve most of the time and growing?
+--free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+--use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+//Ratios:
+--NPM(consistent and above 10%) - company has Pricing power 
+--OPM(consistent and above 10%) - company has Efficient management 
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROCE(consistent and above 15%) - good profitability
+--ROIC(consistent and above 15%) - company has MOATS
+--D/E < 1?
+if D/E > 0 check in the balance sheet if the long term debt is increasing ?
+check D/E trend
+can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+
+
+
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
-quick check
 know about the company:
   Nature of business: business services/consumer goods/consumer services/B2B goods
   What does it do: (what is the actual business): 
@@ -125,6 +182,12 @@ Entry barriers
 Luxury/Premium Range
 
 2)PRICING POWER (MUST HAVE MOAT)
+IF NO?  what can be done to counter the absence of pricing power?
+  --Hence backward integration or having long term contracts will be a plus to maintain predictability
+  --Significant volume increase - and become a low cost producer (market share)
+  --maintain low debt - incase international prices drops significantly they don't have a choice but to decrease the price for not 
+  losing business , even though their costs have increased and should be in a position to take debt if required
+  --achieve operating efficiency so that operating cost is less
 
 3) Longterm vs short term bet
 /Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
@@ -178,6 +241,7 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt
+--expenses breakup and see which expenses are growing YOY
 //Financial strengths
 //Financial weakness
 

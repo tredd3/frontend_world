@@ -23,8 +23,10 @@ multiple MOATs exist OR MOATs exist for almost all of its product lines - if som
  Note: if operating leverage is very high because of fixed costs company can be wildly profitable and expand margins , but it
   can also be bankrupt if it has high debt and sales decrease(check debt levels, especially interest wrt operating profit)
  so to have this MOAT companies must focus on revenue increase by increasing sales volume (check business_strength_check line 194,195)
-e.g: AMC, Insurance companies - no matter how much money flows in, the money manager will be given same salary and the operating cost 
-   are very much fixed
+e.g: AMC, Insurance companies, Banks - no matter how much money flows in, the money manager will be given same salary and the 
+ operating cost are very much fixed
+ Airlines, Telecom , GAIL , IOCL - irrespective of the voulmes the cost to operate single unit /handle single customer is equal
+    to handling multiple units/handling multiplying customers
 
 2)LOW COST PRODUCER:
  customer loyalty is high(customer keeps coming because he gets quality product/service at low cost) - airlines, commodity companies

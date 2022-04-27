@@ -3,7 +3,16 @@ i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do 
 check net block trend (plant, equipment, machinery trend in balance sheet to check whether it is a upgradation capex or capex addition)
 check sales and market share trend
 ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
-check sales and market share trend
+check net block trend to confirm 
+check sales and market share trend to see if it is working and adding profits
 //operating expenses under control? this parameter indicates management efficiency 
-    if high fixed costs business(then company should have operations of scale and high volumes else the company might be in debt)
+    if high fixed costs business(then company should have operations of scale i.e high volumes else the company might be in debt)
     To confirm check operating expense as % of revenue
+
+//Mode of capex funding:
+cash : preferred (internal accruals)
+debt: long term debt with low interest rates
+companies take debt put it in capex , capex fetches revenue and revenue is used to clear principal and interest and then life long
+ we always get the benefits
+equity: In equity you don't have to return the money but the revenue that you generate should be inline with the current 
+   return on capital. In other words the company has to maintain ROE/ROCE/ROIC to qualify as a good company

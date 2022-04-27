@@ -12,8 +12,11 @@ Over complex industry + high competettion + good management
 5.companies producing daily use essential goods/services used by public :
 babies: Johnson & Johnson products
 Kids: biscuits(Britannia, hide and seek, Oreo), Choclates(nestle),fast food
-Women: makeup , beauty and personal products, gold and jewellery
-Adults: investment, banking,  finance, automobile (parts manufacturing, tires, petrol, engine oils, batteries), electronics(parts manufacturing) fitness and health (zydus wellness), tea/coffee, IT, telecom, habbits (entertainment, booze, cigars) , tourism
+Women: makeup , beauty and personal products, gold and jewellery (Nykaa, Titan)
+Adults: investment, banking,  finance, automobile (parts manufacturing, tires, petrol, engine oils, batteries), 
+ electronics(parts manufacturing) 
+ fitness and health (zydus wellness),
+ tea/coffee, IT, telecom, habbits (entertainment, booze, cigars) , tourism
 Family: agriculture, insurance, pharma, food, beverages, FMCG like ITC, HUL, power (coal, solar), clothing (inners like Rupa, jockey)
 
 
@@ -43,10 +46,10 @@ New age businesses that has a capacity to suffer - i.e they are diverting profit
   Noet: always buy them only when they are profitable for like 2 yrs in a row, bcoz of most of them might not be profitable and you
   will lose money
 Lousy industries: No growth Industry where the company is growing by acquiring market share and becomes profitable
-  It does something dull and profitable(manufacturing bottle caps, plastic forks) - demand throughout the year but no new competettion
-  wants to enter this business (MOAT: entry barriers, switching cost)
+  It does something dull and less profitable(manufacturing bottle caps, plastic forks) - demand throughout the year but no new 
+  competettion wants to enter this business (MOAT: entry barriers, switching cost)
   It does something disagreeable and profitable(waste management, cleaning, chappals, underwear) - demand throughout the year but 
   no new competettion wants to do this because of the nature of the business (MOAT: entry barriers, switching cost)
-  high capex is needed
+  high capex is needed no one wants to enter or it is difficult to build such infra in less time (GAIL, powergrid, IOCL)
 repeat business - people need to keep buying it to survive/daily needs (MOAT: low cost producer, Brand, distribution network)
 Platform/Infrastucture Business(Indiamart, IEX, Amazon, Zomato) - (MOAT: Economies of scale, Switching cost, Distribution network)

@@ -204,9 +204,6 @@ what makes the product or service of this company Unique?
   //does it delight the customers - when they don't find that product in a store will they go across the street to get it
   //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
 
 
 --------------------------------------- FUTURE ----------------------------------------
@@ -245,6 +242,7 @@ i)INTERNAL GROWTH OPPURTUNITIES
     /volume led growth - cutomers buy more of the current/old products
     /Launch New products - capex and manufacture new products(innovated products/refurbised products) and selling them to old
       customers at high prices
+    Note: mode of capex funding is also important: preference cash>debt>equity
   3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
     growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
@@ -346,20 +344,6 @@ Hence a company needs to do some experimentation with the products/geography or 
 -ve scenario: Earnings decrease and Total Shares outstanding increases, EPS goes down and  hence share prices crash
 
 
----USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
-Cash
-Organic growth - putting back the money in the same business
-Inorganic growth - M&A
-Dividends
-Buyback - preferred
-Capex - new
-Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
-modernising or technology upgradation of operations
-R&D
-Advertising
-Working capital (tied up in) - bad
-
-
 ---RETURN ON CAPITAL:
 Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital)
 Very Good company : ROCE/ROIC(return on capital) >>> WACC (cost of cpital)
@@ -368,3 +352,18 @@ Note: there are a very few companies that does this
 Hence better to take out the cash from such companies and use it acquire other businesses, if u redeploy the incremental
   capital in a business where there are no growth oppurtunities to use that capital then its returns get hampered - exactly to avoid 
   such case most FMCG companies distribute their profits as dividends
+
+
+---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
+ growth and not for survival 
+Cash - waiting for oppurtunities
+Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
+Inorganic growth - M&A for strategic purpose or to build a MOAT
+Dividends
+Buyback - preferred
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
+operating efficiency - modernising or technology upgradation of operations
+R&D
+Advertising
+Working capital (tied up in) - bad

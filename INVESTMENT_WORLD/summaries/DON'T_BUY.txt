@@ -3,8 +3,9 @@
 2.Promoter pledging increases over the years
 3.Debt/Equity is huge and have increased over the years
 4.Mindless diversification - entering into businesses in which they don't have expertise
-5.not adapting to change - like EVs for auto sector, 5G tech for telecom, latest innovations in electronics latest innovations in electronics
+5.not adapting to change - like EVs for auto sector, 5G tech for telecom, latest innovations in electronics
 6.costly acquisitions
+7.heavy capex and poor cash flows
 
 
 --------------------------- companies to AVOID ------------------------------
@@ -12,15 +13,18 @@ GOLDEN RULES:
   Never buy a business that you don't understand
   Never buy a business that changes too often that you can't predict it for the next 10 years
 
-/CONTINOUSLY needs to do capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+/CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+  why not to buy? - every year the additional capital we pump in the business goes for maintenance and upgradation(i.e for sustainence)
+  if the company doesn't have pricing power and there is a inflation taking capital goods price higher - then also they will 
+    take hit on profits. Even worse is that if the company already has a debt it may go bankrupt or will sell other assets
+  Solution: 
   However you can buy companies providing services to above sectors as those comapnies will be at the receiving end and the
   above sectors will be at the spending end.
-  e.g: NBCC (infra and construction services)
-  Sterlite technologies(telecom optical fibre setup and monitoring services)
+  e.g: Sterlite technologies(telecom optical fibre setup and monitoring services)
 /CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
 e.g some pharma companies put >40% of revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash
  However if you find an exceptional company(strong MOAT) which is both efficient and profitable in above sectors then buy
-/companies that have huge debt or need to take debt CONTINOUSLY to survive 
+/companies that have HUGE debt or need to take debt CONTINOUSLY to survive 
 during Bull run: it will eat away profits => EPS decreases => share price decreases
 during Bear crash: it can make company bankrupt
 and also company has to pay interest even if it is in loss => assets needs to be sold => bankruptcy
@@ -31,14 +35,14 @@ and also company has to pay interest even if it is in loss => assets needs to be
 /Avoid companies that compete on price - invest in companies that compete on providing value addition
 Companies in heavy competetive market like Food delivery,E-commerce,Aviation are loss making because they always burn cash in 
 the form of discounts to attract customers as customers always search for discounted prices and not ready to pay premium.
-/Avoid commodity stocks like metals (unless u know the commodity cycle and track its prices and supply etc) because price is decided
-  globally and it can take you around 80-90% down if you enter at he wrong time.
+/Avoid commodity stocks like metals (unless u know the commodity cycle and track its prices ,global demand and  supply etc) because
+ price is decided globally and it can take you around 80-90% down if you enter at he wrong time.
 /hotest trending stocks - you can be locked at very expensive valuation
   Avoid hottest stock in the hottest industry like Saregama/KPIT/Tatamotors bcoz u need to continously rebuild the MOAT
   problem with the tech/hottest industry: it attracts smart people and someone in the world will always try and get the technology 
   products at cheaper price hence instead of focusing on tech stocks focus on companies that use this tech and become EFFICIENT. 
-  Now tomorrow when the R&D people succeed and come with a low cost product, then the company that is already using the tech will be
-  more PROFITABLE (infact EFFICIENT + PROFITABLE)
+  Now tomorrow when the R&D people succeed and come with a low cost product, 
+  Solution: Buy the company that is already using the tech will be more PROFITABLE (infact EFFICIENT + PROFITABLE)
 /stocks with buzz of next IBM, next Microsoft, next HUL etc - why don't you focus on existing brands and learn why they have become
  brands, instead of focusing on the next/upcoming brands
  However if you have studied and know the success mantra of brands and find a company that is replicating it, then  you can conside
@@ -64,17 +68,23 @@ the form of discounts to attract customers as customers always search for discou
   company it is bound to see losses.Moreover overdiversification sometimes leads to producing of avg revenues as all the profitable
   businesses revenue will be nullified with bad/Average ones
   However if the company does the reverse and sell all the unrelated businesses then it will be a turnaround oppurtunity
-/having very few clients like railtel - they will be highly dependent on fortunes of the client business and stickyness which leads
-  to either losing of pricing power OR the business altogether
-/Avoid companies dependent on govt lifting bans on imports, govt subsidies/schemes or order inflows only from 
-  govt or limited clients or will get orders only on low bidding(here others can take over or it will
-  put pressure on margins)
+/Avoid companies dependent on govt lifting bans on imports, govt subsidies/schemes - bcoz once govt lifts bans then importers will 
+  take away the market share and eat profits
+/Avoid companies where order inflows only from govt or limited clients or will get orders only on low bidding(here others can 
+ take over or it will put pressure on margins) -  bargaining power of buyers will come in to existence and company will not have 
+ bargaining power it will just be a puppet else it will lose busniess. Also company's future is highly dependent on fortunes
+ of the client business
 /irregular growth  or too high growth in small span (50%/100% growth rate in 1-2 years) - this is unsustainable
 /No new development of products or not catching up with current trends
-/B2B companies(suppliers) that doesn't have pricing power because of high competettion/high customer and revenue concentration
-B2C companies might cut them off if they increase the price.Because the increase in price will affect the profitability of the 
-firm as they purchase in bulk quantity (so they always expect discount)
-Exception: L&T, Intel bcoz they established a sense of trust/brand/customer loyalty
-/Avoid companies with limited market size - as the companies doesn't have an option to expand beyond a certain point
+/B2B companies(suppliers) that doesn't have pricing power because of high competettion and also if they have high customer and 
+  revenue concentration then lose of a customer can be -ve to the firm
+ if the company increases price clients will look for other alternatives as the client margins squeeze as they need to procur these 
+ in bulk and the clients always ask for disounts and if the B2B company don't give them discounts clients profitability is 
+ affected leading to contract termination 
+Note: Hence B2B companies are always a price play. Unless they have some USP or they are low cost producer or they are in niche space
+i.e low competettion you are not supposed to buy 
+Exception: L&T, Intel , Nvidia etc bcoz they established a sense of trust/brand/customer loyalty with the end consumers
+/Avoid companies with limited market size and there is no option of scalability of business model - as the companies doesn't have 
+  an option to expand beyond a certain point they might grow in short term but cannot be a multibagger in the longterm
    e.g some companies market is limited to only domestic and that too only few businesses/clients need it
 

@@ -1,19 +1,79 @@
-Overall: Analyse with a fraud identification mindset and not with a confirmation bias
-Business :
+Overall: keep track of market share, international glass price and raw material prices
+Business : just because solar power generation increases doesn't increase borosil renewables business , it's business increases 
+   only if either foreign or domestic module manufacturers source glass from them
 Financials :
 Risks :
 Valuation :
+
+
+------------------- SCREENING SUMMARY -------------------
+Basic check:
+  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
+     capacity to suffer/suggestion from youtuber or broker
+  stock price falling continously/abnormal(google search): Yes/No
+  legal orders(confirm from wiki) and tickertape
+  corporate actions, dividend history and announcements from tickertape
+  check shareholding pattern(especially promoter) trend over the years in tijori
+  promoter pledging
+  is the business easy to understand or complex :
+  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
+    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
+
+Business check:
+  screener pros and cons
+  market share trend
+  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
+  can a fool run this business
+  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+Finance check:
+  //Balance sheet
+--Total assets(current valuation) compared with Marketcap - to identify asset plays
+--check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
+  sell non current-assets to clear them or take loan (both are bad)
+--shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
+  activity -- proceeds from shares section)
+  //Profit and loss statement
+--sales growth consistent and increasing?
+--operating profit +ve  most of the time and growing?
+--other income significant to operating profit over the years?
+--interest expense >40-50% of operating profit?
+--net income consistently +ve and growing? 
+//Cashflow statement
+--CFO +ve most of the time and growing?
+--free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+--use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+//Ratios:
+--NPM(consistent and above 10%) - company has Pricing power 
+--OPM(consistent and above 10%) - company has Efficient management 
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROCE(consistent and above 15%) - good profitability
+--ROIC(consistent and above 15%) - company has MOATS
+--D/E < 1?
+if D/E > 0 check in the balance sheet if the long term debt is increasing ?
+check D/E trend
+can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+//Valuation
+--EV/EBIT Valuation
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 quick check
 know about the company:
-  Nature of business: B2B goods
+  Nature of business: B2B goods (probably cyclical due to price fluctuations)
   What does it do: (what is the actual business): 
      High Performance Solar Tempered Glass - company does deal in glasses with various thickness, size and textures.  
   How does it do :
-  //Raw materials
+    //Raw materials - 99.5% of materials are available domestically
+      soda ash
+      Gas - have long-term contracts or medium-term contracts with the GAIL 
     //Manufacturing Processes - how ?
     Use of low cost renewable energy. Owns 1.5 MW of wind farm and is developing solar plant of 1 MW and proposed investing in 
       10 MW Wind-Solar Hybrid power plant
@@ -25,11 +85,18 @@ know about the company:
   Target Audience : Solar Module and PV manufacturers globally and domestically
   Subsidaries/JVs:
   market size: large
-  market share: 35% (remaining imports from Malasiya, China)
+  market share: 
+    35% (remaining imports from Malasiya, China)
+    50% (after increased capacity of 2100 TPD)
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE GEOGRAPHY: Exports - 20%
+  REVENUE GEOGRAPHY: 
+    Exports - 20% (relatively less profitable than domestic sales bcoz in domestic we have the CVD thing added to actual import 
+     price - but still we have exports exposure because of the potential and risk management  in a way that we maintain relation 
+     with big customers and service minimum quantity to them)
+    domestic remaining
   Revenue Model: 
+    Thinner glass (2mm, 2.5 and 2.8 mm) - 30% portfolio (prices 25% higher than conventional glasses)
   Clients(Important ones):
     domestic - 100 customers
     international - Majority international customers based in Western Europe/Turkey, which leaves scope to expand to other markets
@@ -44,15 +111,11 @@ what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast grow
 ---Sectoral analysis:
 //STAGE of development:
 pioneering - green energy
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//Sector value chain : 
+soda ash + gas(raw materials) => manufacture solar glass from furnace => extract tempered glass from normal glass (what %of that is
+ extracted measures the efficiency of the firm's manufacturing process) => manufacture solar modules => installation(power generation)
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
-   only within the country :
-        limited to few businesses/limited customer usage
-        not limited to a single user (almost every user will find its usage now or eventually)
-        not limited to single business (almost every business will find its usage now or eventually)
-   global oppurtunity/exports :
-        limited to few businesses/limited customer usage
+   domestic and exports :
         not limited to a single user (almost every user will find its usage now or eventually)
         not limited to single business (almost every business will find its usage now or eventually)
 
@@ -62,8 +125,8 @@ at profitable end of value chain), demand and supply (size of opportunity)
   Global - exports
 
 //Type of demand
-    continous and growing demand 
-    Transitionory Demand 
+    one time demand - because replacement of a module timeline is 25yrs
+    Transitionory Demand - continous and growing
 
 //Capturing sector demand Oppurtunities:
 sector demand is growing and it is the only player in india
@@ -76,8 +139,8 @@ High Performance Solar Glass for
 • High Performance Green House
 • Solar Rooftop, Water pumps
 • Solar Thermal projects
-• Bifacial - using two glasses in each module as against one in the case a conventional module and as a result, there is a shift
- in favor of thinner glass of 2mm globally. 
+• Bifacial - using two glasses in each module front and back i.e charging from both sides as against one in the case a conventional
+  module and as a result, there is a shift in favor of thinner glass of 2mm globally. 
 • Borosil Solar Glass with low Antimony content
 • NoSbEra: Borosil Solar Glass – without Antimony(patented technology) - Borosil is the only solar glass manufacturer in the world
  who has been able to successfully remove the Antimony(toxic element) from Solar glass
@@ -95,8 +158,7 @@ Applications of thinner glass : Floating PV, Frameless Modules, Bifacial and  Gl
 
 2)COMPETETION :  none in india
   global competettion - low cost imports risk from china any Malasiya
-  threat of new entrants - none in the near term as getting in to this space needs an R&D of atleast 5-6 yrs and by then borosil 
-     might have gotten that brand name and first mover adavantage with huge market share
+  threat of new entrants - high entry barriers
 
 
 3)Listed peers Comparison: no peers
@@ -116,8 +178,16 @@ ideally a company that clones other successful strategies is almost bound to win
 --- EARNING POWER (Earnings Growth Oppurtunities check )
 //SOURCE OF EARNINGS
 --Internal Growth oppurtunities
-capex - 5 times increase by FY24 (from 450 TPD to 2100 TPD)
-TPD - tons per day
+capex - 5 times increase by FY24 (from 450 TPD to 2100 TPD) - TPD :tons per day
+  mode of capex funding is debt(200cr) + equity(200cr) + reserves (200cr)
+high margin product usage in future -  As of now demand in India is almost zero & all the demand from exports, but projection is that 
+  30% of the overall installation in india and 40% across the globe will be bifacial going forward taking the demand for 2mm glass 
+  higher (bifacial means both sides glass meaning 2X the demand of glass)
+  Also 2mm glass globally except europe use heat strengthened bcoz they were not able to fully manufacture a tempered glass - however
+     tempered glass is stronger compared to heat strengthened and that too with zero price difference 
+As of now all the glass which company manufactures is very low in antimony but once demand comes for antimony free then the 
+   company is ready with the technology
+efficiency : currently 73% glass(from furnace) is converted to tempered glass => so tehere is a lot of work to do here
 --External Growth oppurtunities
 Macroeconomic: 14 Gigawatts of solar module manufacturing capacity exists
 in India, actual production was about 5.5 Gigawatts during the financial year 2021. We see
@@ -125,21 +195,25 @@ installed capacity rising to 50 Gigawatts of solar panels within the next three 
 Tailwinds:
 Lot of Govt support
 Exports - A very good potential to increase exports to Europe, Americas, Russia, Turkey and MENA due to renewed focus on domestic
-  modules manufacturing in Solar PV 
+  modules manufacturing in Solar PV in their respective countries
 
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
-Economises of Scale
-Low cost producer
-Brand
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
+Economises of Scale - target
+Low cost producer - target
+Intangible assets - lot of patented products
+Entry barriers - none in the near term domestically as getting in to this space takes time, spending money etc and by then
+  borosil  might have gotten that brand name and first mover adavantage with huge market share
 
-2)PRICING POWER (MUST HAVE MOAT)
+2)PRICING POWER (MUST HAVE MOAT): prices are dependent on the international prices and import prices 
+  what can be done to counter the absence of pricing power?
+  --Hence backward integration or having long term contracts will be a plus to maintain predictability
+  --Significant volume increase - and become a low cost producer (market share)
+  --maintain low debt - incase international prices drops significantly they don't have a choice but to decrease the price for not 
+  losing business , even though their costs have increased and should be in a position to take debt if required
+  --achieve operating efficiency so that operating cost is less
+  will prices of solar glass rise for the next couple of years? - depends on demand and supply
+
 
 3) Longterm vs short term bet
 /Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
@@ -151,21 +225,13 @@ Note: Don't forget to compare dividend yield with FD interest rates
 
 
 ----Capital Allocation 
-//SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
+//SOURCE OF CAPITAL - Debt + New Equity
 
 
 //USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
-Cash
 Organic growth - putting back the money in the same business
-Inorganic growth - M&A
-Dividends
-Buyback - preferred
-Capex - new
-Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
-modernising or technology upgradation of operations
+Capex - new (mostly)
 R&D
-Advertising
-Working capital (tied up in) - bad
 
 
 //RETURN ON CAPITAL
@@ -195,29 +261,55 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 check Financial_Strength_Check.txt
 //Financial strengths
 //Financial weakness
+monitor debt levels
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
 //how is the Management and their Vision: growth vision
 Corporate Governance: A professionally managed business backed up by family
+promoters present in Board
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
-1)demand is mostly linked to demand of module manufacturing in the country - Recent announcements by various Module Manufacturers/
+1)demand is linked to domestic module manufacturing in the country - Recent announcements by various Module Manufacturers/
   Solar Plant Developers to add 37 GW of module manufacturing capacity taking the same to about 50 GW over next 3 years
+Note 1: but Glass like any other component of solar module is left out to be decided whether it is to be sourced locally or imported
+Note 2: Two maufacturers already said they will create a glass manufacturing unit and backward  for captive consumption and secure
+  their supply chain
 2)The government of India has been protecting the domestic manufacturers through anti-dumping duty and countervailing duty on imports.
  Hence, any change in the current policy or increase in supply by importers, could impact BRL’s turnover and profitability.
 Even if govt removes both the rules - Present domestic demand > BRL’s post-expansion capacity, robust growth in the sector in domestic
  manufacturing of modules, current high share of imports and high growth in exports = Easy absorption of additional production volumes
+ check/monitor inventory levels to confirm
+Note: pricing power might be impacted as china comes in picture if CVD, ADD duties are removed, also Malayasia the largest
+  manufacturer of solar glass can literally service the whole demand of solar glass in India but indian manufacturers choose to be
+  stable geo-politically and locally source them to eliminate forex risk and supplychain issues
+3)soda ash and raw material cost increase can impact margins
+
 
 ---Financial Risk:
+1)soda ash cost increased by 60% - if selling price of glass doesn't increase there will be margin compression
+almost all the competetiors import the raw materials and hence this is true for all the competetiors and hence to counter this 
+  selling price will be increased
+2)since mode of capex funding is debt + equity: focus on return ratios ROE/ROIC/ROCE for the next 2-3 yrs
+i.e return on incremental capital shouldn't be hampered
+3)As of now glass prices are low and heavily fluctuating every 10 days due to demand and supply issues as china controls 90-95%
+   of global market share(however demand is expected to raise exponentially in the future)
+  Also lot of inventory stacking is being done by chinese companies and when inventories rise beyond control, they try to 
+    liquidate the stocks at lesser price which creates a ripple in the market in terms of the price fluctuation
+  Clients ask companies to match the import prices
 
 ---Management Risk:
 
----Investment Returns Risk:
+---Investment Returns Risk: cyclical nature
 
 
 ---------------------------------- VALUATION --------------------------------------
 future cash flow prediction - DCF method
 check tickertape and  morning star for valuation confirmation
 check Valuation_Check.txt
+50 GW is the module manufacturing capacity after 5 yrs => actual production is 70% of 50 GW => 35 GW
+out of which borosil assuming that it has 40% market share (after all the capex) => 14 GW 
+currently borosil is servicing hopw much => 35% of 5.5 GW => 2 GW
+if glass price and raw materials price remians same profits will increase 7X but conservatively lets take margin of safety
+ and assume 4X in 8 yrs even then you will make a 20% CAGR return on your money
