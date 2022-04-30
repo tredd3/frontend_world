@@ -16,6 +16,7 @@ coupled with chip shortages - Russia accounts for about 40% of the global produc
 In 2021, the number of electric vehicles sold was 3,24,840 units. The number of petrol and diesel vehicles sold stood at 18.3 
 million units. This means that electric vehicles stood at around 1.7% of the total vehicles sold. Interestingly, this proportion 
  was at 0.7% in 2019 and 2020.
+out of 1.7%(90% is by Tata Motors)
 
 //Engine types
 ICE(internal combustion engines) - diesel and petrol vehicles
@@ -35,7 +36,10 @@ Govt wants E20 fuel (20 per cent ethanol, 80 per cent petrol), which reduces hyd
 To meet this ambitious government target, the total ethanol capacity is required to be augmented by three times the capacity as of FY2021.
 
 
-//Green hydrogen
+//Fuel cell EVs
+Demand of Fuel Cell EVs to increase given Fuel Cells can
+be refueled, which is considerably faster than recharging.
+Green hydrogen and natural gas as fuels in fuel cells
 pass current through water to separate hydrogen and oxygen (power generated should be from solare energy) else it doesn't make 
  any sense.
 Dealing with green hydrogen needs lot of expertise which India doesn't have

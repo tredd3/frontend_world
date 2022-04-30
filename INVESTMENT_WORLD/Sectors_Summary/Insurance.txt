@@ -104,14 +104,74 @@ expenses are incurred and not amorotised over years, but profits are realized ov
 The ‘embedded value’, in short, is the sum of the present value of future profits plus the market value of net assets.
 
 //players
-LIC - strong agent network
-HDFC LIFE - diversified distribution including HDFC Bank, diversified product base, cost ratio is high because of its focus on
+1)LIC - strong agent network - subsidaries in singapore, bangladesh, Nepal , Mauritius etc
+5th largest player globally
+65% total premium market share (down from 100% in 2000 where LIC is the only player)
+ Individual (30%), group insurance (70%) - group insurance is low margin business bcoz premium collected is very less
+ Linked:0.8%  Non-linked: 99.2% (particpating - 20%, non-participating - 80%)
+ bank partner branches - 51,000 but 93% business from individual agents
+ corporate agents - 3%, direct - 2%
+ Premium gathered per employee - 1.6 cr
+ Revenue per employee - 2.5 lakhs
+ linked life fund yield - 10%, life fund yield - 8.3%
+ GNPA(gross non performing assets) - 7.78%
+ Total premium CAGR(FY11 - FY21) : 7% , FY19 - FY21: 9.3%
+
+
+2)SBI Life - strong bancassurance, subsidary of SBI bank, low protection prodcuts and high reliance on ULIP(low margin business),
+cost efficient in the entire industry with very less cost ratio
+ Market share - 8%
+ Individual (60%), group insurance (40%) 
+ Linked:42%  Non-linked: 58% (particpating - 8%, non-participating - 92%)
+ bank partner branches - 38,000
+ 4% - direct business, 65% - corporate agents, 27% - individual agents
+ Premium gathered per employee - 1.2 cr
+ Revenue per employee - 13 lakhs
+ linked life fund yield - 25%, life fund yield - 8.6%
+ GNPA(gross non performing assets) - 0.05%
+ Total premium CAGR(FY11 - FY21) : 14.5% , FY19 - FY21: 23%
+ 
+
+3)HDFC LIFE - diversified distribution including HDFC Bank, diversified product base, cost ratio is high because of its focus on
  agent expansion by acquiring exide life insurance, aggressive accounting , expensive valuations
-ICICI PRUDENTIAL - strong bancassurance, subsidary of ICICI bank, focusing on diverse product mix, conservative accounting,
+ Market share - 6%
+ Individual (50%), group insurance (50%) 
+ Linked:13%  Non-linked: 86% (particpating - 13%, non-participating - 86%)
+ bank partner branches - 18,000
+ 32% - direct business, 45% - corporate agents, 12% - individual agents
+ Premium gathered per employee - 1 cr
+ Revenue per employee - 8 lakhs
+ linked life fund yield - 38%, life fund yield - 9.5%
+ GNPA(gross non performing assets) - 0.07%
+ Total premium CAGR(FY11 - FY21) : 15.7% , FY19 - FY21: 15%
+
+4)ICICI PRUDENTIAL - strong bancassurance, subsidary of ICICI bank, focusing on diverse product mix, conservative accounting,
  excellent asset quality with conservative investment even in bonds, significant ULIP product mix which can be deadly in bear
  markets, ICICI is trying to reduce that mix
-SBI Life - strong bancassurance, subsidary of SBI bank, low protection prodcuts and high reliance on ULIP(low margin business),
-cost efficient in the entire industry with very less cost ratio
+ Market share - 5.7%
+ Individual (60%), group insurance (40%) 
+ Linked:43%  Non-linked: 57% (particpating - 12%, non-participating - 88%)
+ bank partner branches - 12,000
+ 17% - direct business, 46% - corporate agents, 25% - individual agents
+ Premium gathered per employee - 89 lakhs
+ Revenue per employee - 18 lakhs
+ linked life fund yield - 34%, life fund yield - 9.8%
+ GNPA(gross non performing assets) - 0%
+ Total premium CAGR(FY11 - FY21) : 7.2% , FY19 - FY21: 7.5%
+
+
+5)Max Life - Axis bank is bancassurance partner
+ Market share - 3%
+ Individual (91%), group insurance (8%) 
+ Linked:28%  Non-linked: 71% (particpating - 40%, non-participating - 60%)
+ bank partner branches - 6,000
+ 8% - direct business, 63% - corporate agents, 26% - individual agents
+ Premium gathered per employee - 48 lakhs
+ Revenue per employee - 4.5 lakhs
+ linked fund yield - 31%, life fund yield - 8.8%
+ GNPA(gross non performing assets) - 0.2%
+ Total premium CAGR(FY11 - FY21) : 12.6% , FY19 - FY21: 14%
+
 
 //moats specific to life insurance
 high persistency ratio

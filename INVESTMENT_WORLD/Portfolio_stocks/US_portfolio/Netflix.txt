@@ -49,7 +49,7 @@ Note: if free cash flow is -ve check why
 free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
 --use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
-//Ratios:
+//Profitability Ratios Check:
 --NPM(consistent and above 10%) - company has Pricing power 
 --OPM(consistent and above 10%) - company has Efficient management 
 --ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
@@ -163,23 +163,24 @@ ideally a company that clones other successful strategies is almost bound to win
 
 --- EARNING POWER (Earnings Growth Oppurtunities check )
 //SOURCE OF EARNINGS
---Internal Growth oppurtunities
+--Internal Growth oppurtunities 
+monetising sharing viewers per subscriber
+introducing subscription with ads - giving the service at lesser price for users who need it
+focus on games and animated series - creating more value for money paid by subscribers
+sports documentaries
+orginal content acquisition - by collaboration of the ground team with producers
 
 --External Growth oppurtunities
-Macroeconomic - check MacroEconomy folder
+Macroeconomic :
+ focus on Indian content and subscribers by reducing prices and giving quality content
 Tailwinds
 
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
-Economises of Scale
-Low cost producer
+Economises of Scale - demand side
 Brand
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
+Network effect - more production houses in the world collarborate with Netflix
+
 
 2)PRICING POWER (MUST HAVE MOAT)
 IF NO?  what can be done to counter the absence of pricing power?
