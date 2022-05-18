@@ -23,6 +23,10 @@
   -if someone has more money than the business owner can he come and replace the business by giving incentives to customers
      and take away the market share?
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+  -If a person has lot of money can he break ur business and take away marketshare?
+  -Ideal business always takes little amount of capital to operate and an excellent business always
+    earns same high returns on incremental capital
+
  Note: Quality of the business has nothing to do with the size
 2)FINANCIAL (last 10 yrs decent financials, if not does it have the potential to generate great financials for the next 10yrs)
 As a business owners we are more interested in profitability of the business i.e ROE, ROCE, ROIC, GPM(pricing power),
@@ -225,18 +229,17 @@ Company earnings can come from Internal Growth (sales growth/efficiency) OR Exte
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
-    /Acquire new customers in untapped and rural areas
-    /Acquire customers from competetiors by taking away their market share (does capex to service the demand)
+    /penetration - Acquire new customers in untapped and rural areas
+    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
+      does capex to service the demand)
     /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
-    /it is in a NON Growth/dull sector but company keeps growing by capturing market share from other organised/unorganised players
     /Strong Order inflows (only for B2B companies)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
        products etc - but be careful here as they can move from India to someother country too) 
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
-    /volume led growth - cutomers buy more of the current/old products
-    /Launch New products - capex and manufacture new products(innovated products/refurbised products) and selling them to old
-      customers at high prices
+    /increased consumption(volume led growth) - cutomers buy more of the current/old products
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
   3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
@@ -298,17 +301,16 @@ Note: even though company has a MOAT, you always need to have the guard(YOU) ins
  business to competettion) proof: sales trend is upwards and Net profit Margin trend is either stable or upwards(tijori)
  This will happen only when :
    i)The product or service is unique and there is hardly any substitute
-   ii)Intensity of competetion is low(preferred) OR super efficient business where intensity of competetion is high 
-   iii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
+   ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
      Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
      Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
-    Note: Account payables 
-   iv)NO bargaining power of buyers :
+    Note: Account payables is high meaning company having bargaining power
+   iii)NO bargaining power of buyers :
      Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
      the company needs to give the product on credit ) - if client base is limited then company doesn't have a choice but to sell 
-     the products at a lower price, if the buyer demands so, especially true for B2B suppliers OR a company in a highly competettive
-     business (e-commerce, airlines) where people never want to pay premium OR if the product is a commodity (then people always 
-     look for low price as value is same across producers)
+     the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
+     OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
+     product is a commodity (then people always look for low price as value is same across producers)
 Note: Pricing power is must for capex heavy companies and companies with large amounts of debt - otherwise they can go Bankruptcy
   and destroy shareholder's wealth during recession
 

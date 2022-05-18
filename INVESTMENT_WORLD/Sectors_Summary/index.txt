@@ -5,8 +5,15 @@ Note: MAJORITY I.e 75% of NIFTY sectors: Banking/Finance , Technology and Oil & 
 selecting a sector is always a top down approach
 sector comprises of many industries
 
-FINANCIAL SERVICES
+//Sectors and their summary
+1)FINANCIAL SERVICES Sector
 Industry: capital markets : Depositories/Exchanges/Registrars etc
+2)Entertainment and Information: people will always find some way or the other to get the content for free
+3)Fast Food - people might find it boring to have same food every day or every week, i mean then can start looking for 
+   alternatives and this is very crowded space with huge competettion
+4)Fashion Retail - trends keep changing and companies have to invest a lot to keep up with it any miss will lead to 
+   business loss and bankruptcy 
+
 
 //when to invest in which sector
 Recession: economy growth is slow and showing some signs of recovery

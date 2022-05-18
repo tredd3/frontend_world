@@ -5,6 +5,12 @@ Demand is almost static and hence profits are dependent on inflation
 generally available at high valuations(bcoz of brand power and strong financials)
 so while using DCF make sure cashflow rate is acc to gdp rate if not slightly higher
 
+//Indian FMCG Stats
+percapita consumption of FMCG goods in india - 45$
+china - 3X, indonesia - 2X
+Meaning india has a huge headroom for growth and in india particularly it is not a zero sum game
+meaning increase in one FMCG company sales will lead to decrease in others
+
 //highly mature companies so very less growth strategies:(generally a mix of strategies is used)
 -innovation:launch new products and capture market share (but new products has to click)
 even when new prodcuts becomes popular still the revenue growth will be in single digit

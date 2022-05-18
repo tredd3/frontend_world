@@ -37,7 +37,10 @@ only 10 container lines based in Asia and Europe, including Maersk, MSC, Franceâ
 congestion at ports have worsened things - adding fuel to fire
  Even though shipping companies has added capacity throughout the year, but that hasnâ€™t helped ease supply chains because ships 
  are stuck waiting outside ports.
-
+port - which is a man-made facility built for loading and unloading vessels and dropping off and picking up passengers. Ports 
+  usually include one or more harbors.
+A harbor is any sheltered body of water where boats or ships may moor or anchor. A port is an installation that has been built
+  around a harbor with facilities for loading and unloading such vessels. 
 
 //RAILWAYS
 //ROAD

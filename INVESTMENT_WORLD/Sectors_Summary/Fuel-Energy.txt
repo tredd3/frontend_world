@@ -1,7 +1,7 @@
 
 Energy - most countries including india heavily relies on imports
 
-Industry: Crude oil, Natural gas
+Industry: Crude oil, Natural gas, Coal, Green Hydrogen
 2/3 of world's energy needs are met by oil and gas
 huge fixed asset costs - cyclical sector
 large part of oil and gas reserves are present in middle east, hence the countries exporting oil/gas formed a group called OPEC
@@ -30,7 +30,7 @@ Around 198 discoveries of oil and gas have been notified in the basin so far. Of
 
 //GAS
 India's target to raise the share of natural gas in India’s energy mix to 15% by 2030 from about 6.7% now. 
-Demand: power and fertiliser sectors, which account for almost 70% of the consumption.
+Demand: power and fertiliser sectors, which account for almost 70% of the consumption + CGD (city gas distribution)
 Supply: 
   Imports - 54% of its natural-gas needs through LNG imports
   Domestic production: RIL has dicovered the largest gas filed in the country + ONGC producing
@@ -40,7 +40,8 @@ both oil and gas has central excise and VAT that add significantly to the actual
 Note: VAT is meant for State government and Central Excise Tax is levied by central government. Central excise Tax is levied up on
  manufacture of excisable goods in India. But VAT is charges at the time sale of goods within the state
 E.g: fuel, tobacco, alcohol
-
+LNG terminal capacity is expected to grow from current 42.5 MMTPA to around 72 MMTPA in 3 years
+Transmission pipeline network is expected to grow from ~20,000 km to around 35,000 km by 2023 (check Gail)
 
 MOATS:
 oil company in countries part of OPEC

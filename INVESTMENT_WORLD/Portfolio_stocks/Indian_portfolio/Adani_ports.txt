@@ -1,5 +1,9 @@
 -------------------- SUMMARY --------------------
+Overall: Analyse with a fraud identification mindset and not with a confirmation bias
 Business :
+ cargo volume:
+  April ‘21 - 24.46 MMT
+  April ’22 - 28.64 MMT
 Financials :
 Risks :
 Valuation :
@@ -32,7 +36,7 @@ Valuation :
     if NO, go and open their website, check public review in ecommerce or google search
   CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
   can a fool run this business
-  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
@@ -255,9 +259,7 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
     burns more cash to be in the competettion)
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
   -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
-
+  -Ideal business always takes little amount of capital to operate
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt

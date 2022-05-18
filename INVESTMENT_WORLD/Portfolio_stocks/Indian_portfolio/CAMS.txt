@@ -1,5 +1,12 @@
 Overall: Analyse with a fraud identification mindset and not with a confirmation bias
 Business :
+                             FY21    FY22
+Market share:                 69%     69%   
+SIP Market share              52%     59%
+AAUM(lakh crore):                     22
+Equity AAUM:                          33%
+Transaction vol(million):             323
+
 Financials :
 Risks :
 Valuation :
@@ -9,7 +16,8 @@ https://stockdiscovery.s3.amazonaws.com/insight/india/5753/Investor%20Presentati
 1)PAST :
 quick check
 know about the company:
-  Nature of business: business services(financial infrastructure platform services) -  asset light business model
+  Nature of business: business services, CAMS is a technology-driven financial infrastructure and services provider to Mutual Funds
+    and other financial institutions across India
   what does it do (Product/Services Portfolio): India's largest registrar and transfer agent (duopoly with KFintech)
     The company has 7 business verticals, these are
     1)Mutual Fund Services Business - major part of the revenue from data processing
@@ -29,18 +37,19 @@ know about the company:
    CAMS finserv - Account Aggregator
   Target Audience : AMCs, Insurance companies, PMS, AIF etc
   market size: huge (services to 16 out of 41 AMCs in india, 22 by KARVY/Kfintech)
-  market share: 70% of total AAUM in the country (roughly 19 lakh crore)
+  market share: 70% of total AAUM in the country (roughly 22 lakh crore)
       Insurance repository services (40% market share) - NSDL Database management Limited is the leader
   REVENUE GEOGRAPHY: India 100%
   Globally competetive company: NO
     Pan-India physical network comprising 272 service centers spread over 25 states and 5 union territories
   Revenue Model: primarily revolve around the AUMs handled by them across various categories – (equity, debt, liquid, hybrid and others)
     RTAs charge the highest fees for equity AUMs, 33% of CAMS managed AUM is equity AUM
-    certain part of expense ratio is given as payment to CAMS by AMC - 
+    certain part of expense ratio is given as payment to CAMS by AMC
   Clients:
     The company’s mutual fund clients include 4 of the 5 largest mutual funds and 9 of the 15 largest mutual funds based on AAUM
     17 yrs relationship with HDFC AMC, ICICI AMC, SBI, ADITYA BIRLA
 why did the promoters start the business: to capture the huge oppurtunity in financial services space
+promoter: Great Terrain, an affiliate of Warburg Pincus (PE firm)
 any research report/youtube analysis available for the company: https://www.youtube.com/watch?v=kWNsg1dhKPA&list=RDCMUChBT5TlUeG68PKvJSg6MkqQ&start_radio=1&ab_channel=MoneyPurse%7B%E0%B0%AE%E0%B0%A8%E0%B1%80%E0%B0%AA%E0%B0%B0%E0%B1%8D%E0%B0%B8%E0%B1%8D%7D
 what peter lynch bucket does stock belongs to : fast growers
 

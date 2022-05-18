@@ -1,0 +1,96 @@
+//why general insurance sector?
+huge market size oppurtunity as the penetration is less in india compared to other countries (in countries like china premium per 
+ capita is 200$ where as in india it is just 20$)
+oppurtunity size is 10X but competettion is also extreme
+non-life covers(health, vehicle, travel, home, fire , crop, marine)
+entry barriers
+private players gaining share from PSUs
+motor and health insurance is the key followed by crop insurance - Motor has low margins
+home insurance has huge oppurtunity but shift in mindset is important for this to be realised
+in the heath insurance space SAHI(standalone health insurance) companies like start health insurance have done much better than
+ GI(general insurance) companies like ICICI lomabard
+health insurance growth depends on the retail customers awareness, salary and economy etc
+
+
+//Non-life insurance Stats
+Total players: 31
+ICICI lomabard : market share 10%
+
+
+//revenue: 
+1)recurring premiums and fees
+2)invest the pooled assets and get the profit(kind of similar to banks)
+It takes years for Insurance companies to know whether it made money on the policy or not - bcoz the life expectancy , 
+future investment value and the time for which an individual will hold the policy is unknown
+Also bcoz of the above reasons Insurance company cannot effectively price the policy
+
+//expense:
+1)insurance selling costs via agents/banks
+2)benefits to shareholders/employees
+
+//financials
+complex products and financial statements(lot of assumptions and if assumptions fail the company fails)
+gross written premium(GWP): total premiums earned by all the customers
+net written premium(NWP): GWP - premiums ceded/paid to reinsures
+net premium earned(NPE): the premiums collected counts as earnings only when the policy is near to its end date (hence lesser the policy
+ period more quick is the premium realisation as earnings) - NPE is invested in equity/debt/real estate etc
+loss ratio: claims/NEP in %
+  The loss ratio for any company will have 3 major components: 
+   one is the paid claims ratio; 
+   second is claims reserves (claims that are reported but not paid during the accounting period); and 
+   third is IBNR (incurred but not reported claims) These are claims in the current accounting period that have 
+    occurred but have not been reported yet . 
+  Note: from an accounting perspective, you need to predict that and reserve accordingly. So it’s important for an insurer to 
+   reserve adequately and also disclose it as part of its standard disclosures
+expense ratio: expenses/NWP in %
+combined ratio: loss ratio + expense ratio (KEY RATIO TO OBSERVE IN GENERAL-INSURANCE COMPANIES)
+combined ratio < 100% means company is making an underwriting profit and management may be efficient in managing expenses
+combined ratio > 100% means company outlow(claim amount) is more than inflow(premium amount) => loss but
+ it can be offset by investment income, so it is very imp to monitor AUI and their quality
+
+//risk management by companies
+1)Underwriting
+ Predictive ultimate loss model to improve risk selection
+ Diversified exposure across geographies and products
+ Historically lower proportion of losses from catastrophic events than overall market share
+2)Reinsurance - Spread of risk across panel of quality re-insurers
+3)Investments
+ Invest high proportion of Debt portfolio 89.0% in sovereign or AAA rated securities
+ Investing in quality assets and Take proper Margin of safety while investing (for equities, real estate etc)
+4)Reserving
+
+
+MOAT CHECK: weak moats in general
+core profitablity (underwriting profitability is must apart from investment profits) - combined ratio plus reserving practices
+brand
+distribution network
+diversification of products
+assumption heavy business - so conservative accounting assumptions is preferred
+established relationship with corporate consumers - ensures stability
+consistent ROE and ROCE above 15%
+annual premium growth rate not too high
+credit rating
+investment portfolio quality
+low cost provider with volumes? but shouldn't sell unprofitable insurance policies
+did it survive a disaster in the past(2008, 2021)
+unique product: i.e providing insurance for those items which competetitiors don't provide
+
+
+RISK:
+extremely competetive - difficult to build a moat for longterm bcoz of commodity products which can be easily replaced
+mostly a no MOAT business with thin margins, hence acquistions are needed for sustainace
+big annuity business - risky investment as the exposure to equities is more
+no pricing power : public always prefer low cost products, corporate clients also generally interfere in pricing,
+some competetitiors price the policies so low and are ready to take losses in balance sheet to gain market share that will
+eventually effect other firms profits. e.g LIC
+cyclicality: even though it is a mature business since the profits are tied to market returns, in the bull market returns are good
+and premiums are less but in during crash/bear markets premiums need to be increased to make profits but if competetitiors still keep 
+it low then the firm suffers
+
+Risks specific to health insurance:
+increase in health care costs
+mass health infection like COVID/natural calamity etc
+Regulatory risk: IRDAI is considering to allow life insurers to sell health insurance considering their reach and also 
+ globally it is allowed. this will be -ve for SAHI(standalone health insurance) companies and GI(general insurance) companies
+investment risk - financial crisis/ economic recession/interest rate risk can yield low results
+Also corporates are providing health insurance now a days - so check 

@@ -4,17 +4,39 @@ highly regulated sector with constant demand hence it fetches guaranteed but low
 highly competetive(low margins) - commodity industry(no pricing power bcoz govt decides whether the increased fuel and operating 
   prices needs to be passed on to customer or not) - high fixed costs(high debt will ve a problem)
 
-/Indian stats
-Total Installed Power Generation Capacity in India 393 GW as of Dec'21:
-Coal+Lignite - 210, 53%
-Renewables(sunlight, wind, rain, tides, waves, and geothermal heat) - 105, 27% (solar 49GW)
-  solar (49GW) is about 47% of the renewable capacity
-  The target for Solar has since been raised to installing 300 GW by 2030.
-Hydro(waterflow from dam/river rotates turbine of generator) - 47, 12%
-Nuclear - 7, 2%
-Diesel - 1, 0.1%
-Gas - 25, 6%
+------------------ Indian stats for Electricity -------------------
+/Demand for electricity
+ Expected growth of 8-10% in GDP anticipated to further drive demand for electricity
+ 100% household electrification under SAUBHAGAYA scheme
+ Rapid urbanization and Infrastructure - 17 of 20 world’s fastest growing cities in India
+ Per capita electricity consumption is expected to increase by ~40% in the next 4 years
 
+/Total Installed Power Generation Capacity in India 400 GW as of Mar 22:
+  Coal+Lignite - 210, 53%
+  Renewables(sunlight, wind, rain, tides, waves, and geothermal heat) - 105, 27% (500 GW 
+  renewable energy capacity is the target for 2030)
+    solar (49GW) is about 47% of the renewable capacity
+    The target for Solar has since been raised to installing 300 GW by 2030.
+  Hydro(waterflow from dam/river rotates turbine of generator) - 47, 12%
+  Nuclear - 7, 2%
+  Diesel - 1, 0.1%
+  Gas - 25, 6%
+
+/2030 Targets:
+Renewables - 50% (up from 27%)
+Gas - 15% (up from 6%)
+
+/Capacity by ownership
+  Central Govt - 25%
+  State Govt -26%
+  Private - 49%
+
+/Long-term PPA (power-purchase agreements up to 25yrs) - 86% (costly compared to exchange buy hence No new long-term PPAs signed 
+  in the last 5 years in thermal power)
+ 
+short-term : 14%
+  Exchanges: Real Time (1hour) – 11 days (only 7% volume goes through exchanges like IEX - i.e 50%
+  of the short-term market power volume)
 
 ------------- Electricity - generation, tranmission and distribution -----------
 /Generation - input:coal/gas/uranium/sunlight/wind/water output:electricity, deregulated, low entry barriers, low margins because
@@ -58,3 +80,14 @@ Power plants geographical location, condition and stability is very important - 
   company handled it or bounced back from situation
 Cost of 1 unit of electricity/1l of gas compared to peers - low is preferred
 Increasing capcity to cater to high demand is always positive - so expanding capex is good in the long run
+
+
+//Energy Conservation Act, 2001
+Bureau of Energy Efficiency (BEE) -  helps in making policies on energy Conservation
+The scheme seeks to reduce the specific energy consumption (SEC), i.e. energy used per unit of production in energy intensive 
+ large industries(Steel, Cement, Refinery, Fertiliser)
+Energy efficiency in large industries can be achieved by upgrading their machinery and technologies
+Energy Saving Certificates (ESCerts) are issued to those plants that have achieved excess energy savings over their targets by
+ ministry of power as a reward and these certificates can be traded on power exchanges
+those unable to meet the targets either through their own actions or through purchase of ESCerts are liable to financial 
+ penalty under the Energy Conservation Act, 2001

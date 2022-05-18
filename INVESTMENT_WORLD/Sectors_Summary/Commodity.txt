@@ -17,7 +17,9 @@ Grains, such as wheat, soybeans, soybean oil, rice, oats, and corn.
 Animals that become food, such as live cattle and pork 
 Things you wouldn't eat, such as cotton and silk.
 2)Energy :  crude oil, gasoline, natural gas, and heating oil.
-3)Metals : gold, copper, silver, and platinum.
+3)Metals : 
+  precious metals - gold , silver and platinum
+  non-precious metals - copper, nickel , zinc, aluminium etc 
 
 --------------------------------- Agriculture ----------------------------
 

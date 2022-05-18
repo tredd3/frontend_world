@@ -1,0 +1,41 @@
+//About
+While semiconductors is still a commodity business at heart, its end markets are so numerous—PCs, communications infrastructure, 
+ automotive, consumer products, etc.
+Found in thousands of electronic products, a semiconductor is a material that conducts electricity more than an insulator
+  but less than a pure conductor.
+The semiconductor industry lives—and dies by a simple creed: smaller, faster, and cheaper.
+display a range of useful properties such as showing variable resistance, passing current more easily in one direction than 
+   the other, and reacting to light and heat.
+Broadly speaking, semiconductors fall into 4 main product categories:
+1)Memory chips - temporary storehouses of data and pass information to and from computer devices' brains(memory prices are reducing rapidly)
+2)Microprocessors - contain the basic logic to perform tasks (Intel and AMD dominate)
+3)ntegrated Circuit - produced in huge batches for routine processing purposes. Dominated by very large Asian chip manufacturers,
+  this segment offers razor-thin profit margins that only the biggest semiconductor companies can compete for.
+4)"System on a Chip" is essentially all about the creation of an integrated circuit chip with an entire system's capability on it. 
+SOC segment is arguably the only one left with enough opportunity to attract a wide range of companies.
+
+
+Success in the semiconductor industry depends on creating smaller, faster, and cheaper products.
+new technologies lower the cost of production per chip so that within a matter of months, the price of a new chip might fall 50%.
+There is constant pressure on chip makers/manufacturers to come up with something better and even cheaper than what defined 
+ state-of-the-art only a few months before. Therefore, semiconductor companies need to maintain large R&D budgets.
+Hence many semiconductor companies carry out design and marketing but choose to outsource some or all of the manufacturing.
+  This is bcoz of the expensive manufacturing(or fabrication) process involved
+since it is a B2B market/industry the game is played on price rather than value
+It takes years to develop a chip or build a foundry(manufacturing/fabrication plant), and even longer before the products make money.
+
+//Stats
+Global market size: 483 billion USD (2022), 900 billion USD (2027)
+growth drivers: more use of electronic devices, advanced tech like IOT, AI , ML in devices 
+
+//Requirements of semiconductor chips production
+Requires lot of water and electricity
+If you have any dirt on your chips, your chips will not work. You have to make them in a very clean environment 
+lot of capex investment is needed because of the cost of manufacturing machines
+Ukraine provides - critical gases
+Russia provides - palladium metal
+Netherlands - only country having chip machine manufacturers that develops and sells machinery and other products used to 
+  design and test semiconductors.
+South korea and Taiwan - largest chip manufacturers globally
+only five countries supply chips: China, Taiwan, Japan, South Korea, the European Union, and the United States.
+Semiconductors are Korea's largest export. However, most of that is memory products, NAND Flash, and DRAM memory

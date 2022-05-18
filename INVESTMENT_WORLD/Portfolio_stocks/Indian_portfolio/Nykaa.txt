@@ -1,6 +1,13 @@
 -------------------- SUMMARY --------------------
 Business :
+              FY22
+store count:   100
+track fashion products segment profitability:
+
 Financials :
+keep any eye on store profitability
+also NPM - to check competettiveness
+
 Risks :
 Valuation :
 
@@ -85,7 +92,11 @@ Investor presentation for reference:
 know about the company:
   Nature of business: business services/consumer goods/consumer services/B2B goods
   What does it do: (what is the actual business): 
+    It has tie-ups with more than 2000 brands and has over time consolidated its position as one of the leading distributors for some of these brands
+    It manufactures private label beauty products under various brands- majorly Nykaa and Kay Beauty.
+    diversify into fashion and apparels segment as well as offline retail model(apart from e-commerce)
   How does it do :
+    FSN operates on company owned company operated (COCO) model
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small
@@ -159,11 +170,12 @@ sector demand constant like FMCG :  company needs to capture market share from o
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  what is the unlisted players market share - 
-  listed peers market share -
+  what is the unlisted players market share -   unorganised players dominate the market 
+  listed peers market share - e-commerce  players
   postion among peers - 
   global competettion - imports risk from china or any other low cost producer country?
-  threat of new entrants
+  threat of new entrants - yes
+
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
 
@@ -172,9 +184,9 @@ what makes the product or service of this company Unique?
   //does it delight the customers - when they don't find that product in a store will they go across the street to get it
   //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
+    Direct purchases from brands ensures quality and genuineness of the products being sold. 
+    Avaialabiity of all beauty products
+  //how is the quality of product/service - cost is bit high
 
 
 ------------------- FUTURE -----------------
@@ -272,6 +284,8 @@ check Financial_Strength_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+Exposure to intense competition leading to pressure on profitability: check NPM YOY basis
+recent expansion in the fashion products segment is yet to generate profits and has led to constrain on overall profitability of the group.
 
 ---Financial Risk:
 
