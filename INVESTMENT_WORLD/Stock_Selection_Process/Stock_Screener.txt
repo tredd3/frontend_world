@@ -1,8 +1,12 @@
 -------------------- SUMMARY --------------------
+you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
+
 Business :
 Financials :
 Risks :
 Valuation :
+  Valuation is what differentiates Great Investment from a great business
+  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
@@ -38,7 +42,8 @@ Valuation :
 
 //Finance check:
   //Balance sheet
---Total assets(current valuation) compared with Marketcap - to identify asset plays
+--(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
+--Total assets compared to equity (liabilities should be as less as possible)
 --check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
   sell non current-assets to clear them or take loan (both are bad)
 --shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
@@ -49,13 +54,13 @@ Valuation :
 --other income significant to operating profit over the years?
 --interest expense >40-50% of operating profit?
 --net income consistently +ve and growing? 
-//Cashflow statement
+  //Cashflow statement
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
 free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 --outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
 //Profitability Ratios Check:
 --NPM(consistent and above 10%) - company has Pricing power 
@@ -88,7 +93,8 @@ know about the company:
   How does it do :
   Subsidaries/JVs:
   Target Audience : 
-  market size: huge/large/small
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
@@ -108,7 +114,7 @@ Note: Categories of Stock:
   6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 
 --------------------- PRESENT --------------------
----Sectoral analysis:
+---Sectoral analysis: 
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -195,7 +201,7 @@ Tailwinds
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
 Economises of Scale
-Low cost producer
+Low cost producer - check product quality and profitability ratios
 Brand
 Taste
 Network effect
@@ -245,6 +251,7 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
   -prefer high margin non commoditized business - if commoditized then must be a low cost producer
   -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
   -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health

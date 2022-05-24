@@ -1,19 +1,19 @@
 -------------------- SUMMARY --------------------
 Business : if commodity prices and volumes increase MCX will do well
+Agri-Commodities market share increased from (20%) , also options volume increasing ?
 
-Turnover of Commodity Futures traded on Indian Commodity Exchanges (Lakh Crore)
-MCX has 93% market share on this volume
-                    FY19     FY20     FY21     FY22 
-Agri commodities     0.6      0.5
-Base Metals          2.5      1.5
-Bullion              1.5      3.0 
-Energy               2.4      3.8
--------------------------------------------------
-Total                7.1      8.9     8.4
+INDIAN COMMODITIES MARKET IN TERMS OF VALUE OF FUTURES TRADED (INR TN)
+MCX has 93.6% market share on this volume
+
+                            FY19    FY20     FY21    FY22 
+Total Market volumes         72      89       84      72
+ADT(futures on MCX)in cr   25,748  32,550  31,595  26,178
+ADT(options on MCX)in cr     707    1,131     943   7,860
 
 Financials :
 Risks :
 Valuation :
+  Valuation is what differentiates Great Investment from a great business
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
@@ -110,11 +110,20 @@ know about the company:
         accredited vaults of these agencies located at Ahmedabad, Delhi, Mumbai, Bengaluru, Chennai, Cochin, Hyderabad, Jaipur, Rajkot, Agra, Salem and Kolkata.
   Target Audience : 
   market size: small
-  market share: 93%
+  Overall market share: 93.6%, NCDEX(6.3%)
   Presence : offices in India /US etc
   Globally competetive company: NO
   REVENUE GEOGRAPHY: India 100%
   Revenue Model: 
+    Precious Metals & Stones - 39.17% (99.99% market share)
+    Energy - 35.56% (100%)
+    Base Metals - 22.33% (100%)
+    Agri-Commodities - 1.66% (19.54%)
+    Index Futures - 1.27% (99.30%)
+
+    32 cr - options
+    3cr - membership fees
+    5cr - data fees
 promoters: ministry of finance , Govt of India 
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -211,6 +220,7 @@ SEBI green signal for MF and PMS managers to particpate in exchange traded deriv
   one of the most promising opportunity 
 Spot trading platforms for Bullion, Coal, etc.
 electricity derivatives would be linked to spot electricity prices of IEX 
+SEBI allowed trading in commodity index options
 
 --External Growth oppurtunities
 Macroeconomic - check MacroEconomy folder
@@ -228,7 +238,7 @@ Switching costs
 Entry barriers
 Luxury/Premium Range
 
-2)PRICING POWER (MUST HAVE MOAT)
+2)PRICING POWER (MUST HAVE MOAT): SEBI decides the prices like IEX
 
 3) Longterm vs short term bet
 /Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
@@ -301,6 +311,7 @@ check Risk_Check.txt
 ---Business Risk:
 trading activity and volumes should keep growing if it stops then MCX business is gone - like in COVID
 if commodity price decreases then the turnover will get affected reducing profits
+Pricing related Rsik: SEBI decides and controls it for all the exchanges
 Policy-related risks - a new tax or increase in the existing rates of taxation will impact MCX’s trading volumes which would have 
   a cascading effect on the clearing volumes, thereby impacting your Company’s profitability.
 

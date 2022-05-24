@@ -7,11 +7,15 @@
   INVESTING IS A COMBINATION OF ART + SCIENCE + Legal Work
 
 1)BUSINESS(high quality) - think in a way that you will own/buy the entire business and not a single share. understand/analyse the 
-  big picture, i.e the macroeconomic picture and oppurtunity and sector growth oppurtunity(keeping in mind global low cost imports)
+  big picture, i.e the macroeconomic picture and oppurtunity and sector growth oppurtunity(keeping in mind global competettion)
   -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
-    attracts customers and companies which compete on price will lose their business to competetiors
+    attracts customers and companies which compete on price will lose their business to competetiors(especially in business that
+     generate great returns lot of competetiors will come with a lot of capital to take away the market share and offer less prices)
   -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
+  -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
@@ -20,8 +24,6 @@
   -Company having calibre or potential to adapt to the changing business environment - having said that invest 
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
-  -if someone has more money than the business owner can he come and replace the business by giving incentives to customers
-     and take away the market share?
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
   -If a person has lot of money can he break ur business and take away marketshare?
   -Ideal business always takes little amount of capital to operate and an excellent business always
@@ -37,9 +39,11 @@ As a business owners we are more interested in profitability of the business i.e
    should never hesitate to capture long term oppurtunities by spending on advertising(brand promotion), R&D(innovative products) ,
    capex(infra, upgrading machinery), technolgy(for efficiency) etc as they save taxes in short term and create wealth in the longterm
    and not focus on short term profits(like giving discounts to boost quarterly sales, take debt to buyback shares etc)
-4)VALUATION - how much the business is actually worth, i.e we are interested in compounding of company's earnings over the next 10 yrs
-   and discount it using current interest rates to derive intrinsic value
-  we can pay premium to intrinsic value (but not overpay) for high quality businesses - if you don't find any oppurtunity then invest in Index funds.
+4)VALUATION -  Valuation is what differentiates Great Investment from a great business
+   we are interested in compounding of company's earnings(cash flow) over the next 10 yrs
+   and discount it using current interest rates to derive intrinsic value (how much the business is actually worth today)
+  we can pay premium to intrinsic value (but not overpay) for high quality businesses (ROIC > WACC, Moats, longterm Growth runway)
+  if you don't find any oppurtunity then invest in Index funds.
   if the company is excellent but available at low valuation - u need to check Why_Stock_Price_Falling.txt
   /why valuation are important?
   if you buy an extraordinary company that is over valued, then it might take a decade for the earnings to catchup to the price
@@ -218,8 +222,7 @@ check Management_Check.txt
 
 
 ---------------- EARNING POWER (Earnings Growth Oppurtunities check ) ----------------
-Earning Power is the ability of the company to grow or compound its earnings every year (in the worst case keep it constant but
-  then its better to hold bonds for more predicitability)
+Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
 
 ---SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
       sustainable or not, i.e it decides quality of earnings
@@ -346,10 +349,12 @@ Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital)
 Very Good company : ROCE/ROIC(return on capital) >>> WACC (cost of cpital)
 Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 Note: there are a very few companies that does this
-Hence better to take out the cash from such companies and use it acquire other businesses, if u redeploy the incremental
+Hence better to take out the cash from such companies and use it to acquire other businesses, if u redeploy the incremental
   capital in a business where there are no growth oppurtunities to use that capital then its returns get hampered - exactly to avoid 
   such case most FMCG companies distribute their profits as dividends
 
+why Return on Capital is important?
+Over the longterm the investment returns will always resemble the capital returns
 
 ---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
  growth and not for survival 
