@@ -41,19 +41,30 @@ Valuation :
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet
+  //Balance sheet Strength check
 --(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
---Total assets compared to equity (liabilities should be as less as possible)
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+--Total assets compared to equity (liabilities should be as less as possible for a strong balance sheet)
 --check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
   sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
+--Check Equity CAGR from balance sheet equity section (if it is constant then check dividend section in cashflow analysis bcoz company 
+  might be giving out its earnings as dividend) OR (check share capital section where company might be doing buyback)
+Now check ROE trend for all those years (if equity is increasing at above 15% and ROE is at around 15% or more then it is a wonderful business)
+Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
+ 
+ //Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
+--earnings quality check : core business vs other income contribution to profits over the years?
 --interest expense >40-50% of operating profit?
 --net income consistently +ve and growing? 
+  
   //Cashflow statement
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
@@ -62,7 +73,8 @@ free cash flow -ve bcoz of operating cash flow => company is bad and in-efficien
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
 --use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 --outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
+
+ //Profitability Ratios Check:
 --NPM(consistent and above 10%) - company has Pricing power 
 --OPM(consistent and above 10%) - company has Efficient management 
 --ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
@@ -70,10 +82,10 @@ free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash
 --ROIC(consistent and above 15%) - company is generating enough cash in its core business
 --D/E < 1?
 if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
+check D/E trend 
 can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
-//Valuation check
+ //Valuation check
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
 Price - is what people pay for the business
 Valuation is price compared to earnings 
@@ -98,8 +110,9 @@ know about the company:
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE GEOGRAPHY: India 100%
-  Revenue Model: 
+  REVENUE by GEOGRAPHY: India 100%
+  Revenue by Product: 
+  Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
@@ -248,7 +261,8 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
   -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
   -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
   -proxy play on some capital intensive/debt heavy/lousy industry ? 
   -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
@@ -274,7 +288,7 @@ check Financial_Strength_Check.txt
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
 //how is the Management and their Vision:
-//
+check management discussion analysis in annual report
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt

@@ -103,7 +103,9 @@ businesses which are in a highly competetive industry
 Note: increase in longterm investment doesn't mean the market value of investment has gone up rather it means every year company
 is investing in some business
 
---Goodwill: if a company has a lot of goodwill compared to total assets(say > 10%) then check the impairment to goodwill and how acquired companies are performing
+--Goodwill: if a company has a lot of goodwill compared to total assets(say > 10%) then check the impairment to goodwill 
+ and how acquired companies are performing (if impairment to goodwill is high and acquired companies is performing poorly then the 
+ market prices the company significantly lower than what u have acquired for hence destroying shareholders wealth)
 Economic Goodwill represents the increased/excess earnings arising from other intangible assets acquired in a business like brand 
  name,patents etc that are not individually identified and separately recognized. 
 Accounting Goodwill is the premium paid over book value of a company.It is recognised as an asset needs to be written off over the 
@@ -111,7 +113,7 @@ period , i.e it is amorotised as an expense. But ironically the acquired company
 and intangible) acquired from child company.
 Note: Economic Goodwill increases over time and Accounting Goodwill keeps decreasing, which means even though earnings are written 
 off the company's earnings are increasing day by day => Focus on such companies because once the goodwill completely written off
- they will blast off as the company is actually making cash
+they will blast off as the company is actually making cash(i.e there is no change in cashflow bcoz amorotisation is a non-cash expense)
 
  --amorotisation and depreciation
  amorotisation: intangible assets like goodwill are amorotised as an expense  

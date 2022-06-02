@@ -16,12 +16,42 @@ Telecos heavily relies on imports - atmnirbhar bharat and PLI schemes can be gam
 Meanwhile, the cost incurred by Indian companies to maintain networks is almost similar to that of their global peers.
 No Telecom company in India has generater ROIC > WACC in the last 20 yrs
 Also after deploying 5G in the foreign countries, no telecom company has seen profits/ARPU increase bcoz of 5G services
+Total 4 players - Airtel, Jio, VI, BSNL
+//Oppurtunities
+Least ARPU in India(2$ per user) possessing significant oppurtunities for Indian players interms of revenue growth and 
+ profits(but TRAI is the blocker)
+Globally - Indonesia($2.8), China ($6.8), US ($36.7)
+~$2 ARPU : 6% ROCE. ~$3.3 ARPU : ~20% ROCE. 
+//postpaid oppurtunity - india (96% prepaid , 4% postpaid ) - world Avg (70% prepaid, 30% postpaid) (but very difficult to 
+ achieve this as Indians are price sensistive and postpaid plans are much higher than prepaid)
+//Broadband oppurtunity - however there is huge competettion in this market and something like starlink can disrupt this
 
-//Airtel
+//Airtel - 32% market share, ARPU - 154, 35cr customers
  has a clear focus on its high-value customers since this segment is most likely to absorb reasonable tariff hikes, there is no 
   pressing need for the telco to do so, as it currently leads the market in terms of Arpu (INR157 vs. INR140 for Jio and INR114 for Vi in Q1 FY21).
 Airtel with the bold of 255 tariff rise has reiterated its strategic focus on high-Arpu subscribers. 
 Airtel’s 50% smartphone subscribers contribute 70% of its revenue
+230,562 towers in all 22 states combined - 5G ready infra
+verticals: Mobile, fiber, DTH, Bank
+Airtel Black: mobile + DTH + FIber
+Airtel Thanks app (all in one customer self care app)
+Airtel Xstream premium - An OTT app that bring together content of 15 local OTT apps with a single subscription and single signon
+Airtel Ads - via airtel thanks app, wynk music, xtream app
+Airtel IQ - World’s first network integrated CPaaS platform
+It's a cloud communication suite Enabling enterprises to deliver unparalleled customer engagement across Voice, Messaging and 
+  Video programmatically i.e via API integration with their mobile/web apps - Airtel IQ is natively integrated with one of India's 
+  leading telecom networks. With Airtel IQ, you can connect with your customers through calls and SMS via your enterprise apps
+Airtel Credit cards - partnership with Axis Bank
+Airtel payments Bank -  huge oppurtunity to capture as 87% india runs on cash, profitable and crazy growth numbers as they 
+  target tier3 customers and micro enterprises
+Own and operate the largest undersea cable network out of India - 3,65,000+ Route KMS Across 50 Countries & 5 Continents
+Hughes and Airtel Form Joint Venture to Provide Satellite Broadband Services in India
+Airtel Cloud - 
+  NXTRA - largest data centre network in India
+  Also Airtel provides users of the Airtel Thanks app with 2 GB of cloud data storage, at no extra cost! Now you can easily back up all your photos, videos, contacts, messages
+  edge, private and public cloud (AWS collabaration)
+Naas - Network as a service allows customers to operate their own networks without maintaining their own networking infrastructure.
+Airtel loans
 
 //Jio
 Given its ambition of 500 million subscribers by 2023, it is unlikely to raise tariffs. Instead, Jio would want to cash in on this

@@ -45,8 +45,10 @@ ECONOMIC PERFORMANCE:
       accounting gimmicks etc
 DEEP DIVE: 
     - related party transactions: should only be for business purposes(subsidary, JVs etc) and not to executives family or someother 
-      unrelated business - sometimes managers divert the money from to their person holding companies in a way of buying their 
-      bonds/equity or acquistion , even though those are doing bad
+      unrelated business - sometimes managers divert the company money to their person holding companies in a way of buying their 
+      bonds/equity or acquistion , even though those are doing bad - hence it very important to check if there is any goodwill 
+      recorded in the company balance sheet and if yes you need to check at  what valuation the company was bought, does any manager
+       or board members holds the shares of the company and finally how is the company doing
     -Board of directors filled with management family members?
     if yes then there is no one to question the management and put the compnay on a winning track
     Note: board of directors is a group of individuals elected to represent shareholders and can question and fire the management

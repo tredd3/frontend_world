@@ -11,7 +11,9 @@ any change in assets/liabilities will cause a corresponding change in equity
 
 **ASSETS: how the company is utilising the money
 1)current assets - can be liquidated within a year
-current assets=cash and cash equivalents(short-term investments like T-bills, CDs)+ accounts recievable +inventory
+current assets=cash and cash equivalents(short-term investments like T-bills, CDs)+ accounts recievable +inventory + bank balances 
+  other than cash and cash equivalents (unpaid dividends , Balances with banks to the extent held as margin money or security 
+  against the borrowings, guarantees etc and Bank deposits with original maturity of more than three months but less than 12 months)
 working assets/current assets cycle:
 cash used to buy inventory => inventory gets converted to accounts recievables => accounts recievables get converted to cash => repeat
 cash pile is due to 3 reasons:

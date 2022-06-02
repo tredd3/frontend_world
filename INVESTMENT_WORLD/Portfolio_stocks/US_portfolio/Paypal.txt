@@ -1,30 +1,19 @@
 -------------------- SUMMARY --------------------
-Business : mostly a play on unorganised to organiesd play
+you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 
-                               FY21    FY22
-store count:                    73      105
-cities where store is present   38       49    
-stores GMV contribution         5.7%    6.6%
-Global brands on Nykaa:                  30
-warehouses(cities)                      23(11 cities)
-MARKET SHARE:     
-
-//BPC
-Avg order Value                1963    1864
-orders(million)                  17      27    
-customers(million)                3     4.4
-
-//fashion              
-Avg order Value:               2739    3420
-orders(million)                 2.4     5.2                  
-customers(million)              0.6     1.6
+Business :
+                       FY19   FY20     FY21     
+Active Accounts:       305M   377      426M (45% of active accounts were outside the U.S) 
+Transactions per:      40.6   40.9     45.4       
+Account (TPA)
+Total Payment:         712B   936B    1.25T (60% US TPV, International TPV is 40%)
+Volume (TPV)
 
 Financials :
-keep any eye on store profitability
-also NPM - to check competettiveness
-
 Risks :
 Valuation :
+  Valuation is what differentiates Great Investment from a great business
+  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
@@ -59,27 +48,40 @@ Valuation :
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet
---Total assets(current valuation) compared with Marketcap - to identify asset plays
+  //Balance sheet Strength check
+--(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+--Total assets compared to equity (liabilities should be as less as possible for a strong balance sheet)
 --check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
   sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
+--Check Equity CAGR from balance sheet equity section (if it is constant then check dividend section in cashflow analysis bcoz company 
+  might be giving out its earnings as dividend) OR (check share capital section where company might be doing buyback)
+Now check ROE trend for all those years (if equity is increasing at above 15% and ROE is at around 15% or more then it is a wonderful business)
+Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
+ 
+ //Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
 --other income significant to operating profit over the years?
 --interest expense >40-50% of operating profit?
 --net income consistently +ve and growing? 
-//Cashflow statement
+  
+  //Cashflow statement
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
 free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 --outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
+
+ //Profitability Ratios Check:
 --NPM(consistent and above 10%) - company has Pricing power 
 --OPM(consistent and above 10%) - company has Efficient management 
 --ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
@@ -87,10 +89,10 @@ free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash
 --ROIC(consistent and above 15%) - company is generating enough cash in its core business
 --D/E < 1?
 if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
+check D/E trend 
 can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
-//Valuation check
+ //Valuation check
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
 Price - is what people pay for the business
 Valuation is price compared to earnings 
@@ -105,30 +107,31 @@ Note: Don't invest in a stock because the price has fallen and you think the pri
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: consumer goods (beauty and personal care, fashion)
+  Nature of business: business and consumer services
   What does it do: (what is the actual business): 
-    It has tie-ups with more than 2000 brands and has over time consolidated its position as one of the leading distributors for some of these brands
-    It manufactures private label beauty products under various brands- majorly Nykaa and Kay Beauty.
-    diversify into fashion and apparels segment as well as offline retail model(apart from e-commerce)
-    NykaaMan - exclusive men products
-    eB2B distribution platform “SuperStore by Nykaa”(Nykaa to retailers eliminating distributors and wholesalers) - this infra 
-    Gross merchandise value (GMV) is the total value of merchandise sold over a given period of time - no of transaction * Avg order value
-    New Customer GMV refers to MRP value of all the orders placed during the same year by the customer acquired in that financial year
+   The company's payments platform allows consumers to send and receive payments in approximately 200 markets and in
+   approximately 100 currencies, withdraw funds to their bank accounts in 56 currencies, and hold balances in their
+   PayPal accounts in 25 currencies.
+   They recently acquired Happy Returns (for inperson return) and integrating it with e-commerce and retail stores
   How does it do :
-    FSN operates on company owned company operated (COCO) model
-  Subsidaries/JVs:
+  Subsidaries/JVs:  It provides payment solutions under the PayPal, PayPal Credit, Braintree, Venmo, Xoom, Zettle, Hyperwallet, Honey, and Paidy names. 
   Target Audience : 
-  market size: huge/large/small
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
   market share: 
-  Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE GEOGRAPHY: India 100%
-  Revenue Model: 
-    BPC: 72%
-    Fashion:  25%
-    others: 3%
+  Presence : offices globally
+  Globally competetive company: Yes
+  REVENUE by GEOGRAPHY: India 100%
+  Revenue by Product: 
+    Transaction revenues - 92%
+    The magnitude of the fee is based on the volume of activity, or TPV. Fees are also charged on currency conversions, 
+    cross-border transactions, fund transfers from customers' PayPal or Venmo accounts to their debit cards or bank accounts(this can
+     be a problem especially when competettion makes this free)
+    Revenues from other value-added services - 8%
+  Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
-promoters: passion and this firm is led by family
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -140,7 +143,7 @@ Note: Categories of Stock:
   6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 
 --------------------- PRESENT --------------------
----Sectoral analysis:
+---Sectoral analysis: 
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -185,27 +188,30 @@ sector demand constant like FMCG :  company needs to capture market share from o
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
+1)Product portfolio :
+payouts - PayPal mass pay option, Payouts, is one such solution. The account holder can easily send money to multiple people at the 
+  same time, and the recipients will receive the funds in their PayPal account.
+working capital loans to merchants
+buy now pay later
+checkout paymnets in e-commerce
 
-2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
-             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
-             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  what is the unlisted players market share -   unorganised players dominate the market 
-  listed peers market share - e-commerce  players
+2)COMPETETION : 
+  what is the unlisted players market share - 
+  listed peers market share -
   postion among peers - 
-  global competettion - imports risk from china or any other low cost producer country?
-  threat of new entrants - yes
-
+  global competettion -  Visa Inc. (V), Mastercard Inc. (MA), Alphabet Inc.'s (GOOGL) Google Pay, JPMorgan Chase & Co.'s (JPM) WePay, Square Inc. (SQ), and Stripe.
+  threat of new entrants
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
+  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
-    Direct purchases from brands ensures quality and genuineness of the products being sold. 
-    Avaialabiity of all beauty products
-  //how is the quality of product/service - cost is bit high
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
 
 
 ------------------- FUTURE -----------------
@@ -218,19 +224,15 @@ ideally a company that clones other successful strategies is almost bound to win
 --- EARNING POWER (Earnings Growth Oppurtunities check )
 //SOURCE OF EARNINGS
 --Internal Growth oppurtunities
-Retail stores
-Launch of New Businesses – SuperStore by Nykaa(eB2B distribution platform), NykaaMan & Intermational
-Acceleration in new customer acquisition by investment in marketing
-Expansion of fulfilment capacity across the country (to take down freight costs especially air freight)
 
 --External Growth oppurtunities
-Macroeconomic - unorganised to organised shift 
+Macroeconomic - check MacroEconomy folder
 Tailwinds
 
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
 Economises of Scale
-Low cost producer
+Low cost producer - check product quality and profitability ratios
 Brand
 Taste
 Network effect
@@ -277,9 +279,11 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
   -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
   -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
   -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
@@ -298,6 +302,8 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 check Financial_Strength_Check.txt
 --expenses breakup and see which expenses are growing YOY
 //Financial strengths
+share buyback almost every quarter
+
 //Financial weakness
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
@@ -307,8 +313,6 @@ check Financial_Strength_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
-Exposure to intense competition leading to pressure on profitability: check NPM YOY basis
-recent expansion in the fashion products segment is yet to generate profits and has led to constrain on overall profitability of the group.
 
 ---Financial Risk:
 

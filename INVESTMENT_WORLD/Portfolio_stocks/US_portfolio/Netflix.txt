@@ -1,83 +1,128 @@
 -------------------- SUMMARY --------------------
 Overall: Analyse with a fraud identification mindset and not with a confirmation bias
-Business :
+Business:
+
+                            FY21    FY22
+customer base(millions)      221     219 
+ARM(Avg revenue per         
+ membership)         
+
 Financials :
 Risks :
 Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
-Basic check:
+//General check:
   stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
      capacity to suffer/suggestion from youtuber or broker
-  stock price falling continously/abnormal(google search): Yes/No
+  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
+  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
+    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
+    the share price naturally like Adani once did)
   legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
+  corporate actions, dividend history and buyback announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
+    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
   promoter pledging
-  is the business easy to understand or complex :
+  Is the business easy to understand or complex : easy/complex
+  circle of competence: YEs/No
   any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
     promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
 
-Business check:
+
+//Business check:
   screener pros and cons
   market share trend
   //how is the quality of product/service - Have u used the product/service ? 
-  if YES, what is your view 
-  if NO, go and open their website, check public review in ecommerce or google search
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
   CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
   can a fool run this business
-  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
-Finance check:
-  //Balance sheet
---Total assets(current valuation) compared with Marketcap - to identify asset plays
+//Finance check:
+  //Balance sheet Strength check
+--(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+--Total assets compared to equity (liabilities should be as less as possible for a strong balance sheet)
 --check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
   sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
+--Check Equity CAGR from balance sheet equity section (if it is constant then check dividend section in cashflow analysis bcoz company 
+  might be giving out its earnings as dividend) OR (check share capital section where company might be doing buyback)
+Now check ROE trend for all those years (if equity is increasing at above 15% and ROE is at around 15% or more then it is a wonderful business)
+Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
+ 
+ //Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
 --other income significant to operating profit over the years?
 --interest expense >40-50% of operating profit?
 --net income consistently +ve and growing? 
-//Cashflow statement
+  
+  //Cashflow statement
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
 free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
-//Profitability Ratios Check:
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+--outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
+
+ //Profitability Ratios Check:
 --NPM(consistent and above 10%) - company has Pricing power 
 --OPM(consistent and above 10%) - company has Efficient management 
 --ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
 --ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company has MOATS
+--ROIC(consistent and above 15%) - company is generating enough cash in its core business
 --D/E < 1?
 if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
+check D/E trend 
 can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
+ //Valuation check
+Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
+Price - is what people pay for the business
+Valuation is price compared to earnings 
+Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
+ understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
+ is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: consumer services
   What does it do: (what is the actual business): 
+   Netflix is one of the world's leading entertainment services with 222 million paid memberships in over 190 countries enjoying 
+   TV series, documentaries, feature films and mobile games across a wide variety of genres and languages
   How does it do :
-  Subsidaries/JVs:
-  Target Audience : 
-  market size: huge/large/small
+    Not a generic video company - Netflix is a subscription-based streaming service that allows members to watch TV shows
+       and movies without commercials on an internet-connected device. 
+    Competitive pressures in bidding for content would lead us to have slightly less content than we would otherwise, rather than overspending
+    Netflix is well positioned to bring engaging stories from many cultures to people all across the globe.
+    personalised recommendations based on what users love to keep them engaged
+    Offline downloads available on the Netflix app
+    lot of investment on fresh and original content
+  Subsidaries/JVs :
+  Target Audience : all Adults and entertainment lovers
+  market size: huge
   market share: 
-  Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE GEOGRAPHY: India 100%
+  Presence : Netflix is available virtually everywhere except in China.
+  Globally competetive company: Yes
+  REVENUE GEOGRAPHY: US 50%
   Revenue Model: 
-  Clients(Important ones):
+    flat-fee (subscription-based)
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -86,13 +131,11 @@ what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast grow
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis:
-//STAGE of development:
-pioneering - EV, green energy
-growth - internet
-maturity/saturation - FMCG
-declining - obselete - TV channels, print media
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+
+
+//STAGE of development: growth - internet
+//Sector value chain : netflix is the producer/someone else is => directors direct the shows /films and produce content => goes 
+  in to Netflix library => users consume it
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
         limited to few businesses/limited customer usage
@@ -133,12 +176,12 @@ sector demand constant like FMCG :  company needs to capture market share from o
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
 
-2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
-             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
-             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
+2)COMPETETION :  
+  Because the entertainment market is so broad, multiple firms can be successful bcoz of different exclusive content.
+  licensed content the game is played on price - bcoz a competetior with lot of money can take away the market share  
   what is the unlisted players market share - 
-  listed peers market share -
-  postion among peers - 
+  listed peers market share - Netflix ()
+  postion among peers - 1
   global competettion - imports risk from china or any other low cost producer country?
   threat of new entrants
 
@@ -149,8 +192,12 @@ what makes the product or service of this company Unique?
   //does it delight the customers - when they don't find that product in a store will they go across the street to get it
   //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
+  while other competetiors find international markets as export destination for US content but Netflix believes blockbuster can be
+  made anywhere and focuses on localisation. Netflix is now producing films and TV in more than 50 countries with a high degree 
+  of integration in the local entertainment 
+   ecosystem resulting in the creation of blockbusters from every region
   //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
+    if YES, what is your view - smooth UI 
     if NO, go and open their website, check public review in ecommerce or google search
 
 
@@ -169,6 +216,7 @@ introducing subscription with ads - giving the service at lesser price for users
 focus on games and animated series - creating more value for money paid by subscribers
 sports documentaries
 orginal content acquisition - by collaboration of the ground team with producers
+broadband and smart TV penetration will improve OTT subscriptions
 
 --External Growth oppurtunities
 Macroeconomic :
@@ -244,6 +292,7 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 check Financial_Strength_Check.txt
 --expenses breakup and see which expenses are growing YOY
 //Financial strengths
+ amount of 5 billion$ to be used for share buyback
 //Financial weakness
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
@@ -253,8 +302,17 @@ check Financial_Strength_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+capital intensive buinsess , i.e netflix needs capital every year to invest in original and licensed content - means it relies on
+  economies of scale, and hence user base and ARPU are very important params to track
+piracy is a threat to the Industry itself
+222m paying households, Netflix is being shared with over 100m additional households - unless this is monetised it’s harder to grow
+  membership in many markets
+competettion - very low entry barriers and all the major production houses who were initially selling their movies to Netflix , now
+  came up with their own streaming service
 
 ---Financial Risk:
+D/E is 1.6 times which is high
+free cash flow will take a hit for few yrs as Netflix spends money on producing original content (assets)
 
 ---Management Risk:
 

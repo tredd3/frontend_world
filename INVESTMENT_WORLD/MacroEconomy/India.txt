@@ -9,6 +9,13 @@ The median age in India is 28.4 years (70% population above age of 18)
 GDP : 2.26 trillion dollars (1/7 thof the US and 1/5th of china)
 per capita GDP : 1900 USD, 6500 PPP terms (US has 10X times)
 debt/GDP = 73% (US 200%)
+
+//real estate
+towns and cities : 8,000
+villages : 649,481
+urban population : 30%
+Rural population : 70%
+
 //salary for people
 bucket1: 30cr - annual salary > 1lakh
 bucket2: 100cr - annual salary < 1lakh

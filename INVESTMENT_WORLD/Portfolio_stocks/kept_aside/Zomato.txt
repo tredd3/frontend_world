@@ -1,0 +1,69 @@
+                                          FY21             FY22
+
+orders volume                              238            535 
+Avg order value                           397 Rs          398 Rs
+gross order value (orders *             94 billion      213 billion (8 cities contributed ~60% of our GOV in, top 300 contributed ~99%)
+   avg order value)                     
+transacting customers                   9.8 million     15.7 million
+Avg active restaurant partners             110k           180k
+Avg food delivery partners                 120k           285k
+presence in towns/cities                    700          1000 (india has roughly 8,000 towns and cities)
+cash in bank                                             Rs.122 billion
+Hyperpure(B2B supplies) - no of             27k            34k
+  restaurants served  
+
+//Businesses 
+food delivery (core)                                                           
+Hyperpure is an initiative by Zomato to provide fresh, hygienic, high quality ingredients and supplies to restaurants.
+  -Need for a single vendor which provides almost 100% of their basket
+  -Need for transparency/ visibility of their costs, including their food yield.
+  -Delivery at short notice and on-time, so that restaurants plan their operations better
+Impact creation:
+recycle more than 100% of all the estimated plastic packaging 
+All electric fleet by 2030
+
+
+//Capital requirements
+no capital needed for now as it is a asset light business and all the equity investments have been made
+Zomato Instant (10-minute food delivery) - capex needed to set-up the food finishing stations.
+
+
+//Revenues
+restaurant commission rates
+ad-sales 
+customer delivery charges
+
+
+//costs associated
+discounts
+ad spending
+deliver costs
+operating cost
+
+
+//All our investments fit into one of these two buckets
+1) put the building blocks for a robust quick-commerce business in India, and 
+2) accelerate digitisation and growth of the food and restaurant industry which accelerates our core food business.
+
+//Governance
+Deepender Zomato founder and CEO has 99% of his wealth in zomato and he gives more important to learning and not money
+He exited investments at zero gains just bcoz Zomato considered investing and to avoid any conflict of interest
+Investors: Alibaba (16%), Infoedge(18%), Uber (9%)
+But MD and CEO has taken heavy ESOPs - even though the company is not on profit track
+
+
+//Growth oppurtunities
+Macroeconomic - achieveing scale and network effect
+ad-sales
+delivery cost reduction
+all the foreign subsidaries will be closed except UAE
+
+
+//Risks
+competettion - if commission rates are increased restaurants may go to competettion
+large players enetering the market - if this business is super profitable then big players will bring in the competettion by 
+  pouring in lot of money, giving heavy discounts and attracting customers 
+Moat(customer base and network effect) building requires to spend lot of money in the form of discounts , ads etc- paytm type scenario 
+ might get repeated in the process of creating value for customers
+unavailability of delivery partners in search of better jobs
+ESOP heavy - can have a heavy impact on EPS

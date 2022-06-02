@@ -66,8 +66,9 @@ can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metr
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: B2B goods
   What does it do: (what is the actual business): 
+     Manufacturing of high end precision engineering machine parts
   How does it do :
   Subsidaries/JVs:
   Target Audience : 
@@ -77,7 +78,9 @@ know about the company:
   Globally competetive company: NO
   REVENUE GEOGRAPHY: India 100%
   Revenue Model: 
-  Clients(Important ones):
+  exports : 60%
+  domestic : govt owned and operated companies
+  Clients(Important ones): ISRO, DRDO , BLOOM, NPCIL, HAL etc
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -185,7 +188,7 @@ Tailwinds
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
 Economises of Scale - trying for this
-Switching costs
+Switching costs - Increased customer dependency on MTAR
 Entry barriers - deals with approvals, trust and highly sensitive sectors
 
 2)PRICING POWER (MUST HAVE MOAT)
@@ -259,12 +262,20 @@ check Financial_Strength_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+Bloom energy is the major customer and if they leave or their financials deteriorate then MTAR might lose like 50% revenue
 
 ---Financial Risk:
+CCC is high and increasing from last 5yrs, working capital stuck in Recievables so the company need to take debt for its 
+   Working capital requirement
+cash flow statement needs attention
+Equity is flattish for last 5yrs - major RED FLAG
+drop in ROCE and ROE for the last 4yrs
 
 ---Management Risk:
 
 ---Investment Returns Risk:
+oppurtunity cost is very high because the demand will not grow that exponentially from these companies compared to other sectors
+   where retail purchasing power is involved
 
 
 ---------------------------------- VALUATION --------------------------------------

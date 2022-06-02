@@ -4,7 +4,7 @@
   price is what people are ready to pay to acquire/sell a business - you need to decide do you want to participate or stay away
   hence, don't take decision based on Rear view mirror(stock price trend) focus on Business and Valuation(front mirror)
   Note: use share price should be used to determine the gap between intrinsic value and the selling price. 
-  INVESTING IS A COMBINATION OF ART + SCIENCE + Legal Work
+  INVESTING IS A COMBINATION OF ART + SCIENCE + Legal Work (Kind of Investigative Journalism)
 
 1)BUSINESS(high quality) - think in a way that you will own/buy the entire business and not a single share. understand/analyse the 
   big picture, i.e the macroeconomic picture and oppurtunity and sector growth oppurtunity(keeping in mind global competettion)
@@ -12,7 +12,8 @@
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors(especially in business that
      generate great returns lot of competetiors will come with a lot of capital to take away the market share and offer less prices)
-  -prefer high margin non commoditized business - if commoditized then must be a low cost producer
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
   -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
   -proxy play on some capital intensive/debt heavy/lousy industry ? 
   -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
@@ -70,12 +71,14 @@ search about the company or its poducts/services quality in google - you will ge
 3)screener summary
 5)tijori overview page
 5)crisil report and ratings scroll to the end of the page(about company, subsidaries, rating history)
+moody's rating for foreign companies
 CRISIL Ratings:
 A AA AAA (Adequate to highest safety)
 B BB BBB (Moderate to high risk)
 C (Very high risk)
 D (Default)
 6)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
+7)check for company analysis, business and revenue model in google or youtube
 
 
 ---Stock research report sources:
@@ -357,7 +360,7 @@ why Return on Capital is important?
 Over the longterm the investment returns will always resemble the capital returns
 
 ---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
- growth and not for survival 
+ growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
 Cash - waiting for oppurtunities
 Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
 Inorganic growth - M&A for strategic purpose or to build a MOAT

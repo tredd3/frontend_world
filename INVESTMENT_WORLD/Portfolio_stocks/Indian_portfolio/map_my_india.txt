@@ -2,7 +2,7 @@ Overall: Analyse with a fraud identification mindset and not with a confirmation
 Business :
 Financials :
 Risks :
-Valuation :
+Valuation : earnings 20% CAGR on an average
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
@@ -72,7 +72,8 @@ Healthcare and Pharma: distribution and logistics of medical goods, indoor mappi
 BFSI: geo verification and onboarding, usage based auto insurance, geo CRM for sales, claims and collection agents;
 Retail and QSR: location enabled online e-commerce, location based digital advertising
 Telecom and Utilities: field force monitoring, optical fibre mapping and distribution analytics;
-Transportation and Logistics: fleet and asset tracking, transportation data, truck routing solutions, driver safety, route risk assessment;
+Transportation and Logistics(Telematics): fleet and asset tracking, transportation data, truck routing solutions, driver safety,
+    route risk assessment
 Government: Geo tagging of public assets for repair and overhaul; for example, gas pipeline, water pipeline; emergency response, smart city, taxation;
 Railways and waterways: network and route mapping; tracking of fleet
 Forest department: geo tagging and digital mapping
@@ -146,6 +147,9 @@ Entry barriers for new entrants - MapmyIndia has built proprietary technology ov
 check Financial_Strength_Check.txt
 //Financial strengths 
  operating leverage(the cost of collecting, updating and analysing data is fixed)
+ expenses are constant for the last 4 yrs
+ 90% assets is equity - very strong balance sheet (equity increase is due to CFO)
+
 //Financial weakness
  significant other income compared to operating profit
 
