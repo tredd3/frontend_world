@@ -39,10 +39,6 @@ SKILL AND INTELLIGENCE TEST:
     concept increases shareholders wealth without paying any tax.
     Note: buying back shares at a premium valuation is not the best use of capital, buying back is useful only if the 
     shares are bought at lower/fair prices.
-ECONOMIC PERFORMANCE:
-    -ROCE and ROE over last 5yrs/10 yrs ? also consider debt levels (IMPORTANT)
-    Note: maintaining consistent ROCE is more imoprtant than EPS growth rate bcoz EPS is influenced by factors like taxes,
-      accounting gimmicks etc
 DEEP DIVE: 
     - related party transactions: should only be for business purposes(subsidary, JVs etc) and not to executives family or someother 
       unrelated business - sometimes managers divert the company money to their person holding companies in a way of buying their 

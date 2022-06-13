@@ -1,44 +1,315 @@
-Overall: 
-Ur Ranking: 
-CRISIL: 
+-------------------- SUMMARY --------------------
+you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 
-------------- About -------------
+Business :
+Financials :
+Risks :
+Valuation :
+  Valuation is what differentiates Great Investment from a great business
+  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
+
+------------------- SCREENING SUMMARY -------------------
+//General check:
+  stock picking strategy: familiar with the product or industry
+  Normal check on stock price since inception - No abronmality
+  legal orders(confirm from wiki) and tickertape - None
+  corporate actions, dividend history and announcements from tickertape - Not significant
+  check shareholding pattern(especially promoter) trend over the years in tijori
+   70% - promoters
+   22% - FII and DII
+  promoter pledging - Zero
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading):
+   promoters bought shares in FY 17, 18, 19 at an average price of 600 per share (current value is 800 Rs)
+
+//Business check:
+  market share trend - highly fragmented market , difficult to know
+  how is the quality of product/service - Good
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - AA/Stable
+  can a fool run this business - yes as the brand is established
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+    Mostly no because of lot of competetion and replacements available and very high valuations
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+//Finance check:
+1)Balance sheet Strength check
+//non-current assets - 710 cr
+completely PPE and LTE
+
+//current assets - 1576 cr
+
+//shareholder Equity - 1697cr
+--Check Equity CAGR from balance sheet equity section 
+   equity is increasing and ROE is at around 15% for last 5yrs
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+
+//non-current Liabilities - 0
+
+2)Profit and loss statement - clean
+  
+3)Cashflow statement: clean
+--use of cash flow from operations: dividends + acquistions + capex (check notes)
+--outstanding shares increasing every year ? NO
+
+4)Profitability Ratios Check:
+--GPM(consistent and above 15%) trend - 75% company has Pricing power 
+--OPM(consistent and above 15%) trend - 16% company has Efficient management 
+--NPM(consistent and above 15%) trend - 10% Avg profitability
+--ROE consistent and  10-15% (with D/E under control)? 15%
+--ROCE(consistent and above 15%) trend - 20%
+--ROIC(consistent and above 15%) trend - 17%
 
 
-
--------- why to buy and hold? Business Strengths ---------
-...
-
-
-//Growth oppurtunities
-
+ //Valuation check
+600 Rs is a good price as promoters bought it at that price and that too 3yrs back
+Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
+Price - is what people pay for the business
+--EV/FCF -  50
 
 
-//Moats
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+Investor presentation for reference: 
+-------------------- PAST --------------------
+know about the company:
+  Nature of business: consumer goods
+  What does it do: (what is the actual business): 
+    The company is present across the entire range, which includes cookware, appliances, gas stoves, mixer-grinders, cleaning solutions, 
+  How does it do :
+     key raw materials (steel and aluminium)
+     All required raw materials and processed parts from local venders (Make In India)
+     modern and  general trade, e-commerce, Physical stores
+     prestige exclusive store (franchisee model)
+     prestige lifestyle stores - Luxury segment to compete with global brands (only 2 in India )    
+     warehouse in each state to replenish the store inventory
+     procure goods and services from local & small producers
+     recycle used products
+  Subsidaries/JVs:
+    TTK British Holdings Ltd, and Horwood Homewares Ltd (Horwood)
+  Target Audience : every family
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
+  market share: overall 10% market share (25,000 cr total adressable market)
+    cookware : 31%
+    cooker : 30%
+    kitchen appliances : 15%
+  Presence : offices and stores in India
+  Globally competetive company: NO
+  REVENUE by GEOGRAPHY: India 95%, Exports : 5%
+  Revenue by Product: 
+    30% of revenue coming from pressure cookers, 17% from cookware, 49% from appliances.
+    Avg revenue per store is 6 lakhs
+  Revenue by Customers: B2C
+promoters: very strong promoter hlding of above 70%
+any research report/youtube analysis available for the company: 
+what peter lynch bucket does stock belongs to : stalwarts
+
+--------------------- PRESENT --------------------
+---Sectoral analysis: 
+highly competetive sector - no pricing power hence thin margins
+//STAGE of development: growth
+
+//Sector value chain : 
+raw materials => finished goods => wholesalers/retailers/e-commerce => customers
+
+//Market size/Oppurtunity or possible demand for the Sector: 25,000 cr total sector oppurtunity
+   only within the country :
+        not every user will find its usage but every family does 
+   global oppurtunity/exports : very less because of local competetion
+
+---Products/services DEMAND check :
+//From where does the actual demand from for the company? 
+  B2C - new usage, replacement, gifts
+  CSD
 
 
+//Type of demand
+    continous and replacement/upgradation demand based on latest trends/depreciation
 
---------- why you shouldn't hold the company? Business Weakness ----------
-...
-
-
-//Competettion
-
-
-
-//Risks
+---Products/services SUPPLY check :
+1)Product portfolio - 
+cookware, all kitchen items
 
 
---------- Financials -----------
+2)COMPETETION : intense competition from both organised and unorganised players
+  what is the unlisted players market share - high
+  listed peers - hawkins, pigeon, milton, butterfly
+  global competettion - imports risk from china or any other low cost producer country
+  threat of new entrants - private label
+
+
+3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
+how do peers provide competetion : innovative products
+Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
+  low CCC(less time taken to generate profits) is preferred
+
+4)Products/services Uniqueness and Quality check :
+what makes the product or service of this company Unique? brand and Quality
+  //does it delight the customers - constant innovation and products inline with the trend
+  //does it own consumers mind - yes
+  //what value does it add to customers compared to competetiors? NONE (now a days all competetiors provide similar service)
+    opens stores in non-prime locations, reducing expenses and hence low product costs
+    provides exchange offers
+  //how is the quality of product/service - Good
+
+
+------------------- FUTURE -----------------
+---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
+//Goal/Aim - capture market share from unorganised players
+//Strategies being employed: 
+discounts and exchange offers
+
+--- EARNING POWER (Earnings Growth Oppurtunities check )
+Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
+
+---SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
+      sustainable or not, i.e it decides quality of earnings
+
+i)INTERNAL GROWTH OPPURTUNITIES
+///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /penetration - Acquire new customers in untapped and rural areas
+    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
+      does capex to service the demand)
+    /Demand shift from other countries like (china+1 startegy) 
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - cutomers buy more variety of products
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
+  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
+    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
+    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
+    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
+    then demand has dried up OR competetiors taking away market share - Both are bad situations
+
+///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
+    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
+    /process optimisation and innovation - chemicals and pharma mainly
+
+
+---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
+1)Competettive advantage/MOAT Check? check MOATS_check.txt
+MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
+Economises of Scale - will be achieved soon
+Low cost producer - check product quality and profitability ratios
+Brand - India’s only company to offer the complete Induction Cooking solution
+Taste
+Network effect - 620 Prestige Xclusive stores in over 363 cities covering 28 states covering Metros, Mini-Metros, Tier 1,2 & 3.
+                    service network 464 centres
+
+Note: Does MOAT Exists? 
+  if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
+   the profits? Imagine and think with a calm mind where do you see this company in the next 10 yrs,
+   take in to account, facts and reasoning not opinion
+  if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
+
+2)PRICING POWER (MUST HAVE MOAT)- partly yes
+Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
+ like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
+ business to competettion) 
+ Proof: if costs increase then sales must increase and GPM trend is either stable or upwards(tijori) 
+ This will happen only when :
+   i)The product or service is unique and there is hardly any substitute
+   ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
+     Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
+     Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
+    Note: Account payables is high meaning company having bargaining power
+   iii)NO bargaining power of buyers :
+     Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
+     the company needs to give the product on credit ) - if client base is limited then company doesn't have a choice but to sell 
+     the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
+     OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
+     product is a commodity (then people always look for low price as value is same across producers)
+
+Note: Pricing power is must for capex heavy companies and companies with large amounts of debt - otherwise they can go Bankruptcy
+  and destroy shareholder's wealth during recession.
+
+3) Longterm vs short term bet
+/Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
+/Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
+market share soon - need to monitor closely
+/Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
+you can use the cash to buy other growth and non-growth businesses) 
+Note: Don't forget to compare dividend yield with FD interest rates
+
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - Retained Earnings
+
+---USE OF NEW/INCREMENTAL CAPITAL : 
+Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
+Inorganic growth - M&A for strategic purpose or to build a MOAT
+Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+Capex - new
+
+
+//RETURN ON CAPITAL
+https://goodcalculators.com/wacc-calculator/
+why Return on Capital is important?
+Over the longterm the investment returns will always resemble the capital returns
+
+Good company : ROIC/ROCE ~= WACC (i.e on incremental Capital)
+
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
+  -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+  -If a person has lot of money can he break ur business and take away marketshare?
+  -Ideal business always takes little amount of capital to operate and an excellent business always
+    earns same high returns on incremental capital
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+--expenses breakup and see which expenses are growing YOY
+
 //Financial strengths
-
+Zero debt and high cash - meaning acquisitions can be funded by cash
+very strong balance sheet
 
 //Financial weakness
+Avg profitability
+
+------------------------------ MANAGEMENT CHECK --------------------------------
+//how is the Management and their Vision: check management discussion analysis in annual report
+promoters are also non-executive directors
+Focus: Growth and efficiency (more towards make in India and supporting local communities)
 
 
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
+discounts throughout the year
+The target audience reduces significantly beacuse a family of avg 5 people use the same product
+raw material prices volatility
+changing consumer trends and any lag in innovation can impact growth
+intense competetion from unorganized sector and irrational discounting by regional brands
 
---------- My filter check --------------
+
+---Financial Risk:
+low numbers - becuase the usage is per family not per person
+
+---Management Risk:
+
+---Investment Returns Risk:
 
 
-
-------- Valuation -----------
+---------------------------------- VALUATION --------------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt

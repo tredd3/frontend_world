@@ -12,54 +12,30 @@ Valuation :
 //General check:
   stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
      capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
+  Abnormal falling: covid 19 effect on tobacoo, which is the largest revenue contibutor
   legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
-  check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
+  check shareholding pattern - 70% institutions, 30% public
+  Is the business easy to understand or complex : complex
   circle of competence: Yes/No
-  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
-  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
-     than any broker/analyst/investor)
+  any recent insider buying : only one Acquistion at 225 rest sale by employees
 
 
 //Business check:
-  screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
-  can a fool run this business
+  //how is the quality of product/service - Good
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - AAA over 3 yrs
+  can a fool run this business - yes bcoz of brand which ITC carries
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
 1)Balance sheet Strength check
---Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
---(Price to book value) - 5 (not an asset play)
+//non-current assets - 44,150
+mostly PPE, LTE
 
-//non-current assets - <value>
--if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
-  decreases because people won't buy the company or value the company for the price at which u have bought
--intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
-  they also can loose value like crazy
--long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
-  u need to check notes to consolidated financial statements
+//current assets - 30,942
+30% inventory, cash 70%
 
-//current assets -<value>
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
--inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
-  but raw materials will not 
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
 
 //shareholder Equity -<value>
 --Check Equity CAGR from balance sheet equity section 
@@ -71,8 +47,7 @@ Valuation :
  Sustainable:  cash flow from operations(goes in to retained earnings) 
  Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
 
-//non-current Liabilities - <value>
-
+//non-current Liabilities - 2274
 
 2)Profit and loss statement
 --sales growth consistent and increasing?
@@ -89,8 +64,8 @@ free cash flow -ve bcoz of operating cash flow => company is bad and in-efficien
 free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
 --use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 //check cashflow from financing section
--- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
--- if equity is increasing?  (if yes EPS should also increase)
+-- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating losses?
+-- if equity is increasing? (EPS should also increase)
 
 4)Profitability Ratios Check:
 --GPM(consistent and above 15%) trend - company has Pricing power 
@@ -118,31 +93,28 @@ Note: Don't invest in a stock because the price has fallen and you think the pri
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: consumer goods
   What does it do: (what is the actual business): 
+    ITC has evolved from a pure tobacco company into a well-diversified business conglomerate, with a strong presence in paperboards,
+    printing and packaging, agricultural commodities, hotels, branded packaged foods, personal care products, stationery, 
+    safety matches, agarbatti (incense sticks) and other fast-moving consumer goods (FMCGs).
   How does it do :
-  Subsidaries/JVs:
-  Target Audience : 
+    backward integration in the tobacoo, agricultural commodity and packaged food business through the robust supply chain and 
+     agri-farm network.
+  Subsidaries/JVs: so many
+  Target Audience : every human
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%
-  Revenue by Product: 
+  REVENUE by GEOGRAPHY: India 82%, Exports 18%
+  Revenue by Product: FMCG 60%, Agri commodities 23%, Paperboards, paper and packaging 11%, hotels is < 4%
   Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
-promoters:
-why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
+promoters: no promoters
 any research report/youtube analysis available for the company: 
-what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: 
-  1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
-  2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
-  3)Fast Growers (Praj)
-  4)cyclicals(Auto industry, Travel)
-  5)Asset heavy(most of the PSUs)
-  6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
+what peter lynch bucket does stock belongs to : slow growers
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
@@ -296,16 +268,10 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
-Brand - must be accompained with pricing power
-Taste
+Brand - must be accompained with pricing power 
+Taste 
 Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
+Entry barriers - new players not allowed for advertising of cigarette
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -434,6 +400,9 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+tax increase in cigarette industry and other restrictions by govt can disrupt the business model
+Agri commodities , Paperboards, paper and packaging  - are low margin businesses
+operates in FMCG which is highly competettive (and there are also replacement risk)
 
 ---Financial Risk:
 

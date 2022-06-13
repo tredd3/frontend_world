@@ -1,7 +1,8 @@
 -------------------- SUMMARY --------------------
-you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
+Business : Company with Little Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with 
+ MOATS can take away the market share soon - need to monitor closely.
+  Entire Equity in balance sheet is mapped to Acquistions (so subsidaries must perform)
 
-Business :
                        FY19   FY20     FY21     
 Active Accounts:       305M   377      426M (45% of active accounts were outside the U.S) 
 Transactions per:      40.6   40.9     45.4       
@@ -9,7 +10,11 @@ Account (TPA)
 Total Payment:         712B   936B    1.25T (60% US TPV, International TPV is 40%)
 Volume (TPV)
 
+
 Financials :
+For the last 2 yrs paypal financials significantly improved, we need to monitor for Sustainability
+D/E = 0.45 (need to track if the company is taking more debt)
+
 Risks :
 Valuation :
   Valuation is what differentiates Great Investment from a great business
@@ -17,311 +22,291 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
+  stock picking strategy: bottoms-up and contrarian
   Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
   Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
+     company’s weak earnings guidance bcoz of high inflation and less consumer spending(temporary External phenomenon)
+     Exit of e-bay (the largest customer)
   legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
-  check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
+  corporate actions - continous buybacks with FCF
+  check shareholding pattern - 74% Institutional, 25% public
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes (buildimg one)
+  any recent insider buying - yes (but more sell activity than buy)
 
 
 //Business check:
-  screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-  can a fool run this business
+  market share trend: payment volume market share increased from 3% to 5%
+  //how is the quality of product/service - pretty good and kind of an aggregator app
+  Fitch Rating : A- last 2 years, FY17-FY19 BBB
+  can a fool run this business - don't know mostly not
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
-   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
-  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+   NO , iam ready to hold it for next 5-10yrs but i can only keep 10% of my wealth (mainly bcoz of competettion)
 
 //Finance check:
-  //Balance sheet Strength check
---(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
--if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
-  decreases because people won't buy the company or value the company for the price at which u have bought
--intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
-  they also can loose value like crazy
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
---Total assets compared to equity (liabilities should be as less as possible for a strong balance sheet)
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---Check Equity CAGR from balance sheet equity section (if it is constant then check dividend section in cashflow analysis bcoz company 
-  might be giving out its earnings as dividend) OR (check share capital section where company might be doing buyback)
-Now check ROE trend for all those years (if equity is increasing at above 15% and ROE is at around 15% or more then it is a wonderful business)
-Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
- 
- //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-  
-  //Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
+1)Balance sheet Strength check
+//non-current assets - 23 Billion
+-Goodwill is negligible - 11.5 Billion (80% aquistion cost of paypal goes in to Goodwill)
+-intangible assets - 1.5 Billion 
+-long term investments - 8.5 Billion
+-fixed assets - 2 Billion
 
- //Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend 
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+//net current assets - 9 Billion
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+-No Inventory - as it is a service oriented firm
+-check current assets(mainly cash) compared to current liabilities - lot of cash to cover current liabilities
+
+//shareholder Equity - 21 Billion
+--Check Equity CAGR from balance sheet equity section 
+   it is increasing and ROE trend for last 5 years is 20%(FY21)	22%	15%	13%	12%(FY17)
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+
+//non-current Liabilities - 11 Billion 
+--Equity/non-current assets + net current assets : 65%
+--(Price to book value) - 5 (not an asset play)
+
+2)Profit and loss statement
+--sales growth consistent and increasing? YES
+--operating profit +ve  most of the time and growing? FY17 - FY19 gross and operating profit is almost constant 
+ it picked up in FY20 - FY21 , so need to observe if it is consistent
+--other income significant to operating profit over the years? NO
+--interest expense >40-50% of operating profit? around 20%
+--net income consistently +ve and growing? YES
+  
+3)Cashflow statement
+--CFO +ve most of the time and growing? YES
+--free cash flow consistently +ve and growing? YES
+--use of cash flow from operations: share buyback and strategic acquistions
+--outstanding shares increasing every year No becuse of buyback
+
+4)Profitability Ratios Check:
+--GPM(consistent and above 15%) trend - YES
+--NPM(consistent and above 15%) trend - 13% FY17 - FY19, recently improved so it should be under observation
+--OPM(consistent and above 15%) trend - company has Efficient management 
+--ROE is consistently improving 
+--ROCE(consistent and above 15%) trend - 11% FY17 - FY19, recently improved so it should be under observation
+
+--D/E < 1? 0.45 and long term debt can be cleared by earnings of 3 yrs
 
  //Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
-
-
+EV/FCF - 17 (wait mode, invest when it is less than 10)
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business and consumer services
+  Nature of business: business and consumer payment services (Digital wallet)
   What does it do: (what is the actual business): 
    The company's payments platform allows consumers to send and receive payments in approximately 200 markets and in
    approximately 100 currencies, withdraw funds to their bank accounts in 56 currencies, and hold balances in their
    PayPal accounts in 25 currencies.
-   They recently acquired Happy Returns (for inperson return) and integrating it with e-commerce and retail stores
+   They are in to digital wallet payments and checkout oriented journey
   How does it do :
-  Subsidaries/JVs:  It provides payment solutions under the PayPal, PayPal Credit, Braintree, Venmo, Xoom, Zettle, Hyperwallet, Honey, and Paidy names. 
-  Target Audience : 
-  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-    cannot be a multi bagger 
-  market share: 
+   We're not a subscription business; we're a transaction-oriented business
+   Digital wallet - The company charges fees for sellers(like credit card and debit card transactions), users for international transactions
+     paypal has a debit card 
+     Accepting debit and credit card payments
+     co-branded mastercard credit card - cashback is available as paypal balance
+  Subsidaries/JVs:  
+    Braintree - specializes in mobile and web payment systems for e-commerce companies
+    Venmo -  Venmo, a mobile payment app with a social network component. Venmo has a public feed where you can see all transactions 
+      that your connections have made.Venmo was aimed at friends and family who wish to split bills, e.g. for movies, dinner, rent, or event tickets etc.
+      but now it is going to be integrated with Amazon for customer - merchant transactions
+      Note: Venomo is only for US markets
+    Xoom - international money remittance provider that allows consumers to send money, pay bills and reload mobile phones from the 
+      United States and Canada to 131 countries.
+    Zettle - POS checkout solutions(inventory management app, card reader, reciept printer, barcode scanner)
+      Zettle by PayPal serves small businesses in 13 countries
+      Zettle by PayPal was the first mobile payments company to accept contactless payments in the UK. This card reader also accepts 
+      all major cards including MasterCard, Visa and American Express.
+    Hyperwallet - helps organization send mass payments to contract workers, claimants, freelancers, and sellers around the world
+    Honey - Honey Integrated into the new PayPal app to help consumers shop and discover deals and new brands.
+    paidy - buy now pay later company in Japan  
+  Target Audience : users and merchants
+  market size: huge
+  market share: 5% Total payment volume
   Presence : offices globally
   Globally competetive company: Yes
-  REVENUE by GEOGRAPHY: India 100%
-  Revenue by Product: 
+  REVENUE by GEOGRAPHY: US 51%, UK 10%, others - 37%
+  Revenue Model: 
     Transaction revenues - 92%
-    The magnitude of the fee is based on the volume of activity, or TPV. Fees are also charged on currency conversions, 
-    cross-border transactions, fund transfers from customers' PayPal or Venmo accounts to their debit cards or bank accounts(this can
-     be a problem especially when competettion makes this free)
-    Revenues from other value-added services - 8%
-  Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones):
-promoters:
-why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
-any research report/youtube analysis available for the company: 
-what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: 
-  1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
-  2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
-  3)Fast Growers (Praj)
-  4)cyclicals(Auto industry, Travel)
-  5)Asset heavy(most of the PSUs)
-  6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
+     The magnitude of the fee is based on the volume of activity, or TPV.
+     Fees are also charged on currency conversions, 
+     cross-border transaction fee
+     fund transfers from customers' PayPal or Venmo accounts to their debit cards or bank accounts
+    Revenues from other value-added services - 8% 
+      interest on client deposits
+      Working capital loan fixed fee
+  Revenue by Product:
+    Goods as % of TPV - 90%
+    services - 10%
+    Bill payments (Braintree)
+promoters: bunch of college friends
+why did the promoters start the business: to capture the huge oppurtunity in industry/sector
+what peter lynch bucket does stock belongs to : stalwarts/fast growers
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-//STAGE of development:
-pioneering - EV, green energy
-growth - internet
-maturity/saturation - FMCG
-declining - obselete - TV channels, print media
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//STAGE of development: growth - internet
+//Sector value chain : collect money from customers => deduct charges (Revenue) => credit merchants
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
-   only within the country :
-        limited to few businesses/limited customer usage
-        not limited to a single user (almost every user will find its usage now or eventually)
-        not limited to single business (almost every business will find its usage now or eventually)
-   global oppurtunity/exports :
-        limited to few businesses/limited customer usage
+   domestic and global :
         not limited to a single user (almost every user will find its usage now or eventually)
         not limited to single business (almost every business will find its usage now or eventually)
 
 ---Products/services DEMAND check :
 //From where does the actual demand from for the company? 
-  B2B (client diversification, strong order book - must be volume led growth)
-  B2C (how many users out of 140 cr population use it)
-  Business service companies (what all industries/companies need it)
-  Government
-  Global - from which all countries demand come from
+  B2C - mostly US
+  Business service companies
+  Global - somewhat
 
 //Type of demand
-    Infrastructure/Platform - repeat usage including subscripton models
-    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
-       insurnace, real estate, home furnishing, Energy,Banking and finance)
-    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
-        Electronics, Automobile, Telecommunication)
-    continous and constant/slow growth demand(FMCG, Food)
-    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
-     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
-    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
-
-//Capturing sector demand Oppurtunities:
-sector demand is growing like Telecom, aviation : even if the company retains its market share and can sustain over the years 
-  it can grow effortlessly
-sector demand constant like FMCG :  company needs to capture market share from others by providing unique products or enetring in to 
-   other FMCG verticals where the company is not even present
+    continous and growing demand - payment related
+    Transition Demand - traditional payments to digital wallet(competettion tracking is important)
 
 
 ---Products/services SUPPLY check :
 1)Product portfolio :
 payouts - PayPal mass pay option, Payouts, is one such solution. The account holder can easily send money to multiple people at the 
   same time, and the recipients will receive the funds in their PayPal account.
-working capital loans to merchants
-buy now pay later
-checkout paymnets in e-commerce
+Digital wallet: You can save and access details of your debit and credit cards through your PayPal account, being able to
+ shop and transfer money simply via PayPal ID and password; buy now pay later, crypto payments , QR code payments included in the app
+One-Touch: PayPal technology allows you to save login details on your personal device, so you can check out websites without even typing your username and password;
+Money transfer: You are able to transfer money to more than 200 countries and over 100 currencies, both to and from a bank account or a PayPal account;
+Payment gateway: checkout Jourmey in e-commerce (They recently acquired Happy Returns (for inperson return) and integrating it with e-commerce and retail stores)
+Debit card: A PayPal debit card works just like any other bank, so it can be used to shop (online or offline), withdraw money, and earn rewards over your purchases;
+Paypal Credit: buy now pay later (credit card replacement)
+Capital loan: A daily payable loan with a lower fee than banks.
 
 2)COMPETETION : 
-  what is the unlisted players market share - 
-  listed peers market share -
-  postion among peers - 
-  global competettion -  Visa Inc. (V), Mastercard Inc. (MA), Alphabet Inc.'s (GOOGL) Google Pay, JPMorgan Chase & Co.'s (JPM) WePay, Square Inc. (SQ), and Stripe.
-  threat of new entrants
+  Total payment volumes market share :
+  Visa (50%), Mastercard(35%), AMEX(6%), Paypal(5.5%)
+  global competettion -  Visa Inc. (V), Mastercard Inc. (MA), Alphabet Inc.'s (GOOGL) Google Pay, JPMorgan Chase & Co.'s (JPM) WePay,
+    Square Inc. (SQ), and from Local markets
+  threat of new entrants - Amazon pay , Gpay , e-bay came up with own wallet etc
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
+Digital wallet peers Paypal wins
+But comparing with Visa And Mastercard - they clearly win interms of Net margin and ROE
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
-  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
-  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
+  //does it delight the customers - mostly becuase of the trust and ease of access of payment services
+  //does it own consumers mind - yes it is an establised brand
   //what value does it add to customers compared to competetiors?
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
+    Digital wallet - convinence as it can hold deposits in multiple currencies and can be sent across internationally ,
+     support for Multiple payment methods.
+    Security - paypal provides additional security layer where credentials , card details and accounts doesn't travel over 
+     the network and stay within paypal servers. Also email id,mobile,username or personal QR is needed to recieve money, no 
+     need to expose ur bank account or card details to everyone
+    Checkout - If you don't receive a product you buy with PayPal, you'll get your money back.
 
 
 ------------------- FUTURE -----------------
 ---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
-//Goal/Aim - global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
-//Strategies being employed: 
-ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
-
+//Goal/Aim - global leader in digital wallet, capture market share in checkout process
+//Strategies being employed: not clearly defined
 
 --- EARNING POWER (Earnings Growth Oppurtunities check )
 //SOURCE OF EARNINGS
 --Internal Growth oppurtunities
+penetration - Acquire new customers in untapped areas 
+old customers transacting more
+Launch New products BNPL and crypto additions
+QR codes share is very less in offline stores (people still prefer using debit and credit cards)
+Less than half the time that a PayPal customer has the opportunity to use us, they actually take advantage of that. We can
+  double the size of our business with our current user base if people just use us when they can.
+Venmo, Braintree revenues can be significant goin forward that they can contribute to the mix
+Venmo integration with Amazon is yet to be seen
 
 --External Growth oppurtunities
-Macroeconomic - check MacroEconomy folder
-Tailwinds
+Acquistions
+Macroeconomic - only 50% penetration in the US (core market)
+Tailwinds -COVID and non-touch payments pick up
 
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
-Economises of Scale
-Low cost producer - check product quality and profitability ratios
-Brand
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
+Brand - Trust
+Network effect - global two-sided network of consumers and merchants 
+Intangible assets - security and ease of access and transfer
 
-2)PRICING POWER (MUST HAVE MOAT)
-
-3) Longterm vs short term bet
-/Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
-/Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
-market share soon - need to monitor closely
-/Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
-you can use the cash to buy other growth and non-growth businesses) 
-Note: Don't forget to compare dividend yield with FD interest rates
+2)PRICING POWER (MUST HAVE MOAT) - unfortunately it doesn't have one bcoz of the substitutes available
 
 
 ----Capital Allocation 
-//SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
+//SOURCE OF CAPITAL - Debt + Retained Earnings
 
 
 //USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
-Cash
-Organic growth - putting back the money in the same business
 Inorganic growth - M&A
-Dividends
-Buyback - preferred
-Capex - new
-Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
-modernising or technology upgradation of operations
-R&D
-Advertising
-Working capital (tied up in) - bad
+Buyback 
+Advertising - little
 
 
 //RETURN ON CAPITAL
-Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital)
-Very Good company: ROCE/ROIC(return on capital) >>> WACC (cost of cpital)
-Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
+WACC : 12.33%, ROCE : 12.86%
+Avg company interms of Capital returns: just breakseven
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
-  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
-  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+  MOSTLY -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  YES -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
-   Environmental: does the process/products cause any kind of pollution
-   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
-   Governance: Superior Management and board of directors
-  -Scalable business model - globally preferred (mutibagger are made because of this property)
-  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
-    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
-    burns more cash to be in the competettion)
-  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
+  Non commoditized business - people don't trust unknown plyaers with their finances handling
+  Non - cyclical
+  Highly competettive industry (it needs more capital to adapt to the changing business environment and burns more cash to
+    be in the competettion)
+  Almost recession proof
+  ESG clean
+  Scalable business model - globally preferred (mutibagger are made because of this property)
+  Having Tailwinds
+  YES-If a person has lot of money can he break ur business and take away marketshare?
+  Avg company interms of Capital returns: just breakseven i.e WACC =~ ROCE
 
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt
 --expenses breakup and see which expenses are growing YOY
+Transaction costs (MDR payed to credit card companies and banks)
+paypal to paypal transfer cost is ZERO for same currency
+Interest expense - 2%
+
 //Financial strengths
-share buyback almost every quarter
+Gross proft margin is good
 
 //Financial weakness
+R&D cost - 28% of operating profit
+thin margins
+low profitability compared to peers
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
-//how is the Management and their Vision:
-//
+//how is the Management and their Vision: check management discussion analysis in annual report
+--view is let’s concentrate on our engagement in basically our core markets where we have a multiplicity of services, where we 
+have our digital wallet, and not spend a ton of money on higher beta opportunities internationally where we need to roll out, 
+support new services, and build awareness.
+--we want to unify all of the things that we’ve bought as well into one common platform.  
+2 core focus areas 
+1)Investment in e-commerce checkout Jounrney
+2)Digital wallet
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+Consumers going back to more in-store experiences, as well as more services versus goods, both of which are sort of contrary 
+  to what our platform provides, or is not where our strengths are.
+Competettion Risk: especially in local markets, in international markets if competettion can remove that extra cost while 
+   transferring money via QR or internationally
+substitution risk - customers can quickly shift to other company services
+loans to merchants and Paypal credit(buy now pay later) can be probable NPAs (but since paypal has the data it can take wise decision)
+
 
 ---Financial Risk:
+Probable Weak balance sheet (if subsidaries don't perform) - Entire Equity in balance sheet is mapped to Acquistions 
 
----Management Risk:
+---Management Risk: NA
 
----Investment Returns Risk:
+---Investment Returns Risk: might have to suffer oppurtunity cost if you invest at higher valuations
 
 
 ---------------------------------- VALUATION --------------------------------------
-future cash flow prediction - DCF method
-check tickertape and  morning star for valuation confirmation
-check Valuation_Check.txt
+DCF method on earnings and FCF : 15% next 10yr CAGR, MCAP : 100B (returns around 17%)

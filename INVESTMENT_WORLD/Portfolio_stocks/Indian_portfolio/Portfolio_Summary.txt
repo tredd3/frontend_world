@@ -4,24 +4,38 @@ MCX - 36% net profit loss in FY22
 
 
 //Category A - must buys if price drops
-HUL, Britannia - gained market and increased prices
+HUL, Britannia - gained market share and increased prices
 Asian paints - increase prices
 IEX, Indiamart - are already using lower fee to woo customers and create network effect
-
+ITC - tobacco leader, with diversification in to FMCG, Agri commodities etc 
+    - 4% dividend yield with PE of 20 (chance of dividend increase and capital appreciation)
+LTTS - 
+CLEAN - B2B but one of the best chemical companies out there
+TITAN - jewellery business generates cash and that is reinvested in other businesses, ROCE on incremental capital is 30%
+SBI LIFE - 
+HDFC LIFE - 
+ICICI PRUD -
 
 //Category B - eligible for capital infusion but needs close observation on business and financial performance
-Borosil Renewables
-IDFC First Bank
-MapmyIndia 
-Happiest Minds
-CDSL
-
+Borosil Renewables - macroeconomic oppurtunity
+IDFC First Bank - turnaround with strong management
+MapmyIndia - macroeconomic oppurtunity with first mover advantage
+Happiest Minds - niche IT services
+CDSL - macroeconomic oppurtunity
+CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
+Relaxo - target the low end customers (where other players won't enter bcoz of low revenues and high costs)
+CRISIL - high valuations, repeat and fixed customers
 
 //Category C - stop further infusion of money
-GLS
-Windlas
-MTAR 
+GLS, Windlas - upcoming pharma businesses, need monitoring in growth metrics
 NYKAA - very high valuations
-MCX - completely unpredictable but if revenues increase then profit will increase multifold as expenses aee constant for last 10yrs
-BSE - we can hold it when dividend yield is attractive
 page industries - dividend play + very high valuations
+IRCTC - no pricing power , Puppet in the hands of Railways (ok for a short term buy if valuations improve)
+Radico - entry barriers but present competettion can be a problem
+
+//Eliminated
+Paypal - All equity is spent on acquisitions at higher cost - subsidaries must perform
+TTK Prestige - good balance sheet, but Avg ROE(15%) and NPM (10%) - weaker economics 
+MTAR - equity grwth is zero and ROE is less, bargaining power of consumers exists bcoz of the limited clients, B2B
+BSE - we can hold it when dividend yield is attractive, no reinvestment of cashflow
+MCX - completely unpredictable but if revenues increase then profit will increase multifold as expenses aee constant for last 10yrs

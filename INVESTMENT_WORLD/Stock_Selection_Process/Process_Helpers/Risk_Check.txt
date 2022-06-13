@@ -17,17 +17,19 @@ diworsification risk - if the company keeps acquiring businesses for non-strateg
 recession risk - few companies only do well during boom years and get hampered during recession years (better to allocate less capital)
 
 ---Financial Risk:
-high Debt - can lead to bankruptcy during inflation/recession times, especially if the company has no pricing power
+weak balance sheet
+high Debt - can lead to bankruptcy during inflation/recession times, especially if the company has no pricing power or is cyclical
 continous upgradation capex - low returns for shareholders (Aviation,Telecom)
 high spend on R&D - can lead to bankruptcy, if R&D spend as a % of sales is higher and keeps increasing over time
 increasing other income /non-core income - company business might be down or management focusing on non-core activities
-
+weak CFO trend
 
 ---Management Risk
 old management, with no succession plan
-fraud - related party transactions to the companies in which management/promoters have interest 
+fraud - related party transactions to the companies in which management/promoters have interest - chance of diverting company's 
+  profts for their own wealth creation
 not focusing on core business, trying to diworsify
-not focusing on share holders
+not focusing on share holders wealth
 irrelevant skills / experience
 short term mindset - management needs to focus on longterm benfits instead of short term profits
 
@@ -42,6 +44,6 @@ short term mindset - management needs to focus on longterm benfits instead of sh
 --------------- How to reduce risk --------------
 Think for some time with a cool and calm mind and you will get all the scenarios - don't predict about macroeconomy because over 
  the years it will and it has to improve.
-Keep reading and updating knowledge everyday - you might not invest everyyear but u need to be 
+Keep reading and updating knowledge everyday - you might not invest every year but u need to be 
    updated which reduces ur risk to  a significant amount
 Review the stock performance and company performance anually

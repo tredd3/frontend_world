@@ -55,14 +55,17 @@ PEG ratio:
 2)PB: 
 Note: imp for capex intensive like utilities(fixed assets - old value) and financial firms(liquid assets - current value),
   this parameter makes less sense for service based companies
-Also don't forget to look at balance strength when you are valuing a firm based on PB value
+
+//when you are valuing a firm based on PB value
+Check ROA , i.e how much earnings is the company generating from its assets
+Also don't forget to look at balance strength :
 -if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
   decreases because people won't buy the company or value the company for the price at which u have bought
 -intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
   they also can loose value like crazy
 -cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
 Bargain: if ROE is consistently high(i.e equity/book value is increasing) and PB value is less compared to peers
-PB - NA for a B2C company,if PB is applicable check ROA
+
 3)EV/EBITDA or EV/EBIT: for capex heavy companies where depreciation eats a lot of revenue
 EV/EBITDA < 10 - excellent company
 EV/EBITDA < 14 - can be considered
@@ -98,9 +101,10 @@ overvalued/undervalued by comparing ratios with peers.
 4)Book value in PB can go down significantly as the assets value decreases when company files for bankruptcy. so if u think u are getting 
 high value assets at lower price (P/B < 1) then always check what is there on the asset side(natural resources like land, gold, silver,
 oil etc is fine but random real estate, machinery, inventory values can down significantly during auction)
+
 *** Hence finding intrinsic value is imp or valuing companies based on cashflows comes in the picture
 
-1)DCF valuation for the entire company 
+1)DCF valuation for the entire company considering the base
 If cash flow regular? 
     Based on Earnings: calculate earnings after 10yrs  based on the previous 10yr earnings growth rate, now multiply the predicted
       earnings with estimated PE to get the estimated market_cap. Now calculate the rate at which the current market cap grows

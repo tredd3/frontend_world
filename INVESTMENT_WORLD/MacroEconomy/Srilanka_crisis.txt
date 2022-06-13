@@ -1,24 +1,29 @@
-organic-farming experiment that went wrong
-zero real GDP growth rate (since people have no money there is no spending and hence no demand => which means there will be no supply 
+//Reasons
+1)zero real GDP growth rate (since people have no money there is no spending and hence no demand => which means there will be no supply 
    as people won't work hard to produce goods/service because of zero demand)
-   tourism revenues - went down to almost zero due to COVID
-current account deficit at record highs (lack of reserves)
-  Current account deficit occurs when the value of goods and services a country imports exceeds the value it exports.
-  lack of forex reserves meant that there was a severe shortage of many of the imported items such as fuel and food.
-Fiscal deficit  at record highs (govt spending > revenue) hence Srilankan govt took debt to fund fiscal deficit
+   i)organic-farming experiment that went wrong - fertilisers were banned rice production went down by 50%, so Srilank was forced 
+     to import rice and reserves were used for this
+   ii)Tourism revenue was zero because of COVID - Srilanka is heavily dependent on Tourism , as it contributes roughly 13% of GDP
+2)current account deficit at record highs (lack of reserves)
+  Current account deficit occurs when the value of goods and services a  country imports exceeds the value it exports.
+  lack of forex reserves - zero tourism reveues and no remittance due to COVID
+3)Fiscal deficit  at record highs (govt spending > revenue) hence Srilankan govt took debt to fund fiscal deficit
     tax cuts during pandemic - both personal and corporate
     expenses = distributing free money to people during COVID and they have spent it - instead of investing/creating value
     Taking Debt is good provided u spend on infrastructure , industries creation, training people , sourcing raw materials 
-      But the problem it used the debt for spending and not on capital expenditure hence the debt money is exhausted and they
-      are in trap 
+      But the problem it used the debt for spending and not on capital expenditure hence the debt money is exhausted now they
+      took more debt and kept spending more on expenses(becuase of high Inflation) - this kept n repeating and they are in trap
 
+Summary: COVID acted like a catalyst to the disastrous decisions made by The Govt
 
 Result:
-Srilankan currency crashed by 40%, stock market crashed by 50% because the economy crashed
+ZERO foreign reserves
+Srilankan currency crashed by 40%, stock market crashed by 70% because the economy crashed
 debt/GDP sky rocketted = 115%
 tax revenues decreased to a larger extent - from 11.6% of GDP in 2019 to 8.1% in 2020 
 default on its overseas bonds, bilateral credits, and all foreign currency-denominated loan agreements.
-very high inflation
+very high inflation (30%)
+No international bank is ready to help
 
 
 Future:

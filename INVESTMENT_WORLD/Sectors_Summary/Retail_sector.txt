@@ -25,7 +25,7 @@ This is the best model to scale the business but any bad maintenance or experien
   the brand value in customers mind
 Hence companies take atmost care in setting up store infra, equipments, staff training etc
 E.g: MCD, APOLLO DIAGNOSTICS
-3)Distributor model - give all products to distributors and they give it to various retailers
+3)Distributor model - give all products to distributors => wholesaler => Retailer
 4)E-commerce : Amazon, flipkart, NYKAA fashion stores own sites for businesses
 
 
@@ -71,4 +71,4 @@ COCO model - They need to keep expanding , so focus on lease and depreciation ex
 
 Note:
 stock might have gone 20X/30X times - but if there is enough room for the stores to grow in the country then the stock can 
- still go to 30X/50X from now - bcoz stock always possible the earnings of business
+ still go to 30X/50X from now - bcoz stock always follows the earnings of business
