@@ -63,20 +63,22 @@ Note: Wealth Creation happens when you buy high quality businesses in your circl
 
 ----------------------- Research Resources ---------------------
 //Resources to know about the company/business : 
-1)wikipedia
-2)company website - most important for updated info 
-search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
-3)screener summary
-5)tijori overview page
-5)crisil report and ratings scroll to the end of the page(about company, subsidaries, rating history)
+//Screening
+1)screener about and summary sections
+2)tijori overview page
+3)crisil report and ratings scroll to the end of the page(about company, subsidaries, rating history)
 moody's rating for foreign companies
 CRISIL Ratings:
 A AA AAA (Adequate to highest safety)
 B BB BBB (Moderate to high risk)
 C (Very high risk)
 D (Default)
-6)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
-7)check for company analysis, business and revenue model in google or youtube
+//Deep Analysis
+1)wikipedia
+2)company website - most important for updated info 
+search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
+3)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
+4)check for company analysis, business and revenue model in google or youtube
 
 
 //Stock research report sources: (Indian Stocks)

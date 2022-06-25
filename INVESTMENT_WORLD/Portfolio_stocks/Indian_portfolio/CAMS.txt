@@ -1,15 +1,82 @@
 Overall: Analyse with a fraud identification mindset and not with a confirmation bias
 Business :
                              FY21    FY22
-Market share:                 69%     69%   
+Overall AUM Market share:     69%     69%   
+Equity AUM Market share:      62.5%   65%   
 SIP Market share              52%     59%
-AAUM(lakh crore):                     22
-Equity AAUM:                          33%
-Transaction vol(million):             323
+AAUM(lakh crore):              22      26 (industry AUM 38)
+Equity AAUM(lakh crore):               11 (industry AUM 17)
+AMC clients :                  16      17
+//All the below are in millions
+Transaction vol:              323     415  
+Insurance policies held:               41  
+Insurance renewals:                  65.20              
+KYC Repository:                        1
 
 Financials :
 Risks :
 Valuation :
+16% revenue growth for next 10yrs by management
+
+------------------- SCREENING SUMMARY -------------------
+//General check:
+  stock picking strategy: bottoms-up/familiar with the product or industry
+  legal orders(confirm from wiki) and tickertape - None
+  corporate actions, dividend history and announcements from tickertape - Dividends from last 2 yrs
+  check shareholding pattern(especially promoter) trend over the years in tijori - promoter shareholding decreasing over the years
+   Reason: as the promoter is a PE fund
+  promoter pledging - None
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying : yes for the year 2022 but at around 700rs
+
+
+//Business check:
+  market share trend : constant
+  //how is the quality of product/service - customer satisfaction 93%
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - NA as loan taken is ZERO
+  can a fool run this business - yes
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ??? YES
+
+//Finance check:
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 5 (not an asset play)
+
+//non-current assets - 25%
+
+//current assets - 75%
+
+//shareholder Equity - 50%
+--Check Equity CAGR from balance sheet equity section (12%)
+  equity is increasing and Avg ROE is 30%
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+
+//Total Liabilities - 50%
+
+
+2)Profit and loss statement : Clean
+low sales growth bcoz of volume pricing concept
+  
+3)Cashflow statement
+--CFO +ve most of the time and growing? Yes
+--free cash flow consistently +ve and growing? ? Yes
+--use of cash flow from operations: check 10yr cash flow analysis in tijori - Dividends
+
+
+4)Profitability Ratios Check: very good
+--GPM(consistent and above 15%) trend - company has Pricing power 
+--OPM(consistent and above 15%) trend - company has Efficient management (Avg 40%)
+--NPM(consistent and above 15%) trend - good profitability (Avg 22%)
+--ROE consistent and  10-15% (with D/E under control)? (Avg 25%)
+--ROCE(consistent and above 15%) trend - (Avg 30%)
+--ROIC(consistent and above 15%) trend- (Avg 30%)
+
+
+//Valuation check
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation : 50 times
+PEG: 2
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 https://stockdiscovery.s3.amazonaws.com/insight/india/5753/Investor%20Presentation/IP-Sep21.pdf
@@ -19,22 +86,16 @@ know about the company:
   Nature of business: business services, CAMS is a technology-driven financial infrastructure and services provider to Mutual Funds
     and other financial institutions across India
   what does it do (Product/Services Portfolio): India's largest registrar and transfer agent (duopoly with KFintech)
-    The company has 7 business verticals, these are
-    1)Mutual Fund Services Business - major part of the revenue from data processing
-      Anti-Money Laundering Services, Suspicious Transaction Reporting, Reporting to Government Agencies and Regulators, Timely 
-      Fulfilment of Regulatory Requirements without Error, compliane with KYC and SEBI guidelines
-    2)Electronic Payment Collection Services Business - manages end to end automated clearing house transactions and ECS and service mutual funds, non banking financial company’s and insurance companies
-    3)Insurance Service Business - insurance repository,  processing and scrutinizing of applications for insurance companies, training
-      and on boarding of new insurance agents and assisting in back office operations.
-    4)Alternative Investment Fund Services Business - all services similar to that of MFs
-    5)Banking and Non Banking Services Business - They also assist with loan application processing and loan disbursement. CAMS also offers with managing the operations of bank’s processing centers.
-    6)KYC Registration Agency Business - maintains KYC records of investors on behalf of capital market intermediaries registered with SEBI.
-    7)Software Solution Business - owns, develops, and maintains the technology solutions for mutual fund clients.
-  Subsidaries/JVs:
+     mostly back office operations
+     investing and tracking web sites for individuals, corporates, distributors and advisors
+   Subsidaries/JVs:
    CAMSKRA - kyc services
    CAMSREP - Insurance Repository & Services
-   sterling software - Software Development (fintech)
-   CAMS finserv - Account Aggregator
+   sterling software - Software Development (fintech solutions)
+   CAMS FIS - Account Aggregator
+   CAMS PAY - Payment Aggregator (including registering of mandates, initiation of collections etc)
+   FinTuple - client digital on-boarding, eKYC, fund reports, and other support digital solutions for Alternate Investment 
+      Funds (“AIF”) and Portfolio Management Solutions (“PMS”).
   Target Audience : AMCs, Insurance companies, PMS, AIF etc
   market size: huge (services to 16 out of 41 AMCs in india, 22 by KARVY/Kfintech)
   market share: 70% of total AAUM in the country (roughly 22 lakh crore)
@@ -44,71 +105,175 @@ know about the company:
     Pan-India physical network comprising 272 service centers spread over 25 states and 5 union territories
   Revenue Model: primarily revolve around the AUMs handled by them across various categories – (equity, debt, liquid, hybrid and others)
     RTAs charge the highest fees for equity AUMs, 33% of CAMS managed AUM is equity AUM
-    certain part of expense ratio is given as payment to CAMS by AMC
-  Clients:
+    MF based Revenue - 90%
+       Asset/SIP based - 85%
+       Non-asset based - Transaction revenues, call centre
+    NON-MF based revenue - 10%
+      AIF business, the CAMSpay business, the KRA and the insurance repository business and some amount of the software services
+      that we do to our mutual fund clients
+  Clients: 
     The company’s mutual fund clients include 4 of the 5 largest mutual funds and 9 of the 15 largest mutual funds based on AAUM
     17 yrs relationship with HDFC AMC, ICICI AMC, SBI, ADITYA BIRLA
+    17th AMC client Franklin Templeton Mutual Fund
+    Appointed as the RTA by Zerodha AMC for its upcoming mutual fund business. 
 why did the promoters start the business: to capture the huge oppurtunity in financial services space
 promoter: Great Terrain, an affiliate of Warburg Pincus (PE firm)
 any research report/youtube analysis available for the company: https://www.youtube.com/watch?v=kWNsg1dhKPA&list=RDCMUChBT5TlUeG68PKvJSg6MkqQ&start_radio=1&ab_channel=MoneyPurse%7B%E0%B0%AE%E0%B0%A8%E0%B1%80%E0%B0%AA%E0%B0%B0%E0%B1%8D%E0%B0%B8%E0%B1%8D%7D
 what peter lynch bucket does stock belongs to : fast growers
 
 
-2)PRESENT :
----Sectoral analysis:
-largely unorganised Sector
-mostly companies outsource mnufacturing
-no player in india  has low cost production of product on scale 
-almost all the players except relaxo has products for high end customers
-for low end customers unorganised players 
+--------------------- PRESENT --------------------
+---Sectoral analysis: 
+//STAGE of development: growth
+asset light business model
+The Registrar and Transfer Agency serves the Mutual Fund Industry and mirrors the performance of the Mutual Fund Industry
+
+//sector value chain: users pay expense ratio to -> AMCs -> certain part of expense ratio is given as payment to CAMS by AMC
+
+//Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
+   only within the country :
+        not limited to a single user (almost every user will find its usage now or eventually)
+        not limited to single business (almost every business will find its usage now or eventually)
+
 ---Products/services DEMAND check :
+//From where does the actual demand from for the company? 
+  B2C (how many users out of 140 cr population use it)
+  Business service companies (what all industries/companies need it)
+
+
+//Type of demand: continous and growing demand 
+
 ---Products/services SUPPLY check :
---- Products/services Uniqueness check :
+1)Product portfolio :
+The company has 7 business verticals, these are
+  1)Mutual Fund Services Business - major part of the revenue from data processing
+    Anti-Money Laundering Services, Suspicious Transaction Reporting, Reporting to Government Agencies and Regulators, Timely 
+    Fulfilment of Regulatory Requirements without Error, compliane with KYC and SEBI guidelines
+    customer care services
+    onboarding services
+    self service portal - for individual and corporate investors
+  2)Electronic Payment Collection Services Business - manages end to end automated clearing house transactions and ECS and service mutual funds, non banking financial company’s and insurance companies
+  3)Insurance Service Business - insurance repository,  processing and scrutinizing of applications for insurance companies, training
+    and on boarding of new insurance agents and assisting in back office operations, contact tracing
+    All 5 private insurance players are CAMS clients
+  4)Alternative Investment Fund Services Business - all services similar to that of MFs for AIF and PMS
+  5)Banking and Non Banking Services Business - 
+   They also assist with loan application processing and loan disbursement. 
+   Account aggregator services to banks, NBFCs and investment advisors, providing unified view of fragmented financial
+   assets and transmit data to specified financial information user in an encrypted manner.
+   digiLoan against MF units
+  6)KYC Registration Agency Business - maintains KYC records of investors on behalf of capital market intermediaries registered with SEBI.
+  7)Software Solution Business - owns, develops, and maintains the technology solutions for mutual fund clients.
 
 
-3)FUTURE :
----Process/Strategy check?
---- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
-//Growth oppurtunities
-1)Macroeconomic:
-india has the largest youth population in the world and AUM as % of GDP is 12% , globally it is 63%
-Equity AUM to GDP is 5% in india in the developed countries it is roughly 50%
-only 5% of assets in india are financial assets - even if in the next 10 yrs it goes to 15% then CAMS business increases 5 times 
-2)Internal:
-Services to AMC, AIFs, Insurance firms in the GIFT City - Global investors can now invest in India via GIFT city smoothly
-NPS CRA application and data on cloud (2 other players are Kfintech CRA, NSDL CRA) 
-CAMSfinserv enables rapid, secure and consent-based sharing of financial asset information with the consent of customers(Account aggregator)
-• For individuals - AA framework enables them to access and review their financial information in one place
-• For Financial institutions and businesses - AA Framework brings together Financial information providers and financial information users to unlock the
-value of customers financial information
-Note: CAMSfinserv does not view, store or have any access to use the customers’ data - so no cybersecurity/fraud issues
-3)Tailwinds: increase in disposable income, financial awareness, ease of investment at low cost, traditional investments(like FD)
- not able to beat inflation etc
-//Moats:
+
+2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
+             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
+             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
+  what is the unlisted players market share - Karvy(30%)
+  postion among peers - 1
+  global competettion - None
+  threat of new entrants - None bcoz of entry barriers
+
+3)Listed peers Comparison: NA
+
+4)Products/services Uniqueness and Quality check :
+what makes the product or service of this company Unique?
+  //does it delight the customers - yes with latest tech infra and new products
+  //does it own consumers mind - yes because of long history
+  //what value does it add to customers compared to competetiors?
+  //how is the quality of product/service - Have u used the product/service ? high customer satisfaction
+
+
+------------------- FUTURE -----------------
+---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
+//Goal/Aim - global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
+//Strategies being employed: 
+ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
+
+
+--- EARNING POWER 
+Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
+
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
+
+i)INTERNAL GROWTH OPPURTUNITIES
+///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    Services to AMC, AIFs, Insurance firms in the GIFT City - Global investors can now invest in India via GIFT city smoothly
+    NPS CRA application and data on cloud (2 other players are Kfintech CRA, NSDL CRA) 
+    CAMSfinserv enables rapid, secure and consent-based sharing of financial asset information with the consent of customers(Account aggregator)
+    • For individuals - AA framework enables them to access and review their financial information in one place
+    • For Financial institutions and businesses - AA Framework brings together Financial information providers and financial information users to unlock the
+    value of customers financial information
+    Note: CAMSfinserv does not view, store or have any access to use the customers’ data - so no cybersecurity/fraud issues
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    SIPs keep increasing
+    Launch New products 
+
+ii)EXTERNAL: GROWTH OPPURTUNITIES
+  /Acquistion and synergy led growth - open to these
+  /Macroeconomic oppurtunity
+   india has the largest youth population in the world and AUM as % of GDP is 12% , globally it is 63%
+   Equity AUM to GDP is 5% in india in the developed countries it is roughly 50%
+   only 5% of assets in india are financial assets - even if in the next 10 yrs it goes to 15% then CAMS business increases 5 times 
+  /Tailwinds - increase in disposable income, financial awareness, ease of investment at low cost, traditional investments(like FD)
+    not able to beat inflation etc
+
+
+Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
+   seems trivial and we need to opt for external growth. 
+   for e.g: let us say if HUL identifies an internal growth oppurtunity that can increase its cash flow by 20% , however if HUL 
+   opts and invests the capital in external growth oppurtunity instead, say acquisition then its cashflow grows by 50% then it
+   is a no brainer to allocate capital for external growth opportunity by the Management
+
+
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+i)Competettive advantage/MOAT Check? check MOATS_check.txt
+MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
+Economies of scale
 Switching costs: RTA business is sticky, if a mutual fund is being serviced by a particular RTA shifting to another RTA is difficult 
  as huge amount of data and information needs to be transferred and there is a high risk of disruption of operations and customer experience
 Entry barriers: because of switching costs, also MF RTA business is technology intensive requiring continuous upgradation of 
  systems and processes in line with the increase in volumes and changing regulations, Investments in technology and branch expansion
  is justified only if volumes are adequate, hence a new players has to think twice before entering this space
----PRICING POWER (MUST HAVE MOAT)
----EARNING POWER 
+Network Effect - 275 service centres across 25 states and 5 Union territories 
+
+ii)PRICING POWER (MUST HAVE MOAT) - industry controlled (bargaining power of AMC customers)
+volume-based pricing or the flabbiest pricing will ensure that going forward yield will keep falling down as the assets grow and 
+ that needs to be managed
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - mostly Retained Earnings
+
+---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
+ growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
+Inorganic growth - M&A for strategic purpose or to build a MOAT
+Dividends(Mostly) - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+modernising or technology upgradation of operations
+MOAT building or repairing or strengthening (so that earnings are not snatched by someone)
+
+
+//RETURN ON CAPITAL
+Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
-  -Predictable and consistent/recurring EARNINGS for next 10 yrs
-  -Competes on value rather than price 
-  -prefer high margin non commoditized business
-  -lousy industry - company does lot of backoffice and repetettive tasks
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -non-cyclical - shallow cyclical (during recession inflows might decrease)
+  -lousy industry/niche industry(no big players have entered yet)
+  -not completely recession proof (don't make it frontrunner of ur portfolio)
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
-   Environmental: does the process/products cause any kind of pollution: +ve
-   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health: +ve
-   Governance: Superior Management and board of directors: +ve experienced management 
-  -Scalable business model - not globally but within indian finacial sector space
-  -Company having calibre or potential to adapt to the changing business environment - yes it actually helps clients/businesses 
-    to achieve that
-  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-    yes it does havd a lot of Tailwinds and macroeconomic oppurtunity
-
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Not a Scalable business model globally
+  -Having Tailwinds
+  -If a person has lot of money can he break ur business and take away marketshare? NO bcoz of moats
+  -Ideal business always takes little amount of capital to operate and an excellent business always
+    earns same high returns on incremental capital
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt
@@ -119,27 +284,31 @@ free cash flow generating company
 good operating leverage - any new client additions will directly contribute to PAT
 asset light business model
 //Financial weakness
-low sales growth
+
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
+//how is the Management and their Vision: check management discussion analysis in annual report
+Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
+and then if u put a capable and passionate management he will do wonders for you
+check Management_Check.txt
 promoters: shareholding decreasing over the years
-
+no related party transactions
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
 Directly linked to Stock markets and AMCs
+Top 5 clients contributed to 68% of revenues in FY20. Client concentration risk is high, even if 1 client were to move to another 
+  player, revenues will be impacted - company is significantly focusing on non-mf revenues as well
 Revenues are dependent on AAUM of mutual funds especially equity AUMs, if AAUM managed were to decline due to tough market conditions, 
  revenues of CAMS will be impacted
-Top 5 clients contributed to 68% of revenues in FY20. Client concentration risk is high, even if 1 client were to move to another 
-  player, revenues will be impacted
-Regulations impacting mutual funds will impact the RTAs. For instance the latest regulation of capping expense ratios for
-  AMCs will impact RTAs
+Regulatory risk - Regulations impacting mutual funds will impact the RTAs. For instance the latest regulation of capping 
+ expense ratios for AMCs will impact RTAs (clients pay CAMS from expense ratio money)
+pricing power risk - bargaining power of AMC customers union
 Company handles confidential data – personal and financial information of clients. Any breach of their systems will create legal 
   and regulatory risk
 
 ---Financial Risk: None
-
 
 ---Management Risk:
 

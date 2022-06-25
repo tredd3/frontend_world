@@ -1,6 +1,6 @@
 -------------------- SUMMARY --------------------
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
-
+Regarding business always consider you are buying the whole business and not share of a company 
 Business :
 Financials :
 Risks :
@@ -10,93 +10,101 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Abnormal falling: covid 19 effect on tobacoo, which is the largest revenue contibutor
-  legal orders(confirm from wiki) and tickertape
-  check shareholding pattern - 70% institutions, 30% public
-  Is the business easy to understand or complex : complex
-  circle of competence: Yes/No
-  any recent insider buying : only one Acquistion at 225 rest sale by employees
+  stock picking strategy: contrarian
+  Normal check on stock price since inception - continous falling
+  check shareholding pattern(promoter - 82%) trend over the years in tijori
+    Institutional ownership is low
+  promoter pledging - None
+  Is the business easy to understand or complex : easy
+  circle of competence: No
+  any recent insider buying (bse india > disclosures > insider trading) - promoters bought at 640Rs (currently available at 
+  30% discount to that price)
 
 
 //Business check:
-  //how is the quality of product/service - Good
-  CRISIL Rating must be Above A and check Rating History for last 3 Years - AAA over 3 yrs
-  can a fool run this business - yes bcoz of brand which ITC carries
+  market share trend : unknown as it is a small player
+  //how is the quality of product/service - Have u used the product/service ? NO its B2B
+  CRISIL Rating must be Above A and check Rating History for last 3 Years : AA- for all the yrs
+  can a fool run this business: No idea 
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
-//Finance check: VERY STRONG BALANCE SHEET
-1)Balance sheet Strength check
-//non-current assets - 44k
-mostly PPE, LTE
+//Finance check:
+1)Balance sheet Strength check: Strong
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) : 80%
+--(Price to book value) - 2.6
 
-//Net current assets - 22k
-30% inventory, cash 70%
+//non-current assets - 706
+PPE
 
+//current assets - 1400
+inventory - 500
+cash - 500
+accounts recievables - 400
 
-//shareholder Equity - 62k
---Check Equity CAGR from balance sheet equity section : 12% 10yr CAGR
-  ROE for the last 6yrs on incremental capital is 21%
+//shareholder Equity - 2000
+--Check Equity CAGR from balance sheet equity section :  equity is increasing with ROE of 30% every year
 --Sorce of Equity increase: CFO
+//non-current Liabilities - 0
 
-//non-current Liabilities - 2k
 
-2)Profit and loss statement : clean
+2)Profit and loss statement: Clean
   
-3)Cashflow statement: Good
+3)Cashflow statement : Clean
+--use of cash flow from operations: dividends(partially), kept it as cash (in the management interview check the usage)
 
 4)Profitability Ratios Check:
---OPM(consistent and above 15%) trend - company has Efficient management (Avg 40%)
---NPM(consistent and above 15%) trend - good profitability (Avg 25%)
---ROE consistent and 21%
---ROCE has decreased from 45% to 28% on incremental capital
---ROIC has decreased from 37% to 25% on incremental capital
+--OPM(consistent and above 15%) trend - avg 31%
+--NPM(consistent and above 15%) trend - decreasing from 22 to 18 (needs monitoring)
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE, ROCE & ROIC consistent but needs monitoring
 
- //Valuation check
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow - 27
---PEG : 2.57
---DCF: 15% 10yr CAGR
---check tickertape and  morning star for valuation confirmation: 291 Rs
+//Valuation check
+ PE:12
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 10 times
+--PEG: <1
+--DCF: 8X if Freecash flow grow at 15% for next 10yrs
+--check tickertape and  morning star for valuation confirmation
 check Valuation_Check.txt
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: consumer goods
-  What does it do: (what is the actual business): 
-    ITC has evolved from a pure tobacco company into a well-diversified business conglomerate, with a strong presence in paperboards,
-    printing and packaging, agricultural commodities, hotels, branded packaged foods, personal care products, stationery, 
-    safety matches, agarbatti (incense sticks) and other fast-moving consumer goods (FMCGs).
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): API business
+   The company has leadership in select high value non-commercialized APIs in chronic therapeutic areas.
+   Their CDMO business currently comprises of applying for and procuring permission to market products in regulated markets 
+    as well as contract manufacturing of APIs for utilization by pharmaceutical companies to make formulations
   How does it do :
-    backward integration in the tobacoo, agricultural commodity and packaged food business through the robust supply chain and 
-     agri-farm network.
-    ITC chose the hospitality sector for its potential to earn high levels of foreign exchange, create tourism infrastructure 
-  Subsidaries/JVs: so many
-  Target Audience : every human
+  Subsidaries/JVs:
+  Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 82%, Exports 18%
-  Revenue by Product: FMCG(cigarattes) 45%,FMCG(Others) 15%, Agri commodities 23%, Paperboards, paper and packaging 11%, hotels is < 4%
-  Profits by Product: FMCG 82%, Agri commodities 5.5%, Paperboards, paper and packaging 8.5%, hotels is < 4%
-  Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones):
-promoters: no promoters
+  REVENUE by GEOGRAPHY: India 55%, others : 45%
+   Regulated Markets contributed 71% of the revenue of the company
+  Revenue by Product: 
+   Generics and Complex APIs (90% of the revenue) and Contract Development and Manufacturing Operations (CDMO) (8% of the revenue)
+  Revenue by Customers: B2B(100%)
+  Clients(Important ones): The company clientele base includes 16 of the top 20 Global generic companies globally
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
-what peter lynch bucket does stock belongs to : slow growers
+what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
+Note: Categories of Stock: 
+  1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
+  2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
+  3)Fast Growers (Praj)
+  4)cyclicals(Auto industry, Travel)
+  5)Asset heavy(most of the PSUs)
+  6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-Industry: India is the 4th largest market for illegal cigarettes. While the consumption rate of legal cigarettes is only 1/10th 
-in the tobacco industry, It accounts for 4/5th Tax revenue share. Legal cigarette industry remains under pressure due to 
-growth in illicit duty-evaded cigarette consumption.
-
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -137,12 +145,9 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio :
-second largest exporter of agri products from the country. It trades in feed ingredients, food grains, marine products,
- processed fruits, coffee etc.
-India's largest and world's 5th largest leaf tobacco exporter - partnerships with farmers from the southern part of India 
-India’s largest converter of paperboard into high quality packaging [10]. ITC manufactures the entire spectrum of 
- paperboards - from 100% virgin, food-grade boards which are made from renewable and sustainable sources to 100% recycled boards 
+1)Product portfolio: 
+The company has a product portfolio of 120 molecules, with the top 10 products accounting for 66.36% of the revenue and the company 
+ strives to launch 8 to 10 new molecules every year
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
@@ -179,11 +184,12 @@ what makes the product or service of this company Unique?
 ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
 
 
---- EARNING POWER (Earnings Growth Oppurtunities check )
+--- EARNING POWER 
 Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
 
----SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
-      sustainable or not, i.e it decides quality of earnings
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
 
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
@@ -240,15 +246,24 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    is a no brainer to allocate capital for external growth opportunity by the Management
 
 
----- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
-1)Competettive advantage/MOAT Check? check MOATS_check.txt
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
-Brand - must be accompained with pricing power 
-Taste 
+Brand - must be accompained with pricing power
+Taste
 Network effect
-Entry barriers - new players not allowed for advertising of cigarette
+Intangible assets
+Switching costs
+Entry barriers
+Luxury/Premium Range
+Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
+   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
+   so doing an annual review should catch these stuff)
+   -if market size is less then the monopoly companies might face price heat from other smaller companies
+   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
+    important)
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -256,7 +271,7 @@ Note: Does MOAT Exists?
    take in to account, facts and reasoning not opinion
   if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
 
-2)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
+ii)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
    or another company specific costs where the prices of everything would have gone up. During these unforseen situations company
    might not make profits but atleast it shouldn't do business in losses
 Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
@@ -276,13 +291,13 @@ Pricing power implies people are willing to pay premium (can the company increas
      OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
      product is a commodity (then people always look for low price as value is same across producers)
 
-Note: Pricing power is must for capex heavy companies and companies with large amounts of debt - otherwise they can go Bankruptcy
-  and destroy shareholder's wealth during recession.
+Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
+ debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
 
-3) Longterm vs short term bet
-/Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
-/Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
-market share soon - need to monitor closely
+Thesis :
+/Longterm Investment: Both MOATS and Earnings Growth oppurtunities exists
+/Shorterm Investment: Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors 
+ with MOATS can take away the market share soon - need to monitor closely
 /Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
 you can use the cash to buy other growth and non-growth businesses) 
 Note: Don't forget to compare dividend yield with FD interest rates
@@ -377,9 +392,7 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
-tax increase in cigarette industry and other restrictions by govt can disrupt the business model
-Agri commodities , Paperboards, paper and packaging  - are low margin businesses
-operates in FMCG which is highly competettive (and there are also replacement risk)
+Top 5 customers including parent Glenmark Pharma, account for 56% of the revenues.
 
 ---Financial Risk:
 
@@ -388,7 +401,5 @@ operates in FMCG which is highly competettive (and there are also replacement ri
 ---Investment Returns Risk:
 
 
----------------------------------- VALUATION --------------------------------------
-future cash flow prediction - DCF method
-check tickertape and  morning star for valuation confirmation
-check Valuation_Check.txt
+
+-------------------------------------- THE END -----------------------------------------

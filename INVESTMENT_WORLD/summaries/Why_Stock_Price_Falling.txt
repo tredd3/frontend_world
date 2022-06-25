@@ -1,44 +1,25 @@
-//what to do when stock price is falling:
-Golden fact: Sometimes fundamentals and stock price move in opposite direction for short term
+//stock price falls when people are selling stocks heavily reasons can be varied like Fundamentals deteriorating, external environment
+  has changed , predictions, opinions, news, macroeconomy concerns,year end tax selling(nov - dec in US, feb - march in India) etc
+   - we don't care about all these, we only care about FUNDAMENTALS and data from Authentic source
+//Golden fact: Sometimes fundamentals and stock price move in opposite direction for short term
 
--------------------- BASIC CHECK ----------------------
-1)stock price falls when people are selling stocks heavily(reasons can be varied like -ve sentiment, predictions, opinions, news, 
-macroeconomy concerns,year end tax selling  etc - we don't care about all these unless it drastically impacts the business, we only 
-care about FUNDAMENTALS and if they detoriorate then we need to take a call)
-US yr end tax selling: nov - dec
-Indian yr end tax selling: feb - march.
-2)who is selling ?
+-------------------- SCREENING ----------------------
+1)who is selling ?
 check promoter shareholding pattern, DII and FII share holding trend in tijori and insider trading in BSE/NSE, 
 https://www.tijorifinance.com/company/pi-industries-limited/#trend-shareholding
 https://www.screener.in/company/PIIND/consolidated/#shareholding
 https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543384/disclosures-insider-trading-2015/
-3)what if people sell bcoz of issues in Fundamentals , i.e Earnings/Earning Potential?
+2)why are they selling?
   Internal factors: temporary problem(can be a buy oppurtunity), permanent problem (skip), if difficult to decide the nature of
    the problem then wait and watch/monitor news etc
   Internal factors check: debt, expenses, asset value compared to mcap(forget about earnings for a while lets assume that company 
   is liquidated today then wt will be its asset worth?)
   External factors: then proceed with screening
   Note: There is stock and there is business behind stock(understand the business)
-  Regarding business always consider you are buying the whole business and not share of a company 
-Check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB))
+3)Check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB)) bcoz high valuation stocks correct in bear arkets
   US stocks: Vested (ratios section) - extreme bottom
   Indian Stocks - screener top section
 Check Intrinsic value: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
-
-
--------------------- DEEP CHECK ----------------------
-1)EPS/FCF DECREASING (Valuation remains same )
---EPS decreasing (net income down)
-   is it a short term phenomenon/long term hit? can be a turnaround oppurtunity if the earnings are temporarily down 
-   and has the potential to rebound
---EPS decreasing (number of outstanding shares increased due to recent raise in equity capital)
-   what does the company plan to do with capital raised? reinvest in current business(must reinvest in a profitable business only), 
-   increase operating efficiency, new investment/growth oppurtunities, new business expansion
-2)EPS/FCF INCREASING (Valuation is cheap) - potential BUY
---EPS increasing (net income increasing)
---EPS increasing (share buyback)
-3)EPS/FCF IS ALMOST CONSTANT - but PE is down due to some reasons
-  what is that reason? google it or exchange fillings
 4)why did you buy the stock? - go through the story
    did the story/fundamentals change? if it significantly changed/impacted then you can sell
 5)Check if it is a value trap: 

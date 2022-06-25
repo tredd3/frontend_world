@@ -1,6 +1,6 @@
 -------------------- SUMMARY --------------------
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
-
+Regarding business always consider you are buying the whole business and not share of a company 
 Business :
 Financials :
 Risks :
@@ -18,6 +18,7 @@ Valuation :
     prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
     the share price naturally like Adani once did)
   legal orders(confirm from wiki) and tickertape
+  Recent News from tickertape
   corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
     Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
@@ -54,7 +55,7 @@ Valuation :
 -long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
   u need to check notes to consolidated financial statements
 
-//current assets -<value>
+//Net current assets -<value>
 -cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
 -inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
   but raw materials will not 
@@ -66,10 +67,11 @@ Valuation :
    if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
      (check share capital section where company might be doing buyback)
    if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
-   if equity is increasing check ROE trend for all those years at above 15% and ROE is at around 15% or more then it is a wonderful business
+   if equity is increasing check ROE trend
 --Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
  Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
+  capital, u need to check EPS trend)
 
 //non-current Liabilities - <value>
 
@@ -82,6 +84,7 @@ Valuation :
 --net income consistently +ve and growing? 
   
 3)Cashflow statement
+--operating cash flow must be atleast 70-80% of  operating profit 
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
@@ -96,6 +99,7 @@ free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash
 --GPM(consistent and above 15%) trend - company has Pricing power 
 --OPM(consistent and above 15%) trend - company has Efficient management 
 --NPM(consistent and above 15%) trend - good profitability
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
 --ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
@@ -111,8 +115,10 @@ Note: Don't invest in a stock because the price has fallen and you think the pri
  understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
  is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
 --EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
-
-
+--PEG: 
+--DCF: 
+--check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
@@ -230,11 +236,12 @@ what makes the product or service of this company Unique?
 ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
 
 
---- EARNING POWER (Earnings Growth Oppurtunities check )
+--- EARNING POWER 
 Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
 
----SOURCE OF EARNINGS: earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is 
-      sustainable or not, i.e it decides quality of earnings
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
 
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
@@ -291,8 +298,8 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    is a no brainer to allocate capital for external growth opportunity by the Management
 
 
----- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
-1)Competettive advantage/MOAT Check? check MOATS_check.txt
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
@@ -306,6 +313,9 @@ Luxury/Premium Range
 Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
    takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
    so doing an annual review should catch these stuff)
+   -if market size is less then the monopoly companies might face price heat from other smaller companies
+   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
+    important)
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -313,7 +323,7 @@ Note: Does MOAT Exists?
    take in to account, facts and reasoning not opinion
   if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
 
-2)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
+ii)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
    or another company specific costs where the prices of everything would have gone up. During these unforseen situations company
    might not make profits but atleast it shouldn't do business in losses
 Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
@@ -333,13 +343,13 @@ Pricing power implies people are willing to pay premium (can the company increas
      OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
      product is a commodity (then people always look for low price as value is same across producers)
 
-Note: Pricing power is must for capex heavy companies and companies with large amounts of debt - otherwise they can go Bankruptcy
-  and destroy shareholder's wealth during recession.
+Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
+ debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
 
-3) Longterm vs short term bet
-/Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
-/Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with MOATS can take away the
-market share soon - need to monitor closely
+Thesis :
+/Longterm Investment: Both MOATS and Earnings Growth oppurtunities exists
+/Shorterm Investment: Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors 
+ with MOATS can take away the market share soon - need to monitor closely
 /Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
 you can use the cash to buy other growth and non-growth businesses) 
 Note: Don't forget to compare dividend yield with FD interest rates
@@ -442,7 +452,5 @@ check Risk_Check.txt
 ---Investment Returns Risk:
 
 
----------------------------------- VALUATION --------------------------------------
-future cash flow prediction - DCF method
-check tickertape and  morning star for valuation confirmation
-check Valuation_Check.txt
+
+-------------------------------------- THE END -----------------------------------------

@@ -17,69 +17,65 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
-  check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
+  stock picking strategy: cloning
+  Normal check on stock price since inception - cyclical
+  check shareholding pattern(especially promoter) - Institutional ownership: 75%
+  promoter pledging - None as no promoter exists
+  Is the business easy to understand or complex : complex and unpredictable
+  circle of competence: NO
+  any recent insider buying - All disposals from 2015 - 2018
 
 
 //Business check:
   screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-  can a fool run this business
-  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
-   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
-  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+  market share trend - 100% share, no change
+  //how is the quality of product/service - Have u used the product/service ? NO
+  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report) NA
+  can a fool run this business - YES
+  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ??? NO , its cyclical and
+    unpredictable business
+
 
 //Finance check:
-  //Balance sheet
---Total assets(current valuation) compared with Marketcap - to identify asset plays
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet): 70%
+--(Price to book value) - 5 (not an asset play)
+
+//non-current assets - 1000
+Net block: 150
+-long term investments - 700 (equity mutual Funds)
+
+//Net current assets - 1000
+cash and Debt Mutual funds
+
+//shareholder Equity - 2000
+--Check Equity CAGR from balance sheet equity section - 6%
+--Sorce of Equity increase: CFO
+
+//non-current Liabilities - 0
+
+
+2)Profit and loss statement: RED Flag
+--muted sales and operating profit
+--earnings quality check : BAD - other income contribution is 50% to profits over the years
 --interest expense >40-50% of operating profit?
 --net income consistently +ve and growing? 
-//Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of freecash flow: dividends
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
+  
+3)Cashflow statement - bad
+
+4)Profitability Ratios Check:
+--GPM(consistent and above 15%) trend - company has Pricing power 
+--OPM(consistent and above 15%) trend - company has Efficient management 
+--NPM(consistent and above 15%) trend - good profitability
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE is 10% Avg
+--ROCE(consistent and above 15%) trend - 10%Avg
+--ROIC(consistent and above 15%) trend- sinfle digits
+--check D/E trend ?
 if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
 can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
-//Valuation check
+ //Valuation check
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
 Price - is what people pay for the business
 Valuation is price compared to earnings 
@@ -87,6 +83,10 @@ Note: Don't invest in a stock because the price has fallen and you think the pri
  understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
  is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
 --EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+--PEG: 
+--DCF: 
+--check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
@@ -115,15 +115,12 @@ know about the company:
   Globally competetive company: NO
   REVENUE GEOGRAPHY: India 100%
   Revenue Model: 
+  Transactin fees(options + futures), Others(membership fees, data fees)
     Precious Metals & Stones - 39.17% (99.99% market share)
     Energy - 35.56% (100%)
     Base Metals - 22.33% (100%)
     Agri-Commodities - 1.66% (19.54%)
     Index Futures - 1.27% (99.30%)
-
-    32 cr - options
-    3cr - membership fees
-    5cr - data fees
 promoters: ministry of finance , Govt of India 
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
