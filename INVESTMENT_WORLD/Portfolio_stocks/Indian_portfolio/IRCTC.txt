@@ -1,7 +1,7 @@
 -------------------- SUMMARY --------------------
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 
-Business :
+Business : No pricing power, Govt increases ticket prices every 5 yrs but expenses increase every year
 Financials :
 Risks :
 Valuation :
@@ -10,91 +10,44 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
-  check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
-
+  stock picking strategy: familiar
+  Normal check on stock price since inception - normal
+  check shareholding pattern(especially promoter) trend - FII & DIIs offloading the stake, Retail investors buying it
+  promoter pledging - None
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) - apart from promoters one person sold his stake
 
 //Business check:
-  screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-  can a fool run this business
+  market share trend - Monopoly
+  //how is the quality of product/service - Good
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - NA
+  can a fool run this business - yes
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet Strength check
---(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
--if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
-  decreases because people won't buy the company or value the company for the price at which u have bought
--intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
-  they also can loose value like crazy
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
---Total assets compared to equity (liabilities should be as less as possible for a strong balance sheet)
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---Check Equity CAGR from balance sheet equity section (if it is constant then check dividend section in cashflow analysis bcoz company 
-  might be giving out its earnings as dividend) OR (check share capital section where company might be doing buyback)
-Now check ROE trend for all those years (if equity is increasing at above 15% and ROE is at around 15% or more then it is a wonderful business)
-Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
- 
- //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-  
-  //Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 5 (not an asset play)
 
- //Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend 
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+Entire Equity is cash
+
+2)Profit and loss statement: Clean
+Other Income - 10% to 20% of operating profit
+  
+3)Cashflow statement
+operating cashflow is fluctuating, augumented by investing cashflow
+
+4)Profitability Ratios Check: Good
 
  //Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
 --EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
-
-
+--PEG: 3
+--DCF: 10% CAGR returns
+--check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 

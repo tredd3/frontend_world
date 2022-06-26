@@ -16,17 +16,17 @@ https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543
   is liquidated today then wt will be its asset worth?)
   External factors: then proceed with screening
   Note: There is stock and there is business behind stock(understand the business)
-3)Check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB)) bcoz high valuation stocks correct in bear arkets
+3)Check valuations(Price/FCF < 15 (check cash as well), PE, PEG, EV/EBITDA, PB)) bcoz high valuation stocks correct in bear markets
   US stocks: Vested (ratios section) - extreme bottom
   Indian Stocks - screener top section
 Check Intrinsic value: https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0
-4)why did you buy the stock? - go through the story
-   did the story/fundamentals change? if it significantly changed/impacted then you can sell
-5)Check if it is a value trap: 
+4)Check if it is a value trap: 
  what is a value trap? stock available at low price but it might stay there for few years OR it might decrease further
  how to identify: low quality business available at reasonable valuation like a company with ROCE > 12% , good market share but no
    pricing power available at 5 time FCF. Instead buy a company with ROCE > 10% , decent market share but has pricing power and 
    available at 10-15 times FCF
+5)why did you buy the stock? - go through the story
+   did the story/fundamentals change? if it significantly changed/impacted then you can sell
 6)do you really believe in the stock and have the courage to hold if stock falls further?
 i.e can you put 25% of your net worth and forget about it for next 10 yrs in a stock?
 
