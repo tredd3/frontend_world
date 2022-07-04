@@ -4,7 +4,11 @@ sources - sugarcane molasses and grains. It is widely used in the production of 
 beverages such as whisky, vodka, gin, cane, liqueurs, and alcoholic fruit beverages.
 /Extra-Neutral Alcohol (ENA) is an ethanol grade of 96% purity or higher. It's main use is as the base ingredient in the production
  of alcoholic spirits.
-/molasses : viscous, dark and sugar-rich by-product of sugar extraction from the sugarcane
+/molasses : viscous, dark and sugar-rich by-product obtained during sugar extraction from the sugarcane
 /Like ethanol, ENA is also a byproduct of the sugar industry and is formed from molasses, resulting from refining sugarcane or 
   sugar beets into sugar.
 
+//Process
+All spirits go through at least two procedures - fermentation and distillation. 
+Fermentation is where all alcohol is created (yeast or bacteria breaks down the sugar content in a substance in to alcohol + some by product)
+distillation is where the alcohol is separated and removed by boiling and then condensation

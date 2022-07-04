@@ -128,7 +128,9 @@ meaning u get the metaverse business for free
 Assume that auto sales will increase 10% every year , you get the final number 
 For e.g: say that the total market size for Auto sales  in FY25 or 5 yrs down the line == 100 billion 
 Now Maruti suziki which has 40% market share , will have the revenue of 40 billion (Assuming it retains market share)
-NPM of Maruti is say 20% meaning 20% of 40 billion == 8 billion (net profit)
+if  operating leverage > 1 then use operating leverage to calculate operating income and then net income
+else use NPM
+here lets say maruti has operating leverage 1, then NPM of Maruti is say 20% meaning 20% of 40 billion == 8 billion (net profit)
 PE or historical PE == 40
 now expected market cap = Net Income * PE = 8*40 = 320 billion 
 current market cap = say 100 billion
@@ -139,7 +141,9 @@ Note: if this rate is < 15% then index funds are the best option for now else u 
 
 4)Macroeconomic oppurtunity
 Lets say IEX has just 5% of total electricity trade flowing through its servers.
-Even if that becomes 30% (bcoz of unorganised to organised shift) then IEX profits will become 6 times
+Even if that becomes 30% (bcoz of unorganised to organised shift) then IEX revenue will become 6 times
+if  operating leverage > 1 then use operating leverage to calculate operating income and then net income
+else use NPM
 Expected MCAP will become = 6*current profit * PE (after this same calculation will apply)
 Now the stock will respond accordingly making it a multibagger
 

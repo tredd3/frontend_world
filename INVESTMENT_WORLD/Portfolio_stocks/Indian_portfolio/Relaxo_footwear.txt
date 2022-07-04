@@ -1,5 +1,11 @@
 -------------------- SUMMARY --------------------
-Business :
+Business : Operational metrics
+
+                               FY20     FY21    FY22 
+Pairs                           18        19      17
+Per unit price                 133       122     150
+EBO stores                     330       380     400
+
 Financials :
 Risks :
 Valuation :
@@ -9,78 +15,68 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
-  check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
-
+  stock picking strategy: cloning
+  Normal check on stock price since inception - google search (Normal)
+  legal orders(confirm from wiki) and tickertape - None
+  Recent News from tickertape
+  corporate actions, dividend history and announcements from tickertape - bonus issues and stock split
+  check shareholding pattern(especially promoter) trend over the years in tijori: not much change
+    Institutional ownership: 10%
+  Is the business easy to understand or complex : easy
+  circle of competence: building one
+  any recent insider buying (bse india > disclosures > insider trading) 
+  any bulk or block deals (to discover price? bulk deal: 715, morning star: 1032(fair value)
 
 //Business check:
-  screener pros and cons
-  market share trend
+  market share trend - NA becuase it is highly fragmented market
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 
     if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-  can a fool run this business
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - AA for lat 3yrs
+  can a fool run this business - yes
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet
---(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
---Total assets compared to equity (liabilities should be as less as possible)
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-  //Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+1)Balance sheet Strength check : STRONG
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 80%
+--(Price to book value) - 5 (not an asset play)
 
-//Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
+//non-current assets - 1200
+Net block
+
+//Net current assets - 700
+mostly inventory of raw materials
+
+//shareholder Equity - 1760
+--Check Equity CAGR from balance sheet equity section 
+    equity is increasing but ROE trend is downwards from 28 to 18%
+--Sorce of Equity increase: reserves (CFO)
+
+//non-current Liabilities - 160
+
+
+2)Profit and loss statement - Clean
+  
+3)Cashflow statement
+--operating cash flow must be atleast 70-80% of  operating profit - yes
+--CFO +ve most of the time and growing? yes
+--free cash flow consistently +ve and growing? +ve but not steadily growing
+--use of cash flow from operations: capex(60%), dividend(10%), cash(30%)
+
+4)Profitability Ratios Check: 
+--OPM : increased from 14 to 22%
+--NPM : increased from  7 to 12%
+--ROE : increased from  25 to 18% (bcoz Asset turnover ratio is decreasing)
+--ROCE 25%
+
+ //Valuation check
 --EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
-
+--PEG: 7.33
+--DCF: 13% returns based on cashflow, based on net profit 9% returns in the best case - 10yr CAGR
+--check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
@@ -89,17 +85,17 @@ Investor presentation for reference:
 know about the company:
   Nature of business: consumer goods(Retailer)
   What does it do: (what is the actual business): 
-     footwear
-  How does it do :
-    • 8 manufacturing facilities with a capacity to produce ~10 Lac pair/day.
-    Monitor every stage of manufacturing process (In house manufacturing)
-    – Designing
-    – Material Management
-    – Production Process
-    – Packaging
-    – Final Products
-    Stocking up raw materials (due to price or supply chain issues)
-    distributor efficeiency is the focus - remove non-performing ones
+    largest footwear manufacturer in India in terms of volume and second-largest in terms of revenue
+    makes products under 10 brands including Flite, Sparx, Bahamas and Schoolmate
+    deals in non-leather products i.e. rubber/EVA slippers, canvas shoes, sport shoes, sandals and school mate shoes etc
+   How does it do :
+     8 manufacturing facilities with a capacity to produce 21cr/annum. 70% capacity utilisation - 30% cushion for extra demand
+      The company sells its products through retailers served through distributors, retail outlets, exports and e-commerce / modern trade
+     Monitor every stage of manufacturing process (In house manufacturing)
+     Stocking up raw materials (due to price or supply chain issues)
+     distributor efficeiency is the focus - remove non-performing ones
+     Raw materials - Rubber, imports most of ethylene vinyl acetate (EVA) and polyurethane (PU) 
+         EVA is the most important raw material
   Subsidaries/JVs:
   Target Audience : 
     low and middle income families
@@ -110,14 +106,17 @@ know about the company:
     Overseas office in Dubai
   Globally competetive company: NO
      Exports to 30 countries
-  REVENUE GEOGRAPHY: India 100%
-  Revenue Model: 
+  REVENUE GEOGRAPHY: India 96%, Exports - 4%
+    North India > 50%
+    South India < 50%
+  Revenue Channel: 
     EBO - 7%
     Exports - 4%
     e-commerce -10%
+    Revenue Product: 
   Clients(Important ones):
 promoters:
-why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
+ promoters have been involved in the footwear business for over three decades.
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -130,14 +129,16 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis:
-largely unorganised Sector
+The Indian footwear industry is grouped into two segments—leather and non-leather
+In consumption terms, 86% of volume-wise global consumption of footwear is of non-leather.
+The Indian non-leather footwear industry is highly fragmented, with 55% of production coming from the unorganized sector.
 mostly companies outsource mnufacturing
 no player in india  has low cost production of product on scale 
 almost all the players except relaxo has products for high end customers
 for low end customers unorganised players 
 footwear per capita comsumption is 1.9 in india (world average is 3)
 i.e per person we have only 2 pairs in india
-
+The industry does not have a capital-intensive manufacturing process and hence, the barriers to entry of new players are low
 
 //STAGE of development: growth 
 //Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
@@ -193,7 +194,7 @@ Metro - asset light model - because of 100% outsourcing of manufacturing -  COCO
 Bata - 50% insourcing +  50% outsourcing of manufacturing - COCO model + distribution
 Relaxo - 100% insourcing - doesn't have own stores - it gives its products to distributors which inturn gives it to retailers
 global competettion - imports risk from china or any other low cost producer country?
-threat of new entrants
+threat of new entrants - Industry doesn't have any entry barriers
 
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
@@ -214,12 +215,47 @@ what makes the product or service of this company Unique?
 //Strategies being employed: 
 ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
 
+--- EARNING POWER 
+Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
 
---- EARNING POWER (Earnings Growth Oppurtunities check )
-//SOURCE OF EARNINGS
---Internal Growth oppurtunities
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
 
---External Growth oppurtunities
+i)INTERNAL GROWTH OPPURTUNITIES
+///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /penetration - Acquire new customers in untapped west and south India (already have a good presence in North India)
+    /snatch market share - Acquire customers from unorganised players 
+    /import substitution (Atam nirbhar bharat)
+    /Global expansion/ exports - Launch products in new markets
+    /Strong Order inflows (only for B2B companies)
+    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
+       products etc - but be careful here as they can move from India to someother country too) 
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - cutomers buy more of the current/old products
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
+    Note: mode of capex funding is also important: preference cash>debt>equity
+  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
+    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
+    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
+    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
+    then demand has dried up OR competetiors taking away market share - Both are bad situations
+
+///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
+    /promoter OR management change
+    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
+    //spending on technology for achieving efficiency and modernising the workflow or processes
+    /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
+    /process optimisation and innovation - chemicals and pharma mainly
+    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
+    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
+    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
+    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
+    on making the firm efficient or not apart from focusing on sales
+
+ii)EXTERNAL: GROWTH OPPURTUNITIES
 Macroeconomic:
  Indian footwear 10.8% CAGR in next 5yrs
  Rise of middle-income group and millennial population.
@@ -228,15 +264,24 @@ Tailwinds:
  The growing trend of premiumization in the Indian footwear industry and the shift to branded footwear
 
 
+Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
+   seems trivial and we need to opt for external growth. 
+   for e.g: let us say if HUL identifies an internal growth oppurtunity that can increase its cash flow by 20% , however if HUL 
+   opts and invests the capital in external growth oppurtunity instead, say acquisition then its cashflow grows by 50% then it
+   is a no brainer to allocate capital for external growth opportunity by the Management
+
+
+
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
-Economises of Scale - Y
-Low cost producer - Y
+Economises of Scale 
+Network effect - It's distriution network comprises 50,000+ retailers, ~700 distributors & ~400 EBOs
+Low cost producer -  Targets mass market and a market leader in that space with low cost products
 Brand
-Entry barriers - Targets mass market and a market leader in that space with low cost products
 
 2)PRICING POWER (MUST HAVE MOAT)
-Not able to pass on the price due to inflation (bcoz consumers may choose unorganised sector low priced products)
+Not able to pass on the raw material price completely due to inflation (bcoz consumers may choose unorganised sector low 
+  priced products)
 
 
 3) Longterm vs short term bet
@@ -259,11 +304,8 @@ R&D
 Advertising
 
 
-
-//RETURN ON CAPITAL
-Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital)
-Very Good company: ROCE/ROIC(return on capital) >>> WACC (cost of cpital)
-Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
+Good company: ROCE/ROIC(return on capital) >> WACC (cost of capital)
+i.e Capital is increasing and ROCE is constant
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
   -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
@@ -302,10 +344,13 @@ focus on gaining market share gain rather than bulk price increase during recess
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
-no control on the margin - consumers might shift to unorganised sector low priced products
+fluctuation in raw material prices and exchange rates as most of the raw materials are imported
+Stiff competition in industry from unorganised sector 
 no control on sales - target customer is very price sensitive (their low purchasing power impacts the business of the company)
+strong presence of the unorganised sector will continue for sometime until consumers move to organised
 
 ---Financial Risk:
+Significant outflows towards capex likely to continue hence FCF will be pressurised
 
 ---Management Risk:
 

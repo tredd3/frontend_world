@@ -1,108 +1,103 @@
 -------------------- SUMMARY --------------------
 Business :
-  Generate cash from core operations(CFO) and use it buy stakes in companies (helping businesses to perform business better)
+  Generate cash from core operations(CFO) and use it buy stakes in companies (helping businesses to digitise and streamline operations)
   + share_buyback(kind of compensated by ESOPs) + dividend
                       FY21     FY22
   paying customers   156000    169000
-  ARPU          
+  ARPU                46700     47400
+  Reigistered buyers   119       149 (million)
+  Reigistered sellers  6.4       7.1 (million)
 Financials :
 Risks :
 Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
+  stock picking strategy: cloning
+  Normal check on stock price since inception - falling
+  legal orders(confirm from wiki) and tickertape - None
+  corporate actions, dividend history and announcements from tickertape - recent buyback
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
-
+    promoter - 49%
+    FII - 23% (increased significantly over the years)
+    DII - 5% (increased significantly over the years)
+    public - 21%
+  promoter pledging - None
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) - director and other persons sold stakes in yr 2021
+  any bulk or block deals (to discover price? 2350 in 2020
 
 //Business check:
-  screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - NA
   can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet
---Total assets(current valuation) compared with Marketcap - to identify asset plays
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-//Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 14
+
+//non-current assets - 500
+90% long term investments
+
+//Net current assets - 2000
+all short term investments
+
+//shareholder Equity - 1800
+--Check Equity CAGR from balance sheet equity section 
+   abnormal increase in reserves for last 2 yrs due to 1000 cr equity capital raising (however that capital is used for
+    purchasing shorterm investments and EPS improved for last 2 yrs)
+
+//non-current Liabilities - 500
+
+2)Profit and loss statement
+operating expenses almost constant for last 5yrs
+more than 40% sales if free cashflow for last 5yrs
+  
+3)Cashflow statement
+--operating cash flow and free cash flow consistently +ve and growing for last 5yrs
+--use of cash flow from operations: acquiring stakes in startups that help digitise businesses
+
+4)Profitability Ratios Check:
+NPM and OPM have increased for last 2 yrs
+--ROE , ROCE and ROIC decreased a bit due to 1000cr equity infusion
 
 //Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
-
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation : 35
+--PEG: 0.41
+--DCF: fair value zone
+-- morning star : 5,300 (fair value by morningstar)
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services
+  Nature of business: business services (platform B2B e-commerce business)
   What does it do: (what is the actual business): 
     B2B commerce - silver, gold and platinum memberships for customers
     Suite of software products (to help businesses digitise especially MSMEs)
+    IndiaMART has invested in companies such as Vyapar, Bizom, Shipway, Legistify, Superprocure, Aerchain, M1xchange, Easyecom,
+     Fleetx, Industry Buying and BUSY, Realbooks, Tazapay and Zimyo
   How does it do :
     when customers/subscribers increase sales team also needs to increase to service them
     ESOPS, work from anywhere, weekly pay - for employees
   Subsidaries/JVs:
-  Target Audience : businesses(across 56 industries)
+  Target Audience : small and medium enterprises (SMEs) (across 56 industries, No single industry accounts for more than 10% 
+    of marketplace)
   market size: large
-  market share: 
-  Presence : offices in India
+  market share: 60%
+  Presence : 
+    Metro cities accounts for only 33% of buyers, tier-2 cities accounts for 26% & rest of India accounts for 41%.
+    It has a nationwide coverage with 85 office branches and a sales & service staff of ~4,000 employees
   Globally competetive company: NO
   REVENUE GEOGRAPHY: India 100%
   Revenue Model: 
+    95% its revenues from the suppliers/sellers listed on its marketplace. 58% of revenues comes from sellers in metro cities,
+     followed by tier 2 cities (28%) & rest of India (15%)
     Sales - 1/3 will come from say field channel partners 1/3 will come from our own tele verses or field telesales combined and 
       1/3 will come from our own outsource sales employees that we have
     Platinum is top 10% customers, which is about 17,000 customers, today, they contributed 45% of the revenue which means the ARPU is
@@ -276,7 +271,7 @@ check Financial_Strength_Check.txt
 
 ------------------------------ MANAGEMENT CHECK --------------------------------
 //how is the Management and their Vision:
-//
+IndiaMART’s long-term objective is to offer software solutions improving ease of doing business for Indian businesses and Enterprise.
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt

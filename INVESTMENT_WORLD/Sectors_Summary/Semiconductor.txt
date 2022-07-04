@@ -32,10 +32,11 @@ growth drivers: more use of electronic devices, advanced tech like IOT, AI , ML 
 Requires lot of water and electricity
 If you have any dirt on your chips, your chips will not work. You have to make them in a very clean environment 
 lot of capex investment is needed because of the cost of manufacturing machines
-Ukraine provides - critical gases
+Ukraine provides - critical gases like neon
 Russia provides - palladium metal
 Netherlands - only country having chip machine manufacturers that develops and sells machinery and other products used to 
   design and test semiconductors.
+  ASML  - lithography technology is fundamental to mass producing semiconductor chips.
 South korea and Taiwan - largest chip manufacturers globally
 only five countries supply chips: China, Taiwan, Japan, South Korea, the European Union, and the United States.
 Semiconductors are Korea's largest export. However, most of that is memory products, NAND Flash, and DRAM memory

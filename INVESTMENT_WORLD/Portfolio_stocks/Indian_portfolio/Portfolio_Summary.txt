@@ -10,7 +10,8 @@ IEX, Indiamart - are already using lower fee to woo customers and create network
 ITC - tobacco leader, with diversification in to FMCG, Agri commodities etc 
     - 4% dividend yield with PE of 24 (chance of dividend increase and capital appreciation)
     - fairly valued according to DCF 
-LTTS - 
+LTTS - Global expansion scope, niche industry of ER&D, Top clients, proxy play on capex heavy industries
+       asset light business model, strong balance sheet
 CLEAN - B2B but one of the best chemical companies out there
 TITAN - jewellery business generates cash and that is reinvested in other businesses, ROCE on incremental capital is 30%
 SBI LIFE - 
@@ -21,24 +22,28 @@ ICICI PRUD -
 Borosil Renewables - macroeconomic oppurtunity
 IDFC First Bank - turnaround with strong management
 MapmyIndia - macroeconomic oppurtunity with first mover advantage
-Happiest Minds - niche IT services
+Happiest Minds - niche IT services, low institutional ownership 
 CDSL - macroeconomic oppurtunity
 CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
        but there is a problem with pricing power and revenue model of volume based pricing
-Relaxo - target the low end customers (where other players won't enter bcoz of low revenues and high costs)
 CRISIL - high valuations, repeat and fixed customers
 
 //Category C - stop further infusion of money
 GLS - Level 2 screening
+Relaxo - target the low end customers (where other players won't enter bcoz of low revenues and high costs)
+        but PEG is 7.33 extremely high valuations
 Windlas - bad financials and present in highly competettive industry - finacials needs monitoring 
 NYKAA - very high valuations
-page industries - dividend play + very high valuations
-Radico - entry barriers but present competettion can be a problem
+page industries - dividend play + very high valuations (Level 2 screening to check growth and future plans)
+
 
 //Eliminated
+Radico - ESG concerns won't bring in much funds , institutional holding is already high and states control everything from production
+   to prices, taxes etc - they can ban liquor anytime they want
 IRCTC - no pricing power , Puppet in the hands of Railways (ok for a short term buy if valuations improve)
 Paypal - All equity is spent on acquisitions at higher cost - subsidaries must perform
-TTK Prestige - good balance sheet, but Avg ROE(15%) and NPM (10%) - weaker economics (only few products of Prestige has brand loyalty)
+TTK Prestige - good balance sheet, but Avg ROE(15%) and NPM (10%) - weaker economics (only few products of Prestige has
+  brand loyalty + replacement time is high and target audience reduces to poulation/5, i.e families)
 MTAR - equity grwth is zero and ROE is less, bargaining power of consumers exists bcoz of the limited clients, B2B
 BSE - we can hold it when dividend yield is attractive, no reinvestment of cashflow
 MCX - cyclical and completely unpredictable , no growth opputunities as it is already a monopoly and NO Global scope, 

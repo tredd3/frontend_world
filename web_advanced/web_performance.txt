@@ -126,7 +126,7 @@ they have a different execution environment and hence some default methods and p
  (the message is contained within the�Message�event's�data property)
  a single js file can create so many workers and delegate them the work, which they execute parallely. Workers can also create workers and delegate work.
 
- https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers 
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers 
 Debounce/throttle input handlers
 
 React - virtualisation

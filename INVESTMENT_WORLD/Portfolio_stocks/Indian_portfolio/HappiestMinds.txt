@@ -1,5 +1,10 @@
  -------------------- SUMMARY --------------------
-Business :
+Business : Operational metrics
+
+                             FY20     FY21    FY22 
+ARPU(per enterprise)          680      750     800
+customers                              170     180
+
 Financials :
 Risks :
 Valuation :
@@ -8,86 +13,73 @@ Valuation :
   Revenue after 10yrs - 10,000 cr (1 USD = 100rs)
   Profit - 1500cr
   PE: 30
-  Current Mcap: 13,335
+  Current Mcap: 12,000
   Expected Mcap: 45000cr (worst case scenario)
-  Returns if u buy now: 13% (but Nifty also gives u the same returns?)
+  Returns if u buy now: 14% (but Nifty also gives u the same returns?)
 
   Valuation is what differentiates Great Investment from a great business
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
+  stock picking strategy: familiar with the industry
+  Normal check on stock price since inception - Normal
+  legal orders(confirm from wiki) and tickertape - None
+  corporate actions, dividend history and announcements from tickertape - None
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
-
+    Promoter holding : 53%
+    Othes : 40%
+    Institutional ownership: 7%
+  promoter pledging - none
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) employees sold continously in 2021
+  any bulk or block deals (to discover price?) 800 buy
 
 //Business check:
-  screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
-  can a fool run this business
+  market share trend - fragmented
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A+
+  can a fool run this business - No
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet
---(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
---Total assets compared to equity (liabilities should be as less as possible)
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-  //Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+1)Balance sheet Strength check: strong
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 70%
+--(Price to book value) - 18 (not an asset play)
 
-//Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+//non-current assets - 180 (net block)
 
+//Net current assets - 600
+-cash and short term investments
+
+//shareholder Equity - 670
+--Check Equity CAGR from balance sheet equity section 
+   equity is increasing check ROE trend
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations
+
+//non-current Liabilities - 70
+
+2)Profit and loss statement improved in the last 3 yrs (needs monitoring) 
+  
+3)Cashflow statement: improved in the last 3 yrs (needs monitoring) 
+--use of cash flow from operations: short term and subsidary investments
+
+4)Profitability Ratios Check: last 2 yrs showed improvement , needs monitoring
+--OPM(consistent and above 25%)
+--NPM(consistent and above 15%) 
+--ROE consistent and  27%
+--ROCE(consistent and above 30%) trend - return on capital is good than cost of capital
+--ROIC(consistent and above 30%) trend- company is generating enough cash in its core business
+
+
+ //Valuation check
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 87
+--PEG: 0.58
+--DCF: fair valuation if PE is 40 after 10yrs
+--check tickertape and  morning star for valuation confirmation : 961 fair value (815 current value)
+check Valuation_Check.txt
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
@@ -95,23 +87,36 @@ Investor presentation for reference:
 -------------------- PAST --------------------
 know about the company:
   Nature of business: business services (IT services and not Saas)
-  What does it do: (what is the actual business): 
-   Infrastructure management & security services
-   Digital business solution
-   Product Engineering Services
+  What does it do: (what is the actual business): IT Services
+   works on disruptive technologies such as Analytics ,AI , ML, blockchain, cloud, digital process automation, internet of things,
+    robotics/drones, security, virtual/augmented reality, 
+   Infrastructure management & security services - It provides services to manage an Enterprise’s distributed and Hybrid IT environment.
+     It includes service desk, data centers, public clouds, applications, network, end-user services, and support levels.
+   Digital business solution - Provides services to digitize the company’s operations related to customer-centric activities.
+    proximity marketing, digital customer onboarding, digital query assistant
+   Product Engineering Services -  Provides services to companies to transform their own products or do the same for their customers.
+    Includes Big data, mobility, DevOps, embedded design services, product testing, Microsoft services 
   How does it do :
+    India’s Top 50 Best Companies to Work’ for the year 2021, 2022 (very good glassdoor reviews)
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
   market share: 
-  Presence : offices in India /US etc
+  Presence : 
+    headquartered in Bangalore, with operations in the U.S, UK, Canada, Australia and Middle East.
   Globally competetive company: NO
-  REVENUE GEOGRAPHY: India 100%
-  Revenue Model: 
+  REVENUE GEOGRAPHY: USA-66%, India-14%, Europe-10%, ROW -10%
+  Revenue by Product: 
+    Infrastructure management & security services - 22%
+    Digital business solution - 30%
+    Product Engineering Services  - 47%
   Clients(Important ones):
-promoters:
-why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
+   Industries like Automotive, BFSI, Consumer packaged goods, e-commerce, edutech, engineering R&D, hi-tech, manufacturing, retail,
+     travel/hospitality, media and entertainment
+promoters: Ashok soota (executive chairman of the company is the main promoter)
+earlier Founding Chairman & MD of MindTree, prior to MindTree, he led Wipro’s IT business for fifteen years
+why did the promoters start the business: to capture the huge oppurtunity ins upcoming sector and passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -220,6 +225,8 @@ Entry barriers
 Luxury/Premium Range
 
 2)PRICING POWER (MUST HAVE MOAT)
+HMTL faces intense competition from tier one IT players and well-established tier two players, which limits its pricing/bargaining
+ power from customers. 
 
 3) Longterm vs short term bet
 /Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
@@ -292,8 +299,11 @@ Expand in India and recruit more freshers
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+top 20 customers contributed 66.5% of net revenue
+geographical revenue concentration (US - 75%)
 
 ---Financial Risk:
+currency fluctuation as majority of the company’s revenues are in dollars
 
 ---Management Risk:
 

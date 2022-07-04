@@ -1,44 +1,127 @@
-Overall: 
-Ur Ranking: 
-CRISIL: 
+-------------------- SUMMARY --------------------
+you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
+Regarding business always consider you are buying the whole business and not share of a company 
+Business : Operational metrics
 
-------------- About -------------
+                            FY19    FY20     FY21    FY22 
+Volumes                      72      89       84      72
+Per unit price               100    120       150     180
+
+Financials :
+Risks :
+Valuation :
+  Valuation is what differentiates Great Investment from a great business
+  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
+
+------------------- SCREENING SUMMARY -------------------
+//General check:
+  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
+     capacity to suffer/suggestion from youtuber or broker
+  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
+  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
+    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
+    the share price naturally like Adani once did)
+  legal orders(confirm from wiki) and tickertape
+  Recent News from tickertape
+  corporate actions, dividend history and announcements from tickertape
+  check shareholding pattern(especially promoter) trend over the years in tijori
+    Promoter holding : higher is the better
+    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+  promoter pledging
+  Is the business easy to understand or complex : easy/complex
+  circle of competence: Yes/No
+  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
+  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
+     than any broker/analyst/investor)
+  any bulk or block deals (to discover price?
+
+//Business check:
+  screener pros and cons
+  market share trend
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
+  can a fool run this business
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+//Finance check:
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 5 (not an asset play)
+
+//non-current assets - <value>
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
+  u need to check notes to consolidated financial statements
+
+//Net current assets -<value>
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+-inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
+  but raw materials will not 
+--check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
+  sell non current-assets to clear them or take loan (both are bad)
+
+//shareholder Equity -<value>
+--Check Equity CAGR from balance sheet equity section 
+   if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
+     (check share capital section where company might be doing buyback)
+   if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
+   if equity is increasing check ROE trend
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
+  capital, u need to check EPS trend)
+
+//non-current Liabilities - <value>
 
 
+2)Profit and loss statement
+--sales growth consistent and increasing?
+--operating profit +ve  most of the time and growing?
+--earnings quality check : core business vs other income contribution to profits over the years?
+--interest expense >40-50% of operating profit?
+--net income consistently +ve and growing? 
+  
+3)Cashflow statement
+--operating cash flow must be atleast 70-80% of  operating profit 
+--CFO +ve most of the time and growing?
+--free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+//check cashflow from financing section
+-- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
+-- if equity is increasing?  (if yes EPS should also increase)
 
--------- why to buy and hold? Business Strengths ---------
-...
+4)Profitability Ratios Check:
+--GPM(consistent and above 15%) trend - company has Pricing power 
+--OPM(consistent and above 15%) trend - company has Efficient management 
+--NPM(consistent and above 15%) trend - good profitability
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
+--ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
+--check D/E trend ?
+if D/E > 0 check in the balance sheet if the long term debt is increasing ?
+can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
-
-//Growth oppurtunities
-
-
-
-//Moats
-
-
-
---------- why you shouldn't hold the company? Business Weakness ----------
-...
-
-
-//Competettion
-
-
-
-//Risks
-
-
---------- Financials -----------
-//Financial strengths
-
-
-//Financial weakness
-
-
-
---------- My filter check --------------
-
-
-
-------- Valuation -----------
+ //Valuation check
+Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
+Price - is what people pay for the business
+Valuation is price compared to earnings 
+Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
+ understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
+ is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+--PEG: 
+--DCF: 
+--check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt

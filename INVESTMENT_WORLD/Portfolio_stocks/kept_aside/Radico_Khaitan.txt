@@ -1,0 +1,335 @@
+-------------------- SUMMARY --------------------
+you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
+Regarding business always consider you are buying the whole business and not share of a company 
+Business : Operational metrics
+Financials :
+Risks :
+Valuation :
+  Valuation is what differentiates Great Investment from a great business
+  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
+
+------------------- SCREENING SUMMARY -------------------
+//General check:
+  stock picking strategy: suggestion from youtuber
+  Normal check on stock price since inception - sudden increase in price bcoz of sudden increase in earnings
+  legal orders(confirm from wiki) and tickertape - None
+  check shareholding pattern(especially promoter) trend over the years in tijori
+    Promoter holding : 40%
+    Institutional ownership: 40%
+    others: 20%
+  promoter pledging - None
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) : 512 (2021), 922(2022) price
+  any bulk or block deals (to discover price? Not recently
+
+//Business check:
+  //how is the quality of product/service - Good and famous
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - A1+
+  can a fool run this business - yes
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+//Finance check:
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 5 (not an asset play)
+
+//non-current assets - <value>
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
+  u need to check notes to consolidated financial statements
+
+//Net current assets -<value>
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+-inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
+  but raw materials will not 
+--check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
+  sell non current-assets to clear them or take loan (both are bad)
+
+//shareholder Equity -<value>
+--Check Equity CAGR from balance sheet equity section 
+   if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
+     (check share capital section where company might be doing buyback)
+   if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
+   if equity is increasing check ROE trend
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
+  capital, u need to check EPS trend)
+
+//non-current Liabilities - <value>
+
+
+2)Profit and loss statement
+--sales growth consistent and increasing?
+--operating profit +ve  most of the time and growing?
+--earnings quality check : core business vs other income contribution to profits over the years?
+--interest expense >40-50% of operating profit?
+--net income consistently +ve and growing? 
+  
+3)Cashflow statement
+--operating cash flow must be atleast 70-80% of  operating profit 
+--CFO +ve most of the time and growing?
+--free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+//check cashflow from financing section
+-- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
+-- if equity is increasing?  (if yes EPS should also increase)
+
+4)Profitability Ratios Check:
+--GPM(consistent and above 15%) trend - company has Pricing power 
+--OPM(consistent and above 15%) trend - company has Efficient management 
+--NPM(consistent and above 15%) trend - good profitability
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
+--ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
+--check D/E trend ?
+if D/E > 0 check in the balance sheet if the long term debt is increasing ?
+can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+
+//Valuation check
+Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
+Price - is what people pay for the business
+Valuation is price compared to earnings 
+Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
+ understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
+ is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 100
+--PEG: 1.82
+--DCF: 15% CAGR returns if Radico profits grow at 15% CAGR
+--check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt
+
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+Investor presentation for reference: 
+1)PAST :
+quick check
+know about the company:
+  Nature of business: consumer goods(veblen goods)
+     limited edition - hence they are expensive - ironically demand also increases with price
+  what does it do (Product/Services Portfolio/business verticals): 
+    Radico Khaitan is one of the largest and oldest manufacturer of IMFL(Indian Made Foreign Liquor). 
+    Company has wide range of branded portfolio across IMFL categories of Whisky, Brandy, Rum and White spirits. 
+  How does it do it:
+  Raw materials : molasses, glass and packaging materials
+  Rampur plant : grain , molasses ENA, malt spirit
+    100% self sufficient on its power requirements => effluents(liquid discharge) => biogas => power
+    conversion of Rampur existing 140 KLPD molasses plant into dual feed (extract ENA/Extra-Neutral Alcohol(ethanol of 96% purity
+       from both molasses and grains - broken rice, wheat, maize)
+    grain ENA production at the Rampur campus will increase from 100 KLPD to ~260 KLPD
+    malt maturation => to be used in niche premium brands
+  Sitapur campus: grain based distillery (to reduce external dependence on raw materials)
+    100% self sufficient on its power requirements using bio fuels from the inception
+     production of up to 400 KL per day distillery with integrated facilities to manufacture extra neutral alcohol (ENA),
+       country liquor (CL), IMFL and ethanol.
+    Bottling capacity of 10 million cases each of IMFL and Country Liquor to be set up in phased manner
+    Malt maturation hall keeping in view the future growth potential of Rampur Indian Single Malt
+    Given the ample land, this campus will have a scope to double its capacity in the future, including additional malt 
+    distillation and craft gin plant
+  Subsidaries/JVs:
+  Target Audience : 
+  market size: large
+  market share: continous increase in market share from  2016
+  whisky : 5%
+  brandy : 7%
+  vodka : 53%
+  Rum : 4% 
+  Presence : offices in India /US etc
+   plants in UP 
+  Globally competetive company: NO
+  REVENUE GEOGRAPHY: India 92%, Exports 8%
+  Revenue Model: 
+    IMFL : 40% (premium)
+    IMFL : 40% (regular)
+    Non-IMFL: (20%)
+  Clients(Important ones):
+promoters:
+In the business for 7 decades
+why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
+any research report/youtube analysis available for the company: 
+what peter lynch bucket does stock belongs to : stalwarts/fast growers
+
+
+2)PRESENT :
+---Sectoral analysis:
+licensing rule and complicated tax structure makes the external environment more challenging for the existing and new players.
+alcohol per capita consumption : 5.9 litres per litres per year
+EUROPE: 12 L
+US: 9L
+China: 7.5L
+
+Whisky consumption is 75% of the total consumption
+consolidation of industry - 15 players remaining
+difficult to build economies of scale as prices varies bcoz of tax rate change according to states
+7 states - pricing power
+2 states - banned
+12 states - state govt controls the pricing
+5 states - need to negotiate 
+//STAGE of development:
+pioneering - EV, green energy
+growth - internet
+maturity/saturation - FMCG
+declining - obselete - TV channels, print media
+//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
+at profitable end of value chain), demand and supply (size of opportunity)
+
+---Products/services DEMAND check :
+//From where does the demand come? 
+//Type of demand
+//Market size/Oppurtunity: huge
+
+---Products/services SUPPLY check :
+//product portfolio :
+milloniare brands - 8 PM Whisky, Contessa Rum, Old Admiral Brandy and Magic Moments Vodka
+regular - 
+prestige and above - premium
+The Company launched 12 new brands over the past decade. Of these new brands, 11 brands are in the premium category.
+
+//Is there any peer whose market share is higher than the current company? 
+POSITION IN PEERS :
+
+//COMPETETION :
+
+//how do peers provide competetion :
+
+--- Products/services Uniqueness check :
+what makes the product or service of this company Unique?
+
+
+3)FUTURE :
+---Process/Strategy check?
+--- Sustainabile Growth of Earnings check (Moats and Growth oppurtunities)
+1)Competettive advantage/MOAT Check?
+Economises of Scale - N
+Low cost producer - N
+Brand
+Taste
+Entry barriers - difficult to get license from state govt, no alcohol drink advertising allowed, 
+Luxury/Premium Range
+
+2)PRICING POWER (MUST HAVE MOAT)
+very high - people don't mind spendinging as alcohol is either consumed in group or in parties
+but since the industry is higly regulated
+
+3)EARNING POWER 
+//SOURCE OF EARNINGS
+--Internal Growth oppurtunities
+CSD canteen demand - no foreign liquor allowed, hence this a strongest MOAT
+export growth oppurtunities - exports to 85 countries
+focus on high margin/premium products
+--External Growth oppurtunities
+Macroeconomic
+Tailwinds
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
+EPS = Net Income(earnings)/Total Shares outstanding
+1)RETAINED EARNINGS(cheapest and most preferred) - i.e reinvest free cashflow generated by the company
++ve scenario: Earnings increase => EPS increases => share price increases
+-ve scenario: you will lose Reserves, but your Earnings will remain same => EPS remains same => share price remains constant
+most importantly it doesn't have to pay any interest , also the total number of shares outstanding doesn't change
+Hence a company needs to do some experimentation with the products/geography or try something new it is preferred to use 
+RETAINED EARNINGS by generating more operating cash
+2)DEBT(next preference)
++ve scenario: Earnings increase => debt repaid => after repayment whatever company acquired using debt(brand value, building, plant 
+  and machinery) will remian with the company and fetch cash forever
+-ve scenario: if debt levels are very high and Earnings decrease => company need to sell assets and repay debt => Bankruptcy
+3)NEW EQUITY(EPS will decrease) - ESOPs, Preferential issue, QIP, Private placement etc
++ve scenario: new equity raised is used in the best way possible (reinvesting in own buiness/M&A) => Earnings increase => EPS increase
+  and hence share price increases
+-ve scenario: Earnings decrease and Total Shares outstanding increases, EPS drastcically goes down and hence stock will be overvalued
+  taking share prices down bcoz of massive selling
+
+
+---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
+ growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
+Cash - waiting for oppurtunities
+Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
+Inorganic growth - M&A for strategic purpose or to build a MOAT
+Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+Buyback - preferred
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
+modernising or technology upgradation of operations
+R&D - for future business but the amount spent has to be monitored
+Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
+Working capital (tied up in) - bad
+MOAT building or repairing or strengthening (so that earnings are not snatched by someone)
+
+
+//RETURN ON CAPITAL
+https://goodcalculators.com/wacc-calculator/
+why Return on Capital is important?
+Over the longterm the investment returns will always resemble the capital returns
+
+Avg company : ROIC/ROCE ~= WACC
+Good company: ROCE/ROIC(return on capital) >> WACC (cost of cpital)
+either ROCE is increasing and capital is constant OR Capital is increasing and ROCE is constant
+Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
+i.e both ROCE and capital is increasing
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -Non-cyclical :consumption has been increasing each year regardless of the business cycle.
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
+  -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+  -If a person has lot of money can he break ur business and take away marketshare?
+  -Ideal business always takes little amount of capital to operate and an excellent business always
+    earns same high returns on incremental capital
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+//Financial strengths
+No margin impact - due to Premiumisation and in-house ENA production
+expenses - 7% of sales in brand building
+//Financial weakness
+
+------------------------------ MANAGEMENT CHECK --------------------------------
+
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
+1)cyclicality in raw material prices and lower than expected production can impact groiss margin
+ However, the company maintains a sizable inventory of molasses which insulates it against short and medium term fluctuations in molasses prices.
+2)ENA prices may also increase due its alternative uses, especially in ethanol blending and a more attractive price offered by the petrochemical industry. 
+ However, the company’s capability to shift to a grain-based distillery insulates it against any significant increase in prices of 
+ molasses.
+ Further, RKL has flexibility to shift its production between grains and molasses with change in prices of each.
+2)Liquor ban and price cap might be a risk - highly regulated industry
+The liquor industry is highly regulated in India, with each state controlling the production, sales, and duty structure, independently.
+
+---Financial Risk:
+high tax rates
+
+---Management Risk:
+
+---Investment Returns Risk:
+
+
+---------------------------------- VALUATION --------------------------------------
+future cash flow prediction - DCF method
+check tickertape and  morning star for valuation confirmation
+check Valuation_Check.txt
