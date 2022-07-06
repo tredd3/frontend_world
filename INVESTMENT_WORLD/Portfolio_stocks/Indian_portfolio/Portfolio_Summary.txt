@@ -19,13 +19,15 @@ HDFC LIFE -
 ICICI PRUD -
 
 //Category B - eligible for capital infusion but needs close observation on business and financial performance
-Borosil Renewables - macroeconomic oppurtunity
-IDFC First Bank - turnaround with strong management
+Borosil Renewables - macroeconomic oppurtunity both in india and europe, but no pricing power as prices are decided globally
+IDFC First Bank - turnaround with strong management, infra debt slowly decreasing, innovative products like BNPL, monthly interest
 MapmyIndia - macroeconomic oppurtunity with first mover advantage
-Happiest Minds - niche IT services, low institutional ownership 
-CDSL - macroeconomic oppurtunity
+Happiest Minds - niche IT services, low institutional ownership , strong promoter but limited pricing power because of high
+  competettion, financials improved in the last 3yrs(during covid times) and valuation is bit high
 CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
-       but there is a problem with pricing power and revenue model of volume based pricing
+       but pricing power is not in hands of CAMS and revenue model is volume based pricing, also the rate at which revenues
+       will grow is also lower because CAMS is a the lower end of value chain and earns very little amount(0.0001%) of the 
+       transaction amount
 CRISIL - high valuations, repeat and fixed customers
 
 //Category C - stop further infusion of money
@@ -35,7 +37,8 @@ Relaxo - target the low end customers (where other players won't enter bcoz of l
 Windlas - bad financials and present in highly competettive industry - finacials needs monitoring 
 NYKAA - very high valuations
 page industries - dividend play + very high valuations (Level 2 screening to check growth and future plans)
-
+CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
+       lower end of value chain, SEBI controls the pricing
 
 //Eliminated
 Radico - ESG concerns won't bring in much funds , institutional holding is already high and states control everything from production

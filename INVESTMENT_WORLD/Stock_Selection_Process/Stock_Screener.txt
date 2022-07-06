@@ -158,6 +158,7 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
+avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -307,6 +308,7 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
+Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
 Brand - must be accompained with pricing power

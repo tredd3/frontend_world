@@ -304,7 +304,9 @@ check Risk_Check.txt
 market coupling - IEX might lose monopoly - buyers on other exchanges can buy from sellers on IEX and buyers on IEX can buy 
 from sellers of other exchanges
 2)competettion - with lower clearing price and better infra is a significant risk for IEX
-Hindustan Power Exchange Limited  has already got the approval
+Hindustan Power Exchange Limited  has begun operations - The matching engine of the exchange is procured from one of the 
+ best technology providers in the world, which is also the technology provider for power exchanges in Europe.
+ Promoted by BSE, PTC India and ICICI Bank.
 However IEX is in the game for 14 yrs and the current clearing price is 2 paisa per 1 unit transaction on each side for last 11yrs 
  irrespective of price of electricity and anything less than this is unaffordable even for competettion
 3)policy changes by govt

@@ -2,7 +2,7 @@
 Business:
 
                           FY21    FY22
-Market share :            61%       70%
+Depository Market share : 60%      61%
 Demat accounts(cr) :      3.3       6.3
 value of securities :     27      37.17
 under custody(lakh crore) - depends on market price
@@ -13,90 +13,87 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and announcements from tickertape
+  stock picking strategy: familiar with the product
+  Normal check on stock price since inception - Normal
+  legal orders(confirm from wiki) and tickertape - None
+  Recent News from tickertape
+  corporate actions, dividend history and announcements from tickertape - None
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
-
+    Promoter holding : 20%
+    Institutional ownership: 30%
+    others : 50%
+  promoter pledging - None
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) NA
+  any bulk or block deals (to discover price? NA
 
 //Business check:
-  screener pros and cons
-  market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - NA
   can a fool run this business
-  can you put 25% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet
---Total assets(current valuation) compared with Marketcap - to identify asset plays
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---shareholder Equity growth should be due to retained earnings growth and not new common stock(check cashlow statement - financing 
-  activity -- proceeds from shares section)
-  //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-//Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of freecash flow: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
-//Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+1)Balance sheet Strength check: strong and cash Rich 
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 80%
+--(Price to book value) - 6 (not an asset play)
 
-//Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+//non-current assets - 400
+-Net block (30%)
+-Long term investments(70%) - These investments are in various mutual funds and fixed income instruments
+
+//Net current assets -700
+short term investments
+
+//shareholder Equity -1000
+--Check Equity CAGR from balance sheet equity section 
+  increasing and ROE is 16%
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+
+//non-current Liabilities - 0
+
+
+2)Profit and loss statement: good in last 3 yrs
+--earnings quality check : other income is significant at 25-30% of operating profit
+--net income consistently +ve and growing? constant from 2017 to 2020
+  
+3)Cashflow statement: became good in last 3 yrs
+--use of cash flow from operations: dividends and investments in equal proportion
+
+4)Profitability Ratios Check:
+--OPM(consistent and above 65%) trend 
+--NPM(consistent and above 55%) trend - good profitability
+--ROCE(consistent and above 20%) trend - return on capital is good than cost of capital
+--ROIC(consistent and above 30%) trend- company is generating enough cash in its core business
+
+ //Valuation check
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 68
+--PEG: 1.27
+--DCF: 15% CAGR 
+--check tickertape and  morning star for valuation confirmation : 1200
+check Valuation_Check.txt
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: depository services (for business and consumer)
+  Nature of business: Market Infrastructure Institute (MII) (for business and consumer) 
    //CDSL VS NSDL
     CDSL tariff based on slab system, NSDL has a fixed structure
     CDSL has centralised server model, NSDL needs server on premise
     DP account setup costs less in CDSL
     CDSL focuses on everyone including retail, NSDL focuses on bank based brokers and institutional clients
   What does it do: (what is the actual business): 
+    providing services to all market participants - exchanges, clearing corporations, depository participants (DPs), issuers and 
+       investors
   How does it do :
+    facilitates holding and transacting in securities in the electronic form and facilitates settlement of trades executed on
+      stock exchanges. These securities include equities, debentures, bonds, units of mutual funds, Certificates of deposit (CDs),
+      commercial papers (CPs), Treasury Bills (TBills), and others.
     toll tax kind of business (asset lite business)
     It has a large digital infrastructure of huge databases - which can be used for multiple purposes and not restricted to capital markets
     technology and human resource are going to be the two principle costs for this company going forward, as they need a specialized 
@@ -106,6 +103,10 @@ know about the company:
    CDSL Commodity Repository Limited - 52% holding
    CDSL Ventures Limited  - Wholly owned subsidiary (largest KYC Registration Agency (KRA) in the country )
    CDSL IFSC Limited - Wholly owned subsidiary
+   CDSL along with the other MIIs’ has oated a new company, India International Bullion Holding IFSC Limited. 
+   This company will through one or more subsidiaries handle the functions of an exchange, clearing, depository and oversight 
+   into safe deposit vault. The company will primarily be handling bullion business in IFSC. It will initially start with Gold 
+   and foray into silver and other precious metals, commodities, etc. as approved by IFSCA.
   Target Audience : retail and coporate customers
   market size: huge
   market share: 70% (8.97 Cr total demat accounts - CDSL has 6.3)
@@ -115,9 +116,19 @@ know about the company:
   Revenue Model: 
     ML - market linked
     NML - not linked to market
-    1) companies need to pay :ipo and corporate action charges(ML), custodian charges(NML), e-voting charges(NML)
+    1) companies need to pay :ipo and corporate action charges(ML), annual custodian charges(NML), e-voting charges(NML)
     2) retail investors: security transaction charges paid via DPs(ML), KYC and e-KYC charges( ML), consolidated account statement 
     disbursion charges(NML)
+   Revenue by Segment:
+     Depository: 76%
+     Data entry: 23%
+     Repository: 1%
+   Clients: 
+     Depository	 Participants
+     Issuer Companies: A wide range of securities including equity shares, preference shares, mutual fund units, debt instruments,
+        government securities, etc. are available for dematerialization in CDSL
+     Insurance Companies:  Company offers facilities for holding of insurance policies in electronic form.
+     Warehouse Service Providers / Warehouses: Company offers facilities for holding and transacting of electronic negotiable warehouse receipts (eNWRs).
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -176,10 +187,15 @@ sector demand constant like FMCG :  company needs to capture market share from o
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
+1)Product portfolio :
+Depository - Dematerialisation, rematerialisation, holding, transfer and pledge of securities in electronic form and e-voting services.
+Data Entry and Storage - Centralised record keeping of KYC document of capital market investors
+Repository - Provide facilities to policyholders/warehouse receipts to keep insurance policies/warehouse receipts in electronic form and to undertake changes,etc.
 
 2)COMPETETION : duopoly (along with NSDL)
+New Depositories: SEBI has come out with a discussion paper on ‘Review of Ownership and Governance norms for facilitating
+   new entrants to set up Stock Exchange / Depository’ - but by then CDSL would have achieved operational efficiency and would 
+   offer services at lower costs
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
 
@@ -224,10 +240,11 @@ Since SEBI is the regulator of both securities and commodities maket(spot and de
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
 Switching costs
-Entry barriers : license cost,high operating leverage(high fixed costs)
+Entry barriers : license cost
+Network : All leading clearing corporations network, Depository Participant Network
 
 
-2)PRICING POWER (MUST HAVE MOAT): SEBI will decide it for all depositories
+2)PRICING POWER (MUST HAVE MOAT):  CDSL Tari charges for Depository Participants (DPs) as well as Issuers and RTAs  are approved by SEBI.
 
 3) Longterm vs short term bet
 /Preferred Investment: Both MOATS and Earnings Growth oppurtunities need to exist for sustainable Earnings
@@ -296,7 +313,8 @@ check Financial_Strength_Check.txt
 check Risk_Check.txt
 ---Business Risk:
 if market crashes then CDSL will loose value bcoz they make money on securities value and not volume alone
-
+economy downturn - people won't invest much and spend on consumption 
+inflation and low wages - restrict people to invest
 
 ---Financial Risk:
 shareholder pattern decreasing but other factors are good
