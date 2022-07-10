@@ -1,0 +1,57 @@
+
+When invoking Python, you may specify any of these options:
+
+python [-bBdEhiIOqsSuvVWx?] [-c command | -m module-name | script | - ] [args]
+
+
+1)-c <command>
+Execute the Python code in command. command can be one or more statements separated by newlines, with significant leading whitespace as in normal module code.
+
+If this option is given, the first element of sys.argv will be "-c" and the current directory will be added to the start of 
+sys.path (allowing modules in that directory to be imported as top level modules).
+
+
+2)-m <module-name>
+Search sys.path for the named module and execute its contents as the __main__ module.
+
+Since the argument is a module name, you must not give a file extension (.py). The module name should be a valid absolute Python module name.
+
+Package names (including namespace packages) are also permitted. When a package name is supplied instead of a normal module, 
+ the interpreter will execute <pkg>.__main__ as the main module. 
+
+
+3)<script>
+Execute the Python code contained in script, which must be a filesystem path (absolute or relative) referring to either a Python file,
+ a directory containing a __main__.py file, or a zipfile containing a __main__.py file.
+If this option is given, the first element of sys.argv will be the script name as given on the command line.
+
+If the script name refers directly to a Python file, the directory containing that file is added to the start of sys.path, 
+ and the file is executed as the __main__ module.
+
+If the script name refers to a directory or zipfile, the script name is added to the start of sys.path and the __main__.py 
+ file in that location is executed as the __main__ module.
+
+-i 
+When a script is passed as first argument or the -c option is used, enter interactive mode after executing the script or the command, even when sys.stdin does not appear to be a terminal. The PYTHONSTARTUP file is not read.
+
+This can be useful to inspect global variables or a stack trace when a script raises an exception.
+
+-I (In isolated mode sys.path contains neither the script’s directory nor the user’s site-packages directory. All PYTHON* environment variables are ignored, too.)
+
+//These environment variables influence Python’s behavior
+1)PYTHONHOME
+Change the location of the standard Python libraries. By default, the libraries are searched in prefix/lib/pythonversion 
+and exec_prefix/lib/pythonversion, where prefix and exec_prefix are installation-dependent directories, both defaulting to /usr/local.
+
+When PYTHONHOME is set to a single directory, its value replaces both prefix and exec_prefix. To specify different values for 
+these, set PYTHONHOME to prefix:exec_prefix.
+
+
+2)PYTHONPATH
+Augment the default search path for module files. The format is the same as the shell’s PATH:
+value in PYTHONHOME environment variable is always appended to PYTHONPATH.
+
+
+3)PYTHONDEVMODE
+If this environment variable is set to a non-empty string, enable Python Development Mode, introducing additional runtime 
+ checks that are too expensive to be enabled by default.

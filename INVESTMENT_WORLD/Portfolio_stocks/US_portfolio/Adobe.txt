@@ -109,14 +109,9 @@ Note: if NPM is less then check Asset turnover ratio, if both are less than ROE 
 --ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
---check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
-if D/E > 0:
-check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
-if short term debt, then current assets > current liabilities?
-if long term debt is it increasing over the years?
-  Total debt: 
-  Cash:
-  operating profits/operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
+--check D/E trend ?
+if D/E > 0 check in the balance sheet if the long term debt is increasing ?
+can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
 
 //Valuation check
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)

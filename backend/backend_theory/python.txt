@@ -1,6 +1,6 @@
 //python and its features
 
-Features:
+Features: 
 high level programming language
 used for  developing both desktop(GUI), web applications,desktop and mobile apps, games, automation
 AI , ML and (data analysis and visualization)
@@ -11,9 +11,12 @@ support various concepts in functional and aspect-oriented programming
 dynamic type system and automatic memory management
 interpreted programming language - allows you to you to run the same code on multiple platforms without recompilation
 Robust Standard Library - u can choose from available modules without writing additional code
-u can also choose from available python libraries
+Python Package Index (pypi.org) is a directory of Python packages published by Python developers around the world. 
+ We use pip to install or uninstall these packages.
+  pip install openpyxl
+  pip uninstall openpyxl
 For instance, while writing a web application in Python, you can use specific modules to implement web services, perform string 
-operations, manage operating system interface or work with internet protocols. 
+  operations, manage operating system interface or work with internet protocols. 
 Many Open Source Frameworks and Tools:
 Likewise, you can accelerate desktop GUI application development using Python GUI frameworks and toolkits like PyQT, PyJs, PyGUI, Kivy, PyGTK and WxPython.
 For instance, you can simplify and speedup web application development by using robust Python web frameworks like Django, Flask, Pyramid
@@ -24,7 +27,8 @@ You have to speed up the Python application by making changes to the application
 
 //working of python - both compiled and interpreted
 python source code - compiler - python byte code - python virtual machine(interpreter/software) - interpreted to machine dependent code
- 
+The .py source code is first compiled to byte code as .pyc and later on the byte code used to get interpreted.
+
 //python 
 /python -c command [arg] - which executes the statement(s) in command - quote command in its entirety with single quotes.
 Some Python modules are also useful as scripts. These can be invoked using python -m module [arg] 

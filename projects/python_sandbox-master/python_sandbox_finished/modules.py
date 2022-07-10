@@ -10,7 +10,9 @@ import datetime
 from datetime import date
 
 # Pip module - https://pypi.org/ - it points to a directory where external packages are stored
-from camelcase import CamelCase
+#from camelcase import CamelCase
+#c = CamelCase()
+#print(c.hump('hello there world'))
 
 # Import custom module
 import validator  # validator is an object with properties and methods
@@ -27,14 +29,13 @@ array = [1, 2, 3, 1, 4, 5, 5, 6, 9, 9, 6, 6]
 print(python_package.utils.remove_duplicates(array))
 print(remove_duplicates(array), constant)
 print(utils.remove_duplicates(array))
+print(utils.__package__)  # utils module belongs to which pacakge
 
+# to find out module contents - i.e names a module defines. It returns a sorted list of strings:
 print(dir(validator))
-print(validator.__file__)
+print(validator.__file__)  # to know the location of module
 print(validator.re, type(validator.re))
 print(validator.User, type(validator.User))
-
-c = CamelCase()
-print(c.hump('hello there world'))
 
 print(validator.variable)  # import variable
 print(validator.User)  # import class
@@ -50,3 +51,8 @@ else:
 today = date.today()
 timestamp = time()
 print(timestamp)
+
+
+# install pip modules to current directory
+# pip3 install < your_python_module_name > -t lib/ (provided lib is the folder u created to store all modules)
+# pip3 install <your_python_module_name> -t .

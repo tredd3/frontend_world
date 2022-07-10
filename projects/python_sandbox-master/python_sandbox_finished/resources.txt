@@ -1,2 +1,8 @@
 https://docs.python.org/3/tutorial/index.html
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/using/
+https://docs.python.org/3/
+https://docs.python.org/3/library/index.html#library-index
 
+
+https://pythonguides.com/python-programming-for-the-absolute-beginner/

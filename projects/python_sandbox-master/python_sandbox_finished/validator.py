@@ -15,3 +15,10 @@ def validate_email(email):
 class User:
     def test(self):
         return "hey"
+
+
+if __name__ == "__main__":
+    print("Executed when invoked directly")
+    # If script is getting imported by some other module at that time __name__ will be module name.
+else:
+    print("Executed when imported")

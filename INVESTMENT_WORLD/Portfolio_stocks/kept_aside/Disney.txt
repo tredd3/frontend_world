@@ -3,9 +3,15 @@ you should have the curosity to carry out research like a Investigative Journali
 Regarding business always consider you are buying the whole business and not share of a company 
 Business : Operational metrics
 
-                             FY20     FY21    FY22 
-Volumes                       89       84      72
-Per unit price               120       150     180
+                                         FY20     FY21    FY22 
+Disney+ paid users (miilion)               73       94      
+ARPU Disney +                             5.5        4
+
+ESPN + paid users (miilion)               6.6       12
+ARPU ESPN                                 4.4       4.4
+
+HULU paid users (miilion)                  30       39   
+ARPU HULU                                 7.5       8.7
 
 Financials :
 Risks :
@@ -15,35 +21,22 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  Recent News from tickertape
+  stock picking strategy: bottoms-up
+  Normal check on stock price since inception - Normal
   corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Promoter holding : higher is the better
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
-  promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: Yes/No
-  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
-  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
-     than any broker/analyst/investor)
+    Institutional ownership: 64%
+    Others: 35%
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) last 3 months directors are buying the shares at 95$
   any bulk or block deals (to discover price?
 
 //Business check:
-  screener pros and cons
   market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
+  //how is the quality of product/service - Too Good
   CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
-  can a fool run this business
+  can a fool run this business - yes
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
@@ -53,70 +46,48 @@ Valuation :
 --Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
 --(Price to book value) - 5 (not an asset play)
 
-//non-current assets - <value>
--if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
-  decreases because people won't buy the company or value the company for the price at which u have bought
--intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
-  they also can loose value like crazy
--long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
-  u need to check notes to consolidated financial statements
+//non-current assets - 171k
+Net block: 32k
+Goodwill: 78k
+Other assets: 40k (check notes)
+intangible assets: 15k
 
-//Net current assets -<value>
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
--inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
-  but raw materials will not 
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
+//Net current assets - 1k
 
-//shareholder Equity -<value>
+//shareholder Equity - 90k
 --Check Equity CAGR from balance sheet equity section 
-   if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
-     (check share capital section where company might be doing buyback)
-   if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
-   if equity is increasing check ROE trend
---Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
-  capital, u need to check EPS trend)
-
-//non-current Liabilities - <value>
+   Equity is constant bcoz CFO is constant for last 3 yrs  and the use of CFO is for capex(upgradation) and interest payment
+//non-current Liabilities - 68k
 
 
-2)Profit and loss statement
+2)Profit and loss statement : bad
 --sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---earnings quality check : core business vs other income contribution to profits over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
-  
-3)Cashflow statement
+--operating profit +ve  most of the time and growing? In down trend for last 4yrs
+--earnings quality check : core business vs other income contribution to profits over the years? Negligible
+--interest expense >40-50% of operating profit? yes almost 40%
+--net income consistently +ve and growing? In down trend for last 4yrs
+
+
+3)Cashflow statement : deteriorating
 --operating cash flow must be atleast 70-80% of  operating profit 
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
-//check cashflow from financing section
--- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
--- if equity is increasing?  (if yes EPS should also increase)
+--CFO +ve most of the time and growing? yes but constant for last 4 yrs
+--use of cash flow from operations: capex(upgradation) and debt repayment
+//check cashflow from financing section: debt is used for upgrading capex
+
 
 4)Profitability Ratios Check:
 --GPM(consistent and above 15%) trend - company has Pricing power 
---OPM(consistent and above 15%) trend - company has Efficient management 
---NPM(consistent and above 15%) trend - good profitability
+--OPM - 6.5% since last 2 yrs 
+--NPM - 3.5% since last 2 yrs (before COVID i.e 2016 - 2020 increased from 16% to 22%)
 Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
+--ROE 3% (before COVID 20%)
+--ROCE 3% (before COVID 10%)
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
---check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
-if D/E > 0:
-check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
-if short term debt, then current assets > current liabilities?
-if long term debt is it increasing over the years?
-  Total debt: 
-  Cash:
-  operating profits/operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
+--check D/E trend ? 
+long term debt is it increasing over the years?
+long term debt can be cleared by operating profits/operating cashflow of 5 yrs if the business goes to pre-covid levels 
+  else with the current situation it will take 10 yrs
+
 
 //Valuation check
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
@@ -125,9 +96,10 @@ Valuation is price compared to earnings
 Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
  understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
  is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
---PEG: 
---DCF: 
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation : 17 times
+--PEG: 1
+--P/B : 1.93
+--DCF: 12% (no margin of safety)
 --check tickertape and  morning star for valuation confirmation
 check Valuation_Check.txt
 
@@ -135,18 +107,30 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: entertainment and business services
   What does it do: (what is the actual business): 
+    The company was founded in 1923 and is based in Burbank, California. 
+    Worldwide entertainment company
   How does it do :
+    8 of the 10 highest grossing movies of all time are owned by Disney
   Subsidaries/JVs:
+    National geographic LLC (73%)
+    Marvel
+    ESPN
+    20th Century Fox
+    Pixar, HULU
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
-  market share: 
+  market share: 20% (box office), 25% (streaming)
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%
+  REVENUE by GEOGRAPHY: US & Canada :80%, Europe : 11%, Asia: 9%
   Revenue by Product: 
+    Media Networks :40% (75% contribution to operating profit)
+    Parks and Resorts: 23%
+    Studio Entetainment: 13%  (25% contribution to operating profit)
+    consumer products and interactive media: 24%
   Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
 promoters:
@@ -204,14 +188,25 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
-
+1)Product portfolio :
+i)Media Networks:
+  Disney+ : science, adventure, and exploration content(from National geography), Child content, Marvel
+  ESPN+ : sports content
+  broadcast businesses, which include the ABC TV Network and eight owned television stations; radio businesses consisting of 
+   the ESPN Radio Network; and the Radio Disney network
+ii)Parks and Resorts: 
+ owns and operates Disney Cruise Line,  Adventures by Disney,  manages Disneyland Paris, Hong Kong Disneyland Resort, 
+   Shanghai Disney Resort and all US theme and water parks
+ licenses its intellectual property to a third party for the operations of the Tokyo Disney Resort in Japan
+iii)Studio Entetainment:
+  segment produces and acquires live-action and animated motion pictures for distribution in the theatrical, home entertainment, 
+    and television markets primarily under the Walt Disney Pictures, Pixar, Marvel, Lucasfilm, and Touchstone banners. 
+  This segment also produces stage plays and musical recordings; licenses and produces live entertainment events; 
+  Also provides visual and audio effects, and other post-production services
+iv)consumer products and interactive media:
+  licensing of trade names, characters, visual, literary, and other IP for use on merchandise
+  develops and publishes games for mobile platforms, publishes books, comic books, and magazines.
+  sells its products through The Disney Store, DisneyStore.com, and MarvelStore.com, as well as directly to retailers.
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
@@ -258,7 +253,7 @@ earnings source is more than earnings itself bcoz earnings source decides whethe
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
-    /penetration - Acquire new customers in untapped and rural areas
+    streaming growth oppurtunity in europe and Asia
     /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
       does capex to service the demand)
     /import substitution (Atam nirbhar bharat)
@@ -455,8 +450,18 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+Not recession proof - clearly seen in financials
+very little contribution and growth from Europe and pacific
+Disney's characters will become public and IP rights will expire soon
+
 
 ---Financial Risk:
+Parks and Resorts, consumer products and interactive media - both these segments contribute 0% to profits but 90% capex goes 
+  toward their maintenance (heavy impact on cashflow)
+DIS's operating cash flow ($5.66B) may not be sufficient to safely service the company's debt ($52.02B)
+DIS's has not demonstrated consistent long-term earnings growth over the past 10 years (-48.58%)
+DIS's Return on Equity (3%) shows a company that is not efficient at transforming shareholder equity into returns
+DIS is generating lower Return on Assets (1.3%) than the US Entertainment industry average (4.59%)
 
 ---Management Risk:
 

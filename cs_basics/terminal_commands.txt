@@ -28,7 +28,7 @@ bash_profile,bash_login, bashrc and other bash configuration files are user spec
        e.g: 
        1)aliases
        https://linuxize.com/post/how-to-create-bash-aliases/
-       alias alias alias_name="command_to_run"
+       alias alias_name="command_to_run"
        2)bash functions : https://linuxize.com/post/bash-functions/
        function mongouat() {
             mongo "<mongo_url>"
@@ -36,6 +36,12 @@ bash_profile,bash_login, bashrc and other bash configuration files are user spec
         }
         mongouat  //or export -f mongouat if the before one didn't work
         put the above function in bashrc file and call mongouat in terminal
+        3)bash function with arguments
+        greeting () {
+        echo "Hello $1"
+        }
+
+        greeting "Joe" //enter this in terminal and press enter
 ~/.bash_logout
        The individual(per user) login shell cleanup file, executed when a login shell exits
        what to put: using "clear" command u can clear the screen when you log out.

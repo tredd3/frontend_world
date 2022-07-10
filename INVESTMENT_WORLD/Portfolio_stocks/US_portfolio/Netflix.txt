@@ -2,10 +2,12 @@
 Overall: Analyse with a fraud identification mindset and not with a confirmation bias
 Business:
 
-                            FY21    FY22
-customer base(millions)      221     219 
-ARM(Avg revenue per         
- membership)         
+                             FY21    FY22
+customer base(millions)       221     219 
+International
+Domestic
+ARPU(Avg revenue per         10.87    11.3
+ User)         
 
 Financials :
 Risks :
@@ -13,89 +15,78 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions, dividend history and buyback announcements from tickertape
+  stock picking strategy: contratian/familiar with the product or industry
+  Normal check on stock price since inception - abnormal fall due to tech crackdown
+  Recent News from tickertape
+  corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+    77.65% institutional shareholders, 6.71% Netflix insiders, and 15.64% retail investors.
   promoter pledging
   Is the business easy to understand or complex : easy/complex
-  circle of competence: YEs/No
-  any recent insider buying (bse india > disclosures > insider trading) (Especially if normal employees are buying apart form 
-    promoters/top management then its a positive sign as they know better than any broker/analyst/investor)
-
+  circle of competence: Yes/No
+  any recent insider buying (bse india > disclosures > insider trading) - NFLX insiders have bought more NFLX shares than they 
+      have sold in the last year
+  any bulk or block deals (to discover price?
 
 //Business check:
   screener pros and cons
   market share trend
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years(scroll down in crisil report)
+  //how is the quality of product/service - Good
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
   can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-  //Balance sheet Strength check
---(Price to book value) - Total assets(precisely net assets) compared with Marketcap - to identify asset plays
--if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
-  decreases because people won't buy the company or value the company for the price at which u have bought
--intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
-  they also can loose value like crazy
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
---Total assets compared to equity (liabilities should be as less as possible for a strong balance sheet)
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
---Check Equity CAGR from balance sheet equity section (if it is constant then check dividend section in cashflow analysis bcoz company 
-  might be giving out its earnings as dividend) OR (check share capital section where company might be doing buyback)
-Now check ROE trend for all those years (if equity is increasing at above 15% and ROE is at around 15% or more then it is a wonderful business)
-Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings)  and financing activities(goes into share capital)
- 
- //Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---other income significant to operating profit over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet): 33%
+--(Price to book value) - 17 (not an asset play)
+
+//non-current assets - 36
+-intangible assets : 30
+-long term investments : 4
+
+//Net current assets - 0
+
+//shareholder Equity - 15
+--Check Equity CAGR from balance sheet equity section 
+   equity is increasing and ROE is also increasing
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) since last 2 yrs
+
+//non-current Liabilities - 20
+
+
+2)Profit and loss statement: Good
   
-  //Cashflow statement
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
---outstanding shares increasing every year ? check cashflow from financing section (if yes, EPS should also increase)
+3)Cashflow statement: company started generating positive cashflow from last 2 yrs
+-- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
+first 3 yrs it was to cover operating losses, but for last 2 yrs it was used for capex(studios) and debt was used to 
+  repay previous debt(refinancing), cash acquisition and stock buyback (all are good usage of debt, but could have been better)
 
- //Profitability Ratios Check:
---NPM(consistent and above 10%) - company has Pricing power 
---OPM(consistent and above 10%) - company has Efficient management 
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) - good profitability
---ROIC(consistent and above 15%) - company is generating enough cash in its core business
---D/E < 1?
-if D/E > 0 check in the balance sheet if the long term debt is increasing ?
-check D/E trend 
-can long term debt can be cleared by earnings of 4 yrs?(look at debt/Profit metrics in screener)
+4)Profitability Ratios Check:
+--GPM 41%
+--OPM 21%
+--NPM from 7% to 17%
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE increased from 27% to 38%
+--ROCE increased from 6% to 17%
+--check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
+if D/E > 0:
+-ve CCC and Interest coverage ratio improving
+check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
+long term debt but stagnant over last 3 yrs
+  Total debt: 15B
+  Cash: 6B
+  operating profits/operating cashflow: 1 B
 
- //Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
+//Valuation check
 --EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+--PEG: 2.5
+--DCF: 14% CAGR (20 PE, 12% earnings CAGR)
+--check tickertape and  morning star for valuation confirmation : 200 fair value
+check Valuation_Check.txt
 
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
@@ -114,13 +105,14 @@ know about the company:
     personalised recommendations based on what users love to keep them engaged
     Offline downloads available on the Netflix app
     lot of investment on fresh and original content
+    80% of Netflix users stream content suggested by its personalized recommendation algorithm
   Subsidaries/JVs :
   Target Audience : all Adults and entertainment lovers
   market size: huge
-  market share: 
+  market share: 50% (doesn't make sense because it is not a zero sum game industry)
   Presence : Netflix is available virtually everywhere except in China.
   Globally competetive company: Yes
-  REVENUE GEOGRAPHY: US 50%
+  REVENUE GEOGRAPHY: US 43%, EMEA 31%, LATAM 13%, APAC 9.6%, CANADA 2.6% 
   Revenue Model: 
     flat-fee (subscription-based)
 promoters:
@@ -211,12 +203,14 @@ ideally a company that clones other successful strategies is almost bound to win
 --- EARNING POWER (Earnings Growth Oppurtunities check )
 //SOURCE OF EARNINGS
 --Internal Growth oppurtunities 
-monetising sharing viewers per subscriber
+monetising sharing viewers per subscriber (only 55% pay for subscription, remaing share the credentials of friends/family)
 introducing subscription with ads - giving the service at lesser price for users who need it
 focus on games and animated series - creating more value for money paid by subscribers
 sports documentaries
 orginal content acquisition - by collaboration of the ground team with producers
 broadband and smart TV penetration will improve OTT subscriptions
+Asia and Latin America Volumes and ARPU is very low compared to US, Europe taking in consideration the population - 
+  increase will drive revenues (if management focuses on international expansion)
 
 --External Growth oppurtunities
 Macroeconomic :
@@ -309,17 +303,16 @@ piracy is a threat to the Industry itself
   membership in many markets
 competettion - very low entry barriers and all the major production houses who were initially selling their movies to Netflix , now
   came up with their own streaming service
+ARPU in US and Europe regions increased and Asia , Latin America regions remained constant for last 5 yrs
 
 ---Financial Risk:
 D/E is 1.6 times which is high
 free cash flow will take a hit for few yrs as Netflix spends money on producing original content (assets)
+Netflix current cashflow of 500M not enough to service longterm debt in 10yrs, it needs to 4X its cashflow
 
 ---Management Risk:
 
 ---Investment Returns Risk:
 
 
----------------------------------- VALUATION --------------------------------------
-future cash flow prediction - DCF method
-check tickertape and  morning star for valuation confirmation
-check Valuation_Check.txt
+-------------------------------------- THE END -----------------------------------------
