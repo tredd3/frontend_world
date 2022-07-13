@@ -3,6 +3,7 @@ https://docs.python.org/3/reference/index.html
 https://docs.python.org/3/using/
 https://docs.python.org/3/
 https://docs.python.org/3/library/index.html#library-index
+https://packaging.python.org/en/latest/tutorials/installing-packages/ - package installation
 
 
 https://pythonguides.com/python-programming-for-the-absolute-beginner/

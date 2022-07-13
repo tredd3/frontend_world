@@ -193,7 +193,8 @@ While a standard shortcut points to a certain object, a symlink makes it appear 
 Your computer and the apps on it will read the symlink as the target object itself.
 it's a good idea to create symbolic links instead of shortcuts when you want to:
 Access a file from multiple locations without creating copies and without using much disk space. (Symlinks are only a few bytes in size.)
-Maintain different versions of a file while ensuring that any pointers to it always lead to the most recent or up-to-date version. (This works because a symlink remains active even when you replace the target file with a different file of the same name.)
+Maintain different versions of a file while ensuring that any pointers to it always lead to the most recent or up-to-date version. 
+(This works because a symlink remains active even when you replace the target file with a different file of the same name)
 creating a symlink:
 ln -s [/path/to/file] [/path/to/symlink]
 

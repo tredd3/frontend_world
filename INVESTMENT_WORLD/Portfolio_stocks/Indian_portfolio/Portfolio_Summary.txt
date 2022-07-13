@@ -3,10 +3,14 @@ Relaxo - loss in FY22
 MCX - 36% net profit loss in FY22
 
 
-//Category A - must buys if price drops
-HUL, Britannia - gained market share and increased prices
-Asian paints - increase prices
-IEX, Indiamart - are already using lower fee to woo customers and create network effect
+//Category A - must buy in dips
+Alibaba - Technology and marketting place infra provider for China, strong balance sheet, CFO is used in cash acquisitions, equity
+   of other companies, stock buyback Just like berkshire hathaway
+HUL, Britannia - strong brand, gained market share during COVID and have pricing power
+Asian paints - cash generated from paints business is reinvested in home furnishing sector
+IEX - using lower fee to woo customers and create network effect,
+Indiamart - using lower fee to woo customers and create network effect, generate cash and reinvest in companies creating digital
+   ecosystem for MSME
 ITC - tobacco leader, with diversification in to FMCG, Agri commodities etc 
     - 4% dividend yield with PE of 24 (chance of dividend increase and capital appreciation)
     - fairly valued according to DCF 
@@ -37,8 +41,8 @@ Relaxo - target the low end customers (where other players won't enter bcoz of l
 Windlas - bad financials and present in highly competettive industry - finacials needs monitoring 
 NYKAA - very high valuations
 page industries - dividend play + very high valuations (Level 2 screening to check growth and future plans)
-CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
-       lower end of value chain, SEBI controls the pricing
+Netflix - net debt 9B, CFO 1B (CFO growth needs to be monitored), financials are improving since last 4 yrs and company is coming up
+   with new monetisation plans (keep an eye)
 
 //Eliminated
 Radico - ESG concerns won't bring in much funds , institutional holding is already high and states control everything from production
@@ -51,5 +55,7 @@ MTAR - equity grwth is zero and ROE is less, bargaining power of consumers exist
 BSE - we can hold it when dividend yield is attractive, no reinvestment of cashflow
 MCX - cyclical and completely unpredictable , no growth opputunities as it is already a monopoly and NO Global scope, 
    ZERO pricing power as SEBI and Govt interferes
+CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
+       lower end of value chain, SEBI controls the pricing. Better to play with consumption rather than investing of individuals
 Disney - cash flow used for debt repayment, interest repayment and upgradation capex and  very bad financials and ratios 
   for last 4 yrs meaning it is not inflation/recession proof

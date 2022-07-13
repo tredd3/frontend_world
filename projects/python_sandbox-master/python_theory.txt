@@ -28,6 +28,19 @@ You have to speed up the Python application by making changes to the application
 //working of python - both compiled and interpreted
 python source code - compiler - python byte code - python virtual machine(interpreter/software) - interpreted to machine dependent code
 The .py source code is first compiled to byte code as .pyc and later on the byte code used to get interpreted.
+Because .pyc files are platform independent, they can be shared across machines of different architectures.
+Loading:
+ .pyc files (__pycache__) needs to be in .gitignore
+ To speed up the loading of the imported module in the future, the interpreter creates a bytecode file of the module, when the
+   module is imported in any file
+ Note that using .pyc files only speeds up the loading of your program, not the actual execution of it. 
+ when python interpreter is run in optimiser mode , .pyo bytecode file is created, it substitutes for the .pyc file that would 
+    have been created without optimization. (python -O <fine_name>) - optimiser creates smaller byte code files hence .pyo is smaller compared to its .pyc counterpart
+ When the source code file is updated, the .pyo/.pyc file is updated whenever the update time for the source code differs from that of the bytecode file. 
+ you can improve startup time by writing your main program in a module that gets imported by another, smaller module. 
+Execution: check python_cmdline.txt 
+Note: algorithm and data stucture 
+
 
 //python 
 /python -c command [arg] - which executes the statement(s) in command - quote command in its entirety with single quotes.
@@ -61,3 +74,10 @@ With the release of IPython 4.0, the parallel computing capabilities were made o
 JupyterLab uses the exact same Notebook server and file format as the classic Jupyter Notebook, so that it is fully compatible with the existing notebooks and kernels.
 
 https://www.geeksforgeeks.org/underscore-_-python/
+
+//PEP - Python Enhancement Proposal (like W3C for Javascript)
+https://github.com/python/peps - PEPs are maintained as text files in a versioned repository
+PEP is a design document providing information to the Python community, or describing a new feature for Python or its 
+ processes or environment.  The PEP should provide a concise technical specification of the feature and a rationale for the feature.
+PEP 8 is a coding convention, a set of recommendations, about how to write your Python code more readable.
+primary audience for PEPs are the core developers of the CPython reference interpreter , JPython and other interpreters

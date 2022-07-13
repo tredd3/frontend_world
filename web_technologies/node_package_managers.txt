@@ -1,0 +1,45 @@
+//YARN vs NPM
+https://stackshare.io/stackups/npm-vs-yarn
+*YARN by facebook to overcome shortcomings of NPM
+*NPM installs all and every package from npmjs.com which hinders accessibility in the event that one goes down, 
+Yarn, on the other hand, installs from multiple repositories npmjs.com as well as Bower
+*Yarn caches every package it downloads so it never needs to again.NPM downloads the packages everytime u run npm install
+*Yarn is fast bcoz of parallel downloading of packages Npm downloads packages sequentially
+
+//PNPM: centralized installation cache
+https://pnpm.io/blog/2020/05/27/flat-node-modules-is-not-the-only-way
+https://www.kochan.io/nodejs/why-should-we-use-pnpm.html
+Idea behind PNPM which makes it a performant, space-efficient, and faster alternative to NPM/Yarn
+core philospohy: Why store separate copies of packages if you can have a `single` referencable one?
+Logic: files can be retreived based on content and not filename (bcoz every file has a hashid based on the content)
+
+A hard link is a file that references or points to the exact spot on a hard drive where the Inode stores the data.
+  If the earlier selected file is deleted, the hard link to the file will still contain the data of that file.
+  Files that are hard linked take the same inode number.( Index node number is a unique number assigned to all files in a Linux/Unix system)
+  Hard links are comparatively faster.
+A soft link s a special kind of file that points to another file, rather than the content on hard drive
+  If the earlier file is deleted, the soft link will be pointing to a file that does not exist anymore
+  Files that are soft linked take a different inode number
+  Soft links are comparatively slower.
+
+//Why PNPM
+3 times faster than npm/yarn
+Even though Yarn is an improvement over NPM , it uses the same flat node_modules structure that npm does
+flattened dependency trees come with a bunch of issues:
+  modules can access packages they don’t depend on
+  the algorithm of flattening a dependency tree is pretty complex
+  some of the packages have to be copied inside one project’s node_modules folder
+Note: pnpm does not flatten the dependency tree. As a result, the algorithms used by pnpm can be a lot easier!
+
+//Why PNPM is more efficient? 
+SPEED: Yarn copies files from cache whereas pnpm just links them from the global store.
+ When you install a package, we keep it in a global store on your machine, then we create a hard link  from it instead of copying.
+ For each version of a module, there is only ever one copy kept on disk. When using npm or yarn for example, if you have 100 
+ packages using lodash, you will have 100 copies of lodash on disk. Pnpm allows you to save gigabytes of disk space!
+ This allows you to share dependencies of the same version across projects.
+SECURITY: Like Yarn, pnpm has a special file with all the installed packages’ checksums to verify the integrity of every installed package before its code is executed
+If you depend on different versions of the dependency, only the files that differ are added to the store. For instance, 
+ if it has 100 files, and a new version has a change in only one of those files, pnpm update will only add 1 new file to the store, 
+ instead of cloning the entire dependency just for the singular change.
+
+

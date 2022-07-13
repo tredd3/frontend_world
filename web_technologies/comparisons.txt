@@ -22,15 +22,6 @@ Does your app need to support new mobile OS features as soon as they are release
 It uses the Dart programming language which is very similar syntactically to JavaScript.
 https://pixelplex.io/blog/pwa-react-native-flutter-native-app-development/
 
-//YARN vs NPM
-https://stackshare.io/stackups/npm-vs-yarn
-*YARN by facebook to overcome shortcomings of NPM
-*NPM installs all and every package from npmjs.com which hinders accessibility in the event that one goes down, 
-Yarn, on the other hand, installs from multiple repositories npmjs.com as well as Bower
-*Yarn caches every package it downloads so it never needs to again.NPM downloads the packages everytime u run npm install
-*Yarn is fast bcoz of parallel downloading of packages Npm downloads packages sequentially
-
-
 
 //REACT(library) VS ANGULAR(framework-MVC archiecture) VS VUE
 REACT - virtual DOM

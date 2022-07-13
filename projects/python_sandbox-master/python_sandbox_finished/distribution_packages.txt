@@ -1,0 +1,123 @@
+
+Distribution Package: A versioned archive file that contains Python packages, modules, and other resource files that 
+  are used to distribute a Release.The archive file is what an end-user will download from the internet and install.
+Import package: A folder that contain other modules or recursively, other packages and a __init__.py file
+System package: A package provided in a format native to the operating system, e.g. an rpm or dpkg file.
+
+
+Pure Module: A Module written in Python and contained in a single .py file (and possibly associated .pyc and/or .pyo files)
+Extension Module: A Module written in the low-level language of the Python implementation: C/C++ for Python, Java for Jython
+
+
+Package Index : A repository of distributions with a web interface to automate package discovery and consumption.
+Python Package Index (PyPI) : 
+PyPI is the default Package Index for the Python community. It is open to all Python developers to consume and distribute their distributions.
+pypi.org : pypi.org is the domain name for the Python Package Index (PyPI).
+
+
+pyproject.toml: project specification file
+setup.py: contains project specification files , must be in the root directory of project incase u plan to distribute the package 
+  using distutils
+setup.cfg: same as above but it is used for setuptools
+Note: direct usage of distutils is now actively discouraged, with setuptools being the preferred replacement. setuptools not only
+ provides features that plain distutils doesn’t offer (such as dependency declarations and entry point declarations), it also 
+ provides a consistent build interface and feature set across all supported Python versions.
+
+
+Source Archive: An archive containing the raw source code for a Release, prior to creation of a Source Distribution or Built Distribution.
+
+
+------------------ Build and distribute python packages to PYPI - library development -----------------
+setuptools (which includes easy_install) is a collection of enhancements to the Python distutils that allow you to more 
+  easily build and distribute Python distributions, especially ones that have dependencies on other packages.
+package format: wheel (replaced egg format)
+https://pypi.org/project/setuptools/
+
+//3 types of package distribution
+1)Source distribution
+setup.py sdist creates a source distribution: it contains setup.py, the source files of your module/script (.py files or .c/.cpp for
+ binary modules), your data files, etc. The result is an archive that can then be used to recompile everything on any platform.
+2)Binary distribution
+setup.py bdist (and bdist_*) creates a built distribution: it includes .pyc files, .so/.dll/.dylib for binary modules, .exe if 
+using py2exe on Windows, your data files... but no setup.py. The result is an archive that is specific to a platform (for example 
+linux-x86_64) and to a version of Python, and that can be installed simply by extracting it into the root of your filesystem
+ (executables are in /usr/bin (or equivalent), data files in /usr/share, modules in /usr/lib/pythonX.X/site-packages/...).
+3)Built Distribution
+Wheels are a pre-built distribution format that provides faster installation compared to Source Distributions (sdist),
+ especially when a project contains compiled extensions.
+If pip does not find a wheel to install, it will locally build a wheel and cache it for future installs, instead of 
+  rebuilding the source distribution in the future.
+A built distribution is how you make life as easy as possible for installers of your module distribution: for users of RPM-based 
+Linux systems, it’s a binary RPM; for Windows users, it’s an executable installer; for Debian-based Linux users, it’s a Debian
+ package; and so forth. Obviously, no one person will be able to create built distributions for every platform under the sun,
+ so the Distutils are designed to enable module developers to concentrate on their specialty—writing code and creating 
+ source distributions—while an intermediary species called packagers(developers/software) springs up to turn source distributions
+ into built distributions for as many platforms as possible. 
+ Regardless of who they are, a packager uses the setup script and the bdist command family to generate built distributions.
+
+Of course, the module developer could be their own packager; or the packager could be a volunteer “out there” somewhere who has access to a platform which the original developer does not; or it could be software periodically grabbing new source distributions and turning them into built distributions for as many platforms as the software has access to. Regardless of who they are, a packager uses the setup script and the bdist command family to generate built distributions.
+---------------------- Install python packages from PYPI -----------------
+//Global install(system wide) 
+Using pip (pip replaced easy_install)
+Pip is the standard package manager for Python. It allows us to install and manage additional packages that are not part of the Python standard library.
+python -m pip install SomePackage # install the latest version of a module and its dependencies from the Python Package Index
+python -m pip install SomePackage==1.0.4    # specific version
+python -m pip install "SomePackage>=1.0.4"  # minimum version
+python -m pip install --upgrade SomePackage
+python3 -m pip install -r requirements.txt #Install a list of requirements specified in a Requirements File.
+python3 -m pip install --index-url http://my.package.repo/simple/ SomeProject #Install from an alternate index
+python3 -m pip install -e <path> # install normally from src
+python3 -m pip install -e git+https://git.repo/some_pkg.git#egg=SomeProject          # from git
+python3 -m pip install -e git+https://git.repo/some_pkg.git@feature#egg=SomeProject  # from a branch
+python3 -m pip install ./downloads/SomeProject-1.0.4.tar.gz #Install a particular source archive file.
+
+//To install packages that are isolated to the current user, user flag has no effect when inside a virtual environment 
+python3 -m pip install --user SomeProject 
+If SomeProject defines any command-line scripts or console entry points, --user will cause them to be installed inside the user
+ base’s binary directory, which may or may not already be present in your shell’s PATH. you’ll need to add the directory to your PATH
+
+
+//Local (per project) install
+Virtual Environment : An isolated Python environment that allows packages to be installed for use by a particular application in a 
+  isolated location rather than being installed system wide.
+Virtual Environments have their own installation directories and they don’t share libraries with other virtual environments.
+
+1)creating virtual environment using venv (ensures pip and setuptools are installed into created virtual environments)
+python3 -m venv <DIR>
+source <DIR>/bin/activate
+e.g:
+python3 -m venv tutorial_env
+source tutorial_env/bin/activate
+This will create a new virtual environment in the tutorial_env subdirectory, and configure the current shell to use it as the 
+  default python environment.
+ 
+//Managing multiple virtual environments (using Pipenv)
+https://packaging.python.org/en/latest/tutorials/managing-dependencies/
+1)Pipenv is a dependency manager for Python projects, similar to npm (node)
+Pipenv is a project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and 
+   virtualenv into one single toolchain. It features very pretty terminal colors.
+Pipfile(like package.json) and its sister Pipfile.lock are a higher-level application-centric alternative to pip’s lower-level 
+  requirements.txt file.
+Pipenv manages dependencies on a per-project basis (separate virtual environment for each project)
+for e.g:
+cd myproject
+pipenv install <library> //Pipenv will install the required library and create a Pipfile for you in your project’s directory 
+//create main.py and make use of library code 
+pipenv run python main.py //Using pipenv run ensures that your installed packages are available to your script.
+
+2)PDM for a modern Python package management tool inline with npm
+https://github.com/pdm-project/pdm  (PDM requires python version 3.7 or higher)
+ replacing virtual environments with __pypackages__ directory(inline with node_modules) for package installation
+ The packages installed inside __pypackages__ are OS dependent.
+ PDM makes the decision to put bin and include together with lib under __pypackages__/X.Y
+it is recommended to install pdm in an isolated environment with pipx:
+pipx install pdm
+Or you can install it under a user site:
+pip install --user pdm
+//Initialising a new project
+pdm init  #creates pyproject.toml
+pdm add requests flask  #installs dependencies in __pypackages__ folder, also pdm.lock file is created
+//create main.py and make use of library code 
+python main.py
+
+
