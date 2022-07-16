@@ -79,8 +79,8 @@ person2 = person  # similar to js object reference copy in js
 person3 = person.copy()
 
 print("is operator", person2 is person)  # compare only reference
-print("== operator reference", person2 == person)  # compare value/reference
-print("== operator value", person3 == person)  # compare value/reference
+print("== operator reference", person2 == person)  # compares reference
+print("== operator value", person3 == person)  # compares value
 
 # is
 if person2 is person:

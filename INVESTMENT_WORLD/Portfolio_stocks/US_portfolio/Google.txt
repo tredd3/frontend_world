@@ -15,26 +15,18 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
+  stock picking strategy:familiar with the product or industry
+  Normal check on stock price since inception - Normal
   legal orders(confirm from wiki) and tickertape
-  Recent News from tickertape
   corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Promoter holding : higher is the better
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+    Promoter holding/Insiders : 15%
+    Institutional ownership: 66%
+    Public : 18%
   promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: Yes/No
-  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
-  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
-     than any broker/analyst/investor)
-  any bulk or block deals (to discover price?
+  Is the business easy to understand or complex : complex
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) - sold more than they bought
 
 //Business check:
   screener pros and cons
@@ -53,102 +45,90 @@ Valuation :
 --Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
 --(Price to book value) - 5 (not an asset play)
 
-//non-current assets - <value>
--if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
-  decreases because people won't buy the company or value the company for the price at which u have bought
--intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
-  they also can loose value like crazy
--long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
-  u need to check notes to consolidated financial statements
+//non-current assets - 170k
+net block 110k
+Goodwill 22k
+long term investments 30k
 
-//Net current assets -<value>
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
--inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
-  but raw materials will not 
---check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
-  sell non current-assets to clear them or take loan (both are bad)
+//Net current assets - 120k 
 
-//shareholder Equity -<value>
---Check Equity CAGR from balance sheet equity section 
-   if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
-     (check share capital section where company might be doing buyback)
-   if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
-   if equity is increasing check ROE trend
+//shareholder Equity - 250K
+--Check Equity CAGR from balance sheet equity section : 14%
+   equity is increasing and ROE is increasing as well
 --Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
-  capital, u need to check EPS trend)
+ Sustainable:  cash flow from operations
 
-//non-current Liabilities - <value>
+//non-current Liabilities - 40k
 
 
-2)Profit and loss statement
---sales growth consistent and increasing?
---operating profit +ve  most of the time and growing?
---earnings quality check : core business vs other income contribution to profits over the years?
---interest expense >40-50% of operating profit?
---net income consistently +ve and growing? 
+2)Profit and loss statement: Good
   
-3)Cashflow statement
---operating cash flow must be atleast 70-80% of  operating profit 
---CFO +ve most of the time and growing?
---free cash flow consistently +ve and growing?
-Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
---use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
-//check cashflow from financing section
--- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
--- if equity is increasing?  (if yes EPS should also increase)
+3)Cashflow statement: superb
+--use of cash flow from operations: cash acquisitions, stock buyback, marketable securities
 
 4)Profitability Ratios Check:
---GPM(consistent and above 15%) trend - company has Pricing power 
---OPM(consistent and above 15%) trend - company has Efficient management 
---NPM(consistent and above 15%) trend - good profitability
-Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
---ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
---ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
+--GPM 57%
+--OPM 32%
+--NPM 27%
+--ROE increased from 16% to 30% 
+--ROCE increased from 16% to 30% 
 --check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
-if D/E > 0:
+if D/E > 0: 0.41 (increased over the years)
 check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
 if short term debt, then current assets > current liabilities?
 if long term debt is it increasing over the years?
-  Total debt: 
-  Cash:
+  Total debt: 28B
+  Cash: 133B
   operating profits/operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
 
 //Valuation check
-Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
-Price - is what people pay for the business
-Valuation is price compared to earnings 
-Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
- understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
- is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
---PEG: 
---DCF: 
---check tickertape and  morning star for valuation confirmation
-check Valuation_Check.txt
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation 100
+--PEG: 2
+--DCF: 15% CAGR returns, if PE 25 and 15% earnings CAGR
+--Fair value : 2300
 
 --------------------------- BUSINESS STRENGTH CHECK ---------------------------
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: business services
   What does it do: (what is the actual business): 
+    online advertising services in the United States, the United Kingdom, and rest of the world. It operates through Google and other subsidaries
+    Google Workspace that include cloud-based collaboration tools for enterprises, such as Gmail, Docs, Drive, Calendar, and Meet; and other services for enterprise customers. 
   How does it do :
+     R&D as a % of sales is 15, Google also spends money on sales and marketting
   Subsidaries/JVs:
-  Target Audience : 
-  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-    cannot be a multi bagger 
+  Alphabet subsidaries include : 
+    Google: includes principal Internet products, such as Search, Ads, Commerce, Maps, YouTube, Google Cloud, Android, 
+      Chrome, Google Play and hardware products
+     Access - Google lets you give third-party apps and services access to different parts of your Google Account
+       Google Fiber, which is part of access is currently on hold due to large capital requirements
+     Calico - company focused on "health R&D, well-being, and longevity"
+     Verily - research organization devoted to the study of life sciences
+     CapitalG - private equity firm under Alphabet Inc, it focuses on larger, growth-stage technology companies, and invests for 
+      profit rather than strategically for Google. When private/unlisted companies get listed via IPO Alphabet makes money by 
+      selling the shares
+     GV - venture capital investment arm of Alphabet Inc, GV seeks to invest in startup companies in a variety of fields ranging 
+        from the Internet, software, and hardware to life science, healthcare, artificial intelligence, transportation, 
+        cyber security and agriculture
+      Nest - Google Nest is a line of smart home electronic products including smart speakers, smart displays, streaming devices,
+       thermostats, smoke detectors, routers and security systems including smart doorbells, cameras and smart locks.
+      Waymo - self driving car project
+      X - R&D center for breakthrough technologies worked on by Google like Google glass, Fitbit, self driving car etc
+  Target Audience : businesses of all size
+  market size: huge
   market share: 
+    Search Hits - Global Market Share 91%
+    Digital Ad Spend - Global Marketshare 55%
+    Cloud Infra + Enterprise SaaS - 8%
   Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%
+  Globally competetive company: YES
+  REVENUE by GEOGRAPHY: US 46%, EMEA 31%, APAC 17% ,other americas 6%
   Revenue by Product: 
-  Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones):
+    Google Search - 60%
+    Youtube ads - 10%
+    GCloud - 10%
+    Others - 20%
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 

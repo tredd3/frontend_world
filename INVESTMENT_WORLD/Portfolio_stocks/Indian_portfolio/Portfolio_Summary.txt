@@ -5,7 +5,12 @@ MCX - 36% net profit loss in FY22
 
 //Category A - must buy in dips
 Alibaba - Technology and marketting place infra provider for China, strong balance sheet, CFO is used in cash acquisitions, equity
-   of other companies, stock buyback Just like berkshire hathaway
+   of other companies, stock buyback.  It is generating decremental returns on incremental capital
+   The company spends 20% of gross profit on R&D
+Adobe - CFO is used in cash acquisitions, stock buyback but unlike berkshire hathaway, there are doing at high prices
+     It is generating almost constant returns on incremental capital. The company spends 20% of gross profit on R&D
+Google - generating incremental returns on incremental capital, CFO is used in cash acquisitions, marketable secs, stock buyback
+     The company spends 30% of gross profit on R&D
 HUL, Britannia - strong brand, gained market share during COVID and have pricing power
 Asian paints - cash generated from paints business is reinvested in home furnishing sector
 IEX - using lower fee to woo customers and create network effect,

@@ -9,19 +9,22 @@ print(bin(x))
 
 # arthimetic operators : +,-,*,/,//,%,**
 # no increment/decrement operators
+# Python has a handy way of making big int's easier to read
+# 4000000000 can be written as 4_000_000_000
 
-x = 10/3
-print(x)  # u get float/decimal
+#Division and Modulus
+10 / 4  # classic division returns a float
+10 // 4  # floor division discards the fractional part
+10 % 4  # the % operator returns the remainder of the division
+divmod(10, 4)
 
-x = 10//3  # to get integer
-print(x)
 
 x = 2**3
 x = pow(2, 3)  # same as above
 
 PI = 3.14  # there is no const/let everything variable can be modified
 # by convention ALL CAPS variables are constants and shouldnt be modified
-print(round(PI))
+print(round(PI), 2)
 
 x = input('x:')
 # print(x+1) gives error bcoz python is a strongly typed language so no implicit type conversion
@@ -32,8 +35,7 @@ ans = 2022-birth_day
 print("your age is " + str(ans))
 # falsy values - "",[],0, None(like null)
 
-
-# Interactive mode (terminal)
+# In interactive mode, the last printed expression is assigned to the variable _.
 tax = 23
 price = 60
 price*tax  # this value is assigned to _ as no variablw is used

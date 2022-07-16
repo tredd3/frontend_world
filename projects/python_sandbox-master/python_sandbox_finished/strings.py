@@ -12,6 +12,11 @@ age = 37
 # name[0:]
 
 # escape characters - \\,\',\",\n
+'spam eggs'  # single quotes
+'doesn\'t'  # use \' to escape the single quote...
+"doesn't"  # ...or use double quotes instead
+'"Yes," they said.'
+"\"Yes,\" they said."
 # Concatenate
 print('Hello, \' my name is ' + name + ' and I am ' + str(age))
 
@@ -29,51 +34,66 @@ bbbl
 '''
 
 s = 'helloworld'
-# Capitalize string
-# This rerurns a new string and old string remains intact because it is immutable
-print(s.capitalize())
+# Methods rerurns a new string and old string remains intact because string is immutable data structure
 
+'''
+capitalize() Converts the first character to upper case
+casefold() Converts string into lower case
+center() Returns a centered string
+count() Returns the number of times a specified value occurs in a string
+encode() Returns an encoded version of the string
+endswith() Returns true if the string ends with the specified value
+expandtabs() Sets the tab size of the string
+find() Searches the string for a specified value and returns the position of where it was found
+format() Formats specified values in a string
+format_map() Formats specified values in a string
+index() Searches the string for a specified value and returns the position of where it was found
+isalnum() Returns True if all characters in the string are alphanumeric
+isalpha() Returns True if all characters in the string are in the alphabet
+isascii() Returns True if all characters in the string are ascii characters
+isdecimal() Returns True if all characters in the string are decimals
+isdigit() Returns True if all characters in the string are digits
+isidentifier() Returns True if the string is an identifier
+islower() Returns True if all characters in the string are lower case
+isnumeric() Returns True if all characters in the string are numeric
+isprintable() Returns True if all characters in the string are printable
+isspace() Returns True if all characters in the string are whitespaces
+istitle() Returns True if the string follows the rules of a title
+isupper() Returns True if all characters in the string are upper case
+join() Converts the elements of an iterable into a string
+ljust() Returns a left justified version of the string
+lower() Converts a string into lower case
+lstrip() Returns a left trim version of the string
+maketrans() Returns a translation table to be used in translations
+partition() Returns a tuple where the string is parted into three parts
+replace() Returns a string where a specified value is replaced with a specified value
+rfind()	 Searches the string for a specified value and returns the last position of where it was found
+rindex() Searches the string for a specified value and returns the last position of where it was found
+rjust() Returns a right justified version of the string
+rpartition() Returns a tuple where the string is parted into three parts
+rsplit() Splits the string at the specified separator, and returns a list
+rstrip() Returns a right trim version of the string
+split() Splits the string at the specified separator, and returns a list
+splitlines() Splits the string at line breaks and returns a list
+startswith() Returns true if the string starts with the specified value
+strip() Returns a trimmed version of the string
+swapcase() Swaps cases, lower case becomes upper case and vice versa
+title() Converts the first character of each word to upper case
+translate() Returns a translated string
+upper() Converts a string into upper case
+zfill() Fills the string with a specified number of 0 values at the beginning
+'''
 
-# Make all uppercase
-print(s.upper())
-
-# Make all lower
-print(s.lower())
-
-# Swap case
-print(s.swapcase())
-
-# Get length
-print(len(s))
 
 # Replace
 print(s.replace('world', 'everyone'))
-
-# Count
-sub = 'h'
-print(s.count(sub))
-
-# Starts with
-print(s.startswith('hello'))
-
-# Ends with
-print(s.endswith('d'))
-
-# Split into a list
-print(s.split())
-
 # Find position
 print(s.find('h'))  # returns an index
 print('hello' in s)  # returns a boolean
-
+# Get length
+print(len(s))
 # Is all alphanumeric
 print(s.isalnum())
-
-# Is all alphabetic
-print(s.isalpha())
-
-# Is all numeric
-print(s.isnumeric())
 
 # muliple lines
 message = """

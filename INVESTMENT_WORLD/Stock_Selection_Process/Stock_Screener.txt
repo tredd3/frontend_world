@@ -23,7 +23,6 @@ Valuation :
     prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
     the share price naturally like Adani once did)
   legal orders(confirm from wiki) and tickertape
-  Recent News from tickertape
   corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
     Promoter holding : higher is the better
@@ -145,7 +144,7 @@ know about the company:
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%
+  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
   Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):

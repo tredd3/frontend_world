@@ -10,8 +10,9 @@
 # print(dir(int))
 
 class Employee:
-    def __init__(self):
-        self.name = 'Swati'
+    # We pass the methods instance object in the first argument , same as this keyword in js but we access this without passing explicitly
+    def __init__(self, name):
+        self.name = name
         self.salary = 100
 
     def __str__(self):
@@ -21,14 +22,15 @@ class Employee:
         print("the last reference to the object is destructed")
 
 
-e1 = Employee()
+e1 = Employee('Swati')
 # stringified version of employee object is printed as defined in __str__method
 print(str(e1))
 del e1  # destructor is called
 
 
 def test_emp():
-    e2 = Employee()
+    e2 = Employee('harsha')
+    print(dir(e2))
     print(e2.__dict__)
 
 
@@ -56,26 +58,33 @@ class User:
 
 # Inheritance
 class Customer(User):  # User class is the base class here
-    # Constructor
+    # Constructor  - removing this constructor call will include all parent properties in the Customer instance
     def __init__(self, name, email, age):
-        self.name = name
-        self.email = email
-        self.age = age
-        self.balance = 0
+        # removing this parent constructor call will NOT include all parent properties in the Customer instance
+        User.__init__(self, name, email, age)
+        self.balance = 20
 
     def set_balance(self, balance):
         self.balance = balance
 
     def greeting(self):
+        print(User.greeting(self))
         return f'My name is {self.name} and I am {self.age} and my balance is {self.balance}'
 
+
+class RepeatCustomer(User):  # User class is the base class here
+    pass  # no methods  specfic to RepeatCustomer class, however u can add properties via code
+
+
+testUser = RepeatCustomer('t', 'email', 56)
+testUser.a = 90  # u can add property on the object directly
 
 #  Init user object
 brad = User('Brad Traversy', 'brad@gmail.com', 37)
 # Init customer object
 janet = Customer('Janet Johnson', 'janet@yahoo.com', 25)
 
-janet.set_balance(500)
+# janet.set_balance(500)
 print(janet.__dict__)  # to print all the methods and properties of the object
 
 brad.has_birthday()
@@ -85,21 +94,32 @@ print(brad.__dict__)
 class MyClass:
     # constructor is not needed for initialising properties
     # acts as a private variable as name is changed during runtime and hence can't be accessed as a property
-    __hiddenVar = 100
-    x = 124
+    __hiddenVar = 105
+    x = 124  # hardcoding properties (no need of constructor)
 
     def add(self, increment):
-        z = 90
+        z = 90  # z is local with in a function , not a property of the instance
         self.y = 9
         self.__hiddenVar += increment
+        self.__age = 90  # private variable just like __hiddenVar
         print(self.__hiddenVar)
         # you cannot access as print(x) as x is treated as object property as it is defined outside of the function
         print(self.x)
         print(z)  # z is local to add method, hence can be accessed without self
 
+    def show_age(self):
+        return self.__get_age()
+
+    def __get_age(self):  # private method
+        return self.__age
+
 
 myObject = MyClass()
-myObject.add(3)
 print(myObject.x)
+myObject.add(3)
 # variable name is changed during runtime and hence can't be accessed
-print(myObject.__hiddenVar)
+# print(myObject.__age)
+print(myObject.show_age())  # => 25
+
+
+# object oriented python

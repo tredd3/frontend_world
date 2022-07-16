@@ -1,0 +1,43 @@
+//Local (per project) install
+Virtual Environment : An isolated Python environment that allows packages to be installed for use by a particular application in a 
+  isolated location rather than being installed system wide.
+Virtual Environments have their own installation directories and they don’t share libraries with other virtual environments.
+
+1)creating virtual environment using venv (ensures pip and setuptools are installed into created virtual environments)
+python3 -m venv <DIR>
+source <DIR>/bin/activate
+e.g:
+python3 -m venv tutorial_env
+source tutorial_env/bin/activate
+This will create a new virtual environment in the tutorial_env subdirectory, and configure the current shell to use it as the 
+  default python environment.
+ 
+//Managing multiple virtual environments (using Pipenv)
+https://packaging.python.org/en/latest/tutorials/managing-dependencies/
+https://docs.python-guide.org/dev/virtualenvs/ (search for virtualenvwrapper for simplicity)
+1)Pipenv is a dependency manager for Python projects, similar to npm (node)
+Pipenv is a project that aims to bring the best of all packaging worlds to the Python world. It harnesses Pipfile, pip, and 
+   virtualenv into one single toolchain. It features very pretty terminal colors.
+Pipfile(like package.json) and its sister Pipfile.lock are a higher-level application-centric alternative to pip’s lower-level 
+  requirements.txt file.
+Pipenv manages dependencies on a per-project basis (separate virtual environment for each project)
+for e.g:
+cd myproject
+pipenv install <library> //Pipenv will install the required library and create a Pipfile for you in your project’s directory 
+//create main.py and make use of library code 
+pipenv run python main.py //Using pipenv run ensures that your installed packages are available to your script.
+
+2)PDM for a modern Python package management tool inline with npm
+https://github.com/pdm-project/pdm  (PDM requires python version 3.7 or higher)
+ replacing virtual environments with __pypackages__ directory(inline with node_modules) for package installation
+ The packages installed inside __pypackages__ are OS dependent.
+ PDM makes the decision to put bin and include together with lib under __pypackages__/X.Y
+it is recommended to install pdm in an isolated environment with pipx:
+pipx install pdm
+Or you can install it under a user site:
+pip install --user pdm
+//Initialising a new project
+pdm init  #creates pyproject.toml
+pdm add requests flask  #installs dependencies in __pypackages__ folder, also pdm.lock file is created
+//create main.py and make use of library code 
+python main.py

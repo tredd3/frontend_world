@@ -2,7 +2,7 @@
 #  There are core python modules, modules you can install using the pip package manager
 #  (including Django) as well as custom modules
 
-# Core modules
+# Core modules https://docs.python.org/3/library/
 import time
 from time import time
 

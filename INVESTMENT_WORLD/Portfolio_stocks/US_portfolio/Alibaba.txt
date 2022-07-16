@@ -57,11 +57,9 @@ Valuation :
 
 //shareholder Equity - 169K
 --Check Equity CAGR from balance sheet equity section : 26%
-   equity is increasing check ROE trend
+   equity is increasing but ROE is decreasing
 --Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
- Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
-  capital, u need to check EPS trend)
+ Sustainable:  cash flow from operations
 
 //non-current Liabilities - 35K(very little increase in last 5 yrs)
 
@@ -83,9 +81,9 @@ Note: if NPM is less then check Asset turnover ratio, if both are less than ROE 
 BABA's operating cash flow ($21.34B) is sufficient to service the company's debt ($21.13B)
 
 //Valuation check
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 3 (with 80B FCF)
 --PEG: 0.85
---DCF: 
+--DCF: 30% CAGR in the worst case, 50%+ in the best case
 --check tickertape and  morning star for valuation confirmation
 check Valuation_Check.txt
 
