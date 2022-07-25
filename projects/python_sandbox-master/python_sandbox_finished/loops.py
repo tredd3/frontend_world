@@ -44,10 +44,17 @@ for i in range(1, 11):  # 1 is included and 11 is excluded
 
 # While loops execute a set of statements as long as a condition is true.
 
-count = 0
-while count < 10:
-    print(f'Count: {count}')
-    count += 1
+
+def loop():
+    count = 0
+    while count < 10:
+        x = 90
+        print(f'Count: {count}')
+        count += 1
+    print(x)  # it will print x because all variables in python are function scoped and not block scoped
+
+
+loop()
 
 answer = 0
 # while else

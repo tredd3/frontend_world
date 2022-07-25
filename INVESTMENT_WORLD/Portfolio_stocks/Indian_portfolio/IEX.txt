@@ -141,6 +141,8 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis:
+86% PPA
+14% Short term (7% exchanges like IEX)
 //STAGE of development: growth
 //Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
 at profitable end of value chain), demand and supply (size of opportunity)

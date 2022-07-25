@@ -1,0 +1,26 @@
+//Name space packages
+https://packaging.python.org/en/latest/guides/packaging-namespace-packages/
+Namespace packages allow you to split the sub-packages and modules within a single package across multiple, separate distribution
+ packages (i.e each sub-package/module can be present in a random directory)
+
+//Import hooks
+There are two types of import hooks: Meta hooks and Path hooks. 
+1)Meta hooks are called at the start of import processing,before any other import processing (so that meta hooks can override 
+sys.path processing, frozen modules, or even built-in modules). To register a meta hook, simply add the finder object to sys.meta_path (the list of registered meta hooks).
+2)Path hooks are called as part of sys.path (or package.__path__) processing, at the point where their associated path item is 
+ encountered. A path hook is registered by adding an importer factory to sys.path_hooks.
+sys.path_hooks is a list of callables, which will be checked in sequence to determine if they can handle a given path item.
+The callable is called with one argument, the path item. The callable must raise ImportError if it is unable to handle the path
+ item, and return an importer object if it can handle the path item. Note that if the callable returns an importer object 
+ for a specific sys.path entry, the builtin import machinery will not be invoked to handle that entry any longer, even 
+ if the importer object later fails to find a specific module. The callable is typically the class of the import hook, and hence 
+ the class __init__() method is called. (This is also the reason why it should raise ImportError: an __init__() method can’t 
+ return anything. This would be possible with a __new__() method in a new style class, but we don’t want to require anything 
+ about how a hook is implemented.)
+
+The results of path hook checks are cached in sys.path_importer_cache, which is a dictionary mapping path entries to importer objects.
+ The cache is checked before sys.path_hooks is scanned. If it is necessary to force a rescan of sys.path_hooks, it is possible
+ to manually clear all or part of sys.path_importer_cache.
+
+sys.meta_path and sys.path_hooks must be Python lists.
+sys.path_importer_cache must be a Python dict.

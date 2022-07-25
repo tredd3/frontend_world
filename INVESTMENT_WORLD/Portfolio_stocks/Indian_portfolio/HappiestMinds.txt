@@ -77,7 +77,7 @@ Valuation :
  //Valuation check
 --EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 87
 --PEG: 0.58
---DCF: fair valuation if PE is 40 after 10yrs
+--DCF: fair valuation if PE is 40 after 10yrs and earnings CAGR is 20%
 --check tickertape and  morning star for valuation confirmation : 961 fair value (815 current value)
 check Valuation_Check.txt
 

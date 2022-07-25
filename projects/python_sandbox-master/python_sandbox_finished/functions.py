@@ -1,18 +1,30 @@
 # A function is a block of code which only runs when it is called. In Python, we do not use curly brackets, we use indentation with tabs or spaces
 
-# Create function
-def sayHello(name='Sam'):
-    print(f'Hello {name}')
+print(dir(__builtins__))  # prints all the builtin functions
 
 
-print(sayHello())  # bydefault functions return None
+# adding docstring to sum function. Docstring is a multiline string that should start with Capital Letter and end with .
+# __doc__ is used to access docstring on a function
 
 
 def getSum(num1, num2):
+    '''
+    Prints the sum of 2 numbers
+
+    Preconditions: num1 and num2 must be numbers 
+
+    Parameters: 2 numbers
+
+    Returns: sum of those 2 numbers.
+    '''
+
+    # calculating sum
     total = num1 - num2
     return total
 
 
+print(help(getSum))
+print(getSum.__doc__)  # prints the docstring or what a function does
 print(getSum(3, 10))
 print(getSum(3, num2=10))  # num2 is called keyword arguments (name=value)
 # when using a mix of positional and keyword arguments, always use positional args prior to keyword args

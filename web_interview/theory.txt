@@ -1,0 +1,34 @@
+//basics
+responsive web design
+null vs undefined
+immutability in js - string char update, array element update
+cookies - how to restrict reading from js?
+prototype //__proto__
+is js synchronous or asynchronous //diff between them and how js handles asynchronous code
+Ans: eventloop working //cpu intensive tasks block ui - use  web workers
+
+
+//Events
+There are three phases in a JavaScript event,
+Capture Phase: Event propagates starting from ancestors towards the parent of the target. Propagation starts from Window object.
+Target Phase: The event reaches the target element or the element which started the event.
+Bubble Phase: This is the reverse of capture.
+
+target vs currenttarget
+target refers to the DOM element that triggers an event. 
+currentTarget refers to the DOM element that the event listener is listening on.
+<section> //click handler
+  <div> //click handler
+     <span> //click event 
+     <span>
+  </div>
+</section>
+
+infinite scroll - throttle
+user search on every key  - debounce
+
+//React
+virtualisation
+redux vs contex API
+Hooks allow you to reuse stateful logic without changing your component hierarchy
+Hooks helps u in bringing class concepts to functional components - life cycle methods, state logic etc

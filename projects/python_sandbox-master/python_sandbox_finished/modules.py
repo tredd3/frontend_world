@@ -33,6 +33,8 @@ print(utils.__package__)  # utils module belongs to which pacakge
 
 # to find out module contents - i.e names a module defines. It returns a sorted list of strings:
 print(dir(validator))
+# to know everthing about module and its contents, with description
+print(help(time))
 print(validator.__file__)  # to know the location of module
 print(validator.re, type(validator.re))
 print(validator.User, type(validator.User))

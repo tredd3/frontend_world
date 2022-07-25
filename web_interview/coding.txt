@@ -1,0 +1,49 @@
+Closures in JavaScript are a feature where an inner function has access to the outer function’s variables.
+https://jsitor.com/3c9T0QMAG - js playground
+#everytime 
+for (var i = 0; i < 3; i++) {
+  setTimeout(function log() {
+    console.log(i); // What is logged?
+  }, 1000);
+}
+
+function outer_func()
+
+{
+
+    var b =10;
+
+    function inner_func(){
+
+        var a =20;
+        console.log(a)
+       // console.log(a+b);
+
+    }
+
+    return inner;
+
+}
+
+var x=outer_func()
+
+//var Hoisting and function scope, let (block scope)
+# 1 and 0 gets logged
+let count = 0;
+(function immediate() {
+  if (count === 0) {
+    let count = 1;
+    console.log(count); // What is logged?
+  }
+  console.log(count); // What is logged?
+})();
+
+#only one undefined
+let count = 0;
+(function immediate() {
+  if (count === 0) {
+    var count = 1;
+    console.log(count); // What is logged?
+  }
+  console.log(count); // What is logged?
+})();

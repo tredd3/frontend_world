@@ -58,11 +58,32 @@ class User:
 
 # Inheritance
 class Customer(User):  # User class is the base class here
-    # Constructor  - removing this constructor call will include all parent properties in the Customer instance
+    '''
+        This is the doc string for init method
+        __new__ method will be called when an object is created
+        _init__ method will be called to initialize the object
+
+        In the base class "object", the __new__ method is defined as a static method which requires to pass a parameter cls
+        cls represents the class that is needed to be instantiated, and the compiler automatically provides this parameter at the time of instantiation.
+    '''
+
+    def __new__(cls, *args, **kwargs):
+        print("instantiated")
+        # should return someting else __init__ will not be called
+        return super(Customer, cls).__new__(cls)
+        # return object.__new__(cls, *args, **kwargs)
+        # Constructor  - removing this constructor call will include all parent properties in the Customer instance
+
     def __init__(self, name, email, age):
+        '''
+        _init__ method will be called to initialize the object
+        self value is the return value of __new__ method
+        '''
+
         # removing this parent constructor call will NOT include all parent properties in the Customer instance
         User.__init__(self, name, email, age)
         self.balance = 20
+        # shouldn't return anything
 
     def set_balance(self, balance):
         self.balance = balance
@@ -78,14 +99,21 @@ class RepeatCustomer(User):  # User class is the base class here
 
 testUser = RepeatCustomer('t', 'email', 56)
 testUser.a = 90  # u can add property on the object directly
-
+print(isinstance(testUser, RepeatCustomer))
+print(hasattr(testUser, 'name'))
+print(dir(User))
+print(testUser.__dict__)
 #  Init user object
 brad = User('Brad Traversy', 'brad@gmail.com', 37)
 # Init customer object
 janet = Customer('Janet Johnson', 'janet@yahoo.com', 25)
 
+# calling a method standalone on a different instance of a class
+print(User.greeting(testUser))
+print(User.greeting.__doc__)
+print(help(Customer))
 # janet.set_balance(500)
-print(janet.__dict__)  # to print all the methods and properties of the object
+print(janet.__dict__)  # to print all the methods of the object
 
 brad.has_birthday()
 print(brad.__dict__)

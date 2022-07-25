@@ -11,8 +11,9 @@ can be single or double quotes
 """
 VARIABLE RULES:
   - Variable names are case sensitive (name and NAME are different variables)
-  - Must start with a letter or an underscore
+  - Must start with a letter or an underscore 
   - Can have numbers but can not start with one
+  - no reserve keywords allowed
 """
 
 # no semicolons and no variable types
@@ -60,7 +61,9 @@ print(type(x), x, id(x))
 # global variables - file scope
 # local variables - function scope - no block scoping
 
-message = "hey"  # global variable
+message = "hey"  # global variable that can be changed
+# global variable that shouldn't be changed (even though u can as python doesn't throw error)
+MESSAGE = "hey"
 
 
 def greet():

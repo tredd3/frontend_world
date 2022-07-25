@@ -17,10 +17,12 @@ print(bin(x))
 10 // 4  # floor division discards the fractional part
 10 % 4  # the % operator returns the remainder of the division
 divmod(10, 4)
+print(2--3)  # 5 2-(-3)
+print(2++3)  # 5
+print(2**3)  # 8
 
-
-x = 2**3
-x = pow(2, 3)  # same as above
+x = 2**3  # prints integer
+x = pow(2, 3)  # same as above but if u use math.pow() it prints float
 
 PI = 3.14  # there is no const/let everything variable can be modified
 # by convention ALL CAPS variables are constants and shouldnt be modified

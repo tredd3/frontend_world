@@ -49,6 +49,10 @@ import math
 math.sqrt(-10)  # gives u ValueError
 
 
+def static():
+    return "test"
+
+
 def num_stats(x):
     if x is not int:
         raise TypeError('Work with Numbers Only')
@@ -63,6 +67,7 @@ name = 'Imtiaz Abedin'
 try:
     # Write the suspicious block of code
     print(name[15])
+    assert static() == 'Test'  # gives assertion error
 except AssertionError:  # Catch a single exception
     # This block will be executed if exception A is caught
     print('AssertionError')

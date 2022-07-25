@@ -1,0 +1,22 @@
+NumPy (Numerical Python)
+
+//Why Numpy?
+NumPy gives you an enormous range of fast and efficient ways of creating arrays and manipulating numerical data inside them.
+NumPy uses much less memory to store data and it provides a mechanism of specifying the data types. This allows the code to be optimized even further.
+While a Python list can contain different data types within a single list, all of the elements in a NumPy array should be homogeneous.
+The mathematical operations that are meant to be performed on arrays would be extremely inefficient if the arrays weren’t homogeneous.
+
+//Why numpy is fast?
+Vectorization describes the absence of any explicit looping, indexing, etc., in the code - these things are taking place, of course,
+ just “behind the scenes” in optimized, pre-compiled C code.
+Broadcasting is the term used to describe the implicit element-by-element behavior of operations; generally speaking, in NumPy 
+  all operations, not just arithmetic operations, but logical, bit-wise, functional, etc., behave in this implicit element-by-element
+  fashion, i.e., they broadcas
+
+//There are several important differences between NumPy arrays and the standard Python sequences:
+NumPy arrays have a fixed size at creation, unlike Python lists (which can grow dynamically). Changing the size of an ndarray will 
+  create a new array and delete the original.
+NumPy arrays facilitate advanced mathematical and other types of operations on large numbers of data. Typically, such operations 
+  are executed more efficiently and with less code than is possible using Python’s built-in sequences.
+A growing plethora of scientific and mathematical Python-based packages are using NumPy arrays
+

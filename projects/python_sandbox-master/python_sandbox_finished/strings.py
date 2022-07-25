@@ -10,6 +10,9 @@ age = 37
 # name[0:3]
 # name[:3]
 # name[0:]
+x = 'asasasas'  # x[::2] aaaa
+x = 'asasasas'  # x[1::3] sas
+# x[::2] prints all alternate letters as a string ()
 
 # escape characters - \\,\',\",\n
 'spam eggs'  # single quotes

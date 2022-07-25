@@ -109,13 +109,13 @@ Note: if NPM is less then check Asset turnover ratio, if both are less than ROE 
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
 --check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
-if D/E > 0:
+if Debt > 0:
 check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
 if short term debt, then current assets > current liabilities?
 if long term debt is it increasing over the years?
   Total debt: 
   Cash:
-  operating profits/operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
+  operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
 
 //Valuation check
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
@@ -415,7 +415,11 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
-  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
   -prefer non commoditized business - if commoditized the it must be a low cost producer
@@ -425,14 +429,10 @@ i.e both ROCE and capital is increasing
   -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
   -proxy play on some capital intensive/debt heavy/lousy industry ? 
   -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
-   Environmental: does the process/products cause any kind of pollution
-   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
-   Governance: Superior Management and board of directors
-  -Scalable business model - globally preferred (mutibagger are made because of this property)
   -Company having calibre or potential to adapt to the changing business environment - having said that invest 
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
   -If a person has lot of money can he break ur business and take away marketshare?
   -Ideal business always takes little amount of capital to operate and an excellent business always

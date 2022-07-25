@@ -1,16 +1,4 @@
-//FY22
-Relaxo - loss in FY22
-MCX - 36% net profit loss in FY22
-
-
 //Category A - must buy in dips
-Alibaba - Technology and marketting place infra provider for China, strong balance sheet, CFO is used in cash acquisitions, equity
-   of other companies, stock buyback.  It is generating decremental returns on incremental capital
-   The company spends 20% of gross profit on R&D
-Adobe - CFO is used in cash acquisitions, stock buyback but unlike berkshire hathaway, there are doing at high prices
-     It is generating almost constant returns on incremental capital. The company spends 20% of gross profit on R&D
-Google - generating incremental returns on incremental capital, CFO is used in cash acquisitions, marketable secs, stock buyback
-     The company spends 30% of gross profit on R&D
 HUL, Britannia - strong brand, gained market share during COVID and have pricing power
 Asian paints - cash generated from paints business is reinvested in home furnishing sector
 IEX - using lower fee to woo customers and create network effect,
@@ -27,6 +15,7 @@ SBI LIFE -
 HDFC LIFE - 
 ICICI PRUD -
 
+
 //Category B - eligible for capital infusion but needs close observation on business and financial performance
 Borosil Renewables - macroeconomic oppurtunity both in india and europe, but no pricing power as prices are decided globally
 IDFC First Bank - turnaround with strong management, infra debt slowly decreasing, innovative products like BNPL, monthly interest
@@ -39,6 +28,8 @@ CAMS  - over the years MF transaction will only increase , SIP amount will incre
        transaction amount
 CRISIL - high valuations, repeat and fixed customers
 
+
+
 //Category C - stop further infusion of money
 GLS - Level 2 screening
 Relaxo - target the low end customers (where other players won't enter bcoz of low revenues and high costs)
@@ -46,14 +37,11 @@ Relaxo - target the low end customers (where other players won't enter bcoz of l
 Windlas - bad financials and present in highly competettive industry - finacials needs monitoring 
 NYKAA - very high valuations
 page industries - dividend play + very high valuations (Level 2 screening to check growth and future plans)
-Netflix - net debt 9B, CFO 1B (CFO growth needs to be monitored), financials are improving since last 4 yrs and company is coming up
-   with new monetisation plans (keep an eye)
 
 //Eliminated
 Radico - ESG concerns won't bring in much funds , institutional holding is already high and states control everything from production
    to prices, taxes etc - they can ban liquor anytime they want
 IRCTC - no pricing power , Puppet in the hands of Railways (ok for a short term buy if valuations improve)
-Paypal - All equity is spent on acquisitions at higher cost - subsidaries must perform
 TTK Prestige - good balance sheet, but Avg ROE(15%) and NPM (10%) - weaker economics (only few products of Prestige has
   brand loyalty + replacement time is high and target audience reduces to poulation/5, i.e families)
 MTAR - equity grwth is zero and ROE is less, bargaining power of consumers exists bcoz of the limited clients, B2B
@@ -62,5 +50,3 @@ MCX - cyclical and completely unpredictable , no growth opputunities as it is al
    ZERO pricing power as SEBI and Govt interferes
 CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
        lower end of value chain, SEBI controls the pricing. Better to play with consumption rather than investing of individuals
-Disney - cash flow used for debt repayment, interest repayment and upgradation capex and  very bad financials and ratios 
-  for last 4 yrs meaning it is not inflation/recession proof
