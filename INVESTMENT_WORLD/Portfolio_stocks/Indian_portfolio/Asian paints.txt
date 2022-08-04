@@ -15,25 +15,18 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
+  stock picking strategy: cloning
   legal orders(confirm from wiki) and tickertape
   Recent News from tickertape
   corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Promoter holding : higher is the better
-    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+    Promoter holding : 52%
+    Institutional ownership: 22%
+    Others: 26%
   promoter pledging
-  Is the business easy to understand or complex : easy/complex
-  circle of competence: Yes/No
-  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
-  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
-     than any broker/analyst/investor)
+  Is the business easy to understand or complex : easy
+  circle of competence: Yes
+  any recent insider buying (bse india > disclosures > insider trading) 
   any bulk or block deals (to discover price?
 
 //Business check:
@@ -42,7 +35,7 @@ Valuation :
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 
     if NO, go and open their website, check public review in ecommerce or google search
-  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - AAA
   can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?

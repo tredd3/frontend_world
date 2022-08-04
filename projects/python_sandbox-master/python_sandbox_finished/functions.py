@@ -1,7 +1,5 @@
 # A function is a block of code which only runs when it is called. In Python, we do not use curly brackets, we use indentation with tabs or spaces
 
-print(dir(__builtins__))  # prints all the builtin functions
-
 
 # adding docstring to sum function. Docstring is a multiline string that should start with Capital Letter and end with .
 # __doc__ is used to access docstring on a function
@@ -17,38 +15,45 @@ def getSum(num1, num2):
 
     Returns: sum of those 2 numbers.
     '''
+    print(locals())  # only includes local variables in dict format
+    print('seprator')
+    print(globals())  # only includes global variables in dict format
 
     # calculating sum
     total = num1 - num2
     return total
 
 
-print(help(getSum))
 print(getSum.__doc__)  # prints the docstring or what a function does
 print(getSum(3, 10))
-print(getSum(3, num2=10))  # num2 is called keyword arguments (name=value)
+# print(getSum(3, num2=10))  # num2 is called keyword arguments (name=value)
 # when using a mix of positional and keyword arguments, always use positional args prior to keyword args
 # print(getSum(num1=3, 10)) #SyntaxError: positional argument follows keyword argument
 print(getSum(num1=13, num2=10))
 # keyword arguments don't have to be assigned in a sequence
 print(getSum(num2=13, num1=10))
 
-# variable number of arguments
 
-
-def multiply(*args):  # args is a tuple
+def multiply(*args):  # args is a tuple, handling variable number of arguments
     total = 1
     for num in args:
         total *= num
+    # prints the global object and its values at this point in time, meaning any thing that is written after multiply() will not be included
+    print(globals())
     return total
     # return total, 8 #it reurns a tuple (total,8)
 
 
+# here globals will include evrything till multiply function (why?: no hoisting concept)
 print(multiply(1, 2, 3, 4, 5, 6, 7))
 
 
 def user_pref(**user):  # user here is a dictionary
     print(user)
+
+
+# here globals will include evrything till multiply function + user_pref
+print(multiply(1, 2, 3, 4, 5, 6, 7))
 
 
 print(user_pref(id=1, name='tarak'))  # keyword  arguments
@@ -128,3 +133,6 @@ combined_example(2, standard=2, kwd_only=2)
 
 # point_tuple = (0, 0)
 # point_tuple = (0, 123)
+
+# always better to define globals at the end of the file to capture all the values , function, classes etc in a file
+print(globals())

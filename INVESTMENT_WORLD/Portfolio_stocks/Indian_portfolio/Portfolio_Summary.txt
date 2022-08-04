@@ -1,19 +1,32 @@
 //Category A - must buy in dips
-HUL, Britannia - strong brand, gained market share during COVID and have pricing power
-Asian paints - cash generated from paints business is reinvested in home furnishing sector
-IEX - using lower fee to woo customers and create network effect,
-Indiamart - using lower fee to woo customers and create network effect, generate cash and reinvest in companies creating digital
-   ecosystem for MSME
+HUL - market share gain during COVID + have pricing power, CFO used in dividends, decreasing ROCE on incremental capital,
+  globally competettive - No
+Britannia - market share gain during COVID + have pricing power, CFO used in dividends, decreasing ROCE on incremental capital, 
+  globally competettive - No
 ITC - tobacco leader, with diversification in to FMCG, Agri commodities etc 
     - 4% dividend yield with PE of 24 (chance of dividend increase and capital appreciation)
     - fairly valued according to DCF 
+    - CFO used in dividends, decreasing ROCE on incremental capital,
+Divis Lab - CFO used in capex and dividends, 25% constant ROCE on incremental capital,  globally competettive - Yes
+Page Industries - CFO used in dividends, 60% constant ROCE on incremental capital, globally competettive - No, Unorganised player
+  market share capture
+Deepak Nitrite - CFO used in Capex, Increasing ROCE on incremental capital, globally competettive - Yes
+Asian paints - CFO used in capex and dividends, decreasing ROCE on incremental capital, globally competettive - Yes, Credit Rating : AAA
+ cash generated from paints business is reinvested in home furnishing sector, pricing power + market share gain during COVID
+IEX - using lower fee to woo customers and create network effect, high operating leverage, globally competettive - No
+Indiamart - using lower fee to woo customers and create network effect, generate cash and reinvest in companies creating digital
+   ecosystem for MSME, globally competettive - No, CFO used in short term investments, constant returns on incremental capital
 LTTS - Global expansion scope, niche industry of ER&D, Top clients, proxy play on capex heavy industries
        asset light business model, strong balance sheet
+       globally competettive - Yes, CFO used in short term investments, 30% constant ROCE on incremental capital
 CLEAN - B2B but one of the best chemical companies out there
 TITAN - jewellery business generates cash and that is reinvested in other businesses, ROCE on incremental capital is 30%
-SBI LIFE - 
-HDFC LIFE - 
-ICICI PRUD -
+  globally competettive - No, CFO used in capex and dividends
+Bajaj Finance - globally competettive - No
+HDFC Bank - globally competettive - No
+SBI LIFE -  globally competettive - No, CFO used in investments
+HDFC LIFE -  globally competettive - No,  CFO used in investments
+ICICI PRUD -  globally competettive - No,  CFO used in investments
 
 
 //Category B - eligible for capital infusion but needs close observation on business and financial performance
@@ -22,21 +35,19 @@ IDFC First Bank - turnaround with strong management, infra debt slowly decreasin
 MapmyIndia - macroeconomic oppurtunity with first mover advantage
 Happiest Minds - niche IT services, low institutional ownership , strong promoter but limited pricing power because of high
   competettion, financials improved in the last 3yrs(during covid times) and valuation is bit high
-CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
-       but pricing power is not in hands of CAMS and revenue model is volume based pricing, also the rate at which revenues
-       will grow is also lower because CAMS is a the lower end of value chain and earns very little amount(0.0001%) of the 
-       transaction amount
-CRISIL - high valuations, repeat and fixed customers
-
-
+Moldtek - CFO used in capex, 25% constant ROCE on incremental capital, globally competettive - No, Credit Rating :  A+
+ strong clients and oppurtunity for market share gain
+Galaxy surfactants - CFO used in capex, divdends | 25% constant ROCE on incremental capital, globally competettive - Yes, Credit Rating : AA-
+GMM - CFO used in capex, 22% constant ROCE on incremental capital, globally competettive - Yes, Credit Rating : AA-
+CRISIL - high valuations, repeat and fixed customers, CFO used in dividends, decreasing ROCE on incremental capital, 
+  globally competettive - Yes
 
 //Category C - stop further infusion of money
 GLS - Level 2 screening
 Relaxo - target the low end customers (where other players won't enter bcoz of low revenues and high costs)
         but PEG is 7.33 extremely high valuations
-Windlas - bad financials and present in highly competettive industry - finacials needs monitoring 
 NYKAA - very high valuations
-page industries - dividend play + very high valuations (Level 2 screening to check growth and future plans)
+Dmart - 15% constant ROCE on incremental capital, use of CFO towards capex(new stores)
 
 //Eliminated
 Radico - ESG concerns won't bring in much funds , institutional holding is already high and states control everything from production
@@ -50,3 +61,7 @@ MCX - cyclical and completely unpredictable , no growth opputunities as it is al
    ZERO pricing power as SEBI and Govt interferes
 CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
        lower end of value chain, SEBI controls the pricing. Better to play with consumption rather than investing of individuals
+CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
+       but pricing power is not in hands of CAMS and revenue model is volume based pricing, also the rate at which revenues
+       will grow is also lower because CAMS is a the lower end of value chain and earns very little amount(0.0001%) of the 
+       transaction amount

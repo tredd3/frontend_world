@@ -91,60 +91,9 @@ United health group - largest insurance company by net premiums in US + health c
 IYH
 
 
-//Using debt to buyback shares and atleast 5 yrs needed to clear the debt
-Domino's Pizza : 
-GPM 38%, OPM 18% , NPM 11%, ROCE 73%, ROE -11% (earnings grown faster than industry)
-McDonald: 
-GPM 55%, OPM 41% , NPM 30%, ROCE 21%, ROE -128%
-Yum Brands(KFC, Pizzahut, Taco bell): 
-GPM 48%, OPM 33% , NPM 24.8%, ROCE 48%, ROE -20%
-
-//Good non-growth
-Hershey Company : American multinational company and one of the largest chocolate manufacturers in the world. It also manufactures baked products, such as cookies and cakes, and sells beverages like milkshakes, and many more that are produced globally.
-GPM 45%, OPM 22% , NPM 17%, ROCE 61%, ROE 25%
-Cococola:
-GPM 60%, OPM 35% , NPM 25%, ROCE 20%, ROE 44%
-Pepsico : 
-GPM 53%, OPM 16% , NPM 11%, ROCE 20%, ROE 53%
-Canadian National Railway Company - world-class transportation leader and trade-enabler
-  CN safely transports more than 300 million tons of natural resources, manufactured products, and finished goods throughout North America every year
-  As the only railroad connecting Canada's Eastern and Western coasts with the U.S. South through a 19,500-mile rail network
-GPM 41%, OPM 46% , NPM 33%, ROCE 22%, ROE 15%
-Yum china:
-GPM 18%, OPM 11% , NPM 8%, ROCE 11%, ROE 12% (good revenue CAGR)
-Mondelez international :   Cadbury Dairy Milk, Oreo and Toblerone chocolates among others
-GPM 38%, OPM 20% , NPM 14%, ROCE 15%, ROE 10%
-Procter and Gamble: CFO used in debt repayment and stock repurchase
-GPM 48%, OPM 23% , NPM 18%, ROCE 31%, ROE 21%
-Johnson & Johnson: CFO used less in debt repayment and stock repurchase, more in dividends and cash acquistions
-GPM 68%, OPM 23% , NPM 20%, ROCE 25%, ROE 15%
-Verisign -  operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the 
-      authoritative registry for the .com, .net, and .name generic top-level domains
-GPM 85%, OPM 65% , NPM 58%, ROCE 100%, ROE -58%, entire CFO used in share buyback
-
-//Others
-Visa:
-GPM 83%, OPM 70% , NPM 51%, ROCE 37%, ROE 30%
-Mastercard:
-GPM 100%, OPM 56% , NPM 47%, ROCE 138%, ROE 44%
-Moody’s:
-GPM 100%, OPM 44% , NPM 32%, ROCE 80%, ROE 23%
-SPGI:
-GPM 72%, OPM 56% , NPM 40%, ROCE 31%, ROE 8%
-ICE - owner of NYSE stock exchange, CFO used in acquistions and stock repurchase
-GPM 78%, OPM 66% , NPM 44%, ROCE 15%, ROE 18%
-Nasdaq - first electronic exchange in the world, CFO used in acquistions and stock repurchase
-GPM 60%, OPM 28% , NPM 20%, ROCE 13%, ROE 18%
-
-
 //Doubtful
 Brookfield Renewable Partners - The company generates electricity through hydroelectric, wind, solar, distributed generation, pumped storage, cogeneration, and biomass sources.
-Lululemon Athletica - exclusive yoga apparel
 Columbia Sportswear Company - sports wear
-D.R.Horton - acquisition and development of land; and construction and sale of residential homes in 31 states and 98 markets 
-   mortgage financing services and title insurance policies, and examination and closing services, as well as engages in the residential lot development business.
-(check NVR, Lennar, Pultegroup  and other competettiors and reviews) Note: for property developers always check debt, inventory
-   and cash levels(balance sheet must be clean)
 The Home Depot - operates as a home improvement retailer. It operates The Home Depot stores that sell various building materials, 
  home improvement products, building materials, lawn and garden products, and décor products
 Lowe's Companies, Inc - together with its subsidiaries, operates as a home improvement retailer in the United States and 
@@ -162,3 +111,9 @@ Albemarle Corporation - develops, manufactures, and markets engineered specialty
   second-largest lithium miner in the world
   Albemarle, as of 2020, was the largest provider of lithium for electric vehicle batteries.
 https://piedmontlithium.com/about/ - integrated player in lithium industry
+Hershey Company : American multinational company and one of the largest chocolate manufacturers in the world. It also manufactures baked products, such as cookies and cakes, and sells beverages like milkshakes, and many more that are produced globally.
+GPM 45%, OPM 22% , NPM 17%, ROCE 61%, ROE 25%, CFO usage :  stock repurchase and dividends
+Canadian National Railway Company - world-class transportation leader and trade-enabler
+  CN safely transports more than 300 million tons of natural resources, manufactured products, and finished goods throughout North America every year
+  As the only railroad connecting Canada's Eastern and Western coasts with the U.S. South through a 19,500-mile rail network
+GPM 41%, OPM 46% , NPM 33%, ROCE 22%, ROE 15%

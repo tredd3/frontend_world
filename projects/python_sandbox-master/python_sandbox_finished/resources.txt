@@ -4,6 +4,9 @@ https://docs.python.org/3/using/
 https://docs.python.org/3/
 https://docs.python.org/3/library/index.html#library-index
 https://packaging.python.org/en/latest/tutorials/installing-packages/ - package installation
+https://docs.python.org/3/library/functions.html
+Vitualisation - speed up code execution without explicit use of for loop and using methods/functions exposed by libraries which 
+internally use C to loop over the object
 
 
 https://pythonguides.com/python-programming-for-the-absolute-beginner/
