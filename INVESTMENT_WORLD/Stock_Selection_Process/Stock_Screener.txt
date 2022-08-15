@@ -42,6 +42,7 @@ Valuation :
     if YES, what is your view 
     if NO, go and open their website, check public review in ecommerce or google search
   CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
+  open RHP for complete information and risks (if a company is recently listed then this must)
   can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
@@ -270,6 +271,7 @@ i)INTERNAL GROWTH OPPURTUNITIES
     /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
   3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
+    Check Volume growth in investor presentation/Annual report to find this out
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
     growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
     money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 

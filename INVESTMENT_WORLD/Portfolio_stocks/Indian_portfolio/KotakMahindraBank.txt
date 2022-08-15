@@ -2,6 +2,11 @@
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 Regarding business always consider you are buying the whole business and not share of a company 
 Business : Operational metrics
+
+                             FY20     FY21    FY22 
+Volumes                       89       84      72
+Per unit price               120       150     180
+
 Financials :
 Risks :
 Valuation :
@@ -10,65 +15,117 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: suggestion from youtuber or broker
-  Normal check on stock price since inception - normal
-  legal orders(confirm from wiki) and tickertape - None
-  Recent News from tickertape
-  corporate actions, dividend history and announcements from tickertape - paid dividends
+  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
+     capacity to suffer/suggestion from youtuber or broker
+  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
+  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
+    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
+    the share price naturally like Adani once did)
+  legal orders(confirm from wiki) and tickertape
+  corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Promoter holding : 74%
-    Institutional ownership: 14%
-    others: 12%
-  promoter pledging - None
-  Is the business easy to understand or complex : bit complex
+    Promoter holding : higher is the better
+    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+  promoter pledging
+  Is the business easy to understand or complex : easy/complex
   circle of competence: Yes/No
-  any recent insider buying (bse india > disclosures > insider trading) - lot of disposals
-  any bulk or block deals (to discover price? None
+  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
+  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
+     than any broker/analyst/investor)
+  any bulk or block deals (to discover price?
 
 //Business check:
   screener pros and cons
-  market share trend - unknkwn as it is relatively newer industry
-  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from AA to AAA
-  can a fool run this business - No
+  market share trend
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
+  can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-1)Balance sheet Strength check: Strong
---Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 70%
---(Price to book value) - 7 (not an asset play)
+1)Balance sheet Strength check - bank’s profits are derived from its balance sheet, P&L is a derivative of it
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 5 (not an asset play)
 
-//non-current assets - 1600 (Net block)
+//non-current assets - <value>
+Loan - 2 lakh cr
+Invesments - 1 Lakh cr
+Cash 50k cr
 
-//Net current assets - 2300
-80% receviables , 20% cash
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
+  u need to check notes to consolidated financial statements
+
+//Net current assets -<value>
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+-inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
+  but raw materials will not 
+--check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
+  sell non current-assets to clear them or take loan (both are bad)
 
 //shareholder Equity -<value>
 --Check Equity CAGR from balance sheet equity section 
-  equity is increasing with ROE above 25%
+   if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
+     (check share capital section where company might be doing buyback)
+   if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
+   if equity is increasing check ROE trend
 --Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
  Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
+  capital, u need to check EPS trend)
 
-//non-current Liabilities - 500
+//non-current Liabilities - <value>
 
 
-2)Profit and loss statement: Clean
+2)Profit and loss statement
+--sales growth consistent and increasing?
+--operating profit +ve  most of the time and growing?
+--earnings quality check : core business vs other income contribution to profits over the years?
+--interest expense >40-50% of operating profit?
+--net income consistently +ve and growing? 
   
-3)Cashflow statement : Good
---use of cash flow from operations: dividends, subsidary investments , short-term investments
+3)Cashflow statement
+--operating cash flow must be atleast 70-80% of  operating profit 
+--CFO +ve most of the time and growing?
+--free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+//check cashflow from financing section
+-- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
+-- if equity is increasing?  (if yes EPS should also increase)
 
 4)Profitability Ratios Check:
---OPM(consistent and above 20%)  - company has Efficient management 
---NPM(consistent and above 12%)  - good profitability
---ROE consistent and above 25%
---ROCE(decreased from 56% to 28%) trend 
---ROIC(decreased from 43% to 23%) trend - company is generating enough cash in its core business
+--GPM(consistent and above 15%) trend - company has Pricing power 
+--OPM(consistent and above 15%) trend - company has Efficient management 
+--NPM(consistent and above 15%) trend - good profitability
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
+--ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
+--check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
+if Debt > 0:
+check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
+if short term debt, then current assets > current liabilities?
+if long term debt is it increasing over the years?
+  Total debt: 
+  Cash:
+  operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
 
- //Valuation check
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 36
---PEG: 2
---DCF: fair valuation
+//Valuation check
+ Uday Kotak believes that Kotak will grow 1.5-2x India’s Nominal GDP.
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+--PEG: 
+--DCF: 
 --check tickertape and  morning star for valuation confirmation
 check Valuation_Check.txt
 
@@ -76,63 +133,83 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services
-  What does it do: (what is the actual business):
-    offers engineering,, research and development (ER&D) and digitalization solutions to companies in the areas such as Transportation,
-     Industrial Products, Telecom and Hi-Tech, Medical Devices and Plant Engineering.
-    Core Engineering Services:
-    Design and Development, Product Engineering, Manufacturing Engineering, Operations Engineering, Embedded Systems, Software Engineering
-  How does it do :
-    Innovation(effective utilisation of talent) - 593 patents so far and still growing YOY. 
-    Customer Loyalty - 90% of the business is repeat business
-    Capture the oppurtunity - i.e shortage of engineers in the west and grab the best engineers in India in to their talent pool
-  6 big bets :
-    Electric Autonomous Connected Vehicles (EACV)
-    5G
-    Digital Products and AI
-    Digital Manufacturing (robotics and automation)
-    Med Tech 
-    Sustainability (support customers to expand the use of renewable energy, drive water conservation measures, reduce carbon 
-      emissions, and develop Net Zero products)
-  Subsidaries/JVs:
-  market size: huge
+  Nature of business: business services/consumer goods/consumer services/B2B goods
+  What does it do: (what is the actual business): 
+  How does it do : Entreprunal mindset, Conservatism and Contrarian approach
+    first NBFC in india to be converted to Private Bank in 2001
+    all-stock acquisition of Bengaluru- headquartered ING Vysya Bank in November 2014  - The merger helped Kotak double its 
+      branches and expand its network pan-India, with a deeper focus on the south. The bank was also able to diversify its 
+      loan book beyond its own retail loan business, as ING’s strength was its small and medium enterprises (SME) clientele.
+    //capacity to suffer:
+    1)6% savings interest rates helped garner customer base - take short term pain of giving higher savings interest to customers 
+     to attract them and make them lifelong customers and cross sell other financial products - so that there is a long term gain
+    2)Kotak has a minimal restructured book - because of instead of focusing on restructuring a stressed asset, the management decided
+      to record it as a NPA so that that will keep them on toe
+    Note: Over the past 8-9 years, Kotak has focused on getting its liability engine in place. Going ahead, they will focus on 
+     getting its assets engine to start firing. 
+    811 — a banking app that allowed customers to open accounts with zero balance and complete all KYC formalities 
+      on their smartphone in just under 10 minutes - significantly reduced customer acquistion cost
+    //High understanding of Risk and knows when to take it - Kotak has proven time and again that its loan book is sustainable in 
+      both good and bad times. Risk-Weighted Assets as a percentage of total assets have consistently declined, and the book enjoys 
+      industry-low NPAs even at the time of COVID
+    1)Asian crisis - Kotak’s extreme prudence and conservatism, as an NBFC back then, not only helped it sail through the crisis 
+    but placed it in the enviable position of having other NBFCs approach it for their recoveries. Kotak saw this as an opportunity 
+    to pioneer the purchase of NPA portfolios.
+    2)from 2000-2008 private sector banks were heavily lending to corporates but When the cycle turned and banks started going 
+    slow on corporate lending given stress in their books, Kotak sensed an opportunity and started targeting market share to 
+    ramp up its corporate book of blue chip companies
+    3)From 2010-to 2012, Kotak had shied away from infrastructure financing, even as other banks and financial institutions had dived in.
+    4)credit substitutes, a type of lending wherein the bank subscribes to corporate bonds or non-convertible debentures of 
+     top-rated corporates - As an alternative to lending as loans, we have frequently invested in bonds of companies. In terms 
+     of risk management, it is better when you have bonds as you can manage exposures by selling them any time you want, unlike loans
+    5)during COVID they did QIP and this additional capital will support the bank in dealing with contingencies or financing 
+     business opportunities (organic and / or inorganic).
+    JVs with big financial institutions and get the know how and then later buy their stake and make JV a subsidary - this is 
+      contrary to what most indian companies did (they sold their stake to global companies)
+    All subsidaries are showing strong double digit growth as well
+  Subsidaries/JVs: Total 18
+    Kotak Mahindra Asset Management Company - consistently gaining market share both in terms of overall AUM and Equity AUM
+    Kotak Mahindra Life Insurance Company Limited - VNB margin is at 31.1% which is among the best in the industry.
+    Kotak Mahindra General Insurance Limited
+    Kotak Securities
+    Kotak Investments - engaged in finance against securities, lending to real estate, and holding long-term strategic investments.
+    Kotak Mahindra Capital(full-service investment bank) - Equity Capital Market issuance, M&A Advisory, and Private Equity Advisory.
+    Kotak Mahindra Pension Fund Limited
+    Phoenix Asset Reconstruction Company, sponsored by Kotak Mahindra Group
+    international banking unit in GIFT City
+    first international branch at Dubai
+    Kotak Mahindra International - advisory services, investments
+    Kotak Mahindra UK - distribution
+  Target Audience : 
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
   market share: 
-  Presence : 
-    offices in India, poland, 5G lab in Munich, Germany and 5G testing lab in US, branches in Malaysia & South Africa
-    The France EDC(engineering design centre) will initially focus on developing cutting-edge solutions for aerospace and defence industries
-    inaugurated an aerospace and defense engineering design center in Rockford, Illinois
-    Digital Engineering Centre in Gothenburg, Sweden
-    The company has also initiated the process to establish a presence in China & Saudi Arabia
-  Globally competetive company: Yes
-  REVENUE by GEOGRAPHY: India 13%, Europe 17%, America: 63%
-  Revenue by Product: 
-    medical devices 10%
-    transportation 27% - Electric, Autonomous and Connected Vehicle (EACV) 
-    plant engineering 13%
-    process industry 14%
-    industrial products 17%
-    telecom & hi-tech 18%
-  Revenue by Customers: B2B(100%)
-  Clients(Important ones): Qualcomm, intel, sony, Airbus, cisco, honda, ericsson
-  LTTS has 296 global clients in 25+ countries(which includes 69 Fortune 500 companies and 53 of the world’s top R&D spenders)
-promoters: L&T Group
-why did the promoters start the business: to shift from capex heavy low margin businesses to asset light high margin businesses
-The company was created by combining two strategic business units: Product Engineering Service (PES) from L&T Infotech Ltd
- and integrated engineering services (IES) from L&T,
+  Presence : offices in India /US etc
+  Globally competetive company: NO
+  REVENUE by GEOGRAPHY: India 100%
+  Revenue by Product: Banking - 65%, Other financial services - 35%
+  Revenue by Customers: B2B(), B2C() , Govt
+  Clients(Important ones):
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity in finance sector
+Uday Kotak was the show runner and Anand Mahindra(backed) it
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: Fast Growers
+Note: Categories of Stock: 
+  1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
+  2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
+  3)Fast Growers (Praj)
+  4)cyclicals(Auto industry, Travel)
+  5)Asset heavy(most of the PSUs)
+  6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-//STAGE of development:
-pioneering - EV, green energy
-growth - internet
-maturity/saturation - FMCG
-declining - obselete - TV channels, print media
+Sector Moats - low cost funds, superior management
 
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//STAGE of development: growth
+
+//Sector value chain : present across entire value chain of the financial service industry
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -165,38 +242,39 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
-
+1)Product portfolio :
+Retail secured
+Retail unsecured (credit cards, personal loan etc)
+Corporate/Wholesale
+commercial banking - SME/Agri finance/Construction equipment
+Financial services - insurance, wealth mangement, MF, Investment banking, Broking, ARC, Infra lending
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  what is the unlisted players market share - 
-  listed peers market share -
-  postion among peers - 
-  global competettion - yes but very little bcoz very specalised knowledge is required
-  threat of new entrants - very little
+  listed peers market share - 90%
+  postion among peers - 4
 Note: 
  if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
  if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
    keep gaining market share and eventually turns profitable (keep an eye)
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-how do peers provide competetion : 
- Tata Elxis - very specific to product design
- KPIT - specific to Automobile
+how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
+Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
+  low CCC(less time taken to generate profits) is preferred
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
-  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
-  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
+  //does it delight the customers - 
+     high savings interest rate since inception
   //what value does it add to customers compared to competetiors?
+    While CASA ratio for HDFC Bank, ICICI Bank, and Axis Bank stands at 46%, 41%, and 45%, Kotak's CASA is 60% (availability of huge 
+    base of low cost funds)
+    Kotak has a Capital Adequacy of 24% and ROA 3%, which is among the highest in the Indian banking industry
+    Opex-to-Net Interest Income of 66% which is fairly high as compared to peers - but Efficiency is more about revenue than expenses.
+    Highly efficient banks aren’t necessarily those with the lowest costs. The typical bank earns twice as much revenue as it 
+    pays out in expenses. 
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 
     if NO, go and open their website, check public review in ecommerce or google search
@@ -220,14 +298,9 @@ i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /penetration - Acquire new customers in untapped and rural areas
-    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-      does capex to service the demand)
-    /import substitution (Atam nirbhar bharat)
-    /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
-    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
-       products etc - but be careful here as they can move from India to someother country too) 
-  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /snatch market share - from PSUs with weak balance sheet
+    /leveraging low cost of funds to offer a competitive interest rate on home loans - and then cross-sell a variety of products
+ 2)Demand/Consumption led growth from OLD customers (Volume led growth)
     /increased consumption(volume led growth) - cutomers buy more of the current/old products
     /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
@@ -251,13 +324,7 @@ i)INTERNAL GROWTH OPPURTUNITIES
     on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
-  /cloning other great company strategies
-  /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
-    key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
-    areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
-    firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
-  /backward or forward integration
+  the non-lending operations hold immense potential to be scaled up even further over the next decade, which requires relatively less capital
   /Macroeconomic oppurtunity
   -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
    even if the company retains its market share and can sustain over the years it can grow effortlessly
@@ -274,6 +341,7 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
+Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
 Brand - must be accompained with pricing power
@@ -376,22 +444,24 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
-  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
-  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
-    attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
-  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
+  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+    Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
+  -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Company having calibre or potential to adapt to the changing business environment - having said that invest 
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
   -If a person has lot of money can he break ur business and take away marketshare?
   -Ideal business always takes little amount of capital to operate and an excellent business always
@@ -409,6 +479,14 @@ check Financial_Strength_Check.txt
 Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
 and then if u put a capable and passionate management he will do wonders for you
 check Management_Check.txt
+
+Strategy: 
+Focus on Longterm and not worry about QOQ performance
+Always keep savings interest rate higher than peers to attract customers and since Savings rate is higher people 
+ never think of putting money in time deposits as the spread is small.
+Kotak’s strategy going forward is a combination of conventional branch banking and digital banking - instead of steadily 
+ increasing physical branches (as 95% transactions happens online) focus on customer acquisition and satisfaction
+Be more practical and don't be greedy (Return of Capital is more important than cost of Capital)
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt

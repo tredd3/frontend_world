@@ -2,6 +2,11 @@
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 Regarding business always consider you are buying the whole business and not share of a company 
 Business : Operational metrics
+
+                             FY20     FY21    FY22 
+Volumes                       89       84      72
+Per unit price               120       150     180
+
 Financials :
 Risks :
 Valuation :
@@ -10,65 +15,118 @@ Valuation :
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
-  stock picking strategy: suggestion from youtuber or broker
-  Normal check on stock price since inception - normal
-  legal orders(confirm from wiki) and tickertape - None
-  Recent News from tickertape
-  corporate actions, dividend history and announcements from tickertape - paid dividends
+  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
+     capacity to suffer/suggestion from youtuber or broker
+  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
+  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
+    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
+    the share price naturally like Adani once did)
+  legal orders(confirm from wiki) and tickertape
+  corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Promoter holding : 74%
-    Institutional ownership: 14%
-    others: 12%
-  promoter pledging - None
-  Is the business easy to understand or complex : bit complex
+    Promoter holding : higher is the better
+    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+  promoter pledging
+  Is the business easy to understand or complex : easy/complex
   circle of competence: Yes/No
-  any recent insider buying (bse india > disclosures > insider trading) - lot of disposals
-  any bulk or block deals (to discover price? None
+  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
+  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
+     than any broker/analyst/investor)
+  any bulk or block deals (to discover price?
 
 //Business check:
   screener pros and cons
-  market share trend - unknkwn as it is relatively newer industry
-  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from AA to AAA
-  can a fool run this business - No
+  market share trend
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
+  can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
   for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
 
 //Finance check:
-1)Balance sheet Strength check: Strong
---Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 70%
---(Price to book value) - 7 (not an asset play)
+1)Balance sheet Strength check
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
+--(Price to book value) - 5 (not an asset play)
 
-//non-current assets - 1600 (Net block)
+//non-current assets - <value>
+-if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
+  decreases because people won't buy the company or value the company for the price at which u have bought
+-intangible assets that help u in creating some value or they themselves have some value that others are willing to pay is fine else
+  they also can loose value like crazy
+-long term investments (won't lose value but depends on the investment if it is a business and doing bad it might lose value) -
+  u need to check notes to consolidated financial statements
 
-//Net current assets - 2300
-80% receviables , 20% cash
+//Net current assets -<value>
+-cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
+-inventory as % of total assets - can quickly lose value depending on the type of inventory like fashion will quickly lose it,
+  but raw materials will not 
+--check current assets(mainly cash) compared to current liabilities - bcoz if current liabilities > current assets then u need to 
+  sell non current-assets to clear them or take loan (both are bad)
 
 //shareholder Equity -<value>
 --Check Equity CAGR from balance sheet equity section 
-  equity is increasing with ROE above 25%
+   if it is constant then check dividend section in cashflow analysis bcoz company might be giving out its earnings as dividend OR 
+     (check share capital section where company might be doing buyback)
+   if it is decreasing then it MUST be only from buybacks (if not company is doing something wrong it is losing/selling its assets)
+   if equity is increasing check ROE trend
 --Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
  Sustainable:  cash flow from operations(goes in to retained earnings) 
+ Non-sustainable(one-off): cash from from investments(goes in to retained earnings) and financing activities(goes into share 
+  capital, u need to check EPS trend)
 
-//non-current Liabilities - 500
+//non-current Liabilities - <value>
 
 
-2)Profit and loss statement: Clean
+2)Profit and loss statement
+--sales growth consistent and increasing?
+--operating profit +ve  most of the time and growing?
+--earnings quality check : core business vs other income contribution to profits over the years?
+--interest expense >40-50% of operating profit?
+--net income consistently +ve and growing? 
   
-3)Cashflow statement : Good
---use of cash flow from operations: dividends, subsidary investments , short-term investments
+3)Cashflow statement
+--operating cash flow must be atleast 70-80% of  operating profit 
+--CFO +ve most of the time and growing?
+--free cash flow consistently +ve and growing?
+Note: if free cash flow is -ve check why
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+--use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
+//check cashflow from financing section
+-- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
+-- if equity is increasing?  (if yes EPS should also increase)
 
 4)Profitability Ratios Check:
---OPM(consistent and above 20%)  - company has Efficient management 
---NPM(consistent and above 12%)  - good profitability
---ROE consistent and above 25%
---ROCE(decreased from 56% to 28%) trend 
---ROIC(decreased from 43% to 23%) trend - company is generating enough cash in its core business
+--GPM(consistent and above 15%) trend - company has Pricing power 
+--OPM(consistent and above 15%) trend - company has Efficient management 
+--NPM(consistent and above 15%) trend - good profitability
+Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
+--ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
+--check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
+if Debt > 0:
+check in the balance sheet if the debt is a short term one or longterm one (it must be longterm)
+if short term debt, then current assets > current liabilities?
+if long term debt is it increasing over the years?
+  Total debt: 
+  Cash:
+  operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
 
- //Valuation check
---EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 36
---PEG: 2
---DCF: fair valuation
+//Valuation check
+Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
+Price - is what people pay for the business
+Valuation is price compared to earnings 
+Note: Don't invest in a stock because the price has fallen and you think the price will increase , own the stock because you 
+ understand that business(circle of competence) , believe in its future(i.e predictability and earning power) and it 
+ is available at lower valuations (absolute(DCF) and relative, with more focus on absolute)
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation
+--PEG: 
+--DCF: 
 --check tickertape and  morning star for valuation confirmation
 check Valuation_Check.txt
 
@@ -77,80 +135,46 @@ Investor presentation for reference:
 -------------------- PAST --------------------
 know about the company:
   Nature of business: business services
-  What does it do: (what is the actual business):
-    offers engineering,, research and development (ER&D) and digitalization solutions to companies in the areas such as Transportation,
-     Industrial Products, Telecom and Hi-Tech, Medical Devices and Plant Engineering.
-    Core Engineering Services:
-    Design and Development, Product Engineering, Manufacturing Engineering, Operations Engineering, Embedded Systems, Software Engineering
+  What does it do: (what is the actual business): 
+    S&P Global is a financial-services company associated with the S&P 500 market index. 
   How does it do :
-    Innovation(effective utilisation of talent) - 593 patents so far and still growing YOY. 
-    Customer Loyalty - 90% of the business is repeat business
-    Capture the oppurtunity - i.e shortage of engineers in the west and grab the best engineers in India in to their talent pool
-  6 big bets :
-    Electric Autonomous Connected Vehicles (EACV)
-    5G
-    Digital Products and AI
-    Digital Manufacturing (robotics and automation)
-    Med Tech 
-    Sustainability (support customers to expand the use of renewable energy, drive water conservation measures, reduce carbon 
-      emissions, and develop Net Zero products)
+    asset-light business model, subscription based model
   Subsidaries/JVs:
-  market size: huge
-  market share: 
-  Presence : 
-    offices in India, poland, 5G lab in Munich, Germany and 5G testing lab in US, branches in Malaysia & South Africa
-    The France EDC(engineering design centre) will initially focus on developing cutting-edge solutions for aerospace and defence industries
-    inaugurated an aerospace and defense engineering design center in Rockford, Illinois
-    Digital Engineering Centre in Gothenburg, Sweden
-    The company has also initiated the process to establish a presence in China & Saudi Arabia
-  Globally competetive company: Yes
-  REVENUE by GEOGRAPHY: India 13%, Europe 17%, America: 63%
+  Target Audience : 
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
+  market share: ratings share 40% (40% moody's, 15% fitch)
+  Presence : offices in India /US etc
+  Globally competetive company: NO
+  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
-    medical devices 10%
-    transportation 27% - Electric, Autonomous and Connected Vehicle (EACV) 
-    plant engineering 13%
-    process industry 14%
-    industrial products 17%
-    telecom & hi-tech 18%
-  Revenue by Customers: B2B(100%)
-  Clients(Important ones): Qualcomm, intel, sony, Airbus, cisco, honda, ericsson
-  LTTS has 296 global clients in 25+ countries(which includes 69 Fortune 500 companies and 53 of the world’s top R&D spenders)
-promoters: L&T Group
-why did the promoters start the business: to shift from capex heavy low margin businesses to asset light high margin businesses
-The company was created by combining two strategic business units: Product Engineering Service (PES) from L&T Infotech Ltd
- and integrated engineering services (IES) from L&T,
+   Ratings segment - 50%
+   Market Intelligence - 28%
+   Platts - 12%
+   S&P Dow Jones Indices segment - 13%
+  Revenue by Customers: B2B(), B2C() , Govt
+  Clients(Important ones):
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: Fast Growers
+Note: Categories of Stock: slow grower
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-//STAGE of development:
-pioneering - EV, green energy
-growth - internet
-maturity/saturation - FMCG
-declining - obselete - TV channels, print media
+avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+//STAGE of development: maturity/saturation 
 
 //Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
 at profitable end of value chain), demand and supply (size of opportunity)
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
-   only within the country :
-        limited to few businesses/limited customer usage
-        not limited to a single user (almost every user will find its usage now or eventually)
-        not limited to single business (almost every business will find its usage now or eventually)
    global oppurtunity/exports :
         limited to few businesses/limited customer usage
-        not limited to a single user (almost every user will find its usage now or eventually)
-        not limited to single business (almost every business will find its usage now or eventually)
 
 ---Products/services DEMAND check :
 //From where does the actual demand from for the company? 
-  B2B (client diversification, strong order book - must be volume led growth)
-  B2C (how many users out of 140 cr population use it)
-  Business service companies (what all industries/companies need it)
-  Government
-  Global - from which all countries demand come from
+  Business and Government
 
 //Type of demand
     continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
@@ -165,14 +189,14 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
-
+1)Product portfolio -4 segments
+Ratings segment - fee based
+Market Intelligence - provides data and analytics for investment professionals, subscription based
+Platts - provides information and benchmark prices for commodity and energy markets.
+S&P Dow Jones Indices segment - fee based
+The segment provides and maintains valuation and index benchmarks for investment advisors, wealth managers and institutional 
+investors. It receives fees and licensing from ETFs and index funds based on assets under management.
+A major S&P 500 ETF pays a fee of $0.03 for every dollar invested in the fund.
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
@@ -180,17 +204,17 @@ e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV 
   what is the unlisted players market share - 
   listed peers market share -
   postion among peers - 
-  global competettion - yes but very little bcoz very specalised knowledge is required
-  threat of new entrants - very little
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants
 Note: 
  if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
  if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
    keep gaining market share and eventually turns profitable (keep an eye)
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-how do peers provide competetion : 
- Tata Elxis - very specific to product design
- KPIT - specific to Automobile
+how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
+Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
+  low CCC(less time taken to generate profits) is preferred
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
@@ -251,44 +275,18 @@ i)INTERNAL GROWTH OPPURTUNITIES
     on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
-  /cloning other great company strategies
-  /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
-    key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
-    areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
-    firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
-  /backward or forward integration
-  /Macroeconomic oppurtunity
-  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
-   even if the company retains its market share and can sustain over the years it can grow effortlessly
-  -support from govt - relief packages etc - (not preferred if relief is for short term)
-  /Tailwinds - china+1, russia Ukrain War etc
-
-Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
-   seems trivial and we need to opt for external growth. 
-   for e.g: let us say if HUL identifies an internal growth oppurtunity that can increase its cash flow by 20% , however if HUL 
-   opts and invests the capital in external growth oppurtunity instead, say acquisition then its cashflow grows by 50% then it
-   is a no brainer to allocate capital for external growth opportunity by the Management
+  planned acquisition should fuel future growth - The acquisition will increase SPGI’s market share and support its position 
+   as the third-largest global market data provider behind Bloomberg and Refinitiv.
+  subsidaries performance and hence dividends
 
 
 2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
-Economises of Scale
-Low cost producer - check product quality and profitability ratios
+Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
 Brand - must be accompained with pricing power
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -if market size is less then the monopoly companies might face price heat from other smaller companies
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
+Network effect - relationship with the plethora of entities that issue debt
+Entry barriers - must have a lengthy track record of ratings in order to provide known reliable results
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -348,21 +346,10 @@ RETAINED EARNINGS by generating more operating cash
   taking share prices down bcoz of massive selling
 
 
----USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
- growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
-Cash - waiting for oppurtunities
-Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
+---USE OF NEW/INCREMENTAL CAPITAL :  The company plans to return 85% of FCF in the form of dividends and share repurchases.
 Inorganic growth - M&A for strategic purpose or to build a MOAT
 Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
 Buyback - preferred
-Capex - new
-Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
-modernising or technology upgradation of operations
-R&D - for future business but the amount spent has to be monitored
-Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
-Working capital (tied up in) - bad
-MOAT building or repairing or strengthening (so that earnings are not snatched by someone)
-
 
 //RETURN ON CAPITAL
 https://goodcalculators.com/wacc-calculator/
@@ -376,22 +363,24 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
-  -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
-  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
-    attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
-  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -prefer non commoditized business - if commoditized the it must be a low cost producer
+  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
+  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+    Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
+  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
+  -proxy play on some capital intensive/debt heavy/lousy industry ? 
+  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
   -Company having calibre or potential to adapt to the changing business environment - having said that invest 
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
   -If a person has lot of money can he break ur business and take away marketshare?
   -Ideal business always takes little amount of capital to operate and an excellent business always

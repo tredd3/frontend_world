@@ -60,7 +60,9 @@ BSE - we can hold it when dividend yield is attractive, no reinvestment of cashf
 MCX - cyclical and completely unpredictable , no growth opputunities as it is already a monopoly and NO Global scope, 
    ZERO pricing power as SEBI and Govt interferes
 CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
-       lower end of value chain, SEBI controls the pricing. Better to play with consumption rather than investing of individuals
+       lower end of value chain, SEBI controls the pricing. No Global expansion oppurtunities, cash generated is given as dividends
+       as there are no oppurtunities to deploy, since it already holds 50% market share and it cannot put money in non-core 
+       business. Also it Better to play with consumption rather than investing of individuals as 75% Indian population is poor
 CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
        but pricing power is not in hands of CAMS and revenue model is volume based pricing, also the rate at which revenues
        will grow is also lower because CAMS is a the lower end of value chain and earns very little amount(0.0001%) of the 

@@ -96,12 +96,14 @@ know about the company:
      distributor efficeiency is the focus - remove non-performing ones
      Raw materials - Rubber, imports most of ethylene vinyl acetate (EVA) and polyurethane (PU) 
          EVA is the most important raw material
+     Same profitability ratios as Bata, but the price is 8 times lesser bcoz of incredible manufacturing efficiency
+     Tighest working capital cycle - cash is recieved in 30 days(competetiors get cash in 90 days)
   Subsidaries/JVs:
   Target Audience : 
-    low and middle income families
+    low and middle income families - 100 cr people
     target customer is very price sensitive
   market size: huge/large/small
-  market share: 
+  market share: 85% lies with unorganised market share
   Presence : offices in India /US etc
     Overseas office in Dubai
   Globally competetive company: NO
@@ -203,10 +205,9 @@ threat of new entrants - Industry doesn't have any entry barriers
 what makes the product or service of this company Unique?
   //does it delight the customers - when they don't find that product in a store will they go across the street to get it
   //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
+     Quality at low price
   //what value does it add to customers compared to competetiors?
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
+  //how is the quality of product/service - Good reviews
 
 
 ------------------- FUTURE -----------------
@@ -226,21 +227,14 @@ i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /penetration - Acquire new customers in untapped west and south India (already have a good presence in North India)
-    /snatch market share - Acquire customers from unorganised players 
-    /import substitution (Atam nirbhar bharat)
+    /snatch market share - Acquire customers from unorganised players (85% market share)
     /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
-    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
-       products etc - but be careful here as they can move from India to someother country too) 
+    /Target audience is 100 cr - current annual production capacity is just 18cr pairs
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
     /increased consumption(volume led growth) - cutomers buy more of the current/old products
     /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
-  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
-    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
-    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
-    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
-    then demand has dried up OR competetiors taking away market share - Both are bad situations
+    /price led growth if required - as they have scope to increase price
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
@@ -275,7 +269,7 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
 Economises of Scale 
-Network effect - It's distriution network comprises 50,000+ retailers, ~700 distributors & ~400 EBOs
+Network effect - It's distriution network comprises 50,000+ retailers, ~700 distributors & ~400 EBOs (2 times Bata)
 Low cost producer -  Targets mass market and a market leader in that space with low cost products
 Brand
 
@@ -299,7 +293,7 @@ Note: Don't forget to compare dividend yield with FD interest rates
 
 //USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
 Dividends
-Capex - recurring (100cr per yr on an average)
+Capex - recurring (100cr per yr on an average) for expansion
 R&D
 Advertising
 

@@ -1,4 +1,4 @@
-//Category 1 - Growth compounders, must buy in dips
+//Growth compounders, must buy in dips
 1)Alibaba :
 Financial - Technology and marketting place infra provider for China, strong balance sheet, CFO is used in cash acquisitions, equity
    of other companies, stock buyback.  It is generating decremental returns on incremental capital
@@ -16,18 +16,18 @@ Business -
           To be monitored: 
           Revenue: the lockin which Alibaba imposed on merchants is now gone, which might take away their market share
           operating Costs: management needs to spend on Ads to remain competettive
-2)Adobe :
+2)Adobe : GPM 87%, OPM 36% , NPM 30%, ROCE 25%, ROE 30%
 Finacial - CFO is used in cash acquisitions, stock buyback but unlike berkshire hathaway, there are doing at high prices
      It is generating almost constant returns on incremental capital. The company spends 20% of gross profit on R&D
 Business - develops software tools primarily for audio-visual(graphics, photography, illustration, animation, multimedia/video,
         motion pictures) content creation, editing and publishing.
-3)Google :
+3)Google : GPM 57%, OPM 32% , NPM 20%, ROCE 20%, ROE 20%
 Financial- generating incremental returns on incremental capital, CFO is used in cash acquisitions, marketable secs, stock buyback
      The company spends 30% of gross profit on R&D
-4)Microsoft:
-Financial - stock based compensation low, capex low, CFO used in stock repurchase, acquistions, Net margin is 27%, ROCE 20%
+4)Microsoft: GPM 68%, OPM 43% , NPM 30%, ROCE 25%, ROE 40%
+Financial - stock based compensation low, capex low, CFO used in stock repurchase, acquistions
  generating incremental returns on incremental capital
-Business -  (Linkedin, Github, Lynda)
+cash generated from slow growth Businesses (Linkedin, Github, Lynda, OS) deployed in high growth businesses like gaming, cloud etc
 5)Amazon : 
 Financial - CFO used in incremental capex, acquistions, debt repayment (no dividends/share repurchases) 
           but Net margin is 4%, ROCE 12%, stock based compensation high, generating avg returns on incremental capital
@@ -40,13 +40,13 @@ Financial - GPM 43%, OPM 31% , NPM 26%, ROCE 152%, ROE 54%, 90% CFO used in shar
 9)ASML - GPM 50%, OPM 36% , NPM 31%, ROCE 35%, ROE 56%, CFO usage : share buyback and dividends, little in capex
 lithography technology is fundamental to mass producing semiconductor chips
 
-//Category 1 Non-growth stock eaters
+//Slow growth stock eaters - Global client base
 Verisign -  operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the 
       authoritative registry for the .com, .net, and .name generic top-level domains
 GPM 85%, OPM 65% , NPM 58%, ROCE 100%, ROE -58%, entire CFO used in share buyback
 Cococola:
 GPM 60%, OPM 35% , NPM 25%, ROCE 20%, ROE 44%,  CFO usage :  mostly acquistions and dividends, partly capex and share buyback
-Pepsico : 
+Pepsico :
 GPM 53%, OPM 16% , NPM 11%, ROCE 20%, ROE 53%,  CFO usage :  mostly capex and dividends, partly acquistions and share buyback
 Yum china:
 GPM 18%, OPM 11% , NPM 8%, ROCE 11%, ROE 12% (good revenue CAGR),  CFO usage : capex > buyback > dividends
@@ -56,6 +56,11 @@ Procter and Gamble: CFO used in debt repayment and stock repurchase
 GPM 48%, OPM 23% , NPM 18%, ROCE 31%, ROE 21%
 Johnson & Johnson: CFO used less in debt repayment and stock repurchase, more in dividends and cash acquistions
 GPM 68%, OPM 23% , NPM 20%, ROCE 25%, ROE 15%
+
+//Limited client base 
+TSMC: GPM 52%, OPM 43% , NPM 38%, ROCE 23%, ROE 30%, (ratios continously improving for last 4 quarters)
+CFO usage : 70% capex and 30% dividends, 10% revenue in R&D (23% constant ROCE on incremental capital)
+Global demand > current TSMC capacity, hence setting up new fab units to cater to the demand
 SPGI:
 GPM 72%, OPM 56% , NPM 40%, ROCE 31%, ROE 8%, 65% CFO used in stock repurchase and dividends (30% CFO in cash)
 Moody’s:
@@ -67,26 +72,21 @@ GPM 60%, OPM 28% , NPM 20%, ROCE 13%, ROE 18%
 
 //Category 2 - eligible for deep checks (currently facing headwinds or i don't have circle of competence)
 //Doubtful cashflows
-2)Booking Holdings Inc - FCF +ve , ROCE  is 11-13%, Debt > Equity but cash flow enough to clear debt, not recession proof
+1)Booking Holdings Inc - FCF +ve , ROCE  is 11-13%, Debt > Equity but cash flow enough to clear debt, not recession proof
   CFO used in acquistions and stock repurchase(90%)
   It operates websites in about 40 languages and 200 countries.
     owns and operates several travel fare aggregators and travel fare metasearch engines including namesake and flagship Booking.com
     In 2017, 89% of its gross profit was made outside the United States– most of which used Booking.com
     In 2017, 93.4% of revenues were derived from commissions and 6.6% of revenues were derived from advertising.
-3)Tesla - finacials improving, complete ecosystem can be created by Musk (1.5% market share of the total US market)
+1)Tesla - finacials improving, complete ecosystem can be created by Musk (1.5% market share of the total US market)
   ROCE 23%, NPM 14%, OPM 16%, CFO used in capex, debt repayment
-4)Blackrock - AMC with largest AUM in the US and in the world, with foot in Europe and China. 
-  BlackRock operates globally with 70 offices in 30 countries and clients in 100 countries
-  Largest provider of ETFs in the world by the name of ishares
-  CFO used in dividends and stock repurchase, ROE 16%, NPM 31%, OPM 42%,
-
-//High valuations
-6)cadence design - CFO used in share buyback, ROCE 30%, NPM 24%, OPM 30% 
+  only 2% market share
+2)cadence design - CFO used in share buyback, ROCE 30%,GPM 90%, NPM 24%, OPM 30% 
   software tools for emulating and testing electronic components integration
-7)synopsys - CFO used in share buyback, acquisitions, ROCE 16%, NPM 21%, OPM 22%
+3)synopsys - CFO used in share buyback, acquisitions, ROCE 16%, GPM 81%, NPM 21%, OPM 22%
   software tools for emulating and testing electronic components integration
            Synopsys has expanded its products and services to include application security testing
-5)fortinet - only listed pure cybersecurity player, larger part of 75% CFO used in share buyback and little used in M&A
+4)fortinet - only listed pure cybersecurity player, larger part of 75% CFO used in share buyback and little used in M&A
   ROCE 20%, NPM 18%, OPM 18%
 
 //Category 3 - in the verge (can be turnarounds)
@@ -141,7 +141,11 @@ MCD/Dominos/Yum -> debt > assets , they take debt and do share buyback at random
   Domino's Pizza : GPM 38%, OPM 18% , NPM 11%, ROCE 73%, ROE -11% (earnings grown faster than industry)
   McDonald: GPM 55%, OPM 41% , NPM 30%, ROCE 21%, ROE -128%
   Yum Brands(KFC, Pizzahut, Taco bell): GPM 48%, OPM 33% , NPM 24.8%, ROCE 48%, ROE -20%
-
+Blackrock - AMC with largest AUM in the US and in the world, with foot in Europe and China. (but better to invest on spending
+ and not investing of people/businesses as it is less recurring and very little part of investing ends up as revenues)
+  BlackRock operates globally with 70 offices in 30 countries and clients in 100 countries
+  Largest provider of ETFs in the world by the name of ishares
+  CFO used in dividends and stock repurchase, ROE 16%, NPM 31%, OPM 42%,
 
 //The below information companies can be replaced by clients own inhouse team/competettion that leverage data analysis tools,
   also the client base is limited and the competettion is high(no entry barriers)

@@ -127,18 +127,25 @@ Investor presentation for reference:
 know about the company:
   Nature of business: consumer goods
   What does it do: (what is the actual business): 
-    paints 
-    home decor - kitchen, bath, sanitary, lighting , furnishing, doors and windows
-    beautiful homes - professional interior decor service
+    services that deal with surface(paints) and space(home furnishing)
   How does it do :
+     strong distribution network
+     waterproofing and wood finishing - using patents and technology (no player in india/abroad have these for retail category)
+     Aquisition of firms in home furnishing business
   Subsidaries/JVs:
   Target Audience : 
   market size: huge
   market share: 
-  Presence : offices in India /US etc
-  Globally competetive company: yes
-  REVENUE GEOGRAPHY: MiddleEast, Asia
-  Revenue Model: 
+  Presence : 
+    Asia(Nepal, Bangladesh, Indonesia and Srilanka)
+    MiddleEast (Qatar, UAE, Oman, Bahrain)
+    South Pacific
+    Africa (Egypyt and Ethopia)
+  Globally competetive company: yes (caters to 60 countries)
+  Revenue By Geography:  
+    In International business -  Asia 50%, MiddleEast 26%, Africa 20% and rest 4%
+  Revenue By Product: 
+    decorative coatings - 85%, International - 10%, industrial coatings - 2.5%, home decor - 2.65
   Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity insome industry/sector OR passion
@@ -198,9 +205,12 @@ sector demand constant like FMCG :  company needs to capture market share from o
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
-waterproofing and wood finishing - using patents and technology (no player in india/abroad have these for retail category)
+1)Product portfolio :
+paints (decorative coatings) - wood, metals, floor, walls etc
+paints (industrial coatings) - nerolac holds 50% market share, serves auto and non-auto players
+paints (international) - Africa, Middle East, Asia
+beautiful home stores (home improvement) - kitchen, bath, sanitary, lighting , furnishing, tiles, doors and windows
+beautiful home services - professional interior decor service
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
@@ -232,11 +242,38 @@ ideally a company that clones other successful strategies is almost bound to win
 
 --- EARNING POWER (Earnings Growth Oppurtunities check )
 //SOURCE OF EARNINGS
---Internal Growth oppurtunities
+i)INTERNAL GROWTH OPPURTUNITIES
+///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /penetration - Acquire new customers in untapped and rural areas
+    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
+      does capex to service the demand)
+    /import substitution (Atam nirbhar bharat)
+    /Global expansion/ exports - Launch products in new markets
+    /Strong Order inflows (only for B2B companies)
+    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
+       products etc - but be careful here as they can move from India to someother country too) 
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - cutomers buy more of the current/old products
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
+    Note: mode of capex funding is also important: preference cash>debt>equity
 
---External Growth oppurtunities
-Macroeconomic - check MacroEconomy folder
-Tailwinds
+///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
+    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
+    //spending on technology for achieving efficiency and modernising the workflow or processes
+    /process optimisation and innovation - chemicals and pharma mainly
+
+ii)EXTERNAL: GROWTH OPPURTUNITIES
+  /cloning other great company strategies
+  /Acquistion and synergy led Growth
+   home improvement space is mostly unorganised and there is no single player that provides end to end solution - Asian paints is
+     banking on capturing this oppurtunity 
+  /Macroeconomic oppurtunity
+  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
+   even if the company retains its market share and can sustain over the years it can grow effortlessly
+  -support from govt - relief packages etc - (not preferred if relief is for short term)
+  /Tailwinds - china+1, russia Ukrain War etc
+
 
 ---- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
 1)Competettive advantage/MOAT Check?
@@ -295,7 +332,8 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
     in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
     burns more cash to be in the competettion)
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
+  -If a person has lot of money can he break ur business and take away marketshare? - Large paint companies in the world have 
+    done this before but failed to even enter the market as local factor is important in doing business in india
   -Ideal business always takes little amount of capital to operate and an excellent business always
     earns same high returns on incremental capital
 

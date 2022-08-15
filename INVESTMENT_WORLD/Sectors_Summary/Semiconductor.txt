@@ -6,16 +6,18 @@ Found in thousands of electronic products, a semiconductor is a material that co
 The semiconductor industry lives—and dies by a simple creed: smaller, faster, and cheaper.
 display a range of useful properties such as showing variable resistance, passing current more easily in one direction than 
    the other, and reacting to light and heat.
+
 Broadly speaking, semiconductors fall into 4 main product categories:
 1)Memory chips - temporary storehouses of data and pass information to and from computer devices' brains(memory prices are reducing rapidly)
 2)Microprocessors - contain the basic logic to perform tasks (Intel and AMD dominate)
-3)ntegrated Circuit - produced in huge batches for routine processing purposes. Dominated by very large Asian chip manufacturers,
+3)Integrated Circuit - produced in huge batches for routine processing purposes. Dominated by very large Asian chip manufacturers,
   this segment offers razor-thin profit margins that only the biggest semiconductor companies can compete for.
 4)"System on a Chip" is essentially all about the creation of an integrated circuit chip with an entire system's capability on it. 
 SOC segment is arguably the only one left with enough opportunity to attract a wide range of companies.
 
 
 Success in the semiconductor industry depends on creating smaller, faster, and cheaper products.
+Moore's Law states that we can expect the speed and capability of our computers to increase every couple of years, and we will pay less for them.
 new technologies lower the cost of production per chip so that within a matter of months, the price of a new chip might fall 50%.
 There is constant pressure on chip makers/manufacturers to come up with something better and even cheaper than what defined 
  state-of-the-art only a few months before. Therefore, semiconductor companies need to maintain large R&D budgets.

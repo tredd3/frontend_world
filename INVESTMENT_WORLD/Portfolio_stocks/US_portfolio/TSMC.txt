@@ -1,0 +1,273 @@
+------------------- SCREENING SUMMARY -------------------
+https://www.youtube.com/watch?v=GU87SH5e0eI&ab_channel=CNBC
+
+//General check:
+  stock picking strategy: familiar with the product or industry
+  Normal check on stock price since inception - Normal
+  check shareholding pattern(especially promoter) trend over the years in tijori
+    Public: 30%
+    Institutional ownership: 65%
+  Is the business easy to understand or complex : medium
+  circle of competence: Not completely
+  any recent insider buying - No
+
+//Business check:
+  Moodys rating - AA
+  can a fool run this business: yes
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+//Finance check:
+1)Balance sheet Strength check: Strong
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 60%
+--(Price to book value) - 5 (not an asset play)
+
+//non-current assets - 80k net block
+
+//Net current assets - 30k
+-cash - 17k
+-inventory 6k
+-receivables 7k
+
+//shareholder Equity - 80k
+--Check Equity CAGR from balance sheet equity section: equity is increasing and ROE is also increasing
+--Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
+ Sustainable:  cash flow from operations(goes in to retained earnings) 
+
+//non-current Liabilities - 30k
+
+
+2)Profit and loss statement: Clean
+  
+3)Cashflow statement: Good
+--use of cash flow from operations: capex and dividends
+
+4)Profitability Ratios Check:
+GPM 52%, OPM 43% , NPM 38%, ROCE 23%, ROE 30%
+--check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
+if Debt > 0:
+  Total debt: 30k
+  Cash: 17k
+  operating cashflow: 40k
+
+//Valuation check
+management prediction: long-term revenues to be between 15 and 20 CAGR over the next several years in U.S. dollar terms.
+DCF: 12% stock returns , 2% dividend yield (for next 10 yrs)
+
+
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+Investor presentation for reference: 
+-------------------- PAST --------------------
+know about the company:
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): 
+    TSMC is a worldwide semiconductor foundry leader in advanced, specialty and advanced packaging technologies
+    pure play foundry which doesn't sell chips with their name
+    manufactured 12,302 products for 535 customers.
+  How does it do :
+    good spending on CAPEX and R&D (bringing latest tech to outperform competettion)
+    heavy water usage per day - recycling within the plant to make sure we don't run of ground water
+    12 fabs - almost everything in Taiwan and US
+  Subsidaries/JVs:
+   TSMC NA, TSMC JAPAN (3DIC tech), TSMC CHINA, TSMC EUROPE, WaferTech - JV with long-term customers
+   TSMC established a subsidiary, Japan Advanced Semiconductor Manufacturing - to address strong global market demand for specialty 
+    technologies(3DIC bcoz of raw material advantage in Japan). Production is targeted to begin by the end of 2024.
+    Construction of fab unit in Arizona US(on the request of customers and US govt) - this will give them access to global pool 
+     of Analog engineers which TSMC lacks
+  Target Audience : Businesses(Automotive, electronics, IOT, smartphones, High performance computing)
+  market size: huge 
+  market share: 
+    TSMC produced 26% of the world semiconductor output value in 2021, TSMC accounted for 54% of global foundry revenues 
+  Presence : offices in US, China, Japan, Taiwan, Europe
+  Globally competetive company: YES
+  REVENUE by GEOGRAPHY:  North America - 65%, Asia 12%, china 13%, EMEA 6%, Japan 5%
+  Revenue by Product:    
+    Smartphone (44%), High performance computing(37%), IOT (8%), Automotive (4%), Digital consumer electronics (4%)
+    50% of TSMC’s wafer revenue came from advanced manufacturing processes
+  Clients: 535 across the world (Apple, NVIDIA, Intel, Qualcomm)
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity in the industry
+any research report/youtube analysis available for the company: 
+what peter lynch bucket does stock belongs to : stalwarts 
+
+--------------------- PRESENT --------------------
+---Sectoral analysis: 
+sector : semiconductor, industry : foundry
+semiconductor industry’s economics - strive for higher productivity and lower cost
+i.e the energy, cost and time required for electronic computations can be reduced by shrinking transistors on microchips
+foundry business revenues 102 billion $ (TSMC clocked 57 billion $)
+TSMC expects foundry segment revenue to outpace the high single-digit CAGR projected for the worldwide semiconductor market 
+ excluding memory from 2021 through 2026.
+
+//STAGE of development: growth
+
+//Sector value chain : suppliers(ARM, MIPS) - Software(Cadence, Synopsys) - EUV machine by ASML - foundry - fabless companies - consumers
+
+//Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
+   global oppurtunity/exports :
+        not limited to a single user (almost every user will find its usage now or eventually)
+        not limited to single business (almost every business will find its usage now or eventually)
+
+---Products/services DEMAND check :
+//From where does the actual demand come for the company? 
+  Global businesses - smartphones(5G), high performance computing (HPC), Internet of Things (IoT), automotive and electronics
+
+//Type of demand
+    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
+        Electronics, Automobile,home furnishing)
+     Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+      bcoz of high competettion given the size of oppurtunity
+
+
+---Products/services SUPPLY check :
+1)Product portfolio :
+smartphones(5G) -  advanced 3DFabric packaging technologies such as industry-leading Integrated Fan-Out (InFO) technology.
+high performance computing (HPC) - advanced process technologies specific to HPC, advanced 3D packaging designs
+Internet of Things (IoT) - ultra low power process technologies
+automotive - wide variety of process technologies
+Digital Consumer Electronics  - advanced technologies and large-scale capacity
+
+
+2)COMPETETION :  lousy industry that needs heavy capital investment and lot of skilled workforce - hence only 2 survived ,
+TSMC and Samsung (since samsung is also in to design and product development, this work as a captive consumption)
+Also samsung makes chips in the world (but it focuses on memory chips, unlike TSMC which focuses on advanced logic chips)
+
+4)Products/services Uniqueness and Quality check :
+what makes the product or service of this company Unique?
+  //does it delight the customers - technology advancement and resilient capacity 
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
+    it owns minds of fabless companies, the only company in the world that produces 5nm chips (apart from samsung)
+  //what value does it add to customers compared to competetiors?
+    technology leadership, manufacturing excellence and customer trust(never compete with its customers, never designed, 
+    manufactured or marketed any integrated circuits under its own name)
+  //how is the quality of product/service - Good
+
+
+------------------- FUTURE -----------------
+---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
+//Goal/Aim - global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
+//Strategies being employed: 
+ideally a company that clones other successful strategies is almost bound to win provided it has other necessary qualifications
+
+
+--- EARNING POWER 
+Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
+
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
+
+i)INTERNAL GROWTH OPPURTUNITIES
+///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /We expect HPC to be the main engine of TSMC's long-term growth and the largest contributor in terms of our incremental revenue
+    growth in the next several years - multi-year megatrends of 5G and High Performance Computing (HPC)-related applications are expected to fuel massive demand for computation power,
+    strategic relationships with our customers are long term in nature
+    /Good spend on R&D to stay ahead of the curve - Our 2-nanometer technology will be the most advanced semiconductor technology
+    in the industry in both density and energy-efficiency when it is introduced, and will further extend our leadership position in future.
+    /Strong Order inflows - demand > existing capacity
+    /TSMC capturing market share from current 26%
+    /expand TSMC’s business and service infrastructure into emerging and developing markets.
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - cutomers of TSMC gain market share
+    /Launch New products with latest tech like 5G, IOT etc needs more advanced chips
+
+///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
+    /spending on technology for achieving efficiency and modernising the workflow or processes
+    /process technology 
+
+ii)EXTERNAL: GROWTH OPPURTUNITIES
+/Macroeconomic oppurtunity
+  It is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
+   even if the company retains its market share and can sustain over the years it can grow effortlessly
+  Tailwinds - 5G, HPC usage
+
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+i)Competettive advantage/MOAT Check? check MOATS_check.txt
+MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
+Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
+Economises of Scale
+Brand - must be accompained with pricing power
+Intangible assets
+Switching costs
+Entry barriers - manufacturing chips has become extremely complicated and costly 
+
+
+ii)PRICING POWER (MUST HAVE MOAT)- 
+pricing - based on value creation, strategic and not oppurtunistic, but during unforseen situations TSMC always increases the 
+ prices and pass on the additional cost to customers
+
+Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
+ debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
+
+Thesis :
+/Longterm Investment: Both MOATS and Earnings Growth oppurtunities exists
+/Shorterm Investment: Company with No Moats  but very high growth oppurtunities - a short term buy becuase other competetiors 
+ with MOATS can take away the market share soon - need to monitor closely
+/Company with good MOATS but not very good growth oppurtunities - it has become a slow grower(if they genrate a stable free cashflow
+you can use the cash to buy other growth and non-growth businesses) 
+Note: Don't forget to compare dividend yield with FD interest rates
+
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - less Debt + more Retained Earnings
+
+
+---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
+ growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
+Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
+modernising or technology upgradation of operations
+R&D - for future business but the amount spent has to be monitored
+
+
+//RETURN ON CAPITAL
+Good company: Capital is increasing and ROCE is constant at 23%
+
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Superior economics (what does company produce, target audience and how does it produce):
+    customers' demand continue to exceed our ability to supply. 
+    TSMC's technology position is much stronger today as compared to previous years (process optimisation)
+    MSCI ESG Research’s AAA Rating - Global 100 Most Sustainable Corporations
+  -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Competes on value rather than price bcoz - by spending on R&D and capex upgradation
+  - non commoditized business and  non-cyclical (structural change in demand)
+  - recession proof because of the wide use of chips in almost every device
+  -lousy industry - one of the 2 survivors in the world
+  -proxy play on high tech and digital transformation of the world
+  -Company having calibre or potential to adapt to the changing business environment - R&D spending is good
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
+  -If a person has lot of money can he break ur business and take away marketshare? Very difficult
+  -Not an ideal business bcoz it needs a lot of capital to operate but it earns same high returns on incremental capital
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+--expenses breakup and see which expenses are growing YOY
+//Financial strengths
+//Financial weakness
+
+------------------------------ MANAGEMENT CHECK --------------------------------
+//how is the Management and their Vision: check management discussion analysis in annual report
+Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
+and then if u put a capable and passionate management he will do wonders for you
+check Management_Check.txt
+
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk: 
+technology disruption risk
+geo-political risk
+
+---Financial Risk: None
+
+---Management Risk: None
+
+---Investment Returns Risk: None as the valuations are almost at fair levels
+
+
+-------------------------------------- THE END -----------------------------------------

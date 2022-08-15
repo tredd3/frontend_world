@@ -1,0 +1,282 @@
+-------------------- SUMMARY --------------------
+you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
+Regarding business always consider you are buying the whole business and not share of a company 
+Business : Operational metrics
+
+                FY17  FY19   FY21
+Total machines:       258     309(268 use DUV)
+EUV machines:   10     25     42
+
+Financials :
+Risks :
+Valuation :
+  Valuation is what differentiates Great Investment from a great business
+  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
+
+------------------- SCREENING SUMMARY -------------------
+//General check:
+  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
+     capacity to suffer/suggestion from youtuber or broker
+  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
+  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
+    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
+    the share price naturally like Adani once did)
+  legal orders(confirm from wiki) and tickertape
+  corporate actions, dividend history and announcements from tickertape
+  check shareholding pattern(especially promoter) trend over the years in tijori
+    Promoter holding : higher is the better
+    Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
+  promoter pledging
+  Is the business easy to understand or complex : easy/complex
+  circle of competence: Yes/No
+  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
+  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
+     than any broker/analyst/investor)
+  any bulk or block deals (to discover price?
+
+//Business check:
+  screener pros and cons
+  market share trend
+  //how is the quality of product/service - Have u used the product/service ? 
+    if YES, what is your view 
+    if NO, go and open their website, check public review in ecommerce or google search
+  CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
+  can a fool run this business
+  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
+   assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
+  for longterm : don't invest in a stock just bcoz the stock price will increase, invest because you want to own that business
+
+//Finance check:
+1)Balance sheet Strength check: asset light
+--Equity/Total assets (liabilities should be as less as possible for a strong balance sheet) 33%
+--(Price to book value) - 5 (not an asset play)
+
+//non-current assets - 14k
+Net block 6k
+Goodwill 5k
+
+//Net current assets - 7k inventory
+
+//shareholder Equity - 11k
+--Check Equity CAGR from balance sheet equity section 
+   constant because of share buybacks and dividends
+
+//non-current Liabilities - 9k
+
+
+2)Profit and loss statement: clean
+10% of revenue on R&D
+  
+3)Cashflow statement
+--use of cash flow from operations: share buybacks and dividends
+
+4)Profitability Ratios Check:
+GPM 50%, OPM 36% , NPM 31%, ROCE 35%, ROE 56%
+
+//Valuation check
+--EV/FCF(Market cap + debt - cash&cash equivalents)/Free cash flow Valuation: 36
+--PEG: 2.8
+--DCF: max gains 12% CAGR (for next 10 yrs) - driven by earnings
+
+
+--------------------------- BUSINESS STRENGTH CHECK ---------------------------
+Investor presentation for reference: 
+-------------------- PAST --------------------
+know about the company:
+  Nature of business: business services and B2B goods
+  What does it do: (what is the actual business): 
+   develops, produces, markets, sells, and services advanced semiconductor equipment systems consisting of lithography, metrology,
+     and inspection related systems for memory(micron, samsung) and logic chipmakers(TSMC, intel, samsung)
+    provide chipmakers with hardware, software and services to mass produce patterns on silicon through lithography.
+   YieldStar optical metrology solutions to measure the quality of patterns on the wafers
+   HMI e-beam solutions to locate and analyze individual chip defects.
+  How does it do : 
+     R&D: Engineering + Physics best minds work on it
+     upgrade a system to a higher performance level at a customer site rather than having to replace the entire product. 
+     circular economy:
+      Reduce waste in our operations
+      Re-use parts and materials from the installed base
+      Recycle mature products through refurbishment - refurbish used DUV, EUV machines 
+  Subsidaries/JVs:
+  Target Audience : chip manufacturers
+  market size: small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
+  market share: 100%
+  Presence : operates in Japan, South Korea, Singapore, Taiwan, China, the Netherlands, Europe, the United States, and rest of Asia
+  Globally competetive company: Global monopoly
+  REVENUE by GEOGRAPHY: NA
+  Revenue by Product: System sales: 70%, services(installation and upgradation): 30%
+  Revenue by Customers: Samsung, TSMC and Intel - 84%
+  Clients(only 5 bcoz of the machines cost): Micron, SK hynix, Micron, Samsung, TSMC and Intel
+promoters:
+why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
+any research report/youtube analysis available for the company: 
+what peter lynch bucket does stock belongs to : stalwarts
+
+--------------------- PRESENT --------------------
+---Sectoral analysis: 
+Global megatrends are driving growth in the semiconductor industry: distributed computing and storage
+The electronics industry is booming – there are around 40 billion connected devices in use today, and that
+number is expected to grow to 350 billion in the next ten years based on external source data.
+The chip market (worldwide semiconductor revenues) has grown by 5% per year in revenue on average over the past 20 years
+2020 market size: 466 billion$, 2030 market size: 1000 billion$ (10% CAGR)
+
+//STAGE of development: slow growth (transistioning to stalwart in the this decade)
+
+//Sector value chain : suppliers(ARM, MIPS) - Software(Cadence, Synopsys) - EUV machine by ASML - foundry - fabless companies - consumers
+
+//Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
+   global oppurtunity/exports :
+        limited to few businesses/limited customer usage
+
+---Products/services DEMAND check :
+//From where does the actual demand from for the company? 
+   2 types of customers: 
+    Memory chips: NAND and DRAM
+    Logic chips:  integrated device manufacturers (IDMs), foundries (produce chips for ‘fabless’ companies, which focus only on 
+      chip design and distribution, but do not manufacture microchips themselves)
+    Demand comes Only from 5 semiconductor companies (Micron, SK hynix, Micron, Samsung, TSMC and Intel)
+
+//Type of demand
+    not a one time demand unlike other capex catering companies - every 2 yrs machines either need to be upgraded or replaced
+     94% machines upgraded at client location and 6% replaced
+    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
+        Electronics, Automobile,home furnishing)
+
+---Products/services SUPPLY check :
+1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
+  of each product
+DUV machine - less advanced chips (usage - waching machine, fridge, TV)
+EUV machine - highly advanced chips (pcs, servers, data centres, automobile, planes, IOT)
+
+
+2)COMPETETION :  None bcoz of the R&D costs and no gaurantee of success in the field
+differentiation provided to Customers:
+ASML solutions and systems help increases the value and lowers the cost of a chip,
+helps our customers to produce microchips – using fewer materials and consuming less energy during production
+
+------------------- FUTURE -----------------
+---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
+//Goal/Aim - global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
+//Strategies being employed: 
+heavy engagement with R&D and maintain leadership
+
+--- EARNING POWER 
+Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
+
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
+
+i)INTERNAL GROWTH OPPURTUNITIES
+///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /Capex addition - more and more countries announcing fab establishments roughly 72 new fabs around the world 
+      55 in Asia , 10 Americas, 7 Europe (lot of demand for DUV , EUV machines)
+    /The most important end markets driving ASML’s growth are the smartphone market and the data center, server
+     and storage market, but at the same time we are also seeing a huge increase in microchip demand in the
+     automotive and industrial electronics markets. 
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - old cutomers building more and more fabs for advanced chip manufacturing
+    /Launch New products - FY21 : EUVs, high NA machines, upgrade existing machines
+
+///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
+    /increasing the productivity of all our machine types - vision to improve energy efficiency of chips three-fold every 
+      two years, over the next 20 years (meaning every 2 yrs client needs to spend on capex)
+    /cost reduction by using circular economy (reduce, re-cycle and re-use)
+
+ii)EXTERNAL: GROWTH OPPURTUNITIES
+  /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
+    key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
+    areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
+    firm doesn't OR any firm that increases the efficieny of the current firm operations) 
+  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
+  /backward or forward integration
+  /Macroeconomic oppurtunity - sector will grow at 10% CAGR for in this decade
+  /Tailwinds - chips act signifies the strategic importance of chip manufacturing in the country, giving incentives to foundry players
+
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+i)Competettive advantage/MOAT Check? check MOATS_check.txt
+MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
+Brand - must be accompained with pricing power
+Network effect of 800 suppliers
+Intangible assets - keep Innovating and filing patents
+Switching costs - ONLY option to foundry players to build chips on scale
+Entry barriers - competetiors might take  decades to build EUV system and that too with no guarantee of success
+Luxury/Premium Range - each machine costs 200 billion$
+Monopoly
+
+
+ii)PRICING POWER (MUST HAVE MOAT)- very high
+  The product or service is unique and there is NO substitute
+
+----Capital Allocation 
+//SOURCE OF CAPITAL - Retained Earnings
+
+---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
+ growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
+Inorganic growth - M&A for strategic purpose or to build a MOAT
+Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+Buyback - 50% revenues
+Capex - new(very little)
+R&D - 15% revenues
+
+
+//RETURN ON CAPITAL
+https://goodcalculators.com/wacc-calculator/
+why Return on Capital is important?
+Over the longterm the investment returns will always resemble the capital returns
+
+Good company: ROCE is increasing and capital is constant 
+
+// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -non commoditized business , recently became non-cyclical and  recession proof
+  -niche industry
+  -proxy play on semiconductor industry capex 
+  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
+    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
+    burns more cash to be in the competettion)
+  -Scalable business model globally - but very limited customers
+  -Having Tailwinds
+  -If a person has lot of money can he break ur business and take away marketshare? NO
+  -Not an Ideal business as it takes 20% of revenues as R&D cost
+
+
+------------------------------ FINANCIAL STRENGTH CHECK --------------------------
+check Financial_Strength_Check.txt
+--expenses breakup and see which expenses are growing YOY
+//Financial strengths
+//Financial weakness
+
+------------------------------ MANAGEMENT CHECK --------------------------------
+//how is the Management and their Vision: check management discussion analysis in annual report
+Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
+and then if u put a capable and passionate management he will do wonders for you
+check Management_Check.txt
+
+----------------------------------- RISKS ----------------------------------------
+check Risk_Check.txt
+---Business Risk:
+not allowed to export machines to china
+The success of new product introductions is uncertain and depends on our ability to successfully execute our R&D programs
+most of our revenues from the sale of a relatively small number of products and limited clients
+
+
+---Financial Risk:
+foreign exchange risk
+
+---Management Risk:
+
+---Investment Returns Risk:
+
+
+
+-------------------------------------- THE END -----------------------------------------

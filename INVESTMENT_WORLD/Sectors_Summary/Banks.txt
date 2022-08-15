@@ -3,7 +3,7 @@ Backbone of an economy
 cyclical - but behaves like hybrid of cyclical and defensive
 Banking business depends on 3 things : MANAGEMENT, MANAGEMENT and MANAGEMENT
 Main business: Borrowing and lending
-Other services: invoice discounting, insurance, MF sale, escrow accounts, 
+Other services: invoice discounting, insurance, MF sale, escrow accounts, investing activities
 Revenue model = net interest income(main business) + non-interest income (other services)
 low cost of borrowing - bcoz they are regulated by RBI and backed by Govt
 Balance sheet scrutiny is very important
@@ -12,9 +12,15 @@ A mortgage is usually a loan sanctioned against an immovable asset like a house 
 Banks losses must be covered by earnings , if not reserves , if losses > (earnings + reserves), they end up eating equity
 Bank Financials doesn't tell much about the Financial health of bank, u need to look at annual report
 
+//Physical assets - 95%
+financial assets - 5%
 
 Look for:
 Asset quality(low NPAs) and how much does a bank earn on those assets (ROA) compared to peers
+A bank should have a pyramid structure to their assets, with their loans forming the base and being the largest item. 
+The next layer in the pyramid is investment securities. The amount of securities should be less than the loans, but more 
+than cash on hand. Finally, at the top of the pyramid is cash. When a bank doesn’t have a pyramid with its assets, they are 
+conducting business inefficiently (bcoz banks core business is lending and not investing)
 product/services portfolio depth and reach to public
 Geograpical spread - good to have both urban and rural,i.e as deep and wide as possible to reduce risk
 savings and other low cost deposits trend
@@ -55,14 +61,16 @@ Good if Non interest income continously growing(extra income for bank) But this 
 P/B between 2-3 is a good bet to buy strong banks
 
 
-Moats:
+Moats for strong players:
 Entry Barriers (difficult for new player to enter or the existing player to became No.1)
 Brand(for attracting deposits and talent)
 Size (Large banks have prudent risk management framework and access to Capital markets)
 Economies of Scale(take advantage of larger distribution network)
-Switching costs
+Switching costs - Banks are mostly sticky and repetetive business
 
 
 Risk:
-increase in NPAs during recession
+increase in NPAs during recession 
+Lending frauds - this can make a bank ZERO and eat away all its profits and reserves at a time
+operational risk - management taking wrong decisions
 not globally competetive 
