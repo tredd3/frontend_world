@@ -83,6 +83,9 @@ for rwx (read, write and execute)
   (2^2)+0+(2^0)=5
 so rwxrwxrwx is represented as 777
 chmod 777 <filename>
+chmod 777 -R <directory>
+chmod 744 <filename> //read, write and execute for the owner and read only for the group and all others
+chmod 755 <filename> //read, write and execute for the owner and only read , execute for the group and all others
 d-Directory	r-Read	w-Write	x-Execute
 If any of these letters is replaced with a hyphen (-), it means that permission is not granted. For example:
 

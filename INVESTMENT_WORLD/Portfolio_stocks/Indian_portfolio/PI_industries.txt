@@ -81,6 +81,7 @@ Valuation :
 
 //non-current Liabilities - <value>
 
+
 2)Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
@@ -135,23 +136,20 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: B2B goods
   What does it do: (what is the actual business): 
   How does it do :
-    backward integration
-    import substitution from china
-    only one of the 40 indian companies to be given sustainable care logo
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
-  Globally competetive company: Yes
+  Globally competetive company: NO
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
   Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones): 900 clients, 40+ countries
+  Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -207,8 +205,13 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio :
-
+1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
+  of each product
+Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
+always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
+ on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
+e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
+  only based on EV exposure
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
@@ -259,7 +262,7 @@ i)INTERNAL GROWTH OPPURTUNITIES
     /penetration - Acquire new customers in untapped and rural areas
     /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
       does capex to service the demand)
-    /import substitution (Atam nirbhar bharat) - by doing very high capex
+    /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
     /Strong Order inflows (only for B2B companies)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
@@ -289,12 +292,18 @@ i)INTERNAL GROWTH OPPURTUNITIES
     on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
+  /cloning other great company strategies
   /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
     key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
     areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
     firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /backward and forward integration 
-  /Tailwinds - china+1, russia Ukrain War leading to supply chain disruption 
+  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
+  /backward or forward integration
+  /Macroeconomic oppurtunity
+  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
+   even if the company retains its market share and can sustain over the years it can grow effortlessly
+  -support from govt - relief packages etc - (not preferred if relief is for short term)
+  /Tailwinds - china+1, russia Ukrain War etc
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -448,8 +457,6 @@ check Management_Check.txt
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
-what happens if any of the risks play out? will it impact the business in a big way
-
 ---Business Risk:
 
 ---Financial Risk:

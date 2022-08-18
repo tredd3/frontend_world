@@ -1,0 +1,16 @@
+world's largest manufacturer of refactory prodcuts
+proxy play on steel industry
+backward integration (owns mines of magnesite)
+recycle used refactories
+cost of the materials is very less compared to end production
+commoditised products like steel, copper, aluminium, glass and plastic products are manufactured at very high temperatures (2000*c)
+The interior of melting furnance is made up of refactory materials so that the furnance itself doesn't melt
+ 
+//sector
+refactory products are made up of several materials including magnesite (material which RHI mines itself)
+All these refactories are installed at client's location by RHI staff
+steel industry - refactory materials can last from few hrs to several weeks
+glass industry - it can last up to 10yrs (wear and tear is replaced)
+
+//Moats
+customer approval is lengthy

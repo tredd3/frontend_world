@@ -81,7 +81,6 @@ Valuation :
 
 //non-current Liabilities - <value>
 
-
 2)Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
@@ -94,8 +93,9 @@ Valuation :
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+free cash flow -ve bcoz of operating cash flow(-ve net income) => company is bad and in-efficienct
+free cash flow -ve bcoz of operating cash flow(-ve WCC , i.e either bcoz of inventory increase or recievables increase)
+free cash flow -ve bcoz of capex => is it doing continous survival capex(10 yr check cash flow analysis)
 --use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 //check cashflow from financing section
 -- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
@@ -118,7 +118,7 @@ if long term debt is it increasing over the years?
   Cash:
   operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
 
-//Valuation check
+//Valuation check - Tijori finance valuation
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
 Price - is what people pay for the business
 Valuation is price compared to earnings 
@@ -410,8 +410,9 @@ https://goodcalculators.com/wacc-calculator/
 why Return on Capital is important?
 Over the longterm the investment returns will always resemble the capital returns
 
-Avg company : ROIC/ROCE ~= WACC
-Good company: ROCE/ROIC(return on capital) >> WACC (cost of cpital)
+Avg company : ROIC/ROCE ~= WACC and Capital is increasing and ROCE is decreasing (assuming there is no ongoing capex or money locked
+  in other activities)
+Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital) and 
 either ROCE is increasing and capital is constant OR Capital is increasing and ROCE is constant
 Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 i.e both ROCE and capital is increasing
@@ -455,6 +456,8 @@ check Management_Check.txt
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
+what happens if any of the risks play out? will it impact the business in a big way
+
 ---Business Risk:
 
 ---Financial Risk:

@@ -74,7 +74,8 @@ B BB BBB (Moderate to high risk)
 C (Very high risk)
 D (Default)
 //Deep Analysis
-1)wikipedia and news section
+Must: open RHP for complete information and risks (if a company is recently listed then this must)
+1)wikipedia and ticker tape news section
 2)company website - most important for updated info 
 search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
 3)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori

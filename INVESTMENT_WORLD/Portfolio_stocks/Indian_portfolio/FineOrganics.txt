@@ -135,23 +135,31 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  Nature of business: B2B goods 
+  What does it do: (what is the actual business): oleo chemicals with presence in food(human and cattle feed) and 
+    polymers(packaging industry, wires and cables, paints, pipes, engineering plastics)
+    oleo chemicals - derived from vegetable oil (environment friendly)
+    petro chemicals - derived from crude oil
   How does it do :
    proxy play on world FMCG market
    export oriented, global presence and scalability
-   plant based chemical derivatives(environment friendly)
-   greener chemistry and quality products
+   greener chemistry, quality and reliable products
+   minimum waste production in the manufacturing process - because these are bio based chemicals
+   in-house plant sign and engineering, reducing capex costs and quick commissioning
+   very good R&D and process innovation
+   supply chain - 80% raw material is domestically procured, palm oil is imported 
   Subsidaries/JVs:
+    JV to operate a manufacture plant in Germany - to supply to global customers
+    JV in thailand & malaysia for easier access to raw material
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+  REVENUE by GEOGRAPHY: India 45%, exports 55%
   Revenue by Product: 
-  Revenue by Customers: B2B(), B2C() , Govt
+  Revenue by Customers: B2B - 603 direct customers, 127 distributors sold to 5000 customers across 67 cutomers
   Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
@@ -161,15 +169,14 @@ Note: Categories of Stock: Fast growers
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
-//STAGE of development:
-pioneering - EV, green energy
-growth - internet
-maturity/saturation - FMCG
-declining - obselete - TV channels, print media
+expected CAGR of 10%
 
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//STAGE of development: pioneering/growth
+
+//Sector value chain : 
+vegetable oils -> base oleo chemicals -> derivatives -> application in end industry
+vegetable oils -> base oleo chemicals (comoditised, multiple players, easy to manufacture)
+base oleo chemicals -> derivatives (high margin, few players, complex manufacturing process and technology)
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -183,23 +190,12 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 ---Products/services DEMAND check :
 //From where does the actual demand from for the company? 
-  B2B (client diversification, strong order book - must be volume led growth)
-  B2C (how many users out of 140 cr population use it)
-  Business service companies (what all industries/companies need it)
-  Government
+  B2B 
   Global - from which all countries demand come from
 
 //Type of demand
-    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
-       insurance, real estate, Energy,Banking and finance, Investments)
-    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
-        Electronics, Automobile,home furnishing)
-    continous and constant/slow growth demand(FMCG, Food, Telecommunication) - volume growth and pricing power play
-    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
-     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
-    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
-      bcoz of high competettion given the size of oppurtunity
-
+    continous and growing demand - serves FMCG market
+    Transition Demand - from firms relying on petro chemicals 
 
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
@@ -257,17 +253,16 @@ i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /penetration - Acquire new customers in untapped and rural areas
-    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-      does capex to service the demand)
+    /snatch market share - Acquire customers from competetiors by taking away their market share 
     /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
     /Strong Order inflows (only for B2B companies)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
        products etc - but be careful here as they can move from India to someother country too) 
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
-    /increased consumption(volume led growth) - cutomers buy more of the current/old products
-    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
-    Note: mode of capex funding is also important: preference cash>debt>equity
+    /increased consumption(volume led growth) - repeat orders by cutomers with volume increase
+    /Launch New products:
+       entry in to new segments and does capex via reserves - cosmetics, feed nutrition
   3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
     Check Volume growth in investor presentation/Annual report to find this out
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
@@ -316,41 +311,19 @@ Note: do not invest in businesses whose moats are primarily driven by regulation
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
 Brand - must be accompained with pricing power
-Taste
 Network effect
 Intangible assets
-Switching costs - lot of trust and customer confidence
+Switching costs - lot of trust and customer confidence as it deals with taste that customer experience (for FMCG products) and
+  everytime the customer need to reveal his secret sauce (which needs a lot of trust)
 Entry barriers - less manufacturers in this space as it takes of lot of time for client approval and strict govt regulations
   also complex technology and manufacturing process is involved
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -if market size is less then the monopoly companies might face price heat from other smaller companies
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
 
-Note: Does MOAT Exists? 
-  if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
-   the profits? Imagine and think with a calm mind where do you see this company in the next 10 yrs,
-   take in to account, facts and reasoning not opinion
-  if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
-
-ii)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
-   or another company specific costs where the prices of everything would have gone up. During these unforseen situations company
-   might not make profits but atleast it shouldn't do business in losses
-Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
- like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
- business to competettion) 
- Proof: if costs increase then sales must increase and GPM trend is either stable or upwards(tijori) 
+ii)PRICING POWER (MUST HAVE MOAT)- yes
  This will happen only when :
    i)The product or service is unique and there is hardly any substitute - entry barriers for new players & importance of the chemical
      in their end product
    ii)NO bargaining power of suppliers: 30 yrs in industry and almost every large FMCG player is its client
    iii)NO bargaining power of buyers : trust and reliability
-
-Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
- debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
 
 Thesis :
 /Longterm Investment: Both MOATS and Earnings Growth oppurtunities exists
@@ -446,6 +419,9 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+highly regulated sectors - but this acts as a entry barrier as the quality os regulated and not the price
+linked significantly to commodity prices - but they have short term contracts and  JV in thailand & malaysia for easier access 
+ to raw material, also pricing power exists
 
 ---Financial Risk:
 

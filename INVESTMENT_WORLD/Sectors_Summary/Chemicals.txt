@@ -7,10 +7,13 @@ After Russian-Ukraine war, India becomes a destination for chemicals as Germany 
 Threat of product replacements (by a better alternative product)
 4 trillion USD is the Global chemical industry size - india contributes only 4%
 import 56 billion USD, export 41 billion USD
-Types of chemicals:
-commodity - anyone can manufacture
-specality - only few can do it - expected CAGR 12% for next 5yrs 
+
+//Types of chemicals listed in increasing order of value addition
+petrochemicals - commodity
+basic chemicals - anyone can manufacture
+specality chemicals- only few can do it - expected CAGR 12% for next 5yrs 
   50% of specality chemicals - agro chemicals, dyes and pigments
+performance chemicals 
 
 //chemical products
 Deepak nitrite - solvents (import oppurtunity), downstream products, entry to flourine space, backward integration(cost advantage),
