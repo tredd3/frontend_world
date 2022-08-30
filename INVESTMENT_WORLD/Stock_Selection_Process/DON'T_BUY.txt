@@ -20,36 +20,29 @@ GOLDEN RULES:
   Solution: 
   However you can buy companies providing services to above sectors as those comapnies will be at the receiving end and the
   above sectors will be at the spending end.
-  e.g: Sterlite technologies(telecom optical fibre setup and monitoring services)
+  e.g: GMM Faudler (proxy play on chemical and pharma capex), RHIM (steel & glass capex), ASML (semiconductor capex)
 /CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
-e.g some pharma companies put >40% of revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash
+ some pharma companies put >40% of revenues in R&D, if it succeeds then new revenue stream but if it fails then stock price will crash
  However if you find an exceptional company(strong MOAT) which is both efficient and profitable in above sectors then buy
-/companies that have HUGE debt or need to take debt CONTINOUSLY to survive 
-during Bull run: it will eat away profits => EPS decreases => share price decreases
+ Solution : proxy play
+   e.g: LTTS (R&D spending by big companies goes as revenues to these companies)
+       Tarsons (pharma and chemical R&D, hospital & diagnostic chain)
+/companies that have HUGE debt or need to take debt CONTINOUSLY to survive (working capital cycle is high)
+during Bull run: it will eat away profits bcoz of interest payments => EPS decreases => share price decreases
 during Bear crash: it can make company bankrupt
 and also company has to pay interest even if it is in loss => assets needs to be sold => bankruptcy
+ Solution : Invest in banks & Financial firms with conservative & strong management
 /Combination of working capital heavy(need more capital/cash to generate sales) + more CCC days(need more time to generate
  cash from operations) => deadly combination and a sure shot wealth destructor
 /Avoid industries that are highly competetive and no compnay has a DCA like auto, telecom, aviation industries - as 
     no company sales can grow consistently and none can make huge profits due to zero pricing power
+  Solution: Proxy play on Auto, telecom and Aviation parts suppliers or services providers
+  e.g: Suprajit , Rajratan Global
 /Avoid companies that compete on price - invest in companies that compete on providing value addition
 Companies in heavy competetive market like Food delivery,E-commerce,Aviation are loss making because they always burn cash in 
 the form of discounts to attract customers as customers always search for discounted prices and not ready to pay premium.
 /Avoid commodity stocks like metals (unless u know the commodity cycle and track its prices ,global demand and  supply etc) because
  price is decided globally and it can take you around 80-90% down if you enter at he wrong time.
-/hotest trending stocks - you can be locked at very expensive valuation
-  Avoid hottest stock in the hottest industry like Saregama/KPIT/Tatamotors bcoz u need to continously rebuild the MOAT
-  problem with the tech/hottest industry: it attracts smart people and someone in the world will always try and get the technology 
-  products at cheaper price hence instead of focusing on tech stocks focus on companies that use this tech and become EFFICIENT. 
-  Now tomorrow when the R&D people succeed and come with a low cost product, 
-  Solution: Buy the company that is already using the tech will be more PROFITABLE (infact EFFICIENT + PROFITABLE)
-/stocks with buzz of next IBM, next Microsoft, next HUL etc - why don't you focus on existing brands and learn why they have become
- brands, instead of focusing on the next/upcoming brands
- However if you have studied and know the success mantra of brands and find a company that is replicating it, then  you can conside
-  buying it. for e.g: IDFC First bank has a CEO, who has a proven track record and following the footsteps of HDFC Bank interms
-  of shifting the focus to retail sector instead of infra and wholesale where the chances of loan default is high
-/Avoid companies that need a superstar manager to run it : bcoz the MOAT of the company is the manager himself.
-  if he goes from the company MOAT also goes and we don't want to own such businesses (e.g: IDFC First bank)
 /Avoid serial Acquirers like Zydus but if it is for strategic purpose(augumenting existing business) or pure investment related purposes
   then its fine else acquiring companies to become a conglomerate is bad.
    /Avoid companies that has grown only because of Acquisitions(like Zydus, Workday etc) because of the below reasons:
@@ -68,23 +61,42 @@ the form of discounts to attract customers as customers always search for discou
   company it is bound to see losses.Moreover overdiversification sometimes leads to producing of avg revenues as all the profitable
   businesses revenue will be nullified with bad/Average ones
   However if the company does the reverse and sell all the unrelated businesses then it will be a turnaround oppurtunity
-/Avoid companies dependent on govt lifting bans on imports, govt subsidies/schemes - bcoz once govt lifts bans then importers will 
-  take away the market share and eat profits
-/Avoid companies where order inflows only from govt or limited clients or will get orders only on low bidding(here others can 
+/Avoid companies that are dependent on govt OR Linked to Govt:
+  banning imports, anti dumping duty, govt subsidies/schemes like PLI - bcoz once govt lifts bans then importers will take away the 
+   market share and eat profits, moreover Govt might not be able to ban imports bcoz of International rules 
+  Govt is a major or only customer - delayed payments, no pricing power has govt decides the prices in tenders
+  Govt or Govt Agencies control the pricing - CDSL,BSE, MCX, IRCTC
+/Avoid companies where order inflows are majorly from limited clients or will get orders only on low bidding(here others can 
  take over or it will put pressure on margins) -  bargaining power of buyers will come in to existence and company will not have 
  bargaining power it will just be a puppet else it will lose busniess. Also company's future is highly dependent on fortunes
  of the client business
-/irregular growth  or too high growth in small span (50%/100% growth rate in 1-2 years) - this is unsustainable
-/No new development of products or not catching up with current trends
-/B2B companies(suppliers) that doesn't have pricing power because of high competettion and also if they have high customer and 
-  revenue concentration then lose of a customer can be -ve to the firm
+/Avoid Cyclical companies with irregular growth  or too high growth in small span (50%/100% growth rate in 1-2 years) - this is unsustainable
+/No new development of products or not catching up with current trends - whereas its competettiors do
+/B2B companies(suppliers) that doesn't have pricing power because of high competettion, commoditised or no MOATs
  if the company increases price clients will look for other alternatives as the client margins squeeze as they need to procur these 
  in bulk and the clients always ask for disounts and if the B2B company don't give them discounts clients profitability is 
  affected leading to contract termination 
 Note: Hence B2B companies are always a price play. Unless they have some USP or they are low cost producer or they are in niche space
 i.e low competettion you are not supposed to buy 
-Exception: L&T, Intel , Nvidia etc bcoz they established a sense of trust/brand/customer loyalty with the end consumers
+E.g: L&T, Intel , Nvidia etc bcoz they established a sense of trust/brand/customer loyalty with the end consumers
+TSMC/ASML - R&D and Skilled workforce is so good that, no one was able to crack them even with huge amounts of capital for more 
+ than a decade
 /Avoid companies with limited market size and there is no option of scalability of business model - as the companies doesn't have 
   an option to expand beyond a certain point they might grow in short term but cannot be a multibagger in the longterm
-   e.g some companies market is limited to only domestic and that too only few businesses/clients need it
-
+   companies market whose market is limited to only domestic and that too only few businesses/clients need it - CAMS, MCX, BSE
+/Avoid companies whose business can be taken away or replicated by putting large amounts of money by biggies - must check this 
+  for high margin businesses , hottest sectors
+ e.g: diagnostic chains 
+/hotest trending stocks - you can be locked at very expensive valuation
+  Avoid hottest stock in the hottest industry like KPIT/Tanla/Route Mobile bcoz u need to continously rebuild the MOAT
+  problem with the tech/hottest industry: it attracts smart people and someone in the world will always try and get the technology 
+  products at cheaper price hence instead of focusing on tech stocks focus on companies that use this tech and become EFFICIENT. 
+  Now tomorrow when the R&D people succeed and come with a low cost product, 
+  Solution: Buy the company that is already using the tech will be more PROFITABLE (infact EFFICIENT + PROFITABLE)
+/stocks with buzz of next IBM, next Microsoft, next HUL etc - why don't you focus on existing brands and learn why they have become
+ brands, instead of focusing on the next/upcoming brands
+ However if you have studied and know the success mantra of brands and find a company that is replicating it, then  you can conside
+  buying it. for e.g: IDFC First bank has a CEO, who has a proven track record and following the footsteps of HDFC Bank interms
+  of shifting the focus to retail sector instead of infra and wholesale where the chances of loan default is high
+/Avoid companies that need a superstar manager to run it : bcoz the MOAT of the company is the manager himself.
+  if he goes from the company MOAT also goes and we don't want to own such businesses (However Financial companies are excluded)

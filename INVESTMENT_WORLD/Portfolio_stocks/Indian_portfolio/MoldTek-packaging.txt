@@ -135,9 +135,12 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): Rigid packing catering to paints, FMCG, Lubes
   How does it do :
+    Continous increase of IML share in Revenues - leading to higher margins 
+    High Margins due to FMCG Industry
+    Machines are made in-house
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
@@ -147,8 +150,13 @@ know about the company:
   Globally competetive company: NO
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
-  Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones):
+    IML : 66%
+    Non-IML : 34%
+  Revenue by Customers: B2B 100%
+      Paints - 55% (Asian paints 35%)
+      FMCG - 23%
+      Lubes - 22%
+  Clients(Important ones): All FMCG and Paint companies in India
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -206,11 +214,8 @@ at profitable end of value chain), demand and supply (size of opportunity)
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
+IML (in mold labelling) - labelling during the process the container is made
+Non- IML - 
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
@@ -350,12 +355,7 @@ Pricing power implies people are willing to pay premium (can the company increas
      Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
      Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
     Note: Account payables is high meaning company having bargaining power
-   iii)NO bargaining power of buyers :
-     Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
-     the company needs to give the product on credit ) - if client base is limited then company doesn't have a choice but to sell 
-     the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
-     OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
-     product is a commodity (then people always look for low price as value is same across producers)
+   iii)bargaining power of buyers exists: becuase of commoditized nature of business
 
 Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
  debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
@@ -457,6 +457,10 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+raw material concentration from reliance - 85%
+Revenue concentration from paints - 35%
+B2B player with bluechip companies as customers - hence bargaining power lies with them
+fortunes tied to other industries
 
 ---Financial Risk:
 

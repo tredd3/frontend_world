@@ -137,13 +137,20 @@ Investor presentation for reference:
 -------------------- PAST --------------------
 know about the company:
   Nature of business: B2B goods
-  What does it do: (what is the actual business): 
+  What does it do: (what is the actual business): agrochemical industry
   How does it do :
+   PI has created something structural out of a cyclical industry by grabbing on to the massive tailwinds presented by the 
+    export opportunity and is one of its kind business model in the Indian Agrochemical industry with no peers of similar size 
+    or capabilities
+   Custom Synthesis - Strategically the company focuses on only new products and on those molecules where only 1 or 2 players can supply.
+   Domestic markets - PI has differentiated by creating brands and by collaborating with the MNC’s/innovators for launching products in India.
+    PI built a network effect where innovator products can be launched easily with less hassle
+  Gain market share bcoz of low labor costs & technology advantage and hence low cost products
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
-  market share: 
+  market share: global share 10%
   Presence : offices in India /US etc
   Globally competetive company: NO
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
@@ -164,15 +171,23 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+5 billion $ Industry - Globally
+Every year agri land is being reduced across the world
+Hence Agrochemicals are used to increase the yield
+Agrochemicals are used for crop protection, crops are damaged by different types of pests, locusts, fungus, weeds, etc.
+Pesticides are of various types such as insecticides, fungicides, herbicides, and biopesticides. 
+India’s pesticide penetration is significantly lower at 0.6 kg/ha compared to 5-7 kg/ha in the US and 11-12 kg/ha in Japan
+agriculture is a cyclical industry and as it depends on n number of factors like farmgate prices, food inflation, monsoons, etc.
+industry is very fragmented in nature with over 800 formulators and 125 technical grade manufacturers
+
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
 maturity/saturation - FMCG
 declining - obselete - TV channels, print media
 
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//Sector value chain : raw material -> intermediate -> Technical Grade Manufacturer - Formulation - Distributor - Retailer - Farmer
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -205,23 +220,28 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
-
+1)Product portfolio :
+manufacturing for global innovators - manufacturing of Patented molecules which is a high margin area,
+ Out of the top 20 global innovators, 18 of them are Pi industries’ customers.
+ PI reduces the cost of manufacturing for its clients
+ PI offers several services that go into commercializing a molecule.
+ only 2 suppliers per Innovator and PI is one of them
+ 65:70% of the contracts for CSM business are long term in nature and the remaining don’t have long term contracts
+ PI Ind has pricing power to pass on the raw material volatility in the CSM business.
+Domestic Market -
+10,000 channel partners and has more than 84,000+ retail points. PI is the 3rd largest player in a fragmented domestic market where
+ it competes with more than 300+ formulators
+3 strategies in its domestic business: 
+in-licensing the molecules that it thinks can have potential in the domestic markets (by taking rights from global innovators)
+co-marketing and
+marketing/manufacturing select branded generics.
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  what is the unlisted players market share - 
-  listed peers market share -
-  postion among peers - 
-  global competettion - imports risk from china or any other low cost producer country?
-  threat of new entrants
+  what is the unlisted players market share - very high
+  global competettion - mostly from china
+  threat of new entrants - very low bcoz of huge entry barriers
 Note: 
  if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
  if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
@@ -259,51 +279,24 @@ earnings source is more than earnings itself bcoz earnings source decides whethe
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
-    /penetration - Acquire new customers in untapped and rural areas
-    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-      does capex to service the demand)
-    /import substitution (Atam nirbhar bharat)
-    /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
+    /snatch market share - from Chinese players or Local players
+    /Global expansion/ exports
+    /Strong Order inflows (from existing customers)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
        products etc - but be careful here as they can move from India to someother country too) 
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
     /increased consumption(volume led growth) - cutomers buy more of the current/old products
     /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
-  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
-    Check Volume growth in investor presentation/Annual report to find this out
-    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
-    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
-    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
-    then demand has dried up OR competetiors taking away market share - Both are bad situations
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
-    /promoter OR management change
-    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
-    //spending on technology for achieving efficiency and modernising the workflow or processes
-    /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
-    /process optimisation and innovation - chemicals and pharma mainly
-    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
-    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
-    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
-    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
-    on making the firm efficient or not apart from focusing on sales
+    /cost cutting - using flow chemistry
+    /process optimisation and innovation - using flow chemistry
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
-  /cloning other great company strategies
-  /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
-    key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
-    areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
-    firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
-  /backward or forward integration
-  /Macroeconomic oppurtunity
-  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
-   even if the company retains its market share and can sustain over the years it can grow effortlessly
-  -support from govt - relief packages etc - (not preferred if relief is for short term)
-  /Tailwinds - china+1, russia Ukrain War etc
+  /Acquistions - PI has been working on diversifying into CSM of pharma or other speciality chemicals like imaging, electronics etc.
+   The size of opportunity here is 8x the size of the market PI is in right now.
+  /backward integration of raw materials to reduce dependency on chinese suppliers or go for local suppliers atleast
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -316,47 +309,19 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale
-Low cost producer - check product quality and profitability ratios
-Brand - must be accompained with pricing power
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -if market size is less then the monopoly companies might face price heat from other smaller companies
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
 
-Note: Does MOAT Exists? 
-  if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
-   the profits? Imagine and think with a calm mind where do you see this company in the next 10 yrs,
-   take in to account, facts and reasoning not opinion
-  if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
+Low cost producer - reduces the cost for its customers by focusing on its processes
+Network effect - distribution network throughout India
+Switching costs - only 2 suppliers per Innovator and PI is one of them
+Entry barriers - this business involves a lot of trust and respect for IPR and hence Global innovators prefer to deal with 
+  limited suppliers. 
+Exit Barriers - The global innovators typically name PI Industries as a manufacturer of the relevant product while registering 
+  the product overseas, amending which would require a lot of additional time and costs. This acts as an exit barrier.
 
-ii)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
-   or another company specific costs where the prices of everything would have gone up. During these unforseen situations company
-   might not make profits but atleast it shouldn't do business in losses
-Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
- like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
- business to competettion) 
- Proof: if costs increase then sales must increase and GPM trend is either stable or upwards(tijori) 
- This will happen only when :
-   i)The product or service is unique and there is hardly any substitute
-   ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
-     Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
-     Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
-    Note: Account payables is high meaning company having bargaining power
-   iii)NO bargaining power of buyers :
-     Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
-     the company needs to give the product on credit ) - if client base is limited then company doesn't have a choice but to sell 
-     the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
-     OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
-     product is a commodity (then people always look for low price as value is same across producers)
+ii)PRICING POWER (MUST HAVE MOAT):
+ PI Ind has pricing power to pass on the raw material volatility in the CSM business.
+ Moderate pricing power in the domestic business due to intense competition.
+GPM : 47%
 
 Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
  debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
@@ -392,18 +357,8 @@ RETAINED EARNINGS by generating more operating cash
 
 ---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
  growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
-Cash - waiting for oppurtunities
-Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
-Inorganic growth - M&A for strategic purpose or to build a MOAT
-Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
-Buyback - preferred
-Capex - new
-Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
-modernising or technology upgradation of operations
-R&D - for future business but the amount spent has to be monitored
-Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
-Working capital (tied up in) - bad
-MOAT building or repairing or strengthening (so that earnings are not snatched by someone)
+capex
+Acquistion
 
 
 //RETURN ON CAPITAL
@@ -458,6 +413,14 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+Product concentration risk: As in CSM businesses, top 5-6 molecules contribute 70% to the sales. And in the domestic business 
+  like other players in the industry top 5-6 products are 50-60% of the sales - To mitigate these risks PI is growing its 
+  pipeline of molecules and has a strategy of launching 2-3 new products in the domestic market going forward.
+Products going off patents: generic players will enter the market to compete with PI and there will be price erosion 
+Moderate pricing power in the domestic business due to intense competition - To mitigate this, the company is launching new 
+differentiated products and growth might soon come back in the domestic business - Meanwhile the company has reduced costs to 
+ maintain margins
+Bargaining power of suppliers exists - but customers only have 2 supppliers , hence so they don't take drastic steps
 
 ---Financial Risk:
 

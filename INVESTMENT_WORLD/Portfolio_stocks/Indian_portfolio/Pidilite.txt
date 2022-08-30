@@ -81,7 +81,6 @@ Valuation :
 
 //non-current Liabilities - <value>
 
-
 2)Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
@@ -136,22 +135,35 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  Nature of business: consumer goods & B2B goods
+  What does it do: (what is the actual business): Pioneer in Consumer & Specialty Chemicals
+    Adhesives & sealants, construction chemicals, art & craft products & polymer emulsions
+    Exporter of Pigments and Pigment emulsions
   How does it do :
+    by passed wholesalers and directly dealt with carpenters
+    Educating carpenter to use fevicol and engaging with carpenters to get the market insights & did R&D to launch new products
+    Raw material - based on crude oil
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
-  market share: 
-  Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+  market share: 70% (india)
+  Presence : International manufacturing facilities in USA, Thailand, Dubai, Brazil, Egypt, Bangladesh, Sri Lanka & Kenya
+  Globally competetive company: Yes
+  REVENUE by GEOGRAPHY: India 85%, Global 15%
   Revenue by Product: 
-  Revenue by Customers: B2B(), B2C() , Govt
+    Adehsives & Sealants(Fevicol, Fevistick, M-seal) - 54%
+    Construction & Paint Chemicals(Roff-tiles adhesive, Dr.fixit) - 20%
+    Art & Craft Materials (Glass and Fabric adhesive) - 6%
+    Industrial Resigns - 6%
+    Industrial Resins, Construction chemicals - 7%
+    Pigment & Preparations - 6% (Textile printing)
+  Revenue by Customers: 
+     Consumer & Bazaar - 80%
+     B2B - 20%
   Clients(Important ones):
 promoters:
-why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
+why did the promoters start the business: to capture the huge oppurtunity in adhesive industry
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -188,31 +200,22 @@ at profitable end of value chain), demand and supply (size of opportunity)
 //From where does the actual demand from for the company? 
   B2B (client diversification, strong order book - must be volume led growth)
   B2C (how many users out of 140 cr population use it)
-  Business service companies (what all industries/companies need it)
-  Government
   Global - from which all countries demand come from
 
 //Type of demand
-    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
-       insurance, real estate, Energy,Banking and finance, Investments)
     continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
         Electronics, Automobile,home furnishing)
-    continous and constant/slow growth demand(FMCG, Food, Telecommunication) - volume growth and pricing power play
-    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
-     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
-    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
-      bcoz of high competettion given the size of oppurtunity
+    one time demand - for few products
+    Transition Demand - for few products
 
 
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
-
+Core categories - market leaders (fevicol, fevikwik)
+Pioneer Category - 
+Growth brands - capture market share from other products
+Sippy - high end floor coatings
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
@@ -260,9 +263,9 @@ i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /penetration - Acquire new customers in untapped and rural areas
-    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-      does capex to service the demand)
-    /import substitution (Atam nirbhar bharat)
+      Water leaking solution - only 3% cutomers address it
+    /snatch market share - from other products
+      floor Tiling to floor coating - huge scope
     /Global expansion/ exports - Launch products in new markets
     /Strong Order inflows (only for B2B companies)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
@@ -271,12 +274,6 @@ i)INTERNAL GROWTH OPPURTUNITIES
     /increased consumption(volume led growth) - cutomers buy more of the current/old products
     /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
-  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
-    Check Volume growth in investor presentation/Annual report to find this out
-    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
-    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
-    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
-    then demand has dried up OR competetiors taking away market share - Both are bad situations
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
@@ -316,21 +313,14 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale
+
 Low cost producer - check product quality and profitability ratios
 Brand - must be accompained with pricing power
-Taste
 Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -if market size is less then the monopoly companies might face price heat from other smaller companies
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
+Intangible assets - pioneers with IPs
+Switching costs - as fevicol only accounts for meagre 2% of the overall project cost but it is critical hence carpenters don't 
+      think of using other adhesives
+
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -338,28 +328,11 @@ Note: Does MOAT Exists?
    take in to account, facts and reasoning not opinion
   if NO MOAT what is the 10 yr picture u have in ur mind? will it build one?
 
-ii)PRICING POWER (MUST HAVE MOAT)- can the company be able to sustain in recession, inflation, supply chain disruption situations
-   or another company specific costs where the prices of everything would have gone up. During these unforseen situations company
-   might not make profits but atleast it shouldn't do business in losses
-Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
- like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
- business to competettion) 
- Proof: if costs increase then sales must increase and GPM trend is either stable or upwards(tijori) 
- This will happen only when :
+ii)PRICING POWER (MUST HAVE MOAT)- Yes
    i)The product or service is unique and there is hardly any substitute
-   ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
-     Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
-     Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
-    Note: Account payables is high meaning company having bargaining power
-   iii)NO bargaining power of buyers :
-     Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
-     the company needs to give the product on credit ) - if client base is limited then company doesn't have a choice but to sell 
-     the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
-     OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
-     product is a commodity (then people always look for low price as value is same across producers)
-
-Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
- debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
+   ii)NO bargaining power of suppliers: It the largest player in Adhesives, hence suppliers won't demand high price
+   iii)NO bargaining power of buyers : since the cost is very less and the criticality is high even though the price is 
+     increased people are ready to buy   
 
 Thesis :
 /Longterm Investment: Both MOATS and Earnings Growth oppurtunities exists
@@ -392,18 +365,9 @@ RETAINED EARNINGS by generating more operating cash
 
 ---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
  growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
-Cash - waiting for oppurtunities
-Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
 Inorganic growth - M&A for strategic purpose or to build a MOAT
 Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
-Buyback - preferred
 Capex - new
-Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
-modernising or technology upgradation of operations
-R&D - for future business but the amount spent has to be monitored
-Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
-Working capital (tied up in) - bad
-MOAT building or repairing or strengthening (so that earnings are not snatched by someone)
 
 
 //RETURN ON CAPITAL
@@ -419,28 +383,46 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Ideal business: Yes/No
+   always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
+
+   POSITIVES:
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
   -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Repeat business - people need to keep buying it to survive/daily needs 
+  -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+  -recession proof ? how did it perform in 2008 and 2020 crisis
     Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
-    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
-    burns more cash to be in the competettion)
   -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -proxy play on some industry ? 
+  -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability or no growth, hence the Survivor
+  -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+  -deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
+
+  NEGATIVES:
+  -dependent on govt OR Linked to Govt: Price controlled by Govt, Govt is the only Customer , Anti-dumping duty by Govt
+  -non Predictable for next 5-10yrs
+  -competes only on Price with very little value addition and attract via discounts like Food delivery, Paytm , Nykaa
+  -not recession proof
+  -commoditized business - if commoditized the it must be a low cost producer
+  -cyclical - cyclical revenues and cashflows
+  -highly competettive industry like Auto/Telecom/Aviation etc
+  -Non scalable business Either bcoz of limited market size OR Global competettion
+  -limited clients - Zero pricing power
+  -CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+  -CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
+  -If a person has lot of money he can break ur business and take away marketshare
+  -diworsefication - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
+  company 
+  -Avoid serial Acquirers
+  -B2B player that doesn't have pricing power because of high competettion, commoditised or no MOATs
 
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
@@ -457,6 +439,8 @@ check Management_Check.txt
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
+what happens if any of the risks play out? will it impact the business in a big way
+
 ---Business Risk:
 
 ---Financial Risk:

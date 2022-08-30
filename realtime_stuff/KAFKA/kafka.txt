@@ -70,4 +70,6 @@ In both cases, producers simply send the message to a topic and consumer can cho
 their need. Let us follow the steps in the next section to understand how the consumer can choose the messaging system of their choice.
 
 https://www.tutorialspoint.com/apache_kafka/apache_kafka_workflow.htm
+https://www.confluent.io/en-gb/blog/apache-kafka-intro-how-kafka-works/
+
 

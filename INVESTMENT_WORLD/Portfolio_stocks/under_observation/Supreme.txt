@@ -138,40 +138,28 @@ know about the company:
   Nature of business: business services/consumer goods/consumer services/B2B goods
   What does it do: (what is the actual business): 
   How does it do :
-    3 Acquistions kick started the company
-    vertical and horizontal integration - Cost optimisation through backward integration and recycling as well as maximising 
-    asset utilisation.
-    Optimise product mix with additional value-added products.
-    Phenol and Acetone import substitution from china
-    only one of the 40 indian companies to be given sustainable care logo
-    It is also among the top three global players* for xylidines, cumidines, and oximes
-    create wealth out of waste
-    6 bonuses since inception - shareholder focus
+    sheer focus on plastics
+    focus on longterm , continous dividends, superior capital allocation where we only invest in products where ROCE > 25%
+    capital prudence: only reserves will be used, no debt
+    zero affluent
+    10 technical colabaration across the world
   Subsidaries/JVs:
-    Deepak Phenolics - for phenol & Acetone manufacturing
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
   market share: 
-    12% Global market share, rest by chinese companies
-    Basics chemicals - 70% market share in India
   Presence : offices in India /US etc
-  Globally competetive company: Yes
-  REVENUE by GEOGRAPHY: India 70%, Europe 13%, US 4%, ASIA 10%
+  Globally competetive company: NO
+  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
-   Phenolics (58%)
-   Basic Chemicals (17%) - price senstivity
-   Fine & Speciality Chemicals (18%) - high margin
-   Performance Products (7%)
-  Revenue by Customers: 
-    Colour - 60%
-    Agro - 22%
-    Fuel - 10%
-    Pharma - 4%
-  Clients(Important ones): 900 clients in 6 continents(40+ countries) with more than 100 products.
+  Plastics piping products - 65%
+  Industrial products -13%
+  Packaging products - 15%
+  Consumer products - 5%
+  Revenue by Customers: B2B(), B2C() , Govt
+  Clients(Important ones):
 promoters:
-why did the promoters start the business: to capture the huge oppurtunity in chemical industry
- Promoter has a skin in the game  - he is from chemistry background 
+why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -190,11 +178,9 @@ pioneering - EV, green energy
 growth - internet
 maturity/saturation - FMCG
 declining - obselete - TV channels, print media
-  
-//Sector value chain : 
-Agro chemical -  raw material -> intermediate(Deepak Nitrite) -> Technical Grade Manufacturer - Formulation
-Pharma - key starting material -> advanced intermediate(Deepak Nitrite) -> API - Formulation
-Chemical - Feedstock - Bulk chemicals - Intermediates - specality chemicals
+
+//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
+at profitable end of value chain), demand and supply (size of opportunity)
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -227,26 +213,21 @@ Chemical - Feedstock - Bulk chemicals - Intermediates - specality chemicals
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio :
-/Basic Chemicals - bulk manufacturing , they reuse recycle waste & hence improved margins bcoz of efficienct process
-/Fine and specality - low volume and high margin business, customized as per the clients needs - usage in pharma, agro chemical
-/Performance chemicals -  usage in Textile, Paper, Detergent (cyclical and commoditized) , margins improved for last 2 yrs due to 
-   the biggest chinese player plant shutdown due to pollution concerns & other players exited due to huge competetion
-  These products have strict requirements in terms of performance and technical specifications.
-  Deepak fully integrated manufacturer of OBA which is backward integrated up to the feedstock of Toluene to PNT and further 
-   into DASDA and OBA - only player in the world who manufactures DASDA & OBA hence has cost advantage
-/Phenolics - Acetone is the by product
-Phenol usage - plastics & Adhesives
-Acetone - Pharma & Paints
-only 3 companies in the world with phenol manufacturing capacity 
-40% usage will be usedin capative consumption
-derivatives from phenol also have huge oppurtunity (for downstream products - forward integration) - good margins
+1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
+pipes
+packaging
+industrial - low growth
+composite cylinders
+
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  global competettion - china has 80% market share
-  threat of new entrants - not much in india but globally new entrants can enter
+  what is the unlisted players market share - 
+  listed peers market share -
+  postion among peers - 
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants
 Note: 
  if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
  if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
@@ -287,14 +268,10 @@ i)INTERNAL GROWTH OPPURTUNITIES
     /penetration - Acquire new customers in untapped and rural areas
     /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
       does capex to service the demand)
-    /import substitution (Atam nirbhar bharat) - by doing very high capex
     /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
-    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
-       products etc - but be careful here as they can move from India to someother country too) 
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
     /increased consumption(volume led growth) - cutomers buy more of the current/old products
-    /Launch New products - phenol derivatives
+    /Launch New products - capex using reserves only
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
@@ -310,12 +287,7 @@ i)INTERNAL GROWTH OPPURTUNITIES
     on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
-  /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
-    key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
-    areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
-    firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /backward and forward integration 
-  /Tailwinds - china+1, European gas crisis
+  /Macroeconomic oppurtunity : huge oppurtunity with sector growth
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -404,8 +376,13 @@ RETAINED EARNINGS by generating more operating cash
 
 ---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
  growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
+Cash - waiting for oppurtunities
+Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
 Inorganic growth - M&A for strategic purpose or to build a MOAT
-Capex - new (brown & greenfield)
+Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+Buyback - preferred
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
 modernising or technology upgradation of operations
 R&D - for future business but the amount spent has to be monitored
 Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
@@ -426,29 +403,47 @@ Ideal company : if it can redeploy the incremental capital for same/high returns
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Ideal business: Yes/No
+   always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
+
+   POSITIVES:
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
   -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Repeat business - people need to keep buying it to survive/daily needs 
+  -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+  -recession proof ? how did it perform in 2008 and 2020 crisis
     Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
-    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
-    burns more cash to be in the competettion)
   -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -proxy play on some industry ? 
+  -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability or no growth, hence the Survivor
+  -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+  -deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
 
+  NEGATIVES:
+  -dependent on govt OR Linked to Govt: Price controlled by Govt, Govt is the only Customer , Anti-dumping duty by Govt
+  -non Predictable for next 5-10yrs
+  -competes only on Price with very little value addition and attract via discounts like Food delivery, Paytm , Nykaa
+  -not recession proof
+  -commoditized business - if commoditized the it must be a low cost producer
+  -cyclical - cyclical revenues and cashflows
+  -highly competettive industry like Auto/Telecom/Aviation etc
+  -Non scalable business Either bcoz of limited market size OR Global competettion
+  -limited clients - Zero pricing power
+  -CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+  -CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
+  -If a person has lot of money he can break ur business and take away marketshare
+  -diworsefication - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
+  company 
+  -Avoid serial Acquirers
+  -B2B player that doesn't have pricing power because of high competettion, commoditised or no MOATs
+  -lower end of value chain
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt
@@ -461,21 +456,20 @@ check Financial_Strength_Check.txt
 Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
 and then if u put a capable and passionate management he will do wonders for you
 check Management_Check.txt
-Very Good Management
-Export focused 
-focus on high margin products
+
+Don't want to compete with unorganised 
+Don't want to compete with imported products
+Don't manufacture products where govt subsidy is involved 
+We don't want to increase govt business
+will only grow organically
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 what happens if any of the risks play out? will it impact the business in a big way
 
----Business Risk:
-pollution concern - might be
-risk of plant fire
-no pricing power/ volatile margins - phenol prices fluctuate
-basic chemicals business is exhausted
-some derivatives are commoditised - but it is a low cost player
-margin volatility
+---Business Risk: 
+PVC resign (commodity) prices will impact inventory - no pricing power in PVC segment which contributes 50% of revenue
+Inventory loss can happen (since CPVC is a commodity)
 
 ---Financial Risk:
 

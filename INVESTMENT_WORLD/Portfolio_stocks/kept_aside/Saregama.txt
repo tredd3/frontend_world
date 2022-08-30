@@ -137,13 +137,13 @@ Investor presentation for reference:
 -------------------- PAST --------------------
 know about the company:
   Nature of business: business services
-  What does it do: (what is the actual business): 
+  What does it do : (what is the actual business): music label business
   How does it do :
     India's only entertainment company with IP offerings across media channels(music, film, web and TV serials),
     delivery platform(physical and digital) and business models(licensing and retail)
     Large intellectual property portfolio of 142K+ songs, 64 films, 6k+ hours of TV content
     Acquistion of small & mid size music catalogues to plug in the content Gaps of last 25yrs
-    Presence across all indian languages
+    Presence across all indian languages - more focus on regional content
   Subsidaries/JVs:
   Target Audience: 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
@@ -153,6 +153,9 @@ know about the company:
   Globally competetive company: NO
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
+    Music 81%
+    Film/TV Serials - 17%
+    Publication - 1%
   Revenue by Customers: B2B
   Clients(Important ones): Music streaming(spotigy, jio saavan), Video streaming (Amazon, Netflix, Prime), broadcasting (sony, zee)
 promoters:
@@ -170,14 +173,16 @@ Note: Categories of Stock:
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
 avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+consolidated industry
+62% of entire industry profits comes from streaming, remaining is Downloads, physical etc
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
 maturity/saturation - FMCG
 declining - obselete - TV channels, print media
 
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//Sector value chain : music composers -> producers -> music label(Saregama) -> streaming companies -> end user
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -210,14 +215,15 @@ at profitable end of value chain), demand and supply (size of opportunity)
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
-  of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
-
+1)Product portfolio :
+1)Music
+    Carvaan - which is one time revenue model is made recurring by bringing in podcasts and content creators (and get ad revenue)
+    Music Licensing is the growth driver - subscription (irrespective of the song played or not they get the revenue), 
+      non-subscription ()
+    Youtube channel - region based
+    Social media platform, brands, OTT , Films playing music owned byb Saregama play (will fetch revenue to Saregama)
+2)films/TV Serials
+3)publishing
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
@@ -227,15 +233,15 @@ e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV 
   postion among peers - 
   global competettion - imports risk from china or any other low cost producer country?
   threat of new entrants
-Note: 
- if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
- if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
-   keep gaining market share and eventually turns profitable (keep an eye)
+
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
-Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
-  low CCC(less time taken to generate profits) is preferred
+Zee music:
+Tips:
+T-series: family run business
+Sony Music: Linked to Dharma productions
+Saregama: 
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
@@ -423,29 +429,49 @@ either ROCE is increasing and capital is constant OR Capital is increasing and R
 Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 i.e both ROCE and capital is increasing
 
+
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Ideal business: Yes/No
+   always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
+
+   POSITIVES:
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
   -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Repeat business - people need to keep buying it to survive/daily needs 
+  -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+  -recession proof ? how did it perform in 2008 and 2020 crisis
     Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
-    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
-    burns more cash to be in the competettion)
   -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -proxy play on some industry ? 
+  -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability or no growth, hence the Survivor
+  -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+  -deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
+
+  NEGATIVES:
+  -dependent on govt OR Linked to Govt: Price controlled by Govt, Govt is the only Customer , Anti-dumping duty by Govt
+  -non Predictable for next 5-10yrs
+  -competes only on Price with very little value addition and attract via discounts like Food delivery, Paytm , Nykaa
+  -not recession proof
+  -commoditized business - if commoditized the it must be a low cost producer
+  -cyclical - cyclical revenues and cashflows
+  -highly competettive industry like Auto/Telecom/Aviation etc
+  -Non scalable business Either bcoz of limited market size OR Global competettion
+  -limited clients - Zero pricing power
+  -CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+  -CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
+  -If a person has lot of money he can break ur business and take away marketshare
+  -diworsefication - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
+  company 
+  -Avoid serial Acquirers
+  -B2B player that doesn't have pricing power because of high competettion, commoditised or no MOATs
+  -lower end of value chain
 
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
@@ -463,8 +489,18 @@ check Management_Check.txt
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
 ---Business Risk:
+capital intensive business - over the years , the catelogue gets old &  people always need fresh songs
+highly competettive industry - hence margins not under control
+production houses coming up with their own Music labels
+any new person with lot of money can disrupt this business - as there is no differentiation that Saregama provides
+unpredictable - never know which song will be a hit, which movie will be a hit
+lower end of value chain - 0.1 rs per song play
 
 ---Financial Risk:
+low margin business :
+  present - only few songs are played repeatedly, not all songs are liked by everyone
+  future - people maynot even play those old hit songs as well
+  Hence profits from frequently played songs will cover the losses for other songs and profits/margins will always be less
 
 ---Management Risk:
 

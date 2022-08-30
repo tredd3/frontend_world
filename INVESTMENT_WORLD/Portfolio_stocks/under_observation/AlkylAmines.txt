@@ -25,7 +25,7 @@ Valuation :
   legal orders(confirm from wiki) and tickertape
   corporate actions, dividend history and announcements from tickertape
   check shareholding pattern(especially promoter) trend over the years in tijori
-    Promoter holding : higher is the better
+    Promoter holding : 75%
     Institutional ownership: lower is the better because if the company performs well they keep buying it and share price takes off
   promoter pledging
   Is the business easy to understand or complex : easy/complex
@@ -42,7 +42,6 @@ Valuation :
     if YES, what is your view 
     if NO, go and open their website, check public review in ecommerce or google search
   CRISIL Rating must be Above A and check Rating History for last 3 Years - upgraded from BBB to A-
-  open RHP for complete information and risks (if a company is recently listed then this must)
   can a fool run this business
   can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
    assuming that stock market is closed for next 5-10yrs are you ok holding the entire business without knowing its price every year?
@@ -81,6 +80,7 @@ Valuation :
 
 //non-current Liabilities - <value>
 
+
 2)Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
@@ -93,9 +93,8 @@ Valuation :
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow(-ve net income) => company is bad and in-efficienct
-free cash flow -ve bcoz of operating cash flow(-ve WCC , i.e either bcoz of inventory increase or recievables increase)
-free cash flow -ve bcoz of capex => is it doing continous survival capex(10 yr check cash flow analysis)
+free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
+free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
 --use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 //check cashflow from financing section
 -- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
@@ -135,43 +134,33 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): specality chemicals (Aliphatic amines)
+    Pharma - used in making the intermediate & API (Active Pharmaceutical Ingredient)
+    Chemical industry - it is used in agro chemicals, specailty chemicals, fine chemicals and rubber chemicals 
   How does it do :
-    3 Acquistions kick started the company
-    vertical and horizontal integration - Cost optimisation through backward integration and recycling as well as maximising 
-    asset utilisation.
-    Optimise product mix with additional value-added products.
-    Phenol and Acetone import substitution from china
-    only one of the 40 indian companies to be given sustainable care logo
-    It is also among the top three global players* for xylidines, cumidines, and oximes
-    create wealth out of waste
-    6 bonuses since inception - shareholder focus
+    Use Acetic acid and Ammonia as key material instead of Acrylonitrile to manufacture Acetronitrile
+    41 yrs in Amines Industry - with promoter having skin in the game
+    shift from commoditized to value added products
+    
   Subsidaries/JVs:
-    Deepak Phenolics - for phenol & Acetone manufacturing
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
-  market share: 
-    12% Global market share, rest by chinese companies
-    Basics chemicals - 70% market share in India
+  market share: 45%, Balaji amines 50%, rest 5%
   Presence : offices in India /US etc
-  Globally competetive company: Yes
-  REVENUE by GEOGRAPHY: India 70%, Europe 13%, US 4%, ASIA 10%
+  Globally competetive company: NO
+  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
-   Phenolics (58%)
-   Basic Chemicals (17%) - price senstivity
-   Fine & Speciality Chemicals (18%) - high margin
-   Performance Products (7%)
-  Revenue by Customers: 
-    Colour - 60%
-    Agro - 22%
-    Fuel - 10%
-    Pharma - 4%
-  Clients(Important ones): 900 clients in 6 continents(40+ countries) with more than 100 products.
-promoters:
-why did the promoters start the business: to capture the huge oppurtunity in chemical industry
- Promoter has a skin in the game  - he is from chemistry background 
+    Aliphatic amines - 50%
+    Amine derivatives - 25%
+    specality amines - 25% (high margin business)
+  Revenue by Customers: B2B
+    pharmaceutical - 60%
+
+  Clients(Important ones): 400 customers - All pharma and Agro chemical companies are Alkyl amines customers
+promoters: has skin in the game as he has chemistry background
+why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -184,17 +173,22 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+market Size is just 1% of chemical industry - niche and concentrated industry
+Globally Amines is a oligopolistic industry with 2-3 players catering to majority of demand
+Top 6 companies control 50% of Global capacity
+China is the largest producer and consumer accounting for 60% of global production
+60% gets consumed in pharma industry, 26% in agrochemicals - used as solvents
+for indian amine producers 50% revenue comes from Europe alone, USA and Japan are other key export markets
+Methanol one of the key raw material is imported from middle east
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
 maturity/saturation - FMCG
 declining - obselete - TV channels, print media
-  
-//Sector value chain : 
-Agro chemical -  raw material -> intermediate(Deepak Nitrite) -> Technical Grade Manufacturer - Formulation
-Pharma - key starting material -> advanced intermediate(Deepak Nitrite) -> API - Formulation
-Chemical - Feedstock - Bulk chemicals - Intermediates - specality chemicals
+
+//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
+at profitable end of value chain), demand and supply (size of opportunity)
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -227,26 +221,20 @@ Chemical - Feedstock - Bulk chemicals - Intermediates - specality chemicals
 
 
 ---Products/services SUPPLY check :
-1)Product portfolio :
-/Basic Chemicals - bulk manufacturing , they reuse recycle waste & hence improved margins bcoz of efficienct process
-/Fine and specality - low volume and high margin business, customized as per the clients needs - usage in pharma, agro chemical
-/Performance chemicals -  usage in Textile, Paper, Detergent (cyclical and commoditized) , margins improved for last 2 yrs due to 
-   the biggest chinese player plant shutdown due to pollution concerns & other players exited due to huge competetion
-  These products have strict requirements in terms of performance and technical specifications.
-  Deepak fully integrated manufacturer of OBA which is backward integrated up to the feedstock of Toluene to PNT and further 
-   into DASDA and OBA - only player in the world who manufactures DASDA & OBA hence has cost advantage
-/Phenolics - Acetone is the by product
-Phenol usage - plastics & Adhesives
-Acetone - Pharma & Paints
-only 3 companies in the world with phenol manufacturing capacity 
-40% usage will be usedin capative consumption
-derivatives from phenol also have huge oppurtunity (for downstream products - forward integration) - good margins
+1)Product portfolio - 
+Aliphatic amines - ethyl and methyl amines
+Amine derivatives
+specality amines
+
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  global competettion - china has 80% market share
-  threat of new entrants - not much in india but globally new entrants can enter
+  what is the unlisted players market share - 
+  listed peers market share -
+  postion among peers - 
+  global competettion - imports risk from china as it is the largest producer accounting for 60% of global production
+  threat of new entrants - low As it is a niche industry with a very small market of 2000-2500 crores.
 Note: 
  if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
  if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
@@ -284,17 +272,24 @@ earnings source is more than earnings itself bcoz earnings source decides whethe
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
-    /penetration - Acquire new customers in untapped and rural areas
+    /penetration - application in various user industries
     /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
       does capex to service the demand)
-    /import substitution (Atam nirbhar bharat) - by doing very high capex
+    /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
     /Strong Order inflows (only for B2B companies)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
        products etc - but be careful here as they can move from India to someother country too) 
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
     /increased consumption(volume led growth) - cutomers buy more of the current/old products
-    /Launch New products - phenol derivatives
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
+    Note: mode of capex funding is also important: preference cash>debt>equity
+  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
+    Check Volume growth in investor presentation/Annual report to find this out
+    /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
+    growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
+    money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
+    then demand has dried up OR competetiors taking away market share - Both are bad situations
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
@@ -310,12 +305,18 @@ i)INTERNAL GROWTH OPPURTUNITIES
     on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
+  /cloning other great company strategies
   /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
     key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
     areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
     firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /backward and forward integration 
-  /Tailwinds - china+1, European gas crisis
+  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
+  /backward or forward integration
+  /Macroeconomic oppurtunity
+  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
+   even if the company retains its market share and can sustain over the years it can grow effortlessly
+  -support from govt - relief packages etc - (not preferred if relief is for short term)
+  /Tailwinds - china+1, russia Ukrain War etc
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -331,18 +332,10 @@ Note: do not invest in businesses whose moats are primarily driven by regulation
 Economises of Scale
 Low cost producer - check product quality and profitability ratios
 Brand - must be accompained with pricing power
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -if market size is less then the monopoly companies might face price heat from other smaller companies
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
+
+Switching costs - local supplier is preferred as transportaion is very difficult as amines are hazardous chemicals
+Entry barriers - capital intensive and technical know how needed for manufacturing, clearances and customer approval take time
+Duopoly with Balaji Amines
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -404,8 +397,13 @@ RETAINED EARNINGS by generating more operating cash
 
 ---USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for achieving operating efficiency or focus on next phase
  growth and not for survival (like expenses , capex maintenance etc) - if it uses for survival then it is capital intensive business
+Cash - waiting for oppurtunities
+Organic growth - putting back the money in the same business like meaningful expenses provided you maintain your return ratios(ROE/ROCE/ROIC)
 Inorganic growth - M&A for strategic purpose or to build a MOAT
-Capex - new (brown & greenfield)
+Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
+Buyback - preferred
+Capex - new
+Capex - old PLANT/MACHINERY maintainance (this can't be for ever year meaning sustainence capex is bad for the company)
 modernising or technology upgradation of operations
 R&D - for future business but the amount spent has to be monitored
 Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
@@ -418,36 +416,54 @@ https://goodcalculators.com/wacc-calculator/
 why Return on Capital is important?
 Over the longterm the investment returns will always resemble the capital returns
 
-Avg company : ROIC/ROCE ~= WACC and Capital is increasing and ROCE is decreasing (assuming there is no ongoing capex or money locked
-  in other activities)
-Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital) and 
+Avg company : ROIC/ROCE ~= WACC
+Good company: ROCE/ROIC(return on capital) >> WACC (cost of cpital)
 either ROCE is increasing and capital is constant OR Capital is increasing and ROCE is constant
 Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Ideal business: Yes/No
+   always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
+
+   POSITIVES:
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
   -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Repeat business - people need to keep buying it to survive/daily needs 
+  -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+  -recession proof ? how did it perform in 2008 and 2020 crisis
     Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
-    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
-    burns more cash to be in the competettion)
   -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -proxy play on some industry ? 
+  -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability or no growth, hence the Survivor
+  -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+  -deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
+
+  NEGATIVES:
+  -dependent on govt OR Linked to Govt: Price controlled by Govt, Govt is the only Customer , Anti-dumping duty by Govt
+  -non Predictable for next 5-10yrs
+  -competes only on Price with very little value addition and attract via discounts like Food delivery, Paytm , Nykaa
+  -not recession proof
+  -commoditized business - if commoditized the it must be a low cost producer
+  -cyclical - cyclical revenues and cashflows
+  -highly competettive industry like Auto/Telecom/Aviation etc
+  -Non scalable business Either bcoz of limited market size OR Global competettion
+  -limited clients - Zero pricing power
+  -CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+  -CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
+  -If a person has lot of money he can break ur business and take away marketshare
+  -diworsefication - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
+  company 
+  -Avoid serial Acquirers
+  -B2B player that doesn't have pricing power because of high competettion, commoditised or no MOATs
+  -lower end of value chain
 
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
@@ -461,23 +477,24 @@ check Financial_Strength_Check.txt
 Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
 and then if u put a capable and passionate management he will do wonders for you
 check Management_Check.txt
-Very Good Management
-Export focused 
-focus on high margin products
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
-what happens if any of the risks play out? will it impact the business in a big way
-
 ---Business Risk:
-pollution concern - might be
-risk of plant fire
-no pricing power/ volatile margins - phenol prices fluctuate
-basic chemicals business is exhausted
-some derivatives are commoditised - but it is a low cost player
-margin volatility
+1)Acrylonitrile is used in Auto industry and Acetronitrile is a by product of Acrylonitrile production
+Since Auto industry went down, Acetronitrile production went down so there was a shortage of Acrylonitrile as well and Alkyl 
+and Balaji has increased prices leading to strong margins.
+But when Auto sector growth is back and Acetronitrile production starts, Acrylonitrile supply increases and hence prices will 
+take a hit
+2)can be price war between Alkyl and Balaji - verify
+3)replacement risk - can we replace amines with someting else
+4)extremely hazardous so there is a risk of fire on plants
+5)raw material volatility
+
 
 ---Financial Risk:
+Alkyl mainly uses methanol, Ethyl Alcohol and Ammonia as it's Raw material. Prices of Methanol and ammonia are very volatile 
+ which leads to some volatility in margins.
 
 ---Management Risk:
 
