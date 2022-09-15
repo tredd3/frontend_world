@@ -3,6 +3,26 @@ POPULATION: 140cr (roughly 4X times US)
 Population growth rate: 1% per year
 35 % urban population 
 The median age in India is 28.4 years (70% population above age of 18)
+largest employment sector - agriculture
+second largest employemnt sector - textile
+
+
+//Sector contribution to GDP
+Agri, forestry & fishing - 17%
+INDUSTRIAL - 30%
+  Mining & Quarying - 2%
+  Manufacturing - 16%  
+    Textile - 2%
+    FMCG - 2%
+    Metal - 2%
+    Machinery - 4% 
+    Other - 6%
+  Electricity, gas , water supply - 2.7%
+  construction - 7% 
+SERVICES - 54%
+  Financial - 22%
+  Hotels, Transport, Communication - 16%
+  Public Admin, defence & others - 15%
 
 
 ------------- FINANCIAL --------------

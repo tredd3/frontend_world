@@ -21,12 +21,15 @@ participating - participating in the returns which insurer has invested in (usua
 //why Life insurance sector?
 as it is a must for everyone
 
-//business
+//business terminology
+high margin: individual insurance > group insurance
 high margin business : term plans/protection > non participating > participating > ULIP
 non participating - investors/share holders are most benefitted
 participating - customers are most benefitted
+Linked: payout Linked to financial markets
 
-//financials
+
+//accounting terminology
 persistency ratio : higher persistency means certainity of profts is high(i.e premiums are being paid out by insurance holders)
 complaint ratio: low is preferred, if it is higher surrender rates will be higher and persistency will be less
 solvency ratio: higher it is more guaranteed that insurer is gonna pay claims, min is 150% as set by IRDAI
@@ -34,6 +37,11 @@ cost ratio: less is better (operating expenses + commission expenses)/premium
 expenses are incurred and not amorotised over years, but profits are realized over years 
 The ‘embedded value’, in short, is the sum of the present value of future profits plus the market value of net assets.
 
+//Sector growth oppurtunities
+insurance penetration in India - 1%
+Global Avg: 7%
+Avg per capita Premium India - 60$
+Avg per capita Premium World - 370$
 
 //players
 1)LIC - strong agent network - subsidaries in singapore, bangladesh, Nepal , Mauritius etc

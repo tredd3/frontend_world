@@ -135,22 +135,38 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: business services
   What does it do: (what is the actual business): 
+    provides customer relationship management (CRM) software and applications focused on sales, customer service, marketing 
+    automation, analytics, and application development.
   How does it do :
+    SAAS model (subscription based revenues)
+    good acquistions even though at higher cost , could reap the benefit
+    Strong Innovation - New feature every quarter
+    90% of Fortune 500 companies are Salesforce customers in 2020
+
+    -ves:
+    70% expenses are spend in Sales And Marketing - hence very little profits generated
+    constant FCF in last 5 yrs
+    costly acquisitions
+    ROCE, ROE < 1%
+    
   Subsidaries/JVs:
-  Target Audience : 
-  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-    cannot be a multi bagger 
-  market share: 
-  Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+    slack - office messaging platform,
+    Tableau - data visualization and analytics software company
+    Mulesoft - RPA, connects all the applications, data and devices in a business
+  Target Audience : businesses
+  market size: huge 
+  market share: 20%
+  Presence : Salesforce has more than 160 office locations around the world.
+  Globally competetive company: Yes
+  REVENUE by GEOGRAPHY: Europe 20%, US 70%, APAC 10%
   Revenue by Product: 
-  Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones):
+  Revenue by Customers: B2B
+  Clients(Important ones): 150,000 companies of differing sizes are Salesforce customers.
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
+Founded by former Oracle executive Marc Benioff
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
 Note: Categories of Stock: 
@@ -163,12 +179,13 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
-//STAGE of development:
-pioneering - EV, green energy
-growth - internet
-maturity/saturation - FMCG
-declining - obselete - TV channels, print media
+sectors exposed to technological disruption
+FY25: 250 Billion $
+current sales of salesforce : 25 Billion $
+data collected from customers is used by Sales , Marketing, Service, Commerce, Analytics
+
+
+//STAGE of development: growth
 
 //Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
 at profitable end of value chain), demand and supply (size of opportunity)
@@ -206,11 +223,10 @@ at profitable end of value chain), demand and supply (size of opportunity)
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
+main - Sales Cloud, Service Cloud, Marketing Cloud, and Commerce Cloud
+Trailhead is a free online learning platform with courses focused on Salesforce technologies
+Salesforce Platform is a platform as a service (PaaS) that allows developers to create add-on applications that integrate into the main Salesforce.com
+Salesforce AppExchange is an online application marketplace that connects customers with third-party applications and consulting services
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
@@ -477,6 +493,15 @@ check Risk_Check.txt
 what happens if any of the risks play out? will it impact the business in a big way
 
 ---Business Risk:
+Geopolitical Risk:
+Since Salesforce operates globally, it faces geopolitical risks like governmental sanctions and export and import controls 
+ that could impair its ability to compete in international markets. Trade wars between US and China pose risk to such global business
+Foreign Exchange Risk - Forex fluctuations cause risk to Salesforce operations
+Legal & Regulatory Risk of using personal data
+  build a data center in the UK to handle European citizens personal data, will use Amazon Web Services hosting for countries 
+   with restrictive data residency requirements and where no Salesforce data centers are operating
+Financial Risk - Since Salesforce has a knack of doing acquisitions, one big failed acquisition can deteriorate the value 
+ for shareholders and pose a financial risk
 
 ---Financial Risk:
 

@@ -1,6 +1,3 @@
-https://www.youtube.com/watch?v=62G_uwiMGiI&ab_channel=pranjalkamra
-https://www.youtube.com/watch?v=xhqANOnnNgU&ab_channel=CARachanaPhadkeRanade
-
 -------------------- SUMMARY --------------------
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 Regarding business always consider you are buying the whole business and not share of a company 
@@ -138,35 +135,64 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: consumer goods/consumer services
+  Nature of business: business services/consumer goods/consumer services/B2B goods
   What does it do: (what is the actual business): 
+    The company produces and distributes a wide range of carbonated soft drinks, non-carbonated drinks and packaged water sold 
+    under trademarks owned by PepsiCo
   How does it do :
-     deep discounting: place repeat orders in bulk volume (cost price of small retailer == selling price of DMART)
-     very quick inventory turnover 
-     bargaining power with suppliers because of repeat and bulk volume of goods
-     slow and steady expansion using internal accruals - only 220 stores so far since last 20 yrs, but reliance has 11,000 stores
-       most of them using debt and running in losses
-     penetration in a concentrated area and then replicate the model in other areas
-     not present in posh locations, significantly reducing land acquistion costs
+    Pepsi wanted to get out of manufacturing in India & VB captured the oppurtunity
+    31 manufacturing units in India in 27 states (4 units acquired from Pepsico)
+    cost cutting:
+      Backward integration for the production of preforms, crowns, plastic closures, corrugated boxes, corrugated pads, plastic 
+        crates and shrink-wrap films.
+      Reduce freight costs - by setting up plants in various geographies
+      VBL recycled ~73% of its PET sold during the three months ended March 31, 2022, and has a target to scale this to 100% by 2023
+    Willingness to invest in Distribution- VISI coolers, Distribution, Production Facilities etc.
+    85% pepsico india's volume contributed by Varun Beverages
+    it has a robust supply chain with 90+ owned depots, 2,500+ owned vehicles, 1,500+ primary distributors, and currently 
+    installed 775,000+ visi-coolers
+    it also has the sole franchisee operations in Nepal, Sri Lanka, Morocco, Zambia and Zimbabwe.
+    About 20 of the company’s plants, contributing 69% to the total production in 2021, fall in the ‘Safe’ category of Central 
+     Ground Water Authority of India or use surface water.
   Subsidaries/JVs:
+    The company also owns 55% stake (35% indirectly & 20% directly) in Lunarmech Technologies Pvt. Ltd. which produces and 
+    sells PET bottles caps and crown caps.
+    engaged with GEM Enviro Management Pvt Ltd for phased implementation of 100% recycling of used PET bottles 
+    Varun Beverages (Nepal) Pvt Ltd; i
+    n Sri Lanka under Varun Beverages Lanka (Pvt) Ltd; 
+    in Morocco under Varun Beverages Morocco SA; 
+    in Zambia under Varun Beverages (Zambia) Ltd; and 
+    in Zimbabwe under Varun Beverages (Zimbabwe) (Pvt) Ltd.
   Target Audience : 
-  market size: huge
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+  REVENUE by GEOGRAPHY: India, Nepal, SriLanka 81%, Africa 19%
   Revenue by Product: 
-  Revenue by Customers: B2C
+    carbonated soft drinks - 70% (sweet, non-alcoholic effervescent)
+    non-carbonated beverages - 7% (energy, sports drinks)
+    packaged drinking water - 23%
+  Revenue by Customers: B2B
   Clients(Important ones):
 promoters:
+Varun beverages is a part of the RJ group, which is the largest franchisee for Pizza Hut, KFC, Cream Bell and Costa Coffee in India.
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: fast grower
+Note: Categories of Stock: 
+  1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
+  2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
+  3)Fast Growers (Praj)
+  4)cyclicals(Auto industry, Travel)
+  5)Asset heavy(most of the PSUs)
+  6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+Beverage Market itself is growing at 8-10% per annum.
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -194,37 +220,52 @@ at profitable end of value chain), demand and supply (size of opportunity)
   Government
   Global - from which all countries demand come from
 
-//Type of demand - continous and growing demand 
+//Type of demand
+    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
+       insurance, real estate, Energy,Banking and finance, Investments)
+    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
+        Electronics, Automobile,home furnishing)
+    continous and constant/slow growth demand(FMCG, Food, Telecommunication) - volume growth and pricing power play
+    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
+     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
+    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+      bcoz of high competettion given the size of oppurtunity
 
 
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
+Carbonated drinks (pepsi, 7up, mountain dew, mirinda)
+energy drink
+club soda, Ice Tea
+Topicana
+Sports drink
+packaged water
+dairy products
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  global competettion - None so far
-  threat of new entrants - very little as it needs to burn more cash
-
+  what is the unlisted players market share - 
+  listed peers market share -
+  postion among peers - 
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants
+Note: 
+ if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
+ if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
+   keep gaining market share and eventually turns profitable (keep an eye)
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-Reliance & Bigbazar - rent expenses are around 5-8%, which is also expected to increase every year bcoz they are located in 
-   posh locations
-DMART on the other hand owns the stores , hence rent expense is 0 for life time
-Also revenue and profit per sq feet , is 3-4X for DMART compared to any peer
-
+how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
+Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
+  low CCC(less time taken to generate profits) is preferred
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
-  //does it delight the customers - yes because of low cost
-  //does it own consumers mind - yes
+  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 
@@ -248,16 +289,10 @@ earnings source is more than earnings itself bcoz earnings source decides whethe
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
-    /penetration - Acquire new customers in untapped and rural areas
-    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-      does capex to service the demand)
-    /import substitution (Atam nirbhar bharat)
-    /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
-    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
-       products etc - but be careful here as they can move from India to someother country too) 
+    /penetration - Acquire new customers in untapped and rural areas in india
+    /Global expansion/ exports - in Africa
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
-    /increased consumption(volume led growth) - cutomers buy more of the current/old products
+    /increased consumption(volume led growth) - summer leads to excessive consumption
     /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
   3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
@@ -289,9 +324,9 @@ ii)EXTERNAL: GROWTH OPPURTUNITIES
   /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
   /backward or forward integration
   /Macroeconomic oppurtunity
-  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
-   even if the company retains its market share and can sustain over the years it can grow effortlessly
-  -support from govt - relief packages etc - (not preferred if relief is for short term)
+    Beverage Market itself is growing at 8-10% per annum.
+    Juice market is growing at even a faster pace.
+    Increasing Per Capita consumption
   /Tailwinds - china+1, russia Ukrain War etc
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
@@ -305,13 +340,12 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale
-Low cost producer - check product quality and profitability ratios
-Brand - must be accompained with pricing power
+Economises of Scale - India & other developing countries per capita consumption increases , they will consume more & 
+    pepsi supplies more
+Brand 
 Taste
-Network effect
-Intangible assets
-Switching costs
+Network effect - supply chain & distribution 
+Intangible assets - from pepsi
 Entry barriers
 Luxury/Premium Range
 Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
@@ -467,6 +501,11 @@ check Risk_Check.txt
 what happens if any of the risks play out? will it impact the business in a big way
 
 ---Business Risk:
+20% concentrate cost decided by pepsi
+royalty on few products - very little
+success directly depends on pepsi's success, Change in Taste and Preferences of the consumer can impact both businesses
+losing license in between - agreement till 2039
+Difficulties in procuring the water supply
 
 ---Financial Risk:
 

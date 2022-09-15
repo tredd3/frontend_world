@@ -1,6 +1,3 @@
-https://www.youtube.com/watch?v=62G_uwiMGiI&ab_channel=pranjalkamra
-https://www.youtube.com/watch?v=xhqANOnnNgU&ab_channel=CARachanaPhadkeRanade
-
 -------------------- SUMMARY --------------------
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 Regarding business always consider you are buying the whole business and not share of a company 
@@ -138,35 +135,55 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: consumer goods/consumer services
+  Nature of business: business services/consumer goods/consumer services/B2B goods
   What does it do: (what is the actual business): 
   How does it do :
-     deep discounting: place repeat orders in bulk volume (cost price of small retailer == selling price of DMART)
-     very quick inventory turnover 
-     bargaining power with suppliers because of repeat and bulk volume of goods
-     slow and steady expansion using internal accruals - only 220 stores so far since last 20 yrs, but reliance has 11,000 stores
-       most of them using debt and running in losses
-     penetration in a concentrated area and then replicate the model in other areas
-     not present in posh locations, significantly reducing land acquistion costs
+    50 yrs in cable & wires industry
+    Distribution network of cables & wires to be used in FMEG products
+    common raw materials for both segments - high negotiating power 
+    In house manufacturing
+    focus on quality products (energy efficient & low cost)
   Subsidaries/JVs:
   Target Audience : 
   market size: huge
   market share: 
+     Cables : 20% (organised sector), 12% (organised + unorganised)
+     FMEG: 1%
   Presence : offices in India /US etc
   Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+  REVENUE by GEOGRAPHY: India 92%, others 8%
   Revenue by Product: 
-  Revenue by Customers: B2C
+    wires & cables : 90%
+    FMEG : 10%
+  Revenue by Customers: B2B(60%), B2C(40%)
   Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: fast grower
+Note: Categories of Stock: stalwart
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+wires vs cables
+wire - single conductor
+cable - multiple conductor
+FMEG industry size = 60,000 cr (7-8% annual growth expected)
+Cables & wires = 50,000 cr market size(10-15% CAGR expected)
+Raw materials - Copper, Aluminium, Steel
+power cables - power transmission & Distribution
+building wires - affordable housing, real estate 
+Instrumentation Cables - industry sector capex
+telecom cables
+
+70% organised, unorganised 30%
+KEI 7%
+KEC 2%
+Poylcab 12%
+Havells 5%
+Finolex 4%
+
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -194,37 +211,61 @@ at profitable end of value chain), demand and supply (size of opportunity)
   Government
   Global - from which all countries demand come from
 
-//Type of demand - continous and growing demand 
+//Type of demand
+    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
+       insurance, real estate, Energy,Banking and finance, Investments)
+    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
+        Electronics, Automobile,home furnishing)
+    continous and constant/slow growth demand(FMCG, Food, Telecommunication) - volume growth and pricing power play
+    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
+     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
+    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+      bcoz of high competettion given the size of oppurtunity
 
 
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
+//Wires & cables:
+Power Cables
+Control Cables - automotive segment
+Instrumentation Cables
+Optical Fibre Cables (OFC)
+Solar Cables - for 1 GW solar plant wires required is 4x that of thermal plant
+Building Wires
+Flexible Wires
+These wires and cables are used for variety of purposes across different sectors like electricity transmission, data and voice 
+ transmission, electrical wiring of residential and commercial buildings and several industrial uses like appliance manufacturing, automotive, railways, mining and oil and gas sectors.
+//Fans
+LED Lighting and Luminaires
+Switches and Switchgears
+Conduits and Accessories
+Solar Products
+Pumps, Pipes, and Fittings
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  global competettion - None so far
-  threat of new entrants - very little as it needs to burn more cash
-
+  what is the unlisted players market share - 
+  listed peers market share -
+  postion among peers - 
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants
+Note: 
+ if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
+ if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
+   keep gaining market share and eventually turns profitable (keep an eye)
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-Reliance & Bigbazar - rent expenses are around 5-8%, which is also expected to increase every year bcoz they are located in 
-   posh locations
-DMART on the other hand owns the stores , hence rent expense is 0 for life time
-Also revenue and profit per sq feet , is 3-4X for DMART compared to any peer
-
+how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
+    Havells is mostly retail and Polycab is B2B and retail, but largely B2B.
+    Havells WC days 31 bcoz of B2C dominace, Polycab has 76 days due to B2B dominance
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
-  //does it delight the customers - yes because of low cost
-  //does it own consumers mind - yes
+  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 
@@ -467,6 +508,11 @@ check Risk_Check.txt
 what happens if any of the risks play out? will it impact the business in a big way
 
 ---Business Risk:
+intense competetion in FMEG sector 
+most of FMEG are kind of comoodities - can be a price play
+possible disruption of IOT technology products
+cables & wires - one time demand & commodity product? 
+B2B play - high WC and low margins 
 
 ---Financial Risk:
 

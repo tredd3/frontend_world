@@ -1,6 +1,3 @@
-https://www.youtube.com/watch?v=62G_uwiMGiI&ab_channel=pranjalkamra
-https://www.youtube.com/watch?v=xhqANOnnNgU&ab_channel=CARachanaPhadkeRanade
-
 -------------------- SUMMARY --------------------
 you should have the curosity to carry out research like a Investigative Journalist with then have lots of patience to build the story
 Regarding business always consider you are buying the whole business and not share of a company 
@@ -138,31 +135,31 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: consumer goods/consumer services
+  Nature of business: business services/consumer goods/consumer services/B2B goods
   What does it do: (what is the actual business): 
   How does it do :
-     deep discounting: place repeat orders in bulk volume (cost price of small retailer == selling price of DMART)
-     very quick inventory turnover 
-     bargaining power with suppliers because of repeat and bulk volume of goods
-     slow and steady expansion using internal accruals - only 220 stores so far since last 20 yrs, but reliance has 11,000 stores
-       most of them using debt and running in losses
-     penetration in a concentrated area and then replicate the model in other areas
-     not present in posh locations, significantly reducing land acquistion costs
   Subsidaries/JVs:
   Target Audience : 
-  market size: huge
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
   market share: 
   Presence : offices in India /US etc
   Globally competetive company: NO
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
-  Revenue by Customers: B2C
+  Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
-Note: Categories of Stock: fast grower
+Note: Categories of Stock: 
+  1)slow growers(HUL,Dabur) - highly mature, revenue growth 1-5% inline with GDP growth or even lesser
+  2)stalwarts - 10-15% revenue growth (TataElixi, IEX)
+  3)Fast Growers (Praj)
+  4)cyclicals(Auto industry, Travel)
+  5)Asset heavy(most of the PSUs)
+  6)Turnarounds(Tata consumer products, NBCC,IDFC First bank) - raising from RIP to star 
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
@@ -194,7 +191,16 @@ at profitable end of value chain), demand and supply (size of opportunity)
   Government
   Global - from which all countries demand come from
 
-//Type of demand - continous and growing demand 
+//Type of demand
+    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
+       insurance, real estate, Energy,Banking and finance, Investments)
+    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
+        Electronics, Automobile,home furnishing)
+    continous and constant/slow growth demand(FMCG, Food, Telecommunication) - volume growth and pricing power play
+    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
+     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
+    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+      bcoz of high competettion given the size of oppurtunity
 
 
 ---Products/services SUPPLY check :
@@ -210,21 +216,25 @@ e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
              MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
              invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
-  global competettion - None so far
-  threat of new entrants - very little as it needs to burn more cash
-
+  what is the unlisted players market share - 
+  listed peers market share -
+  postion among peers - 
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants
+Note: 
+ if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
+ if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
+   keep gaining market share and eventually turns profitable (keep an eye)
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-Reliance & Bigbazar - rent expenses are around 5-8%, which is also expected to increase every year bcoz they are located in 
-   posh locations
-DMART on the other hand owns the stores , hence rent expense is 0 for life time
-Also revenue and profit per sq feet , is 3-4X for DMART compared to any peer
-
+how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
+Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
+  low CCC(less time taken to generate profits) is preferred
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
-  //does it delight the customers - yes because of low cost
-  //does it own consumers mind - yes
+  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
+  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
   //what value does it add to customers compared to competetiors?
   //how is the quality of product/service - Have u used the product/service ? 
     if YES, what is your view 

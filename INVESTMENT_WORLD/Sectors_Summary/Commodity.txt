@@ -58,3 +58,7 @@ Steel - Iron Alloy(1% carbon) used as a building material
  With around 5% of the Earth’s crust and as the 6th most common element in the universe, iron is a highly abundant and immensely 
  popular metal. Unalloyed iron is an unstable element that easily reacts with the oxygen from the air and forms iron oxide. 
  In order to make it more stable, it is commonly alloyed with other elements to create steel.
+ Steel mills inputs  - iron ore (Australia major producer, next Brazil), electricity
+ Usage - mostly real estate construction
+ The steel demand in China, which accounted for 52 per cent of the global demand in 2021, is witnessing a decline as the 
+ economy prepares for the combined impact of the property bubble, strict zero Covid lockdowns, and a severe ongoing heatwave.
