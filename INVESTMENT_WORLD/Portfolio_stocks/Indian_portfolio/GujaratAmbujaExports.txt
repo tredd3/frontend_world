@@ -51,7 +51,7 @@ Valuation :
 //Finance check:
 1)Balance sheet Strength check
 --Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
---(Price to book value) < 3 (can be an asset play depending on the current market value of assets)
+--(Price to book value) - 5 (not an asset play)
 
 //non-current assets - <value>
 -if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
@@ -106,10 +106,7 @@ free cash flow -ve bcoz of capex => is it doing continous survival capex(10 yr c
 --OPM(consistent and above 15%) trend - company has Efficient management 
 --NPM(consistent and above 15%) trend - good profitability
 Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
---ROE consistent and abive 10-15% - ROE is the real return as this indicates that owners wealth is being compounded 
- 1)NPM
- 2)Asset Turnover ratio
- 3)high D/E - check Debt enquiry below
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
 --check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
@@ -138,13 +135,31 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): Maize and Maize related products
   How does it do :
+    Commodity conglomerate with 3 business segments:
+    38% - Agro processing: single digit margin  (almost constant revenues)
+    5% - Cotton processing: single digit margin (almost constant revenues)
+    57% - Maize processing: Double digit margin
+      Input: Maize
+      Output: fibre + Maize derivatives (Glucose , Sorbitol , Starch)
+      
+    //Maize uses:
+    Oil - 19%
+    Healthcare & Pharma - 15%
+    Food & confectionery - 30%
+    Paper & packaging - 3%
+    Starch - 4%
+    Cattle feed - 26%
+    Chemical, Sopa - 4%
   Subsidaries/JVs:
   Target Audience : 
-  Globally competetive company: NO 
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
+  market share: 
   Presence : offices in India /US etc
+  Globally competetive company: NO
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
   Revenue by Customers: B2B(), B2C() , Govt
@@ -214,8 +229,8 @@ e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV 
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
-      MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never invest 
-      in a business that is present in a highly competettive industry that competes ONLY on price(price war) instead of value
+             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
+             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
   what is the unlisted players market share - 
   listed peers market share -
   postion among peers - 
@@ -227,9 +242,9 @@ Note:
    keep gaining market share and eventually turns profitable (keep an eye)
 
 3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
-Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
-  low CCC(less time taken to generate profits) is preferred
+Roquette - 15% market share, second largest startch producer in India, manufacturing units near raw material sources, customers
+   to reduce transportation costs
+Other Competettiors capacity and margins are lesser than GAEL
 
 
 4)Products/services Uniqueness and Quality check :
@@ -251,51 +266,36 @@ ideally a company that clones other successful strategies is almost bound to win
 
 --- EARNING POWER 
 Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
-1)Run way for Growth:
-market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-  cannot be a multi bagger 
-market share: 
-sector growth 
-scalable business i.e export oppurtunity
 
-
-2)Growth Oppurtunities check
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
-  1)Volume led growth -  Check Volume growth in investor presentation/Annual report to find this out
-    /penetration - Acquire new customers in untapped and rural areas
-    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-      does capex to service the demand)
-    /import substitution (Atam nirbhar bharat)
-    /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
-    /capex - brownfield or greenfield
-    /Launch New products 
-    /Product mix change - increase the share of high margin products
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+    /planning to increase Maize derivatives revenue to 45% from 35% (high margin business)
+    /capacity expansion from 3000TPD, 6000 TPD (which will capture market share from others)
+    /Import Substitution - Capex to produce Fermentation products of Maize
+    /Demand shift from other countries - Wants to become largest sorbitol producer outside China
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - cutomers buy more of the current/old products
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
-  2)Price led Growth 
-    /Avg price per product/service less than global avg - hence huge scope for growth
-    Note: ONLY price led growth is preferred when investing very high amounts (very large and matured companies)
+  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
+    Check Volume growth in investor presentation/Annual report to find this out
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
     growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
     money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
     then demand has dried up OR competetiors taking away market share - Both are bad situations
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
-    /promoter OR management change
-    /working capital cycle reduction
-    /spending on technology for achieving efficiency and modernising the workflow or processes
-    /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
-    /cost reduction: check OPM trend
-      1)raw material cost reduction - backward integration or bulk purchase
-      2)logistics cost reduction - putting plants near customer/raw material locations
-      3)process optimisation and innovation - chemicals and pharma mainly
-      4)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-      NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
-      after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
-      needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
-      But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
-      on making the firm efficient or not apart from focusing on sales
+    /process optimisation and innovation - chemicals and pharma mainly
+    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
+    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
+    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
+    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
+    on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
   /cloning other great company strategies
@@ -303,13 +303,14 @@ ii)EXTERNAL: GROWTH OPPURTUNITIES
     key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
     areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
     firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-  /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
-  /backward or forward integration
+  /Ethanol production - forward integration
+      1G ethanol plants utilize feedstock such as cereals and sugarcane juice and molasses as raw materials
+      2G plants utilize surplus biomass and agricultural waste to produce ethanol. 
   /Macroeconomic oppurtunity
   -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
    even if the company retains its market share and can sustain over the years it can grow effortlessly
   -support from govt - relief packages etc - (not preferred if relief is for short term)
-  /Tailwinds - china+1, russia Ukrain War, demand shift from other countries to India
+  /Tailwinds - china+1, russia Ukrain War etc
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -318,25 +319,19 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    is a no brainer to allocate capital for external growth opportunity by the Management
 
 
-3)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale
-Low cost producer - check product quality and profitability ratios
-Brand - must be accompained with pricing power
-Taste
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -if market size is less then the monopoly companies might face price heat from other smaller companies
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
+Low cost producer (supply side moat):
+  largest buyer of Maize in the country, hence it gets discounts leading to higher Margins
+  All plants close to maize producing regions in India - transportation cost reduction
+  plant establishment costs are very less compared to Competettiors
+Economies of Scale: 
+    5 lakh tones of own storage capacity, nearest Competettior have 60K storage
+    50% Maize starch exported in the country is done by GAEL
+Entry barriers: Debt free balance sheet with small players going bankrupt in down cycles
+
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 
@@ -484,6 +479,9 @@ check Risk_Check.txt
 what happens if any of the risks play out? will it impact the business in a big way
 
 ---Business Risk:
+Cotton yarn divison constant Revenues - hence company is not doing any capex
+weather dependencies on Maize crop
+Maize is a commodty whose price is highly volatile (Inventory loss) - but GAEL goes for longterm contracts
 
 ---Financial Risk:
 

@@ -13,10 +13,7 @@ coupled with chip shortages - Russia accounts for about 40% of the global produc
 
 
 //Auto sector stats
-In 2021, the number of electric vehicles sold was 3,24,840 units. The number of petrol and diesel vehicles sold stood at 18.3 
-million units. This means that electric vehicles stood at around 1.7% of the total vehicles sold. Interestingly, this proportion 
- was at 0.7% in 2019 and 2020.
-out of 1.7%(90% is by Tata Motors)
+
 
 //Engine types
 ICE(internal combustion engines) - diesel and petrol vehicles
@@ -36,6 +33,29 @@ Govt wants E20 fuel (20 per cent ethanol, 80 per cent petrol), which reduces hyd
 To meet this ambitious government target, the total ethanol capacity is required to be augmented by three times the capacity as of FY2021.
 
 
+//EVs
+Lithium Ion batteries - made of Lithium and cobalt
+coblat is available everywhere in the world but 70% of world supply comes from Congo(Africa)
+China controls almost all the metal supply chains
+New Kid in the block: Aluminium–air batteries produce electricity from the reaction of oxygen in the air with aluminium. They 
+ have one of the highest energy densities of all batteries, but they are not widely used because of problems with high anode cost 
+ and byproduct removal when using traditional electrolytes.
+In 2021, the number of electric vehicles sold was 3,24,840 units. The number of petrol and diesel vehicles sold stood at 18.3 
+million units. This means that electric vehicles stood at around 1.7% of the total vehicles sold. Interestingly, this proportion 
+ was at 0.7% in 2019 and 2020.
+out of 1.7%(90% is by Tata Motors)
+
+
+Challenges:
+Cost : 40% dedicated to batteries - bcoz Lithium, Cobolt & other rare materials mining is very expensive
+Lack of Lthium batteries recycle/decompose infra - currently only 5% Batteries are recycled
+No of EV charging stations: 2000 (Petrol Bunks: 80,000)
+Battery charging time is roughly 1 hr (lot of waiting in the stations)
+Battery swapping can be a rescuer but no standard battery specifications as such - it can't be enforced in the near future because
+  it will curb the innovation
+Electricity is need to charge batteries - India's 70% power production comes from Coal 
+
+
 //Fuel cell EVs
 Demand of Fuel Cell EVs to increase given Fuel Cells can
 be refueled, which is considerably faster than recharging.
@@ -46,11 +66,7 @@ Dealing with green hydrogen needs lot of expertise which India doesn't have
 Major countries in the world are considering to use this fuel as replacement to electric Vehicles or just another type of 
  clean vehicle
 
-
-//EVs
-Lithium Ion batteries - made of Lithium and cobalt
-coblat is available everywhere in the world but 70% of world supply comes from Congo(Africa)
-China controls almost all the metal supply chains
+//
 
 Maruti Suziki: By 2025 EVs will be available to premium market only
  Technology will be improved, but it will not be as good as that level that we can introduce a really affordable EV 

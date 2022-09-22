@@ -51,7 +51,7 @@ Valuation :
 //Finance check:
 1)Balance sheet Strength check
 --Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
---(Price to book value) < 3 (can be an asset play depending on the current market value of assets)
+--(Price to book value) - 5 (not an asset play)
 
 //non-current assets - <value>
 -if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
@@ -106,10 +106,7 @@ free cash flow -ve bcoz of capex => is it doing continous survival capex(10 yr c
 --OPM(consistent and above 15%) trend - company has Efficient management 
 --NPM(consistent and above 15%) trend - good profitability
 Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
---ROE consistent and abive 10-15% - ROE is the real return as this indicates that owners wealth is being compounded 
- 1)NPM
- 2)Asset Turnover ratio
- 3)high D/E - check Debt enquiry below
+--ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
 --check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
@@ -138,17 +135,30 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): manufacturing specialty fats and butter made from exotic seeds and nuts
   How does it do :
+    seeds and nuts sourcing from west Africa 
+    CBE - cocoa butter equivalent is the low cost replacement for cocoa butter(which has limitations)
+    CBE price is 30-40% less than cocoa butter
+    promoter has a degree in fat industry from Foreign industry
+    Abundant raw materials as they are present in the forest
+    Raw material sourcing:
+      shea nuts - west Africa
+      sal & other seeds - India(Tribals of Orissa, Jharkhand, MP)
   Subsidaries/JVs:
   Target Audience : 
-  Globally competetive company: NO 
+  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+    cannot be a multi bagger 
+  market share: 
   Presence : offices in India /US etc
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+  Globally competetive company: NO
+  REVENUE by GEOGRAPHY: India 36%, others 62%
   Revenue by Product: 
-  Revenue by Customers: B2B(), B2C() , Govt
-  Clients(Important ones):
+    Chocolate, Food & Confectionery - 80%
+    Cosmetics - 20%
+  Revenue by Customers: B2B
+  Clients(Important ones): Ferero, Loreal, The body shop, Mondelez
 promoters:
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
@@ -163,15 +173,23 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+sectors linked significantly to commodity prices 
+
+sector CAGR is 3%, Chocolate industry CAGR is 10%
+India per capita choclate Confectionery consumption is 0.12kg, World Avg is 5 Kg
+
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
 maturity/saturation - FMCG
 declining - obselete - TV channels, print media
 
-//Sector value chain : from sourcing to sales entire process and businesses involved must be known (you should always pick companies 
-at profitable end of value chain), demand and supply (size of opportunity)
+//Sector value chain : 
+raw materials => crude butter + de-oiled cake(raw material for cattle feed)
+crude butter refined => Gums(cosmetics) + refined butter
+refined butter fractionation => stearin(solid) + Olein(liquid) (skin care products)
+stearin(70%) + Hard palm blend to get => CBE (cocoa butter equivalent) 
 
 //Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
    only within the country :
@@ -214,8 +232,8 @@ e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV 
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
-      MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never invest 
-      in a business that is present in a highly competettive industry that competes ONLY on price(price war) instead of value
+             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
+             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
   what is the unlisted players market share - 
   listed peers market share -
   postion among peers - 
@@ -230,7 +248,6 @@ Note:
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
   low CCC(less time taken to generate profits) is preferred
-
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
@@ -251,31 +268,28 @@ ideally a company that clones other successful strategies is almost bound to win
 
 --- EARNING POWER 
 Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
-1)Run way for Growth:
-market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-  cannot be a multi bagger 
-market share: 
-sector growth 
-scalable business i.e export oppurtunity
 
+1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
+earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
+  i.e it decides quality of earnings
 
-2)Growth Oppurtunities check
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
-  1)Volume led growth -  Check Volume growth in investor presentation/Annual report to find this out
+  1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /penetration - Acquire new customers in untapped and rural areas
     /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
       does capex to service the demand)
     /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
     /Strong Order inflows (only for B2B companies)
-    /capex - brownfield or greenfield
-    /Launch New products 
-    /Product mix change - increase the share of high margin products
+    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
+       products etc - but be careful here as they can move from India to someother country too) 
+  2)Demand/Consumption led growth from OLD customers (Volume led growth)
+    /increased consumption(volume led growth) - cutomers buy more of the current/old products
+    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
     Note: mode of capex funding is also important: preference cash>debt>equity
-  2)Price led Growth 
-    /Avg price per product/service less than global avg - hence huge scope for growth
-    Note: ONLY price led growth is preferred when investing very high amounts (very large and matured companies)
+  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
+    Check Volume growth in investor presentation/Annual report to find this out
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
     growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
     money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
@@ -283,19 +297,16 @@ i)INTERNAL GROWTH OPPURTUNITIES
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
-    /working capital cycle reduction
-    /spending on technology for achieving efficiency and modernising the workflow or processes
+    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
+    //spending on technology for achieving efficiency and modernising the workflow or processes
     /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
-    /cost reduction: check OPM trend
-      1)raw material cost reduction - backward integration or bulk purchase
-      2)logistics cost reduction - putting plants near customer/raw material locations
-      3)process optimisation and innovation - chemicals and pharma mainly
-      4)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-      NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
-      after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
-      needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
-      But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
-      on making the firm efficient or not apart from focusing on sales
+    /process optimisation and innovation - chemicals and pharma mainly
+    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
+    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
+    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
+    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
+    on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
   /cloning other great company strategies
@@ -309,7 +320,7 @@ ii)EXTERNAL: GROWTH OPPURTUNITIES
   -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
    even if the company retains its market share and can sustain over the years it can grow effortlessly
   -support from govt - relief packages etc - (not preferred if relief is for short term)
-  /Tailwinds - china+1, russia Ukrain War, demand shift from other countries to India
+  /Tailwinds - china+1, russia Ukrain War etc
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -318,7 +329,7 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    is a no brainer to allocate capital for external growth opportunity by the Management
 
 
-3)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
