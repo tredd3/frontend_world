@@ -51,7 +51,7 @@ Valuation :
 //Finance check:
 1)Balance sheet Strength check
 --Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
---(Price to book value) - 5 (not an asset play)
+--(Price to book value) < 3 (can be an asset play depending on the current market value of assets)
 
 //non-current assets - <value>
 -if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
@@ -81,7 +81,6 @@ Valuation :
 
 //non-current Liabilities - <value>
 
-
 2)Profit and loss statement
 --sales growth consistent and increasing?
 --operating profit +ve  most of the time and growing?
@@ -94,8 +93,9 @@ Valuation :
 --CFO +ve most of the time and growing?
 --free cash flow consistently +ve and growing?
 Note: if free cash flow is -ve check why
-free cash flow -ve bcoz of operating cash flow => company is bad and in-efficienct
-free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash flow analysis)
+free cash flow -ve bcoz of operating cash flow(-ve net income) => company is bad and in-efficienct
+free cash flow -ve bcoz of operating cash flow(-ve WCC , i.e either bcoz of inventory increase or recievables increase)
+free cash flow -ve bcoz of capex => is it doing continous survival capex(10 yr check cash flow analysis)
 --use of cash flow from operations: check 10yr cash flow analysis in tijori (preferrence is reinvestment)
 //check cashflow from financing section
 -- if debt is increasing u need to check the usage of debt in investment section or is to cover Operating loses?
@@ -106,7 +106,10 @@ free cash flow -ve bcoz of capex => is it doing continous capex(10 yr check cash
 --OPM(consistent and above 15%) trend - company has Efficient management 
 --NPM(consistent and above 15%) trend - good profitability
 Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROE consistent and abive 10-15% - ROE is the real return as this indicates that owners wealth is being compounded 
+ 1)NPM
+ 2)Asset Turnover ratio
+ 3)high D/E - check Debt enquiry below
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
 --check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
@@ -118,7 +121,7 @@ if long term debt is it increasing over the years?
   Cash:
   operating cashflow: (can long term debt can be cleared by operating profits/operating cashflow of 5 yrs)
 
-//Valuation check
+//Valuation check - Tijori finance valuation
 Price is different Valuation is different, just bcoz stock is falling doesn't mean it is cheap(earnings might be falling too)
 Price - is what people pay for the business
 Valuation is price compared to earnings 
@@ -135,18 +138,28 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
+  Nature of business: B2B goods
   What does it do: (what is the actual business): 
+    manufactures corrosion resistant glass-lined equipments 
+    it is a leading supplier of process equipments to the pharmaceutical and chemical industries
+    low cost manufacturing - in theor offices of India, China 
   How does it do :
+    acquired fauldler (which is bigger than GMM) at price to sales of 1 - gave GMM oppurtunity to go from single product single 
+       geography to multiple product and multiple geography
+    promoter has skin in the game but the group has a professional CEO
+    strong technology & R&D facilities to improve the existing products and launch new ones
+    various cost reduction strategies in place
+    source spare parts/products from india and sell it Globally leading to lesser turnaround times - other glass line equipment
+      manufacturers doesn't have factories in the rest of the world so they have to wait for 6 months if they have to sell it 
+      to global players     
+  Goal:
+  Management focus:  glass line equipment grow profitability, non-glass line equipment & services(india)  grow revenues
   Subsidaries/JVs:
   Target Audience : 
-  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-    cannot be a multi bagger 
-  market share: 
-  Presence : offices in India /US etc
-  Globally competetive company: NO
+  Globally competetive company: NO 
+  Presence : offices in India, China, US, Germany, Brazil etc
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
-  Revenue by Product: 
+  Revenue by Product: services 10% (India) 
   Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
 promoters:
@@ -163,7 +176,17 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+
+Glass Lined equipment provides an idealised technical solution for chemical and pharmaceutical processing applications
+ A glass coating is sprayed then thermally fused onto the surface of substrate material, typically steel, at high temperature 
+ in a repetitive process until the desired glass thickness is achieved. The substrate material provides high strength to the
+  equipment whilst the glass lining provides significant physical and chemical advantages for the wetted surfaces.
+The glass finish does not affect the flavour, colour or purity of contents of equipment, it provides a very versatile solution for high quality operations.
+The greatest advantage of glass lined equipment is the very high corrosion resistance against inorganic acid, organic acid and 
+ organic solvents at different concentrations and temperatures.
+
+
 //STAGE of development:
 pioneering - EV, green energy
 growth - internet
@@ -206,16 +229,12 @@ at profitable end of value chain), demand and supply (size of opportunity)
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Note: if you are investing in this company only because of a specific product like chawyan prash(dabur), Royal enfield(Eicher) etc
-always check wt % revenues are contributed by that product (for Eicher RE contributes around 90% revenues so it can be a buy based
- on further analysis but Dabur cannot be a buy based on chawayan prash because it contibutes < 10% to revenue)
-e.g: tatva chintan has a huge portfolio and electrolytic salts to be used in EV is roughly 5% of their portfolio - so don't invest
-  only based on EV exposure
+product portfolio to include Mixing Systems, Filtration & Drying Equipment, Engineered Systems and Heavy Engineering Equipments.
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
-             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
-             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
+      MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never invest 
+      in a business that is present in a highly competettive industry that competes ONLY on price(price war) instead of value
   what is the unlisted players market share - 
   listed peers market share -
   postion among peers - 
@@ -230,6 +249,7 @@ Note:
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
   low CCC(less time taken to generate profits) is preferred
+
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
@@ -250,28 +270,32 @@ ideally a company that clones other successful strategies is almost bound to win
 
 --- EARNING POWER 
 Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
+1)Run way for Growth:
+market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+  cannot be a multi bagger 
+market share: 50%
+sector growth 
+scalable business i.e export oppurtunity
 
-1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
-earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
-  i.e it decides quality of earnings
 
+2)Growth Oppurtunities check
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
-  1)Demand/Consumption led growth from NEW customers (Volume led growth)
+  1)Volume led growth -  Check Volume growth in investor presentation/Annual report to find this out
     /penetration - Acquire new customers in untapped and rural areas
     /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
       does capex to service the demand)
     /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
     /Strong Order inflows (only for B2B companies)
-    /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
-       products etc - but be careful here as they can move from India to someother country too) 
-  2)Demand/Consumption led growth from OLD customers (Volume led growth)
-    /increased consumption(volume led growth) - cutomers buy more of the current/old products
-    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
+    /capex - brownfield or greenfield
+    /Launch New products - mock meat, bio plastics(green technology) , lithium extraction, ESG glass which is heavy metal free,
+      convert sulphuric acid from suplphur gas in air.
+    /Product mix change - increase the share of high margin products
     Note: mode of capex funding is also important: preference cash>debt>equity
-  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
-    Check Volume growth in investor presentation/Annual report to find this out
+  2)Price led Growth 
+    /Avg price per product/service less than global avg - hence huge scope for growth
+    Note: ONLY price led growth is preferred when investing very high amounts (very large and matured companies)
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
     growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
     money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
@@ -279,16 +303,14 @@ i)INTERNAL GROWTH OPPURTUNITIES
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
-    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
-    //spending on technology for achieving efficiency and modernising the workflow or processes
+    /working capital cycle reduction
+    /spending on technology for achieving efficiency and modernising the workflow or processes
     /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
-    /process optimisation and innovation - chemicals and pharma mainly
-    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
-    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
-    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
-    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
-    on making the firm efficient or not apart from focusing on sales
+    /cost reduction: check OPM trend
+      cost reduction:
+      move R&D , engineering to India 
+      move manufacturing from high cost countries to low cost countries
+      debt reduction - debt is used to fund the acquistion in the first place
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
   /cloning other great company strategies
@@ -302,7 +324,7 @@ ii)EXTERNAL: GROWTH OPPURTUNITIES
   -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
    even if the company retains its market share and can sustain over the years it can grow effortlessly
   -support from govt - relief packages etc - (not preferred if relief is for short term)
-  /Tailwinds - china+1, russia Ukrain War etc
+  /Tailwinds - china+1, russia Ukrain War, demand shift from other countries to India
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -311,7 +333,7 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    is a no brainer to allocate capital for external growth opportunity by the Management
 
 
-2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+3)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
@@ -410,36 +432,55 @@ https://goodcalculators.com/wacc-calculator/
 why Return on Capital is important?
 Over the longterm the investment returns will always resemble the capital returns
 
-Avg company : ROIC/ROCE ~= WACC
-Good company: ROCE/ROIC(return on capital) >> WACC (cost of cpital)
+Avg company : ROIC/ROCE ~= WACC and Capital is increasing and ROCE is decreasing (assuming there is no ongoing capex or money locked
+  in other activities)
+Good company: ROCE/ROIC(return on capital) > WACC (cost of cpital) and 
 either ROCE is increasing and capital is constant OR Capital is increasing and ROCE is constant
 Ideal company : if it can redeploy the incremental capital for same/high returns over time - it becomes a compounding machine
 i.e both ROCE and capital is increasing
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+  -Ideal business: Yes/No
+   always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
+
+   POSITIVES:
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
   -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Repeat business - people need to keep buying it to survive/daily needs 
+  -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
-  -prefer non commoditized business - if commoditized the it must be a low cost producer
-  -prefer non-cyclical - if non-cyclical then try enetering at the bottom of the cycle (timing is the key)  
-  -is it recession proof ? how did it perform in 2008 and 2020 crisis
+  -recession proof ? how did it perform in 2008 and 2020 crisis
     Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
-  -lousy industry/highly competettive industry/niche industry(no big players have entered yet) ?
-  -proxy play on some capital intensive/debt heavy/lousy industry ? 
-  -give high allocation to recession proof stocks(like QSR) , if not how did the company perform during recession years
-  -Company having calibre or potential to adapt to the changing business environment - having said that invest 
-    in a business with slow rate of change, rapid change is the enemy of an investor as it needs more capital to adapt and 
-    burns more cash to be in the competettion)
   -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -proxy play on some industry ? 
+  -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability or no growth, hence the Survivor
+  -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+  -deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
-  -If a person has lot of money can he break ur business and take away marketshare?
-  -Ideal business always takes little amount of capital to operate and an excellent business always
-    earns same high returns on incremental capital
 
+  NEGATIVES:
+  -dependent on govt OR Linked to Govt: Price controlled by Govt, Govt is the only Customer , Anti-dumping duty by Govt
+  -non Predictable for next 5-10yrs
+  -competes only on Price with very little value addition and attract via discounts like Food delivery, Paytm , Nykaa
+  -not recession proof
+  -commoditized business - if commoditized the it must be a low cost producer
+  -cyclical - cyclical revenues and cashflows
+  -highly competettive industry like Auto/Telecom/Aviation etc
+  -Non scalable business Either bcoz of limited market size OR Global competettion
+  -limited clients - Zero pricing power
+  -CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+  -CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
+  -If a person has lot of money he can break ur business and take away marketshare
+  -diworsefication - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
+  company 
+  -Avoid serial Acquirers
+  -B2B player that doesn't have pricing power because of high competettion, commoditised or no MOATs
+  -lower end of value chain
 
 ------------------------------ FINANCIAL STRENGTH CHECK --------------------------
 check Financial_Strength_Check.txt
@@ -455,6 +496,8 @@ check Management_Check.txt
 
 ----------------------------------- RISKS ----------------------------------------
 check Risk_Check.txt
+what happens if any of the risks play out? will it impact the business in a big way
+
 ---Business Risk:
 
 ---Financial Risk:

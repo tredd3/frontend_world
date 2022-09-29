@@ -4,15 +4,23 @@ like supporting engines for petrol blended with ethanol,
 disruptions - electrical vehicles , hydrogen fuel cell technology, hybrid fuel engines
 Capex for manufacturing
 But this is the second largest industry after housing industry
-Possible Headwinds: 
+
+//Possible Headwinds: 
 Covid-19 pandemic
 the rising input costs due to skyrocketing commodity prices
 the supply-chain issues
 coupled with chip shortages - Russia accounts for about 40% of the global production of palladium, a key raw material for chip 
   manufacturing. Ukraine accounts for 70% of the global production of neon gas, a critical component in chip production.
+semiconductor problems
 
 
 //Auto sector stats
+In 2021, the number of electric vehicles sold was 3,24,840 units. The number of petrol and diesel vehicles sold stood at 18.3 
+million units. This means that electric vehicles stood at around 1.7% of the total vehicles sold. Interestingly, this proportion 
+ was at 0.7% in 2019 and 2020.
+out of 1.7%(90% is by Tata Motors)
+China is phasing out oil & gas cars by 2035 and it wants to dominate the Global EV market - given the govt push and incentives 
+  it is on the right path to achieve this
 
 
 //Engine types
@@ -33,26 +41,62 @@ Govt wants E20 fuel (20 per cent ethanol, 80 per cent petrol), which reduces hyd
 To meet this ambitious government target, the total ethanol capacity is required to be augmented by three times the capacity as of FY2021.
 
 
-//EVs
-Lithium Ion batteries - made of Lithium and cobalt
-coblat is available everywhere in the world but 70% of world supply comes from Congo(Africa)
-China controls almost all the metal supply chains
-New Kid in the block: Aluminium–air batteries produce electricity from the reaction of oxygen in the air with aluminium. They 
- have one of the highest energy densities of all batteries, but they are not widely used because of problems with high anode cost 
- and byproduct removal when using traditional electrolytes.
-In 2021, the number of electric vehicles sold was 3,24,840 units. The number of petrol and diesel vehicles sold stood at 18.3 
-million units. This means that electric vehicles stood at around 1.7% of the total vehicles sold. Interestingly, this proportion 
- was at 0.7% in 2019 and 2020.
-out of 1.7%(90% is by Tata Motors)
+//Battery EVs
+Lithium Ion batteries - made of Lithium, nickel, cobalt, Graphite & copper (which are harmful materials they can't go in landfills)
+All the above materials are abdundantly available , however their extraction and refining process is not environmental, not human 
+  friendly and it is not cost efficient
+Lithium is like blood in the batteries ( also called white Gold and looks like salt)
+Lithium is the anode , cathode keeps changing to achieve stability and range
+95% of lithium ion  battery materials are recycled & used in new batteries in the US
+cost is very high due to battery costs - bcoz of supply chain costs of battery materials
+mined in areas like Africa, Australia, Indonesia & sent to China for refining and travelling back to US for battery manufacturing
+mining is not environmental friendly so recycling is the most important thing that needs to be done
+US has just 1% Lithium being mined & processed in the country - bcoz cost of importing is cheaper than production
+80% raw lithium is mined in Chile , China and Australia  
+2 ways of lithium production - mining, evaporation (green way)
+Cobalt free batteries - are the future
+coblat is available everywhere in the world but 70% of world supply comes from Congo(Africa) and controlled by china
+80% cobalt refining is controlled by china
+
+// Lithium iron phospate(LFP) batteries - these cobalt free batteries controlled by BYD and CATL
+but the range is low due to less density
+however these materials  are readily available than nickel and cobalt, much more stable and the cost is way lesser 
+Nickel is highly reactive with electrolyte so cobalt is added to minimise the degradation of cathode structure  
+But for longer range and performance Nickel is still used
+LFP batteries are also safe bcoz iron is stable element 
 
 
-Challenges:
-Cost : 40% dedicated to batteries - bcoz Lithium, Cobolt & other rare materials mining is very expensive
+//Improvement to LFP - range increase by increasing density
+There are also talks to replace liquid electrolyte with  solid electrolyte - to achieve high range and safety
+cathode material replacement by using Nickel + other metals that provide more stability to Nickel
+all these improvements can increase ur density to 4X
+
+//Why China Leads EV market Globally?
+China controls 50%  of lithium mining & processing
+3/4 of Lithium ion megafactories in the world are in China
+Japan, Korea and China account for 95% of battery production in the world, China alone controls 60%
+Apart from Tesla , battery manufacturing in the US is almost non-existent
+Govt push and incentives to buyers, suppliers and automakers
+China has 5X charging stations compared to US
+Heavy investments in the field of EVs make China at the top
+Tesla was very successful in China
+
+//why Volkswagen is dominating Tesla in Europe?
+early entry in to european electric vehicle market
+electric vehicles with short ranges tailored specifically for Europe - beating Tesla on price 
+However Tesla is coming up with a giga factory in Berlin , eliminating its import & logistics cost
+Brand power - VW group(AUDI, Skoda, Bentley, Porsche)  is largely popular in Europe, so customers can find EVs in Luxury , 
+  Sports & SUV segments
+
+Challenges in India:
+Cost : 40% dedicated to batteries - bcoz Lithium, Cobolt extraction and processing is costly
 Lack of Lthium batteries recycle/decompose infra - currently only 5% Batteries are recycled
 No of EV charging stations: 2000 (Petrol Bunks: 80,000)
-Battery charging time is roughly 1 hr (lot of waiting in the stations)
-Battery swapping can be a rescuer but no standard battery specifications as such - it can't be enforced in the near future because
-  it will curb the innovation
+Battery charging time is roughly 1 hr (lot of waiting in the stations) 
+Fast charging can be a solution but that will degrade the battery life much faster, so battery swapping is the sustainable way 
+  of doing it but there is no standard battery specifications as such - it can't be enforced in the near future because
+  it will curb the innovation of auto makers
+
 Electricity is need to charge batteries - India's 70% power production comes from Coal 
 
 
@@ -66,7 +110,11 @@ Dealing with green hydrogen needs lot of expertise which India doesn't have
 Major countries in the world are considering to use this fuel as replacement to electric Vehicles or just another type of 
  clean vehicle
 
-//
+//Alunium air batteries 
+much more efficient but needs a lot of R&D and testing to kickstart
+Aluminium–air batteries produce electricity from the reaction of oxygen in the air with aluminium. They 
+ have one of the highest energy densities of all batteries, but they are not widely used because of problems with high anode cost 
+ and byproduct removal when using traditional electrolytes.
 
 Maruti Suziki: By 2025 EVs will be available to premium market only
  Technology will be improved, but it will not be as good as that level that we can introduce a really affordable EV 

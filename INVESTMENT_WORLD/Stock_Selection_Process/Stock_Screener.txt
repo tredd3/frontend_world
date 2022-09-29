@@ -142,7 +142,9 @@ know about the company:
   What does it do: (what is the actual business): 
   How does it do :
   Subsidaries/JVs:
-  Target Audience : 
+  Target Audience :
+  Goal:
+  Management focus:  
   Globally competetive company: NO 
   Presence : offices in India /US etc
   REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
