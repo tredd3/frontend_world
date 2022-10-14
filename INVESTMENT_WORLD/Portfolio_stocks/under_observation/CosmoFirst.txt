@@ -51,7 +51,7 @@ Valuation :
 //Finance check:
 1)Balance sheet Strength check
 --Equity/Total assets (liabilities should be as less as possible for a strong balance sheet)
---(Price to book value) - 5 (not an asset play)
+--(Price to book value) < 3 (can be an asset play depending on the current market value of assets)
 
 //non-current assets - <value>
 -if Goodwill is more on the assets side but the acquired companies are not able to generate profits then Book value significantly 
@@ -106,7 +106,10 @@ free cash flow -ve bcoz of capex => is it doing continous survival capex(10 yr c
 --OPM(consistent and above 15%) trend - company has Efficient management 
 --NPM(consistent and above 15%) trend - good profitability
 Note: if NPM is less then check Asset turnover ratio, if both are less than ROE is less and you need to avoid that business
---ROE consistent and  10-15% (with D/E under control)? ROE is the real return as this indicates that owners wealth is being compounded 
+--ROE consistent and abive 10-15% - ROE is the real return as this indicates that owners wealth is being compounded 
+ 1)NPM
+ 2)Asset Turnover ratio
+ 3)high D/E - check Debt enquiry below
 --ROCE(consistent and above 15%) trend - return on capital is good than cost of capital
 --ROIC(consistent and above 15%) trend- company is generating enough cash in its core business
 --check D/E , Note: it's not about how much debt the company has taken, it's about the repaying capacity
@@ -135,49 +138,22 @@ check Valuation_Check.txt
 Investor presentation for reference: 
 -------------------- PAST --------------------
 know about the company:
-  Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
-    The company produces and distributes a wide range of carbonated soft drinks, non-carbonated drinks and packaged water sold 
-    under trademarks owned by PepsiCo
+  Nature of business: B2B goods
+  What does it do: (what is the actual business): film packaging - wrappers for food and consumable products
+    BOPP(water barrier), CPP(cheapest), BOPET(air barrier)
   How does it do :
-    Pepsi wanted to get out of manufacturing in India & VB captured the oppurtunity
-    31 manufacturing units in India in 27 states (4 units acquired from Pepsico)
-    cost cutting:
-      Backward integration for the production of preforms, crowns, plastic closures, corrugated boxes, corrugated pads, plastic 
-        crates and shrink-wrap films.
-      Reduce freight costs - by setting up plants in various geographies
-      VBL recycled ~73% of its PET sold during the three months ended March 31, 2022, and has a target to scale this to 100% by 2023
-    Willingness to invest in Distribution- VISI coolers, Distribution, Production Facilities etc.
-    85% pepsico india's volume contributed by Varun Beverages
-    it has a robust supply chain with 90+ owned depots, 2,500+ owned vehicles, 1,500+ primary distributors, and currently 
-    installed 775,000+ visi-coolers
-    it also has the sole franchisee operations in Nepal, Sri Lanka, Morocco, Zambia and Zimbabwe.
-    About 20 of the company’s plants, contributing 69% to the total production in 2021, fall in the ‘Safe’ category of Central 
-     Ground Water Authority of India or use surface water.
+   supplier to suppliers
   Subsidaries/JVs:
-    The company also owns 55% stake (35% indirectly & 20% directly) in Lunarmech Technologies Pvt. Ltd. which produces and 
-    sells PET bottles caps and crown caps.
-    engaged with GEM Enviro Management Pvt Ltd for phased implementation of 100% recycling of used PET bottles 
-    Varun Beverages (Nepal) Pvt Ltd;
-    in Sri Lanka under Varun Beverages Lanka (Pvt) Ltd; 
-    in Morocco under Varun Beverages Morocco SA; 
-    in Zambia under Varun Beverages (Zambia) Ltd; and 
-    in Zimbabwe under Varun Beverages (Zimbabwe) (Pvt) Ltd.
-  Target Audience : 
-  market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
-    cannot be a multi bagger 
-  market share: 
+  Target Audience :
+  Goal: speciality films volume share is 65%, company targets to reach by 80% in FY 24
+  Management focus:  
+  Globally competetive company: NO 
   Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India, Nepal, SriLanka 81%, Africa 19%
+  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
   Revenue by Product: 
-    carbonated soft drinks - 70% (sweet, non-alcoholic effervescent)
-    non-carbonated beverages - 7% (energy, sports drinks)
-    packaged drinking water - 23%
-  Revenue by Customers: B2B
+  Revenue by Customers: B2B(), B2C() , Govt
   Clients(Important ones):
 promoters:
-Varun beverages is a part of the RJ group, which is the largest franchisee for Pizza Hut, KFC, Cream Bell and Costa Coffee in India.
 why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
 any research report/youtube analysis available for the company: 
 what peter lynch bucket does stock belongs to : slow growers/stalwarts/fast growers/cyclicals/asset heavy/turover(special situation)
@@ -191,7 +167,11 @@ Note: Categories of Stock:
 
 --------------------- PRESENT --------------------
 ---Sectoral analysis: 
-Beverage Market itself is growing at 8-10% per annum.
+sectors linked significantly to commodity prices 
+Global demand - 8500K MT pa
+India production - 700K MT pa 
+Domestic production - 550K MT pa
+BOPP dependent on raw material derived from crude oil
 
 //STAGE of development:
 pioneering - EV, green energy
@@ -235,18 +215,35 @@ at profitable end of value chain), demand and supply (size of opportunity)
 ---Products/services SUPPLY check :
 1)Product portfolio - what all products company manufactures (you can find in investor presentation) - check revenue contribution 
   of each product
-Carbonated drinks (pepsi, 7up, mountain dew, mirinda)
-energy drink
-club soda, Ice Tea
-Topicana
-Sports drink
-packaged water
-dairy products
+--Film Business - specality films, non-specality films (core business)
+1)Flexible packaging:
+  printing & pouching films - snacks, bakery, ice creams, confectionery
+  transparent barrier films (plastic) - visibility of the produt 
+  metalised barrier films (aluminium coating) - gas, water vapor and oxygen barriers
+  overwrap films - cigaratte, cable and general overwrap
+2)Lamination films : 
+  Thermal lamination - paper products
+  wet lamination - 
+3)Label films :
+  pressure sensitive labels (self adhesive films) - shampoos
+  wrap around labels - plastic bottle wrappers
+  in mould labels
+  Direct thermal printable - information labelling on applying heat
+4)Industrial films:
+  textile bag films
+  synthetic paper
+--Speciality chemicals - master batches, Textile coating chemicals, adhesives for films applications
+ master batches & adhesives are mainly for backward integration of the films business
+ This business is all about R&D and less about capex
+ Textile coating chemicals - cater to cotton, nylon and polyester clothes
+ master batches - technology developed in-house, in future will supply products to construction & automobile industries,
+                 50% unorganised market share, 75% internal consumption
+--Petcare
 
 
 2)COMPETETION :  Never look for companies that doesn't have competetion, always prefer companies that sustained competettion with their 
-             MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never 
-             invest in a business that is present in a highly competettive industry that competes ONLY on price instead of value
+      MOATS bcoz someday or the other competettion is bound to come if it is a high margin business. At the same time Never invest 
+      in a business that is present in a highly competettive industry that competes ONLY on price(price war) instead of value
   what is the unlisted players market share - 
   listed peers market share -
   postion among peers - 
@@ -261,6 +258,7 @@ Note:
 how do peers provide competetion : strong moats/geographical expansion/innovative products/capex spending
 Pro Tip: if all Peers are equally profitable and equally effecient then low WC/sales(less capital needed to generate sales) and
   low CCC(less time taken to generate profits) is preferred
+
 
 4)Products/services Uniqueness and Quality check :
 what makes the product or service of this company Unique?
@@ -281,22 +279,32 @@ ideally a company that clones other successful strategies is almost bound to win
 
 --- EARNING POWER 
 Earning Power is the ability of the company to grow or compound its earnings every year for a very longtime 
+1)Run way for Growth:
+market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
+  cannot be a multi bagger 
+market share: 
+sector growth 
+scalable business i.e export oppurtunity
 
-1)SOURCE OF EARNINGS (Earnings Growth Oppurtunities check )
-earnings source is more than earnings itself bcoz earnings source decides whether the earning growth is sustainable or not, 
-  i.e it decides quality of earnings
 
+2)Growth Oppurtunities check
 i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
-  1)Demand/Consumption led growth from NEW customers (Volume led growth)
-    /penetration - Acquire new customers in untapped and rural areas in india
-    /Global expansion/ exports - in Africa
-  2)Demand/Consumption led growth from OLD customers (Volume led growth)
-    /increased consumption(volume led growth) - summer leads to excessive consumption
-    /Launch New products - capex and manufacture new products(innovated products/renovated products/premium products)
+  1)Volume led growth -  Check Volume growth in investor presentation/Annual report to find this out
+    /penetration - Acquire new customers in untapped and rural areas
+    /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
+      does capex to service the demand)
+    /import substitution (Atam nirbhar bharat)
+    /Global expansion/ exports - Launch products in new markets
+    /Strong Order inflows (only for B2B companies)
+    /capex - brownfield or greenfield
+    /Launch New products - sustainable PVC free solutions, heat reduction films , shrink label films
+    /synthetic paper global size is 100K, in india it is just 6K 
+    /Product mix change - increase the share of high margin products
     Note: mode of capex funding is also important: preference cash>debt>equity
-  3)ONLY Price led Growth (Not preferred at all) - slow growers(very large and matured companies)
-    Check Volume growth in investor presentation/Annual report to find this out
+  2)Price led Growth 
+    /Avg price per product/service less than global avg - hence huge scope for growth
+    Note: ONLY price led growth is preferred when investing very high amounts (very large and matured companies)
     /Increase the price of old product, but increase in volume -  if volumes don't increase after some years your company earnings
     growth rate = inflation(6%) and in the long run as the stock price depends ONLY on earnings, it will also grow at 6%, meaning ur 
     money also grows at 6% and the purpose of investing in stock markets to beat infalation is gone. Also if sales are not increasing 
@@ -304,16 +312,19 @@ i)INTERNAL GROWTH OPPURTUNITIES
 
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /promoter OR management change
-    /cost cutting(cannot cut cost beyond a certain point) - increasing operating efficiency and hence margins
-    //spending on technology for achieving efficiency and modernising the workflow or processes
+    /working capital cycle reduction
+    /spending on technology for achieving efficiency and modernising the workflow or processes
     /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
-    /process optimisation and innovation - chemicals and pharma mainly
-    /Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-    NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
-    after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
-    needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
-    But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
-    on making the firm efficient or not apart from focusing on sales
+    /cost reduction: check OPM trend
+      1)raw material cost reduction - backward integration or bulk purchase
+      2)logistics cost reduction - putting plants near customer/raw material locations
+      3)process optimisation and innovation - chemicals and pharma mainly
+      4)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+      NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
+      after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
+      needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
+      But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
+      on making the firm efficient or not apart from focusing on sales
 
 ii)EXTERNAL: GROWTH OPPURTUNITIES
   /cloning other great company strategies
@@ -324,10 +335,10 @@ ii)EXTERNAL: GROWTH OPPURTUNITIES
   /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
   /backward or forward integration
   /Macroeconomic oppurtunity
-    Beverage Market itself is growing at 8-10% per annum.
-    Juice market is growing at even a faster pace.
-    Increasing Per Capita consumption
-  /Tailwinds - china+1, russia Ukrain War etc
+  -it is in a growing sector with tailwinds - every company in the sector will grow like Indian IT companies, chemicals etc
+   even if the company retains its market share and can sustain over the years it can grow effortlessly
+  -support from govt - relief packages etc - (not preferred if relief is for short term)
+  /Tailwinds - china+1, russia Ukrain War, demand shift from other countries to India
 
 Note: Internal growth is always preferred but sometimes the business size is so big that the size of internal growth oppurtunity 
    seems trivial and we need to opt for external growth. 
@@ -336,16 +347,17 @@ Note: Internal growth is always preferred but sometimes the business size is so 
    is a no brainer to allocate capital for external growth opportunity by the Management
 
 
-2)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
+3)Sustainability of Earnings: MOATS and Pricing Power to make it a long term bet
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale - India & other developing countries per capita consumption increases , they will consume more & 
-    pepsi supplies more
-Brand 
+Economises of Scale
+Low cost producer - check product quality and profitability ratios
+Brand - must be accompained with pricing power
 Taste
-Network effect - supply chain & distribution 
-Intangible assets - from pepsi
+Network effect
+Intangible assets
+Switching costs
 Entry barriers
 Luxury/Premium Range
 Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
@@ -501,10 +513,8 @@ check Risk_Check.txt
 what happens if any of the risks play out? will it impact the business in a big way
 
 ---Business Risk:
-concentrate cost decided by pepsi (30% of expense)
-success directly depends on pepsi's success, Change in Taste and Preferences of the consumer can impact both businesses
-losing license in between - agreement till 2039
-Difficulties in procuring the water supply
+margins for BOPET divisons can be low due to commodity
+plastic pan
 
 ---Financial Risk:
 

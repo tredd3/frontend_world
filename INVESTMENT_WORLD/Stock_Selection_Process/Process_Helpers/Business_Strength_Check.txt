@@ -39,7 +39,7 @@ As a business owners we are more interested in profitability of the business i.e
    should make the best use of cashflows
    should never hesitate to capture long term oppurtunities by spending on advertising(brand promotion), R&D(innovative products) ,
    capex(infra, upgrading machinery), technolgy(for efficiency) etc as they save taxes in short term and create wealth in the longterm
-   and not focus on short term profits(like giving discounts to boost quarterly sales, take debt to buyback shares etc)
+   and not focus on short term profits(like giving  discounts to boost quarterly sales, take debt to buyback shares etc)
 4)VALUATION -  Valuation is what differentiates Great Investment from a great business
    we are interested in compounding of company's earnings(cash flow) over the next 10 yrs
    and discount it using current interest rates to derive intrinsic value (how much the business is actually worth today)
@@ -59,27 +59,6 @@ As a business owners we are more interested in profitability of the business i.e
 
 Note: Wealth Creation happens when you buy high quality businesses in your circle of competence led by high quality management 
  at margin of safety(or fair price) and hold it for longer periods so that they compound their earnings over time
-
-
------------------------ Research Resources ---------------------
-//Resources to know about the company/business : 
-//Screening
-1)screener about and summary sections
-2)tijori overview page
-3)crisil report and ratings scroll to the end of the page(about company, subsidaries, rating history)
-moody's rating for foreign companies
-CRISIL Ratings:
-A AA AAA (Adequate to highest safety)
-B BB BBB (Moderate to high risk)
-C (Very high risk)
-D (Default)
-//Deep Analysis
-Must: open RHP for complete information and risks (if a company is recently listed then this must)
-1)wikipedia and ticker tape news section
-2)company website - most important for updated info 
-search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
-3)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
-4)check for company analysis, business and revenue model in google or youtube
 
 
 //Stock research report sources: (Indian Stocks)

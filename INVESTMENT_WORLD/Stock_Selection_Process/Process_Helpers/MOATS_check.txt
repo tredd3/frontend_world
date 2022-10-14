@@ -37,6 +37,8 @@ e.g: AMC, Insurance companies, Banks - no matter how much money flows in, the mo
     maintenance costs)
   --Structure based: vertically/backward integrated meaning u don't have to depend on others - Tata steel is the lowest producer of 
     steel in the world as it has access to its own mines
+  --reduce logistics cost - by establishing manufacturing or distribution centres near the raw material source/customers
+  --raw material cost reduction - by bulk purchase from suppliers
   --Economies of scale(Demand side) - demand for low cost quality product increases, i.e more and more people want to buy it
    Microsoft develops a software once and as more customers use it , the cost of software per customer decreases
    Amazon (AWS, prime) - unique products whose price depends on number of people using it
