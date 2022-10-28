@@ -1,3 +1,5 @@
+//Analysis: can you buy entire company by using 50% of your net worth and hold it for next 10 yrs
+
 //Resources
 1)screener about and summary sections
 2)tijori overview page
@@ -5,9 +7,8 @@
 4)ticker tape news section
 
 //Deep Analysis
-Must: open RHP for complete information and risks (if a company is recently listed then this must)
-
-1)wikipedia 
+Must: open RHP for complete information and risks (if a company is recently listed then this is must)
+1)wikipedia (check legal section as well)
 2)company website - most important for updated info 
 search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
 3)company filings(investor presentation, conference calls and annual report(investments, debt sections)) from tijori
@@ -16,6 +17,16 @@ search about the company or its poducts/services quality in google - you will ge
 
 ------------------- SCREENING SUMMARY -------------------
 //General check:
+  STOCK PRICE RELATED:
+    Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
+    Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+    Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share prices up and lock  retail folks at 
+      higher prices OR buying via shell companies inflating the share price naturally like Adani once did)
+    any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
+    (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
+      than any broker/analyst/investor)
+    any bulk or block deals (to discover price?)
+
   ABOUT THE COMPANY:
     Nature of business: business services/consumer goods/consumer services/B2B goods
     What does it do: (what is the actual business): 
@@ -35,55 +46,60 @@ search about the company or its poducts/services quality in google - you will ge
     Strategy to achieve Goal: ideally a company that clones other successful strategies is almost bound to win provided it 
     has other necessary qualifications
     can a fool run this business ? 
-
-  BASIC FINACIALS:
-    sales growth consistent and increasing? 
-    operating profit +ve  most of the time and growing?
-    earnings quality check : core business vs other income contribution to profits over the years?
-    interest expense >40-50% of operating profit?
-    net income consistently +ve and growing? 
   
-  stock picking strategy: bottoms-up/top-down/cloning/contratian/familiar with the product or industry/profits going down due to 
-     capacity to suffer/suggestion from youtuber or broker
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-  Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share 
-    prices up and lock  retail folks at higher prices OR buying via shell companies inflating 
-    the share price naturally like Adani once did)
-  legal orders(confirm from wiki) and tickertape
-  any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
-  (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
-     than any broker/analyst/investor)
-  any bulk or block deals (to discover price?)
-  
-
 
 /////----------------------- Run way for Growth/oppurtunity to grow : small, large, huge -----------------------////
------------- sector/industry growth oppurtunity ------------
-Note: avoid investing in highly regulated sectors, sectors linked significantly to commodity prices and sectors exposed to technological disruption.
+Note: 
+avoid investing in highly regulated sectors (no pricing power, no control on the business)
+avoid sectors linked significantly to commodity prices (sales are cyclical but expenses always increase YOY)
+avoid sectors exposed to frequent/rapid technological disruption(lot of money needs to be spent on R&D to counter the innovation, OR
+   you need to spend heavily on Capex to upgrade the infrastucture) e.g: Telecom, Semiconductor etc
 
-sector growth rate: 
+/*********************  DEMAND **********************/
+  ***** Target Customer ****** 
+     Individuals(rich, middle class) - Domestic and Global
+     Businesses(corporates, factories, industries) - Domestic and Global
+     Govt(state/central/municipal)
 
-//demand
-  /demand origin: B2B/ B2C/ Business Services/ Govt/ Global
-  /Type of demand:
-    continous and growing demand - volume led growth reaching to larger audience or more consumption(personal care, healthcare, 
-       insurance, real estate, Energy,Banking and f inance, Investments)
-    continous and replacement/upgradation demand based on latest trends/depreciation - value addition (clothing and footwear, 
-        Electronics, Automobile,home furnishing)
-    continous and constant/slow growth demand(FMCG, Food, Telecommunication) - volume growth and pricing power play
-    one time demand(capital goods) then growth oppurtunities size should be vast like Praj.Even though Praj establishes the ethanol
-     plant, it has huge oppurtunity abroad/huge order backlog both domestic and abroad
-    Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
-      bcoz of high competettion given the size of oppurtunity
-  /demand/market size (present): large/small - essential product/service used by almost every human/business
-    Note: if a company's market size is small even though it's a market leader it doesn't matter as it cannot be a multi bagger 
-  /demand growth next 10 yrs: constant/medium/high (depends on type of demand)
-    /low penetration - new customers in untapped and rural areas start consuming the product
-    /high penetration - but oppurtunity of volume increase either via frequency of usage OR increase in consumption of units per person
-    /import substitution (Atam nirbhar bharat)
+  ***** Market Size ****** (MANAGEMENT HAS SOME CONTROL)
+  huge -  product/service used by almost every individual AND every business
+  large - product/service used either by almost every individual OR every business but not both
+  medium - product/service can be used only by few individuals AND few businesses
+  small - product/service can be used either by few individuals OR few businesses but not both - If you invest in such a business ,
+     it must be a Niche Area, low competetion, strong MOATS and Longevity
 
------------- company specific growth oppurtunity ------------
+  ****** Demand per customer ******* (MANAGEMENT HAS NO CONTROL)
+    1)continous and growing demand (exponential) - volume led growth reaching to larger audience or more consumption(insurance, 
+      Energy, Banking, finance, payments, Investments, lifestyle)
+    2)continous and constant/slow growth demand(FMCG, healthcare, real estate, Telecommunication) - pricing power,
+     premium products launch is MUST
+    3)continous and replacement demand based on latest trends/depreciation/premiumisation - value addition (clothing and footwear, 
+      Electronics, Automobile, home furnishing including paints & kitchen furnishing) - eventually it is a constant demand on 
+      an avg bcoz not everyone will replace everything at the same time.
+    4)cyclical demand - one time demand or replacement cycle is high like > 5 yrs - capital goods
+
+  ***** Customer base Increase oppurtunities ******* (MANAGEMENT HAS CONTROL OVER THIS)
+    /***/oppurtunity to widen the customer base
+      At present customers are individuals but now making products/services to make businesses as customers
+      At present customers are businesses but now making products/services to make individuals as customers 
+
+    /***/oppurtunity to deepen the customer base
+      /low sector penetration - increase customer base by acquiring new customers in untapped and rural areas
+      /high sector penetration OR high market share of the company - enter in to other near by industries in the same sector, 
+       launch new products, launch premium products as replacement for existing products
+      /low market share of the company - snatch market share from others (especially from unorganised)
+      /import substitution - Atam nirbhar bharat
+      /Export oppurtunities - china+1 /Europe+1/ demand shift from other countries to India etc
+      /Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+        bcoz of high competettion given the size of oppurtunity
+
+     /***/exponential growth: widening + deepening
+
+     ****** demand size for next 10 yrs ******* 
+     IDEAL: market size(huge preferred) + increase in customer base(exponential preferred) * demand per customer(exponential preferred)
+     e.g: insurance, Energy, Banking, finance, payments, Investments
+
+/*********************  SUPPLY **********************/
 /market share: 
 
 /Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
@@ -124,12 +140,12 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
     important)
 
 /COMPETETION :  Never invest in a highly competettive industry that competes ONLY on price(price war) instead of value
-  existing competetion - compare with the current company with peers in both business & financials
+  domestic competetion(organised) - compare with the current company with peers in both business & financials
      use tijori(benchmark) and screener peer comparison sections for profitability and costs
-     //what value does it add to customers compared to competetiors?
-     //how is the quality of product/service - Have u used the product/service ? 
-     if YES, what is your view 
-     if NO, go and open their website, check public review in ecommerce or google search
+     //how is the quality of product/service of all the players?
+     //does any player has process advantage? to know this compare costs of all players
+     //does any one of them have MOAT advantage
+  domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
   global competettion - imports risk from china or any other low cost producer country?
   threat of new entrants - check entry barriers in MOATS
 Note: 
@@ -138,22 +154,11 @@ Note:
    keep gaining market share and eventually turns profitable (keep an eye)
 
 
-//supply check:
-  strong competetion and weak MOATS (small runway) - Avoid 
-  strong competetion and strong MOATS (medium runway)  
-  weak competettion (unorganised players) and strong MOATS (large runway)
-  /snatch market share - Acquire customers from competetiors by taking away their market share (organised/unorganised players and 
-    does capex to service the demand)
-
------------- Export growth oppurtunity ------------
-china+1 or demand shift from other countries to India
-Europe+1 - russia Ukrain War
-
-
 ////---------------------- Energy to run: is it generating enough cash and profitable enough ---------------------- ////
 Note: if they can't generate enough cash (reserves), they must rely on debt/ new equity for growth
 
 /strong balance sheet : weak/ medium/ strong
+/CFO is inline with operating profits and growing YOY
 /5yr avg ROCE (ROCE must be greater than cost of capital):    
   /why Return on Capital is important?
   Over the longterm the investment returns will always resemble the capital returns
@@ -191,11 +196,11 @@ Note: if they can't generate enough cash (reserves), they must rely on debt/ new
       needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
       But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
       on making the firm efficient or not apart from focusing on sales
-3)MOAT building - they save taxes in short term and create wealth in the longterm
+3)MOAT building/strengthening - they save taxes in short term and create wealth in the longterm
     /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
     /backward or forward integration  
     /R&D - for future business but the amount spent has to be monitored
-    /Advertising - brand building and awareness activity but the amount spent has to be monitored, along with sales growth
+    /Advertising - brand building and awareness activity leading to market share gains and hence volume growth
     /Increase distribution network
     Note : check expenses breakup and see which expenses are growing YOY
 4)Return to Shareholders:

@@ -36,6 +36,9 @@ solvency ratio: higher it is more guaranteed that insurer is gonna pay claims, m
 cost ratio: less is better (operating expenses + commission expenses)/premium
 expenses are incurred and not amorotised over years, but profits are realized over years 
 The ‘embedded value’, in short, is the sum of the present value of future profits plus the market value of net assets.
+claim settlement ratio: no of claims settled/Total no of claims
+claim intimation ratio: claim amount settled/Total claim amount
+
 
 //Sector growth oppurtunities
 insurance penetration in India - 1%

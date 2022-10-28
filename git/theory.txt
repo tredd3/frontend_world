@@ -34,6 +34,11 @@ staged files/Staging Area/Index
 commited files/local Repository
 pushed files/remote Repository
 working directory ->(add) staging area ->(commit) local Repository ->(push) remote Repository
+stage - git add <file>
+unstage - git reset HEAD <file>
+git diff //changes between Working directory & Staging Area 
+git diff --cached //changes between Staging Area & local Repository
+git diff HEAD //changes between Working directory & local Repository
 
 
 *********** ALL Operations in git **********
@@ -59,6 +64,7 @@ git checkout master
 git merge -X theirs <refactoring_branch> 
 
 //rebasing
+git pull --rebase //if your local commits need to go on top of remote branch commits
 https://medium.com/osedea/git-rebase-powerful-command-507bbac4a234
 first checkout a branch and then run the rebase command with the name of the branch you wish to rebase on to:
 git checkout feature
@@ -72,8 +78,16 @@ add the foldername to .gitignore file and then make a commit and we are good to 
 
 
 ********* all about tags ***********
-//add tag
-https://devconnected.com/how-to-create-git-tags/#:~:text=In%20order%20to%20create%20a,that%20you%20want%20to%20create.&text=As%20an%20example%2C%20let's%20say,command%20and%20specify%20the%20tagname.
+//tag operations
+git tag <tag_name>  //add a tag to the latest commit
+git tag -a <tag_name> -m "message"  //add a tag with a message
+git tag -n //list all the tags and their corresponding messages
+git diff <tag1> <tag2> //tag1 being the old commit
+git push --tags //push tags to remote branch
+git tag -a <tag_name> <commit_sha> -m "message" //tagging specific commit
+git tag <tag_name> HEAD   (for the last commit)
+git tag -a <tag_name> HEAD -m "message" //tag for the last commit with message
+git tag <tag_name> HEAD~1  (for the commit before HEAD)
 
 //checkout tag
 https://devconnected.com/how-to-checkout-git-tags/
@@ -88,10 +102,9 @@ git tag -d v1.0
 git push --delete origin v1.0
 
 *********** useful commands ************
-one unique command allowing you to query a remote repo without having to clone/fetch it first
-git ls-remote -h -t https://<xyz>.git
+git branch --show-current //get current branch name
+git ls-remote -h -t https://<xyz>.git //one unique command allowing you to query a remote repo without having to clone/fetch it first
 when you do a checkout it keeps changing the head pointer
 cat .git/HEAD  //tells you where head points to
 git clean // clear/delete untracked files if they are unnecessarily created
-git branch --show-current //get current branch name
-git reflog //to show all the commits ever done by you 
+git reflog //to show all the commits ever done and modified by you 

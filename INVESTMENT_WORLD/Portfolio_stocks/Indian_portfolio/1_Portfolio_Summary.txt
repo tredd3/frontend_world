@@ -111,23 +111,23 @@ TTK Prestige - good balance sheet, but Avg ROE(15%) and NPM (10%) - weaker econo
 MTAR - equity grwth is zero and ROE is less, bargaining power of consumers exists bcoz of the limited clients, Govt is the major
   customer hence working capital cycle is high, not globally diversified, no oppurtunities of market share gain
 
-BSE - we can hold it when dividend yield is attractive, no reinvestment of cashflow
-
 MCX - cyclical and completely unpredictable , no growth opputunities as it is already a monopoly and NO Global scope, 
    ZERO pricing power as SEBI and Govt interferes
 
-CDSL - macroeconomic oppurtunity, but suseptible to market cycles because most o the revenues are linked to transaction,
+CDSL, BSE - macroeconomic oppurtunity, but suseptible to market cycles because most of the revenues are linked to transaction,
        lower end of value chain, SEBI controls the pricing. No Global expansion oppurtunities, cash generated is given as dividends
        as there are no oppurtunities to deploy, since it already holds 50% market share and it cannot put money in non-core 
        business. Also it Better to play with consumption rather than investing of individuals as 75% Indian population is poor
 
-CAMS  - over the years MF transaction will only increase , SIP amount will increase but not decrease
+CAMS  - over the years MF transaction will only increase , SIP amount will increase and not decrease
        but pricing power is not in hands of CAMS and revenue model is volume based pricing, also the rate at which revenues
        will grow is also lower because CAMS is a the lower end of value chain and earns very little amount(0.0001%) of the 
        transaction amount, Not globally scalable, No market share gain oppurtunity as it already has highest share 
 
 CRISIL - high valuations, repeat and fixed customers, CFO used in dividends, decreasing ROCE on incremental capital, 
   globally competettive - Yes but i purchased the shares of its parent SPGI which is a 65% shareholder of CRISIL
+  Also CRISIL dividends partially cover the expenses of SPGI, SPGI does share buyback & acquistion apart from dollar appreciation
+  of the investment
 
 Saregama - capital intensive business(with upfront payment) - over the years , the catelogue gets old &  people always need fresh songs
 highly competettive industry - hence margins not under control
