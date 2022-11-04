@@ -1,4 +1,9 @@
-//Analysis: can you buy entire company by using 50% of your net worth and hold it for next 10 yrs
+//Analysis: can you buy entire company by using 50% of your net worth and hold it for next 10 yrs - for this u need to understand 
+  the business bcoz there is a business behind every stock (circle of competence is needed or should be developed)
+https://trendlyne.com/portfolio/superstar-shareholders/index/ (largets holdings of top investors) => pass it through ur circle of
+ competence and then => validate against ur filter/model => wait for valuation correction => if they are already available at 
+  low valuation know why is it so (refer: check Why_Stock_Price_Falling.txt)
+
 
 //Resources
 1)screener about and summary sections
@@ -26,6 +31,7 @@ search about the company or its poducts/services quality in google - you will ge
     (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
       than any broker/analyst/investor)
     any bulk or block deals (to discover price?)
+    are minority share holders treated fairly - check corporate actions (ESOPS/Bonus/Dividends/Buyback)
 
   ABOUT THE COMPANY:
     Nature of business: business services/consumer goods/consumer services/B2B goods
@@ -85,8 +91,11 @@ avoid sectors exposed to frequent/rapid technological disruption(lot of money ne
 
     /***/oppurtunity to deepen the customer base
       /low sector penetration - increase customer base by acquiring new customers in untapped and rural areas
-      /high sector penetration OR high market share of the company - enter in to other near by industries in the same sector, 
-       launch new products, launch premium products as replacement for existing products
+      /high sector penetration OR high market share of the company - 
+        --enter in to other near by industries or related sectors, 
+        --launch new products
+        --launch premium products as replacement for existing products 
+        --people prefering branded and premium products as their salary/per capita income increases
       /low market share of the company - snatch market share from others (especially from unorganised)
       /import substitution - Atam nirbhar bharat
       /Export oppurtunities - china+1 /Europe+1/ demand shift from other countries to India etc
@@ -117,14 +126,15 @@ avoid sectors exposed to frequent/rapid technological disruption(lot of money ne
      the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
      OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium OR if the 
      product is a commodity (then people always look for low price as value is same across producers)
-  Note: Pricing power is must for capex heavy companies(high fixed cost or operating leverage) companies with large amounts of
-  debt - otherwise they can go Bankruptcy and destroy shareholder's wealth during recession.
 
-/Competettive advantage/MOAT Check? check MOATS_check.txt
+  Note: if the company doesn't have Pricing power (like commodity producers, Govt entities, Contractos/bidding companies) and 
+    expenses keep increasing YOY, it will only lead the company to incremental losses
+
+/Durable Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
 Economises of Scale
-Low cost producer - check product quality and profitability ratios
+Low cost producer - but product quality and profitability shouldn't be affected
 Brand - must be accompained with pricing power
 Taste
 Network effect
@@ -148,10 +158,17 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
   domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
   global competettion - imports risk from china or any other low cost producer country?
   threat of new entrants - check entry barriers in MOATS
-Note: 
- if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
- if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
-   keep gaining market share and eventually turns profitable (keep an eye)
+    Note: 
+    if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
+    if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
+      keep gaining market share and eventually turns profitable (keep an eye)
+
+/does it own consumers mind(i.e will people remember this company when u talk about buying a specific product/service)
+  //if yes, then why ? and what value does it add to customers compared to competetiors?
+    good quality of product/service 
+    low cost
+    reliable and trusted brand
+    delight the customers by Uniqueness of product or service
 
 
 ////---------------------- Energy to run: is it generating enough cash and profitable enough ---------------------- ////

@@ -1,0 +1,26 @@
+https://en.wikipedia.org/wiki/EURO_STOXX_50
+
+//Exchange: ETR
+Adidas: largest sportswear manufacturer in Europe, and the second largest in the world, after Nike 
+      subsidaries: Reebok
+Puma : 3rd largest sportswear manufacturer in the world.
+EssilorLuxottica: 
+  EssilorLuxottica SA is a French-Italian vertically integrated multinational corporation based in Paris
+  designs, produces and markets ophthalmic lenses, optical equipment and prescription glasses and sunglasses
+  The company has a portfolio of proprietary and licensed brands including Ray-Ban, Oakley, Michael Kors, Varilux, Crizal, Transitions and LensCrafters.
+Airbus: 
+  European multinational aerospace corporation. Airbus designs, manufactures and sells civil and military aerospace products 
+  worldwide and manufactures aircraft in Europe and various countries outside Europe.
+Loreal :
+  It is the world's largest cosmetics company and has developed activities in the field concentrating on hair color, skin care, 
+   sun protection, make-up, perfume, and hair care.
+
+
+//Exchange name: London Stock Exchange
+ Reckitt Benckiser(RKT) : 
+ It is a producer of health, hygiene and nutrition products. 
+ Brands: Mortein, Dettol, Strepsils, Veet, Lysol, Vanish, air wick, Durex
+
+
+ 
+

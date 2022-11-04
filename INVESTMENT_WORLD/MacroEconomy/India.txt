@@ -6,6 +6,30 @@ The median age in India is 28.4 years (70% population above age of 18)
 largest employment sector - agriculture
 second largest employemnt sector - textile
 
+//Macroeconomy Trends
+digitisation - reduce time taken and money of people
+physical to financial assets
+lending - 43% indians still opt for informal lending paying high interest rates
+atmanirbhar bharat - self reliance by local manufacturing to build resilient supply chain
+   and import substitution 
+rural to urban area migration in search of Jobs - housing demand in urban areas, PMAY (scheme where eligible people get home 
+  loan at subsidised rates, rest born by central and state govt) 
+push towards affordable housing by Govt in both Rural & Urban areas - low income people spending most of their income on house
+govt pushing towards gas and solar usage - from coal based
+push towards EVs by Govt - but cost, infra and stability issues
+logistics investments + govt push - but there are road and other infra issues 
+people are preferring SUVs to sedan/hatchback cars
+manufacturing investments due to China+1 - diversification in supply and secure supply chain
+manufacturing investments due to Europe+1 - Russian cheap gas is not used by Europe bcoz of NATO sanctions
+increase in per capita income - leading people to prefer quality and brand => organised players capturing market share from unorganised
+because of COVID , most of the unorganised players have been wiped out due to lack of pricing power, poor balance sheets -> helping
+  organised players capturing market share from unorganised
+JVs for electronic manufacturing with not just companies in China, but also with those from South Korea, Taiwan and Vietnam - this 
+   is a win-win for both China & India, bcoz semiconductor exports are banned to China from the US , now US semiconductor firms 
+   can divert them to india and make in india
+
+Read more at:
+https://economictimes.indiatimes.com/epaper/delhicapital/2022/nov/02/et-front/chinese-cos-may-be-allowed-in-high-tech-electronics-in-jv-with-indian-firms/articleshow/95239892.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 
 //Sector contribution to GDP
 Agri, forestry & fishing - 17%

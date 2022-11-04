@@ -12,3 +12,15 @@ beverages such as whisky, vodka, gin, cane, liqueurs, and alcoholic fruit bevera
 All spirits go through at least two procedures - fermentation and distillation. 
 Fermentation is where all alcohol is created (yeast or bacteria breaks down the sugar content in a substance in to alcohol + some by product)
 distillation is where the alcohol is separated and removed by boiling and then condensation
+
+
+//ETHANOL Production
+For the production of ethanol, ethanol factories in India employ the following types of raw materials:
+  1G - Based on sugar and molasses.
+  2G - Materials of the second generation (biomass, mixed grain, and agricultural waste and Grain-based).
+
+//Ethanol stats
+Uttar Pradesh has emerged as the country's leading producer of ethanol, and 54 distilleries spread around the state generate a 
+ total of 58 crore litres of ethanol.
+US and Brazil produce 84 per cent of all ethanol production in the world
+In US ethanol is made from corn.

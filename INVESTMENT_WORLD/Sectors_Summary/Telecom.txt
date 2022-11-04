@@ -9,6 +9,55 @@ keep in mind to check:
 debt, margins, operating leverage (extremely high compared to peers can be deadly combined with high debt)
 
 
+//How mobile communication works?
+https://www.youtube.com/watch?v=1JZG9x_VOwA&ab_channel=Lesics  
+microphone -> converts voice to digital signal using a sensor
+transmitting antenna -> converts digital signal(0,1) to analog signal (electromagnetic waves)
+electromagnetic waves lose energy while travelling bcoz of physical objects, environmental factors etc
+  Note: even though , the obstacles are not present even then they cannot travel forever because of earth's curved structure
+Hence cell towers are introduced using cellular technology
+
+cellular technology:
+  A given area is divided in to hexagonal cells, with each cell having its own tower and frequency slot
+  these towers are connected via optical fiber, laid underground, under sea or over the air
+  electromagnetic waves produced by the phone are picked up by the tower in your cell and convert them in to high frequency
+   light signals and sends it to destination tower
+  destination tower then converts these light signals back to electromagnetic waves and send it to destination mobile phone
+
+receiving antennas - converts analog signal (electromagnetic waves) to  digital signal(0,1)
+speaker - converts digital signal to voice signals using a sensor
+
+every telecom operator has a frequency slot dedicated
+they allocate different frequency slots to each cell tower
+the frequncy slot per tower is further distributed to all the active customers(attending calls) in that area
+i.e each customer has a dedicated frequency band
+
+1G- only call
+2G- call, sms, data
+3G- call, sms, high speed data (audio + video)
+4G- high speed due to multiple transmitting & receiving antennas both in mobile and towers
+
+//How Internet works:
+https://www.netnod.se/i-root/what-are-root-name-servers
+https://www.youtube.com/watch?v=x3c1ih2NJEg&ab_channel=Lesics
+
+using complex network of optical fibre cables
+every device (server/pc/mobile/wifi router/ISP provider router) etc is identified via ip address in that network
+ip address is provided by ISP providers, they also have a DNS info
+browser makes a request to DNS server , gets the ip and connects directly to the server
+The server sends the data to the source local ISP provider via optical cables -> source regional ISP provider via optical cables ->
+ source national ISP provider via optical cables -> international ISP provider -> routes data to destination national ISP provider 
+ via optical fibre cables on ground & sea -> destination regional ISP provider via optical cables -> destination local ISP provider
+ via optical cables -> to homes/businesses via optical cables -> inside homes and businesses via routers
+between each ISP provider there are multiple routers (meaning there are multiple ways to take a packet from source ISP to destination ISP)
+data that needs to be transferred is divided in to multiple packets and send via multiple routes for parallelisation and speed
+
+ICANN is an organisation in the US that manges ip address assignment, domain name registration, 
+
+//Why Do Computers Use 1s and 0s?
+
+
+ 
 //Situation in India
 Telecos heavily relies on imports - atmnirbhar bharat and PLI schemes can be game changers
  The cost of data per GB (gigabyte) per month in India is the lowest in the world at USD 0.09.

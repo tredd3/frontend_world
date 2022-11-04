@@ -139,7 +139,7 @@ know about the company:
   What does it do: (what is the actual business): Maize and Maize related products
   How does it do :
     Commodity conglomerate with 3 business segments:
-    38% - Agro processing: single digit margin  (almost constant revenues)
+    38% - Agro processing(edible oil): single digit margin  (almost constant revenues)
     5% - Cotton processing: single digit margin (almost constant revenues)
     57% - Maize processing: Double digit margin
       Input: Maize
@@ -241,21 +241,6 @@ Note:
  if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
    keep gaining market share and eventually turns profitable (keep an eye)
 
-3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-Roquette - 15% market share, second largest startch producer in India, manufacturing units near raw material sources, customers
-   to reduce transportation costs
-Other Competettiors capacity and margins are lesser than GAEL
-
-
-4)Products/services Uniqueness and Quality check :
-what makes the product or service of this company Unique?
-  //does it delight the customers - when they don't find that product in a store will they go across the street to get it
-  //does it own consumers mind(i.e people always remember this company when u talk about a specific product like drink,burger,choc etc)
-  //what value does it add to customers compared to competetiors?
-  //how is the quality of product/service - Have u used the product/service ? 
-    if YES, what is your view 
-    if NO, go and open their website, check public review in ecommerce or google search
-
 
 ------------------- FUTURE -----------------
 ---Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
@@ -325,13 +310,15 @@ MOAT - is the trait or quality that a business has bcoz of which competettion ca
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
 Low cost producer (supply side moat):
   largest buyer of Maize in the country, hence it gets discounts leading to higher Margins
-  All plants close to maize producing regions in India - transportation cost reduction
+  All plants close to maize producing regions in India - freight cost reduction
   plant establishment costs are very less compared to Competettiors
+  warehouses are owned by GAEL, eliminating rental costs
 Economies of Scale: 
     5 lakh tones of own storage capacity, nearest Competettior have 60K storage
     50% Maize starch exported in the country is done by GAEL
-Entry barriers: Debt free balance sheet with small players going bankrupt in down cycles
-
+Entry barriers: 
+    Debt free balance sheet with small players going bankrupt in down cycles
+    
 
 Note: Does MOAT Exists? 
   if yes is the MOAT durable, i.e can the company keep its DCA nature for next 10 yrs OR will competetiors snatch away 

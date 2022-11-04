@@ -1,7 +1,3 @@
-//How internet works:
- https://www.netnod.se/i-root/what-are-root-name-servers
-
-
 //Domain Name System (DNS) is the hierarchical and decentralized naming system 
  The Internet maintains two principal namespaces: the domain name hierarchy and the IP address system
  It is used to identify computers, services, and other resources reachable through the Internet.
