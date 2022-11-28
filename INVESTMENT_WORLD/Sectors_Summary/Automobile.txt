@@ -23,10 +23,14 @@ China is phasing out oil & gas cars by 2035 and it wants to dominate the Global 
   it is on the right path to achieve this
 
 
-//Engine types
+//Engine vehicles
+Engine converts fuel to Mechanical energy via combustion
+Motor converts electricity to Mechanical energy 
 ICE(internal combustion engines) - diesel and petrol vehicles
 Mild Hybrid - Engines that run efficiently if used with ethanol blended petrol 
-BEV - fully electric
+
+//Motor vehicles
+BEV - fully electric 
 Fuel cell technlogy - green hydrogen
 Hybrid - Mild Hybrid + BEV
 

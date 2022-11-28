@@ -1,0 +1,99 @@
+
+Logistics: the movement/transportation of goods by different modes including air, ocean, rail, and road + warehousing (employees 
+ pack the goods in inventory and dispatch/transport)
+Logistics is a component of supply chain management (SCM spans from raw material to customer delivery, including sourcing from 
+ suppliers, manufacturing, transportation and warehousing, distribution, wholesale, retail, consumer)
+Freight: transporting products or goods via truck, van, or train
+CARGO : goods carried by larger vehicles, such as large cargo ships and planes
+Container:  20 feet to 40 feet-long metal boxes made of a special category of steel, where cargo is placed inside
+The overall logistics cost is about 14% of GDP, significantly higher than that of many other countries.
+India wants to bring it down to < 10% of GDP by building multi-modal logistics parks (MMLPs) 
+
+//AIRLINES - fastest but costlier
+
+//SHIP - cheapest and greenest, huge capacity saving lot of money and time
+maritime shipping today accounts for 95% of the export-import (EXIM) trade in the world. 
+60% is through containers
+biggest container ships can carry as many as 23,000 containers, but a train in India can carry only 90 containers and a
+ truck or a trailer can take only one.
+
+**COVID and Russian war supplychain issues
+1)Unavaialability or shortage of containers
+One reason why Indian traders and exporters have suffered is high dependence on foreign vessels for transporting container cargo.
+Lot of containers fullly loaded with cargo were not allowed to unload becuase of COVID rules
+We have tankers, gas carriers, and LNG vessels. But we have a very negligible investment in our own container fleet
+ Shipping companies have not invested in expanding their container fleet because of unfavorable government policies
+2)lack of demand + sky high logistics prices => forced small exporters to lose their business to large players
+3)Lot of time taken because of port congestion, COVID checks, lot of containers stuck in warehouses
+4)paucity of warehousing space
+5)price of logistics sky rocketted due because of supply demand misatch
+ shipping companies charged a bomb even for lesser distances
+ fuel prices increased - russia ukraine war
+
+**Consolidation in the shipping market:
+Twenty-five years ago, the top 20 companies controlled about half of the global capacity.
+only 10 container lines based in Asia and Europe, including Maersk, MSC, France’s CMA CGM SA, and China’s Cosco Shipping Holdings,
+ control nearly 85% of the capacity for shipping goods by sea.
+
+**PORTS
+congestion at ports have worsened things - adding fuel to fire
+ Even though shipping companies has added capacity throughout the year, but that hasn’t helped ease supply chains because ships 
+ are stuck waiting outside ports.
+port - which is a man-made facility built for loading and unloading vessels and dropping off and picking up passengers. Ports 
+  usually include one or more harbors.
+A harbor is any sheltered body of water where boats or ships may moor or anchor. A port is an installation that has been built
+  around a harbor with facilities for loading and unloading such vessels. 
+Shipyard - A shipyard is a place where ships are built and repaired. These can be yachts, military vessels, cruise liners or 
+  other cargo or passenger ships.
+Dockyard - mostly associated with repairing and maintaining ships
+//stats
+The total 200 major and non-major ports.
+95 per cent of India's trading by volume and 68 per cent by value is done through maritime transport. It is serviced by 13 
+ major ports (12 Government-owned and one private) and 187 notified minor and intermediate ports. 
+maritime transport is to be administered by both the Central and the State governments. While the central government's 
+shipping ministry administers the major ports, the minor and intermediate ports are administered by the relevant departments 
+or ministries in the nine coastal states
+187 minor and intermediate ports have been identified by the respective governments to be developed, in a phased manner, 
+ a good proportion of them involving public–private partnership.
+
+
+//RAILWAYS & ROAD
+50% lesser cost compared to roadways, but still 3/4 th of freight in india goes via roads due to lack of infra
+
+//MMLPs - multi modal logistics parks
+-- what are they?
+These are large land parcels with rail, port & road connectivity, where goods coming in get seamlessly transferred to trains and
+  other modes of transport in a hub-and-spoke model (versus point-to-point movement of goods)
+The parks will also offer mechanized warehousing services ( for example, cold chains are available for storing perishables, 
+ racked warehousing facilities are available for packages and apparel )
+MMLPs will also include various value-added services, including labelling, packaging, tagging and crating, customs 
+ clearance (which currently happens at sea ports for export consignments), thereby offering so much at a single location
+proposal to connect them to the upcoming dedicated freight corridors (since railways will build infrastructure inside the park)
+
+-- working
+freight from production zones will be shipped to nearby logistics parks, where it will be aggregated and shipped on a larger 
+ vehicle (either large truck or cargo rail) to a logistics park near the consumption zone.
+Then, the freight arriving at the destination logistics park will be disaggregated and distributed to the consumption zones 
+ inside the city.
+This reduces cost bcoz warehouse costs, transportation costs are being shared among all goods producers
+
+-- how many MMLPs and how will they be built?
+ 35 such parks the government wants to build under the public private partnership (PPP) mode.
+ The government will invest ₹26,000 crore and the private developers will bring in a similar amount ( ₹26,500 crore)
+ bidding process for three MMLPs (which are currently at a stage where bids can be invited - Chennai, Bangalore, Indore and remaining 
+  MMLP locations are being finalised.
+ adani ports is a strong bidder along with international player
+ The National Highways Logistics Management (NHLML), a wholly owned special purpose vehicle (SPV) of the National Highways 
+  Authority of India (NHAI), is the nodal agency for getting the 35 MMLPs up and running
+ //state govt and NHLML responsibilty
+  state govt buys the land and the private investor is given the land on a 45-year lease.
+  External power and water supply connections
+  rail connectivity and roads within and from the parks
+  However Soaring fuel and land prices are barriers
+ //private player responsibilty
+  first phase, which is to be completed within 2 years from the award of the concession, the private developer must bring in 
+    at least 30% of the promised investment and the MMLP should have begun commercial operations. 
+  The second phase can be completed within 10 years and by then, investment should be at least 60% of the committed sum. 
+  The third phase would be completed in 15 years, marking the end of the project.
+
+

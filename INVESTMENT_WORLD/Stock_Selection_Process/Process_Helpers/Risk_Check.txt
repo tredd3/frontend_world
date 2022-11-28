@@ -17,7 +17,8 @@ substitution risk - mainly for chemical/pharma/technology
 commoditised risk - business becoming commodity type(no value addition hence products can be easily copied) - you will lose margins and pricing power
 low cost imports risk
 legal/scams Risk
-regulatory risk/govt policy risk - power sector(controlling prices),allow imports without anti-dumping duty(chemicals,textiles)
+regulatory risk/govt policy risk - power sector(controlling prices),allow imports without anti-dumping duty(chemicals,textiles),
+   banning exports of finished products, banning imports of crucial raw materials
 diworsification risk - if the company keeps acquiring businesses for non-strategic reasons
 recession risk - few companies only do well during boom years and get hampered during recession years (better to allocate less capital)
 

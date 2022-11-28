@@ -20,6 +20,7 @@ participating - participating in the returns which insurer has invested in (usua
 
 //why Life insurance sector?
 as it is a must for everyone
+india's penetration being extremely low
 
 //business terminology
 high margin: individual insurance > group insurance
@@ -35,9 +36,15 @@ complaint ratio: low is preferred, if it is higher surrender rates will be highe
 solvency ratio: higher it is more guaranteed that insurer is gonna pay claims, min is 150% as set by IRDAI
 cost ratio: less is better (operating expenses + commission expenses)/premium
 expenses are incurred and not amorotised over years, but profits are realized over years 
-The ‘embedded value’, in short, is the sum of the present value of future profits plus the market value of net assets.
+//An insurance company’s valuation is determined by the embedded value (EV)
+The ‘embedded value’, in short, is the sum of the present value of future profits from all policies + the market value of net worth.
 claim settlement ratio: no of claims settled/Total no of claims
 claim intimation ratio: claim amount settled/Total claim amount
+//annualised premium equivalent (APE) growth is like sales growth for Insurance companies
+APE is the sum of the regular annualized premium from the new business plus 10% of the first single premium in a given period.
+//VNB is like EPS for insurance companies
+ value of new business (VNB), which is the present value of profit that is expected to be generated over all future years by 
+ the new business written in a particular year. 
 
 
 //Sector growth oppurtunities
@@ -59,6 +66,8 @@ Avg per capita Premium World - 370$
  linked life fund yield - 10%, life fund yield - 8.3%
  GNPA(gross non performing assets) - 7.78%
  Total premium CAGR(FY11 - FY21) : 7% , FY19 - FY21: 9.3%
+ valuation: MCAP/EV(embedded value) : 0.8
+ EV: 544k
 
 
 2)SBI Life - strong bancassurance, subsidary of SBI bank, low protection prodcuts and high reliance on ULIP(low margin business),
@@ -73,6 +82,11 @@ cost efficient in the entire industry with very less cost ratio
  linked life fund yield - 25%, life fund yield - 8.6%
  GNPA(gross non performing assets) - 0.05%
  Total premium CAGR(FY11 - FY21) : 14.5% , FY19 - FY21: 23%
+ valuation: MCAP/EV(embedded value) : 3
+ EV: 42k
+ MOAT: strong distribution network (25000 branches)
+ SBI sells only SBI Life products -- an exclusivity that is bound to stay
+ Low cost - lower commissions and overheads on banca sales
  
 
 3)HDFC LIFE - diversified distribution including HDFC Bank, diversified product base, cost ratio is high because of its focus on
@@ -87,6 +101,8 @@ cost efficient in the entire industry with very less cost ratio
  linked life fund yield - 38%, life fund yield - 9.5%
  GNPA(gross non performing assets) - 0.07%
  Total premium CAGR(FY11 - FY21) : 15.7% , FY19 - FY21: 15%
+ valuation: MCAP/EV(embedded value) : 3.5
+ EV: 33k
 
 4)ICICI PRUDENTIAL - strong bancassurance, subsidary of ICICI bank, focusing on diverse product mix, conservative accounting,
  excellent asset quality with conservative investment even in bonds, significant ULIP product mix which can be deadly in bear
@@ -101,6 +117,8 @@ cost efficient in the entire industry with very less cost ratio
  linked life fund yield - 34%, life fund yield - 9.8%
  GNPA(gross non performing assets) - 0%
  Total premium CAGR(FY11 - FY21) : 7.2% , FY19 - FY21: 7.5%
+ valuation: MCAP/EV(embedded value) : 2
+ EV: 32k
 
 
 5)Max Life - Axis bank is bancassurance partner

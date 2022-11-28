@@ -1,0 +1,27 @@
+
+https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/
+https://the-guild.dev/blog/graphql-over-websockets
+
+//GraphQL - A query language for your API
+GraphQL has three main characteristics:
+It lets the client specify exactly what data it needs.
+It makes it easier to aggregate data from multiple sources.
+It uses a type system to describe data.
+
+*GraphQL on the other hand is like having a personal assistant: 
+In other words, GraphQL establishes a standard language for talking to this magical personal assistant.
+*GraphQL API is organized around three main building blocks: the schema, queries, and resolvers.
+Queries - The request you make to your GraphQL personal assistant is the query, queries are used to fetch data from a server
+Subscriptions - Like queries, subscriptions enable you to fetch data. Unlike queries, subscriptions are long-lasting operations
+ that can change their result over time. They can maintain an active connection to your GraphQL server (most commonly via WebSocket),
+  enabling the server to push updates to the subscription's result.
+Resolver - tells GraphQL how and where to fetch the data corresponding to a given field.
+
+While typical REST APIs require loading from multiple URLs, GraphQL APIs get all the data your app needs in a single request. 
+Apps using GraphQL can be quick even on slow mobile network connections - this is bcoz the number of API calls 
+ are reduced + the amount of data transferred over the network is also reduced
+
+
+//Mutation
+A Mutation is a GraphQL Operation that allows you to insert new data or modify the existing data on the server-side.
+ You can think of GraphQL Mutations as the equivalent of POST , PUT , PATCH and DELETE requests in REST.

@@ -1,4 +1,4 @@
------------------------- Category A+ ------------------------------------ 
+------------------------ Category A ------------------------------------ 
 Global growth oppurtunities 
 market share gain in India/Globally 
 ROCE>WACC & deploying CFO heavily In growth
@@ -10,6 +10,7 @@ TITAN - jewellery business generates cash and that is reinvested in other busine
   market share is 6% in jewellery so a lot of scope to capture market share from unorganised players, same thing with Eyecare
 PI - market share gain oppurtunities as it is currently just 5%, huge entry barriers, use of CFO in acquistions and capex 
   (both in current segment and new segments like pharma & specality chemicals CSM) with oppurtunity 8X of Agri chemical CSM
+  backward integrated reducing dependency on China
 Divis Lab - CFO used in capex and dividends, 25% constant ROCE on incremental capital,  globally competettive - Yes
    backward integration , low cost quality APIs and that too on scale, trust of customers since 30 yrs
    lot of capex being done to take care of future growth oppurtunities, strictly sticks to manufacturing providing relief to
@@ -24,12 +25,9 @@ LTTS - Global expansion scope, niche industry of ER&D, Top clients, proxy play o
        globally competettive - Yes, CFO used in short term investments, 30% constant ROCE on incremental capital
 
 
--------------------------- Category A -----------------------------------
-India focused but Market share gain oppurtunities 
+//India focused but Market share gain oppurtunities 
 ROCE>WACC & deploying CFO for Incremental growth
 Double digit Sector Growth 
-Transitionary demand
-MOATs
 
 Bajaj Finance - globally competettive - No, but 75% NBFCs are crap hence strongest players like Bajaj Finance will eventually capture 
   market share in this consolidation phase
@@ -41,10 +39,10 @@ HDFC LIFE -  globally competettive - No,  CFO used in investments
 Dmart - 15% constant ROCE on incremental capital, use of CFO towards capex(new stores)
 Relaxo - target the low end customers (where other players won't enter bcoz of low revenues and high costs)
         has same Margins as Bata , with cost of 1/8th of Bata, huge oppurtunity to capture market share from unorganised players
-Indiamart - using lower fee to woo customers and create network effect, generate cash and reinvest in companies creating digital
-   ecosystem for MSME, globally competettive - No, CFO used in short term investments, constant returns on incremental capital
-HUL - market share gain during COVID + have pricing power, CFO used in dividends, decreasing ROCE on incremental capital,
-  globally competettive - No
+Jubiliant food works - generate cash and use the cash to expand stores, solo licensee for dominos in India and neighbouring countries,
+   pricing power and lot of scope for fastfood in india due to youth population 
+VBL - double digit volume growth expected for next 5 yrs, expansion in other developing countries, solo manufacturer to pepsi
+     Manufacturing units are backward integrated, planning to recycle bottles and reuse it 100%
 ITC - tobacco leader, with diversification in to FMCG, Agri commodities etc 
     - 4% dividend yield with PE of 24 (chance of dividend increase and capital appreciation)
     - fairly valued according to DCF 
@@ -56,14 +54,17 @@ APL Apollo Tubes - low cost steel tubes manufacturer, 5X sector growth oppurtuni
   low margin business hence new players don't want to enter + COVID have busted unorganised players bcoz of poor balance sheets 
   & as a survivor APL gained market share, semi commodity - 50% commodity , 50% value added
 
+
 ----------------------------- Category B ---------------------------------- 
 very little Market share gain oppurtunities OR
 dividend plays OR
 Narrow MOATs or Present in a competettive Industry OR
 Little pricing power
 
-Tarsons - Very good financials, Transition from Glassware to plasticware
-IEX - using lower fee to woo customers and create network effect, high operating leverage, globally competettive - No
+Indiamart - using lower fee to woo customers and create network effect, generate cash and reinvest in companies creating digital
+   ecosystem for MSME, globally competettive - No, CFO used in short term investments, constant returns on incremental capital
+IGL/GGL - CDG companies, reducing gas prices is +ve for these companies - especially with govt push to increase gas share in energy
+   mix to 15% from 6% at present gives scope for double digit volume growth. Entry barriers in given geographical area for 10+ yrs
 Berger Paints - like Asian paints it has cracked the code to sustain and be successful in paints industry (i.e dealers inventory
   replenishment is fast, demand forecasting ability) , inefficiencies of Asian paints are opputunities by Berger and hence Berger
   acts like a hedge to Asian paints and capture the maximum growth of paints industry itself
@@ -74,7 +75,9 @@ GMM - CFO used in capex, 22% constant ROCE on incremental capital, globally comp
 RHIM -  proxy play on steel and glass industry capex
 Happiest Minds - niche IT services, low institutional ownership , strong promoter but limited pricing power because of high
   competettion, financials improved in the last 3yrs(during covid times) and valuation is bit high
-
+Alkyl Amines - better than balaji amines in financials, Niche market with oligopoly and little market size , so no market share 
+  gain oppurtunities, Export is difficult because of transportation, competettion from china but most of their production is for
+  captive consumption
 
 
 ------------------------------- Category C ---------------------------------
@@ -83,9 +86,7 @@ Little pricing power OR
 Highly competettive Industry OR
 Fortunes depend on other industry
 
-Alkyl Amines - better than balaji amines in financials, Niche market with oligopoly and little market size , so no market share 
-  gain oppurtunities, Export is difficult because of transportation, competettion from china but most of their production is for
-  captive consumption
+Tarsons - Very good financials, Transition from Glassware to plasticware - giving scope for double digit volume
 IDFC First Bank - turnaround with strong management, infra debt slowly decreasing, innovative products like BNPL, monthly interest
   but no ecosystem of cross selling oppurtunities like HDFC OR KOTAK Group
 Borosil Renewables - macroeconomic oppurtunity both in india and europe, but no pricing power as prices are decided globally
@@ -93,11 +94,14 @@ Moldtek Packaging - CFO used in capex, 25% constant ROCE on incremental capital,
  strong clients and oppurtunity for market share gain
 Galaxy surfactants - CFO used in capex, divdends | 25% constant ROCE on incremental capital, Credit Rating : AA-, Proxy play on 
 world FMCG market , focusing on transistion demand from petro to oleo chemicals , moderate pricing power bcoz of competettion
-Suprajit - 
-Rajratan Global wires - lower end of value chain , fluctuating margins as prices are linked to steel
-Polycab
-Havells
-
+Suprajit - lower end of value chain, but will volumes be double digit? need to findout
+Rajratan Global wires - lower end of value chain , fluctuating margins as prices are linked to steel, competettion from China
+   but will volumes be double digit? need to findout
+AU small finance bank/AAVAS financers/HOME FIRST/FIVE STAR - home, MSME lending (strong small players with good asset quality 
+  even in COVID)
+  FIVE STAR - spread in south
+  AAVAS financers - Rajasthan, Maharastra etc
+  HOME FIRST - Gujarat, Maharastra
 
 -------------------------------- Eliminated -----------------------------------
 Radico - ESG concerns won't bring in much funds , institutional holding is already high and states control everything from production
@@ -143,3 +147,8 @@ Most of the complex tests are done in hospital
 not a global company
 if it enters B2B market with hospital chains - they need to provide discounts
 unless there is tech and scale - it is difficult for dr lal to get high margins
+
+Balkrishna Industries - limited pricing power as said by management, heavily dependent on Europe & US volumes 
+
+IEX - NO pricing power - rates controlled by power board, globally competettive - No, new competettion came in the picture, 
+  companies preferring captive power consumption, long term power agreements to secure supply chain

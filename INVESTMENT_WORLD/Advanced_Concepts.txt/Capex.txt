@@ -1,11 +1,18 @@
-Types of Capex:
+//What is capex?
+Capital expenditures (CapEx) are funds used by a company to acquire, upgrade, and maintain physical assets or intangible 
+ assets (like patents, lincense , copyrights etc)
+must be useful for more than 1 year
+Examples of CapEx include the purchase of land, vehicles, buildings, plants, heavy machinery small equipments, furniture 
+
+
+//Types of Capex:
 i)Capex Upgradation(very bad): Telecom,Automobile,Airlines companies need to do continous capex to upgrade their network equipments and infra etc
 check net block trend (plant, equipment, machinery trend in balance sheet to check whether it is a upgradation capex or capex addition)
 check sales and market share trend
 ii)Capacity augumentation(Good): most companies do capex to increase their capacity and service more demand which is fine
 check net block trend to confirm 
 check sales and market share trend to see if it is working and adding profits
-//operating expenses under control? this parameter indicates management efficiency 
+operating expenses under control? this parameter indicates management efficiency 
     if high fixed costs business(then company should have operations of scale i.e high volumes else the company might be in debt)
     To confirm check operating expense as % of revenue
 
@@ -16,3 +23,22 @@ companies take debt put it in capex , capex fetches revenue and revenue is used 
  we always get the benefits
 equity: In equity you don't have to return the money but the revenue that you generate should be inline with the current 
    return on capital. In other words the company has to maintain ROE/ROCE/ROIC to qualify as a good company
+
+//Find capex intensity
+Capital intensity can be measured by comparing capital and labor expenses.
+The capital intensity ratio is total assets divided by sales.
+
+//Record of capex
+depreciation - in income statement, saving tax
+capex - in cash from investing
+CapEx spent in a yr = ΔPP&E + Current Depreciation
+where:
+CapEx=Capital expenditures
+ΔPP&E=Change in property, plant, and equipment
+
+//CapEx vs. Operating Expenses (OpEx)
+Operating expenses are shorter-term expenses required to meet the ongoing operational costs of running a business.
+Capex is an upfront and one time expense, operating expenses, recur consistently from year to year
+Unlike capex, operating expenses can be fully deducted from the company's taxes in the same year in which the expenses occur.
+  for capex only depreciation is deducted every year
+opex example: rent, wages, utility costs and any capex Maintenance

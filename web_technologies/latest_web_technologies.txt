@@ -102,55 +102,6 @@ Client-side cons:
 * Initial load might require more time bcoz of use of  an external library.
 
 
-https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/
-//GraphQL - A query language for your API
-GraphQL has three main characteristics:
-It lets the client specify exactly what data it needs.
-It makes it easier to aggregate data from multiple sources.
-It uses a type system to describe data.
-
-*GraphQL on the other hand is like having a personal assistant: 
-In other words, GraphQL establishes a standard language for talking to this magical personal assistant.
-*GraphQL API is organized around three main building blocks: the schema, queries, and resolvers.
-Queries - The request you make to your GraphQL personal assistant is the query
-Resolver - tells GraphQL how and where to fetch the data corresponding to a given field.
-
-*While typical REST APIs require loading from multiple URLs, GraphQL APIs get all the data your app needs in a single request. 
-Apps using GraphQL can be quick even on slow mobile network connections.
-
-
-//WebAssembly - official fourth language on the web alongside javascript HTML and CSS
-https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/
-**use cases:
-This enables the use of pre-compiled executables for performance-critical portions of page scripts.
-for e.g: achieving performance of a native video games and audio application in the browser is hard 
-that is where web assembly pitches in.
-
-**about
-/WebAssembly, or wasm for short, is a low-level bytecode format that runs in the browser just like JavaScript.
-/It is designed to be faster to parse than JavaScript, as well as faster to execute.
-/as of now C, C++ and Rust can compile to web assembly
-/You do not write WebAssembly, you compile other higher level languages like C, C++ or Rust code and compile it into what is called a WebAssembly module.
-/it has a textual format that’s easy to read (.wat), but binary representation is what you actually deliver to the browser (.wasm).
-/WebAssembly was designed for speed. Its binaries are much smaller than textual JavaScript files. Because of their size, 
-they are faster to download and this is especially important on slow networks/ high latency networks
-/inter-operable: You can call WebAssembly functions in JavaScript code and you can call JavaScript functions
- in WebAssembly modules, but as of now passing data between wasm and js is not straight forwared.
-/Better to think of WebAssembly as a system that runs well in isolation and use it to offload big chunks of work.
-
-
-**execution in the browser
-You can load that into your web application and call it from JavaScript. It runs in the same sandbox 
-as regular JavaScript code (It’s not a replacement for JavaScript, it’s a compliment to JavaScript allowing 
-us to build an even greater variety of applications and more importantly better quality applications as good as any desktop app)
-/JavaScript code(text) - parse(abstract syntax tree), compile and optimize it
-/WASM(binary) - decode and compile because Most of the optimization happens during the compilation of source code, before it even gets into the browser.
-/In WebAssembly there is only one compilation step and your app will run in every modern browser.
-browser takes care of converting WebAssembly code to executable code on the processor
-/Until now, JavaScript has been the only fully supported language in web browsers. With WebAssembly, web developers will be able to choose other
-languages and more developers will be able to write code for the web.
-
-
 //web components - suite of different technologies allowing you to create reusable custom elements 
 web components are imperative(u explicitly iterate on DOM) but react components are declarative
 you are free to use React in your Web Components, or to use Web Components in React

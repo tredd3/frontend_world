@@ -19,13 +19,34 @@ Reason: when oil prices are high companies use these services to quickly take fi
 they don't want to extract the oil and wait for the prices to be normal which is not in their hands
 
 
-//India situation
+//India Stats
 overall crude oil imports of 175.900 MMT(million metric tonnes) - overall requirement for india 0.4 billion cubic metres per year
-In FY21, India imported 85% of its crude-oil requirements. 
+In FY21, India imported 85% of its crude-oil requirements and 50% of gas requirements
+fertiliser sector, chief consumer of gas, meets around 70% of its requirement through imports
 India’s major sources of crude oil and gas imports are Iraq, Saudi Arabia, Qatar, UAE, Nigeria, Kuwait, Oman, and the US. 
 India imported share - middle east 60%, Russia 20%, north america, south america & Africa 20%
+Furthermore, there is an ongoing expansion of imported RLNG handling capacity in India, which is expected to augment the 
+ availability of natural gas in the future - Majority of the industrial and commercial users are envisaged
+ to shift to natural gas from alternative fuels due to ease in usage and favourable regulatory push.
 estimated natural-gas reserves are around 1,141.3 billion cubic metres(ONGC, the country’s largest oil and gas company, produces around 22 billion cubic metres every year)
 Around 198 discoveries of oil and gas have been notified in the basin so far. Of this, ONGC has 156 discoveries, RIL 31, Vedanta eight, and OIL has three discoveries.
+The GoI aims to increase the share of natural gas in India’s energy mix from 6% at present to around 15% by 2030. 
+government is targeting 30% penetration of electric by the end of 2030, but that still leaves 70% of the market that will 
+  be ICE technology (ethanol blended petrol, CNG vehicles will lead)
+Last year, the CNG market was around 100,000 units in a 3 million passenger car market.
+Going forward, as we see 800-1,000 CNG stations added every year, we will see steep growth in this market.
+Gujarat is the highest natural gas-consuming state, with around 40% of total domestic natural gas consumption in the country
+
+//SupplyChain
+CNG (gas) -  compressed gas 
+LNG (liquid) - occupies less volume compared to CNG
+LNG fueling stations require complex cryogenic equipment and is more complicated to use in vehicles
+import gas via containers -> LNG(only 2 terminals) managed by petronet -> carried by GAIL, IOCL, BPCL -> CGD, petrol bunks ets
+In India, the Ministry of Petroleum and Natural Gas (MoPNG), Government of India (GoI), exercises control over allocation of
+  natural gas produced in the country
+MoPNG has been extending domestic natural gas to the maximum extent to the CGD players under the Administered Price Mechanism (APM)
+  so that CGD players can supply to PNG-Domestic and CNG segments
+CGD players have to rely on imported RLNG for meeting the requirement of PNG-Industrial and PNG-Commercial segments
 
 
 //GAS

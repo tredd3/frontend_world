@@ -57,11 +57,10 @@ search about the company or its poducts/services quality in google - you will ge
 
 /////----------------------- Run way for Growth/oppurtunity to grow : small, large, huge -----------------------////
 Note: 
-1)avoid investing in highly regulated sectors (no pricing power, no control on the business)
-2)avoid sectors linked significantly to commodity prices (sales are cyclical but expenses always increase YOY)
-3)avoid sectors exposed to frequent/rapid technological disruption(lot of money needs to be spent on R&D to counter the innovation, and 
-4)competetion can come from any part of the world and at anytime) e.g: KPIT
-5)Try getting in to companies higher end of value chain
+avoid investing in highly regulated sectors (no pricing power, no control on the business)
+avoid sectors linked significantly to commodity prices (sales are cyclical but expenses always increase YOY)
+avoid sectors exposed to frequent/rapid technological disruption(lot of money needs to be spent on R&D to counter the innovation, and 
+competetion can come from any part of the world and at anytime) e.g: KPIT
 
 /*********************  DEMAND **********************/
   ***** Target Customer ****** 
@@ -69,8 +68,14 @@ Note:
      Businesses(corporates, factories, industries) - Domestic and Global
      Govt(state/central/municipal)
 
+  ***** Market Size ****** (MANAGEMENT HAS SOME CONTROL)
+  huge -  product/service used by almost every individual AND every business
+  large - product/service used either by almost every individual OR every business but not both
+  medium - product/service can be used only by few individuals AND few businesses
+  small - product/service can be used either by few individuals OR few businesses but not both - If you invest in such a business ,
+     it must be a Niche Area, low competetion, strong MOATS and Longevity - on top of everything great Valuation is must
 
-  ****** Type of Demand per customer ******* (MANAGEMENT HAS //NO// CONTROL)
+  ****** Demand per customer ******* (MANAGEMENT HAS NO CONTROL)
     1)continous and growing demand (exponential) - volume led growth reaching to larger audience or more consumption(insurance, 
       Energy, Banking, finance, payments, Investments, lifestyle)
     2)continous and constant/slow growth demand(FMCG, healthcare, real estate, Telecommunication) - pricing power,
@@ -80,43 +85,28 @@ Note:
       an avg bcoz not everyone will replace everything at the same time.
     4)cyclical demand - one time demand or replacement cycle is high like > 5 yrs - capital goods
 
+  ***** Customer base Increase oppurtunities ******* (MANAGEMENT HAS CONTROL OVER THIS)
+    /***/oppurtunity to widen the customer base
+      At present customers are individuals but now making products/services to make businesses as customers
+      At present customers are businesses but now making products/services to make individuals as customers 
 
-  ***** Current Market Size/Demand ****** 
-  1)Customer base:
-  huge -  product/service used by almost every individual AND every business
-  large - product/service used either by almost every individual OR every business but not both
-  medium - product/service can be used only by few individuals AND few businesses
-  small - product/service can be used either by few individuals OR few businesses but not both - If you invest in such a business,
-     it must be a Niche Area, low competetion, strong MOATS and Longevity - on top of everything great Valuation is must
-
-  2)Amount spent by the customer
-  huge - high value product (Apple, Tesla)
-  large/medium - higher end of the value chain/frequency of use of product
-  low - commodity/easily available/lower end of the value chain
-
-  ***** Market Size/Demand Growth oppurtunities ******* (MANAGEMENT HAS //FULL// CONTROL OVER THIS)
-    1)Customer base increase oppurtunities:
-      i)oppurtunity to widen the customer base
-        At present customers are individuals but now making products/services to make businesses as customers
-        At present customers are businesses but now making products/services to make individuals as customers 
-      ii)oppurtunity to deepen the customer base
-        /low sector penetration - increase customer base by acquiring new customers in untapped and rural areas
-        /low market share of the company - snatch market share from others (especially from unorganised)
-        /import substitution - Atam nirbhar bharat
-        /Export oppurtunities - china+1 /Europe+1/ demand shift from other countries to India etc
-        /Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
-          bcoz of high competettion given the size of oppurtunity
-
-    2)Capture more Amount spent by the customer/make customer spend more
-        --enter in to other near by industries or related sectors
+    /***/oppurtunity to deepen the customer base
+      /low sector penetration - increase customer base by acquiring new customers in untapped and rural areas
+      /high sector penetration OR high market share of the company - 
+        --enter in to other near by industries or related sectors, 
         --launch new products
-        --getting in to higher end of value chain like launch premium products as replacement for existing products 
+        --launch premium products as replacement for existing products 
         --people prefering branded and premium products as their salary/per capita income increases
+      /low market share of the company - snatch market share from others (especially from unorganised)
+      /import substitution - Atam nirbhar bharat
+      /Export oppurtunities - china+1 /Europe+1/ demand shift from other countries to India etc
+      /Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
+        bcoz of high competettion given the size of oppurtunity
 
+     /***/exponential growth: widening + deepening
 
-  ****** Market Size/Demand growth for next 10 yrs ******* 
-     huge market size oppurtunity: higher end of value chain + widening & deepening customer base
-     Exponential demand Growth: huge market size oppurtunity + Increasing demand per customer
+     ****** demand size for next 10 yrs ******* 
+     IDEAL: market size(huge preferred) + increase in customer base(exponential preferred) * demand per customer(exponential preferred)
      e.g: insurance, Energy, Banking, finance, payments, Investments
 
 /*********************  SUPPLY **********************/
@@ -299,6 +289,9 @@ what happens if any of the risks play out? will it impact the business in a big 
 can management do something to mitigate the risk?
 
 ---Business Risk:
+Increase in LNG prices
+Lower allocation of APM gas
+Further decline in volume due to cheaper alternate fuel
 
 ---Financial Risk:
 

@@ -1,0 +1,68 @@
+renewable biomass fuels such as bioethanol, bio-diesel, bio-hydrogen, etc., derived from sugarcane, corn, switchgrass, algae, etc.
+Direct fermentation of sugars has advantages in production costs of ethanol, compared to processes that use starchy materials (corn)
+ or lignocelluloses biomass as raw materials.
+molasses : viscous, dark and sugar-rich by-product obtained during sugar extraction from the sugarcane
+Molasses is defined as waste product of sugar industry of which further extraction of sugar is uneconomical, contains about 
+ 40– 50% fermentable sugars. Because of the ease with which this can be fermented into ethanol at low price made it 
+ ideal for ethanol production
+
+
+/ENA is the primary raw material for making alcoholic beverages and it is derived from different 
+sources - sugarcane molasses and grains. It is widely used in the production of alcoholic 
+beverages such as whisky, vodka, gin, cane, liqueurs, and alcoholic fruit beverages.
+/Extra-Neutral Alcohol (ENA) is an ethanol grade of 96% purity or higher. It's main use is as the base ingredient in the production
+ of alcoholic spirits.
+/Like ethanol, ENA is also a byproduct of the sugar industry and is formed from molasses, resulting from refining sugarcane or 
+  sugar beets into sugar.
+
+
+--------------------- ETHANOL ---------------------
+//About:
+Ethanol is a plant derivative
+When ethanol complete combustion, it releases carbon dioxide and water.
+Ethanol finds usage in auto(fuel), pharma, beverage and chemical industries, cosmetics, and industrial materials
+At 95% purity, it is called rectified spirit and is used as the intoxicating ingredient in alcoholic beverages. 
+At 99%-plus purity, ethanol is used for blending with petrol.
+
+//Production Types:
+For the production of ethanol, ethanol factories in India employ the following types of raw materials:
+  1G - Based on sugarcane Juice OR molasses 
+  2G - Materials of the second generation (biomass, mixed grain, and agricultural waste and Grain-based).
+
+//Production Process:
+All spirits go through at least two procedures - fermentation and distillation. 
+Fermentation is where all alcohol is created (yeast or bacteria breaks down the sugar content in a substance in to alcohol + some by product)
+Distillation is where the alcohol is separated and removed by boiling and then condensation, remaining water goes under treatment
+  producing high value by-products
+Sugar cane -> Bagasse + Sugar cane Juice -> Sugar + B heavy molasses -> Sugar + C heavy molasses(no sugar content left) ->
+  Fermentation(for 24 hrs) -> Distillation -> Ethanol
+Bagasse : dry pulpy fibrous material that remains after crushing sugarcane. It is used as a biofuel for the production of heat,
+   energy, and electricity, and in the manufacture of pulp and building materials.
+Cogeneration or combined heat and power is the use of a heat engine or power station to generate electricity and useful heat at the same time
+The ‘C’ molasses roughly constitute 4.5% of the cane, and have a remaining TFS of 40%. After C-molasses are sent to the distillery,
+ ethanol is extracted from them. Every 100 kg of TFS yields 60 litres of ethanol.
+Mills can also produce only ethanol from sugarcane, without producing sugar at all. In this case, the entire 14% TFS in the cane 
+ is fermented producing high quality Ethanol. Here, a mill can make 84 litres of ethanol and zero kg of sugar.
+Sugar crystals can also be used to produce Ethanol (Sugar mills do this when sugar is excess)
+
+//What Are The Advantages of Using Ethanol Fuel?
+Ethanol has a higher octane rating than petrol which reduces engine knocking.
+A high octane rating of 113, ethanol is a high-compression, high-performance fuel.
+Ethanol contains more oxygen than petrol thereby burning cleaner and greener.
+Ethanol as a fuel doesn’t break down and leaves fewer to no deposits.
+Ethanol burns cleaner than petrol and has a cleansing effect on the fuel system.
+
+
+--------------------- ETHANOL STATS ---------------------
+Uttar Pradesh has emerged as the country's leading producer of ethanol, and 54 distilleries spread around the state generate a 
+ total of 58 crore litres of ethanol.
+US and Brazil produce 84 per cent of all ethanol production in the world 
+In US ethanol is made from corn.
+currently in India ethanol blending is 7.5% in petrol, target in 2025 - 20% (Brazil does 80% - 100% blending)
+GST reduced from 18% to 5%, ban on blending imported ethanol in petrol
+two major sugar producing states, i.e. U.P. and Maharashtra.
+sugar & ethanol prices are market driven, but downfall in these prices is cushioned by the MSP declared by the GoI
+government is empowered to fix the price paid to cane growers annually
+government has made supplies profitable by raising ethanol prices every fiscal, in addition to differential pricing for B-Heavy 
+  and the direct cane juice route and providing interest sops on loans for setting up ethanol-based distilleries.
+Risk:  profitability remains vulnerable to the government’s policies on exports, MSP, and remunerative ethanol prices.
