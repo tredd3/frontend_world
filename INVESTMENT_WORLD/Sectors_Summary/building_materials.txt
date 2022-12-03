@@ -1,3 +1,16 @@
+//cement
+ raw material used - limestone
+ 40% of the country’s limestone reserves are in South India
+ India is the second largest producer of cement in the world
+our per capita consumption is just 250 kg compared with 1,600 kg of China
+Largest capacity :
+ Ultratech - 110
+ Adani(ACC+Ambuja) - 70
+ Shree Cement - 45
+ Dalmia Bharat - 35
+
+
+//Bricks OR ACC blocks
 AAC block bricks are more stable against earthquake forces in comparison to clay brick structures. 
 Brick construction is time-consuming due to smaller bricks and more joints. AAC blocks achieve speedy construction due to their 
 bigger size, low weight, and fewer joints.
@@ -13,7 +26,3 @@ Aerocon AAC blocks :
   It is made entirely of recycled materials, producing no waste 
 
 materials used to build AAC block in India: Quartz sand, Cement, Fly Ash, Calcined gypsum, Limestone, Water and Aluminum Powder.
-
-
-
- 

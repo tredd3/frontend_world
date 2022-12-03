@@ -1,0 +1,13 @@
+Glob pattern : specify sets of filenames with wildcard characters(*, ? ,[, ])
+For e.g: mv *.txt textfiles/ moves (mv) all files with names ending in .txt from the current directory to the directory textfiles.
+
+* - wildcard character
+*.txt - glob pattern
+
+Regex for string search based on specific pattern
+? Maps to .
+*maps to .*
+
+Sql wild character
+? Maps to _
+*maps to %
