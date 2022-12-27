@@ -1,27 +1,454 @@
 
 https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/
 https://the-guild.dev/blog/graphql-over-websockets
+Resource: https://www.howtographql.com/
 
-//GraphQL - A query language for your API
+
+//REST - set of guidelines for creating stateless, reliable web APIs.
+REST Architecture - JSON ,CACHING, LESS BANDWIDTH, STATELESS, CRUD operations(method info), 
+scoping info is mentioned in the URL (like userid)
+DELETE api/users/:userid HTTP/1.1
+API - programs built on different platforms and programming languages could exchange data in an easy manner.
+REST APIs uses HTTP request, response and methods, XML and mostly JSON(data format), additional info in URL.
+REST endpoints return predefined and fixed data structures.
+ while SOAP API is largely based on HTTP and XML
+
+
+//GraphQL - A query language for your API not databases hence it’s database agnostic 
+GraphQL is a specification that can be implemented in any language and the implementation be used anywhere a client 
+  communicates with an API - not specific to web (can be used in android, ios or in server)
+Like REST and SOAP , GraphQL also uses HTTP
+developed by Facebook, maintained by community
 GraphQL has three main characteristics:
-It lets the client specify exactly what data it needs.
-It makes it easier to aggregate data from multiple sources.
-It uses a type system to describe data.
+1)It lets the client specify exactly what data it needs - declarative
+  GraphQL minimizes the amount of data that needs to be transferred over the network 
+2)It makes it easier to aggregate data from multiple sources.
+  GraphQL APIs typically only expose a single endpoint. This works because the structure of the data that’s returned is not fixed. 
+  Instead, it’s completely flexible and lets the client decide what data is actually needed by sending a Query
+  we can monitor the performance of resolver functions and find out the bottlenecks in the application
+  Apps using GraphQL can be quick even on slow mobile network connections - this is bcoz the number of API calls are reduced
+3)It uses a type system to describe data.
+  All the types that are exposed in an API are written down in a schema using the GraphQL Schema Definition Language (SDL). 
+  This schema serves as the contract between the client and the server to define how a client can access the data.
+  Once the schema is defined, the teams working on frontend and backends can do their work without further communication
+   since they both are aware of the definite structure of the data that’s sent over the network.
 
-*GraphQL on the other hand is like having a personal assistant: 
-In other words, GraphQL establishes a standard language for talking to this magical personal assistant.
-*GraphQL API is organized around three main building blocks: the schema, queries, and resolvers.
-Queries - The request you make to your GraphQL personal assistant is the query, queries are used to fetch data from a server
-Subscriptions - Like queries, subscriptions enable you to fetch data. Unlike queries, subscriptions are long-lasting operations
- that can change their result over time. They can maintain an active connection to your GraphQL server (most commonly via WebSocket),
-  enabling the server to push updates to the subscription's result.
-Resolver - tells GraphQL how and where to fetch the data corresponding to a given field.
-
-While typical REST APIs require loading from multiple URLs, GraphQL APIs get all the data your app needs in a single request. 
-Apps using GraphQL can be quick even on slow mobile network connections - this is bcoz the number of API calls 
- are reduced + the amount of data transferred over the network is also reduced
+//Misc
+flexible nature of GraphQL -  changes on the client-side can be made without any extra work on the server. 
+Reusing & Composing GraphQL APIs with GraphQL Bindings - With GraphQL bindings you can embed existing GraphQL APIs into your GraphQL server.
+https://github.com/graphql-boilerplates/react-fullstack-graphql
+https://github.com/graphql-boilerplates
+GraphQL Playground is a powerful “GraphQL IDE” for interactively working with a GraphQL API.
+https://github.com/graphql/graphql-playground
 
 
-//Mutation
+//Core Concepts
+1)The Schema Definition Language (SDL)
+GraphQL has its own type system that’s used to define the schema of an API.
+The syntax for writing schemas is called Schema Definition Language (SDL).
+In GraphQL, there are two different kinds of types.
+i)Scalar types represent concrete units of data. The GraphQL spec has five predefined scalars: as String, Int, Float, Boolean, and ID.
+  enums are special kinds of scalar types.
+  enum is a language feature to express the semantics of a type that has a fixed set of values
+  enum Weekday {
+  MONDAY
+  TUESDAY
+  WEDNESDAY
+  THURSDAY
+  FRIDAY
+  SATURDAY
+  SUNDAY
+  }
+
+  interface specify a set of fields that any type, which implements this interface, needs to have
+  interface Node {
+    id: ID!
+  }
+
+  type User implements Node {
+    id: ID!
+    name: String!
+    age: Int!
+  }
+
+ii)Object types have fields that express the properties of that type and are composable. Examples of object types are 
+ the User or Post types we saw in the previous section.
+
+type Person {
+  id: ID! #! means it is a required field
+  name: String!
+  age: Int!
+  posts: [Post!]!
+}
+
+type Post {
+  title: String!
+  author: Person!
+}
+
+
+2)Fetching Data with Queries
+//example query that a client could send to a server:
+{
+  allPersons {
+    name
+  }
+}
+The allPersons field in this query is called the root field of the query. Everything that follows the root field, is called
+ the payload of the query. The only field that’s specified in this query’s payload is name.
+sample response: 
+{
+  "allPersons": [
+    { "name": "Johnny" },
+    { "name": "Sarah" },
+    { "name": "Alice" }
+  ]
+}
+
+//Parameterizing Fields with Arguments
+In GraphQL, each field can have zero or more arguments if that’s specified in the schema.
+all these params are used by resolver to get data
+type User {
+  name: String!
+  age: Int!
+}
+
+# default_value = -1, type = Int
+type Query {
+  allUsers(olderThan: Int = -1): [User!]!
+}
+
+{
+  allUsers(olderThan: 30) {
+    name
+    age
+  }
+}
+
+//Named Query Results with Aliases
+One of GraphQL’s major strengths is that it lets you send multiple queries in a single request. However, since the 
+response data is shaped after the structure of the fields being requested, you might run into naming issues when you’re
+ sending multiple queries asking for the same fields:
+#the below will throw an error
+{
+  User(id: "1") {
+    name
+  }
+  User(id: "2") {
+    name
+  }
+}
+
+#hence using aliases to send a query
+{
+  first: User(id: "1") {
+    name
+  }
+  second: User(id: "2") {
+    name
+  }
+}
+
+//GraphiQL
+The designers of the schema already know what the schema looks like but how can clients discover what is accessible through a 
+GraphQL API? We can ask GraphQL for this information by querying the __schema meta-field, which is always available on the 
+root type of a Query per the spec.
+query {
+  __schema {
+    types {
+      name
+    }
+  }
+}
+
+#We get both the object types we defined and scalar types. 
+{
+  "data": {
+    "__schema": {
+      "types": [
+        {
+          "name": "Query"
+        },
+        {
+          "name": "Author"
+        },
+        {
+          "name": "Post"
+        },
+        {
+          "name": "ID"
+        },
+        {
+          "name": "String"
+        },
+        {
+          "name": "__Schema"
+        },
+        {
+          "name": "__Type"
+        },
+        {
+          "name": "__TypeKind"
+        },
+        {
+          "name": "__Field"
+        },
+        {
+          "name": "__InputValue"
+        },
+        {
+          "name": "__EnumValue"
+        },
+        {
+          "name": "__Directive"
+        },
+        {
+          "name": "__DirectiveLocation"
+        }
+      ]
+    }
+  }
+}
+
+#We can even introspect the introspection types!
+{
+  __type(name: "Author") {
+    name
+    description
+  }
+}
+
+below is the result:
+{
+  "data": {
+    "__type": {
+      "name": "Author",
+      "description": "The author of a post.",
+    }
+  }
+}
+
+
+3)Mutation:
 A Mutation is a GraphQL Operation that allows you to insert new data or modify the existing data on the server-side.
  You can think of GraphQL Mutations as the equivalent of POST , PUT , PATCH and DELETE requests in REST.
+There generally are 3 kinds of mutations:
+creating new data
+updating existing data
+deleting existing data
+//Writing Data with Mutations:
+Like with a query, we’re also able to specify a payload for a mutation in which we can ask for different properties of the new Person object. 
+being able to also query information when sending mutations can be a very powerful tool that allows you to retrieve new information 
+ from the server in a single roundtrip!
+mutation {
+  createPerson(name: "Bob", age: 36) {
+    title
+    designation
+  }
+}
+The server response for the above mutation would look as follows:
+"createPerson": {
+  "name":"Bob"
+  "title": "title",
+  "designation": "software",
+}
+One pattern you’ll often find is that GraphQL types have unique IDs that are generated by the server when new objects are created. Extending our Person type from before, we could add an id like this:
+type Person {
+  id: ID!
+  name: String!
+  age: Int!
+}
+Now, when a new Person is created, you could directly ask for the id in the payload of the mutation, since that is information that wasn’t available on the client beforehand:
+mutation {
+  createPerson(name: "Alice", age: 36) {
+    id
+  }
+}
+
+4)Realtime Updates with Subscriptions
+Whenever that particular event then actually happens, the server pushes the corresponding data to the client. 
+Unlike queries and mutations that follow a typical “request-response-cycle”
+subscriptions represent a stream of data sent over to the client.
+They can maintain an active connection to your GraphQL server (most commonly via WebSocket), enabling the server to push updates to the subscription's result.
+Subscriptions are written using the same syntax as queries and mutations. Here’s an example where we subscribe on events happening on the Person type:
+subscription {
+  newPerson {
+    name
+    age
+  }
+}
+After a client sent this subscription to a server, a connection is opened between them. Then, whenever a new mutation is performed 
+ that creates a new Person, the server sends the information about this person over to the client:
+{
+  "newPerson": {
+    "name": "Jane",
+    "age": 23
+  }
+}
+
+5)GraphQL Schema: simply a collection of GraphQL types
+https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d
+A GraphQL schema is the backbone of every GraphQL API.
+The GraphQL schema defines the server’s API
+It clearly defines the operations (queries, mutations and subscriptions) supported by the API, including input arguments and possible responses. 
+It specifies the capabilities of the API and defines how clients can request the data. 
+It is often seen as a contract between the server and client.
+schema-driven development in the context of GraphQL : refers to a process where a feature is first defined in the schema, then
+ implemented with resolver functions.
+GraphQL Faker is a tool that mocks the entire GraphQL API (based on its schema definition), so frontend and backend teams 
+ can work completely independently.
+
+However, when writing the schema for an API, there are some special root types:
+type Query { ... }
+type Mutation { ... }
+type Subscription { ... }
+
+The Query, Mutation, and Subscription types are the entry points for a GraphQL API.
+allPersons is called a root field of the API. 
+type Query {
+  allPersons(last: Int): [Person!]!
+  allPosts(last: Int): [Post!]!
+}
+
+type Mutation {
+  createPerson(name: String!, age: Int!): Person!
+  updatePerson(id: ID!, name: String!, age: String!): Person!
+  deletePerson(id: ID!): Person!
+}
+
+type Subscription {
+  newPerson: Person!
+}
+
+6)GraphQL client
+2 major GraphQL clients available at the moment:
+ Apollo Client - community-driven effort to build a powerful and flexible GraphQL client for all major development platforms.
+ Relay - Facebook’s homegrown GraphQL client that heavily optimizes for performance and is only available on the web.
+//infra code abstracted by the client libraries:
+send queries and mutations directly without constructing HTTP requests directly
+view-layer integration - uses React HOC concept and makes the data available as props
+caching data locally - normalises the data before caching (can be used for offline support)
+  means that the (potentially nested) query result gets flattened and the store will only contain individual records that 
+  can be referenced with a globally unique ID
+  Ref: https://www.apollographql.com/blog/graphql/basics/the-concepts-of-graphql/
+Also Server-side caching still is a challenge with GraphQL, as unlike rest the structure of data changes based on client request
+validation and optimization of queries based on the schema
+
+
+7)GraphQL server
+https://www.howtographql.com/advanced/1-server/
+Libraries to implement GraphQL server : GraphQL.js , graphql-tools
+GraphQL.js - for dynamically constructing and modifying your schema use this library
+graphql-tools - uses GraphQL.js under the hood,  adds resolver functions to schema, great for static schemas
+https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e
+The GraphQLSchema object is the core of a GraphQL server
+GraphQLSchema object, consisting of 2 major components: the schema definition , the actual implementation in the form of resolver functions
+Since a GraphQL query at its essence is just a collection of fields, each field in a GraphQL schema is backed by a resolver.
+Resolver - tells GraphQL how and where to fetch the data corresponding for a given field (infact that is the ONLY thing it does)
+when the GraphQL server recieves the query it will invoke all the resolver functions for the fields specified in the query's 
+payload (This is also why GraphQL often is compared to RPC-style involving remote invocations)
+Once all resolvers returned, the server will package data up in the format that was described by the query and send it back to the client.
+
+const UserType = new GraphQLObjectType({ 
+        name: 'User',  
+        fields: { 
+          id: {   
+            type: GraphQLID,  
+            resolve: (root, args, context, info) => {  
+                    return root.id    
+            },
+          },   
+          name: {   
+            type: GraphQLString,      
+            resolve: (root, args, context, info) => {  
+                    return root.name     
+            },    
+          }, 
+        },
+})
+
+const schema = new GraphQLSchema({  
+  query: new GraphQLObjectType({   
+      name: 'Query',
+      fields: { 
+        user: { 
+            type: UserType,  
+            args: {  
+              id: { 
+                type: GraphQLID 
+              }, 
+            }, 
+            resolve: (root, args, context, info) => {    
+                /**
+                * root(parent) - GraphQL server resolves a query by calling the resolvers of the query’s fields using breadth-first (level-by-level).
+                root argument in each resolver call is simply the result of the previous call (initial value is null if not otherwise specified).
+                * args - carries the parameters for the query
+                * context - An object that gets passed through the resolver chain that each resolver can write to and read from (basically a means for resolvers to communicate and share information).
+                * info - contains An AST representation of the query or mutation and more execution information
+                *   Thanks to that, the resolvers know which fields they need to return.
+                *
+                /
+                const { id } = args // the `id` argument for this field is declared above       
+                return fetchUserById(id) // hit the database and return a User instance (a JS object with id and name fields)       
+            },      
+        },  
+      }, 
+   }),
+})
+
+//Optimization for nested requests: The DataLoader pattern
+we might accidentally make multiple requests for the same one - to optimise this we can  wait for all of the resolvers to run, 
+ then make sure to only fetch each item once.This will significantly reduce the calls say from 100 to 10 calls
+Now all these 10 resolver calls are batched and thus the database (or other data source) only has to be hit once
+
+//GraphQL engine - server libraries implement this core feature
+since GraphQL is a specification, there are many libraries(both client & server) built that implements GraphQL specifications
+Also these libraries can be implemented in any of your preferred programming language
+for e.g GraphQL engine of GraphQL.js is implemented via graphql function 
+graphql(schema, query).then(result => console.log(result))
+i)The graphql function validates a GraphQL query(sent by frontend) against a schema (present in backend) 
+  query - contains structure
+  schema - contains structure and behaviour
+ii)executes it - i.e invokes the resolvers of the query’s fields and creates a response according to the GraphQL specification.
+main role of graphql thus is to orchestrate the invocations of the resolver functions and package the response data 
+ according to the shape of the provided query
+
+7)Network and Error Handling
+//GraphQL is transport-layer agnostic
+GraphQL server potentially could work based on protocols other than HTTP, like WebSockets or the lower-level TCP.
+in HTTP usage, query goes as a payload in POST request
+
+//
+A successful GraphQL query is supposed to return a JSON object with a root field called "data". If the request fails or
+partially fails (e.g. because the user requesting the data doesn’t have the right access permissions), a second root field 
+called "errors" is added to the response:
+{
+  "data": { ... },
+  "errors": [ ... ]
+}
+
+8)Security - handling large and complex queries, evil queries
+//handling large queries
+Timeout - server doesn't have to know anything about the query
+For example, a server configured with a 5 seconds timeout would stop the execution of any query that is taking more than 
+5 seconds to execute.
+
+Maximum Query Depth - GraphQL server is able to reject or accept a request based on its depth by stastically analysing 
+  and not executing
+
+//handling medium queries 
+Throttling - based on server response time and query complexity
+In most APIs, a simple throttle is used to stop clients from requesting resources too often.
+https://www.howtographql.com/advanced/4-security/
+
+**************** REST VS GraphQL ****************
+//REST(imperative)
+When fetching data from a REST API, most applications will have to go through the following steps:
+  construct and send HTTP request (e.g. with fetch in Javascript)
+  receive and parse server response
+  store data locally (either simply in memory or persistent)
+  display data in the UI
+
+//GraphQL(declarative) - Complexity is pushed to the server-side where powerful machines can take care of the heavy computation work.
+ describe data requirements
+ display data in UI - no processin at client end , simply display the response from server

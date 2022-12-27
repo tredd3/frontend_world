@@ -90,13 +90,6 @@ Text/plain Forms - same as the URL encoded forms, except that the form fields ar
 Raw - if you want to send plain text /JSON/XML
 Binary - non-textual data to the request, e.g. a video/audio file, images, or any other binary data file
 
-REST Architecture - JSON ,CACHING, LESS BANDWIDTH, CRUD operations(method info), 
-scoping info is mentioned in the URL (like userid)
-DELETE api/users/:userid HTTP/1.1
-API - programs built on different platforms and programming languages could exchange data in an easy manner.
-REST APIs uses HTTP request, response and methods, XML and mostly JSON(data format), additional info in URL.
- while SOAP API is largely based on HTTP and XML
-
 
 // SERVER INTERACTION
 By default,�HTTP�uses�port�80 and HTTPS uses�port�443

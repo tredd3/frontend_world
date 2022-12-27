@@ -4,9 +4,11 @@ const exphbs = require("express-handlebars");
 const logger = require("./middleware/logger");
 const members = require("./Members");
 const router = require("./routes/api/members");
+const { graphqlHTTP } = require("express-graphql");
+const { GraphQLSchema, GraphQLObjectType, GraphQLString } = require("graphql");
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 4000;
 
 //http.listen instead of app.listen so that both socket.io and express can run together by using the same node http server
 //if use app.listen then only express will run and u need to create a separate http server for socket.io
@@ -34,5 +36,30 @@ app.get("/", (req, res) =>
 // Set static folder - acts as web server
 app.use(express.static(path.join(__dirname, "public")));
 
-// Members API Routes - acts as API server
+// Members API Routes - acts as REST API server
 app.use("/api/members", router);
+
+const schema = new GraphQLSchema({
+  query: new GraphQLObjectType({
+    name: "Query",
+    fields: {
+      hello: {
+        type: GraphQLString,
+        resolve: (root, args, context, info) => {
+          return "Graphql is success";
+        },
+      },
+    },
+  }),
+});
+
+//You need to make a POST request from browser and put the query inside body to get the response
+//graphqlHTTP  method does 4 things:
+/**
+ * 1)parse the query string we get from POST call body
+ * 2)validate it against schema
+ * 3)execute the resolvers of all fields
+ * 4)construct the response object and send it to client
+ */
+//acts as GraphQL server
+app.use("/graphql", graphqlHTTP({ schema, graphiql: true }));

@@ -138,15 +138,20 @@ know about the company:
   What does it do: (what is the actual business): API manufacturing in bulk and contract research
     world's Largest manufacturer of more than 10 Generic APIs
   How does it do : Control on cost and chemistry, focused (do more with less and become market leader)
-   No capital raised (either debt/equity) - expansion and capex are funded by internal accruals
+   strong client relation with top 10 pharma companies in the world
+   scale of operation is huge - hence clients move towards divis from china 
+   No capital raised ever (either debt/equity) - expansion and capex are funded by internal accruals
    Only Organic growth - no acquistions so far
    Just like TSMC it is not a competeitor to its clients
    backward integration (in house manufacturing of intermediates) - helping them in garning high margins
+   Also extract scarce raw materials by recycling
    careful selection of which APIs to manufacturer (high margin , low competettion, high demand) - doesn't deal with products
      where china has a leadership
    strong focus on green chemistry by using tech capabilities and constant improvement in process (helped in capturing market
-    share by lowering cost)
+    share by lowering cost, reduce waste and energy used)
    highest quality products - no product was ever recalled due to quality issues
+   energy efficient reactors custom designed in house for better yield 
+   desrisk the supply chain from china - and source from Europe, America and manufacture their own
   Subsidaries/JVs: 
   Target Audience: 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
@@ -425,6 +430,7 @@ check Risk_Check.txt
 ---Business Risk:
 USFDA risk - but it resolved it in 6 months , the fastest in the history of indian pharma industry
 product concentration risk 
+client concentration - top 5 players contribute to 50% of profits
 
 ---Financial Risk:
 
