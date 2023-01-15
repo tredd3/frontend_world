@@ -1,0 +1,50 @@
+
+//Tradtional database:
+Active: query
+Passive: data
+When query is run data is processed
+
+//Event stream processing
+Active: data
+Passive: query
+When data comes query is processed
+
+
+ksqlDB is a database that's purpose-built for stream processing applications.
+only dependency : Apache Kafka bcoz  ksqlDB runs natively on Apache Kafka®, you'll need to have a Kafka installation 
+ running that ksqlDB is configured to use.
+ksqlDB has a built in Kafka connect (we can link any sql DB table with ksql db table)
+it can offer one SQL query language to work with both streams of events (asynchronicity) and point-in-time state (synchronicity)
+With ksqlDB, you can build a complete real-time application with just a small set of SQL statements. 
+each table in ksql db is mapped to certain topics - i.e as in when kafka topic is updated the table is updated
+
+
+message format in ksqldb: Avro/JSON
+//query types:
+1)pull query - only result is published
+Run pull query against a table/materialised view
+CREATE STREAM riderLocations (profileId VARCHAR, latitude DOUBLE, longitude DOUBLE)
+  WITH (kafka_topic='locations', value_format='json', partitions=1);
+
+CREATE TABLE ridersNearMountainView AS
+  SELECT ROUND(GEO_DISTANCE(la, lo, 37.4133, -122.1162), -1) AS distanceInMiles,
+         COLLECT_LIST(profileId) AS riders,
+         COUNT(*) AS count
+  FROM currentLocation
+  GROUP BY ROUND(GEO_DISTANCE(la, lo, 37.4133, -122.1162), -1);
+
+SELECT * from ridersNearMountainView WHERE distanceInMiles <= 10;
+
+Note: in contrast to the previous push query which runs continuously, the pull query follows a traditional request-response model 
+retrieving the latest result from the materialized view.
+
+2)push query - apart from the result , changes are also published to client realtime
+Run push query over a stream
+CREATE STREAM riderLocations (profileId VARCHAR, latitude DOUBLE, longitude DOUBLE)
+  WITH (kafka_topic='locations', value_format='json', partitions=1);
+
+SELECT * FROM riderLocations
+  WHERE GEO_DISTANCE(latitude, longitude, 37.4133, -122.1162) <= 5 EMIT CHANGES;
+
+Note: query will never return until it's terminated. It will perpetually push output rows to the client as events are written 
+ to the riderLocations stream.

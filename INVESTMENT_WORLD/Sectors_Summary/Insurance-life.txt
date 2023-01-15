@@ -59,6 +59,8 @@ Avg per capita Premium World - 370$
 65% total premium market share (down from 100% in 2000 where LIC is the only player)
  Individual (30%), group insurance (70%) - group insurance is low margin business bcoz premium collected is very less
  Linked:0.8%  Non-linked: 99.2% (particpating - 20%, non-participating - 80%)
+ participating policies - 61%, non-participating policies - 37% (shareholders prefer companies with highest number of 
+  non-participating policies so that policyholder get fixed amount and not share of profits)
  bank partner branches - 51,000 but 93% business from individual agents
  corporate agents - 3%, direct - 2%
  Premium gathered per employee - 1.6 cr
@@ -68,6 +70,11 @@ Avg per capita Premium World - 370$
  Total premium CAGR(FY11 - FY21) : 7% , FY19 - FY21: 9.3%
  valuation: MCAP/EV(embedded value) : 0.8
  EV: 544k
+ They sell 3 out of 4 life insurance policies in the country. They manage assets to the tune of ₹39 lakh crores.
+ In effect, they’re managing more money than the entire mutual fund industry combined. They own 4% of all stocks listed on the
+  Indian stock market and they’re sitting on unrealised gains to the tune of ₹4 lakh crores.
+ They hold more government bonds than the RBI.
+ 10% of all household savings go to LIC each year
 
 
 2)SBI Life - strong bancassurance, subsidary of SBI bank, low protection prodcuts and high reliance on ULIP(low margin business),

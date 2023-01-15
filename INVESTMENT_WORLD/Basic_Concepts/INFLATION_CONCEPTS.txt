@@ -3,6 +3,9 @@ inflation is temporary
 inflation and interest rates are directly proportional, i.e if inflation rises interest rates will also rise
 inflation => less real returns on fixed deposits, bonds etc
 
+//Reasons of inflation
+
+
 //Effect of High Inflation on economy:
 price of goods/services increases
 currency will lose value
@@ -24,7 +27,7 @@ CRYPTO : price increases
 
 
 *** Types of inflation ******
-1)demand pull: production capacity remains the same
+1)demand pull: supply/production capacity remains the same, demand is high due to low interest rates
 e.g: property prices increase becuase every one has wealth and wants to buy the property
 2)cost push : demand and supply remains the same, but production cost increases
 e.g: raw material cost/fuel cost increases, final product cost increases => companies can take a hit on balance sheet or they

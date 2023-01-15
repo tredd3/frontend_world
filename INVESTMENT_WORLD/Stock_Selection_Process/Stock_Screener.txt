@@ -176,7 +176,8 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
     if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
       keep gaining market share and eventually turns profitable (keep an eye)
 
-/does it own consumers mind(i.e will people remember this company when u talk about buying a specific product/service)
+/does it own consumers mind(will people remember this company when u talk about buying a specific product/service - i.e has it 
+   captured the mind share of the audience)
   //if yes, then why ? and what value does it add to customers compared to competetiors?
     good quality of product/service 
     low cost
@@ -199,12 +200,14 @@ Note: if they can't generate enough cash (reserves), they must rely on debt/ new
 
 
 ////---------------------- Capital allocation and management focus to capture the growth Oppurtunity ------------------//// 
+check last 10yrs CFO usage in Tijori
+
 //SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
 //Use of Capital:
 1)Growth
     /Global expansion/ exports - Launch products in new markets
     /capex - brownfield or greenfield
-    /Launch New products 
+    /Launch New products (for chemicals it is via forward integration)
     /Product mix change - increase the share of high margin products
     Note: mode of capex funding is also important: preference cash>debt>equity
     /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
@@ -220,7 +223,8 @@ Note: if they can't generate enough cash (reserves), they must rely on debt/ new
       1)raw material cost reduction - backward integration or bulk purchase (check GPM trend)
       2)logistics cost reduction - putting plants near customer/raw material locations
       3)process optimisation and innovation - chemicals and pharma mainly
-      4)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+      4)captive power plants/long term PPA
+      5)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
       NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
       after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
       needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
@@ -239,8 +243,9 @@ Note: if they can't generate enough cash (reserves), they must rely on debt/ new
     Bonus issues
 5)Bad ways:
     finance losses
-    manintenance capex
-    related parted transaction - to promoter owned firms for irrelevant purposes, family members
+    huge manintenance capex every year - e.g Telecom, Auto
+    related parted transaction - to promoter owned firms for irrelevant purposes, using comany cash to fund family businesses etc
+    keep it in cash for a long time
 
 
 // SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
@@ -288,7 +293,8 @@ Note: if they can't generate enough cash (reserves), they must rely on debt/ new
 
 ////------------------------------ MANAGEMENT CHECK --------------------------------////
 Resource: check management discussion analysis in annual report, concall
-//how is the Management and their Vision: must be long term 
+check their Vision: must be long term 
+check their capital allocation strategy over the years (i.e ROCE and use of operating cash for last 10 yrs)
 Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
 and then if u put a capable and passionate management he will do wonders for you
 check Management_Check.txt

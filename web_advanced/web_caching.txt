@@ -7,18 +7,43 @@ in loading web page content by reducing the physical distance between the server
 
 
 2)leverage browser caching using http cache control headers
-Cache-Control: no-cache ( It means ask the server if new content is available, and if so, download it. Otherwise, use what you have cached)
+The If-None-Match HTTP request header makes the request conditional. For GET and HEAD methods, the server will return the 
+ requested resource, with a 200 status, only if it doesn't have an ETag matching the given ones.
+ if it matches then 304 response code is sent which indicates that there is no need to retransmit the requested resources.
+ It is an implicit redirection to a cached resource.
+
+The If-Modified-Since request HTTP header makes the request conditional: the server sends back the requested resource, with a 200
+ status, only if it has been last modified after the given date. If the resource has not been modified since, the response is a 304 
+ without any body; the Last-Modified response header of a previous request contains the date of last modification. 
+ The most common use case is to update a cached entity that has no associated ETag.
+ 
+//Cache-Control: max-age=3600
+The max-age=N request directive indicates that the client allows a stored response that is generated on the origin server within N seconds 
+Cache-Control: max-age=0 (Many browsers use this directive along with If-None-Match for reloading)
+max-age=0 means that the response is immediately stale
+//Cache-Control: no-cache ( It means ask the server if new content is available, and if so, download it. Otherwise, use what you have cached)
+Note that no-cache does not mean "don't cache". no-cache allows caches to store a response but requires them to revalidate it before reuse.
 However no-cache by itself won’t do much for us unless we define how the server will validate the cached resource.
 By setting up Etag support on the server , it can now validate the resources cached by the browser
+By default Nginx automatically generates the “ETag” response header field for static resources.
 Server configuration: ETags (Etags are implemented through checksums computed on the content of a file)
-If your server configuration does not allow for ETags, then you should switch to having browsers never cache the index.html file. 
-This can be done by leveraging the no-store cache control directive instead of no-cache.
+Browsers usually add no-cache and don't include If-None-Match to requests when users are force reloading a page.
+//Cache-Control: no-store
+If your server configuration does not allow for ETags, then you should ask browsers to never cache the index.html file. 
+//Cache-Control: max-age=604800, must-revalidate
+HTTP allows caches to reuse stale responses when they are disconnected from the origin server. must-revalidate is a way to 
+ prevent this from happening - either the stored response is revalidated with the origin server or a 504 (Gateway Timeout) response is generated.
 
+//Clearing an already-stored cache
+Unfortunately, there are no cache directives for clearing already-stored responses from caches.
+we need to explicitly hard refresh the UI
 
-//leverage versioning for each resource to improve our caching strategy - but frequent change of index.html is required
+//leverage versioning for each resource to improve our caching strategy - "cache busting" pattern.
+Also Use a no-cache to make sure that the HTML response itself is not cached. no-cache could cause revalidation, and the client 
+ will correctly receive a new version of the HTML response and static assets.
 Each change made in the source code results in a newly generated Javascript or CSS file. 
-Thus, our index.html file should be updated to point to the new resources. Once the index.html file 
-is updated, all clients would now only download our new Javascript and CSS files.
+Thus, our index.html file should be updated to point to the new resources. 
+Once the index.html file is updated, all clients would now only download our new Javascript and CSS files.
 
 //most effective - no change in file name and no change in index.html
 Cache-control: max-age=N" directive is used to check the freshness

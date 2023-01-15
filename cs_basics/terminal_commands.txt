@@ -100,7 +100,16 @@ grep '17:09:5[0-9]' /var/log/xyz.log - search based on timestamp range
 1. Searching for a text string in one file - grep 'root' /etc/passwd
 2. Searching for a string in multiple files - grep 'root' /etc/*
 
-find command along with grep is used to find a specific file inside a directory
+https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
+Note: find command does things recursively by default
+find . -name '*abcd*'//for example, you wanted to find all files and directories that had abcd in the filename in the current directory:
+find /home/linuxize -type f -iname ab.pdf //search for a file named ab.pdf/AB.pdf in the /home/linuxize directory
+grep -rl test . //Search all files in all subdirectories of the current directory for the string test, and print the filenames that contain this pattern.
+egrep -ril 'aja|alvin' . //search for multiple patterns at one time
+ -r is for recursive search
+ -l is just to print the filenames
+ -i is case insenstive
+find / -type d -user <username> //find all directories owned by user with username in the file system(if ~ is used instead of / then find in the home directory)
 find . | grep test //find files whose name includes "test" in the current directory
 find <directory_path> | grep test //find files whose name includes "test" in a given directory
 
@@ -117,10 +126,6 @@ man <command>
 echo $0 - which shell is currently running like bash,zsh etc
 pwd - print working directory
 file <file/directory name>  //tells u what type of file it is
-https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
-find . -name '*abcd*'//for example, you wanted to find all files and directories that had abcd in the filename in the current directory:
-find /home/linuxize -type f -iname ab.pdf //search for a file named ab.pdf/AB.pdf in the /home/linuxize directory
-find / -type d -user <username> //find all directories owned by user with username in the file system(if ~ is used instead of / then find in the home directory)
 ls <absolute/relative path> //list the contents of a directory
 e.g ls / will listing contents in the file system root
 ls -1 //show items of a directory as single entry per line

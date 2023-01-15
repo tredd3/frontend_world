@@ -74,8 +74,11 @@ except AssertionError:  # Catch a single exception
 except (EnvironmentError, SyntaxError, NameError) as E:  # catch multiple exception
     # This block will be executed if any of the exception B, C or D is caught
     print(E)
-except:
-    print('Exception')
+except Exception as e:
+    print(type(e).__name__)  # to know the name of exception
+    print(e.__class__.__name__)
+    print(e)  # what exactly is the error
+    print(e.__doc__)  # to get full description of why this error is the exception
     # This block will be executed if any other exception other than A, B, C or D is caught
 else:
     # If no exception is caught, this block will be executed

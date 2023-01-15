@@ -1,0 +1,46 @@
+https://www.elastic.co/what-is/elasticsearch
+
+//features:
+The distributed nature of Elasticsearch allows it to scale out to hundreds (or even thousands) of servers and handle petabytes of data.
+open source and free - paid subscriptions for support, advanced features such as alerting and machine learning.
+centrally stores your data for lightning fast search(real time) and autocompletion
+Full-text search is performed seamlessly - also it supports 34 text languages, from Arabic to Thai, and provides analyzers for each.
+document oriented - schema less
+stores data as JSON documents
+handles all types of data, including textual, numerical, geospatial, structured, and unstructured
+Elasticsearch provides a comprehensive and powerful set of REST APIs for performing tasks such as checking cluster health, 
+  performing CRUD (Create, Read, Update, and Delete) and search operations against indices, and executing advanced search operations 
+  such as filtering and aggregations.
+
+
+//ELK stack
+Elasticsearch is the central component of the Elastic Stack, a set of free and open tools for data ingestion, enrichment,
+ storage, analysis, and visualization
+Logstash is an open source, server-side data processing pipeline that enables you to ingest data from multiple sources 
+ simultaneously and enrich and transform it before it is indexed into Elasticsearch
+Kibana is a data visualization and management tool for Elasticsearch that provides real-time histograms, line graphs, pie charts, and maps.
+
+//use cases:
+Application search
+Website search
+Enterprise search
+Logging and log analytics
+Infrastructure metrics and container monitoring
+Application performance monitoring
+Geospatial data analysis and visualization
+Security analytics - prevent, detect, hunt for and respond to threats
+Business analytics
+
+//How does Elasticsearch work?
+Raw data flows into Elasticsearch from a variety of sources, including logs, system metrics, and web applications.
+Data ingestion is the process by which this raw data is parsed, normalized, and enriched before it is indexed in Elasticsearch. 
+Once indexed in Elasticsearch, users can run complex queries against their data and use aggregations to retrieve complex 
+ summaries of their data.
+
+Indexing:
+An Elasticsearch index is a collection of documents that are related to each other.
+Elasticsearch uses a data structure called an inverted index, which is designed to allow very fast full-text searches. 
+An inverted index lists every unique word that appears in any document and identifies all of the documents each word occurs in.
+During the indexing process, Elasticsearch stores documents and builds an inverted index to make the document data searchable 
+in near real-time.
+Indexing is initiated with the index API, through which you can add or update a JSON document in a specific index.

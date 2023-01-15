@@ -1,0 +1,37 @@
+https://www.atlassian.com/git/tutorials/git-hooks
+Git hooks are shell scripts found in the hidden . git/hooks directory of a Git repository. 
+but these files can be overridden by different files
+These scripts trigger actions at every stage of the version-control process (e.g. before a commit, after a commit, before a push, etc.)
+every Git repository includes 12 sample scripts
+By default the hooks directory is $GIT_DIR/hooks, but that can be changed via the core.hooksPath configuration variable 
+Hooks(or programs) can get their arguments via the environment, command-line arguments, and stdin.
+Some scripts take in one to three arguments, while others take none.
+To enable the hook scripts, simply remove the .sample extension from the file name. Git will automatically execute
+ the scripts based on the naming. For e.g, I renamed the “pre-commit.sample” file to “pre-commit.”
+
+//example of a pre-commit hook
+#!/bin/bash
+./node_modules/pre-commit/hook (assuming we are using npm pre-commit package)
+RESULT=$?   ## $? is a special variable in shell that reads the exit status of the last command executed. After a function returns, $? gives the exit status of the last command executed in the function.
+[ $RESULT -ne 0 ] && exit 1
+exit 0
+
+//Scope of hooks
+Hooks are local to any given Git repository, and they are NOT copied over to the new repository when you run git clone.
+Maintaining hooks for a team of developers can be a little tricky because the .git/hooks directory isn’t cloned with the 
+ rest of your project, nor is it under version control.
+A simple solution to both of these problems is to store your hooks in the actual project directory (above the .git directory). 
+ This lets you edit them like any other version-controlled file. To install the hook, you can either create a symlink to it
+ in .git/hooks, or you can simply copy and paste it into the .git/hooks directory whenever the hook is updated.
+As an alternative, Git also provides a Template Directory mechanism that makes it easier to install hooks automatically.
+ All of the files and directories contained in this template directory are copied into the .git directory every time you use git init or git clone.
+
+//There are two groups of Git hooks:
+1)client-side / local hooks, which are prompted by events on the local repository, such as when a developer commits or merges code.
+Of the client-side hooks, the most commonly used ones are: check client_side_hooks.webp
+1)pre-commit
+This hook is invoked by git-commit, and can be bypassed with the --no-verify option. It takes no parameters, and is invoked 
+before obtaining the proposed commit log message and making a commit.
+
+
+2)server-side / remote hooks, which are run on the network hosting the repository, and they are prompted by events such as receiving pushes.

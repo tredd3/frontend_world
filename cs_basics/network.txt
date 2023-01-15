@@ -209,6 +209,8 @@ PATCH - used to apply partial modifications to a resource.
 //HTTP status Codes
 200 - success
 301 - moved permanently
+302 - resource requested has been temporarily moved to the URL given by the Location header. A browser redirects to 
+  this page but search engines don't update their links to the resource 
 304 - not modified
 307 (Temporary Redirect) and 308 (Permanent Redirect)
 The Location response header indicates the URL to redirect a page to

@@ -160,8 +160,60 @@ Example (Informative)
   lineBreaks: "Look, Mom! \
 No \\n's!",
   hexadecimal: 0xdecaf,
-  leadingDecimalPoint: .8675309, andTrailing: 8675309.,
+  leadingDecimalPoint: .8675309, 
+  andTrailing: 8675309.,
   positiveSign: +1,
-  trailingComma: 'in objects', andIn: ['arrays',],
+  trailingComma: {
+    a:4,
+  }, 
+  andIn: ['arrays',],
   "backwardsCompatible": "with JSON",
+}
+
+//YAML and TOML - Designed for human interaction
+YAML is a digestible data serialization language often used to create configuration files with any programming language.
+YAML is a strict superset of JSON, another data serialization language. But because it's a strict superset, 
+ it can do everything that JSON can and more. Also JSON files are valid YAML files
+One major difference is that newlines and indentation actually mean something in YAML, as opposed to JSON, which uses brackets and braces.
+The basic structure of YAML file is an object/map/dictionary
+
+e.g:
+//config.yaml - use spaces for indentation and not tabs
+version: 2
+
+# sequence/list of items are denoted using dashes
+docker:
+    - image: ubuntu:14.04
+    # strings can be quoted or unquoted
+    - image: "mongo:2.6.8"
+      # we an use array bcoz YAML is a superset of JSON
+      command: [mongod, --smallfiles]
+    - image: postgres:9.4.1
+
+command: |  #multiline string
+    if [ "${CIRCLE_BRANCH}" == "master" ];
+      then ansible-playbook site.yml -i production;
+    fi
+
+environment:
+    TEST_REPORTS: /tmp/test-reports
+
+//config.json
+{
+  "version":2,
+  "docker":[
+    {
+      "image":"ubuntu:14.04"
+    },
+    {
+      "image":"mongo:2.6.8",
+      "command": ["mongod", "--smallfiles"]
+    },
+    {
+      "image":"postgres:9.4.1"
+    },
+  ],
+  "environment":{
+    "TEST_REPORTS":"/tmp/test-reports"
+  }
 }
