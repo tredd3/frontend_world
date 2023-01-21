@@ -85,7 +85,17 @@ know about the company:
   How does it do :
     Innovation(effective utilisation of talent) - 593 patents so far and still growing YOY. 
     Customer Loyalty - 90% of the business is repeat business
+    Most of the largest R&D spenders globally are its clients, including 69 of the Fortune 500 companies
+    L&T parentage brings a core engineering DNA to LTTS, a critical aspect not just for showcasing to potential clients, but also in\
+     all areas of operations – from developing proofs of concept (a critica customer acquisition tool) to product lifecycle management.
     Capture the oppurtunity - i.e shortage of engineers in the west and grab the best engineers in India in to their talent pool
+       by attracting the relevant talent interested in pursuing core engineering careers
+    Innovation and research focus: LTTS has a portfolio of ~719 patents (the highest amongst peers)
+    Diversified industry presence: A presence in different industry segments such as auto, telecom, process industries, power 
+     utilities etc. allows LTTS not just to diversify revenues and end user industries, but also enables cross pollination of ideas 
+     to come up with better solutions as well as cross-selling opportunities to customers. E.g. an autonomous welding robot developed
+     for an Industrial products customer was used for a Plant
+Engineering manufacturer.
   6 big bets :
     Electric Autonomous Connected Vehicles (EACV)
     5G

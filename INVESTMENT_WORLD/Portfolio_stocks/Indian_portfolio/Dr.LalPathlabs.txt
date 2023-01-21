@@ -38,7 +38,14 @@ search about the company or its poducts/services quality in google - you will ge
   ABOUT THE COMPANY:
     Nature of business: business services/consumer goods/consumer services/B2B goods
     What does it do: (what is the actual business): 
+      pathology diagnostics in North and East India with a network of 200+ labs, 3000+ collection centres (CCs) and 6000+ pick-up-points
     How does it do :
+      tech usage - Dr. Lal Pathlabs is leveraging on its 15 years learning curve to optimise the location, size and supply chain
+       infrastructure of its CCs and labs.
+      Timely report generation – due to  complete ownership or control on lab technicians, sample handling toolkits, CCs, PUPs and labs
+      Accuracy of the reports compared to unorganised players due to heavy investment on advanced machines/infra
+      Extending home collections to smaller cities – which is helping it gain substantial market share from both org as well as unorg competitors.
+      Disciplined capital allocation – using reserves for acquistions
     Subsidaries/JVs:
     Target Audience :
     Globally competetive company: NO 
@@ -191,7 +198,7 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
 Note: if they can't generate enough cash (reserves), they must rely on debt/ new equity for growth
 
 /strong balance sheet : weak/ medium/ strong
-/CFO is inline with operating profits and growing YOY at double digits - bcoz if it is growing at even 10% then invest in FD
+/CFO is inline with operating profits and growing YOY
 /5yr avg ROCE (ROCE must be greater than cost of capital):    
   /why Return on Capital is important?
   Over the longterm the investment returns will always resemble the capital returns

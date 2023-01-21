@@ -135,37 +135,52 @@ Investor presentation for reference:
 -------------------- PAST --------------------
 know about the company:
   Nature of business: B2B goods
-  What does it do: (what is the actual business): API manufacturing in bulk and contract research
-    world's Largest manufacturer of more than 10 Generic APIs
+  What does it do: (what is the actual business): generic active pharmaceutical ingredients (APIs), custom synthesis (CS) and nutraceuticals. 
+    //generic APIs
+    global leaders in large volume generic APIs with a product portfolio of 30 APIs. The company is one of the top 2
+      API manufacturers in the world for 18 out of the 30 generic API molecules.
+    high volume, low margin business - process efficiencies, economies of scale drives profitability
+    //custom synthesis
+     high volume , high margin business
+     no loss of client in last 30 yrs
+    //nutraceuticals
   How does it do : Control on cost and chemistry, focused (do more with less and become market leader)
-   strong client relation with top 10 pharma companies in the world
-   scale of operation is huge - hence clients move towards divis from china 
+   Gross margin is 60% due to pricing power with clients, operational efficiencies, backward integration
+   strong client relation for more than 10 years with 12 out of top 20 pharma companies in the world (US, EU, Japan)
+   ability to fast track critical projects fulfilling large scale commercial quantities within a short time frame will position 
+    it favourably in the contract manufacturing services industry
    No capital raised ever (either debt/equity) - expansion and capex are funded by internal accruals
+     Kakinada plant construction - to prepare Divi’s Labs for new regulations that would come into play 10-15 years down the 
+     line and also increase capacity.
+     As a result of  calculated capex, the company is debt free and the capex amount is usually recovered in two years  in the 
+      form of incremental free cash flows. 
+     no capex project  undertaken by company has faced a delay in commissioning over last 16 years
    Only Organic growth - no acquistions so far
-   Just like TSMC it is not a competeitor to its clients
-   backward integration (in house manufacturing of intermediates) - helping them in garning high margins
-   Also extract scarce raw materials by recycling
-   careful selection of which APIs to manufacturer (high margin , low competettion, high demand) - doesn't deal with products
-     where china has a leadership
+   Just like TSMC it is not a competeitor to its clients by being 100% IP  compliant
+   backward integration (in house manufacturing of intermediates) - helping them in garning high margins and reduce dependency 
+     on supplies of raw materials from China.
+   Also extract scarce raw materials by recycling - reducing cost 
+   Focus on limited products: careful selection of which APIs to manufacturer (high margin , low competettion, high demand) - doesn't
+    deal with products where china has a leadership
    strong focus on green chemistry by using tech capabilities and constant improvement in process (helped in capturing market
-    share by lowering cost, reduce waste and energy used)
+    share by lowering cost, reduce waste and energy used) - like using enzymes(substances produced by living organisms) rather
+    than chemical as catalyst
    highest quality products - no product was ever recalled due to quality issues
    energy efficient reactors custom designed in house for better yield 
-   desrisk the supply chain from china - and source from Europe, America and manufacture their own
   Subsidaries/JVs: 
   Target Audience: 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 
     cannot be a multi bagger 
-  market share: 
+  market share: 70% (Global)
   Presence : offices in India /US etc
-  Globally competetive company: NO
-  REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
+  Globally competetive company: Yes
+  REVENUE by GEOGRAPHY: exports contribute ~ 90% of sales for the company with  the US & Europe accounting for ~ 75% of all revenues and this contribution has been largely steady over last  16 years.
   Revenue by Product: 
     Generica APIs - 51%
     Custom synthesis manufacturing - 41%
     Nutraceticals -8%
   Revenue by Customers: B2B 100%
-  Clients(Important ones):
+  Clients(Important ones): all top pharma companies
 promoters: 
 why did the promoters start the business: hobby/passion
 promoters have skin in the game
@@ -270,21 +285,24 @@ i)INTERNAL GROWTH OPPURTUNITIES
 ///Sales Growth led Earnings Growth(every firm needs this kind of growth)     
   1)Demand/Consumption led growth from NEW customers (Volume led growth)
     /snatch market share from global players in existing generic modules and hence they are ramping up production
+      in few generic APIs divis has 20-30% of market share but is expecting to reach 60-70% in the near future.
     /Enter new markets - because of cleaner chemistry and backward integration , there is no impurity in sartans API 
      family (where other players have repotedly introduced impurities leading to cancer) - another huge oppurtunity
-    /import substitution (Atam nirbhar bharat)
     /Global expansion/ exports - Launch products in new markets
-    /Strong Order inflows (only for B2B companies)
     /Demand shift from other countries like (china+1 startegy, supplychain disruption in other countries,for low cost substitution
        products etc - but be careful here as they can move from India to someother country too) 
   2)Demand/Consumption led growth from OLD customers (Volume led growth)
-    /increased consumption(volume led growth) of old products - heavy incremental capex (mode of capex is reserves)
+    /increased consumption(volume led growth) of old products - heavy incremental capex (mode of capex is ONLY reserves)
     /Launch New products :
-      getting in to iodine based chemistry where competettion is limited and divis's has the technological capability to recycle the 
-      iodine and reduce cost, given the large size of oppurtunity it is the next growth driver
+      new category of API molecules (contrast media APIs) - Contrast media is used for diagnosing cancer and is also used in 
+      respiratory, nephrological, cardiac and gastrointestinal issues. 
+        Covid-19 and its complexities have further increased the use of contrast media substances.
+        getting in to iodine based chemistry where competettion is limited and divis's has the technological capability to recycle the 
+         iodine and reduce cost, given the large size of oppurtunity it is the next growth driver
       double the capacity of nutraceticals - due to strong demand
       16 generic APIs going off patent - hence adding more capacity to grab the business
-
+      10 new generic products  are under validation and regulatory submissions are also in progress
+      manaufacturing advance stage molecules in custom synthesis segment
 ///Efficiency led Earnings Growth(few firms have achieved it, they just need to maintain)
     /cost cutting - increasing operating efficiency by modernising existing plants, waste management
     //spending on technology for achieving efficiency and modernising the workflow or processes
@@ -322,13 +340,16 @@ Note: Internal growth is always preferred but sometimes the business size is so 
 i)Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale - due to operating leverge
+Economises of Scale - due to operating leverge in generic APIs manufacturing
 Low cost producer - due to backward integration and operating leverge
 Brand - trust and 20 yrs + relationship with top pharma players in the world
-Network effect
-Intangible assets
-Switching costs
-Entry barriers
+Intangible assets - extensive focus on process optimisation
+Switching costs -
+  switching of vendors is a very lengthy process in pharma industry. 
+  regulatory compliance track record where it has had  only one instance of adverse outcome in its FDA inspection in its entire history. 
+  This track record becomes  critical as the clients cannot afford to lose out on their sales due to compliance challenges at vendor’s end  which can take months to resolve.
+Entry barriers - new players will take atleast 5 yrs to do it and still there is no guarantee that they will win the game bcoz of 
+  trust which divis has created among its clients
 Luxury/Premium Range
 Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
    takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings

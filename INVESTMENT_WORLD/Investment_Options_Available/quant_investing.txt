@@ -1,4 +1,4 @@
-Quant investing is all about predictive Analysis and timing the market
+Quant investing is all about predictive Analysis and timing the market(entry and exit) using data and with least human intervention
 You predict in which sector, stock , theme , markets - (China, India, US) you have an opportunity 
   Of getting high returns
 You feed all params and data in to the system and system gives you recommendation based on 
@@ -6,14 +6,21 @@ The VRLT framework
 
 Fundamental analysis - what to buy and why to buy
 Technical analysis - when to buy
-
+ 
  
 //VRLT framework
 V - Valuation (Tells you till what point can your asset/stock rally) - 1/3rd focus
 R - Risk
    low risk : Money flows in low PE/beta stocks, Gold, Debt
    High risk : Money flows in high PE/beta stocks, crypto, loss making companies, using leverage to invest
-L - Liquidity (moment of money across asset classes) - 2/3rd focus
+L - Liquidity (moment of domestic and international money across asset classes) - 2/3rd focus
    from RBI -> Banks -> public(individuals, institutions) -> spend + invest (various asset classes
    like real estate, gold, equities, debt, crypto etc) <- international inflows 
 T - Timing (i.e buy/sell based on liquidity inflow/outflow and risk not based on Valuation)
+
+//In india scenario: 
+Quant funds started since last 3 yrs - so we need to wait till 2025 to check their consistency
+Churnout ratio is high - but this is true for any quant fund in the world
+
+https://marcellus.in/newsletter/meritorq-pms/meritorq-the-power-of-checklists/
+https://marcellus.wealthdesk.in/wealthbaskets/MeritorQ

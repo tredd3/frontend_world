@@ -442,7 +442,9 @@ const sorter = (input) => {
 //async vs defer attribute in a script tag
 //During HTML parsing if it encounters a script block, HTML parsing halts . It makes a call to fetch the script (if external ) and then executes the script, before resuming HTML parsing.
 //If we use async , HTML parsing doesn’t stop during file is fetched, but once it’s fetched , HTML parsing is stopped and script is executed.
+//but Scripts with async added will not execute in order, rather the one which is downloaded first is executed first
 //If we use defer browser downloads the JS during HTML parsing , and executes the JS only when HTML parsing is done.
+//Scripts with defer added will execute in order - so scripts depend on each other and expected to be executed in order must use defer
 
 //https://developer.mozilla.org/en-US/docs/Web/Events
 //https://developer.mozilla.org/en-US/docs/Web/API

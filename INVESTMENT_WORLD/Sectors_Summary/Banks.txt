@@ -12,16 +12,24 @@ A mortgage is usually a loan sanctioned against an immovable asset like a house 
 Banks losses must be covered by earnings , if not reserves , if losses > (earnings + reserves), they end up eating equity
 Bank Financials doesn't tell much about the Financial health of bank, u need to look at annual report
 
-//Physical assets - 95%
+//Stats
+Physical assets - 95%
 financial assets - 5%
+Banks - market share of private banks increased from 25% to 38% in the past 15 years
+79% of the banking sector’s profits are earned by 4 private sector banks
 
-Look for:
+
+Look for: Best Management with focus on Risk management and conservativeness
 Asset quality(low NPAs) and how much does a bank earn on those assets (ROA) compared to peers
 A bank should have a pyramid structure to their assets, with their loans forming the base and being the largest item. 
-The next layer in the pyramid is investment securities. The amount of securities should be less than the loans, but more 
-than cash on hand. Finally, at the top of the pyramid is cash. When a bank doesn’t have a pyramid with its assets, they are 
-conducting business inefficiently (bcoz banks core business is lending and not investing)
-product/services portfolio depth and reach to public
+  The next layer - investment securities, should be less than the loans, but more than cash on hand. 
+  Finally, top of the pyramid is cash. When a bank doesn’t have such a pyramid of assets, then they are 
+  conducting business inefficiently (bcoz banks core business is lending and not investing)
+Winners in the financials sector: There are only two factors to take a call on:
+  a) will the lender be able to survive through the crisis without any bail-outs (i.e lending money from others to cover their losses)
+  b) will the lender have enough strength/liquidity on the liabilities side of the balance sheet on the other side of the crisis to
+  help accelerate loan book growth and lead the consolidation of market share once the crisis is behind us?
+   Also they get to pick quality lenders bcoz the peers would have been exhausted all their money
 Geograpical spread - good to have both urban and rural,i.e as deep and wide as possible to reduce risk
 savings and other low cost deposits trend
 CAR = (tier 1 capital + tier 2 capital)/Risk weighted assets - CAR determines the bank's capacity to meet the time liabilities and 

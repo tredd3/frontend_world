@@ -152,6 +152,8 @@ know about the company:
     //High understanding of Risk and knows when to take it - Kotak has proven time and again that its loan book is sustainable in 
       both good and bad times. Risk-Weighted Assets as a percentage of total assets have consistently declined, and the book enjoys 
       industry-low NPAs even at the time of COVID
+    //Have been able to achieve an all-time high CASA ratio of 56% at a time when many financial institutions are struggling 
+      to raise deposits
     1)Asian crisis - Kotak’s extreme prudence and conservatism, as an NBFC back then, not only helped it sail through the crisis 
     but placed it in the enviable position of having other NBFCs approach it for their recoveries. Kotak saw this as an opportunity 
     to pioneer the purchase of NPA portfolios.

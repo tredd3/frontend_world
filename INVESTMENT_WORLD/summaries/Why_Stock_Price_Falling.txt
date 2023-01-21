@@ -11,8 +11,8 @@ https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543
 2)why are they selling?
   //Internal factors: temporary problem(can be a buy oppurtunity) - weak quarter results , weak guidance in the short term,
     high debt, subsidaries not making profits
-  //Internal factors: permanent problem (can be a value trap) - promoter related, scams, obselete business, increased competettion,
-     MOAT break, loss making
+  //Internal factors: permanent problem (can be a value trap) - promoter related, scams, obselete business,
+     MOAT break, loss making, continous market share loss due to increased competettion
   //External factors: 
      year end tax selling(nov - dec in US, feb - march in India)
      high valuation stocks correct in bear markets - bcoz earnings will become slow
@@ -23,10 +23,8 @@ https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543
          for e.g: in 2020 people sold stocks and invested in GOLD
          Also in 2022, FIIs sold stocks to invest in US bonds @7% interest)
 3)Check if it is a value trap: 
- what is a value trap? stock available at low price but it might stay there for few years OR it might decrease further
- how to identify: low quality business available at reasonable valuation like a company with ROCE > 12% , good market share but no
-   pricing power available at 5 time FCF. Instead buy a company with ROCE > 10% , decent market share but has pricing power and 
-   available at 10-15 times FCF
+ what is a value trap? stock available at low price but it might stay there for few years OR it might decrease further if the 
+ valuation is high
 4)why did you buy the stock? - go through the story
    did the story/fundamentals change? if it significantly changed/impacted then you can sell
 

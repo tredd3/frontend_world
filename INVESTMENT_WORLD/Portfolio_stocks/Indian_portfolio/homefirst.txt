@@ -37,8 +37,18 @@ search about the company or its poducts/services quality in google - you will ge
 
   ABOUT THE COMPANY:
     Nature of business: business services/consumer goods/consumer services/B2B goods
-    What does it do: (what is the actual business): 
+    What does it do: (what is the actual business): tech driven affordable home loan financing
+      targets first time home buyers in low and middle income groups
+      spread in 11 states, 75% AUM is loans to salaried segment
+      last 5 yrs AUM growth is 50%, GNPA is below 2%
     How does it do :
+      BBB to AA stable over 5 yrs - that too during Demonitisation, IIL&FS, Covid crises
+      IMP: in the last 5 yrs cost of funds decreased from 10% - 6%, ROA increased from 0.8% to 4%
+      The company saw uninterrupted supply of debt capital from its lender banks throughout the  crises periods with marquee 
+         investors like Warburg Pincus even buying equity stake in the company (Oct-20)  at the height of Covid crisis in India.
+      Home First’s focus on digitization (since its very inception in 2010) also helped the company in being proactive during crises like Covid
+      The availability of a large pool of customers on the company’s proprietary app allowed collections to continue without 
+       significant interruption - leading to lower cost of collections and easier resolutions 
     Subsidaries/JVs:
     Target Audience :
     Globally competetive company: NO 
@@ -191,7 +201,7 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
 Note: if they can't generate enough cash (reserves), they must rely on debt/ new equity for growth
 
 /strong balance sheet : weak/ medium/ strong
-/CFO is inline with operating profits and growing YOY at double digits - bcoz if it is growing at even 10% then invest in FD
+/CFO is inline with operating profits and growing YOY
 /5yr avg ROCE (ROCE must be greater than cost of capital):    
   /why Return on Capital is important?
   Over the longterm the investment returns will always resemble the capital returns

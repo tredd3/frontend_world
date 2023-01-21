@@ -1,0 +1,37 @@
+//5 processes to separate hydrogen (NOT Green Hydrogen)
+1)Natural gas reforming : Most Used
+  convert gas to steam at high temp to separate components and H2 is separated
+  cheapest way
+  95% of world produces it this way
+  -ve: pollution is produced also better to use Nat gas directly
+2)Renewable liquid reforming :
+  Ethanol to steam at high temp
+  very costly
+  -ve: better to use ethanol directly
+3)Fermentation
+using sugar cane biomass - time taking and expensive
+not viable
+4)Gasification
+Coal/biomass convert to steam and oxygen at high temp 
+-ve: produces CO2
+5)Electrolysis: Most Cleaner
+electricty(generated from Renewable energy) -> water -> H2(Green hydrogen) + O2 (Oxygen)
+problem: high cost, can't be performed in salt water (it has to be purified before processing other wise chroline gas 
+  is also produced and most importantly Anide and Cathode will disfunction)
+NOTE: This is the only greenest way of producing Hydrogen 
+
+//Transportaion : either Liquified or Gas
+but as H2 in gaseous form is very reactive, we transfer it via pipes 
+liquid form needs converting gas -> liquid and viceversa needing high energy
+
+//Companies trying to capture this Space
+1)Reliance
+2)Adani
+3)L&T Power Limited
+4)NTPC
+5)GAIL
+6)Cummins -  produces electrolysers used by Gail and transportaion containers
+7)KPIT - Hydrogen Fuel Technology
+8)GFL - solutions for entire value chain
+9)HPCL, BPCL, IOCL, ONGC 
+10)DE Nora - produces anodes & cathodes used in electrolysers

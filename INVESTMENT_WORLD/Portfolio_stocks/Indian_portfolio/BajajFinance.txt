@@ -135,13 +135,20 @@ Investor presentation for reference:
 -------------------- PAST --------------------
 know about the company:
   Nature of business: business services/consumer goods/consumer services/B2B goods
-  What does it do: (what is the actual business): 
+  What does it do: (what is the actual business): consumer durables financing
   How does it do :
+  Today, more than 70% of all consumer durables financing in India is done by Bajaj Finance.
     low ticket size - high turnaround times
+    customer convenience as the differentiation rather than interest rates.
+    All lending decisions are data driven:
+      Completely stopped construction equipment financing in 2014 due to muted RoE and profitability prospects.
     use power of BigData - NPA is < 1% and it is industry best
     consumer durable finance 70% market share - also it is used as customer acquisition funnel and cross
-      sell multiple products like home/personal/digital/gold loans
+      sell multiple products like home/personal/digital/gold loans (new growth drivers)
     No intermediary - cost reduction
+    utilised Demonitisation, IIL&FS, Covid crises - to transform their business model and became resilient
+    Bajaj Finance is working towards transforming its offline NBFC business to an omnichannel  fintech and payments company
+    focus on Risk management - manintain high liquidity during COVID , even though margins are hit in the short term
   Subsidaries/JVs:
   Target Audience : 
   market size: huge/large/small - if a company's market size is small even though it's a market leader it doesn't matter as it 

@@ -26,12 +26,49 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 // Homepage Route - Server Side Rendering
-app.get("/", (req, res) =>
+app.get("/", (req, res) => {
   res.render("index", {
     title: "Member App",
     members,
-  })
-);
+  });
+});
+
+app.get("/*.js", (req, res) => {
+  /**
+   *  req.protocol   // "https"
+      req.hostname     // "example.com"
+      req.path // "/creatures"
+      req.originalUrl  "/creatures?filter=sharks"
+      req.method //GET
+      req.header('Content-Type')  // "application/json"
+      req.header('user-agent')    // "Mozilla/5.0 (Macintosh Intel Mac OS X 10_8_5) AppleWebKi..."
+      req.header('Authorization')
+      req.cookies.sessionDate 
+   */
+  console.log(req.hostname); //req object can't be stringfied due to circular references
+  res.send(req.path.slice(1));
+});
+
+// GET https://example.com/user/1
+app.get("/user/:userid", (req, res) => {
+  console.log(req.params.userid); // "1"
+});
+
+// GET https://example.com/search?keyword=great-white
+app.get("/search", (req, res) => {
+  console.log(req.query.keyword); // "great-white"
+});
+
+// POST https://example.com/login
+//
+//      {
+//        "email": "user@example.com",
+//        "password": "helloworld"
+//      }
+app.post("/login", (req, res) => {
+  console.log(req.body.email); // "user@example.com"
+  console.log(req.body.password); // "helloworld"
+});
 
 // Set static folder - acts as web server
 app.use(express.static(path.join(__dirname, "public")));
