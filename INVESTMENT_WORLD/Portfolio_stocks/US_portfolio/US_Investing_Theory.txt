@@ -38,7 +38,8 @@ https://www.sipc.org/list-of-members/C  - must register as it provides insurance
 https://brokercheck.finra.org/ - must be a member of FINRA as well, FINRA is an independent, non-governmental regulator for all
     securities firms doing business with the public in the United States. They are authorized by govt to protect America’s investors
     by making sure the securities industry operates fairly and honestly.
-
+Vested partnered with DriveWealth, LLC which is registered with the SEC , member of FINRA, SIPC and uses custodian services 
+provided by Citibank. Each account is insured upto $500K by SIPC and upto $250K by FDIC.
 
 //SEC important filings to read before investing in the market
 10-k : longer version of annual report

@@ -26,7 +26,8 @@ ROCE, OPM are most important things
 -------------------------------- Stats -------------------------------
 India is a fertiliser deficit country, meaning excess fertilisers produced by a company would never go to waste
 most of the demand is catered by exports bcoz there is no local manufacturing
-
+India is the world’s largest importer of nitrogenous fertilisers. A domestic green ammonia(green H2 + N2 from Atmosphere) capacity 
+ will achieve the twin goals of reducing India’s import dependence for fertiliser, as well as help decarbonise its manufacture.
 
 ------------------------------- Risk -----------------------------
 subject to heavy regulations

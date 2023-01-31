@@ -27,12 +27,20 @@ No.of.shares * face price = share capital
 
 *********** Indian Market Timings ****************
 4pm - 9am : after market orders(AMO) are placed during this time 
-AMOI's decide will decide the opening price of share the next day - Gap up opening, Gap down opening, unchanged
+AMOs will decide the opening price of share the next day - Gap up opening, Gap down opening, unchanged
 9am - 9:15 am : all the after market orders(AMOs) are matched - this decides 
 9:15 am - 3:30 pm : market is open, instant order matching unlike after market orders
 
 
 ************ Trading order types ******************
+//Pre-open session : NSE started the concept of the pre-open session to minimize the volatility of securities during the market 
+open every day. Pre-open session is conducted on NSE and BSE between 9:00 AM to 9:15 AM.
+During the pre-market session for the first 8 minutes (between 9:00 AM and 9:08 AM) orders are collected, modified, or cancelled.
+ You can place limit orders/market orders. The order collection window can close at any time between 9:07 AM and 9:08 AM.
+After closure of the collection window to 9.15 AM new orders cannot be placed. The orders placed are matched and trades are confirmed. 
+You can place orders during the order collection period only on the equity segment.
+
+//Trading session
 1)Market order: 
 order to buy or sell a security at the best available price in the current market. 
 fastest and most reliable, but can sometimes lead to unintended and significant costs.
@@ -47,13 +55,20 @@ sell limit orders, the order will be executed only at the limit price or a highe
 Commission : high - extra effort from broker
 well-suited for : trading thinly, are highly volatile or have wider bid-ask spreads.
 Bottom line : price is guaranteed not the fill, hence u might miss the security itself
-3)Stop Loss order:
+3)Stop Loss order: you are placing it to stop a loss more than what you are ready to risk.
 Broker sends the orders to exchange only when a stock moves past a specific price point. 
 stop loss market order - triggers a market order when the price reaches a designated point. 
 stop loss limit order - triggers a limit order when a designated price point is hit.
-Stop loss Order(Buy) - when price increases beyond a certain point then buy market order is triggered to reduce risk
-Stop loss Limit Order(Buy) - when price increases beyond a certain point then buy limit order is triggered/buy limit order goes to exchange/market.
+Stop loss Order(Buy) - when price increases beyond trigger price then buy market order is triggered to reduce risk
 Stop loss order(Sell) - when price decreases beyond a certain point then sell market order is triggered
+Stop loss Limit Order(Buy) - when price increases beyond a certain point then buy limit order is triggered/buy limit order goes to exchange/market.
+  price >= trigger price
+  you place this order if you want market to crash to buy at low price but if market goes against you and you want to limit the 
+   loss by buying at certain price above the expected price
+Stop loss Limit Order(Sell) - when price decreases beyond a certain point then sell limit order is triggered/sell limit order goes to exchange/market.
+  trigger price >= price
+  you place this order if you are bullish on a stock and want to sell a stock/position at higher price and at the same time limit 
+   loss when market goes against you by selling at low price than your expected price
 Commission : higher - significant effort from broker
 well-suited for : gain from stock price swings, limit losses
 Bottom line : for those who are unable to monitor their portfolios for extended periods of time, or trading in volatile assets
@@ -61,8 +76,43 @@ Bottom line : for those who are unable to monitor their portfolios for extended
 Generally order validity will be a day or for that moment i.e IOC (immediately or cancelled)
 For GTT orders - order is valid till it is triggered (max for 1 year)
 https://zerodha.com/z-connect/tradezerodha/kite/introducing-gtt-good-till-triggered-orders
-5)AMO - after market orders 
-U can place an order even after markets are closed.But they will executed next day before the market opens
+
+//INTRADAY Trading 
+5)MIS - The Margin Intraday Square-off allows you the benefit of taking intraday trades with leverage. 
+These orders have to be compulsorily squared-off by you during the day. MIS orders can be of the following types:
+ --Regular MIS orders allow you to trade intraday using leverage.
+   Regular MIS orders are allowed for - Equity, All F&O
+   Normal (NRML) is used for overnight trading of futures and options. You can use the NRML product type in derivatives to carry 
+   your position till expiry. Intraday leverages won’t be provided using this product type. NRML product type is also used for 
+   Delivery based trading of Currency.
+ --Cover Order (CO) is a type of order where the buy/sell order is either a market or a limit order and is accompanied by a 
+   compulsory stop-loss order. 
+   Cover orders’ purpose is to reduce the risk for the broker and the trader and enable the trader to get higher leverage.
+   CO orders are allowed for - Equity only
+All open positions under the MIS product type will get automatically squared off if they are not closed before the auto-square off time. 
+Based on market volatility, intraday square off timings can change 
+//SEBI peak Margin rules
+Due to peak margin rules by SEBI, there is no leverage offered for equity F&O, currency, and commodities segment.
+Peak margin regulation was introduced in 2020 to ensure that brokers don’t take large risks by providing high leverages to the 
+customer. Today all the brokerage firms in India can offer the same maximum intraday leverage
+
+NOTE: 
+Zerodha provides you leverages when you place intraday orders (MIS and Cover Orders) based on the prescribed peak margin 
+requirements by SEBI and the exchanges. There is no interest charged for these leverages.
+
+//Post-closing session : Similar to pre-market orders, post-market orders are allowed only for equity trading. 
+The post-market session or closing session is open from 3:40 PM to 4:00 PM.
+During this session, people can place buy/sell orders in equity (delivery segment using the CNC product code) at the market price
+ but do note that even if you place a market order it will be placed on the exchange at the closing price. So for example, 
+ if the closing price of Reliance at 3:30 PM is Rs. 800, between 3:40 PM and 4:00 PM, you can place market orders to buy/sell 
+ Reliance at market price (will be taken at Rs. 800).
+
+AMO - after market orders 
+This is especially helpful for people who can’t actively track the markets during the live session
+U can place an order even after markets are closed i.e anytime between 3:45 PM to 8:57 AM. 
+On weekends and trading holidays, AMOs can be placed at any time
+ But they will executed next day before the market opens just like pre-trading session orders but AMOs are more convenient
+Limit/Market order after 3:45 PM. (Market orders have a higher chance of being filled)
 
 
 ******** why stock prices go up and down ********

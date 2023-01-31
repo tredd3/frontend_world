@@ -168,7 +168,7 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
      use tijori(benchmark) and screener peer comparison sections for profitability and costs
      --- Business
      //how is the quality of product/service of all the players?
-     //does any player has process advantage? to know this compare costs of all players
+     //does any player has process advantage? to know this check OPM and compare costs of all players 
      //does any one of them have MOAT advantage
   domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
   global competettion - imports risk from china or any other low cost producer country?

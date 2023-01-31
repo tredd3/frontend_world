@@ -22,7 +22,6 @@ they don't want to extract the oil and wait for the prices to be normal which is
 //India Stats
 overall crude oil imports of 175.900 MMT(million metric tonnes) - overall requirement for india 0.4 billion cubic metres per year
 In FY21, India imported 85% of its crude-oil requirements and 50% of gas requirements
-fertiliser sector, chief consumer of gas, meets around 70% of its requirement through imports
 India’s major sources of crude oil and gas imports are Iraq, Saudi Arabia, Qatar, UAE, Nigeria, Kuwait, Oman, and the US. 
 India imported share - middle east 60%, Russia 20%, north america, south america & Africa 20%
 Furthermore, there is an ongoing expansion of imported RLNG handling capacity in India, which is expected to augment the 
@@ -30,39 +29,7 @@ Furthermore, there is an ongoing expansion of imported RLNG handling capacity in
  to shift to natural gas from alternative fuels due to ease in usage and favourable regulatory push.
 estimated natural-gas reserves are around 1,141.3 billion cubic metres(ONGC, the country’s largest oil and gas company, produces around 22 billion cubic metres every year)
 Around 198 discoveries of oil and gas have been notified in the basin so far. Of this, ONGC has 156 discoveries, RIL 31, Vedanta eight, and OIL has three discoveries.
-The GoI aims to increase the share of natural gas in India’s energy mix from 6% at present to around 15% by 2030. 
-government is targeting 30% penetration of electric by the end of 2030, but that still leaves 70% of the market that will 
-  be ICE technology (ethanol blended petrol, CNG vehicles will lead)
-Last year, the CNG market was around 100,000 units in a 3 million passenger car market.
-Going forward, as we see 800-1,000 CNG stations added every year, we will see steep growth in this market.
-Gujarat is the highest natural gas-consuming state, with around 40% of total domestic natural gas consumption in the country
 
-//SupplyChain
-CNG (gas) -  compressed gas 
-LNG (liquid) - occupies less volume compared to CNG
-LNG fueling stations require complex cryogenic equipment and is more complicated to use in vehicles
-import gas via containers -> LNG(only 2 terminals) managed by petronet -> carried by GAIL, IOCL, BPCL -> CGD, petrol bunks ets
-In India, the Ministry of Petroleum and Natural Gas (MoPNG), Government of India (GoI), exercises control over allocation of
-  natural gas produced in the country
-MoPNG has been extending domestic natural gas to the maximum extent to the CGD players under the Administered Price Mechanism (APM)
-  so that CGD players can supply to PNG-Domestic and CNG segments
-CGD players have to rely on imported RLNG for meeting the requirement of PNG-Industrial and PNG-Commercial segments
-
-
-//GAS
-India's target to raise the share of natural gas in India’s energy mix to 15% by 2030 from about 6.7% now. 
-Demand: power and fertiliser sectors, which account for almost 70% of the consumption + CGD (city gas distribution)
-Supply: 
-  Imports - 54% of its natural-gas needs through LNG imports
-  Domestic production: RIL has dicovered the largest gas filed in the country + ONGC producing
-  RIL-BP combine is developing three deepwater gas discoveries which by 2023, meeting up to 15% of the country’s gas demand.
-Gas pricing is revised bi-anually based on four global benchmarks — US Henry Hub, Canada Alberta gas, UK NBP, and Russian Natural Gas
-both oil and gas has central excise and VAT that add significantly to the actual production prices 
-Note: VAT is meant for State government and Central Excise Tax is levied by central government. Central excise Tax is levied up on
- manufacture of excisable goods in India. But VAT is charges at the time sale of goods within the state
-E.g: fuel, tobacco, alcohol
-LNG terminal capacity is expected to grow from current 42.5 MMTPA to around 72 MMTPA in 3 years
-Transmission pipeline network is expected to grow from ~20,000 km to around 35,000 km by 2023 (check Gail)
 
 MOATS:
 oil company in countries part of OPEC
@@ -96,8 +63,4 @@ FMCG - packaging costs increase
 tyre and rubber - chemicals used are derived from crude oil
 chemical industry - where crude derivates form a major part of chemicals
 Auto sector - people won't buy individual vehicles and prefer shared transport
-
-//Sectors directly affected due to gas
-ceramics - used in industry for cutting
-natural gas is used to produce power and fertilisers, turned into CNG for vehicles, and piped to household kitchens.
 

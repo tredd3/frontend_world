@@ -25,7 +25,7 @@ but as H2 in gaseous form is very reactive, we transfer it via pipes
 liquid form needs converting gas -> liquid and viceversa needing high energy
 
 //Companies trying to capture this Space
-1)Reliance
+1)Reliance - plans to manufacture solar panels, electrolysers, storage and transportaion of Green H2
 2)Adani
 3)L&T Power Limited
 4)NTPC

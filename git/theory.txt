@@ -50,11 +50,18 @@ both locally and remotely at a time: git branch -D <branch_name>
 //revert commits
 git log --oneline //to check the commit history
 git log //to get the commit id, author , date
- git reset --soft HEAD~1 - undo the last commit by preserving the changes
- git reset --soft <commit_hash> - commit_hash where you want to get back to without losing changes 
- git reset --hard HEAD~1 - undo the last commit and discard all changes in the working directory 
- git push --force origin <commit-ish>:<the remote branch> 
- git push --force origin 4933e449dc7ea37c1bd0dbc295512e2ade3f368b:new_tabs_master_merge_sept_2022
+git log --stat  // modified files,number of lines that have been added or removed, lines that have been added or removed.
+git log --after="yy-mm-dd" //We can also pass the applicable reference statement like "yesterday," "1 week ago", "21 days ago,"
+git log --after="2019-11-01" --before="2019-11-08"  
+git log --author="Author name" 
+git log --grep=" Commit message." //filter the commits by the commit message
+
+
+git reset --soft HEAD~1 - undo the last commit by preserving the changes
+git reset --soft <commit_hash> - commit_hash where you want to get back to without losing changes 
+git reset --hard HEAD~1 - undo the last commit and discard all changes in the working directory 
+git push --force origin <commit-ish>:<the remote branch> 
+git push --force origin 4933e449dc7ea37c1bd0dbc295512e2ade3f368b:new_tabs_master_merge_sept_2022
 
 //merging
 https://git-scm.com/docs/merge-strategies

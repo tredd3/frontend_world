@@ -111,6 +111,7 @@ egrep -ril 'aja|alvin' . //search for multiple patterns at one time
  -i is case insenstive
 find / -type d -user <username> //find all directories owned by user with username in the file system(if ~ is used instead of / then find in the home directory)
 find . | grep test //find files whose name includes "test" in the current directory
+ls -l | grep test ////find files whose name includes "test" in the current directory
 find <directory_path> | grep test //find files whose name includes "test" in a given directory
 
 MORE: https://www.linuxcloudvps.com/blog/83/
