@@ -1,14 +1,18 @@
-HDFC Bank
-Kotak Bank
-Bajaj Finance
-HDFC Life
+Risk Avoiders:
 ICICI Lomabard
+Kotak Bank
+HDFC Life
+
+Risk Managers:
+HDFC Bank
+Bajaj Finance
 Avvas
-Home first
 Chola finance
 
+Striving to be better Risk managers:
 ICICI
 Axis
 Mas financial services
-
+Home first
+Infoedge
 

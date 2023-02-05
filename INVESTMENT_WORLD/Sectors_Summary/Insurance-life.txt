@@ -13,10 +13,14 @@ price de-tarrification is done by IRDAI and now price is decided by competettion
 India is under protected and not under penetrated - because of mix of investment + insurance
 reinsurance companies are globally diversified(GIC, SWISS RE)
 products based on customer needs:
-1)savings: linked(ULIP, linked to stock markets), non-linked(participating(like bonus, mobeyback), non-participating(guaranteed return))
-participating - participating in the returns which insurer has invested in (usually in bonds)
+1)savings: 
+linked(ULIP, linked to stock markets) - completely depends on the investment returns, very little guarantee amount
+non-linked(participating(like bonus, moneyback)
+non-participating - guaranteed return irrespective of investment/company performance
+participating - participating policies have a portion that is guaranteed, remaining depends on the profits of the life insurance company.
+  In a participating plan, the benefits of these profits are passed on to the policyholder via bonuses and dividends
+  Note: The bonus that is paid out under this policy is not guaranteed. It is based on the performance of the insurance company.
 2)protection: term plan, life, health, disability etc
-
 
 //why Life insurance sector?
 as it is a must for everyone
