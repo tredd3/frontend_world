@@ -9,14 +9,22 @@ https://www.tijorifinance.com/company/pi-industries-limited/#trend-shareholding
 https://www.screener.in/company/PIIND/consolidated/#shareholding
 https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543384/disclosures-insider-trading-2015/
 2)why are they selling?
-  //Internal factors: temporary problem(can be a buy oppurtunity) - weak quarter results , weak guidance in the short term,
-    high debt, subsidaries not making profits
-  //Internal factors: permanent problem (can be a value trap) - promoter related, scams, obselete business,
-     MOAT break, loss making, continous market share loss due to increased competettion
+  //Internal factors: temporary problem(can be a buy oppurtunity):
+    weak quarterly financial,
+    weak guidance in the short term,
+    high debt,
+    loss making (very careful in this situation)
+    subsidaries not making profits
+  //Internal factors: permanent problem (can be a value trap):
+     promoter related scams, 
+     obselete business,
+     MOAT break,
+     continous market share loss due to increased competettion
+     regulatory changes
   //External factors: 
      year end tax selling(nov - dec in US, feb - march in India)
      high valuation stocks correct in bear markets - bcoz earnings will become slow
-     macroeconomy concerns - regulatory changes, govt intervention, demand slow down, inflation, high interest rates
+     macroeconomy concerns -  govt intervention, demand slow down, inflation, high interest rates
      uncertain situation/surprise events like (Financial Crisis, COVID, RUSSIA UKRAINE war)
      forced selling  - due to dermergers
      profit booking to invest in other attractive asset class or other companies

@@ -17,7 +17,6 @@ Must: open RHP for complete information and risks (if a company is recently list
 1)wikipedia (check legal section as well)
 2)company website - most important for updated info 
 search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
-Talk to employees or anyone associated with the company
 3)company filings(investor presentation, conference calls and annual report(investments, debt sections, risk, sector info,
   auditor report, management discussion and analysis, related party transactions))
 4)check for company analysis, business and revenue model in youtube or any research report available in Google
@@ -39,6 +38,20 @@ Talk to employees or anyone associated with the company
   ABOUT THE COMPANY:
     Nature of business: business services/consumer goods/consumer services/B2B goods
     What does it do: (what is the actual business): 
+      flourospar reserves - only 6-7% in China
+      GFL has captive flourospar mines in morocco (40%) + 60% sourced from outside market
+      flourospar + sulphuric acid => R22 gas , which is banned for emission purposes by govt but used for non-emissive purposes 
+        like making flouro-polymers
+      applications of flouro-polymers are increasing in the world
+      integrated value chain - raw material is produced in house 
+      it can produce in less batch size at low cost,since it is a integrated player it will have margin advantage - also
+        chinese folks doesn't enter here
+      products: 
+       flouro-polymers - doesn't melt or break at +/-100^C, chemically inactive, non sticky
+       flouro-specality
+       ref gases - used for cooling like AC, fridge, industrial , deodrants etc
+         CFC, HCFC- phased out due to ozone layer depletion hence New variant of Ref-gas being produced by GFL
+      
     How does it do :
     Subsidaries/JVs:
     Target Audience :
@@ -46,13 +59,19 @@ Talk to employees or anyone associated with the company
     Presence : offices in India /US etc
     REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
     Revenue by Product: 
+       flouro polymers 45% (highest margin) - 85% of these products are value added products, chinese players are limited here
+           15% commodity (SRF makes it)
+       flouro-specality 11%
+       ref gases 13%
+       chloro methane 12% (commodity)
+       caustic soda 9% (commodity)
     Revenue by Customers: B2B(), B2C() , Govt
     Clients(Important ones):
 
   PROMOTER , VISION, STRATEGY:
     why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
     Goal/Vision: global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
-    Strategy to achieve Goal: 
+    Strategy to achieve Goal:  business expansion only in fluoropolymers and battery chemicals in the medium term, and it does not expect any incremental investment in the fluoro specialty business (intermediate for agro / pharma products)
       Note: ideally a company that clones other successful strategies is almost bound to win provided it  has other necessary qualifications and executes it well 
     can a fool run this business ? 
   
@@ -128,7 +147,6 @@ Note:
 /Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
  like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
  business to competettion)  - this helps company to sustain recession, inflation, supply chain disruption
- check GPM trend
  This will happen only when :
    i)The product or service is unique and there is hardly any substitute
    ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
@@ -172,7 +190,6 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
      //how is the quality of product/service of all the players?
      //does any player has process advantage? to know this check OPM and compare costs of all players 
      //does any one of the competetiors have MOAT advantage
-     //for manufacturing players check available capacity and upcoming capacity and also the current capacity utilisation
   2)domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
   3)global competettion - imports risk from china or any other low cost producer country?
   4)threat of new entrants - check entry barriers in MOATS
@@ -212,7 +229,10 @@ check last 10yrs CFO usage in Tijori
 1)Growth
     /Global expansion/ exports - Launch products in new markets
     /capex - brownfield or greenfield
+       backward integration
+       increase flouropolymer capacity
     /Launch New products (for chemicals it is via forward integration)
+       capex for EV battery chemicals, electrolytes
     /Product mix change - increase the share of high margin products
     Note: mode of capex funding is also important: preference cash>debt>equity
     /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
@@ -340,8 +360,6 @@ Note: Valuation is what differentiates Great Investment from a great business
 
 --EV/OCF(Market cap + debt - cash&cash equivalents)/Operating cash flow
 --PEG: 
---DCF: check Tijori reverse DCF valuation
-http://www.moneychimp.com/articles/valuation/dcf.htm
-https://www.finology.in/Calculators/Invest/DCF-Calculator.aspx
+--DCF: check Tijori DCF valuation
 
 -------------------------------------- THE END -----------------------------------------

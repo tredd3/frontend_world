@@ -94,7 +94,13 @@ know about the company:
     Acquistion of Kongsberg bringing them new customers in Europe , access to new markets and new products
     proxy on Automobile industry , wires segment don't have much technology disruption
     repeat business - Aftermarket focus in India, US, Europe
+        gaining market share from unorganised players in India
     Vertical process integration for key processes and optimized supply chain.
+    Critical processes like rolling, coiling, coating, extrusion, moulding, die casting and cable assembly are done in 
+     house – making it one of the largest fully integrated cable manufacturers in the world.
+    Suprajit specializes in export manufacturing through its two 100% export oriented plants, one for automotive cables and 
+      the other for non-automotive cables
+    Suprajit also excels in producing specialized small volume and extremely intricate cables from its facility based in the UK.
     3 brands - 
       Suprajit Engineering(Automotive Cables) - Over 35 years of expertise in cables
       Wescon Controls(Non-Automotive cables ) - Strong presence in non-automotive cable segment in US/North American markets through 
@@ -262,6 +268,7 @@ ii)EXTERNAL: GROWTH OPPURTUNITIES
   /cloning other great company strategies
   /Acquistion and synergy led growth - acquiring the light duty cable (LDC) division of a Norway based company, Kongsberg - opening 
     the doors for cross selling as most of the customers of Kongsberg are not the customers of Suprajit
+    LDC cables are used in CCTV cables, indoor telephone cables, screened cables etc.
   /vertical integration - zero dependence on others, high avialbility, cost advantage and quality control e.g: Apple, Amazon
   /backward or forward integration
   /Macroeconomic oppurtunity

@@ -23,6 +23,7 @@ man git-<subcmd>
 4)git commit -m "project push"
 
 //config
+git remote get-url origin //to get the url ur are working on
 git config --system --list  //location:  /etc/gitconfig - applicable to all repos of in a host
 git config --global --list  //location: ~/.config/git/config - applicable to all repos of a user
 git config --list //location: .git/config - applicable to a particular repo
@@ -110,6 +111,7 @@ git push --delete origin v1.0
 
 *********** useful commands ************
 git branch --show-current //get current branch name
+git config --get remote.origin.url //to know the remote url
 git ls-remote -h -t https://<xyz>.git //one unique command allowing you to query a remote repo without having to clone/fetch it first
 when you do a checkout it keeps changing the head pointer
 cat .git/HEAD  //tells you where head points to

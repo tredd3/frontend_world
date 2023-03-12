@@ -50,6 +50,17 @@ Lithium Ion batteries - made of Lithium, nickel, cobalt, Graphite & copper (whic
 All the above materials are abdundantly available , however their extraction and refining process is not environmental, not human 
   friendly and it is not cost efficient
 Lithium is like blood in the batteries ( also called white Gold and looks like salt)
+
+--why Lithum ?
+the lightest metal in the world. So it makes the batteries relatively lighter too. It won’t weigh down a car. It can also pack lots 
+of energy in less space. While a typical lead-acid battery stores only 25 watt-hours (Wh) of energy per kg, lithium-ion batteries
+ pack 150Wh per kg. They also last much longer than other batteries and can live through multiple charge cycles
+
+--production process ?
+ in order to get the metal, minors first pump the lithium-rich saltwater or brine from underground onto the surface. They let it 
+ evaporate and harvest the lithium from that. Pumping and washing these deposits needs a lot of water too. 
+ It takes 2,000 tons of water to produce 1 ton of lithium.
+
 Lithium is the anode , cathode keeps changing to achieve stability and range
 95% of lithium ion  battery materials are recycled & used in new batteries in the US
 cost is very high due to battery costs - bcoz of supply chain costs of battery materials

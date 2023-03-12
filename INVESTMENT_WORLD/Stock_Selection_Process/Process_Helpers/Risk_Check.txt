@@ -7,7 +7,7 @@ competetive risk - threat from existing players or new entrants both local /glob
  i.e if the competetitors have enough money can they replace this business and snatch the market share and profits from the company
 pricing power risk - during inflation company cannot pass on the price
 sector innovation risk (EV,5G)
-inventory risk (expired products, customer preference change, commoditised product in inventory)
+inventory risk (expired products, customer preference change/change in consumer behavior, commoditised product in inventory)
 less market size
 limited customers
 customer concentration
@@ -18,7 +18,7 @@ commoditised risk - business becoming commodity type(no value addition hence pro
 low cost imports risk
 legal/scams Risk
 regulatory risk/govt policy risk - power sector(controlling prices),allow imports without anti-dumping duty(chemicals,textiles),
-   banning exports of finished products, banning imports of crucial raw materials
+   banning exports of finished products, banning imports of crucial raw materials, banning products harmful to environment/public
 diworsification risk - if the company keeps acquiring businesses for non-strategic reasons
 recession risk - few companies only do well during boom years and get hampered during recession years (better to allocate less capital)
 

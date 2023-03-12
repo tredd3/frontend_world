@@ -4,6 +4,7 @@ market share gain in India/Globally
 ROCE>WACC & deploying CFO heavily In growth
 MOATs
 
+
 TITAN - jewellery business generates cash and that is reinvested in other businesses, new management that came in 2020 is changing 
    the game by focusing more on localisation
   ROCE on incremental capital is 30% globally competettive - No, CFO used in capex and dividends
@@ -20,10 +21,15 @@ Asian paints - CFO used in capex and dividends, decreasing ROCE on incremental c
  home furnishing sector is mostly unorganised and the the oppurtunity is 50X its revenue
 Page Industries - CFO used in dividends, 60% constant ROCE on incremental capital, globally competettive - No, Unorganised player
   market share capture
+Tata Elxi - more in to product design and development, i.e starting stages  
+       more focused presence - telecom , auto, media ect
+       both LTTS and Tata Elxi customers and areas of focus don't overlap to a large extent
 LTTS - Global expansion scope, niche industry of ER&D, Top clients, proxy play on capex heavy industries
        asset light business model, strong balance sheet
        globally competettive - Yes, CFO used in short term investments, 30% constant ROCE on incremental capital
-
+       LTTS is mostly in to advanced stages , maintenance, lifecycle management etc
+       broad based presence - transportation, engineering, medical devices etc
+       
 
 //India focused but Market share gain oppurtunities 
 ROCE>WACC & deploying CFO for Incremental growth
@@ -147,8 +153,12 @@ Most of the complex tests are done in hospital
 no export oppurtunities
 if it enters B2B market with hospital chains - they need to provide discounts
 unless there is tech and scale - it is difficult for dr lal to get high margins
+Note: we invest in Tarsons, proxy to diagnostic companies
 
 Balkrishna Industries - limited pricing power as said by management, heavily dependent on Europe & US volumes 
+        Other established companies are also present in this area - along with on road tyre presence  
+        +ves - low labour cost, 
+Note: we invest in rajratan global wire, proxy to tyre companies
 
 IEX - NO pricing power - rates controlled by power board, globally competettive - No, new competettion came in the picture, 
   companies preferring captive power consumption, long term power agreements to secure supply chain

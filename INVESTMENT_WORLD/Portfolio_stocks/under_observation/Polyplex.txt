@@ -17,7 +17,6 @@ Must: open RHP for complete information and risks (if a company is recently list
 1)wikipedia (check legal section as well)
 2)company website - most important for updated info 
 search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
-Talk to employees or anyone associated with the company
 3)company filings(investor presentation, conference calls and annual report(investments, debt sections, risk, sector info,
   auditor report, management discussion and analysis, related party transactions))
 4)check for company analysis, business and revenue model in youtube or any research report available in Google
@@ -38,22 +37,47 @@ Talk to employees or anyone associated with the company
 
   ABOUT THE COMPANY:
     Nature of business: business services/consumer goods/consumer services/B2B goods
-    What does it do: (what is the actual business): 
+    What does it do: (what is the actual business): flexible packaging - BOPP, BOPET, CPP films
     How does it do :
+      manufacturing units in multiple locations in the world - to satisfy Customers Preference for Local Sourcing, capturing the 
+        trend of  Deglobalization
+      Backward integration into captive PET resin production at all film manufacturing locations making Polyplex the only global 
+       player with this cpability - Backward integration is vital to developing resins required for 
+       specialty products, apart from enhancing cost competitiveness and ensuring supply security
+      Forward integration provides ability to undertake one or more downstream processes on the Base film, leading to higher
+         innovation and value added products
+      Ecoblue - A Recycling Initiative of Polyplex
+        In-house mechanical and chemical recycling furthers Polyplex’s sustainability goals, by replacing virgin PET resins (made from
+        petrochemicals) with Post consumer PET bales / flakes
+        First in Thailand to produce food grade rPET resin for bottle application 
+        Most countries now permit the use of recycled PET in food contact applications which provides strong growth opportunity
+        New facility being set up, which uses post-consumer bottle / container waste (PET and Olefin) as input 
+        Recycling of Ocean-bound plastics - EcoBlue’s partnership with Plastic Bank extends to setting up the Waste Collection system
+        in Thailand and processing it into high quality recycled materials
+      Diversified end-use across several industries
+      ~2,650 customers in ~75 countries
+      Dedicated R&D Ecosystem in India - Constantly Innovating to Ensure Sustained Differentiation
+        Constant addition of new products to the differentiated portfolio, effectively “replacing” older and standard products
+        Increased ability to provide customized and more technical products
+      Differentiated Customer - Significant entry barriers due to stringent quality focus, long qualification timelines or significant trial costs
+      Differentiated Product - Special features for the customer, delivering higher value
+      Differentiated Application - Specific application for a standard product (sometimes with minor modification) which may not be well known in the market
+      Polyplex has consistently improved capacity utilization(100%) through debottlenecking and outperformed the industry(80%)
+      Polyplex Has Consistently Generated Superior and Stable Gross Margins Relative to the Industry
     Subsidaries/JVs:
-    Target Audience :
-    Globally competetive company: NO 
+    Target Audience : Businesses (mostly FMCG)
+    Globally competetive company: Yes 
     Presence : offices in India /US etc
-    REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
-    Revenue by Product: 
-    Revenue by Customers: B2B(), B2C() , Govt
+    REVENUE by GEOGRAPHY: India 18%, US 27%, EMEA 20%, APAC 27%, others 5%
+    Revenue by Product:  Packaging 70% and Industrial applications 30%
+    Revenue by Customers: B2B(100%)
     Clients(Important ones):
 
   PROMOTER , VISION, STRATEGY:
     why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
     Goal/Vision: global leader, capture market share from unorganised players, cleanup stuff and become efficient etc
-    Strategy to achieve Goal: 
-      Note: ideally a company that clones other successful strategies is almost bound to win provided it  has other necessary qualifications and executes it well 
+    Strategy to achieve Goal: get in to Products where the competition is limited
+      Note: ideally a company that clones other successful strategies is almost bound to win provided it  has other necessary qualifications and executes it well
     can a fool run this business ? 
   
 
@@ -122,13 +146,12 @@ Note:
      e.g: insurance, Energy, Banking, finance, payments, Investments
 
 /*********************  SUPPLY **********************/
-/current market share: 
-/market share trend:
+/market share: 
+/market share trend: 
 
 /Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
  like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
  business to competettion)  - this helps company to sustain recession, inflation, supply chain disruption
- check GPM trend
  This will happen only when :
    i)The product or service is unique and there is hardly any substitute
    ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
@@ -165,17 +188,16 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
     important)
 
 /COMPETETION :  Never invest in a highly competettive industry that competes ONLY on price(price war) instead of value
-  1)domestic competetion(organised) - compare with the current company with peers in both business & financials
+  domestic competetion(organised) - compare with the current company with peers in both business & financials
      --- Financials
      use tijori(benchmark) and screener peer comparison sections for profitability and costs
      --- Business
      //how is the quality of product/service of all the players?
      //does any player has process advantage? to know this check OPM and compare costs of all players 
-     //does any one of the competetiors have MOAT advantage
-     //for manufacturing players check available capacity and upcoming capacity and also the current capacity utilisation
-  2)domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
-  3)global competettion - imports risk from china or any other low cost producer country?
-  4)threat of new entrants - check entry barriers in MOATS
+     //does any one of them have MOAT advantage
+  domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
+  global competettion - imports risk from china or any other low cost producer country?
+  threat of new entrants - check entry barriers in MOATS
     Note: 
     if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
     if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
@@ -212,6 +234,8 @@ check last 10yrs CFO usage in Tijori
 1)Growth
     /Global expansion/ exports - Launch products in new markets
     /capex - brownfield or greenfield
+      Base Film Capacity Expansion (i.e., Second BOPET Film and Debottlenecking Resin plant) in USA
+      Post this investment, Polyplex will be the most cost competitive producer of Thin BOPET films in the US
     /Launch New products (for chemicals it is via forward integration)
     /Product mix change - increase the share of high margin products
     Note: mode of capex funding is also important: preference cash>debt>equity
@@ -311,6 +335,11 @@ what happens if any of the risks play out? will it impact the business in a big 
 can management do something to mitigate the risk?
 
 ---Business Risk:
+raw material supply is secured for the company but the prices depend on oil and gas
+Inventory losses arising from declining RM cost trend
+China threat - several of the recently announced lines (primarily in China) are expected to be in non-packaging segment
+◼ The impact of capacity additions may be significant in China with moderate influence in other regions, as Chinese players have
+ typically focused only on the domestic market and select SEA markets with standard products
 
 ---Financial Risk:
 
@@ -340,8 +369,6 @@ Note: Valuation is what differentiates Great Investment from a great business
 
 --EV/OCF(Market cap + debt - cash&cash equivalents)/Operating cash flow
 --PEG: 
---DCF: check Tijori reverse DCF valuation
-http://www.moneychimp.com/articles/valuation/dcf.htm
-https://www.finology.in/Calculators/Invest/DCF-Calculator.aspx
+--DCF: check Tijori DCF valuation
 
 -------------------------------------- THE END -----------------------------------------

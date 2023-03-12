@@ -17,7 +17,6 @@ Must: open RHP for complete information and risks (if a company is recently list
 1)wikipedia (check legal section as well)
 2)company website - most important for updated info 
 search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
-Talk to employees or anyone associated with the company
 3)company filings(investor presentation, conference calls and annual report(investments, debt sections, risk, sector info,
   auditor report, management discussion and analysis, related party transactions))
 4)check for company analysis, business and revenue model in youtube or any research report available in Google
@@ -128,7 +127,6 @@ Note:
 /Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
  like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
  business to competettion)  - this helps company to sustain recession, inflation, supply chain disruption
- check GPM trend
  This will happen only when :
    i)The product or service is unique and there is hardly any substitute
    ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
@@ -172,7 +170,6 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
      //how is the quality of product/service of all the players?
      //does any player has process advantage? to know this check OPM and compare costs of all players 
      //does any one of the competetiors have MOAT advantage
-     //for manufacturing players check available capacity and upcoming capacity and also the current capacity utilisation
   2)domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
   3)global competettion - imports risk from china or any other low cost producer country?
   4)threat of new entrants - check entry barriers in MOATS
@@ -340,8 +337,6 @@ Note: Valuation is what differentiates Great Investment from a great business
 
 --EV/OCF(Market cap + debt - cash&cash equivalents)/Operating cash flow
 --PEG: 
---DCF: check Tijori reverse DCF valuation
-http://www.moneychimp.com/articles/valuation/dcf.htm
-https://www.finology.in/Calculators/Invest/DCF-Calculator.aspx
+--DCF: check Tijori DCF valuation
 
 -------------------------------------- THE END -----------------------------------------

@@ -1,3 +1,14 @@
+//Reasons for investing in US/Global markets
+1)Most of the Global monopolies are in the US and one of the best growing companies are in China
+2)US is the biggest economy with 21 trillion$ GDP and china is second biggest which has the potential to become 1st
+3)Betting on the world economy:  even though US is slow growing economy(3%) due to high base, S&P 500 have delivered (11%) 
+ returns over few decades bcoz most of the US firms get significant portion of revenues from other countries. 
+ On top of it if you add Rupee depreciation we will get returns almost equal to that of the NIFTY i.e 15%
+4)Rupee depreciation that will happen for India to grow , will put more return on top of the actual returns
+5)correlation: hardly there is any correlation between US, China and Indian Stock markets
+6)Diversification
+
+
 US stocks to invest: My picks
 1)Global Monopolies
 2)High growth businesses not present in india like (semiconductor)
@@ -11,10 +22,10 @@ https://vested.co.in/blog/how-to-invest-in-the-us-stock-market-from-india/
 --Taxes on investment gains: You will be taxed in India for this gain
 STCG: Less than 24 months, Income tax slab rate (+ surcharge and cess)
 LTCG: More than 24 months @ 20% + indexation benefit (same as debt funds in india)
-for ETFs the period is 36 months and for stocks as mentioned it is 24 months
+Note: for ETFs the period is 36 months and for stocks as mentioned it is 24 months
 --Taxes on dividends: Unlike investment gains, dividends will be taxed in the US at a flat rate of 25%.
-For e.g: if Microsoft gives an investor $100 of dividend, it will withhold $25 as tax, and will give the investor 
-the post tax dividend of $75. Subsequently, this post tax dividend is included as taxable income in India (as normal income).
+For e.g: if Microsoft gives an investor $100 of dividend, it will withhold $25 as tax, and will give the investor the post tax 
+dividend of $75. Subsequently, this post tax dividend is included as normal taxable income in India (taxed at slab rates).
 Fortunately, US and India have a Double Taxation Avoidance Agreement (DTAA), which allows taxpayers to offset income tax already
  paid in the US. The 25% tax you already paid in the US is made available as Foreign Tax Credit and can be used to offset your 
  income tax payable in India.
@@ -66,14 +77,6 @@ Schedule 13 D: when any owner acquires 5% or more of the voting shares in a comp
    investors warning of impending changes to corporate control that could impact the future of the company,Investors use 
    Schedule 13D to both detect red flags in the consolidation of insider ownership that can be potentially harmful to individual
   shareholders, but also as a possible harbinger of a company being acquired or bought out, which could benefit shareholders.
-
-
-//Reasons for investing in US/Global markets
-1)Most of the Global monopolies are in the US and one of the best growing companies are in China
-2)US is the biggest economy with 21 trillion$ GDP and china is second biggest which has the potential to become 1st
-3)Rupee depreciation that will happen for India to grow , will put more return on top of the actual returns
-4)correlation: hardly there is any correlation between US, China and Indian Stock markets
-5)Diversification
 
 
 //Indexes

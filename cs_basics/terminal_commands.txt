@@ -99,6 +99,9 @@ grep -R 'warning\|error' /var/log/*.log - in the /var/log directory searches for
 grep '17:09:5[0-9]' /var/log/xyz.log - search based on timestamp range
 1. Searching for a text string in one file - grep 'root' /etc/passwd
 2. Searching for a string in multiple files - grep 'root' /etc/*
+zgrep - for searching Compressed files
+zcat <file_name> | grep <> - same as above
+Note: zgrep is generally a script shipped with gzip
 
 https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 Note: find command does things recursively by default
@@ -109,10 +112,14 @@ egrep -ril 'aja|alvin' . //search for multiple patterns at one time
  -r is for recursive search
  -l is just to print the filenames
  -i is case insenstive
+Note: 
+ egrep is for the extended regexps (ERE), as opposed to the basic regexps (BRE) understood by grep/sed/ed/vi.
+ this is same as grep -E
 find / -type d -user <username> //find all directories owned by user with username in the file system(if ~ is used instead of / then find in the home directory)
 find . | grep test //find files whose name includes "test" in the current directory
 ls -l | grep test ////find files whose name includes "test" in the current directory
 find <directory_path> | grep test //find files whose name includes "test" in a given directory
+wc -l <file_name> //to know the number of lines in a file
 
 MORE: https://www.linuxcloudvps.com/blog/83/
 https://en.wikipedia.org/wiki/List_of_Unix_commands
@@ -135,6 +142,35 @@ ls -t //sort by last modified
 ls -S //sort by size
 ls -a  //list all the files/folders in the current directory including hidden files(.<file_name>)
 ls -l //directory contents info like file size, access rights permissions, last modification time and ownership details.
+-rw-rw-rw- 1(number of links to the file) root(owner)   dir(group) 104(file size in bytes) Dec 25 19:32 <file/directory name>
+Dec 25 19:32  - (For a file, this is the time that the file was last changed; for a directory, it is the time that the directory was created)
+The first character identifies the file type:
+
+-    Regular file
+b    Block special file
+c    Character special file
+d    Directory
+l    Symbolic link
+n    Network file
+p    FIFO
+s    Socket
+For a regular file the '-' may be replaced by:
+
+D    Demand recall file
+E    Encrypted file
+O    Offline file
+S    Sparse file
+The next nine characters are in three groups of three; they describe the permissions on the file. The first group of three describes owner permissions; the second describes group permissions; the third describes other (or world) permissions. Because Windows systems do not support group and other permissions, these are copies of the owner's permissions. Characters that may appear are:
+
+r    Permission to read file
+w    Permission to write to file
+x    Permission to execute file
+a    Archive bit is on (file has not been backed up)
+c    Compressed file
+s    System file
+h    Hidden file
+t    Temporary file
+
 ls -ld //directory info like size ,permissions etc
 ls -lh //file size in KB,MB etc and rest same as ls -l
 ls * // list the content of all subdirectories of a directory in which this command is run

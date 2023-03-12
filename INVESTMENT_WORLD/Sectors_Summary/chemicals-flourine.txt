@@ -1,8 +1,10 @@
 Flourine Industry:
 //Flourine:
-Highly reactive, forms stable compounds
+Highly reactive, but forms stable compounds
 Small in size & less in weight
 Availability: 12th most abundant element on earth
+value migration from chorination and bromination to flourination - hence caters replacement demand
+
 //Usage Industries:
 1)Fluor specialty used in Agro, Pharma, Industrial, and other uses. High Margins
 2)Fluoropolymers - Commodity-grade and value-added. Commoditized + High Margins in VAP
@@ -18,6 +20,8 @@ Availability: 12th most abundant element on earth
 //Flouro polymers in Electronics/Automobile: for insulation and coatings
 Why flouro polymers?
 Heat resistance, durability, and high strength are key properties to use the product in fire safety equipment in automobiles and aircraft.
+Fluoropolymers Cater to all new age verticals like EV, Hydrogen Fuel Cells, semiconductors, 5G etc.
+Fluoropolymers are the most convenient and superior material to manufacture green technology applications, from wind turbines to photovoltaic panels.
 
 //Supply
 Commodity Fluoropolymers are dominated by China and Value-added ones are with Western companies.
@@ -26,35 +30,59 @@ SRF - 36%
 GFL - 34%
 Navin - 20%
 Others - 10%
-1)Navin:
-Navin Fluorine does contract manufacturing for Pharma innovators and has many biotechs as its clients
-Intermediate+API
+1)Navin: commodity to value added like a butterfly
 Decades of experience in flourine chemistry
+Navin Fluorine's customers include premium A/C manufacturers such as LG, Samsung, Voltas and from other industries like Reliance, Piramal, Godrej etc.
+products:
+/Legacy business: ref gas and inorganic flourides
+  not complete pricing power - as they are commodity and raw material is procured from other countries
+/value added:
+Navin Fluorine does contract manufacturing for Pharma innovators and has many biotechs as its clients
+specialty chemicals (Intermediate + API)
 Working on HPP(high performance product) Intermediates and HPP has water applications, this Opens up Fluoropolymers space for Navin Fluorine.
 Working on a compound that can replace Lithium.
 Electronic chemical applications focused on India market are likely emerging opportunities from FY25 onward - battery solutions, semiconductors, and solar industries.
-Navin Fluorine's customers include premium A/C manufacturers such as LG, Samsung, Voltas and from other industries like Reliance, Piramal, Godrej etc.
 Focus markets - India, Middle east
-Focus Areas:  producing fluoro-based intermediates / APIs for Agri / pharma applications
+Focus Areas:  value added applications in agrochem, niche specialty applications, longterm focus on CRAMS
 Huge Capex for all the above - funded via debt
 
-2)SRF: SRF has created a significantly diversified business model with a focus on Ref Gas and fluoro-based intermediates /APIs along with packaging and technical textiles.
-Proxy play on agrochem intermediates
 
-3)GFL:
+2)SRF: SRF has created a significantly diversified business model with a focus on Ref Gas and fluoro-based intermediates /APIs along with packaging and technical textiles.
+technical textiles - slow growth/no growth , but the cash is taken and deployed in packaging and chemical divison
+packaging -  establishing plants near customers in abroad
+  BOPET, BOPP films and aluminium films
+chemicals: 
+  i)ref gases - low cost producer in the world due to deep integration
+    global warming causing gas is being phasedout and SRF has replacement developed and registered with west regulators
+  ii)specialty chemicals (85% agrochem intermediates, 15% pharma intermediates)  
+   Proxy play on agrochem intermediates
+   contract manufacturing - ONLY indian player which has all agrochemical innovators as clients
+   increasing usage of flourine in agro intermediates
+   250 molecules in agro intermediates (70% dedicated plants , 30% multi purpose plants)
+   Long term thinking - built capacity and became ready for the future where demand from innovators is low during 2015-2018
+   climbing up the value chain from intermediates to APIs in agrochemals
+   rampup capacity in  pharma intermediates
+  iii)solvents - chlorine releated products, used mostly in industries
+  iv)fluoropolymers - new capacity is added, but for experimental purpose - deep dive may be in next 3-4 yrs
+
+SRF MOATS:
+fully integrated operations both in flourine and chlorine chemistry
+Tech know-how: ONLY indian player to do flourination in 8 ways whereas other folks are only able to do it 2 ways
+process patents and a dedicated R&D team to get even more
+multiple product patents
+Large Capex is a entry barrier
+
+3)GFL: 
 Europe and US are key markets for GFL
 85% value added products where Chinese presence is limited
 India’s only Fluoropolymer producer and among the top few globally - Backward integration into all the major fluoropolymers
 full vertical integration right from natural minerals to value-added Fluoropolymers, and strong R&D have been the cornerstones of our success.
-Fluoropolymers Cater to all new age verticals like EV, Hydrogen Fuel Cells, semiconductors, 5G etc.
-Fluoropolymers are the most convenient and superior material to manufacture green technology applications, from wind turbines to photovoltaic panels.
 Flourspar mine in Morocco  -  raw material for Fluoropolymer mined in house
 Post FY25, the company anticipates significant CAPEX allocation to for battery chemicals and backward integration of essential chemicals.
-New variant of Ref-gas being produced
 integrated battery chemicals complex at Dahej - for the production of LiPF6, the most popular electrolyte salt for lithium-ion batteries.
-The company’s focus will remain on business expansion only in fluoropolymers and battery chemicals in the medium term, and it does not expect any incremental investment in the fluoro specialty business (intermediate for agro / pharma products)
 Risk: future growth depends heavily on battery chemicals post FY25
 
 
 //Entry Barriers
 Flourine chemistry has become complex, only few have the capability to handle it
+most reactive chemical compound - hence very difficult to manage

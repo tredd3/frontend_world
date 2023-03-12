@@ -5,7 +5,8 @@ alternatives to limestone like flyash, slag are used to produce blended cement a
 flyash - by product of burning coal in power plants
 slag - by product of iron blast furnace
 High fixed cost  
-Cyclical and can be debt heavy
+Cyclical - but not as Cyclical as commodities 
+can be debt heavy
 monsoon quarter has low sales 
 Demand drivers: real estate, infra, commercial and industrial development
 commodity industry with pricing discipline but no customer stickiness as price decides the decision
@@ -24,6 +25,13 @@ It is also highly fragmented(no company has a power to control the industry)
 //Competettion:
 imports - ZERO competettion from imports bcoz there is a huge capacity in india itself and freight costs make it unviable for foreign players
 threat of new entrants(almost ZERO) - mining rights of limestone has to be alloted by the Govt
+ 1)Limestone is the primary raw material to make cement, and producers have to acquire mining licences from the government to procure it.
+ And it doesn't stop there. They have to keep paying royalties on those mines. Unsurprisingly, new players find it difficult to 
+ acquire these licences, which gives the existing industry leaders an advantage.
+ 2)Cement is heavy, and hence transporting it is not cheap
+ As a result, smaller players must restrict their operations to regions near their plants.
+ The only way to achieve a pan-India presence is to build plants near raw material mines across the country. And the big players have done so
+ 3)increasing capacity is the only way to achieve low cost of manufacturing as fixed costs will be spread - require strong balance sheet
 existing competettion : 
   unorganised - 40%
   consolidation is happening bcoz of weak balance sheets of competettiors

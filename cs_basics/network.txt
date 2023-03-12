@@ -79,7 +79,6 @@ physical addressing (mac address present in NIC)
 Network interface controller(NIC) is a computer hardware component that connects a computer to a computer network
 P - physical - Binary data is converted into signals depending on the media (electrical signals for LAN, radio waves for wifi, light waves for optical fiber)
 
-
 //Network Requests
 ASCII characters - Codes 0 through 127 (all keyboard chars)
 NON ASCII characters - Codes 128 through 255
