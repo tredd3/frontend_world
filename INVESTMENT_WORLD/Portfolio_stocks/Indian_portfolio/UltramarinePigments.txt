@@ -40,8 +40,8 @@ https://trendlyne.com/research-reports/stock/994/PAGEIND/page-industries-ltd/
     are minority share holders treated fairly - check corporate actions (ESOPS/Bonus/Dividends/Buyback)
 
   ABOUT THE COMPANY:
-    Nature of business: business services/consumer goods/consumer services/B2B goods
-    What does it do: (what is the actual business): 
+    Nature of business: B2B goods
+    What does it do: (what is the actual business): pigments and surfactants
     How does it do :
     Subsidaries/JVs:
     Target Audience :
@@ -73,8 +73,7 @@ Note:
 /*********************  DEMAND **********************/
   //Customer types:
      Individuals(rich, middle class) - Domestic and Global
-     Businesses(corporates, factories, industries) - Domestic and Global
-     Govt(state/central/municipal)
+     Businesses(factories, industries) - Domestic and Global
 
   ***** Current Market Size/Demand ****** 
   1)Customer base:
@@ -128,9 +127,11 @@ Note:
 /Pricing power implies people are willing to pay premium (can the company increase the product/services prices in the cases
  like inflation and supply chain disruption or in general and be sure that people still buy their products and they don't loose their 
  business to competettion)  - this helps company to sustain recession, inflation, supply chain disruption
- check GPM trend
+ check GPM trend - pretty Stable
+ low value addition in the surfactant segment, moderate scale of operations and intense competition restrict the
+ pricing flexibility for the company.
  This will happen only when :
-   i)The product or service is unique and there is hardly any substitute
+   i)The product or service is unique and there is hardly any substitute - hell lot of players in laundry grade UB pigments
    ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
      Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
      Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
@@ -148,20 +149,17 @@ Note:
 /Durable Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
 Note: do not invest in businesses whose moats are primarily driven by regulations and political linkages.
-Economises of Scale
-Low cost producer - but product quality and profitability shouldn't be affected
-Brand - must be accompained with pricing power
-Network effect
-Intangible assets
-Taste
-Entry barriers
-Switching costs
-Luxury/Premium Range
-Monopoly/Duopoly(monopoly might not create wealth everytime be careful with these companies if a competettion comes in and 
-   takes away the profit they will bust you However that doesn't happen overnight, it will be gradually reflected in the earnings
-   so doing an annual review should catch these stuff)
-   -All monopoly companies earnings growth rate == sector/industry growth rate (hence sector/industry analysis becomes extremely
-    important)
+Complex Manufacturing Process -  Any deviation in these parameters can result in significant yield drop and difference in quality 
+ across batches. Over time, only a handful of players have been able to enhance the yield by optimizing the process 
+ conditions (through automation, sophisticated instrumentation techniques etc). Also, energy is a big cost and only few players 
+ like UMP has been able to bring down the energy consumption significantly over the years.
+Entry barriers - The UB pigment manufacturing process involves environmental implications such as effective treatment and recycling process
+ resulting in not only significant scrutiny from regulatory authorities in granting environment clearances but higher cost of capital. 
+ Both of these factors create barriers to entry, as only few players can crack it
+Switching costs - nconsistency in quality can impact colour texture and functional properties of the final product. This also makes 
+ it difficult to switch between vendors. UMP has been successful in building consistency in quality across batches due to the 
+ processes that have been developed over decades of experience.
+ 
 
 /COMPETETION :  Never invest in a highly competettive industry that competes ONLY on price(price war) instead of value
   1)domestic competetion(organised) - compare with the current company with peers in both business & financials
@@ -172,8 +170,11 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
      //does any player has process advantage? to know this check OPM and compare costs of all players 
      //does any one of the competetiors have MOAT advantage
      //for manufacturing players check available capacity and upcoming capacity and also the current capacity utilisation
-  2)domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
-  3)global competettion - imports risk from china or any other low cost producer country?
+  2)domestic competetion(unOrganised) - NONE due to complex manufacturing process and chemistry involved
+  3)global competettion -
+   UPL’s operation in the pigment segment is characterised by low product diversification and competition from entrenched global players.
+   However UMP is the third largest UB global pigment manufacturer and the largest supplier in India (meeting >60% of country’s
+     industrial grade pigment requirements) and the Asia-Pacific.
   4)threat of new entrants (both globally and domestically) - check entry barriers in MOATS
     Note: 
     if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
@@ -184,13 +185,10 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
    captured the mind share of the audience)
   //if yes, then why ? and what value does it add to customers compared to competetiors?
     good quality of product/service 
-    low cost
     reliable and trusted brand
-    service - present across geographies
-    Taste
     Switching costs
-    delight the customers by Uniqueness of product or service
-  //will the customer show loyalty to the product/serivce for the next 10 yrs?
+  //will the customer show loyalty to the product/serivce for the next 10 yrs? yes bcoz they don't have a choice as new players 
+     dare to enter in this segment
 
 ////---------------------- Energy to run: is it generating enough cash and profitable enough ---------------------- ////
 Note: if they can't generate enough cash (reserves), they must rely on debt/ new equity for growth

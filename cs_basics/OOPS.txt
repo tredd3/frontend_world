@@ -1,0 +1,95 @@
+//constructor
+A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
+A constructor will have exact same name as the class and it does not have any return type at all, not even void.
+constructor chaining - sequence of invoking multiple constructors of the class upon instantiating an object
+
+//copy constructor
+Copy constructor is used to initialize the members of a newly created object by copying the members of an already existing object.
+new memory to newly created object
+
+//destructor
+last function that is called before an object is destroyed
+Note: both constructor and destructor can't be overloaded
+
+//encapsulation - binds together the members and methods that manipulate the members/data
+Data hiding - making members(properties) private
+Data binding - class 
+
+//abstraction - hide implementation by exposing methods, so that the other developer only cares about working and not about implementation of code
+Abstraction is Implemented using interfaces and abstract classes
+interfaces vs abstract class - both are special types of classes, which contains method declaration and not their implementation
+interfaces :
+all the methods in an interface are declared with the empty body
+The Java compiler adds public and abstract keywords before the interface method. Moreover, it adds public, static and final 
+ keywords before data members.
+Interface in Java cannot be instantiated 
+By interface, we can support the functionality of multiple inheritance.
+When an interface is implemented by a class, it must define all its methods and provide implementation
+Class implements interface, interface extends interface
+
+abstract class: 
+The abstract class in Java cannot be instantiated (we cannot create objects of abstract classes) rather we need to inherit and 
+   implement abstract methods in the subclass and instantiate the sub class.
+However we can access the static attributes and methods of an abstract class using the reference of the abstract class.
+An abstract class can have both the regular methods and abstract methods
+If a class contains an abstract method, then the class should be declared abstract.
+If a sub-class inherits abstract class it doesn’t need to provide implementation unless the sub-class is using its methods
+
+abstract class MotorBike {
+  abstract void brake();
+}
+
+class SportsBike extends MotorBike {
+    
+  // implementation of abstract method
+  public void brake() {
+    System.out.println("SportsBike Brake");
+  }
+}
+
+class MountainBike extends MotorBike {
+    
+  // implementation of abstract method
+  public void brake() {
+    System.out.println("MountainBike Brake");
+  }
+}
+
+class Main {
+  public static void main(String[] args) {
+    MountainBike m1 = new MountainBike();
+    m1.brake();
+    SportsBike s1 = new SportsBike();
+    s1.brake();
+  }
+}
+
+//abstraction vs encapsulation - both are used to hide stuff
+Abstraction is a design level process and it is used to reduce the complexity at the designing stage of a project.
+Encapsulation is an implementation level process, and it is used to provide privacy and maintain control over the transparency 
+of data at the implementation stage of a project.
+Abstraction is about expressing external simplicity
+Encapsulation is about hiding internal complexity
+
+//inheritance - code reusability (using extends keyword)
+On the basis of class, there can be three types of inheritance in java: single, multilevel and hierarchical.
+Note: Multiple inheritance is not supported in Java through class (When one class inherits multiple classes, it is known as multiple inheritance)
+Can a class inherit the constructor of its base class? No bcoz the constructor should have exact same name as the class name.
+ We can only invoke the constructor of parent class in base class
+
+
+//polymorphism - allows methods to exist in multiple forms
+Method Overloading/Static(compile) Polymorphism: methods of same name, from the same class having difference in number and types of parameters.
+Method Overriding/Runtime Polymorphism: child class provides its own implementation of the method defined in the parent class.
+
+//singelton class - can only have one instance 
+If you create multiple instances of singleton class , that variable points to the previous instance
+singelton class is capable of inheriting from other classes, implementing interfaces
+
+//Static class
+A static class is a class that is created inside a class, is called a static nested class in Java. It cannot access non-static 
+data members and methods. It can be accessed by outer class name. It can access static data members of the outer class, 
+including private.
+Static class cannot inherit its instance members hence singelton class is more adaptable
+ A static method is a method that belongs to a class rather than an instance of a class. This means you can call a 
+ static method without creating an object of the class. Static methods are sometimes called class methods

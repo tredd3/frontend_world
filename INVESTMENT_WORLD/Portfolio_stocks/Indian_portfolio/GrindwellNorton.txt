@@ -3,3 +3,19 @@ Technology transfer from France promoter Saint Gobain
 Gaining market share from other players
 Innovation - new products
 adding new clients, revenue share of existing clients also increased
+
+Silicon carbide (SiC) is a compound made up of silicon and carbon. It is a ceramic material that 
+is extremely hard and durable, with excellent thermal conductivity, high melting point, and low thermal expansion. 
+Silicon carbide has a wide range of industrial applications, including in the production of semiconductors, high-power electronics, 
+and abrasive materials.
+
+In electronics, SiC is used as a semiconductor material for high-power and high-temperature applications, such as in electric 
+vehicles, renewable energy systems, and power supplies. Compared to traditional semiconductor materials like silicon, 
+SiC can operate at higher voltages and temperatures while maintaining high efficiency.
+
+✤ Steel & Energy
+✤ Automotive
+✤ Aerospace & Aviation
+✤ Military & Defense
+✤ Electronics & Semiconductors
+✤ Medical & Healthcare
