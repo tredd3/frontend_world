@@ -61,6 +61,8 @@ git log --grep=" Commit message." //filter the commits by the commit message
 git reset --soft HEAD~1 - undo the last commit by preserving the changes
 git reset --soft <commit_hash> - commit_hash where you want to get back to without losing changes 
 git reset --hard HEAD~1 - undo the last commit and discard all changes in the working directory 
+//point branch to a specific commit 
+git reset --hard <commit_id>
 git push --force origin <commit-ish>:<the remote branch> 
 git push --force origin 4933e449dc7ea37c1bd0dbc295512e2ade3f368b:new_tabs_master_merge_sept_2022
 

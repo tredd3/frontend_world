@@ -294,3 +294,8 @@ Single UNIX Specification (SUS) is the collective name of a family of standards 
  which is required to qualify for using the "UNIX" trademark.
  compliance with POSIX standards, forms the core of the Single UNIX Specification.
 Unix like OS: Linux, MACOS etc
+
+//Daemon process
+Daemons are processes that run unattended. They are constantly in the background and are available at
+ all times. Daemons are usually started when the system starts, and they run until the system stops.
+A daemon process typically performs system services and is available at all times to more than one task or user.

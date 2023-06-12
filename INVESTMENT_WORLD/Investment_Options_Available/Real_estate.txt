@@ -10,13 +10,55 @@ However you can claim that as a part of depreciation (if the family trust owns t
 But the most important reason should be income/rent as capital growth happens eventually without your intervention
 
 
-------- -types of real estate ------------
+-------- types of real estate ------------
 https://www.thebalance.com/real-estate-what-it-is-and-how-it-works-3305882
-resedential
+resedential (individual house/ flat in a appartment)
 Commercial
 industrial
 vaccant land
 
+
+------ Checklist to buy realestate (plot, individual house, appartment, commercial real estate) -------
+https://www.youtube.com/watch?v=65OOTQFYFMg&ab_channel=MoneyPurse%7B%E0%B0%AE%E0%B0%A8%E0%B1%80%E0%B0%AA%E0%B0%B0%E0%B1%8D%E0%B0%B8%E0%B1%8D%7D
+1)ownership and how did the owner get the property (registered office certificates)
+title deed - to know the owner
+sale deed - if he bought them from others
+gift deed - if he got it as a gift from family
+Conveyance deed - if he got it from municipal property
+2)channel or link documents (from the beginning to the end all the documents)
+http://meebhoomi.ap.gov.in/
+https://registration.telangana.gov.in/
+3)check Encumbrance Certificate
+An Encumbrance Certificate stands for a legal document that affirms the property in question 
+does not have any legal and monetary liabilities (e.g. outstanding or mortgaged loan)
+a person buying /selling/applying for loan can get it from meeseva, sub registrar etc
+4)check property tax reciepts
+municipal office check PTI (property tax identification) number
+vacant land - vacant land tax assesment number
+5)RERA registration of the property if you buy it from builders/real estate company
+RERA registration number gives you clarity on builder
+https://rera.ap.gov.in/
+https://rera.telangana.gov.in/
+6)BRS - building regularisation scheme (for old properties)
+is the building built per plan? 
+problems:
+-- no loans given by bank
+-- demolition
+-- additional taxes
+7)mutation certificate (inheited properties)
+change in ownership done from parents to inheritants?
+
+8)undivided share (for flat buy in appartment)
+9)occupancy certificate ( old certificate)
+10)allotment letter
+11)parking allotment
+12)conversion certificate (for plots in city outskirts)
+  from agri land to resedential land conversion certificate is mandatory 
+13)prohibited lands (for plots)
+  they might be selling devastanam/govt related lands
+  don't buy army lands till 10yrs of issue 
+14) NOC certifcate
+15) when buying farm land - check the borders and get the survey done
 
 --------- Look for the below ----------
 1)strategy 1:

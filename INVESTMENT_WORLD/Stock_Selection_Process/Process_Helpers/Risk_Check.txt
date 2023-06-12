@@ -3,12 +3,15 @@
 ---Business Risk:
 Also check RHP/DRHP to see the risks mentioned by the management
 https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11
+low ROCE
+limited oppurtunities - not have the oppurtunities to deploy capital else where 
 competetive risk - threat from existing players or new entrants both local /global
  i.e if the competetitors have enough money can they replace this business and snatch the market share and profits from the company
 pricing power risk - during inflation company cannot pass on the price
 sector innovation risk (EV,5G)
 inventory risk (expired products, customer preference change/change in consumer behavior, commoditised product in inventory)
 less market size
+low sector growth rate
 limited customers
 customer concentration
 revenue concentration from a product
@@ -21,6 +24,7 @@ regulatory risk/govt policy risk - power sector(controlling prices),allow import
    banning exports of finished products, banning imports of crucial raw materials, banning products harmful to environment/public
 diworsification risk - if the company keeps acquiring businesses for non-strategic reasons
 recession risk - few companies only do well during boom years and get hampered during recession years (better to allocate less capital)
+cyclical margins/cyclical cashflows
 
 ---Financial Risk:
 weak balance sheet
@@ -43,8 +47,9 @@ short term mindset - management needs to focus on longterm benfits instead of sh
 
 ---Investment Returns Risk:
 1)Loss of Capital
-2)Not getting Adequate returns(oppurtunity cost) - if u invest ur money in a given company u cannot invest in other companies
- so make sure that u pick the best companies possible/u think will become best over the years
+2)Not getting Adequate returns(oppurtunity cost) - Valuation Risk
+if u invest ur money in a given company u cannot invest in other companies so make sure that u pick the best 
+companies possible/u think will become best over the years
 3)are people willing to buy the stock for future and take the stock price higher?
 
 
