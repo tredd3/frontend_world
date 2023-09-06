@@ -137,13 +137,14 @@ Note:
     Note: Account payables is high meaning company having bargaining power
    iii)NO bargaining power of buyers :
      Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
-     the company needs to give the product on credit ) - if client base is limited then company doesn't have a choice but to sell 
-     the products at a lower price, if the buyer demands so, especially true for B2B suppliers 
+     the company needs to give the product on credit ) exists if
+     client base is limited and large especially true for B2B suppliers 
      OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium 
-     OR if the product is a commodity (then people always look for low price as value is same across producers)
+     OR if the product is a commodity (then people always look for low price as value is same across producers) 
+     OR low income household as customer base, with product price greater than 20% of their income (relaxo, amrutanjan)
 
-  Note: if the company doesn't have Pricing power (like commodity producers, Govt entities, Contractors/bidding companies) and 
-    expenses keep increasing YOY, it will only lead the company to incremental losses
+  Note: if the company doesn't have Pricing power (like commodity producers, Govt entities, Govt controlled pricing 
+  Contractors/bidding companies) and expenses keep increasing YOY, it will only lead the company to incremental losses
 
 /Durable Competettive advantage/MOAT Check? check MOATS_check.txt
 MOAT - is the trait or quality that a business has bcoz of which competettion cannot snatch away its earnings and customers
@@ -190,6 +191,7 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
     Taste
     Switching costs
     delight the customers by Uniqueness of product or service
+    trade offs different from competetiors
   //will the customer show loyalty to the product/serivce for the next 10 yrs?
 
 ////---------------------- Energy to run: is it generating enough cash and profitable enough ---------------------- ////

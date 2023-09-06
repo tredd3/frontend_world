@@ -1,0 +1,150 @@
+Financial markets broadly refer to any marketplace where trading of securities occurs. This includes the stock market, bond market, forex market, and derivatives market, among others.
+
+Types of financial markets:
+Capital markets: bond markets( debt, credit, or fixed-income market) + stock market
+OTC
+money market - < 1 yr tenure, low interest returns because of high degree of safety
+commodity markets
+FX market - foreign exchange
+
+Types of financial institutions:
+commercial banks - deposits, loans, savings products to all individual and corporate clients
+Investment banks - provide services which facilitate business operations like capital raising, M&A , valuation, listing, corporate restructuring
+Insurance companies
+brokerage firms - provides a way to invest in all the asset classes, wealth management, asset management(mutual funds)
+
+
+Assets can be broadly classified as:
+Equity - Common Stocks, Preferred Stocks, American Depository Receipts (ADRs), GDRs (Global Depository Receipts)
+Currency or FX - Buying/Selling Forex
+Credit - Corporate debt, Convertible debt, Asset Back Securities
+Commodities - Oil, Natural Gas, Power, Metals, Agriculture, and Livestock
+Interest Rates - Interest rate swaps that help exchange one rate against another
+
+The above assets are traded via a combination of tradable securities in different structures i.e. Physical, TRS, and Derivatives
+TRS(total return swaps) 
+Derivatives are broadly classified into:
+Futures
+Forwards
+Options
+Swaps
+
+//Derivatives uses
+hedgers - transfer risk
+speculators - take rsik
+
+//Types of Derivatives
+forwards - tailored specific to individuals
+futures - standardised , next most popular
+options- most popular
+swaps 
+
+//Accounts
+for equity derivateives - both Trading account and Demat account is needed
+for commodity derivatives - only Trading account is required (Prime broker maintains this Trading account)
+
+//Prime Broker
+Prime Brokerage offers a suite of services to hedge funds and institutional traders to complete major transactions.
+A prime broker aims to provide a one-stop service — it provides client to source liquidity from various executing brokers, maintains credit relationships through margin financing 
+  and securities lending, holds collaterals and completes transaction settlements for the institutional clients beyond simply trade execution that executing brokers would provide.
+prime broker is the party of the transaction with the executing dealer, but the identity of the client is also completely hidden
+The prime broker and the executing broker confirm and settle the trade, while the prime broker settles with the client on a net basis.
+The fee for using the services of the prime broker is determined by the agreement with the client and is typically based on the transaction volume.
+Prime broker services are generally provided by large banks, who have access to lot of money and also access to lot of securuties via connection to pension/insurance companies
+
+//Executing broker
+Executing brokers are often housed under a prime broker who offers a one-stop-shop service for large active traders.
+Executing brokers specialise in the execution of specific asset types, such as CFDs on equities, futures, forex bonds, etc. 
+Some also specialise in specialised assets, have special execution algorithms, or have high-frequency trading (HFT) infrastructure available for client use.
+The function of the executing broker is to processes a buy or sell order on behalf of a client (i.e locate the securities for a buy order or to locate a buyer for the sell order) 
+As a result, orders initiated by retail traders are eventually processed by executing brokers(e.g Zerodha)
+This intermediary service is essential because a transaction must be done with speed and at a low cost for the client.
+The executing broker is compensated through a combination of commissions and the bid-ask spread.
+The executing broker will also pass the trade to be executed by the clearing group of the prime brokerage.
+
+
+//why hedge funds deals with multiple prime and executive brokers
+This is because, given the size and depth of the financial markets, no broker has an exhaustive list of all of the potential counter-parties suitable for a client’s transaction.
+The more access a client has to a variety of brokers, the more access he has to the liquidity from different sources.
+
+
+
+//Brokerage accounts 
+The two main types of brokerage accounts are cash accounts and margin accounts.
+1)Cash account requires that all transactions must be made with available cash or long positions.
+* If you give the brokerage firm permission, shares held in a cash account can also be lent out to other interested parties, including short sellers and hedge funds.
+* This can be a source of additional gain for an investor. This process is called share lending, or securities lending
+2)Margin account - allows investors to borrow money to buy securities. 
+      A margin is leverage, which means that both your gains and losses are amplified
+* A margin account typically allows a trader to trade other financial products, such as futures and options (if approved and available with that broker), as well as stocks.
+ When trading stocks, a margin fee or interest is charged on borrowed funds, however on F&O trading there is no such interest
+* For investors seeking to leverage their positions, a margin account can be very useful and cost-effective
+*  daily interest rate charged by the brokerage firm on the borrowed money used as margin to fund Transactions
+* For a margin account, the securities in this account may be lent out to another party, or used as collateral by the brokerage firm, at any time without notice or compensation to the
+ investor if they hold a debt balance (or a negative balance) on the account. If the account is in a credit state, where you haven't used the margin funds, the shares can't be lent out.
+* Minimum margin is the amount of funds that must be deposited with a broker by a margin account customer. The minimum margin requirements are typically set by the exchanges that
+ offer various shares and contracts. The requirements change in response to factors such as changing volatility, geopolitical events, and shifts in supply and demand.
+* The initial margin is the money that you must pay from your own money (i.e., not the borrowed amount) in order to enter a position.  FED set it at 50% for equities I.e only 2X 
+leverage is allowed, but for F&O initial margin requirements is as low as 5% or 10% of the contract to be traded.  
+*  Note: exchanges and brokers can make it higher and demand more margin
+* Maintenance margin is the minimum value that must be maintained in a margin account. 
+      If the account equity value falls below this limit, the client is issued a margin call. 
+      A margin call is a demand  for a deposit of more cash or securities to bring the account value back within the limits.
+      Note: The NYSE and FINRA require investors to keep at least 25% of the total value of their securities           
+      as margin, but brokerage firms may require an even higher maintenance requirement—as much as 30%     
+      to 40%.  The client can add new cash to their account or sell some of their holdings to raise the cash.
+
+Note: if you do not meet the margin call, your brokerage firm can close out any open positions in order to bring the account back up to the minimum value. This is known as a forced sale or liquidation
+
+
+//Jargons
+cumvol (cumilative volume) - simply a running total of daily volume. If the market goes up, then that day's volume is added to the total and If the market goes down, then the day's 
+  volume is subtracted from the total.
+bid-ask spread : difference between the best ask price(lowest ask price) and the best bid price(highest bid price) for a given security. 
+The bid price represents the highest price a buyer is willing to pay for the security, while the ask price represents the lowest price a seller is willing to accept.
+An open position is a trade that has been established, but which has not yet been closed out with an opposing trade. 
+ for e.g: If an investor owns 300 shares of a stock, they have an open position in that stock until it is sold.
+Long position(stocks): asset purchased/owned now
+Short position(stocks): asset borrowed and sold now but need to be replaced in the future
+Long position(derivatives): asset purchased/owned in the future
+Short position(derivatives): asset to be delivered to a third party in the future
+implied volatility (IV) of an option contract is that value of the volatility of the underlying instrument which, when input in an option pricing model,
+ will return a theoretical value equal to the current market price of said option.
+Calendar days means every day on the calendar, including weekends and public holidays.
+Trading/business day - any day the financial markets are open for trading is considered to be a business day - generally it is calendar days minus ( weekends + public holidays)
+break-even point (BEP) for call options is the underlying price that equals strike price + premium  , profits start if underlying price > BEP (strike price + premium)
+break-even point (BEP) for put options is the underlying price that equals strike price - premium  , profits start if underlying price < BEP (strike price - premium)
+
+//Naked position:
+naked position refers to a securities position, long or short, that is not hedged from market risk. 
+In options trading this phrase specifically refers to an option sold by a trader without an established position in the underlying security.
+
+//MWPL or the Market Wide Position Limit is the volume ceiling set by the exchanges on the trade of F&O contracts. Once the MWPL crosses a pre-defined threshold, new positions in the contract cannot be initiated.
+
+//An offsetting transaction
+It is an activity that cancels out the risks and benefits of another position or transaction.
+Offsetting can mean closing a position, if possible, but can also mean taking the opposite position in the same (or as close as possible) instrument.
+
+Why is it very important for futures & options?
+Offsetting transactions are risk management tools that allow investors and other entities to mitigate the    potentially detrimental effects that could arise if they cannot simply cancel the original transaction.
+Being unable to close a position frequently happens with options and other more complex financial trading instruments.
+Since options, and most other financial instruments, are fungible(interchangeable) it does not matter which specific instrument is bought or sold to offset a position, as long as they all have the same issuer, strike, and mature features.
+
+Inverse transaction - type of offsetting transaction
+occurs when somebody makes a trade to close with the same counterparty, who has the opposite position and so closes their position as well with the same trade - allowing one party to reverse the transaction executed by the other.
+
+  
+ //Delta
+ Delta (Δ) is a risk metric that estimates the change in price of a derivative, such as an options contract, given a $1 change in its underlying security.
+ The delta also tells options traders the hedging ratio to become delta neutral.
+ Delta can be positive or negative, being between 0 and 1 for a call option and negative 1 to 0 for a put option.
+ Delta spread is an options trading strategy in which the trader initially establishes a delta neutral position by simultaneously buying and selling options in proportion to the neutral ratio.
+ The most common tool for implementing a delta spread strategy is a calendar spread, which involves constructing a delta neutral position using options with different expiration dates.
+ An option's gamma is its change in delta given a $1 change in the underlying security.
+ 
+ //Long vs short positions
+ buying or holding a call or put option is a long position - investor is bullish on the underlying
+ selling or writing a call or put option is a short position - investor is bearish on the underlying - The writer gets to keep the premium payment, but is obligated to sell the underlying 
+   at a strike price, if the buyer decides to exercise the contract at any time before it expires. 
+ Margin accounts are generally needed for most short positions 
+ Short selling occurs when an investor borrows a security and sells it on the open market, planning to buy it back later for less money. 

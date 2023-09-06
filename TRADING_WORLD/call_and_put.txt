@@ -1,0 +1,33 @@
+ 
+ //Call and  Put options
+ Call option delta behavior depends on whether the option is "in-the-money" (currently profitable), "at-the-money" (its strike price currently equals the underlying stock's price)
+  or "out-of-the-money" (not currently profitable). In-the-money call options get closer to 1 as their expiration approaches. At-the-money call options typically have a delta of 0.5,
+  and the delta of out-of-the-money call options approaches 0 as expiration nears. The deeper in-the-money the call option, the closer the delta will be to 1, and the more the option
+  will behave like the underlying asset.
+ call option is a hedge to stock/underlying asset INCREASE in bull market (bcoz if the underlying asset price increases u still have the option to buy at low prices) 
+ put option is a hedge to stock/underlying asset DECREASE in bear market (bcoz if the underlying asset price decreases u still have the option to sell at high prices)
+ 
+
+ //Factors That Affect a Put’s Price
+ The exact Market price for the option would depend on a number of factors, the most important of which is the time remaining to expiration.
+ option price = intrinsic value + extrinsic or time value
+ In general, the value of a put option decreases as its time to expiration approaches because of the impact of time decay. Time decay accelerates as an option’s time to expiration draws 
+   closer since there’s less time to realize a profit from the trade. 
+ Option Intrinsic Value = Difference between Market Price of Underlying Security and Option Strike Price 
+   For Put Option = Strike Price - Market Price of Underlying Security(put option intrinsic value increases as underlying asset value decreases) 
+   For Call Option = Market Price of Underlying Security - Strike Price(call option intrinsic value increases as underlying asset value increases)
+   If an option has intrinsic value, it is referred to as in the money (ITM).
+  Out of the money (OTM) and at the money (ATM) put options have no intrinsic value because there is no benefit in exercising the option.
+  In the Bear market Investors have the option of short-selling the stock at the current higher market price, rather than exercising an out-of-the-money put option at an undesirable strike price.
+  But in the bull market short selling is typically riskier than buying put options( buy a put option and don't excercise the option, i.e forgo the premium (premium prices are covered
+   because underlying asset increases in price ) if underlying stock price increases and if the underlying decreases in price u can excercise the option)
+ Time value, or extrinsic value, is reflected in the premium of the option. If the strike price of a put option is $20, and the underlying is stock is currently trading at $19, there is $1
+  of intrinsic value in the option. But the put option may trade for $1.35. The extra $0.35 is time value,
+ 
+ //Alternatives to Exercising a Put Option
+ The buyer of a put option does not need to hold an option until expiration. As the underlying stock price moves, the premium of the option will change to reflect the recent underlying
+  price movements - this is the best option for speculative traders (instead of excersing a option by doing a short sale and then bearing commission costs , margin interest costs etc)
+  For put option, if the underlying price is approaching or dropping below the strike price, then to avoid a big loss, the option writer may simply buy the option back (which gets them out
+   of the position). The profit or loss is the difference between the premium collected and the premium paid to get out of the position.
+  short selling has unlimited risk, margin account needed and interest to be paid for margin amount
+  puts - limited risk (at max u will lose ur premium)

@@ -1,0 +1,65 @@
+Options:
+ Similar to futures contracts, options contracts also have an expiry. Options contracts expire on the last Thursday of every month
+  Like futures Options contracts have different expiries – the current month, mid-month, and far month  
+  contracts but for both call and put variants and for multiple strike prices
+  So total multiple call and put options  for each month
+  Margin: lot size *  premium (for option buyer)
+     Premium high for ITM contracts, low for OTM contracts
+     Also premium increases due to intrinsic and extrinsic value
+  Margin: lot size *  underlying (for option sellers) - certain % of contract value
+     Margin keeps increasing as the underlying price & volatility increases bcoz the probability of contract   
+    getting in to ITM and buyer exercising the option is high
+delivery nears to eliminate counter party risk of honouring contract
+  Like futures it is a ZERO sum game - i.e profits of one party is loss of other
+  But unlike futures there is no MTM (mark to market) happening for options - rather the margins are simply  
+  blocked when you enter positions and released when you square it off
+
+
+//Delivery in India
+All stock F&O contracts on Indian exchanges are compulsory delivery.
+So if you hold any stock future contract or any stock option contract which is In The Money (ITM) post expiry, you will be required to give or take delivery of the underlying stock.
+All out of the money(OTM) stock options are worthless on expiry and don’t result in any delivery obligation. All index F&O contracts are cash-settled.
+
+//Physical settlement
+ONLY ITM contracts are physically settled
+Long ITM call option , Short ITM put option - take delivery of stock
+Short ITM call option , Long ITM put option - give delivery of stock
+Margin requirement is same as futures , I.e  As we move closer to settlement date/expiry date the margin requirement keeps increasing for delivery takers, and  delivery givers  need to have stock in the account
+
+//payoff
+1)Call option Buyer - only makes money if the underlying spot price increases above breakeven  (however for OTM options, the loss is always limited to the premium paid, but profit is unlimited)
+The breakeven point for the call option buyer = Strike + Premium Paid
+The call option buyer truly starts making a profit only beyond the breakeven point (which naturally is above the strike price)
+2)Call option Seller - profit is limited but loss is unlimited (i.e inverse of buyer graph)
+3)Put option buyer - only makes money if the underlying spot price decreases below breakeven(however for OTM options, the loss is always limited to the premium paid, however profit is also limited)
+The breakeven point for the put option buyer = Strike – Premium Paid
+4)Put option seller - profit is limited to the premium paid by buyer but loss even though limited is at higher	 end
+
+//when to buy & sell
+   Buy a call option or sell a put option only when you expect the market to go up.
+   Buy a put option or sell a call option only when you expect the market to go down	
+   The Option chain is a quick visualisation to understand which option strike is ITM, OTM, ATM (for both 
+    calls and puts), and other information relevant to options.
+
+
+//spreads - multi legged option strategies (same underlying, same expiry and equal quantity)
+Involves 2 or more option contracts
+Why professionals trade this way - to reduce risk and margin requirement
+Spread of the position = difference between strikes of these positions
+Leg 1 - buy ATM call
+Leg 2 - sell OTM call
+Profits & loss are limited - traders can sleep peacefully
+Get in to this strategy if you are Moderately bullish on the underlying
+
+//Delta neutral strategies -if there is no clarity on the directional movement of underlying 
+1)Long straddle -  buy  the ATM Call and Put option simultaneously. The options should belong to the same underlying, same strike, same quantity and same expiry.
+Buy this if you believe the underlying price will either go down or go up.
+For e.g: results can take stock in either direction, you perform long straddle as the volatility is currently low
+And hence low premiums but volatility will increase and hence premiums will increase as contracts moving to ITM is high probability
+2)Short straddle requires you to Sell the ATM Call and Put option simultaneously. The options should belong to the same underlying, same strike, same quantity and same expiry
+Buy this if you believe the underlying price will remain constant.
+For e.g: Volatility is high like in COVID but then, it will eventually cool off then short a straddle - bcoz during volatile times premiums are high and when volatility decreases , contracts moving to ITM is low probability I.e  premiums decrease and seller eventually keeps the premium 
+
+
+
+

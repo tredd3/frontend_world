@@ -1,0 +1,11 @@
+Both faster and more disk-efficient than npm or yarn
+
+pnpm is blazingly fast! pnpm outperformed other package managers in all installation scenarios.
+
+
+With npm and yarn, running ten different projects could mean ten (or more!) copies of the same dependency installed.
+This takes up a lot of physical space and inodes. pnpm's content-addressable file store and hard-linking strategy are much more
+efficent, allowing you to work with many more projects at once. With pnpm you should rarely see errors like ENOSPC and Unknown system error -122 again!
+
+
+

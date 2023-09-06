@@ -108,6 +108,18 @@ brad = User('Brad Traversy', 'brad@gmail.com', 37)
 # Init customer object
 janet = Customer('Janet Johnson', 'janet@yahoo.com', 25)
 
+
+def printAttributes(my_object):
+    # Using vars() function
+    attributes = vars(my_object)
+    for attribute, value in attributes.items():
+        print(attribute, "=", value)
+
+
+# print object attributes
+print("Attributes of User brad ")
+printAttributes(brad)
+
 # calling a method standalone on a different instance of a class
 print(User.greeting(testUser))
 print(User.greeting.__doc__)

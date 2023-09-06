@@ -14,28 +14,45 @@ core philospohy: Why store separate copies of packages if you can have a `single
 Logic: files can be retreived based on content and not filename (bcoz every file has a hashid based on the content)
 
 A hard link is a file that references or points to the exact spot on a hard drive where the Inode stores the data.
-  If the earlier selected file is deleted, the hard link to the file will still contain the data of that file.
+  Even if you delete the original file, the hard link will still has the data of the original file bcoz hard link acts as a mirror copy of the original file
   Files that are hard linked take the same inode number.( Index node number is a unique number assigned to all files in a Linux/Unix system)
   Hard links are comparatively faster.
-A soft link s a special kind of file that points to another file, rather than the content on hard drive
-  If the earlier file is deleted, the soft link will be pointing to a file that does not exist anymore
+  hard link can be created ONLY for files
+  it has a same inode number and file perms compared to original file
+  can be created ONLY on same file system
+  command to create : ln [source_file_name] [link_name]
+A soft link/symbolic link/symlink is a special kind of file that points to another file or directory in Linux, rather than the
+  content on hard drive. If the earlier file is deleted, the soft link will be pointing to a file that does not exist anymore
   Files that are soft linked take a different inode number
   Soft links are comparatively slower.
+  It is like a shortcut in Windows which contains the path of the original file and not the contents
+  symlink can be created for both files & folders
+  it has a different inode number and file perms compared to original file
+  can be created on different file systems
+  command to create : ln -s [source_file_name] [link_name]
 
 //Why PNPM
-3 times faster than npm/yarn
+Both faster and more disk-efficient than npm or yarn
+pnpm is 2x faster compared to npm while doing installation with a full cache and existing lockfile.
+3x while doing installation with no lockfile. 
 Even though Yarn is an improvement over NPM , it uses the same flat node_modules structure that npm does
+https://pnpm.io/blog/2020/05/27/flat-node-modules-is-not-the-only-way
 flattened dependency trees come with a bunch of issues:
   modules can access packages they don’t depend on
   the algorithm of flattening a dependency tree is pretty complex
   some of the packages have to be copied inside one project’s node_modules folder
-Note: pnpm does not flatten the dependency tree. As a result, the algorithms used by pnpm can be a lot easier!
+Note: pnpm does not flatten the dependency tree rather use nested dependency structure , with symlinks to flat directory structure
+ As a result, the algorithms used by pnpm can be a lot easier!
+npm node module structure: https://github.com/zkochan/comparing-node-modules/tree/master/npm-example
+pnpm node module structure: https://github.com/zkochan/comparing-node-modules/tree/master/pnpm5-example
+Isolated node_modules	✔️ - The default for (pnpm) - npm uses isolated node_modules to resolve version conflicts
+Hoisted node_modules	✔️ - The default for (npm) - pnpm uses hoisted node_modules to resolve peer dependencies
+
 
 //Why PNPM is more efficient? 
 SPEED: Yarn copies files from cache whereas pnpm just links them from the global store.
  When you install a package, we keep it in a global store on your machine, then we create a hard link  from it instead of copying.
- For each version of a module, there is only ever one copy kept on disk. When using npm or yarn for example, if you have 100 
- packages using lodash, you will have 100 copies of lodash on disk. Pnpm allows you to save gigabytes of disk space!
+ For each version of a module, there is only one copy kept on disk. Pnpm allows you to save gigabytes of disk space!
  This allows you to share dependencies of the same version across projects.
 SECURITY: Like Yarn, pnpm has a special file with all the installed packages’ checksums to verify the integrity of every installed package before its code is executed
 If you depend on different versions of the dependency, only the files that differ are added to the store. For instance, 

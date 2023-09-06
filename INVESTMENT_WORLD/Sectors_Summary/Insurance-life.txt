@@ -30,8 +30,12 @@ india's penetration being extremely low
 high margin: individual insurance > group insurance
 high margin business : term plans/protection > non participating > participating > ULIP
 non participating - investors/share holders are most benefitted
-participating - customers are most benefitted
-Linked: payout Linked to financial markets
+   Surplus arising in case of Non-participating business is transferred to shareholders’ account
+participating - These are savings cum protection products that provide a guaranteed sum assured and long term returns through 
+   participation in profits of underlying investment , if any, generated from these policies. 
+   90% share of the surplus to policyholder and rest to shareholders
+Linked: payout Linked to financial markets (equity and debt)
+   They provide returns directly linked to the performance of the underlying funds
 
 
 //accounting terminology
@@ -41,7 +45,8 @@ solvency ratio: higher it is more guaranteed that insurer is gonna pay claims, m
 cost ratio: less is better (operating expenses + commission expenses)/premium
 expenses are incurred and not amorotised over years, but profits are realized over years 
 //An insurance company’s valuation is determined by the embedded value (EV)
-The ‘embedded value’, in short, is the sum of the present value of future profits from all policies + the market value of net worth.
+The ‘embedded value’: The value of a life insurance company is measured using Embedded Value
+   sum of the present value of future profits from all policies + the market value of net worth
 claim settlement ratio: no of claims settled/Total no of claims
 claim intimation ratio: claim amount settled/Total claim amount
 //annualised premium equivalent (APE) growth is like sales growth for Insurance companies
@@ -52,12 +57,14 @@ APE is the sum of the regular annualized premium from the new business plus 10% 
 
 
 //Sector growth oppurtunities
-insurance penetration in India - 1%
-Global Avg: 7%
-Avg per capita Premium India - 60$
-Avg per capita Premium World - 370$
+Population of India: 1320 million (only 6 million are insured, 21 MF investors)
+pension assets(annuity)/GDP ration is 5.8% (world avg: 50%, US 150%)
+penetration (premium as a % of GDP) - 3% (7%)
+density( premium/population) : 70 (global avg 280) 
+life cover to personal annual income ratio 3.8 (recommended 10 to 25)
 Life Insurance – market share of private life insurers increased from 9% to 34% in the past 15 years
 63% of the private life insurance sector premiums are earned by 4 private life insurers
+
 
 //players
 1)LIC - strong agent network - subsidaries in singapore, bangladesh, Nepal , Mauritius etc

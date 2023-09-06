@@ -1,0 +1,12 @@
+//Margin Types
+—Value at Risk (VAR) refers to the potential loss that might occur while dealing with securities for a given timeframe. VAR margin is required to cover up for the losses arising due to uncertain risk conditions.
+VAR margins are covered for a single day for Liquid securities and three days for illiquid securities.
+—Extreme Loss Margin (ELM) is the margin blocked in addition to the VAR margin. ELM is blocked for risk situations that are not covered in the VAR estimation.
+—Adhoc Margins are special margins blocked on specific securities depending on the nature of the security. Adhoc margins are denoted as ‘delivery margin
+For e.g: exchanges add ad-hoc margin requirements owing to volatility or physical delivery margins to stock F&O contracts in the last week of expiry
+—Tender Margin
+Mostly for Crude Oil & Natural Gas contracts
+The additional tender margin on commodities is charged to cover the risk of large price fluctuations in commodity contracts that can happen close to expiry. 
+The additional margin amount (also called the pre-expiry or tender margin) is blocked from your commodity account funds under the ‘delivery margin’ field
+
+Note: any insufficient margin (VAR+ELM+Adhoc) may lead to a Margin penalty

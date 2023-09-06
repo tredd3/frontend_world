@@ -58,3 +58,6 @@ cement, iron and steel, aluminium, fertiliser and electricity
 //Capital intensive - operating leverage acts as a double edge sword
 OTT, Hotels, Utilities(electricity, gas)
 automobile manufacturing, oil production, and refining, steel production, telecommunications, and transportation sectors (e.g., railways and airlines)
+
+
+
