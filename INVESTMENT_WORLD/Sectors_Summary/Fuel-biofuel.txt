@@ -38,12 +38,19 @@ Sugar cane -> Bagasse + Sugar cane Juice -> Sugar + B heavy molasses -> Sugar + 
   Fermentation(for 24 hrs) -> Distillation -> Ethanol
 Bagasse : dry pulpy fibrous material that remains after crushing sugarcane. It is used as a biofuel for the production of heat,
    energy, and electricity, and in the manufacture of pulp and building materials.
-Cogeneration or combined heat and power is the use of a heat engine or power station to generate electricity and useful heat at the same time
-The ‘C’ molasses roughly constitute 4.5% of the cane, and have a remaining TFS of 40%. After C-molasses are sent to the distillery,
- ethanol is extracted from them. Every 100 kg of TFS yields 60 litres of ethanol.
-Mills can also produce only ethanol from sugarcane, without producing sugar at all. In this case, the entire 14% TFS in the cane 
- is fermented producing high quality Ethanol. Here, a mill can make 84 litres of ethanol and zero kg of sugar.
+The bagasse produced in a sugar factory is however used for generation of steam which in turn is used as a fuel source and 
+the surplus generation is exported to the power grids
+Mills can also produce only ethanol from sugarcane, without producing sugar at all.
+The difference lies in the quantity of ethanol produced. One tonne of cane can produce 10.8 litres of ethanol if it is produced from
+molasses. On the other hand, the same cane can produce 84 litres of ethanol, if used directly as an input
 Sugar crystals can also be used to produce Ethanol (Sugar mills do this when sugar is excess)
+
+
+//Uses of Ethanol
+a solvent in organic chemicals
+finding space in the chemical industry and 
+is used as an intoxicating agent in beer, wine, and other alcoholic beverages.
+Now, ethanol is mixed with petrol as well.
 
 //What Are The Advantages of Using Ethanol Fuel?
 Ethanol has a higher octane rating than petrol which reduces engine knocking.
@@ -54,6 +61,8 @@ Ethanol burns cleaner than petrol and has a cleansing effect on the fuel system.
 
 
 --------------------- ETHANOL STATS ---------------------
+sugar production used to take 4 months and sales realization was 14 months, however, following the ethanol programme, sales realization is 3-4 weeks, 
+ supporting healthy cash conversion for sugar/ethanol companies
 Uttar Pradesh has emerged as the country's leading producer of ethanol, and 54 distilleries spread around the state generate a 
  total of 58 crore litres of ethanol.
 US and Brazil produce 84 per cent of all ethanol production in the world 
@@ -66,3 +75,16 @@ government is empowered to fix the price paid to cane growers annually
 government has made supplies profitable by raising ethanol prices every fiscal, in addition to differential pricing for B-Heavy 
   and the direct cane juice route and providing interest sops on loans for setting up ethanol-based distilleries.
 Risk:  profitability remains vulnerable to the government’s policies on exports, MSP, and remunerative ethanol prices.
+
+
+//Risks with Sugar companies in India
+sugar sector growth rate is 2%
+The government regulates the sale of sugar, cane pricing and trade in sugar, which is an essential commodity. 
+The government is empowered to fix the price paid to cane growers annually. cane constitutes 90% sugar production cost
+MSP of Suagr is constant for last 4 yrs
+sugar business depends on the sugarcane availability(monsoon is key as it is water intensive) and sugar cane quality
+While the cane price is driven by the government, sugar price always remains volatile and based
+on open market prices (which are dependent on the production levels) leading to volatility in Sugar Company’s profitability.
+for e.g: Brazil sugar production decides global prices (as Brazil is the largest producer of sugar)
+Besides, the government regulates domestic demand-supply through restrictions on imports and exports, and stock holdings. 
+Regulatory mechanisms and dependence on monsoons have always rendered the sugar industry cyclical.

@@ -84,9 +84,11 @@ Note:
   small - product/service can be used either by few individuals OR few businesses but not both - If you invest in such a business,
      it must be a Niche Area, low competetion, strong MOATS and Longevity - on top of everything great Valuation is must
 
+  Note: customer base quality is also important as it gives oppurtunity to upsell/cross sell products, launch premium products etc
+
   2)Amount spent by the customer in a year as a % of income
   huge - high value product (Apple, Tesla)
-  large/medium - higher end of the value chain/frequency of use of product
+  large/medium - higher end of the value chain(B2B)/frequency of use of product
   low - commodity/easily available/lower end of the value chain
 
   3)Type of demand decides increase in amount spend by customer over the years (MANAGEMENT HAS //NO// CONTROL)
@@ -107,19 +109,20 @@ Note:
       i)oppurtunity to widen the customer base
         At present customers are individuals but now making products/services to make businesses as customers
         At present customers are businesses but now making products/services to make individuals as customers 
+        grabbing foreign customers (Export oppurtunities - china+1 /Europe+1/ demand shift from other countries to India etc)
       ii)oppurtunity to deepen the customer base
         /low sector penetration - increase customer base by acquiring new customers in untapped and rural areas
         /low market share of the company - snatch market share from others (especially from unorganised)
         /import substitution - Atam nirbhar bharat
-        /Export oppurtunities - china+1 /Europe+1/ demand shift from other countries to India etc
         /Transition Demand - EV, Renewable Energy, 5G, New Technology - need a lot of research as it can make or break your portfolio
           bcoz of high competettion given the size of oppurtunity
 
     2)Capture more Amount spent by the customer/make customer spend more by providing more value
         --enter in to other near by industries or related sectors
-        --launch new products by innovation, premium products (people prefering branded and premium products as their salary/per capita income increases)
-        --launch services that add value - like Apple does
-        --get in to higher end of value chain to capture more amount spent by customer
+        --launch new products by innovation
+        --launch premium premium products (people prefering branded and premium products as their salary/per capita income increases)
+        --launch services that add value - like Apple, Tesla, Google does
+        --get in to higher end of value chain to capture more amount spent by customer (B2B)
 
 /*********************  SUPPLY **********************/
 /current market share: 
@@ -165,17 +168,19 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
     important)
 
 /COMPETETION :  Never invest in a highly competettive industry that competes ONLY on price(price war) instead of value
-  1)domestic competetion(organised) - compare with the current company with peers in both business & financials
+  1)existing competetion(organised) - compare with the current company with peers in both business & financials
      --- Financials
-     use tijori(benchmark) and screener peer comparison sections for profitability and costs
+     use tijori(benchmark) and screener peer comparison sections for costs, profitability and margins
      --- Business
      //how is the quality of product/service of all the players?
-     //does any player has process advantage? to know this check OPM and compare costs of all players 
-     //does any one of the competetiors have MOAT advantage
+     //does any one of the competetiors have MOAT advantage/process advantage
      //for manufacturing players check available capacity and upcoming capacity and also the current capacity utilisation
+     //competetiors with large balance sheets and reputation can take away small players market share 
+       either by offering products at low prices or spending on marketting and advertising
   2)domestic competetion(unOrganised) - industry dominated by Unorganised players (oppurtunity to capture market share from them)
-  3)global competettion - imports risk from china or any other low cost producer country?
-  4)threat of new entrants (both globally and domestically) - check entry barriers in MOATS
+  2)global competettion - imports risk from china or any other low cost producer country?
+  3)threat of new entrants (both globally and domestically) - check entry barriers in MOATS
+    can a company/person with huge capital base disrupt the business
     Note: 
     if a business is extremely profitable then it attracts lot of capital , hence taking away gains/market share (so MOAT check is imp)
     if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
@@ -185,12 +190,12 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
    captured the mind share of the audience)
   //if yes, then why ? and what value does it add to customers compared to competetiors?
     good quality of product/service 
+    delight the customers by Uniqueness of product or service
     low cost
     reliable and trusted brand
     service - present across geographies
     Taste
     Switching costs
-    delight the customers by Uniqueness of product or service
     trade offs different from competetiors
   //will the customer show loyalty to the product/serivce for the next 10 yrs?
 
@@ -198,6 +203,7 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
 Note: if they can't generate enough cash (reserves), they must rely on debt/ new equity for growth
 
 /strong balance sheet : weak/ medium/ strong
+/keep an eye on margins and trend of margins
 /CFO is inline with operating profits and growing YOY at double digits - bcoz if it is growing at even 10% then invest in FD
 /5yr avg ROCE (ROCE must be greater than cost of capital):    
   /why Return on Capital is important?
@@ -216,27 +222,23 @@ check last 10yrs CFO usage in Tijori
 1)Growth
     /Global expansion/ exports - Launch products in new markets
     /capex - brownfield or greenfield
-    /Launch New products (for chemicals it is via forward integration)
-    /Product mix change - increase the share of high margin products
-    Note: mode of capex funding is also important: preference cash>debt>equity
+    /R&D spend - Product premiumisation / Launch New products
     /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
     key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 
     areas where the current firm doesn't OR in simple words acquire any firm that adds value by doing something which the current 
     firm doesn't OR any firm that increases the efficieny of the current firm operations) 
-2)Efficiency 
-    /promoter OR management change
+2)Efficiency (check expenses breakup and see which expenses are growing YOY)
     /working capital cycle reduction
-    /spending on technology for achieving efficiency and modernising the workflow or processes
     /spin off - dispose losing operations (increases firm efficiency by increasing management focus)
     /cost reduction: check OPM trend
       1)raw material cost reduction - backward integration or bulk purchase (check GPM trend)
-      2)logistics cost reduction - putting plants near customer/raw material locations
+      2)logistics cost reduction - putting plants near customer(B2B)/raw material locations
       3)process optimisation and innovation - using technology and digitistion
-      4)captive power plants/long term PPA
+      4)captive power plants/long term PPA (for energy intensive businesses)
       5)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
-      NOTE: This form of growth will increase profitability of the firm in the short term, but a company cannot become efficient 
+      NOTE: focusing on efficiency will increase profitability of the firm in the short term, but a company cannot become efficient 
       after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
-      needs to be augumented by Demand/consumption led growth either from New or Old customers(Preferably from new customers)
+      needs to be augumented by Demand/consumption led growth
       But in the journey of company becoming efficient you can make huge profits and hence always check whether management is focusing
       on making the firm efficient or not apart from focusing on sales
 3)MOAT building/strengthening - they save taxes in short term and increase cashflow Longevity
@@ -245,23 +247,30 @@ check last 10yrs CFO usage in Tijori
     /R&D - for future business but the amount spent has to be monitored
     /Advertising - brand building and awareness activity leading to market share gains and hence volume growth
     /Increase distribution network
-    Note : check expenses breakup and see which expenses are growing YOY
 4)Return to Shareholders:
     Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
     Buyback - preferred, but company needs to Buyback share at low prices i.e during crash
     Bonus issues
 5)Bad ways:
     finance losses
-    huge manintenance capex every year - e.g Telecom, Auto
-    related parted transaction - to promoter owned firms for irrelevant purposes, using comany cash to fund family businesses etc
+    100% of CFO goes to debt/interest repayment
+    sustainace -  manintenance capex every year (e.g Telecom, Auto)
+    Related parted transaction - to promoter owned firms for irrelevant purposes, using comany cash to fund family businesses etc
     keep it in cash for a long time
 
 
-// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
+////------------------------------ MANAGEMENT CHECK --------------------------------////
+Resource: check management discussion analysis in annual report, concall
+check their Vision: must be long term 
+check their capital allocation strategy over the years (i.e ROCE and use of operating cash for last 10 yrs)
+Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
+and then if u put a capable and passionate management he will do wonders for you
+check Management_Check.txt
+
+
+////------------------------------ POSITIVES/STREGTHS --------------------------------////
   -Ideal business: Yes/No
    always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
-
-   POSITIVES:
   -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
@@ -271,6 +280,7 @@ check last 10yrs CFO usage in Tijori
   -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
   -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
     attracts customers and companies which compete on price will lose their business to competetiors
+  -product/service Uniqueness
   -recession proof ? how did it perform in 2008 and 2020 crisis
     Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
   -Scalable business model - globally preferred (mutibagger are made because of this property)
@@ -278,36 +288,8 @@ check last 10yrs CFO usage in Tijori
   -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
    facing heavy loses and low profitability or no growth, hence the Survivor
   -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
-  -deals with very sensitive sectors needing lot of approvals and gain client trust/confidence
   -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
 
-  NEGATIVES:
-  -dependent on govt OR Linked to Govt: Price controlled by Govt, Govt is the only Customer , Anti-dumping duty by Govt
-  -non Predictable for next 5-10yrs
-  -competes only on Price with very little value addition and attract via discounts like Food delivery, Paytm , Nykaa
-  -not recession proof
-  -commoditized business - if commoditized the it must be a low cost producer
-  -debt heavy
-  -cyclical - cyclical revenues and cashflows
-  -highly competettive industry like Auto/Telecom/Aviation etc
-  -Non scalable business Either bcoz of limited market size OR Global competettion
-  -limited clients - Zero pricing power
-  -CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
-  -CONTINOUSLY needs to spend more money on R&D to stay in business like electronics, auto and pharma companies that spend heavily on R&D
-  -If a person has lot of money he can break ur business and take away marketshare
-  -diworsefication - enetering in to businesses or acquiring businesses that doesn't belong to the expertise level of the current 
-  company 
-  -Avoid serial Acquirers (but if the Acquistion makes sense in the same business line then we can consider)
-  -B2B player that doesn't have pricing power because of high competettion, commoditised or no MOATs
-  -lower end of value chain (but if MOATs are present especially pricing power then we can consider this)
-
-////------------------------------ MANAGEMENT CHECK --------------------------------////
-Resource: check management discussion analysis in annual report, concall
-check their Vision: must be long term 
-check their capital allocation strategy over the years (i.e ROCE and use of operating cash for last 10 yrs)
-Note: Ideally we should invest in a business which even a fool can run because someday or the other a fool does - Warren Buffet
-and then if u put a capable and passionate management he will do wonders for you
-check Management_Check.txt
 
 ////----------------------------------- RISKS ----------------------------------------////
 check Risk_Check.txt
@@ -322,8 +304,8 @@ can management do something to mitigate the risk?
 
 ---Investment Returns Risk: volatility is not not risk it's an oppurtunity
 losing capital
-  Remedy: select stocks which are the largest holding of big investors => saurabh mukherjee filter => circle of competence (watch 
-   their stock videos, blogs, read crisil reports etc)
+  Remedy: select stocks which are the largest holding of big investors => apply saurabh mukherjee filter => chec for your circle 
+   of competence (watch their stock videos, blogs, read crisil reports etc)
 not getting adequate returns is a risk (oppurtunity cost)
   Remedy: 
   1)Margin of safery  invest in above stocks at lower valuation, i.e allocate more to those which are undervalued compared to other 

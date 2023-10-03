@@ -1,0 +1,9 @@
+//1 browser window has multiple tabs
+
+//memory limit per tab -  512MB for 32-bit and 1.4GB for 64-bit systems
+
+//web socket connections limit for chrome browser:
+max of 30 per host, 256 overall 
+
+//maximum parallel connections
+Chrome will only make a maximum of 6 HTTP requests to a single domain at the same time

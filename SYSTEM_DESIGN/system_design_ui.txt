@@ -6,8 +6,8 @@ https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browse
 real time - low latency
 streaming - continous flow of large data in small chunks and processing those small chunks as 
 they come, instead of transmitting the large data all at once and processing it.
-web sockets - real time data
-web workers - only web socket events are processed inside workers
+web sockets - get real time data from backend via websocket
+web workers - inside webworker process the data from websocket using webassembly
 main UI thread is now free for user events , rendering and other stuff
 batch update - update react state for say 6 messages instead of single message update (code in shouldcomponentUpdate method)
 Throttling allows you to set the maximum number of messages that can be processed by a worker process/server in a given time frame

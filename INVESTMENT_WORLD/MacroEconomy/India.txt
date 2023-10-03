@@ -1,14 +1,18 @@
 ----------------------------- INDIA ----------------------------- 
 POPULATION: 140cr (roughly 4X times US)
 Population growth rate: 1% per year
-35 % urban population 
-The median age in India is 28.4 years (70% population above age of 18)
+35 % urban population (expected to go to 50% by 2030)
+The median age in India is 28.4 years (70% population above age of 18) until 2030
 largest employment sector - agriculture
 second largest employemnt sector - textile
 only 3% of Indians take home an annual salary of more than ₹5 lakhs
 10 million retail outlets spread across India
 listed companies in india - 6,000 (may be around 100 are investable rest have bad financials, promoters, low capital allocation etc)
- 
+per capita income to grow multifold - hence encouraging consumption 
+India and China contribute to 56% of gold consumption in the world (only 1% of indian consumption is met by domestic mining,
+ 8% recycled gold rest by imports)
+China, Russia and Australia contribute 30% to supply of Gold
+
 //Macroeconomy Trends
 • Four times in four decades – a strong economic recovery in India has been preceded by a congruence of three events –
 a) US recession b) alongside Falling US bond yields c) Falling oil prices
@@ -22,7 +26,7 @@ only 15 percent MSMEs in India have access to formal credit
 atmanirbhar bharat - self reliance by local manufacturing to build resilient supply chain
    and import substitution 
 rural to urban area migration in search of Jobs - housing demand in urban areas, PMAY (scheme where eligible people get home 
-  loan at subsidised rates, rest born by central and state govt) 
+  loan at subsidised rates, rest born by central and state govt) Infra companies are beneficiaries
 push towards affordable housing by Govt in both Rural & Urban areas - low income people spending most of their income on house
 govt pushing towards gas and solar usage - from coal based
 push towards EVs by Govt - but cost, infra and stability issues

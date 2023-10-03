@@ -1,48 +1,62 @@
-
 --------------------------------- RISKS --------------------------------------
 ---Business Risk:
 Also check RHP/DRHP to see the risks mentioned by the management
 https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&ssid=15&smid=11
-low ROCE
-limited oppurtunities - not have the oppurtunities to deploy capital else where 
-competetive risk - threat from existing players or new entrants both local /global
- i.e if the competetitors have enough money can they replace this business and snatch the market share and profits from the company
-pricing power risk - during inflation company cannot pass on the price
-sector innovation risk (EV,5G)
-inventory risk (expired products, customer preference change/change in consumer behavior, commoditised product in inventory)
-less market size
-low sector growth rate
-limited customers
-customer concentration
-revenue concentration from a product
-substitution risk - mainly for chemical/pharma/technology 
+/If a person has lot of money he can break ur business and take away marketshare
+/limited oppurtunities - not have the oppurtunities to deploy capital else where 
+/competes only on Price with very little value addition (market share loss risk)
+  if you don't focus on value and  attract customers via discounts like Food delivery, Paytm , Nykaa, tomorrow one with deep 
+  pockets can give more discounts and snatch your market share
+/pricing power risk - during inflation company cannot pass on the price
+    alternative exist
+    commodity product/service
+    operates in highly competetive industry (need to match competetiors price)
+/sector innovation risk (EV,5G, Pharma, Auto)
+/inventory risk (expired products, customer preference change/change in consumer behavior, commoditised product in inventory)
+/less market size/non-scalable (can't become a multibagger) - company needs to expand in other verticals
+/low sector growth rate (atleast company earnings growth rate should be high)
+/limited customers - NO pricing power
+/customer concentration
+/revenue concentration from a product
+/substitution risk - mainly for chemical/pharma/technology 
   can company's business/products/services be replaced/substituted by new age technology/innovative products/services?
-commoditised risk - business becoming commodity type(no value addition hence products can be easily copied) - you will lose margins and pricing power
-low cost imports risk
-legal/scams Risk
-regulatory risk/govt policy risk - power sector(controlling prices),allow imports without anti-dumping duty(chemicals,textiles),
+/commoditised risk - business becoming commodity type(no value addition hence products can be easily copied) - you will lose
+  margins and pricing power (if commoditized the it must be a low cost producer)
+/low cost imports risk - dumping by china or other foreign entities
+/legal/scams Risk - promoter involved in scams
+/regulatory or govt related risk - power sector(controlling prices),allow imports without anti-dumping duty(chemicals,textiles),
    banning exports of finished products, banning imports of crucial raw materials, banning products harmful to environment/public
-diworsification risk - if the company keeps acquiring businesses for non-strategic reasons
-recession risk - few companies only do well during boom years and get hampered during recession years (better to allocate less capital)
-cyclical margins/cyclical cashflows
+   Price controlled by Govt OR Govt is the only Customer
+/diworsification risk - if the company keeps acquiring businesses for non-strategic reasons
+/recession risk - few companies only do well during boom years and get hampered during recession years (better to allocate less capital)
+   and few others simply crash during recession 
+/cyclical revenues/margins/cashflows
+/non Predictable for next 5-10yrs
+/B2B Risks:
+   Revenues doesn't increase in proportion to cient's revenues
+   Lower end of value chain (but if MOATs are present especially pricing power then we can consider this)
+   Client concentration risk
+
 
 ---Financial Risk:
-weak balance sheet
-verify cost strucuture 
-high Debt - can lead to bankruptcy during inflation/recession times, especially if the company has no pricing power or is cyclical
-continous upgradation capex - low returns for shareholders (Aviation,Telecom)
-high spend on R&D - can lead to bankruptcy, if R&D spend as a % of sales is higher and keeps increasing over time
-increasing other income /non-core income - company business might be down or management focusing on non-core activities
-weak CFO trend
+/low ROCE
+/weak balance sheet
+/verify cost strucuture 
+/high Debt - can lead to bankruptcy during inflation/recession times, especially if the company has no pricing power or is cyclical
+/CONTINOUSLY using cashflow to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
+/high spend on R&D - can lead to bankruptcy, if R&D spend as a % of sales is higher and keeps increasing over time
+  business like electronics, auto and pharma companies that spend heavily on R&D
+/increasing other income /non-core income - company business might be down or management focusing on non-core activities
+/weak CFO trend
 
 ---Management Risk
-old management, with no succession plan
-fraud - related party transactions to the companies in which management/promoters have interest - chance of diverting company's 
+/old management, with no succession plan
+/fraud - related party transactions to the companies in which management/promoters have interest - chance of diverting company's 
   profts for their own wealth creation
-not focusing on core business, trying to diworsify
-not focusing on share holders wealth
-irrelevant skills / experience
-short term mindset - management needs to focus on longterm benfits instead of short term profits
+/not focusing on core business, trying to diworsify
+/not focusing on share holders wealth
+/irrelevant skills / experience
+/short term mindset - management needs to focus on longterm benfits instead of short term profits
 
 
 ---Investment Returns Risk:
