@@ -7,6 +7,8 @@ Business :
 Financials:  
 MOATS :
 Management/Promoter : 
+Vision :
+Strategy :
 Strengths :
 Risks :
 Valuation :
@@ -33,12 +35,12 @@ Business :
 Financials: ROCE 45% , 
 MOATS : entry barriers due to complex nature of work
 Management/Promoter : 
-Strengths : 
+Strengths : niche industry of ER&D, Top clients, proxy play on capex heavy industries
 Risks : loss of contracts
 Valuation : 
        
 
-LTTS :
+//LTTS :
 Business : 
     LTTS is mostly in to advanced stages , maintenance, lifecycle management etc
     broad based presence - transportation, engineering, medical devices etc
@@ -49,20 +51,43 @@ Strengths : niche industry of ER&D, Top clients, proxy play on capex heavy indus
 Risks :
 Valuation :
         
-VBL - double digit volume growth expected for next 5 yrs, expansion in other developing countries, solo manufacturer to pepsi
-     Manufacturing units are backward integrated, planning to recycle bottles and reuse it 100%
-ITC - tobacco leader, with diversification in to FMCG, Agri commodities etc 
-    - 4% dividend yield with PE of 24 (chance of dividend increase and capital appreciation)
-    - fairly valued according to DCF 
-    - CFO used in dividends, decreasing ROCE on incremental capital,
+
+//VBL :
+Business : 
+  double digit volume growth expected for next 5 yrs, expansion in other developing countries, 
+  Manufacturing units are backward integrated, planning to recycle bottles and reuse it 100%
+  launching non-beverage products(kurkure) and other beverage products (milk products)
+Financials:  ROCE 15%
+MOATS : solo manufacturer to pepsi (entry barriers)
+Management/Promoter : 
+Strengths : high frequency demand , recession proof, scalable business model
+Risks :
+Valuation :
+
+//ITC :
+Business :
+   tobacco leader, with diversification in to FMCG, Agri commodities etc  
+Financials:  
+   CFO used in dividends, decreasing ROCE on incremental capital | ROCE 30%
+MOATS : entry barriers(due to no advertising of tobacco), brand, taste, network effect
+Management/Promoter : 
+Strengths : lousy industry , predicatable and high frequency demand , recession proof, scalable business model
+Risks : frequent change of tax on tobacco by Govt
+Valuation : 4% dividend yield with PE of 24 (chance of dividend increase and capital appreciation)
 
 
 2) Market share gain oppurtunities in India /Abroad
-ROCE>WACC & deploying CFO for Incremental growth
-TITAN - jewellery business generates cash and that is reinvested in other businesses, new management that came in 2020 is changing 
-   the game by focusing more on localisation
-  ROCE on incremental capital is 30% globally competettive - No, CFO used in capex and dividends
-  market share is 6% in jewellery so a lot of scope to capture market share from unorganised players, same thing with Eyecare
+//TITAN :
+Business : 
+  jewellery business generates cash and that is reinvested in other businesses (watches, eyecare, sarees etc)
+  market share is 8% in jewellery so a lot of scope to capture market share from unorganised players, same thing with Eyecare
+Financials:  ROCE on incremental capital is 30% , CFO used in capex and dividends
+MOATS :
+Management/Promoter : new management that came in 2020 is changing the game by focusing more on localisation
+Strengths :
+Risks :
+Valuation :
+
 Divis Lab - CFO used in capex and dividends, 25% constant ROCE on incremental capital,  globally competettive - Yes
    backward integration , low cost quality APIs and that too on scale, trust of customers since 30 yrs
    lot of capex being done to take care of future growth oppurtunities, strictly sticks to manufacturing providing relief to
@@ -81,11 +106,15 @@ HDFC Bank - globally competettive - No, Govt can't fund PSU banks in next couple
   capture market share, HDFC bank is growing both assets and liabilities  at double digit growth
 Kotak Bank - super conservative and contrarian mangement , helped them in gettings the best numbers in banking industry
    slow and steady wins the race is the moto and very strategic mangement
-IDFC First Bank - turnaround with strong management, infra debt slowly decreasing, innovative products like BNPL, monthly interest
-  prudent lending like loans only to cash generating projects/companies
+IDFC First Bank - turnaround with strong management, infra debt slowly decreasing, innovative products like BNPL
+  vision - to become a top private bank like HDFC, KOTAK etc
+  strategy - prudent lending like loans only to cash generating projects/companies, loans only to customers with credit score
+    monthly interest rates to attract deposits
+    use tech heavily and expand the branch network
 Astral Poly - Sector is expected to grow at 10-12% CAGR, market share gain oppurtunities from unorganised players, backward integration
   wants to become a complete water solutions provider , Cash generated from piping sector will be deployed in Adhesives for
   double digit growth. Occupied minds of Plumbers
+  visio - to occupy complete bathware and plumbing space
 APL Apollo Tubes - low cost steel tubes manufacturer, 5X sector growth oppurtunities, increasing share of value added products
 low margin business hence new players don't want to enter + COVID have busted unorganised players bcoz of poor balance sheets 
 & as a survivor APL gained market share, semi commodity - 50% commodity , 50% value added
@@ -131,7 +160,23 @@ Alkyl Amines - better than balaji amines in financials, Niche market with oligop
 ------------------------------- VC portfolio ---------------------------------
 Turnarounds OR
 sunrise industry OR 
-about to be profitable
+about to be profitable OR
+less market share and having low base of profits
+
+//Indigo paints
+Business : 
+  4% market share
+  slowly building distribution network
+  margin improvements with highest gross margin across industry
+  cash is used for brand building, acquistion, capex
+Financials: almost negligble debt, ROCE 21%
+MOATS :
+Management/Promoter : MD is a chemical engineer from IIT & Stanford, he is also the promoter
+Strengths : low profit base
+Risks : 
+   intense competettion from players like asian and berger, unorganised players
+   almost no pricing power
+Valuation :
 
 Tarsons - Very good financials, Transition from Glassware to plasticware - giving scope for double digit volume
 Borosil Renewables - macroeconomic oppurtunity both in india and europe, but no pricing power as prices are decided globally
@@ -202,3 +247,15 @@ Note: we invest in rajratan global wire, proxy to tyre companies
 
 IEX - NO pricing power - rates controlled by power board, globally competettive - No, new competettion came in the picture, 
   companies preferring captive power consumption, long term power agreements to secure supply chain
+
+KRBL - fully integrated basmati rice producer.
+Also has non-basmati rice portfolio
+use of cash : establish rice mills in Gujarat, Maharashtra and Karnataka +  Dividend + buyback 
+Has captive power plants (using rice husk to produce power)
+By-products such as rice bran are effectively utilised for producing Rice Bran Oil, Furfural Oil, Furfural Alcohol, Cattle feed etc
+Focus on premium portfolio for exports - although they also have mass segment 
+Ethanol opportunity with broken rice ?
+Risks: no pricing power due to commodity nature of business, low sector growth rate, Govt can ban exports and 
+  import country regulations (meaning no control on volumes and price), cyclical cashflows due to rice prices
+  inventory can lose value
+  export duty can make rice costly to importers compared to other global suppliers

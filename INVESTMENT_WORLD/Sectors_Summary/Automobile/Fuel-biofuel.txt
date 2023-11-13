@@ -88,3 +88,24 @@ on open market prices (which are dependent on the production levels) leading to 
 for e.g: Brazil sugar production decides global prices (as Brazil is the largest producer of sugar)
 Besides, the government regulates domestic demand-supply through restrictions on imports and exports, and stock holdings. 
 Regulatory mechanisms and dependence on monsoons have always rendered the sugar industry cyclical.
+
+
+--------------------- BIOGAS ---------------------
+production process :
+manure/organice waste => decomposition by microorganisams => biogas + organic fertilisers
+manure/cow dung - contains methane , which is 28 times more harmful compared to CO2
+organice waste - food waste, agri waste etc
+While combustion of biogas, like natural gas, produces carbon dioxide (CO2), a greenhouse gas
+biogas usage doesn't make it carbon ZERO like EVs/Hydrogen fuel cell but reduces the amount of carbon
+ emitted in comparison to the methane produced by unadressed manure hence it is carbon neutral
+Just like hydrogen , bigas can also be mixed with matural gas to reduce CO2 emission
+
+Maruti is the first company to come up with CBG(compressed bio methane gas) technology
+They arev launching this vehicle along with CNG, EV, HYDROGEN, HYBRID etc
+
+Economics:
+10 cows manure in a day can propel a car for a day
+india has around 300 million cows
+Rural income will get a boost
+
+

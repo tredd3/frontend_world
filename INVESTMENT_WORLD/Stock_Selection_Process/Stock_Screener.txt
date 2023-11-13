@@ -141,9 +141,12 @@ Note:
    iii)NO bargaining power of buyers :
      Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
      the company needs to give the product on credit ) exists if
-     client base is limited and large especially true for B2B suppliers 
-     OR if a company in a highly competettive business (e-commerce, airlines) where people never want to pay premium 
-     OR if the product is a commodity (then people always look for low price as value is same across producers) 
+     client base is limited, especially true for B2B suppliers 
+     B2B players deliver products in bulk hence customers expect discounts
+     companies doing business with govt doesn't have pricing power because they need to bid for orders at lesser prices
+     OR if a company in a highly competettive business (e-commerce, airlines) , then competetiors keep decreasing price to attract
+       customers and gain business
+     OR if the product is commoditised (then people always look for low price as the product is similar across producers) 
      OR low income household as customer base, with product price greater than 20% of their income (relaxo, amrutanjan)
 
   Note: if the company doesn't have Pricing power (like commodity producers, Govt entities, Govt controlled pricing 
@@ -186,7 +189,7 @@ Monopoly/Duopoly(monopoly might not create wealth everytime be careful with thes
     if a business is dull/not profitable then lot of competettion goes away => current company that survives or control expenses will 
       keep gaining market share and eventually turns profitable (keep an eye)
 
-/does it own consumers mind(will people remember this company when u talk about buying a specific product/service - i.e has it 
+/Does it own consumers mind(will people remember this company when u talk about buying a specific product/service - i.e has it 
    captured the mind share of the audience)
   //if yes, then why ? and what value does it add to customers compared to competetiors?
     good quality of product/service 
@@ -249,7 +252,8 @@ check last 10yrs CFO usage in Tijori
     /Increase distribution network
 4)Return to Shareholders:
     Dividends - most mature companies give out dividends as they don't find better oppurtunities to re-invest profits
-    Buyback - preferred, but company needs to Buyback share at low prices i.e during crash
+    Buyback - preferred, but company needs to Buyback share at low prices i.e during crash 
+        It is okay to take debt and buy, if the company can service debt
     Bonus issues
 5)Bad ways:
     finance losses
@@ -275,6 +279,7 @@ check Management_Check.txt
    Environmental: does the process/products cause any kind of pollution
    Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
    Governance: Superior Management and board of directors
+  -quality customer base
   -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
   -Repeat business - people need to keep buying it to survive/daily needs 
   -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
