@@ -142,3 +142,4 @@ https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1
 //build size optimisation
 https://medium.com/better-programming/stop-importing-whole-javascript-packages-39a5f3d4c8
 
+//OPTIMISING REACT RENDERING PERFORMANCE
