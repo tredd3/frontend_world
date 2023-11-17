@@ -1,16 +1,91 @@
------------------------- Core portfolio ------------------------------------ 
-Global growth oppurtunities 
-MOATs
-LOW RISK HIGH RETURN
-
 Business : 
+   1)Demand : 
+    i)customer base: 
+      huge (B2C+B2B) -  product/service used by almost every individual AND every business
+      large (B2C/B2B)- product/service used either by almost every individual OR every business but not both
+      medium (B2C/B2B) - product/service can be used only by few individuals AND few businesses
+      small (B2C/B2B/B2G) - product/service can be used either by few individuals OR few businesses but not both - If you invest in such a business,
+      it must be a Niche Area, low competetion, strong MOATS and Longevity - on top of everything great Valuation is must
+    ii)Amount of money spent by customer: 
+      /huge - premium/high value products (Apple, Tesla)
+      /large/medium - higher end of the value chain/frequency of use of product
+      /low - commodity/easily available/lower end of the value chain
+    iii)Demand 10yrs from now: 
+      will customer base increase ?
+      does the money spent by customer increase ? 
+      continous and growing demand/ continous and constant/slow growth demand/ continous and replacement demand ?
+   2)Supply : 
+    i)Market share Trend (current share): 
+    ii)Pricing power: 
+    /GPM Trend
+    /hardly any substitute
+    /No bargaining power of suppliers
+    /No bargaining power of customers (limited client base, commodity producer, highly competettive industry, low quality customer base)
+    iii)competettion :Domestic(organised)/Domestic(unorganised)/Global/new Entrants
+    iv)MOATS :
+    /Economises of Scale
+    /Low cost producer - making the product affordable, but product quality and profitability shouldn't be affected
+    /Brand - gains customer Trust due to good quality of product/service 
+             mostly accompained with /pricing power
+    /Network effect - service present across geographies
+    /Intangible assets
+    /Taste - capture mind share
+    /Entry barriers
+    /Switching costs
+    /Luxury/Premium Range
+    /Monopoly/Duopoly
+   3)Customer stickiness : Why will customers choose this company over competettion
+   - solves problem in a unique way
+   - delight the customers by Uniqueness of product or service
+
 Financials:  
-MOATS :
+/balance sheet : weak/ medium/ strong
+/trend of OPM & NPM - decreasing/constant/increasing
+/ROCE trend
+/Cash from operations : cyclical/growing/constant
+/SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
+
 Management/Promoter : 
-Vision :
-Strategy :
+/Vision :
+/Strategy :
+/Use of Capital - Growth/Efficiency/MOAT building/Return to Shareholders/Bad ways
+
 Strengths :
+  -Ideal business: Yes/No
+   always takes little amount of capital to operate and an excellent business always earns same high returns on incremental capital
+  -Superior economics (what does company produce, target audience and how does it produce): ESG Principles
+   Environmental: does the process/products cause any kind of pollution
+   Social: does the products/services add some value to customers or do they waste their time or money or destroy their health
+   Governance: Superior Management and board of directors
+  -quality customer base
+  -Predictable and consistent EARNINGS for next 10 yrs(sticky and recurring)
+  -Repeat business - people need to keep buying it to survive/daily needs 
+  -Platform/Infrastucture Business(Indiamart, IEX, Amazon, Delhivery) - (MOAT: Economies of scale, Switching cost, Distribution network)
+  -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
+    attracts customers and companies which compete on price will lose their business to competetiors
+  -product/service Uniqueness
+  -recession proof ? how did it perform in 2008 and 2020 crisis
+    Note : high debt or high capex companies can go bust during recession or high inflatory situations(if no pricing power)
+  -Scalable business model - globally preferred (mutibagger are made because of this property)
+  -proxy play on some industry ? 
+  -Lousy industriy Survivor: operating in boring/lousy industries where no one wants to enter or companies in that sector
+   facing heavy loses and low profitability or no growth, hence the Survivor
+  -niche/extreme niche - does something very specific which takes a lot of time to build (MOAT: entry barriers, switching cost)
+  -Having Tailwinds is an added advantage as it boosts the process of wealth creation and helps u in achieving goal faster
 Risks :
+    what happens if any of the risks play out? will it impact the business in a big way
+    can management do something to mitigate the risk?
+
+    ---Business Risk:
+
+    ---Financial Risk:
+
+    ---Management Risk:
+
+    ---Investment Returns Risk: volatility is not not risk it's an oppurtunity
+    losing capital (price correction)
+    not getting adequate returns is a risk (i.e oppurtunity cost due to time correction)
+    i.e i could have deployed capital in some other company or investment
 Valuation :
 
 1) high demand/incremental low supply
@@ -180,6 +255,11 @@ Valuation :
 
 Tarsons - Very good financials, Transition from Glassware to plasticware - giving scope for double digit volume
 Borosil Renewables - macroeconomic oppurtunity both in india and europe, but no pricing power as prices are decided globally
+  Lack of Product Diversification: The company derives 100% of its revenue from the sale of tempered solar glass
+  Domestic manufacturing of solar modules requires supply of solar glass - if solar module is imported then gone
+  GOI has been protecting the domestic manufacturers through anti-dumping duty any change in policy can impact the firm - Also China escaping CVD, ADD by shifting manufacturing base to Malaysia, Vietnam etc
+  China as the World’s largest PV glass producer accounts for over 95% of the total solar glass capacity.
+  Chinese manufacturers are aggressively raising their solar glass production capacities  causing demand supply mismatch which can result in surplus capacity for glass and depress prices and margins.
 Moldtek Packaging - CFO used in capex, 25% constant ROCE on incremental capital, globally competettive - No, Credit Rating :  A+
  strong clients and oppurtunity for market share gain
 Galaxy surfactants - CFO used in capex, divdends | 25% constant ROCE on incremental capital, Credit Rating : AA-, Proxy play on 
