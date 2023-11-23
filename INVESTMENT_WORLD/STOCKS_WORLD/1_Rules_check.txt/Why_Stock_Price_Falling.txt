@@ -9,6 +9,7 @@ https://www.tijorifinance.com/company/pi-industries-limited/#trend-shareholding
 https://www.screener.in/company/PIIND/consolidated/#shareholding
 https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543384/disclosures-insider-trading-2015/
 2)why are they selling?
+  //Check RISKS section. Did any of the risk played out ?
   //Internal factors: temporary problem(can be a buy oppurtunity):
     weak quarterly financial,
     weak guidance in the short term,
@@ -21,7 +22,7 @@ https://www.bseindia.com/stock-share-price/fsn-e-commerce-ventures-ltd/nykaa/543
      MOAT break,
      continous market share loss due to increased competettion
      regulatory changes
-  //External factors: 
+  //External factors: mostly a buying oppurtunity, provided the earnings keep growing or have less impact
      year end tax selling(nov - dec in US, feb - march in India)
      high valuation stocks correct in bear markets - bcoz earnings will become slow
      macroeconomy concerns -  govt intervention, demand slow down, inflation, high interest rates

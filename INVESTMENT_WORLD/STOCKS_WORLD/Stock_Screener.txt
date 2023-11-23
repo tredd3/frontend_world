@@ -6,15 +6,10 @@ https://trendlyne.com/portfolio/superstar-shareholders/index/ (largets holdings 
   low valuation know why is it so (refer: check Why_Stock_Price_Falling.txt)
 
 
-//Resources
-1)screener about and summary sections
-2)tijori overview page
-3)crisil report and ratings scroll to the end of the page(about company, subsidaries, rating history)
-4)ticker tape news section
-
 //Deep Analysis
 Must: open RHP for complete information and risks (if a company is recently listed then this is must)
-https://www.sebi.gov.in/filings.html
+https://www.sebi.gov.in/filings.html - screener alerts on company filings
+NEWS about the company and competetion
 1)wikipedia (check legal section as well)
 2)company website - most important for updated info 
 search about the company or its poducts/services quality in google - you will get customers opinion and any recent developments 
@@ -30,27 +25,41 @@ https://trendlyne.com/research-reports/stock/994/PAGEIND/page-industries-ltd/
 //General check:
   STOCK PRICE RELATED:
     Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-    Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
+    Abnormal falling: check Why_Stock_Price_Falling.txt
+    who is selling - check shareholding pattern
+    google search why a company share is falling : 
+    //Internal factors: temporary problem(can be a buy oppurtunity)
+    //Internal factors: permanent problem (can be a value trap):
+    //External factors: mostly a buying oppurtunity, provided the earnings keep growing or have less impact
     Abnormal increase: EPS, PE, manipulation(FII/DII buying at random prices taking share prices up and lock  retail folks at 
       higher prices OR buying via shell companies inflating the share price naturally like Adani once did)
-    any recent insider buying (bse india > disclosures > insider trading) OR Value Research(ownership section) for US stocks
+    any recent insider buying (bse india > disclosures > insider trading) OR Screener(Shareholding pattern Trades)
+    Value Research(ownership section) for US stocks
     (Especially if normal employees are buying apart form promoters/top management then its a positive sign as they know better
       than any broker/analyst/investor)
     any bulk or block deals (to discover price?)
     are minority share holders treated fairly - check corporate actions (ESOPS/Bonus/Dividends/Buyback)
 
   ABOUT THE COMPANY:
+    //Resources
+    1)screener about and summary sections
+    2)tijori overview page
+    3)crisil report and ratings scroll to the end of the page(about company, subsidiaries, rating history)
+    CRISIL Rating: 
     Nature of business: business services/consumer goods/consumer services/B2B goods
     What does it do: (what is the actual business): 
     How does it do :
-    Subsidaries/JVs:
     Target Audience :
+    Subsidaries/JVs:
     Globally competetive company: NO 
     Presence : offices in India /US etc
     REVENUE by GEOGRAPHY: India 100%, US 53%, EMEA 27%, APAC 15%(44% Japan), others 5%
     Revenue by Product: 
     Revenue by Customers: B2B(), B2C() , Govt
     Clients(Important ones):
+    Market share :
+    Sector Growth rate :
+
 
   PROMOTER , VISION, STRATEGY:
     why did the promoters start the business: to capture the huge oppurtunity in some industry/sector OR passion
@@ -223,8 +232,11 @@ check last 10yrs CFO usage in Tijori
 //SOURCE OF CAPITAL - Debt/Retained Earnings/New Equity
 //Use of Capital:
 1)Growth
+    /focus on higher margin products
     /Global expansion/ exports - Launch products in new markets
-    /capex - brownfield or greenfield
+    /capex(capacity expansion) - brownfield or greenfield
+    /capacity utilisation improvement
+    /upgrading to latest machines - can improve asset turnover and hence operating leverage kicks in 
     /R&D spend - Product premiumisation / Launch New products
     /Acquistion and synergy led growth(Acquistion for strategic purpose(augumenting existing business like acquiring firm that supplies
     key raw materials, firm that has excellent technology and skilled manpower, firm that has reputation globally and is present in 

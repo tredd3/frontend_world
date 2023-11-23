@@ -12,6 +12,11 @@
 GOLDEN RULES: 
   Never buy a business that you don't understand
   Never buy a business that changes too often that you can't predict it for the next 10 years
+/avoid investing in highly regulated sectors (no pricing power, no control on the business)
+/avoid sectors linked significantly to commodity prices (sales are cyclical but expenses always increase YOY)
+/avoid sectors exposed to frequent/rapid technological disruption(lot of money needs to be spent on R&D to counter the innovation, and 
+ competetion can come from any part of the world and at anytime) e.g: KPIT
+/avoid investing in highly competettive sectors (no pricing power)
 
 /CONTINOUSLY needs to add and upgrade capex to stay in business like infra comapnies (telecom, energy, airlines, utilities)
   why not to buy? - every year the additional capital we pump in the business goes for maintenance and upgradation(i.e for sustainence)
