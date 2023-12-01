@@ -1,0 +1,14 @@
+{
+  "short_name": "JioMart",
+  "name": "JioMart",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "static/jiomart/index.html",
+  "display": "standalone",
+  "theme_color": "#004d9c",
+  "background_color": "#004d9c"
+}

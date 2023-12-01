@@ -1,0 +1,583 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 1`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479738285,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 2`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 3`] = `
+Array [
+  1577479738285,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 4`] = `"/collections/1577479738285?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 5`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479742491,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 6`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 7`] = `
+Array [
+  1577479742491,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 8`] = `"/collections/1577479742491?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 9`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749430,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 10`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 11`] = `
+Array [
+  1577479749430,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 12`] = `"/collections/1577479749430?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 13`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749431,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 14`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 15`] = `
+Array [
+  1577479749431,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 16`] = `"/collections/1577479749431?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 17`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749432,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 18`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 19`] = `
+Array [
+  1577479749432,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 20`] = `"/collections/1577479749432?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 21`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749433,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 22`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 23`] = `
+Array [
+  1577479749433,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 24`] = `"/collections/1577479749433?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 25`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749434,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 26`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 27`] = `
+Array [
+  1577479749434,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = false 28`] = `"/collections/1577479749434?type=3&subtype=1"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 1`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479738285,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 2`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 3`] = `
+Array [
+  1577479738285,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 4`] = `"/"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 5`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479742491,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 6`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 7`] = `
+Array [
+  1577479742491,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 8`] = `"/"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 9`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749430,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 10`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 11`] = `
+Array [
+  1577479749430,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 12`] = `"/"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 13`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749431,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 14`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 15`] = `
+Array [
+  1577479749431,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 16`] = `"/"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 17`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749432,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 18`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 19`] = `
+Array [
+  1577479749432,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 20`] = `"/"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 21`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749433,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 22`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 23`] = `
+Array [
+  1577479749433,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 24`] = `"/"`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 25`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577479749434,
+      "widgetSubType": 1,
+      "widgetType": 3,
+    },
+  },
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 26`] = `
+Array [
+  "Hero Banner",
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 27`] = `
+Array [
+  1577479749434,
+  3,
+  1,
+]
+`;
+
+exports[`Pager widget tests should handle click action correctly if AppInterface isDefined = true 28`] = `"/"`;
+
+exports[`Pager widget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.emotion-2:hover,
+.emotion-2:focus,
+.emotion-2:visited,
+.emotion-2:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.emotion-1 {
+  background-color: transparent;
+  margin: 16px 0;
+}
+
+.emotion-0 {
+  border-radius: 3px;
+}
+
+<div>
+    <div>
+      Carousel placeholder
+    </div>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-0"
+      href="/collections/1577479738285?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/A5NVC3OSTnBKHVGOj9KTRf6bcEYc+pGlNUZRXJgIFgY.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-1"
+      href="/collections/1577479742491?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/qckhQ2r5jQVdce7soFIrKZBRwEvuB5ZGw4qfAc7s8s.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-2"
+      href="/collections/1577479749430?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/0ww2kzGj3XegYcZ0w4WSBawbjjiwMspMg8owOIGNQNg.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-3"
+      href="/collections/1577479749431?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/Q+enZvTtMcqR1+7Kmx7xcsp63PoAwHQgZHKgbXR3M.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-4"
+      href="/collections/1577479749432?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/5HWANOwUueIKL97UiEDvUcYkmbppMnMGXdR6p5u9L3Q.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-5"
+      href="/collections/1577479749433?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/9+S0tjsbRQoaovmXpefEwuvGW+P5iriTsIfEreJKK0Q.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+    <a
+      class="emotion-2"
+      data-testid="banner-link-6"
+      href="/collections/1577479749434?type=3&subtype=1"
+    >
+      <div
+        class="emotion-1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; height: 170px;"
+        >
+          <img
+            class="emotion-0"
+            height="170"
+            src="https://jiomerchant.akamaized.net/static/delivery_associate/pUQ9We+sNaCZogu84dM8roQzbPeLEVk1Hjoca9obDvM.png?impolicy=resizeforheight&h=170"
+          />
+        </span>
+      </div>
+    </a>
+  </div>
+</DocumentFragment>
+`;

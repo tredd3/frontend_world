@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 1`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793021,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 2`] = `
+Array [
+  1577483793021,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 3`] = `"/collections/1577483793021?type=4&subtype=10"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 4`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793023,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 5`] = `
+Array [
+  1577483793023,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 6`] = `"/collections/1577483793023?type=4&subtype=10"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 7`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793024,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 8`] = `
+Array [
+  1577483793024,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 9`] = `"/collections/1577483793024?type=4&subtype=10"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 10`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793025,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 11`] = `
+Array [
+  1577483793025,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 12`] = `"/collections/1577483793025?type=4&subtype=10"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 13`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793026,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 14`] = `
+Array [
+  1577483793026,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 15`] = `"/collections/1577483793026?type=4&subtype=10"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 16`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793027,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 17`] = `
+Array [
+  1577483793027,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = false 18`] = `"/collections/1577483793027?type=4&subtype=10"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 1`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793021,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 2`] = `
+Array [
+  1577483793021,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 3`] = `"/"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 4`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793023,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 5`] = `
+Array [
+  1577483793023,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 6`] = `"/"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 7`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793024,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 8`] = `
+Array [
+  1577483793024,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 9`] = `"/"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 10`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793025,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 11`] = `
+Array [
+  1577483793025,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 12`] = `"/"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 13`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793026,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 14`] = `
+Array [
+  1577483793026,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 15`] = `"/"`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 16`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1577483793027,
+      "widgetSubType": 10,
+      "widgetType": 4,
+    },
+  },
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 17`] = `
+Array [
+  1577483793027,
+  4,
+  10,
+]
+`;
+
+exports[`ThinCarouselBannerWidget widget tests should handle click action correctly if AppInterface isDefined = true 18`] = `"/"`;
+
+exports[`ThinCarouselBannerWidget widget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  min-width: 80%;
+  padding: 16px;
+}
+
+.emotion-0:hover,
+.emotion-0:focus,
+.emotion-0:visited,
+.emotion-0:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+<div>
+    <div>
+      HorizontalSlider Placeholder
+    </div>
+    <a
+      class="emotion-0"
+      data-testid="banner-link-0"
+      href="/collections/1577483793021?type=4&subtype=10"
+    >
+      <span
+        class=" lazy-load-image-background "
+        style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 344px;"
+      >
+        <img
+          src="https://jiomerchant.akamaized.net/static/delivery_associate/4LUuYtc+R8sDvBF04isMAzrRM9L9isbr7qWdJbxEg.png?impolicy=resizeforwidth&w=344"
+          width="344"
+        />
+      </span>
+    </a>
+    <a
+      class="emotion-0"
+      data-testid="banner-link-1"
+      href="/collections/1577483793023?type=4&subtype=10"
+    >
+      <span
+        class=" lazy-load-image-background "
+        style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 344px;"
+      >
+        <img
+          src="https://jiomerchant.akamaized.net/static/delivery_associate/D5z97AOS5MYd9QzcBCzaN++cKUZdBmv8conr0gbr2Q.png?impolicy=resizeforwidth&w=344"
+          width="344"
+        />
+      </span>
+    </a>
+    <a
+      class="emotion-0"
+      data-testid="banner-link-2"
+      href="/collections/1577483793024?type=4&subtype=10"
+    >
+      <span
+        class=" lazy-load-image-background "
+        style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 344px;"
+      >
+        <img
+          src="https://jiomerchant.akamaized.net/static/delivery_associate/sONdlXHr0+gSxozBLUIuutcZAxS1NR5d6lTt5hwYvhE.png?impolicy=resizeforwidth&w=344"
+          width="344"
+        />
+      </span>
+    </a>
+    <a
+      class="emotion-0"
+      data-testid="banner-link-3"
+      href="/collections/1577483793025?type=4&subtype=10"
+    >
+      <span
+        class=" lazy-load-image-background "
+        style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 344px;"
+      >
+        <img
+          src="https://jiomerchant.akamaized.net/static/delivery_associate/kiM1i1K+16QViH8hZG16pPvsExHkW8WBoayarnHrs.png?impolicy=resizeforwidth&w=344"
+          width="344"
+        />
+      </span>
+    </a>
+    <a
+      class="emotion-0"
+      data-testid="banner-link-4"
+      href="/collections/1577483793026?type=4&subtype=10"
+    >
+      <span
+        class=" lazy-load-image-background "
+        style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 344px;"
+      >
+        <img
+          src="https://jiomerchant.akamaized.net/static/delivery_associate/X8MRlts+uXE9pwkAeJskZAVIj3552D8NycTlcMmZ4Y.png?impolicy=resizeforwidth&w=344"
+          width="344"
+        />
+      </span>
+    </a>
+    <a
+      class="emotion-0"
+      data-testid="banner-link-5"
+      href="/collections/1577483793027?type=4&subtype=10"
+    >
+      <span
+        class=" lazy-load-image-background "
+        style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 344px;"
+      >
+        <img
+          src="https://jiomerchant.akamaized.net/static/delivery_associate/i3rw+h94+DnPOSyBGsHPTc8Q7XBxfrk+ut+48wcUj3A.png?impolicy=resizeforwidth&w=344"
+          width="344"
+        />
+      </span>
+    </a>
+  </div>
+</DocumentFragment>
+`;

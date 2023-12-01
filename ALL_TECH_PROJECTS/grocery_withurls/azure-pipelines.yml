@@ -1,0 +1,122 @@
+# Node.js with React
+# Build a Node.js project that uses React.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+  - master
+
+pool:
+  name: "E-Commerce"
+
+steps:
+  - task: Bash@3
+    inputs:
+      targetType: inline
+      script: export http_proxy=http://prodproxy.jio.com:8080
+        export https_proxy=http://prodproxy.jio.com:8080
+
+  # - task: Npm@1
+  #   inputs:
+  #     command: 'install'
+
+  - script: npm config rm proxy
+    displayName: "rm proxy"
+
+  - script: npm config rm https-proxy
+    displayName: "rm https-proxy"
+
+  - script: npm config rm registry
+    displayName: "rm registry"
+
+  - script: npm config list
+    displayName: "Check npm config"
+
+  - script: npm install
+    displayName: "Install dependencies"
+
+  - script: npm run lint
+    displayName: "Lint"
+
+  - script: npm run test:ci
+    displayName: "Run unit tests"
+
+  # sit build stuff start
+
+  - script: npm run build:sit
+    displayName: "Build application SIT"
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(Build.SourcesDirectory)/build"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+      replaceExistingArchive: true
+    displayName: "Create build sit artifact"
+
+  - task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+      ArtifactName: "sit-build"
+      publishLocation: "Container"
+    displayName: "Publish build Sit artifact to pipeline"
+
+  # sit build stuff ends
+
+  # pre-prod build stuff start
+
+  - script: npm run build:pre-prod
+    displayName: "Build application Pre-Prod"
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(Build.SourcesDirectory)/build"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+      replaceExistingArchive: true
+    displayName: "Create build pre-prod artifact"
+
+  - task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+      ArtifactName: "preprod-build"
+      publishLocation: "Container"
+    displayName: "Publish build Pre-Prod artifact to pipeline"
+
+  # pre-prod build stuff end
+
+  # prod build stuff start
+  - script: npm run build:production
+    displayName: "Build application Production"
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "$(Build.SourcesDirectory)/build"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+      replaceExistingArchive: true
+    displayName: "Create build prod artifact"
+
+  - task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: "$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip"
+      ArtifactName: "production-build"
+      publishLocation: "Container"
+    displayName: "Publish build Production artifact to pipeline"
+
+  # prod build stuff end
+
+  - task: PublishTestResults@2
+    condition: succeededOrFailed()
+    inputs:
+      testRunner: JUnit
+      testResultsFiles: "**/junit.xml"
+
+  - task: PublishCodeCoverageResults@1
+    inputs:
+      codeCoverageTool: Cobertura
+      summaryFileLocation: "$(System.DefaultWorkingDirectory)/coverage/*coverage.xml"
+      reportDirectory: "$(System.DefaultWorkingDirectory)/coverage"

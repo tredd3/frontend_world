@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 1`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618013,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 2`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618014,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 3`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618015,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 4`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618017,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 5`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618018,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 6`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618019,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 7`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618020,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 8`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618021,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should handle click action correctly for banner links if App interface is not defined 9`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1588242618022,
+      "widgetName": "9x with banner",
+      "widgetSubType": 47,
+      "widgetType": 16,
+    },
+  },
+]
+`;
+
+exports[`W9xWithBannerWidget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-20 {
+  padding: 12px 16px;
+  border-top: 5px solid #F2F2F2;
+}
+
+.emotion-0 {
+  font-size: 16px;
+}
+
+.emotion-19 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 15px;
+  grid-gap: 15px 8px;
+  background-color: #F2F2F2;
+}
+
+.emotion-2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+}
+
+.emotion-2:hover,
+.emotion-2:focus,
+.emotion-2:visited,
+.emotion-2:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.emotion-1 {
+  border-radius: 3px;
+}
+
+<section
+    class="emotion-20"
+  >
+    <div
+      class="emotion-0"
+    >
+      9x with banner
+    </div>
+    <div
+      class="emotion-19"
+    >
+      <a
+        class="emotion-2"
+        data-testid="banner-link-0"
+        href="/collections/1588242618013?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/4MOVek3fRL2Vr619huE8aWFzNgD6CMjXmdo6hm0s.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-1"
+        href="/collections/1588242618014?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/TAcQbnFsirs17sQqRAWL9nYGisDKeOJ0pSN7jPN7X0.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-2"
+        href="/collections/1588242618015?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/AoXUridoAzDGNltd+GZO24alPgKaPeQLCpdKOpOzHJQ.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-3"
+        href="/collections/1588242618017?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/qVVIaumxAzfzzfwyyHznWEpN6+XWHUQcSkGojEGT8+g.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-4"
+        href="/collections/1588242618018?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/HDyHG8Y4PkuDh5vJ4rxU5IGS8elNSxnX4DfRXn0EtJw.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-5"
+        href="/collections/1588242618019?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/AaCewnhMz1drbSag+Df3Sj4DSLCMWj7T6o2RJXOJRe4.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-6"
+        href="/collections/1588242618020?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/6GkVFwmFkqvaZVJ2lGtEsYwtxbvdBiGdUp7YxJ7B5I.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-7"
+        href="/collections/1588242618021?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/S79nuxbHHj1jgikcR6f0VKFG5ZVeunnECvn5tJ9le8o.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-8"
+        href="/collections/1588242618022?type=16&subtype=47"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 100px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/Roo12TJSY8JBCQKy7XmbocS1FXEJcla98RIoBzhnmU0.png?impolicy=resizeforwidth&w=100"
+              width="100"
+            />
+          </span>
+        </div>
+      </a>
+    </div>
+  </section>
+</DocumentFragment>
+`;

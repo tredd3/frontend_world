@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error component should override props correctly 1`] = `
+<DocumentFragment>
+  .emotion-2 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-align: center;
+  padding: 60px 30px;
+}
+
+.emotion-0 {
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  margin: 12px 0;
+}
+
+.emotion-1 {
+  width: 60%;
+  display: inline-block;
+}
+
+<div
+    class="emotion-2"
+  >
+    <svg>
+      noorder.svg
+    </svg>
+    <div
+      class="emotion-0"
+    >
+      My custom error
+    </div>
+    <div
+      class="emotion-1"
+    >
+      <div
+        class="Component-button-11 Component-solidTulip-14 solidTulip Component-enable-16"
+      >
+        <button
+          type="button"
+        >
+          Dummy CTA Text
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Error component should render correctly 1`] = `
+<DocumentFragment>
+  .emotion-1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-align: center;
+  padding: 60px 30px;
+}
+
+.emotion-0 {
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  margin: 12px 0;
+}
+
+<div
+    class="emotion-1"
+  >
+    <svg>
+      noorder.svg
+    </svg>
+    <div
+      class="emotion-0"
+    >
+      Something went wrong
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Error component should render correctly when cta is enabled 1`] = `
+<DocumentFragment>
+  .emotion-2 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-align: center;
+  padding: 60px 30px;
+}
+
+.emotion-0 {
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  margin: 12px 0;
+}
+
+.emotion-1 {
+  width: 60%;
+  display: inline-block;
+}
+
+<div
+    class="emotion-2"
+  >
+    <svg>
+      noorder.svg
+    </svg>
+    <div
+      class="emotion-0"
+    >
+      Something went wrong
+    </div>
+    <div
+      class="emotion-1"
+    >
+      <div
+        class="Component-button-3 Component-solidTulip-6 solidTulip Component-enable-8"
+      >
+        <button
+          type="button"
+        >
+          Try again
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`W4xWidget widget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-9 {
+  padding: 10px;
+  border-bottom: 5px solid #F2F2F2;
+}
+
+.emotion-8 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10px;
+  grid-gap: 1px 1px;
+  background-color: #F2F2F2;
+}
+
+.emotion-1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+  background-color: #fff;
+  padding: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-1:hover,
+.emotion-1:focus,
+.emotion-1:visited,
+.emotion-1:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.emotion-0 {
+  font-size: 13px;
+}
+
+<section
+    class="emotion-9"
+  >
+    <div
+      class="emotion-8"
+    >
+      <a
+        class="emotion-1"
+        data-testid="banner-link-0"
+        href="/categories/10003400"
+      >
+        <div
+          class="imageContainer"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://preprod-static.jiomoney.com/static//delivery_associate/DELASSO1568198485851000001.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-0"
+        >
+          Mom & Baby
+        </div>
+      </a>
+      <a
+        class="emotion-1"
+        data-testid="banner-link-1"
+        href="/categories/10003388"
+      >
+        <div
+          class="imageContainer"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://preprod-static.jiomoney.com/static//delivery_associate/DELASSO1568198494531000001.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-0"
+        >
+          Beauty & Hygiene
+        </div>
+      </a>
+      <a
+        class="emotion-1"
+        data-testid="banner-link-2"
+        href="/categories/10003627"
+      >
+        <div
+          class="imageContainer"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://preprod-static.jiomoney.com/static//delivery_associate/DELASSO1568198499921000001.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-0"
+        >
+          Foodgrains, Oils And Masala
+        </div>
+      </a>
+      <a
+        class="emotion-1"
+        data-testid="banner-link-3"
+        href="/categories/10003397"
+      >
+        <div
+          class="imageContainer"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://preprod-static.jiomoney.com/static//delivery_associate/DELASSO1568198503111000001.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-0"
+        >
+          Health Drinks & Beverages
+        </div>
+      </a>
+    </div>
+  </section>
+</DocumentFragment>
+`;

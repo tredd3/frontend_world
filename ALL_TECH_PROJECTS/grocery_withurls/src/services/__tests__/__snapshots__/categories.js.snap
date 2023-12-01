@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Categories should return a properly formatted category 1`] = `
+Object {
+  "CategoryId": 123,
+  "Level": 2,
+  "PageNo": 0,
+  "StoreId": 0,
+}
+`;
+
+exports[`Categories should return a properly formatted category 2`] = `
+Array [
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001761_HealthDrinks-Beverages_1574752168.png",
+    "id": 10001761,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001761_HealthDrinks-Beverages_1574752168.png",
+    "name": "Health Drinks & Beverages",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001760_Beauty-Hygiene_1574752325.png",
+    "id": 10001760,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001760_Beauty-Hygiene_1574752325.png",
+    "name": "Beauty & Hygiene",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001766_SnacksAndConfectionery_1574752204.png",
+    "id": 10001766,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001766_SnacksAndConfectionery_1574752204.png",
+    "name": "Snacks And Confectionery",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001765_InstantandReadyFoods_1574752143.png",
+    "id": 10001765,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001765_InstantandReadyFoods_1574752143.png",
+    "name": "Instant and Ready Foods",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001767_Dairy-Bakery-Egg_1574752358.png",
+    "id": 10001767,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001767_Dairy-Bakery-Egg_1574752358.png",
+    "name": "Dairy, Bakery & Egg",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001762_Cleaning-HouseholdCare_1574752104.png",
+    "id": 10001762,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001762_Cleaning-HouseholdCare_1574752104.png",
+    "name": "Cleaning & Household Care",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001763_Foodgrains-OilsAndMasala_1574752241.png",
+    "id": 10001763,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001763_Foodgrains-OilsAndMasala_1574752241.png",
+    "name": "Foodgrains, Oils And Masala",
+  },
+  Object {
+    "icon": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001764_Mom-Baby_1574752056.png",
+    "id": 10001764,
+    "image": "https://jiomerchant.akamaized.net/static/category/CustomerOrdImage/10001764_Mom-Baby_1574752056.png",
+    "name": "Mom & Baby",
+  },
+]
+`;

@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HorizontalProductsWidget tests should handle click action for view all link 1`] = `
+Array [
+  "Deals",
+]
+`;
+
+exports[`HorizontalProductsWidget tests should handle click action for view all link 2`] = `
+Array [
+  "See All",
+  "Todays Deals",
+  "Middle",
+]
+`;
+
+exports[`HorizontalProductsWidget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-3 {
+  padding: 14px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.emotion-0 {
+  color: #000;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.emotion-1 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  color: #0066C0;
+  font-size: 14px;
+}
+
+.emotion-1:hover,
+.emotion-1:focus,
+.emotion-1:visited,
+.emotion-1:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+<section
+    class="emotion-3"
+  >
+    <div
+      class="emotion-2"
+    >
+      <span
+        class="emotion-0"
+      >
+        Hot Deals
+      </span>
+      <a
+        class="emotion-1"
+        href="/collections/-1?type=7&subtype=6"
+      >
+        View All
+      </a>
+    </div>
+    <div>
+      <div>
+        HorizontalProductsList placeholder
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

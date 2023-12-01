@@ -1,0 +1,25 @@
+  .image-gallery-slide-wrapper button {
+      display: none;
+  }
+
+  .image-gallery-thumbnails-wrapper {
+      position: fixed;
+      bottom: 0;
+      width: 100%
+  }
+
+  .image-gallery-image {
+      height: 350px;
+  }
+
+  .image-gallery-image img {
+      height: 100%;
+  }
+
+  .image-gallery {
+      margin-top: 30%
+  }
+
+  .image-gallery-thumbnails-wrapper {
+      margin-bottom: 15px
+  }

@@ -1,0 +1,188 @@
+<html>
+<div>
+  <a href="http://10.50.110.255:3001/">URL for SIT/PP otp</a>
+  <div>
+    <span>
+      Endpoint :
+      <select id="environment" name="environment" onChange="setEnv()">
+        <option value="pp">pp</option>
+        <option value="sit">sit</option>
+        <option value="prod">prod</option>
+        <!-- <option value="sit">sit</option> -->
+      </select>
+    </span>
+  </div>
+
+</div>
+<div>
+  <span>
+    Mobile Number : <input type="text" id="mobile" value="">
+  </span>
+  <span>
+    <input type="submit" value="send" onclick="submitMobile()">
+  </span>
+</div>
+<div>
+  <span>
+    OTP : <input type="text" id="otp">
+  </span>
+  <span>
+    <input type="submit" value="send" onclick="submitOtp()">
+  </span>
+</div>
+<div>
+  <span id="accessToken"></span>
+</div>
+<script>
+  var environment = "pp";
+  var env = {
+    pp: {
+      submitMobileURL: "https://api.jiolabs.com/idam/trialwifi/v3/dip/otp/send",
+      verifyURL: "https://api.jiolabs.com/idam/trialwifi/v3/dip/otp/verify",
+      validateUserURL: "https://api-preprod.rpay.co.in/cr/v1/validateuser",
+      api_key: "l7xxeedfb8ff73364bb8a623c255e1a63299",
+      validateUserApiKey: "l7xxd301d443a2294a7ea03b0aac0f77505d",
+      authorization: "bDd4eGQzMDFkNDQzYTIyOTRhN2VhMDNiMGFhYzBmNzc1MDVkOmFhNzM2MzkyNjkwMjRkNDViMGUxODBiNjQwYTg3ZWJj"
+    },
+    prod: {
+      submitMobileURL: "https://api.jio.com/idam/trialwifi/v3/dip/otp/send",
+      verifyURL: "https://api.jio.com/idam/trialwifi/v3/dip/otp/verify",
+      validateUserURL: "https://api.jiomoney.com/cr/v1/validateuser",
+      api_key: "l7xx49670df3e8084afcbcb5ca632c20133c",
+      validateUserApiKey: "l7xxd82dd824f0d14fbfb4616cd49205d5de",
+      authorization: "bDd4eGQ4MmRkODI0ZjBkMTRmYmZiNDYxNmNkNDkyMDVkNWRlOmNlOGYwOGJjN2FkNjQ5M2JiZTk4NzQ5NDkwOTYyZTll"
+    },
+    sit: {
+      submitMobileURL: "https://api-sit.jio.com/idam/trialwifi/v3/dip/otp/send",
+      verifyURL: "https://api-sit.jio.com/idam/trialwifi/v3/dip/otp/verify",
+      validateUserURL: "https://api-sit.jio.com/cr/v1/validateuser",
+      api_key: "l7xx9652ebac277544b0bdbf829fe0557a1d",
+      validateUserApiKey: "l7xx9652ebac277544b0bdbf829fe0557a1d",
+      authorization: "bDd4eDk2NTJlYmFjMjc3NTQ0YjBiZGJmODI5ZmUwNTU3YTFkOjkxNWZmYjBkMjg3OTRkNGE4N2YyNjg0YTZjMDBkMzll"
+    }
+  }
+
+  function setEnv() {
+    environment = document.getElementById('environment').value;
+  }
+
+  function submitMobile() {
+    var mobile = document.getElementById('mobile').value;
+    if (mobile) {
+      var data = JSON.stringify({
+        "identifiers": [
+          mobile
+        ]
+      });
+
+      var xhr = new XMLHttpRequest();
+      xhr.withCredentials = true;
+
+      xhr.addEventListener("readystatechange", function () {
+        if (this.readyState === 4) {
+          console.log(this.responseText);
+        }
+      });
+
+
+      xhr.open("POST", env[environment].submitMobileURL);
+      //https://api.jiolabs.com/idam/trialwifi/v3/dip/otp/send
+      xhr.setRequestHeader("Accept", "application/json");
+      xhr.setRequestHeader("x-api-key", env[environment].api_key);
+      // xhr.setRequestHeader("x-api-key", "blaj");
+      xhr.setRequestHeader("app-name", "RJIL_JioKart");
+      xhr.setRequestHeader("Content-Type", "application/json");
+      xhr.setRequestHeader("Connection", "Keep-Alive");
+      xhr.setRequestHeader("Accept-Encoding", "gzip");
+      xhr.setRequestHeader("User-Agent", "okhttp/3.12.0");
+      xhr.setRequestHeader("cache-control", "no-cache");
+      // xhr.setRequestHeader("Postman-Token", "72449797-6b8a-423e-b490-6389966a0af3");
+
+      xhr.send(data);
+    }
+    else {
+      alert("Please Enter Mobile Number!!");
+    }
+  }
+  function submitOtp() {
+    var otp = document.getElementById('otp').value;
+    if (otp) {
+      var data = JSON.stringify({
+        "identifier": document.getElementById("mobile").value,
+        "otp": otp,
+        "shallBecomeIdentifierIfNotTaken": "F"
+      });
+
+      var xhr = new XMLHttpRequest();
+      xhr.withCredentials = true;
+
+      xhr.addEventListener("readystatechange", function () {
+        if (this.readyState === 4) {
+          if (this.status === 200) {
+            validateUser(JSON.parse(this.response).ssoToken);
+          }
+          else {
+            alert('Error in OTP');
+          }
+          console.log(this.responseText);
+        }
+      });
+
+      xhr.open("POST", env[environment].verifyURL);
+      //https://api.jiolabs.com/idam/trialwifi/v3/dip/otp/verify
+      xhr.setRequestHeader("Accept", "application/json");
+      xhr.setRequestHeader("x-api-key", env[environment].api_key);
+      xhr.setRequestHeader("app-name", "RJIL_JioKart");
+      xhr.setRequestHeader("Content-Type", "application/json");
+      xhr.setRequestHeader("Connection", "Keep-Alive");
+      xhr.setRequestHeader("Accept-Encoding", "gzip");
+      xhr.setRequestHeader("User-Agent", "okhttp/3.12.0");
+      xhr.setRequestHeader("cache-control", "no-cache");
+      // xhr.setRequestHeader("Postman-Token", "3120dbc8-7c7e-48bb-b275-0fd39abc9f17");
+
+      xhr.send(data);
+    }
+    else {
+      alert("Please Enter OTP!!");
+    }
+  }
+  function validateUser(sso) {
+    if (sso) {
+      var data = null;
+
+      var xhr = new XMLHttpRequest();
+      xhr.withCredentials = true;
+
+      xhr.addEventListener("readystatechange", function () {
+        if (this.readyState === 4) {
+          if (this.status === 200) {
+            document.getElementById("accessToken").innerHTML = JSON.parse(this.response).access_tokens;
+          }
+          else {
+            alert('Error in Validate user!!');
+          }
+          console.log(this.responseText);
+        }
+      });
+
+      xhr.open("POST", env[environment].validateUserURL);
+      xhr.setRequestHeader("Accept", "application/json");
+      xhr.setRequestHeader("x-api-key", env[environment].validateUserApiKey);
+      xhr.setRequestHeader("Authorization", "Basic " + env[environment].authorization);
+      xhr.setRequestHeader("app-name", "RJIL_JioKart");
+      xhr.setRequestHeader("sso-token", sso);
+      xhr.setRequestHeader("Content-Type", "application/json");
+      xhr.setRequestHeader("Content-Length", "0");
+      xhr.setRequestHeader("Connection", "Keep-Alive");
+      xhr.setRequestHeader("Accept-Encoding", "gzip");
+      xhr.setRequestHeader("User-Agent", "okhttp/3.12.0");
+      xhr.setRequestHeader("cache-control", "no-cache");
+      xhr.send(data);
+    }
+    else {
+      alert("Error!!")
+    }
+  }
+</script>
+
+</html>

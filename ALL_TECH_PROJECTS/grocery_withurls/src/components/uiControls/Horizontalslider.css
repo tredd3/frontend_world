@@ -1,0 +1,11 @@
+.slider {
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-wrap: nowrap;
+}
+.slider::-webkit-scrollbar {
+    display: none;
+}

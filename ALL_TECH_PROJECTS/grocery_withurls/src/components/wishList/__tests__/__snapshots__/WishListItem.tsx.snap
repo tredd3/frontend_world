@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WishListItem component unit tests should render the component correctly 1`] = `
+<DocumentFragment>
+  .emotion-9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 12px 0;
+}
+
+.emotion-0 {
+  background-image: url(https://api.reliancesmart.in//images/?name=images/hbf/h68/9006373404702.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 20%;
+  margin-right: 20px;
+}
+
+.emotion-8 {
+  width: 80%;
+}
+
+.emotion-1 {
+  width: 90%;
+  font-size: 13px;
+}
+
+.emotion-7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.emotion-6 {
+  width: 65%;
+  padding-top: 12px;
+}
+
+.emotion-5 {
+  font-size: 10px;
+  margin-bottom: 6px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-2 {
+  color: #A82205;
+  margin-right: 5px;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: 530;
+}
+
+.emotion-3 {
+  color: #999;
+  margin-right: 5px;
+  -webkit-text-decoration: line-through;
+  text-decoration: line-through;
+  font-size: 12px;
+  font-family: inherit;
+}
+
+.emotion-4 {
+  color: #616267;
+  margin-right: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 10px;
+  font-family: inherit;
+}
+
+<div
+    class="emotion-9"
+  >
+    <div
+      class="emotion-0"
+    />
+    <div
+      class="emotion-8"
+    >
+      <div
+        class="emotion-1"
+      >
+        Kato Grape Juice with Nata De Coco 330 ml
+      </div>
+      <section
+        class="emotion-7"
+      >
+        <div
+          class="emotion-6"
+        >
+          <div
+            class="emotion-5"
+          >
+            <span
+              class="emotion-2"
+            >
+              ₹58.80
+            </span>
+            <br />
+            <span
+              class="emotion-3"
+            >
+              ₹60
+            </span>
+            <span
+              class="emotion-4"
+            >
+              Save ₹1.20 (2%)
+            </span>
+          </div>
+        </div>
+      </section>
+      <div
+        style="display: flex; justify-content: space-between; margin-right: 10px;"
+      >
+        <div
+          class="Component-button-3 Component-solidGray-4 solidGray Component-enable-8"
+        >
+          <button
+            name="deleteFromCart"
+            style="padding: 6px 25px 6px 25px; margin-top: 6px;"
+            type="button"
+          >
+            Delete
+          </button>
+        </div>
+        <div
+          class="Component-button-3 Component-solidGray-4 solidGray Component-enable-8"
+        >
+          <button
+            name="addToCart"
+            style="padding: 6px 18px 6px 18px; margin-top: 6px;"
+            type="button"
+          >
+            Add to cart
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

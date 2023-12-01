@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 1`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1587753325342,
+      "widgetName": "Stay Home, Stay Happy",
+      "widgetSubType": 2,
+      "widgetType": 15,
+    },
+  },
+]
+`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 2`] = `undefined`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 3`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1587753325343,
+      "widgetName": "Stay Home, Stay Happy",
+      "widgetSubType": 2,
+      "widgetType": 15,
+    },
+  },
+]
+`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 4`] = `undefined`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 5`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1587753325344,
+      "widgetName": "Stay Home, Stay Happy",
+      "widgetSubType": 2,
+      "widgetType": 15,
+    },
+  },
+]
+`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 6`] = `undefined`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 7`] = `
+Array [
+  "bannerClicks",
+  Object {
+    "interPromotion": Object {
+      "bannerId": 1587753325345,
+      "widgetName": "Stay Home, Stay Happy",
+      "widgetSubType": 2,
+      "widgetType": 15,
+    },
+  },
+]
+`;
+
+exports[`W4xWithBannerWidget widget tests should handle click action correctly for banner links if App interface is not defined 8`] = `undefined`;
+
+exports[`W4xWithBannerWidget widget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-10 {
+  padding: 10px;
+  border-bottom: 5px solid #F2F2F2;
+}
+
+.emotion-0 {
+  font-size: 16px;
+}
+
+.emotion-9 {
+  border: 1px solid #00000029;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10px;
+  grid-gap: 1px 1px;
+  background-color: #F2F2F2;
+}
+
+.emotion-2 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+  background-color: #fff;
+  padding: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.emotion-2:hover,
+.emotion-2:focus,
+.emotion-2:visited,
+.emotion-2:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.emotion-1 {
+  border-radius: 3px;
+}
+
+<section
+    class="emotion-10"
+  >
+    <div
+      class="emotion-0"
+    >
+      Stay Home, Stay Happy
+    </div>
+    <div
+      class="emotion-9"
+    >
+      <a
+        class="emotion-2"
+        data-testid="banner-link-0"
+        href="/collections/1587753325342?type=15&subtype=2"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/Jo86VxJ7gMHHEtyJADHSxwu4sWXO3oOODjAn4nDdw.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-1"
+        href="/collections/1587753325343?type=15&subtype=2"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/fJO8hcK67yly1vTQEEGcBd+oS5DkZAlINy7a8epi8.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-2"
+        href="/collections/1587753325344?type=15&subtype=2"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/fJRYMJIv9A0L5ZbqVa7S0vQV4zPMLJSOQnwf7p5e868.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+      </a>
+      <a
+        class="emotion-2"
+        data-testid="banner-link-3"
+        href="/collections/1587753325345?type=15&subtype=2"
+      >
+        <div
+          class="emotion-1"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 462px;"
+          >
+            <img
+              alt="img"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/aG+BexDuHgOpjbC0FzoMOVSMarjxe07LdYMFS0z84mY.png?impolicy=resizeforwidth&w=462"
+              width="462"
+            />
+          </span>
+        </div>
+      </a>
+    </div>
+  </section>
+</DocumentFragment>
+`;

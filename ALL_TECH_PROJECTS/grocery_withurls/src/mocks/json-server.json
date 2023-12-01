@@ -1,0 +1,7 @@
+{
+    "middlewares": [
+        "src/mocks/middleware-1.js"
+    ],
+    "port": 4000,
+    "routes": "src/mocks/routes.json"
+}

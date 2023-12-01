@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utilities tests parseQSForFiltersAndSort should be able to exclude query string keys while parsing for filters and sort params 1`] = `
+Object {
+  "filter": Object {
+    "@type": "Filter",
+    "categoryId": "1234",
+    "categoryName": Array [
+      "bathing soaps",
+      "body wash",
+    ],
+  },
+  "sort": Object {
+    "SP": "desc",
+    "_score": "desc",
+    "isFc": "desc",
+    "isUKA": "desc",
+  },
+}
+`;
+
+exports[`utilities tests parseQSForFiltersAndSort should be able to extend base filters with sort and filter params correctly from query string 1`] = `
+Object {
+  "filter": Object {
+    "@type": "Filter",
+    "categoryId": "1234",
+    "categoryName": Array [
+      "bathing soaps",
+      "body wash",
+    ],
+  },
+  "sort": Object {
+    "SP": "desc",
+    "_score": "desc",
+    "isFc": "desc",
+    "isUKA": "desc",
+  },
+}
+`;
+
+exports[`utilities tests parseQSForFiltersAndSort should be able to parse sort and filter params correctly from query string 1`] = `
+Object {
+  "filter": Object {
+    "@type": "Filter",
+    "categoryName": Array [
+      "bathing soaps",
+      "body wash",
+    ],
+  },
+  "sort": Object {
+    "SP": "desc",
+    "_score": "desc",
+    "isFc": "desc",
+    "isUKA": "desc",
+  },
+}
+`;

@@ -1,0 +1,340 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 1`] = `
+Array [
+  "Shop By Category | Foodgrains, Oils And Masala",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 2`] = `
+Array [
+  "Shop By Category | Snacks And Confectionery",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 3`] = `
+Array [
+  "Shop By Category | Health Drinks & Beverages",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 4`] = `
+Array [
+  "Shop By Category | Beauty & Hygiene",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 5`] = `
+Array [
+  "Shop By Category | Cleaning & Household Care",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 6`] = `
+Array [
+  "Shop By Category | Mom & Baby",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 7`] = `
+Array [
+  "Shop By Category | Dairy, Bakery & Egg",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should handle click action correctly for banner links if App interface is not defined 8`] = `
+Array [
+  "Shop By Category | Instant and Ready Foods",
+  "HomeScreenClicks",
+  "Middle",
+]
+`;
+
+exports[`W9xWidget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-34 {
+  padding: 12px 16px;
+  border-top: 5px solid #F2F2F2;
+}
+
+.emotion-0 {
+  font-weight: 600;
+}
+
+.emotion-33 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 15px 8px;
+  margin-top: 15px;
+}
+
+.emotion-4 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+}
+
+.emotion-4:hover,
+.emotion-4:focus,
+.emotion-4:visited,
+.emotion-4:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.emotion-2 {
+  border-radius: 3px;
+}
+
+.emotion-1 {
+  border-radius: 3px;
+}
+
+.emotion-3 {
+  color: #333;
+  font-size: 13px;
+  height: calc(1.46429em * 2);
+  overflow: hidden;
+  margin-top: 5px;
+}
+
+<section
+    class="emotion-34"
+    data-testid="Widget12"
+  >
+    <div
+      class="emotion-0"
+    >
+      Shop By Category
+    </div>
+    <div
+      class="emotion-33"
+    >
+      <a
+        class="emotion-4"
+        data-testid="banner-link-0"
+        href="/categories/10001763"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/c2xXAckEA1Oith5HHeuq8MhJdJtEut4PFSE88YhpFA.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Foodgrains, Oils And Masala
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-1"
+        href="/categories/10001766"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/iIU0LUqS3x+1Kut2wiDAjaFJyyyiO3cSuB0n5lhM9h8.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Snacks And Confectionery
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-2"
+        href="/categories/10001761"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/5CAzReHV2nAJdYa+V1o78mVubdf9+jH+j4cseEq3K4.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Health Drinks & Beverages
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-3"
+        href="/categories/10001760"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/4i7mEwBdgChrDntV9sHrCGNF8QbV0wTCogQHa0gJgPE.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Beauty & Hygiene
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-4"
+        href="/categories/10001762"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/PsdxDGsKudO6A4C+8wX3E3wN7ox7EsF8CCDI+BkJ+s.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Cleaning & Household Care
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-5"
+        href="/categories/10001764"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/Ny1QvT7RJnIusvdRRYDGB7s8djtawnvfn0r2duIjHU.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Mom & Baby
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-6"
+        href="/categories/10001767"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/aYVvmNHMVAk5JtQvE8+PR8cT2tBfr2GtHR7r8Pmx1F4.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Dairy, Bakery & Egg
+        </div>
+      </a>
+      <a
+        class="emotion-4"
+        data-testid="banner-link-7"
+        href="/categories/10001765"
+      >
+        <div
+          class="emotion-2"
+        >
+          <span
+            class=" lazy-load-image-background "
+            style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 325px;"
+          >
+            <img
+              alt="img"
+              class="emotion-1"
+              src="https://jiomerchant.akamaized.net/static/delivery_associate/V7h3HKP7a5tA4ydP5JT0Q4BgU6DEXEDnN8FQeDHhslw.png?impolicy=resizeforwidth&w=325"
+              width="325"
+            />
+          </span>
+        </div>
+        <div
+          class="emotion-3"
+        >
+          Instant and Ready Foods
+        </div>
+      </a>
+    </div>
+  </section>
+</DocumentFragment>
+`;

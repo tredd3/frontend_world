@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel tests should render the component with carousel markers 1`] = `
+<DocumentFragment>
+  .emotion-4 {
+  list-style: none;
+  margin: 0;
+  overflow-x: auto;
+  padding: 0;
+  -webkit-scroll-snap-type: x mandatory;
+  -moz-scroll-snap-type: x mandatory;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  -webkit-scroll-snap-align: start;
+  -moz-scroll-snap-align: start;
+  -ms-scroll-snap-align: start;
+  scroll-snap-align: start;
+  white-space: nowrap;
+}
+
+.emotion-4::-webkit-scrollbar {
+  display: none;
+}
+
+.emotion-0 {
+  display: inline-block;
+  -webkit-scroll-snap-align: start;
+  -moz-scroll-snap-align: start;
+  -ms-scroll-snap-align: start;
+  scroll-snap-align: start;
+  -webkit-scroll-snap-stop: always;
+  -moz-scroll-snap-stop: always;
+  -ms-scroll-snap-stop: always;
+  scroll-snap-stop: always;
+  width: auto;
+}
+
+<ul
+    class=" emotion-4"
+  >
+    <li
+      class="emotion-0"
+    >
+      <div>
+        1
+      </div>
+    </li>
+    <li
+      class="emotion-0"
+    >
+      <div>
+        2
+      </div>
+    </li>
+    <li
+      class="emotion-0"
+    >
+      <div>
+        3
+      </div>
+    </li>
+    <li
+      class="emotion-0"
+    >
+      <div>
+        4
+      </div>
+    </li>
+  </ul>
+  .emotion-4 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.emotion-0 {
+  width: 6px;
+  height: 6px;
+  margin: 18px 12px 0 0;
+  border-radius: 50%;
+  background-color: #333;
+}
+
+.emotion-1 {
+  width: 6px;
+  height: 6px;
+  margin: 18px 12px 0 0;
+  border-radius: 50%;
+  background-color: #808080;
+}
+
+<ul
+    class="emotion-4"
+  >
+    <li
+      class="emotion-0"
+    />
+    <li
+      class="emotion-1"
+    />
+    <li
+      class="emotion-1"
+    />
+    <li
+      class="emotion-1"
+    />
+  </ul>
+</DocumentFragment>
+`;
+
+exports[`Carousel tests should render the component without carousel markers correctly 1`] = `
+<DocumentFragment>
+  .emotion-4 {
+  list-style: none;
+  margin: 0;
+  overflow-x: auto;
+  padding: 0;
+  -webkit-scroll-snap-type: x mandatory;
+  -moz-scroll-snap-type: x mandatory;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  -webkit-scroll-snap-align: start;
+  -moz-scroll-snap-align: start;
+  -ms-scroll-snap-align: start;
+  scroll-snap-align: start;
+  white-space: nowrap;
+}
+
+.emotion-4::-webkit-scrollbar {
+  display: none;
+}
+
+.emotion-0 {
+  display: inline-block;
+  -webkit-scroll-snap-align: start;
+  -moz-scroll-snap-align: start;
+  -ms-scroll-snap-align: start;
+  scroll-snap-align: start;
+  -webkit-scroll-snap-stop: always;
+  -moz-scroll-snap-stop: always;
+  -ms-scroll-snap-stop: always;
+  scroll-snap-stop: always;
+  width: auto;
+}
+
+<ul
+    class=" emotion-4"
+  >
+    <li
+      class="emotion-0"
+    >
+      <div>
+        1
+      </div>
+    </li>
+    <li
+      class="emotion-0"
+    >
+      <div>
+        2
+      </div>
+    </li>
+    <li
+      class="emotion-0"
+    >
+      <div>
+        3
+      </div>
+    </li>
+    <li
+      class="emotion-0"
+    >
+      <div>
+        4
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

@@ -1,0 +1,402 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 1`] = `
+Array [
+  "Shop By Category | Beauty & Hygiene",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 2`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 3`] = `
+Array [
+  "Shop By Category | Cleaning & Household Care",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 4`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 5`] = `
+Array [
+  "Shop By Category | Dairy, Bakery & Egg",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 6`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 7`] = `
+Array [
+  "Shop By Category | Foodgrains, Oils And Masala",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 8`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 9`] = `
+Array [
+  "Shop By Category | Snacks And Confectionary",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 10`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 11`] = `
+Array [
+  "Shop By Category | Health Drinks & Beverages",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 12`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 13`] = `
+Array [
+  "Shop By Category | Mom & Baby",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 14`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 15`] = `
+Array [
+  "Shop By Category | Instant And Ready Foods",
+  "HomeScreenClicks",
+  "Top",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should handle click action correctly for banner links 16`] = `
+Array [
+  "Shop By Category",
+]
+`;
+
+exports[`HorizontalScrollableIconsWidget tests should render the widget correctly 1`] = `
+<DocumentFragment>
+  .emotion-3 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+  width: 76px;
+  margin: 10px 5px;
+  text-align: center;
+}
+
+.emotion-3:hover,
+.emotion-3:focus,
+.emotion-3:visited,
+.emotion-3:active {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.emotion-0 {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  margin: 0px auto 5px;
+}
+
+.emotion-2 {
+  width: 76px;
+  font-size: 11px;
+  color: #000;
+  font-weight: 600;
+}
+
+.emotion-1 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow-y: hidden;
+}
+
+<div>
+    <div>
+      HorizontalSlider Placeholder
+    </div>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-0"
+      href="/categories/10003388"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category0"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Beauty & Hygiene"
+            src="https://preprod-static.jiomoney.com/static//category/10003388_Beauty-Hygiene_1569240984.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Beauty & Hygiene
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-1"
+      href="/categories/10003394"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category1"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Cleaning & Household Care"
+            src="https://preprod-static.jiomoney.com/static//category/10003394_Cleaning-HouseholdCare_1568986181.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Cleaning & Household Care
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-2"
+      href="/categories/10003615"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category2"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Dairy, Bakery & Egg"
+            src="https://preprod-static.jiomoney.com/static//category/10003615_Dairy-Bakery-Egg_1568986212.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Dairy, Bakery & Egg
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-3"
+      href="/categories/10003627"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category3"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Foodgrains, Oils And Masala"
+            src="https://preprod-static.jiomoney.com/static//category/10003627_Foodgrains-OilsAndMasala_1568986234.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Foodgrains, Oils And Masala
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-4"
+      href="/categories/10003391"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category4"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Snacks And Confectionary"
+            src="https://preprod-static.jiomoney.com/static//category/10003391_SnacksAndConfectionary_1568986320.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Snacks And Confectionary
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-5"
+      href="/categories/10003397"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category5"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Health Drinks & Beverages"
+            src="https://preprod-static.jiomoney.com/static//category/10003397_HealthDrinks-Beverages_1568986259.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Health Drinks & Beverages
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-6"
+      href="/categories/10003400"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category6"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Mom & Baby"
+            src="https://preprod-static.jiomoney.com/static//category/10003400_Mom-Baby_1568986300.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Mom & Baby
+        </div>
+      </div>
+    </a>
+    <a
+      class="emotion-3"
+      data-testid="banner-link-7"
+      href="/categories/10003549"
+    >
+      <div
+        class="emotion-0"
+        data-testid="category7"
+      >
+        <span
+          class=" lazy-load-image-background "
+          style="background-image: url(Placeholder.jpg); background-size: 100% 100%; color: transparent; display: inline-block; width: 46px;"
+        >
+          <img
+            alt="Instant And Ready Foods"
+            src="https://preprod-static.jiomoney.com/static//category/10003549_InstantAndReadyFoods_1568986281.png?impolicy=resizeforwidth&w=46"
+            width="46"
+          />
+        </span>
+      </div>
+      <div
+        class="emotion-2"
+      >
+        <div
+          class="emotion-1"
+        >
+          Instant And Ready Foods
+        </div>
+      </div>
+    </a>
+  </div>
+</DocumentFragment>
+`;

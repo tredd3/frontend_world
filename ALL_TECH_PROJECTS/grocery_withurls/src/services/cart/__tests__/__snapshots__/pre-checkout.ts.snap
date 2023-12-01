@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pre-checkout addToCart should add an item to cart if it doesn't already exist 1`] = `
+Object {
+  "body": Object {
+    "action": 0,
+    "cartId": 333333,
+    "product": Array [
+      Object {
+        "productType": 1,
+        "qty": 1,
+        "skuId": 10006440,
+      },
+    ],
+    "storeId": 222222,
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout addToCart should add an item to cart if it doesn't already exist 2`] = `
+Object {
+  "body": Object {
+    "action": 0,
+    "cartId": 333333,
+    "product": Array [
+      Object {
+        "productType": 1,
+        "qty": 1,
+        "skuId": 10006440,
+      },
+    ],
+    "storeId": 222222,
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout addToCart should increase count if item already exists 1`] = `
+Object {
+  "body": Object {
+    "action": 0,
+    "cartId": 333333,
+    "product": Array [
+      Object {
+        "productType": 1,
+        "qty": 6,
+        "skuId": 10028095,
+      },
+    ],
+    "storeId": 222222,
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout changeQuantity should change the quantity in cart as per the request 1`] = `
+Object {
+  "body": Object {
+    "action": 0,
+    "cartId": 333333,
+    "product": Array [
+      Object {
+        "productType": 1,
+        "qty": 1,
+        "skuId": 10028095,
+      },
+    ],
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout confirmChangedCart should make the API call correctly 1`] = `
+Object {
+  "body": Object {
+    "action": 1,
+    "userId": 10005564,
+  },
+}
+`;
+
+exports[`pre-checkout getDeliveryDates should return modes transformed as per the mapping function 1`] = `
+Array [
+  Object {
+    "id": 2,
+    "isOpen": true,
+    "label": "Tomorrow - 07 January 2020",
+  },
+  Object {
+    "id": 3,
+    "isOpen": true,
+    "label": "Wednesday - 08 January 2020",
+  },
+  Object {
+    "id": 4,
+    "isOpen": true,
+    "label": "Thursday - 09 January 2020",
+  },
+]
+`;
+
+exports[`pre-checkout moveToCart should make the API call correctly 1`] = `
+Object {
+  "body": Object {
+    "cartId": 333333,
+    "moveType": "MoveToCart",
+    "productType": 1,
+    "qty": 1,
+    "skuId": 10028095,
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout moveToSaveForLater should make the API call correctly 1`] = `
+Object {
+  "body": Object {
+    "cartId": 333333,
+    "moveType": "SaveForLater",
+    "productType": 1,
+    "qty": 1,
+    "skuId": 10028095,
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout removeFromCart should make the API call correctly 1`] = `
+Object {
+  "body": Object {
+    "action": 0,
+    "cartId": 333333,
+    "qty": 0,
+    "skuId": 10028095,
+    "type": 1,
+    "userId": 111111,
+  },
+  "headers": Object {
+    "StoreId": "222222",
+  },
+}
+`;
+
+exports[`pre-checkout removeFromSavedLater should make the API call correctly 1`] = `
+Object {
+  "body": Object {
+    "productCategoryType": "SaveForLater",
+    "productType": 1,
+    "qty": 1,
+    "skuId": 10028095,
+  },
+}
+`;

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`notifications clearNotifications should send the correct request 1`] = `
+Object {
+  "body": Object {
+    "userId": 10005564,
+  },
+}
+`;
+
+exports[`notifications getPaginatedNotifications should get a paginated list of notifications 1`] = `
+Array [
+  Object {
+    "body": "Your order for with order ID 4062847169 amounting to Rs. 1081.1099853515625 has been cancelled",
+    "date": 2020-01-06T07:55:40.337Z,
+    "icon": "https://preprod-static.jiomoney.com/static/capp/notification.png",
+    "id": 77725,
+    "orderId": undefined,
+    "status": "unread",
+    "title": "order cancellation",
+  },
+  Object {
+    "body": "Your order for with order ID 4062847169 amounting to Rs. 1081.1099853515625 has been cancelled",
+    "date": 2020-01-06T07:55:35.998Z,
+    "icon": "https://preprod-static.jiomoney.com/static/capp/notification.png",
+    "id": 77724,
+    "orderId": undefined,
+    "status": "unread",
+    "title": "order cancellation",
+  },
+  Object {
+    "body": "Order with Order Id 4062847169 amounting to Rs 1081.11 is received. You can expect delivery by Tuesday, Jan 07,2020",
+    "date": 2020-01-06T07:48:09.061Z,
+    "icon": "https://preprod-static.jiomoney.com/static/capp/notification.png",
+    "id": 77721,
+    "orderId": 4062847169,
+    "status": "unread",
+    "title": "Order Placed",
+  },
+]
+`;
+
+exports[`notifications getPaginatedNotifications should get a paginated list of notifications 2`] = `
+Object {
+  "body": Object {
+    "pageNumber": 0,
+    "pageSize": 10,
+    "userId": 10005564,
+  },
+}
+`;

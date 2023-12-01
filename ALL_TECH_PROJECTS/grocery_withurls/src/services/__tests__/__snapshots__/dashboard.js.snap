@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get All Dashboard Data should return a properly formatted product array 1`] = `
+Object {
+  "products": Array [
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100035656,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h8f/hac/8994619981854.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 349,
+      "name": "Pampers Active New Baby Diapers 24 count (Up to 5 kg)",
+      "skuId": 10042760,
+      "sp": 324.57,
+    },
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100092959,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h33/hb6/9049450446878.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 699,
+      "name": "Pampers Premium Care Pants (XL) 24 count (12 - 17 kg)",
+      "skuId": 10105624,
+      "sp": 449,
+    },
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100009797,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h37/h36/9012645330974.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 699,
+      "name": "Pampers Active Baby Diapers (S) 46 count (3 - 8 kg)",
+      "skuId": 10011234,
+      "sp": 650.07,
+    },
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100037052,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/hbc/h22/9036312018974.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 699,
+      "name": "Pampers Premium Care Pants (M) 38 count (7 - 12 kg)",
+      "skuId": 10044428,
+      "sp": 449,
+    },
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100037029,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h69/he4/9026458943518.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 1049,
+      "name": "Pampers Baby Dry Pants (L) 64 count (9 - 14 kg)",
+      "skuId": 10044404,
+      "sp": 809,
+    },
+    Object {
+      "brandName": "Vicks",
+      "category": Object {
+        "id": 10001209,
+        "name": "Over The Counter Remedies",
+      },
+      "coupon": null,
+      "id": 100039704,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h14/h5b/8995540697118.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 149,
+      "name": "Vicks Baby Rub 50 ml",
+      "skuId": 10047322,
+      "sp": 141.55,
+    },
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100042967,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h7b/hdc/9026334359582.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 699,
+      "name": "Pampers Baby Dry Pants (L) 46 count (9 - 14 kg)",
+      "skuId": 10050442,
+      "sp": 699,
+    },
+    Object {
+      "brandName": "Pampers",
+      "category": Object {
+        "id": 10000925,
+        "name": "Baby Diapers & Wipes",
+      },
+      "coupon": null,
+      "id": 100043308,
+      "images": Array [
+        "https://api.reliancesmart.in//images/?name=images/h33/h09/9026332983326.jpg",
+      ],
+      "isFc": 1,
+      "mrp": 699,
+      "name": "Pampers Baby Dry Pants (M) 54 count (7 - 12 kg)",
+      "skuId": 10050789,
+      "sp": 499,
+    },
+  ],
+  "totalCount": 8,
+}
+`;

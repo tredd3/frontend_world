@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user service calls addUser method should respond with correct structure 1`] = `
+Object {
+  "addedDate": 1577696828229,
+  "customerName": "Firstname Lastname",
+  "deviceId": "ZFB2U1FFTVpPZUk6QVBBOTFiRm9HVDB2ampGVWdTQUJyaTRBX0EwcmRtQko5RTQzcW03UUVxNG9x
+S0l5dzk3TnRRNWhjX3lWcm5SMzlXSUxhc0wxSGtpTkEzRk5TUWJzZDN2aENBcUhYWXY3a3RoYkZT
+UGJXam1ZRWJBc0ZWNmh2ajZVVXVxM1oydGtSU3FQQ2tkNDlQUFQ=
+",
+  "deviceType": "ANDROID",
+  "firstName": "Firstname",
+  "lastName": "Lastname",
+  "lastUpdatedDate": 1578137110334,
+  "mobileNumber": 9100100100,
+  "preferences": Object {
+    "latitude": 19.11224091559444,
+    "longitude": 19.11224091559444,
+    "pincode": 401701,
+  },
+  "registrationDate": 1577696828229,
+  "status": 1,
+  "userId": 10005564,
+}
+`;
+
+exports[`user service calls getUser method should return the correct structure 1`] = `
+Object {
+  "addedDate": 1577696828229,
+  "customerName": "Firstname Lastname",
+  "deviceId": "ZFB2U1FFTVpPZUk6QVBBOTFiRm9HVDB2ampGVWdTQUJyaTRBX0EwcmRtQko5RTQzcW03UUVxNG9x
+S0l5dzk3TnRRNWhjX3lWcm5SMzlXSUxhc0wxSGtpTkEzRk5TUWJzZDN2aENBcUhYWXY3a3RoYkZT
+UGJXam1ZRWJBc0ZWNmh2ajZVVXVxM1oydGtSU3FQQ2tkNDlQUFQ=
+",
+  "deviceType": "ANDROID",
+  "email": undefined,
+  "firstName": "Firstname",
+  "gender": undefined,
+  "lastName": "Lastname",
+  "lastUpdatedDate": 1578137110334,
+  "login": true,
+  "phoneNumber": 9100100100,
+  "preferences": Object {
+    "lat": 19.11224091559444,
+    "lng": 19.11224091559444,
+    "pincode": 401701,
+  },
+  "registrationDate": 1577696828229,
+  "status": 1,
+  "userId": 10005564,
+}
+`;
+
+exports[`user service calls updateUser method should return the correct structure 1`] = `
+Object {
+  "dob": "2020-02-29",
+  "emailId": "email",
+  "firstName": "firstName",
+  "gender": 2,
+  "lastName": "lastName",
+  "preferences": Object {
+    "city": "city",
+    "lat": 19.11224091559444,
+    "latitude": "lat",
+    "lng": 19.11224091559444,
+    "longitude": "lng",
+    "pincode": "pincode",
+    "storeId": "storeId",
+  },
+  "userId": 10005564,
+}
+`;
