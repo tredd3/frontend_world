@@ -1,312 +1,50 @@
--------------------- SUMMARY --------------------
-Business : Company with Little Moats  but very high growth oppurtunities - a short term buy becuase other competetiors with 
- MOATS can take away the market share soon - need to monitor closely.
-  Entire Equity in balance sheet is mapped to Acquistions (so subsidaries must perform)
+Paypal :
 
-                       FY19   FY20     FY21     
-Active Accounts:       305M   377      426M (45% of active accounts were outside the U.S) 
-Transactions per:      40.6   40.9     45.4       
-Account (TPA)
-Total Payment:         712B   936B    1.25T (60% US TPV, International TPV is 40%)
-Volume (TPV)
+//Business : 
+ global, two-sided network at scale that connects merchants and consumers 
+ 435 million active accounts (400 million consumer, 35 million merchant accounts) across 200 markets.
+ BNPL in Europe
+ 42%  Active accounts outside Europe
+Customer base: B2C + B2B (Global) - high frequency
+Money spent by customer:  low
+    transaction fees, payment gateway services, subscription fees,  PayPal wallet to bank account/debit card transfer, forex conversion fee , Interest on customer balances, fee and interest from consumer and merchant credit products
+Predictable for 10yrs from now ?
+   Market share: 6% (payments of 22 B in value processed)
+   Pricing power: very little
+    MOATS : global 2 sided network , technical superiority, brand 
+    COMPETETTION: very high
+    customer stickiness :
 
+Problem solved ? reduce the friction typically involved in cross-border commerce by offering consumers a simple payment experience
+Uniqueness ?
+Value proposition ? enabling merchants to extend their reach to consumers in the global markets in which our services are available, offer tools and insights for utilizing data analytics to attract and engage customers and improve sales conversion, risk management and fraud detection
+Loans for MSME merchants , accept payments in all modes (online, offline , wallet etc)
+For customers: BNPL, digital wallet with multiple payment options, checkout experience
 
-Financials :
-For the last 2 yrs paypal financials significantly improved, we need to monitor for Sustainability
-D/E = 0.45 (need to track if the company is taking more debt)
+//Financials:  
+   Generated ~$29B in FCF since becoming an independent company in July 2015
+   allocated $19B to share repurchases and $13B to acquisitions and strategic investments
+   Market cap : 50B, ~$5 free cashflow to be generated in 2023 , 100% of it for buyback
+   Stable margins, QOQ fcf growth
+   Focus on efficiency , in this challenging environment where growth is slow
 
+//Management/Promoter : 
+Vision :
+Strategy : 
+//Strengths : 
 Risks :
-Valuation :
-  Valuation is what differentiates Great Investment from a great business
-  will it beat Index in the next 10yrs if you buy at current valuations(https://docs.google.com/spreadsheets/d/1nKjmPeIAiBJj7I_hbipXbBysa4ZhoK9qVxh6spmKejo/edit#gid=0)
-
-------------------- SCREENING SUMMARY -------------------
-//General check:
-  stock picking strategy: bottoms-up and contrarian
-  Normal check on stock price since inception - google search (any abnormal increase or decrease in share price?)
-  Abnormal falling: google search why a company share is falling - check Why_Stock_Price_Falling.txt
-     company’s weak earnings guidance bcoz of high inflation and less consumer spending(temporary External phenomenon)
-     Exit of e-bay (the largest customer)
-  legal orders(confirm from wiki) and tickertape
-  corporate actions - continous buybacks with FCF
-  check shareholding pattern - 74% Institutional, 25% public
-  Is the business easy to understand or complex : easy
-  circle of competence: Yes (buildimg one)
-  any recent insider buying - yes (but more sell activity than buy)
-
-
-//Business check:
-  market share trend: payment volume market share increased from 3% to 5%
-  //how is the quality of product/service - pretty good and kind of an aggregator app
-  Fitch Rating : A- last 2 years, FY17-FY19 BBB
-  can a fool run this business - don't know mostly not
-  can you put 50% of your net worth, buy the whole business and forget about it for next 5-10 yrs ???
-   NO , iam ready to hold it for next 5-10yrs but i can only keep 10% of my wealth (mainly bcoz of competettion)
-
-//Finance check:
-1)Balance sheet Strength check
-//non-current assets - 23 Billion
--Goodwill is negligible - 11.5 Billion (80% aquistion cost of paypal goes in to Goodwill)
--intangible assets - 1.5 Billion 
--long term investments - 8.5 Billion
--fixed assets - 2 Billion
-
-//net current assets - 9 Billion
--cash , land and  financial investments won't lose value - indicating that the balance sheet is strong
--No Inventory - as it is a service oriented firm
--check current assets(mainly cash) compared to current liabilities - lot of cash to cover current liabilities
-
-//shareholder Equity - 21 Billion
---Check Equity CAGR from balance sheet equity section 
-   it is increasing and ROE trend for last 5 years is 20%(FY21)	22%	15%	13%	12%(FY17)
---Sorce of Equity increase: to find this out balance sheet should be studied in tally with cash flow statement
- Sustainable:  cash flow from operations(goes in to retained earnings) 
-
-//non-current Liabilities - 11 Billion 
---Equity/non-current assets + net current assets : 65%
---(Price to book value) - 5 (not an asset play)
-
-2)Profit and loss statement
---sales growth consistent and increasing? YES
---operating profit +ve  most of the time and growing? FY17 - FY19 gross and operating profit is almost constant 
- it picked up in FY20 - FY21 , so need to observe if it is consistent
---other income significant to operating profit over the years? NO
---interest expense >40-50% of operating profit? around 20%
---net income consistently +ve and growing? YES
-  
-3)Cashflow statement
---CFO +ve most of the time and growing? YES
---free cash flow consistently +ve and growing? YES
---use of cash flow from operations: share buyback and strategic acquistions
---outstanding shares increasing every year No becuse of buyback
-
-4)Profitability Ratios Check:
---GPM(consistent and above 15%) trend - YES
---NPM(consistent and above 15%) trend - 13% FY17 - FY19, recently improved so it should be under observation
---OPM(consistent and above 15%) trend - company has Efficient management 
---ROE is consistently improving 
---ROCE(consistent and above 15%) trend - 11% FY17 - FY19, recently improved so it should be under observation
-
---D/E < 1? 0.45 and long term debt can be cleared by earnings of 3 yrs
-
- //Valuation check
-EV/FCF - 17 (wait mode, invest when it is less than 10)
-
---------------------------- BUSINESS STRENGTH CHECK ---------------------------
-Investor presentation for reference: 
--------------------- PAST --------------------
-know about the company:
-  Nature of business: business and consumer payment services (Digital wallet)
-  What does it do: (what is the actual business): 
-   The company's payments platform allows consumers to send and receive payments in approximately 200 markets and in
-   approximately 100 currencies, withdraw funds to their bank accounts in 56 currencies, and hold balances in their
-   PayPal accounts in 25 currencies.
-   They are in to digital wallet payments and checkout oriented journey
-  How does it do :
-   We're not a subscription business; we're a transaction-oriented business
-   Digital wallet - The company charges fees for sellers(like credit card and debit card transactions), users for international transactions
-     paypal has a debit card 
-     Accepting debit and credit card payments
-     co-branded mastercard credit card - cashback is available as paypal balance
-  Subsidaries/JVs:  
-    Braintree - specializes in mobile and web payment systems for e-commerce companies
-    Venmo -  Venmo, a mobile payment app with a social network component. Venmo has a public feed where you can see all transactions 
-      that your connections have made.Venmo was aimed at friends and family who wish to split bills, e.g. for movies, dinner, rent, or event tickets etc.
-      but now it is going to be integrated with Amazon for customer - merchant transactions
-      Note: Venomo is only for US markets
-    Xoom - international money remittance provider that allows consumers to send money, pay bills and reload mobile phones from the 
-      United States and Canada to 131 countries.
-    Zettle - POS checkout solutions(inventory management app, card reader, reciept printer, barcode scanner)
-      Zettle by PayPal serves small businesses in 13 countries
-      Zettle by PayPal was the first mobile payments company to accept contactless payments in the UK. This card reader also accepts 
-      all major cards including MasterCard, Visa and American Express.
-    Hyperwallet - helps organization send mass payments to contract workers, claimants, freelancers, and sellers around the world
-    Honey - Honey Integrated into the new PayPal app to help consumers shop and discover deals and new brands.
-    paidy - buy now pay later company in Japan  
-  Target Audience : users and merchants
-  market size: huge
-  market share: 5% Total payment volume
-  Presence : offices globally
-  Globally competetive company: Yes
-  REVENUE by GEOGRAPHY: US 51%, UK 10%, others - 37%
-  Revenue Model: 
-    Transaction revenues - 92%
-     The magnitude of the fee is based on the volume of activity, or TPV.
-     Fees are also charged on currency conversions, 
-     cross-border transaction fee
-     fund transfers from customers' PayPal or Venmo accounts to their debit cards or bank accounts
-    Revenues from other value-added services - 8% 
-      interest on client deposits
-      Working capital loan fixed fee
-  Revenue by Product:
-    Goods as % of TPV - 90%
-    services - 10%
-    Bill payments (Braintree)
-promoters: bunch of college friends
-why did the promoters start the business: to capture the huge oppurtunity in industry/sector
-what peter lynch bucket does stock belongs to : stalwarts/fast growers
-
---------------------- PRESENT --------------------
----Sectoral analysis: 
-//STAGE of development: growth - internet
-//Sector value chain : collect money from customers => deduct charges (Revenue) => credit merchants
-//Market size/Oppurtunity or possible demand for the Sector: it is not about how big a company is, it is about how big a company can get
-   domestic and global :
-        not limited to a single user (almost every user will find its usage now or eventually)
-        not limited to single business (almost every business will find its usage now or eventually)
-
----Products/services DEMAND check :
-//From where does the actual demand from for the company? 
-  B2C - mostly US
-  Business service companies
-  Global - somewhat
-
-//Type of demand
-    continous and growing demand - payment related
-    Transition Demand - traditional payments to digital wallet(competettion tracking is important)
-
-
----Products/services SUPPLY check :
-1)Product portfolio :
-payouts - PayPal mass pay option, Payouts, is one such solution. The account holder can easily send money to multiple people at the 
-  same time, and the recipients will receive the funds in their PayPal account.
-Digital wallet: You can save and access details of your debit and credit cards through your PayPal account, being able to
- shop and transfer money simply via PayPal ID and password; buy now pay later, crypto payments , QR code payments included in the app
-One-Touch: PayPal technology allows you to save login details on your personal device, so you can check out websites without even typing your username and password;
-Money transfer: You are able to transfer money to more than 200 countries and over 100 currencies, both to and from a bank account or a PayPal account;
-Payment gateway: checkout Jourmey in e-commerce (They recently acquired Happy Returns (for inperson return) and integrating it with e-commerce and retail stores)
-Debit card: A PayPal debit card works just like any other bank, so it can be used to shop (online or offline), withdraw money, and earn rewards over your purchases;
-Paypal Credit: buy now pay later (credit card replacement)
-Capital loan: A daily payable loan with a lower fee than banks.
-
-2)COMPETETION : 
-  Total payment volumes market share :
-  Visa (50%), Mastercard(35%), AMEX(6%), Paypal(5.5%)
-  global competettion -  Visa Inc. (V), Mastercard Inc. (MA), Alphabet Inc.'s (GOOGL) Google Pay, JPMorgan Chase & Co.'s (JPM) WePay,
-    Square Inc. (SQ), and from Local markets
-  threat of new entrants - Amazon pay , Gpay , e-bay came up with own wallet etc
-
-3)Listed peers Comparison: tijori(benchmark) and screener peer comparison sections for profitability and costs
-Digital wallet peers Paypal wins
-But comparing with Visa And Mastercard - they clearly win interms of Net margin and ROE
-
-4)Products/services Uniqueness and Quality check :
-what makes the product or service of this company Unique?
-  //does it delight the customers - mostly becuase of the trust and ease of access of payment services
-  //does it own consumers mind - yes it is an establised brand
-  //what value does it add to customers compared to competetiors?
-    Digital wallet - convinence as it can hold deposits in multiple currencies and can be sent across internationally ,
-     support for Multiple payment methods.
-    Security - paypal provides additional security layer where credentials , card details and accounts doesn't travel over 
-     the network and stay within paypal servers. Also email id,mobile,username or personal QR is needed to recieve money, no 
-     need to expose ur bank account or card details to everyone
-    Checkout - If you don't receive a product you buy with PayPal, you'll get your money back.
-
-
-------------------- FUTURE -----------------
----Goal/Aim that the company wants to achieve and what is the Strategy that it wants to employ?
-//Goal/Aim - global leader in digital wallet, capture market share in checkout process
-//Strategies being employed: not clearly defined
-
---- EARNING POWER (Earnings Growth Oppurtunities check )
-//SOURCE OF EARNINGS
---Internal Growth oppurtunities
-penetration - Acquire new customers in untapped areas 
-old customers transacting more
-Launch New products BNPL and crypto additions
-QR codes share is very less in offline stores (people still prefer using debit and credit cards)
-Less than half the time that a PayPal customer has the opportunity to use us, they actually take advantage of that. We can
-  double the size of our business with our current user base if people just use us when they can.
-Venmo, Braintree revenues can be significant goin forward that they can contribute to the mix
-Venmo integration with Amazon is yet to be seen
-
---External Growth oppurtunities
-Acquistions
-Macroeconomic - only 50% penetration in the US (core market)
-Tailwinds -COVID and non-touch payments pick up
-
----- Sustainability of Earning power: MOATS and Pricing Power to make it a long term bet
-1)Competettive advantage/MOAT Check?
-Brand - Trust
-Network effect - global two-sided network of consumers and merchants 
-Intangible assets - security and ease of access and transfer
-
-2)PRICING POWER (MUST HAVE MOAT) - unfortunately it doesn't have one bcoz of the substitutes available
-
-
-----Capital Allocation 
-//SOURCE OF CAPITAL - Debt + Retained Earnings
-
-
-//USE OF NEW/INCREMENTAL CAPITAL : A good company always uses capital for progressing and next phase growth and not for survival 
-Inorganic growth - M&A
-Buyback 
-Advertising - little
-
-
-//RETURN ON CAPITAL
-WACC : 12.33%, ROCE : 12.86%
-Avg company interms of Capital returns: just breakseven
-
-// SUMMARY (Business Quality Check) - decided by PAST, PRESENT and FUTURE of the company
-  MOSTLY -Predictable and consistent/recurring EARNINGS for next 10 yrs(MOATS, pricing power)
-  YES -Competes on value rather than price bcoz company that competes on value is like a magnet with stronger magnetic field  that
-    attracts customers and companies which compete on price will lose their business to competetiors
-  Non commoditized business - people don't trust unknown plyaers with their finances handling
-  Non - cyclical
-  Highly competettive industry (it needs more capital to adapt to the changing business environment and burns more cash to
-    be in the competettion)
-  Almost recession proof
-  ESG clean
-  Scalable business model - globally preferred (mutibagger are made because of this property)
-  Having Tailwinds
-  YES-If a person has lot of money can he break ur business and take away marketshare?
-  Avg company interms of Capital returns: just breakseven i.e WACC =~ ROCE
-
-
------------------------------- FINANCIAL STRENGTH CHECK --------------------------
-check Financial_Strength_Check.txt
---expenses breakup and see which expenses are growing YOY
-Transaction costs (MDR payed to credit card companies and banks)
-paypal to paypal transfer cost is ZERO for same currency
-Interest expense - 2%
-
-//Financial strengths
-Gross proft margin is good
-
-//Financial weakness
-R&D cost - 28% of operating profit
-thin margins
-low profitability compared to peers
-
------------------------------- MANAGEMENT CHECK --------------------------------
-//how is the Management and their Vision: check management discussion analysis in annual report
---view is let’s concentrate on our engagement in basically our core markets where we have a multiplicity of services, where we 
-have our digital wallet, and not spend a ton of money on higher beta opportunities internationally where we need to roll out, 
-support new services, and build awareness.
---we want to unify all of the things that we’ve bought as well into one common platform.  
-2 core focus areas 
-1)Investment in e-commerce checkout Jounrney
-2)Digital wallet
-
------------------------------------ RISKS ----------------------------------------
-check Risk_Check.txt
----Business Risk:
-Consumers going back to more in-store experiences, as well as more services versus goods, both of which are sort of contrary 
-  to what our platform provides, or is not where our strengths are.
-Competettion Risk: especially in local markets, in international markets if competettion can remove that extra cost while 
-   transferring money via QR or internationally
-substitution risk - customers can quickly shift to other company services
-loans to merchants and Paypal credit(buy now pay later) can be probable NPAs (but since paypal has the data it can take wise decision)
-
-
----Financial Risk:
-Probable Weak balance sheet (if subsidaries don't perform) - Entire Equity in balance sheet is mapped to Acquistions 
-
----Management Risk: NA
-
----Investment Returns Risk: might have to suffer oppurtunity cost if you invest at higher valuations
-
-
----------------------------------- VALUATION --------------------------------------
-DCF method on earnings and FCF : 15% next 10yr CAGR, MCAP : 100B (returns around 17%)
+    -Intense Competition from strong brands, regional players
+     -keep pace with rapid technological developments to provide new and innovative products and services
+     -extensive government regulation and oversight
+     -payment networks or banks can increase fees and PayPal might take a hit on operating profit instead
+      Of passing down to customers
+     -Funding through credit/debit cards instead of using PayPal balance significantly reduces profits 
+     - offers on credit and debit cards, other wallets may attract consumers to pay through them
+     - merchants/customers defaulting on credit can reduce the revenue for PayPal (fee from creditors)
+     -Cross-border transactions generally provide higher revenues and operating income than similar     
+     transactions that take place within a single country or market - foreign currency exchange rate                    
+     fluctuations, tariffs, trade barriers or restrictions, sanctions, import or export controls
+     -Use of our payments services for illegal activities or improper purposes could harm our business
+    -various countries have proposed or enacted digital services taxes, affecting effective tax rate
+    
+//Valuation : low

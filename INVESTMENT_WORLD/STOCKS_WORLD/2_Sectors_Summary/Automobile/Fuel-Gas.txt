@@ -1,8 +1,15 @@
  ------------------------------- Economics -----------------------------
-India's target to raise the share of natural gas in India’s energy mix to 15% by 2030 from about 6.7% now. 
-Demand: power and fertiliser sectors, which account for almost 70% of the consumption + CGD (city gas distribution)
+ considering cyclic nature of Renewables (solar and wind), Natural Gas and Renewables are going to stay together to complement each other. 
+ In this energy transition journey, Natural Gas shall be at the center stage for 3 to 5 decades, where it ensures energy security and
+ at the same time supports decarbonization.
+
+Demand: 
+  power and fertiliser sectors are heavy users
+  fertiliser sector, chief consumer of gas, meets around 70% of its requirement through imports
+  CGD (city gas distribution) 
 Supply: 
-  Imports - 54% of its natural-gas needs through LNG imports
+  Imports - 44% of its natural-gas needs through LNG imports in 2023 (reduced from 54% due to high spot prices and increased domestic gas supply)
+  However Domestic supplies will decrease after 4-5 yrs and demand keeps decreasing 
   Domestic production: RIL has dicovered the largest gas filed in the country + ONGC producing
   RIL-BP combine is developing three deepwater gas discoveries which by 2023, meeting up to 15% of the country’s gas demand.
 Gas pricing is revised bi-anually based on four global benchmarks — US Henry Hub, Canada Alberta gas, UK NBP, and Russian Natural Gas
@@ -10,8 +17,14 @@ both oil and gas has central excise and VAT that add significantly to the actual
 Note: VAT is meant for State government and Central Excise Tax is levied by central government. Central excise Tax is levied up on
  manufacture of excisable goods in India. But VAT is charges at the time sale of goods within the state
 E.g: fuel, tobacco, alcohol
-LNG terminal capacity is expected to grow from current 42.5 MMTPA to around 72 MMTPA in 3 years
-Transmission pipeline network is expected to grow from ~20,000 km to around 35,000 km by 2023 (check Gail)
+
+//GAS INFRA IN INDIA
+LNG terminal capacity is expected to grow from current 42.5 MMTPA to around 72 MMTPA in 3 years (all owned by petronet LNG)
+But to achieve 15% gas share in energy mix by 2030, india needs 150 MMTPA capacity
+Transmission pipeline network is expected to grow from ~20,000 km to around 35,000 km by 2023 (to be built by Gail)
+ Also Unified gas pipeline tarif where gas users located far away from the source of gas will not have to pay cascading tarif, boosting demand
+CGD network now shall cover 88% of area and 98% of Indian population. With increased penetration level of CGD network,
+ the gas consumption has potential to increase many-fold at right and sustainable prices.
 
 
 //SupplyChain
@@ -36,18 +49,23 @@ Domestic
 International (Russia, MiddleEast, US, )
 
 -------------------------------- Stats -------------------------------
-//India imports 50% of gas requirements
-  fertiliser sector, chief consumer of gas, meets around 70% of its requirement through imports
+per capita energy consumption is around one third of world’s average.
+Coal - 55% (world - 26%)
+Oil - 28% (world - 31%)
+Renewables - 6% (world - 7%)
+Nat gas - 6% (world - 24%) - India's target to increase the share to 15% by 2030
+Hydro - 4% (world - 6%)
+Nuclear - 1% (world - 4%)
 
 //Gas consumption by sectors:
 Fertilisers: 30% - biggest gas consumer in India and it consumes the majority of imported LNG.
 CGD : 20% - The city gas distribution (CGD) sector demand for gas is rising but LNG's share is muted as end industrial consumers 
-  switch to alternative fuels such as propane.
-Power: 16% - Demand from the power sector remains weak due to the costs.
-Refinery - 9%
-Petrochemicals - 5%
+  switch to alternative fuels such as propane. Almost 97% domestic gas produced in Indiua goes to CGD due to low cost
+Power: 14% - Demand from the power sector remains weak due to the higher costs of LNG over domestic gas
+Refinery - 6.7%
+Petrochemicals - 3.3%
+remaining - 22%
 
-The GoI aims to increase the share of natural gas in India’s energy mix from 6% at present to around 15% by 2030. 
 government is targeting 30% penetration of electric by the end of 2030, but that still leaves 70% of the market that will 
   be ICE technology (ethanol blended petrol, CNG vehicles will lead)
 Last year, the CNG market was around 100,000 units in a 3 million passenger car market.
@@ -56,8 +74,11 @@ Gujarat is the highest natural gas-consuming state, with around 40% of total dom
 
 
 ------------------------------- Risk -----------------------------
-subject to heavy price regulations and global scenarios
- 
+subject to heavy price regulations - incase of domestic gas
+global demand supply mismatch can make prices volatile - incase of LNG
+LNG prices kept decreasing for last 10 yrs, barring last 2 yrs where prices abnormally increased due to global issues
+when the prices keep increasing, volumes decrease as consumers look for alternative fuel - longterm contacts can mtigate this risk
+domestic gas production may stagnate in couple of years , but hydrogen and biogas can take its place - limiting market share gains for LNG
 
 
 ------------------------------- what to look for -----------------------------

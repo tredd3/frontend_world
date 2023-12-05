@@ -9,27 +9,37 @@ highly competetive(low margins) - commodity industry(no pricing power bcoz govt 
  Expected growth of 8-10% in GDP anticipated to further drive demand for electricity
  100% household electrification under SAUBHAGAYA scheme
  Rapid urbanization and Infrastructure - 17 of 20 world’s fastest growing cities in India
- Per capita electricity consumption is expected to increase by ~40% in the next 4 years
+ Per capita electricity consumption is less than 50% of global average
+ Around 90% of the power generated in the country is transacted through the long-term PPA route while the remaining power is transacted through short-term trading mechanisms
 
-/Total Installed Power Generation Capacity in India 400 GW as of Mar 22:
-  Coal+Lignite - 210, 53%
-  Renewables(sunlight, wind, rain, tides, waves, and geothermal heat) - 105, 27% (500 GW 
+/Total Installed Power Generation Capacity in India 418 GW as of Mar 23:
+  Thermal - 57% (generate electricity by converting heat energy into electrical energy)
+     Coal+Lignite -  53% (Coal is s burned in a combustion chamber to produce heat, which is then used to convert water into steam. 
+      The steam drives turbines connected to generators, which converts this mechanical energy to electrical energy or voltage)\
+      Voltage is the "push" that makes electrons move through a conductor (like a wire), and this flow of electrons is called electricity
+      step up transformers increase this voltage and transmit it as it reduces losses 
+      then the DISCOMS use step down transformers to reduce voltage and send it to households for safe use
+     Gas - 4% (low C02 emmisions compared to Coal)
+     Biomass, such as wood pellets, agricultural residues, or organic waste, can be used as a renewable fuel source in thermal power plants
+      Biomass power plants are considered carbon-neutral, as the carbon released during combustion is part of the natural carbon cycle.
+     W2E(waste to energy) : Some thermal power plants use municipal solid waste (MSW) or industrial waste as a fuel source.
+      This approach helps in reducing the volume of waste sent to landfills.
+  Renewables(sunlight, wind, rain, tides, waves, and geothermal heat) - 125, 30% (500 GW 
   renewable energy capacity is the target for 2030)
     solar (49GW) is about 47% of the renewable capacity
     The target for Solar has since been raised to installing 300 GW by 2030.
-  Hydro(waterflow from dam/river rotates turbine of generator) - 47, 12%
+  Hydro(waterflow from dam/river rotates turbine of generator) - 47, 11%
   Nuclear - 7, 2%
-  Diesel - 1, 0.1%
-  Gas - 25, 6%
+
+/Capacity by ownership
+  Private - 51%
+  State Govt -25%
+  Central Govt - 24%
 
 /2030 Targets:
 Renewables - 50% (up from 27%)
 Gas - 15% (up from 6%)
 
-/Capacity by ownership
-  Central Govt - 25%
-  State Govt -26%
-  Private - 49%
 
 /Long-term PPA (power-purchase agreements up to 25yrs) - 86% (costly compared to exchange buy hence No new long-term PPAs signed 
   in the last 5 years in thermal power)
