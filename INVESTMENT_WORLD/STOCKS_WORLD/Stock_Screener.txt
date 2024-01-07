@@ -251,6 +251,7 @@ check last 10yrs CFO usage in Tijori
       3)process optimisation and innovation - using technology and digitistion
       4)captive power plants/long term PPA (for energy intensive businesses)
       5)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
+      6)Operating Leverage - bulk production (Technology, Telecom, Aviation, Financials(including AMCs, Exchanges))
       NOTE: focusing on efficiency will increase profitability of the firm in the short term, but a company cannot become efficient 
       after a certain point(even though it can maintain that efficiency) hence for the profitability to sustain in the longterm this
       needs to be augumented by Demand/consumption led growth
