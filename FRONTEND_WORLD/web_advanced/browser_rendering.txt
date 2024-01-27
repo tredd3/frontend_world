@@ -1,0 +1,36 @@
+//Server side rendering process: url is hit -> fetch data -> render components and send html -> load js -> hydrate (adding interaction)
+before react 18 this process takes place for all components (i.e entire app together)
+after react 18 this process takes place for all components together (except for suspense enabled components) 
+for suspense enabled components this process happens asynchronously
+
+Server side rendering pros:
+* Search engines can crawl the site for better SEO as the content is already present.
+* The initial page load is faster (great user experience)
+* Great for static sites. (content and ecommerce sites)
+* Used for campaigns and marketting as the content is controllable from server
+
+Server-side cons:
+* Frequent server requests.
+* Full page reloads (parts of page load is not possible)
+https://www.youtube.com/watch?v=pj5N-Khihgc&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=5`
+* fetch everything before showing anything
+problem: if any component of the page takes a lot of time to fetch and process data, entire page render stops till then
+soln: in React 18, wrap the heavy component in suspense and give a fallback which is shown until heavy component is loaded
+meanwhile when it is ready react renders and sends it to client using the concept of streaming HTML
+Once heavy components is loaded it gets hydrated asynchronously
+* load everything before hydrate anything
+soln: in React 18, wrap the heavy component in suspense it tells react that we don't want to block our pages from streaming HTML,
+   also not block hydration of other components  
+* hydrate everything before interactiing with anything
+soln: As part of react 18, part of the application user is interested gets hydrated first - as react pauses hydrating other 
+ components that are not clicked (possible due to concurrency feature)
+
+//Client side rendering process: get html -> load js -> fetch data -> render components -> interactive
+Client-side pros:
+* get the skeleton from server and dynamically render content using react/ js
+* Fast website rendering after the initial load.
+
+Client-side cons:
+* Low SEO if not implemented correctly. (Use metatags)
+* user might see blank page - page load might require more time bcoz of use of  an external library or large js bundle size or 
+low internet speed.

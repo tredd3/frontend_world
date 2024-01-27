@@ -99,13 +99,66 @@ if the tenant is a family then they will have multiple cashflow
 Residence (independent houses + appartments)
 Commercial (office + establishments etc) - preferred bcoz of more rental yield
 
-REIT - Real estate investment trust
-traded on exchange - high liquidity
-SEBI registered
-80% manadatory in commercial real estate
-manadatory distribution of rental income across all unit shareholders
-capital appreciation when land prices appreciate
+REIT - Real estate investment trust - SEBI registered (buy only if rental income is your goal)
+/Real Estate Investment Trusts (REITs) are financial instruments that allow investors to invest in income-generating 
+  real estate assets without having to directly own or manage the properties. 
+/Can be a potential replacement to FDs
+/Like mutual funds, REITs combine the money of several investors.
+/80% portfolio must be income generating , rest can be in under construction etc
+/manadatory distribution of 90% taxable income (rental income - expenses) across all unit shareholders
+/dividend distribution frequency - 4 times in a year
+/capital appreciation when land prices appreciate (but they hardly sell their properties)
+/tax on dividend : tax-free (as all the 3 listed REITs invest via SPVs)
+tax on capital gains (i.e units sold) : LTCG (> 3 yrs) - 10%, STCG (< 3 yrs) - 15%
+/SEBI has proposed the concept of Micro REITs which will help you own a fractional part of a large property with 
+a minimum investment amount of ₹10 lakh. you can own a small share of a physical building
+/REITs industry in India is at a pretty nascent stage 
+/traded on exchange - high liquidity
 
+1)Embassy REIT (office parks)
+fortune 500 - 47% clients (240 bluechip companies)
+Bangalore - 75%
+Mumbai 10%
+Pune 9%
+NCR 6%
+
+commercial  office - 70%
+renewable - 3.6%
+Hospitality - 11%
+Others - 16%
+
+property - 45MSFT (35M constructed, 7M under construction )
+Rent 86 - 172 per sft
+EV/EBITDA - 16
+
+2)Brookefield REIT (office parks)
+134 clients
+Noida 34%
+Gurugram 30%
+Kolkata 15%
+Mumbai 16%
+Others 4%
+
+property - 25MSFT (21M constructed, 4M under construction )
+Rent 82 per sft
+EV/EBITDA - 19
+
+3)Mindspace REIT (office parks)
+10 properties 
+Hyderabad 37%
+Mumbai 36%
+Pune 20%
+Chennai 4%
+
+95% rental4.% power distribution
+property - 32MSFT (26M constructed, 6M under construction )
+Rent 82 per sft
+EV/EBITDA - 15
+
+//how do they do business :
+construct multiple properties and give them on lease
+rental income goes to trust
+rental income - costs(emlpoyee + operation + maintenance costs) = dividend to shareholders
 
 ------------- Calculations ------------
 1 Square yard = 1 gajam = 9sft - 25000

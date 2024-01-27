@@ -249,6 +249,7 @@ check last 10yrs CFO usage in Tijori
       1)raw material cost reduction - backward integration or bulk purchase (check GPM trend)
       2)logistics cost reduction - putting plants near customer(B2B)/raw material locations
       3)process optimisation and innovation - using technology and digitistion
+      focusing on costs, higher efficiency of operations(produce more volumes in less time), delivery timeliness and quality.
       4)captive power plants/long term PPA (for energy intensive businesses)
       5)Reduce debt - look at D/E trend over 10yrs and Debt/Profit should be less than 5
       6)Operating Leverage - bulk production (Technology, Telecom, Aviation, Financials(including AMCs, Exchanges))

@@ -1,6 +1,8 @@
 //1 browser window has multiple tabs
 
 //memory limit per tab -  512MB for 32-bit and 1.4GB for 64-bit systems
+browser allocates memory to each tab from the pool of available memory for entire chrome window
+if a browser tab exceeds memory limit due to memory limit due to memory leakage then that tab is freezed but window won't be crashed
 
 //web socket connections limit for chrome browser:
 max of 30 per host, 256 overall 

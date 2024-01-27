@@ -83,24 +83,6 @@ Whenever you visit a website, your browser makes a request to the server that co
 * 		and how optimized the website is, to name a few
 isomorphism address the issues of SEO, performance, and maintainability
 
-Server side rendering pros:
-* Search engines can crawl the site for better SEO as the content is already present.
-* The initial page load is faster and aft
-* Great for static sites.
-* Used for campaigns and marketting as the content is controllable from server
-Server-side cons:
-* Frequent server requests.
-* Full page reloads.
-* Non-rich site interactions.
-
-Client-side pros:
-* get the skeleton from server and dynamically render content using react/ js
-* Fast website rendering after the initial load.
-
-Client-side cons:
-* Low SEO if not implemented correctly. (Use metatags)
-* Initial load might require more time bcoz of use of  an external library.
-
 
 //web components - suite of different technologies allowing you to create reusable custom elements 
 web components are imperative(u explicitly iterate on DOM) but react components are declarative
