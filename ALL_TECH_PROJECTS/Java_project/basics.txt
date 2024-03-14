@@ -25,8 +25,9 @@ large programs into smaller building blocks that are easier to understand and re
 //How Java Code Gets Executed
 compilation _ execution
 The Java compiler takes Java code and compiles it down to Java Bytecode which is a cross-platform format(platform independent).
-When we run Java applications, Java Virtual Machine (JVM) gets loaded in the memory. It takes our bytecode as the input and 
-translates it to the native code for the underlying operating system(Windows/Mac/Linux etc). 
+When we run Java applications, Java Virtual Machine (JVM) gets loaded in the memory. 
+This bytecode is then packaged into a JAR file along with any other resources (such as class files, images, configuration files, etc.) needed for the application.
+JVM takes our bytecode/jar file as the input and translates it to the native code for the underlying operating system(Windows/Mac/Linux etc). 
 There are various implementations of Java Virtual Machine for almost  all operating systems. 
 javac <java_file>
 e.g: javac Main.java => results in Main.class (which contains java byte code)
@@ -37,10 +38,11 @@ java -jar pack.jar //running a jar file using JVM
 
 
 //What is a Jar file https://www.geeksforgeeks.org/jar-files-java/
-JAR file is a file format based on the popular ZIP file format and is used for aggregating many class files and resources into one,
-to distribute application software or libraries on the Java platform. 
+The JAR file (ZIP format) serves as a container for the compiled bytecode and resources, making it easy to distribute and run Java 
+applications or libraries across different environments.
 A JAR file is essentially a zip file that contains an optional META-INF directory. A JAR file can be created by the 
 command-line jar tool, or by using the java.util.jar API in the Java platform.
+When you run a Java application from a JAR file, the Java Virtual Machine (JVM) interprets and executes the bytecode contained within the JAR file.
 jar cf <jarfilename> <package_name> // cretae a jar file
 jar tf jarfilename // view a jar file content
 java -jar pack.jar //running a jar file using JVM

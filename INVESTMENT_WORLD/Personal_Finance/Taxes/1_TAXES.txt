@@ -1,6 +1,244 @@
+*************** BASICS *****************
+//HUF
+similar to having extra member in a family - All the income tax benefits, deductions apply in the same manner as individuals
+we can set up one HUF per family
+one member can be part of 2 HUFs - his own with his spouse and kids and another with his parents
+HUF has a separate PAN
+HUF once formed can't be dissolved
+All Income In HUF belongs to everyone in the family
+When to form an HUF and take tax advantage:
+1)Lot of income from other sources and all family members are already under 30% Tax bracket
+In this case we can't have assets under their name as there will be no tax benefit
+2)Parental property sale and don't know whose PAN to use
+3)Family Business can be registered under HUF
+4)Family Investments can be made in the name of HUF like physical and Financial assets 
+5)Estate Planning: HUF can be used as an effective tool for estate planning and wealth transfer within the family. 
+Assets can be transferred to the HUF, and subsequent income earned from those assets can be taxed at potentially lower rates 
+compared to individual tax rates.
+
+
+//Income scope based on Resident Status :
+Resident - Global income(accrued + recieved) is taxable (which includes indian income as well)
+    stayed in india for more than 182 days
+    e.g: 
+    Global income(accrued): A resident went to US for onsit for 3 months and recieved salary (it is taxable in India)
+    Global income(recieved): a resident went to Japan, his uncle gave him some gift worth 1cr (it is taxable in India)
+Non Resident - Only indian income is taxable
+    Indian income  = Income accrued(earned) in india OR Income recieved in india (say Gift recieved in india or you worked in 
+    foreign for indian firm for > 182 days but recieved salary in India)
+
+------------- Income Heads -------------
+1) Salary Income :
+- salaries (for residents/non-residents recieved in India, for resident earned outside india,  )
+- includes pensions, fees, commission, allowances, Perquisites
+- Allowances (not exempt from tax unless specified) - to meet certain basic needs of an employee
+HRA, LTA, DA, remote location, uniform allowance , children education, meal , conveyance allowance
+LTA - 2 journeys in block of 4 yrs block
+blocks are decided by govt (currently it is 2022-2025)
+if you don't avail LTA in the first three years (2018-2020), you can carry forward the LTA to the fourth year (2021) and 
+  claim it along with the LTA entitlement for that year.
+exemption only on fare (no lodging, boarding, conveyance etc)
+employee travelling with spouse, parents, dependent brothers and sisters etc
+Note : These allownaces has to be part of the salary else we can't claim the deduction
+- Perquisites (mostly exempt from tax)
+exempt from tax in the hands of employees - car, house, free gas and electricity, medicals, Holidays, maid, watchman, meals etc
+taxable - ESOPs 
+- ESOP Taxation 
+Perquisite Tax: Paid in the year of exercise based on the difference between the FMV(fair market value) on the date of exercise 
+   and the exercise price, taxed as part of your salary income.
+LTCG Tax: Paid when you sell the shares after holding them for more than 1 year, based on the difference between the sale 
+   proceeds and the FMV on the date of exercise, taxed at the LTCG tax rate.
+- profits in lieu of salary
+gratuity from employment (exempt till 20 lakhs) - after working more than 5 years
+leave encashment
+voluntary retirement
+
+
+2) Income from House Property :
+- Types of House property: 
+Self occupied
+Rented - independent, flat, commercial property
+- Deductions allowed against House property Income
+30% of Rental income earned as standard deduction (for maintenance)
+there is no upper limit on the deduction for interest payment on rented house
+Net income = Total Rent - 30% deduction - interest paid 
+Note :
+Net income is added to total income and taxed at slab rate
+if the Net imcome here is -ve , it can be setoff with any income head up to 2 lakhs, rest can be carry forwarded
+
+
+3) Income from Business or Profession:
+- Profession : self-employment, freelancing ,consultancy
+specified profession - professions mentioned in IT act
+non specified profession - any other profession apart from  
+Actual - revenue reciepts - expenses (employee salaries , courses, rent, depreciation , stationary, fuel) = Income 
+Presumptive - if reciepts up to 50 Lakhs, 50% of the reciepts should be declared as income, no need to declare expenses
+- Business (involves risk)
+F&O (non-speculative), Intraday (speculative)
+Actual - declare costs and pay tax on gross profit (revenue - costs)
+Presumptive - for sales less than 2 cr, we can choose to opt this scheme and not declare any costs and pay directly 8% of sales as tax
+Note:
+Net income is added to total income and taxed at slab rate
+if the Net imcome here is -ve , it CAN'T be setoff with any income head but can be carry forwarded
+
+
+4) Capital Gains : sale of Capital assets (not all assets)
+Profits or gains arising from the sale or transfer of capital assets 
+Securities (stocks, mutual funds, bonds)
+Real estate (land, house)
+Jewellery : gold
+Other Capital assets : patent right, trademarks, copyrights, license, franchisee  
+Capital gains are further classified into STCG and long-term capital gains (LTCG), based on the holding period of the asset.
+Capital losses can be setoff with ONLY capital gains income head and not with any other income head
+
+
+5) Income from Other Sources : As per Slab Rate except casual income (which is taxed flat at 30%)
+Any income that does not fall under the above heads, such as interest income from savings accounts, fixed deposits, bonds, dividends, 
+family pension, prize money, gifts etc.
+casual income : lottery winnings, gambling, crypto (30% Tax)
+Family pension (exempt from tax) - recieved by dependents after death of main pensioner
+Note: if business activity is not done frequently then it falls under other sources
+
+
+6) Income from Agriculture :
+Income derived from agricultural activities, including income from farming, sale of agricultural produce, 
+rent from agricultural land, etc. However, agricultural income is generally exempt from income tax in India.
+
+
+------------- Tax break -------------
+1)Exemption: Income that is not taxable (section 10 of IT contains list of exempt income)
+e.g: Agri income, Gratuity, some % of Pension received by family members of Armed Forces Personnel , HRA,
+LTA, Transport Allowance 
+
+2)Deduction: Gross Total income decreases 
+e.g: standard deduction , deduction on house property , sections mentioned below
+/Section 80C: 1.5 Lakhs Limit
+PF, PPF, VPF, ELSS, Life Insurance Premiums, NSC, Tuition fees paid for children's education, home loan principal payment
+PF Employee's Contribution: The employee's contribution to PF, up to 12% of the basic salary, is eligible for deduction under 
+  Section 80C of the Income Tax Act, subject to a maximum limit of Rs. 1.5 lakh per financial year.
+PF Employer's Contribution: The employer's contribution to PF exceeding 12% of the employee's salary is considered a 
+  perquisite and is taxable in the hands of the employee. However, the amount of employer's contribution up to 12% of 
+  the employee's salary is not taxable, i.e it is exempt
+LIC premium for spouse and kids is also eligible - min (10% sum assured, premium paid)
+ELSS SIPs - each SIP has 3yr lock-in period
+The interest earned on a tax saver fixed deposit (FD) is taxable 
+
+/Section 80CCC: deductions on premiums paid towards certain annuity plans or pension funds.
+
+/Section 80CCD: 
+(1) - contributions made by an individual towards certain pension schemes, such as the National Pension System (NPS) or Atal Pension Yojana (APY).
+     The maximum deduction allowed under Section 80CCD(1) is ₹1.5 lakh, which is part of the overall limit under Section 80C.
+(1B) - 50,000 over and above the 1.5 lakh limit of 80C
+(2) - There is no specific monetary limit mentioned under this subsection, but the contribution should not exceed 10% of 
+ the employee's salary (basic salary plus dearness allowance)
+ Employer contributions to NPS accounts are considered part of the overall compensation package offered to employees. 
+ While these contributions are not taxable for employees, they are considered deductible business expenses for employers
+
+Note: deductions under Section 80CCC + Sections 80C + 80CCD (1) cannot exceed the overall limit of ₹1.5 lakh per FY. 
+
+/Section 80D: 
+Rs. 25,000 for health insurance premium paid for self, spouse, and dependent children.
+Rs. 50,000 for  (health insurance premium paid for parents + health expense(if no insurance) + health checkup) (above 60 years).
+Additional deduction of Rs. 25,000 for health insurance premium paid for parents (below 60 years).
+Additional deduction of Rs. 50,000 for (health insurance premium paid for parents + health expense(if no insurance) + health checkup) (above 60 years).
+health checkup expenses up to 5000 is also incuded in the limit of individual as well as for parents
+e.g: if 10000 is paid for health expenses and 15,000 for insurance premium
+ Total deductible amount = 5k(health expense limit) + 15k(premium) = 20K(overall limit)
+
+/Section 80E: No limit
+This section allows deductions for interest paid on education loans for higher studies either in india or abroad.
+Loan can be taken for self, spouse and children
+
+/Section 80G: 
+This section allows deductions for donations made to specified funds, charities, and institutions. 
+The deduction amount varies based on the type of donation and the recipient organization.
+
+/Section 24(b): This section allows deductions for interest paid on home loan for a self-occupied or let-out property.
+ For a self-occupied property, the maximum deduction allowed is up to ₹2 lakh per financial year.
+ If the property is let-out (rented out), there is no upper limit on the deduction for interest payment.
+ If the interest is more than 2 lalkh , then you should have taken a joint home loan with another individual, 
+  each co-borrower can claim a deduction for the interest paid, with the total interest being <= 4 lakhs
+  Scenario 1:
+    if loan is present on both own and rented , then up to 2 lakhs for own house can be claimed +  full interest paid on 
+    rental home loan can be claimed without any limit
+  Scenario 2:
+    person lives in city A for rent but pays home loan for the home present in city B , then he can claim both HRA and section 24(b)
+
+
+/Section 80TTA: 10,000 max limit
+These sections allow deductions for interest earned on savings accounts only (not FDs and RDs)
+interest income earned from savings accounts with banks, cooperative banks, and post offices
+HUFs, individuals (including senior citizens can claim) this deduction
+
+/Section 80TTB: 50,000 limit
+Senior citizens are eligible for a deduction of up to ₹50,000 on interest income earned from deposits such as 
+ fixed deposits (FDs), recurring deposits (RDs), and savings accounts.
+
+/Section 80GGA/80GGC: These sections allow deductions for donations made for scientific research or rural development (80GGA) 
+ and contributions to political parties (80GGC).
+
+/Section 80RRB/80QQB: These sections allow deductions for royalty income of authors, artists, and musicians (80RRB/80QQB) 
+
+/Section 80DDB: This section allows deductions for expenses incurred on medical treatment of specified diseases for self or dependents.
+Maximum Deduction: The maximum deduction allowed under this section is up to Rs. 40,000. For senior citizens (individuals aged 
+ 60 years or above), the maximum deduction is increased to Rs. 1,00,000.
+Dependent Relative: In the case of a dependent relative, the maximum deduction remains the same, irrespective of whether the taxpayer is a senior citizen or not.
+
+
+3)Rebate: As an incentive Govt tells us not to pay certain amount of outstanding tax then it is tax rebate
+
+------------- Payment of Tax Liability -------------
+1)TDS (tax deduction at source)
+TDS is the tax deducted by the payer (also known as the deductor) from the income of the payee (also known as the deductee) 
+at the time of making certain payments such as salary, interest, rent, commission, professional fees, etc.
+2)TCS (tax collection at source)
+TCS is the tax collected by the seller from the buyer at the time of sale of certain specified goods or services.
+3)Advance Tax - Govt needs this for maintaing day to day operations and timely salary payment to Govt employees
+In case TDS is not deducted like rental income , capital gains, business income, then we need to pay Advance tax by certain due dates
+Or out of Total tax liability , only part of it is TDS then rest has to be paid as Advance tax
+So basically we need to extrapolate the tax for the whole year and pay as below: 
+You as an individual are required to pay 15% of the total annual tax tax for that financial year 
+by 15th June, 45% by 15th Sept, 75% by 15th Dec, and 100% by 15th March. 
+Not paying would entail a penalty of annualized interest of around 12% for the period by which it was delayed.
+4)Self Asessment Tax
+Tax paid to Govt while filing IT returns (ideally this is the tax that you are supposed to pay as advance tax in the previous FY)
+4)Regular Asessment Tax 
+after ITR is processed , additional tax you need to pay is called Regular Asessment Tax 
+5)Interest to be paid due to below reasons: 1% per month
+delayed ITR filing
+delay in payment of advance tax - 3% interest on unpaid amount
+non payment of advance tax - 4% interest on unpaid amount
+    you must pay at least 90% of the total taxes as advance tax by 31st March. Failure to make advance tax payments will result in 
+    an interest @ 1% per month on the unpaid amount (so from April to july , i.e ITR filing month - there are 4 months * 1% =4%)
+claimimg excess refund
+assesse in default
+
+------------- ITR filing -------------
+Late ITR filing fees (even if the delay is 1 day) :
+gross total < 2.5 lakhs  - NIL (as there is no need to file ITR)
+gross total > 2.5 lakhs and net total income < 5 Lakhs  - 1000 (but need to file ITR)
+> 5 Lakhs net total income - 5000 (obviously need to file ITR)
+
+//ITRs Types
+Regular return : ITR filed before due date (Timeline for Regular Return is July 31st)
+Belated Return : ITR filed after due date
+Revised Return : if Regular/Belated Return is filed and you think that something is missing then you can file Revised Return
+Timeline for Revised Return is Dec 31st
+
+ITR 1:
+Applicable for individuals being a resident (other than not ordinarily resident) having total income up to Rs. 50 lakhs, 
+having Income from Salaries, one house property, other sources (Interest, etc.), and agricultural income up to Rs. 5,000.
+ITR 2: When you have other sources of income including capital gains or just capital gains
+ITR 3: When you have business income (Intraday , F&O) or professional income and capital gains 
+
+
 *************** STOCKS TAXATION *****************
 tax on the sale of shares (capital gains tax) in India is not automatically deducted by the broker at the time of the sale. 
 Investors are generally responsible for calculating and paying their capital gains tax as per the applicable tax laws.
+Net P&L = Gross P&L - charges
+Net P&L(for tax purpose) = Gross P&L - charges + STT 
+except STT(securities transaction tax) every other charges can be included in charges while calculating Net P&L while filing ITR
+Since STT is paid to Govt, we can't claim it as expense
 
 Here's a brief overview of how capital gains tax works for shares in India:
 1) Short-Term Capital Gains (STCG): If you sell shares within one year of purchase, the gains are considered short-term. 
@@ -16,24 +254,27 @@ to 8 financial years.
 2) Long-Term Capital Gains (LTCG): If you sell shares after holding them for more than one year, the gains are considered long-term.
  As of 2023, LTCG on equity shares exceeding Rs. 1 lakh is taxed at 10%, without the benefit of indexation.
 
+//Note:
+1)Tax Audit if equity transactions exceed 2cr per FY per per account
+2)If the transactions (buy/sells) are executed through off-market transfer where shares are transferred from one person to another 
+via delivery instruction booklet and not via a recognized exchange by paying STT
+then LTCG is 20% in case of both listed and non-listed stocks (Listed are those which trade on recognized exchanges). 
+Also STCG is as per slab rate
+In both cases STT is not paid, but you end up paying higher capital gains tax.
+3)Note that a gift from a relative through DIS slip is not considered as a transaction and hence not capital gain. 
+It is important that gift not be treated as transfer, and relative could be (i) spouse of the individual (ii) brother or 
+sister of the individual (iii) brother or sister of the spouse of the individual(iv) brother or sister of either of the 
+parents of the individual (v) any lineal ascendant or descendant of the individual(vi) any lineal ascendant or descendant
+ of the spouse of the individual (vii) spouse of the person referred to in clauses (ii) to (vi)
+
 
 ********** REAL Estate Taxation **********
 X Gifts property to Y after holding for 10 yrs, but Y sold this asset in just 45 days
 then LTCG will be applicable as holding period is considered to be 10 yrs + 45 days
 similarly, cost of acquisition is also equal to cost of acquistion  by X 
 
-********** Gold Taxation **********
 
-
-
-********** Mutual Fund Taxation **********
-equity oriented MFs - > 65% AUM in equity
-debt MFs - < 65% AUM in equity
-
-
-********** BITCOIN Taxation **********
-
-
+********** CAPITAL GAINS Taxation **********
 //Capital asset : every asset is a capital except except the below
 Rural agriculture land
 personal effect (mobile, watch, laptop , vehicle etc)
@@ -52,16 +293,34 @@ Firm to Company conversion
 //Capital Gain Formula
 Short term capital gains = sales - cost related to transfer(brokerage) - cost of acquisition - cost of improvement
 Long term capital gains = sales - cost related to transfer(brokerage) - cost of acquisition - cost of improvement
+Note: 
+for few capital assets like Real estate, Gold there is indexation benefit in longterm i.e cost of acquisition inflation adjusted
+i.e govt says we want to tax real returns (nominal returns - inflation) not nominal returns from a capital asset
 
 
-********** Tax saving and Compliances **********
+********** GIFT Taxation **********
+Gift from relatives is exempt: Relatives include spouse, bother, sister, brother-in-law, sister-in-law, 
+brother or sister of either of the parents, lineal ascendant or lineal descendant of individual or spouse
+any Gift including - shares, real estate , gold, cash etc
+At a time cash transferred should be less than 2 lakhs to be on safer side 
+from non-relatives : only on occassion of marriage, Gifts are exempted
+
+
+********** Clubbing of Income **********
+Transferred money or asset to Spouse, Minor, HUF and the returns made on the asset/money is taxed at the hands of the transferred
+So instead of transferring it to Spouse/HUF directly, we should tranfer it via relatives as mentioned above - to save tax
+Note: Money/Asset transferred to spouse is not taxable as it is a Gift, but returns made via asset is taxable
+DONT Transfer anything to Minor, as it is taxable in the hands of parents irrespective of who transferred it
+
+
+***************** Tax saving and Compliances ******************
 Brahmastra : Gift/Will has ZERO tax 
 but when the capital asset is recieved as a gift from non-relatives , Gift reciever should pay the tax (unless he recieved it for his marriage)
 1)Capital gain harvesting : sell 1 lakh worth shares in every portfolio and buy the next day, i.e per portfolio 10k tax can be saved in 1 yr
 2)Capital loss harvesting: Offsetting capital losses with Capital gains
-losses can be carry forwarded to 8 years and can be offset with capital gains in future
-STCL can offset STCG and LTCG
-LTCL can only offset LTCG
+losses can be carry forwarded to 8 years and can be setoff with capital gains in future
+STCL can setoff STCG and LTCG
+LTCL can only setoff LTCG
 3)Indexation benefits for few asset classes
 4)Take Loan on Assets instead of selling the Assets
 5)Exemption: Basic exemption limit of 3 lakhs applicable for STCG nad LTCG (useful for those with no salary income)
@@ -74,8 +333,11 @@ As per section 54F of IT act:
 The taxpayer should utilize the net consideration from the sale of the original asset to purchase or construct a residential house.
 The new residential house must be purchased one year before or two years after the date of transfer of the original asset. 
 In the case of construction, it should be completed within three years from the date of transfer.
-The taxpayer should not own more than one residential house (in addition to the new one) on the date of transfer of the original asset.
+The taxpayer should not own more than one residential house on the date of transfer of the original asset.
 i.e The exemption is available even if the taxpayer already owns a single (but not more than) residential house other than the new one 
+Tip: once via Stocks/Gold is transferred via Gift -> sell and re-invest that money in real estate in the area which you reside, 
+then stay in that house and pay rent to the person (father/mother) -> you can claim HRA, but they need to disclose it as an income for 
+your parents ITR -> then use HUF for other family Investments
 
 Tip:  Gift shares to those who don't have house under their name and the beneficiary can reddem it and buy house on his/her name
 Exemption for Relatives: If you transfer shares as a gift to specified relatives (like parents, spouse, siblings, and children), 

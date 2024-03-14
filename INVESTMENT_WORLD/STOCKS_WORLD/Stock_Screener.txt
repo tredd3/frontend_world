@@ -143,20 +143,23 @@ Note:
  check GPM trend
  This will happen only when :
    i)The product or service is unique and there is hardly any substitute
-   ii)NO bargaining power of suppliers: suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
-     Bargining power of suppliers(low or -ve accounts payable) - critical parts/services suppliers, ONLY producer/supplier of certain products
+      /if a company in a highly competettive business (e-commerce, airlines) , then competetiors keep decreasing price to attract
+       customers and gain business - so customers have lot of substitutes to choose from
+      /if the product is commoditised (then people always look for low price as the product is similar across producers) 
+   ii)NO bargaining power of suppliers: understand how easy it is for suppliers to drive prices up
+     suppliers shouldn't have more bargaining power, if they have then better to own the supplier stocks
+     Bargining power of suppliers(low or -ve accounts payable) -
+      critical parts/services suppliers, ONLY producer/supplier of certain products, Switching costs
      Bargining power of company(-ve working capital) - bulk and recurring buy, company with MOATS (as the demand is sustainable)
     Note: Account payables is high meaning company having bargaining power
-   iii)NO bargaining power of buyers :
+   iii)NO bargaining power of buyers : understand how easy it is for buyers to drive prices down
      Bargaining power of buyers(higher inventory days as people always look for bargain in other places, high account recievables as
      the company needs to give the product on credit ) exists if
-     client base is limited, especially true for B2B suppliers 
-     B2B players deliver products in bulk hence customers expect discounts
-     companies doing business with govt doesn't have pricing power because they need to bid for orders at lesser prices
-     OR if a company in a highly competettive business (e-commerce, airlines) , then competetiors keep decreasing price to attract
-       customers and gain business
-     OR if the product is commoditised (then people always look for low price as the product is similar across producers) 
-     OR low income household as customer base, with product price greater than 20% of their income (relaxo, amrutanjan)
+     /client base is limited, especially true for B2B suppliers 
+     /client base is large but few large customers contribute a large chunk to revenue
+     /B2B players deliver products in bulk hence customers expect discounts
+     /companies doing business with govt doesn't have pricing power because they need to bid for orders at lesser prices
+     /low income household as customer base, with product price greater than 20% of their income (relaxo, amrutanjan)
 
   Note: if the company doesn't have Pricing power (like commodity producers, Govt entities, Govt controlled pricing 
   Contractors/bidding companies) and expenses keep increasing YOY, it will only lead the company to incremental losses

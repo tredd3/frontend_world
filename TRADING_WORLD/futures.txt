@@ -14,20 +14,17 @@ Futures:
    For e.g:  Margin = 18% of contract value (why 18% bcoz exchange/broker thinks the asset value can’t go  below 18% in a given day and they stop trading if it goes below say 15%(lower circuit) and go for a margin  call )
    Note: The margins requirement for both short and long trades are similar
    Initial Margin = span margin + exposure margin (this is collected at the time of entering a position)
-    SPAN margin is monitored and collected at the time of placing an order and is revised by 
-       the exchanges throughout the day. 
-    Exposure margin is charged over and above SPAN margin by the exchanges to cover risks that 
-       may not be covered by the SPAN margin.
+    SPAN margin is monitored and collected at the time of placing an order and is revised by the exchanges throughout the day. 
+    Exposure margin is charged over and above SPAN margin by the exchanges to cover risks that may not be covered by the SPAN margin.
    Why margin? : to compensate the counterparty incase buyer/seller  defaults
    Margin requirement keeps changing multiple times in a day based on Volatility/Risk of the entire portfolio
    More Volatility/Risk more margin needed 
-   If margin is not maintained with the broker - broker will sell/square off your position 
+   If margin is not maintained with the broker - margin call will happen and if you don't respond broker can sell/square off your position 
    Margin gets unblocked if position is squared off
-   Note: risk reduces margin reduces ( For e.g: margin goes down if you have both long & short positions
-       on contracts )
+   Note: risk reduces margin reduces ( For e.g: margin goes down if you have both long & short positions on contracts )
 
    //contract types - 3 expiry contacts in F/O segment
-  The contract belonging to the current month is called ‘Current Month Contract’ /near month contract
+  The contract belonging to the current month is called ‘Current Month Contract’ /near month contract/prompt contract
    near month contract - is the active contract with the shortest time to maturity
   the next month contract is called ‘Mid Month’/next month contract
   the 3rd one is called “Far Month Contract.’ 
@@ -50,34 +47,41 @@ Profit & loss graph is linear
  If the future contract is held on the date of expiry , then settlement happens
  Settlement price - closing price of future on expiry date
   p&l = lot size * ( Settlement price - avg purchase price)
- Physical settlement:
-   As we move closer to settlement date/expiry date the margin requirement for buyer keeps increasing 
-   bcoz he needs to honour the contract
+ Physical settlement :
+   As we move closer to settlement date/expiry date the margin requirement for buyer keeps increasing bcoz he needs to honour the contract
    Also seller is supposed to hold the actual underlying (commodity/stock etc)
- Cash settlement:
-    Now if the buyer is at profit, seller margin is debited, buyer trading account is credited
-    If buyer is at loss i.e seller is at profit, buyer margin is debited, seller trading account is credited
+ Cash settlement :
+      Now if the buyer is at profit, seller margin is debited, buyer trading account is credited
+      If buyer is at loss i.e seller is at profit, buyer margin is debited, seller trading account is credited
     Intra day - buy & sell on the day
-       MTM(mark to market) is calculated on (Avg price - last traded price)* lots
+       MTM(mark to market) is calculated on (Avg buy/sell price - last close price)* lots
      Overnight - buy , hold for multiple days and sell
        MTM(mark to market) is calculated on a daily basis and gets credited and debited from the trading  
        account  But ultimately it burns down to the formula used in intraday
        Reason for daily MTM in overnight - futures can be sold before expiry date hence daily settlement
        clears  complication
 
-//open interest 
+
+//Open interest - Abnormally high OI indicates high leverage
 Open interest refers to the total number of outstanding derivative contracts that have not been settled. 
 It is carry forwarded till the expiry date based on positions taken/exited by the traders
 OI increases when new contracts are added. OI decreases when contracts are squared off.
 OI does not change when contracts are transferred from one party to another.
-Square off/sell/exit a position : transfer the contract to someone else (but this doesn’t close the contract)or  close out the contact.
+Square off/sell/exit a position : transfer the contract to someone else (but this doesn’t close the contract)or close out the contact.
 Close out : taking out an equal but opposite contract to your existing one.
- For e.g: To close out of a long position you would take a short position with the same future price that 
-  You bought. In other words if a person is both buyer & a seller of the contract then the contract itself is 
-    closed or removed from the exchange
-Abnormally high OI indicates high leverage
+ For e.g: To close out of a long position you would take a short position with the same future price that You bought and viceversa
+    //if a long trader squares of his position then contract close out might or might not happen
+    case 1: if a long trader squares off and short trader with that particular contract buys it then both members 
+    positions are squared off and the contract itself is closed or removed from the exchange and OI DECREASES, Volume increases
+    case 2: if a long trader squares off and a trader short on other contract buys it or a trader long on the contract buys it
+      then your position is squared off but the contract is not closed out and here OI REMIANS SAME, Volume increases
 
-//volume
+    //if a short trader squares of his position then contract close will 100% happen
+    case 1: if a short trader is willing to go long for the contracts which he has shorted and the long trader is willing to go
+      short then both members positions are squared off and the contract itself is closed or removed from the exchange and OI DECREASES, Volume increases
+
+
+//Volume
 No of transactions taken place per day
 Always start with zero every day
 Transactions always increase in a given day - bcoz both opening & closing contracts contribute to volume
@@ -103,15 +107,12 @@ It depends on security and the liquidity
 What is roll over?
   Traders roll over futures contracts to switch from the front month contract that is close to expiration 
       to another contract in a further-out month. 
-  The roll involves selling the front-month contract already held to buy a similar contract but with longer
-      time to maturity.
+  The roll involves selling the front-month contract already held to buy a similar contract but with longer time to maturity.
 
 Why roll over?
-    They are rolled over to a different month to avoid the costs and obligations associated with settlement of    
-        the contracts physically. 
+    They are rolled over to a different month to avoid the costs and obligations associated with physical settlement
     Traders will roll over futures contracts that are about to expire to a longer-dated contract in order to
         maintain the same position following expiry.
-
 
  
 

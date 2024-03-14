@@ -80,6 +80,11 @@ first checkout a branch and then run the rebase command with the name of the bra
 git checkout feature
 git rebase develop/master (provided ur feature branch is cut out from it)
 
+//renaming a branch
+git branch -m <newname> //To rename the current branch:
+git branch -m <oldname> <newname> //To rename a branch while pointed to any branch:
+git push origin -u <newname> //To push the local branch and reset the upstream branch
+git push origin --delete <oldname> //To delete the remote branch
 
 //gitignore existing directory
 since existing directory is already cached in git we need to remove that
